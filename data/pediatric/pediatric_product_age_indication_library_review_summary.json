@@ -1,0 +1,24 @@
+{
+  "total_products": 910,
+  "priority_counts": {
+    "P1_direct_workbook_peds_row": 11,
+    "P1_same_generic_reference": 15,
+    "P2_calc_ready_needs_verified_target": 89,
+    "P3_form_based_age_gate_only": 686,
+    "P4_no_current_peds_support": 109
+  },
+  "status_counts": {
+    "auto_mapped_from_same_generic_reference": 20,
+    "reference_exists_but_not_parseable": 34,
+    "calculator_ready_manual_target_needed": 91,
+    "no_pediatric_target_found": 765
+  },
+  "direct_workbook_peds_rows_products": 11,
+  "inferred_age_gate_products": 770,
+  "blank_verified_age_fields": 910,
+  "notes": [
+    "This is a row-by-row review library seeded from workbook evidence plus conservative form gates.",
+    "Verified product-specific ages are intentionally blank until manually reviewed.",
+    "Use verified_* fields to turn this into a true product-specific age library."
+  ]
+}

@@ -1,0 +1,911 @@
+id,name,genericGroup,composition,status,reason
+BDS040078,A.M.Mox 500 (10 cap),Amoxicillin,Amoxicillin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001103,AMK 1000 mg (10 tabs),amoxicillin clavulanate,Amoxicillin 875 mg.+Clavulanic Acid 125 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001035,Amoksiklav 1000 mg (10 tabs),Amoxicillin + Clavulanic Acid,Amoxicillin 875 mg.+Clavulanic Acid 125 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040017,Augmentin 1 g. (10 tabs),Amoxicillin Trihydrate + Clavulanic Potassium,Amoxicillin Trihydrate (eq. to Amoxicillin 875 mg.)+Clavulanic Potassium (eq. to Clavulanic Acid 125 mg.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001494,Azithro 250 mg (6 cap),Azithromycin,Azithromycin 250 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006115,Azycin 250 mg (GPO) (6 cap),Azithromycin,Azithromycin 250 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007066,B.Roxi (10 tabs),roxithromycin,Roxithromycin 150 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001545,Cavumox 1 g (3 tabs),Amoxicillin + Clavulanic Acid,Amoxicillin 875 mg.+Clavulanic Acid 125 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007784,Cephalex-500 (10 cap),Cephalexin,Cephalexin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001452,Clarith 500 (7 tabs),Clarithromycin,Clarithromycin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008652,Dicloxilin-500 (10 cap),Dicloxacillin,Dicloxacillin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008702,Dicloxman-500 (10 cap),Dicloxacillin,Dicloxacillin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001943,Floctil 250 (6 cap),Azithromycin,Azithromycin 250 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002201,Ibiamox 500 mg (10 cap),amoxicillin,Amoxicillin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002447,Klacid MR 500 mg (7 tabs),Clarithromycin,Clarithromycin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002692,Meiact tabslet (10 tabs),Cefditoren,Cefditoren 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003078,Omnicef 100 mg (10 cap),Cefdinir,Cefdinir 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008121,Rintacin (10 tabs),Erythromycin stearate,Erythromycin stearate 250 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003423,Rothricin 150 mg (10 tabs),Roxithromycin,Roxithromycin 150 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007976,Roxitop 300 (10 tabs),Roxithromycin,Roxithromycin 300 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003428,Rulid 150 mg (10 tabs),Roxithromycin,Roxithromycin 150 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007007,Uramox 500 (10 cap),Amoxicillin,Amoxicillin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS049776,Zithromax tabslet 250 mg (6 tabs),Azithromycin,Azithromycin 250 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040614,Bakamol 500 mg bottle 100s (100 tabs),Paracetamol,Paracetamol 500 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS007047,Cemol 500 mg bottle 100s ฟ้า-ขาว (100 tabs),Paracetamol,Paracetamol 500 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS007041,Cemol 500 mg bottle 100s เม็ดกลม (100 tabs),Paracetamol,Paracetamol 500 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS046505,Panadol Actifast (10 tabs),Paracetamol,Paracetamol 500 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS003109,Para Cap bottle 100s (100 tabs),Paracetamol,Paracetamol 500 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS003595,Sara เม็ดรี กระปุก 100s (100 tabs),Paracetamol,Paracetamol 500 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS003764,Tylenol 500 mg bottle 100s (100 tabs),Paracetamol,Paracetamol 500 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS003748,Tylenol 8 Hour (10 tabs),Paracetamol,Paracetamol 650 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS001010,Aerius tabslet (10 tabs),Desloratadine,Desloratadine 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040029,Alerest (10 tabs),Cetirizine dihydrochloride,Cetirizine dihydrochloride 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007702,Allerax-FC (10 tabs),Hydroxyzine HCl,Hydroxyzine HCl 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040033,Allernix (10 tabs),Loratadine,Loratadine 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040028,Allora 5 mg (10 tabs),Desloratadine,Desloratadine 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040630,Bilaxten (10 tabs),Bilastine,Bilastine 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041454,Carinose (10 tabs),Micronized Loratadine,Micronized Loratadine 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041510,Clarid (10 tabs),Loratadine,Loratadine (Micronized) 10 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041499,Clarityne (5 tabs),Micronized loratadine,Micronized loratadine 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001978,Fenafex 180 mg (10 tabs),Fexofenadine HCl,Fexofenadine HCl 180 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001953,Fenafex 60 mg (10 tabs),Fexofenadine HCl,Fexofenadine HCl 60 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007975,Fexotine (10 tabs),Fexofenadine HCl,Fexofenadine HCl 60 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007145,Histatabs (100 tabs),Chlorpheniramine Maleate,Chlorpheniramine Maleate 4 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008701,Hydrox-25 (10 tabs),Hydroxyzine HCl,Hydroxyzine HCl 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044553,Levocet (10 tabs),Levocetirizine dihydrochloride,Levocetirizine dihydrochloride 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006046,Loreze (10 cap),Loratadine,Loratadine 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008241,Manotabs (10 tabs),Cyproheptadine HCI,Cyproheptadine HCI 4 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003427,Montek 10 mg (7 tabs),Montelukast Sodium,Montelukast Sodium 10.4 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044924,Montulair 10 mg (10 tabs),Montelukast,Montelukast 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS045630,Nasotapp (10 tabs),brompheniramine + phenylephrine,Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047430,Rhinotapp (10 tabs),Brompheniramine Maleate + Phenylephrine HCl,Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003511,Singulair 10 mg 7s (7 tabs),Montelukast Sodium,Montelukast Sodium 10.4 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047722,Singulair 5 mg Box 28s (4 blister),Montelukast Sodium,Montelukast Sodium 5.2 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047643,Singulair Granules 4 mg (28 sachets),Montelukast Sodium,Montelukast Sodium 4.2 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003575,Sinufen (10 tabs),Brompheniramine Maleate + Phenylephrine HCl,Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008481,Sominar (10 tabs),Doxylamine Succinate,Doxylamine Succinate 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003562,Sulidine CP (10 tabs),Chlorpheniramine maleate + Phenylephrine hydrochloride,Chlorpheniramine maleate 4.0 mg.+Phenylephrine hydrochloride 10.0 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003747,Telfast 180 mg (10 tabs),fexofenadine,Fexofenadine HCl 180 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003769,Telfast 60 mg (10 tabs),Fexofenadine HCl,Fexofenadine HCl 60 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS049255,Vifas 180 mg. (10 tabs),Fexofenadine HCl,Fexofenadine HCl 180 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS049254,Vifas 60 mg. (10 tabs),Fexofenadine HCl,Fexofenadine HCl 60 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004130,Xyzal 5 mg (10 tabs),Levocetirizine dihydrochloride,Levocetirizine dihydrochloride 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007691,Zatifen (10 tabs),Ketotifen,Ketotifen 1 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004224,Zensil (10 tabs),Cetirizine dihydrochloride,Cetirizine dihydrochloride 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS049778,Zirin (10 cap),Cetirizine dihydrochloride,Cetirizine dihydrochloride 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004213,Zyrtec (10 tabs),cetirizine,Cetirizine dihydrochloride 10 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS008754,Zytizine F/C tabslet (10 tabs),Cetirizine dihydrochloride,Cetirizine dihydrochloride 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001008,Chlophe (10 tabs),Chlorpheniramine Maleate,Chlorpheniramine Maleate 2 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041504,Chlorpheniramine 2 mg. (10 tabs),Chlorpheniramine Maleate,Chlorpheniramine Maleate 2 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001255,Bisolvon (10 tabs),bromhexine,Bromhexine HCl 8 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS008141,Bocytin Capsule (10 cap),Carbocysteine,Carbocysteine 375 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001531,Cystaline (10 tabs),Acetylcysteine,Acetylcysteine 600 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043123,Facil 100 (5 g.),acetylcysteine sachet,Acetylcysteine 100 mg./5 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043124,Facil 200 (3 g.),Acetylcysteine,Acetylcysteine 200 mg./3 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001937,Flemex Foil (10 tabs),Carbocysteine,Carbocysteine 375 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043121,Flemex-AC OD (2 tabs),Acetylcysteine,Acetylcysteine 600 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001936,Fluimucil A 200 mg (3 g.),Acetylcysteine,Acetylcysteine 200 mg./3 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001909,Fluimucil A 600 mg (2 tabs),Acetylcysteine,Acetylcysteine 600 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002574,Muclear tabslet (10 tabs),Acetylcysteine,Acetylcysteine 600 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002655,Mucolid (10 tabs),ambroxol,Ambroxol HCl 30 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS002640,Mucolid SF 600 (7 g.),Acetylcysteine,Acetylcysteine 600 mg./7 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008135,Muco-Sea 200 (3 g.),Acetylcysteine,Acetylcysteine 200 mg./3 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002643,Mucosolvan (10 tabs),Ambroxol HCl,Ambroxol HCl 30 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002639,Mucosolvan PL (10 cap),Ambroxol HCl,Ambroxol HCl 75 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002901,Nac Long (10 tabs),acetylcysteine,Acetylcysteine 600 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003694,Solmax (10 cap),Carbocysteine,Carbocysteine 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001664,Dulcolax (10 tabs),Bisacodyl,Bisacodyl 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001715,Duphalac 100 (100 ml.),Lactulose,Lactulose 66.7 g/100 ml,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001837,Emulax (100 tabs),Bisacodyl,Bisacodyl 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001842,Forlax (10 g.),Macrogol 4000 + Orange-grapefruit,Macrogol 4000 10 g.+ Saccharin sodium 0.017 g.+ Orange-grapefruit flavour 0.15 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003505,Fybogel Orange (3.5 g.),Ispaghula Husk,Ispaghula Husk 3.5 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002128,Hepalac (100 ml.),Lactulose + Galactose + Lactose,Lactulose 66.7 g+Galactose 11 g+Lactose 6 g/100 ml,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008461,Milk of Magnesia C.B. (240 ml.),Magnesium Hydroxide,Magnesium Hydroxide 400 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002697,Mucilin Orange Flavour (5 g.),Ispaghula Husk,Ispaghula Husk 49.0 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002699,Mucilin Orange SF (5 g.),Ispaghula Husk,Ispaghula Husk 3.5 g./5 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003611,Senokot (60 tabs),Sennoside,Sennoside 7.5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003613,Senolax (60 tabs),Sennoside B,Sennoside B 7.5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004866,น้ำมันละหุ่งหวาน (60 ml.),Amyl Acetate + Alcohol,Saccharin 0.006 g+Amyl Acetate 0.037 g+Alcohol 0.45 ml+Castor Oil/15 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002214,Imodium (6 cap),Loperamide HCl,Loperamide HCl 2 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008703,Tedium (10 cap),Loperamide,Loperamide 2 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001036,Algycon (12 tabs),Alginic acid + Aluminium hydroxide gel + Magnesium carbonate,Alginic acid 200 mg.+Aluminium hydroxide gel 30 mg.+Magnesium carbonate 40 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001051,Antacil (10 tabs),Aluminium Hydroxide + Magnesium Trisilicate + Kaolin,Aluminium Hydroxide (Dried Aluminium Hydroxide 250 mg.)+Magnesium Trisilicate 350 mg.+Kaolin 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002030,Gastro Bismol 524 (10 tabs),Bismuth Subsalicylate,Bismuth Subsalicylate 524 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002011,Gaviscon Dual Action tabslet 16s (16 tabs),Sodium alginate + Sodium bicarbonate + Calcium carbonate,Sodium alginate 250 mg.+Sodium bicarbonate 106.5 mg.+Calcium carbonate 187.5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002015,Gaviscon Peppermint tabslet 16s (16 tabs),Sodium alginate + Sodium bicarbonate + Calcium Carbonate,Sodium alginate 250 mg.+Sodium bicarbonate 133.5 mg.+Calcium Carbonate 80 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044334,Kremil tabslet (10 tabs),AHMC Type F-MA II ( Aluminum Hydroxide + Magnesium Carbonate ) + Simethicone,AHMC Type F-MA II 325 mg ( Aluminum Hydroxide 188.8 mg + Magnesium Carbonate 136.2 mg ) + Simethicone 60 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044908,Malugel tabslets (10 tabs),Calcium Carbonate + Simethicone,Calcium Carbonate 500 mg+Simethicone 60 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003903,Ulcefate tabslet strip 10s (10 tabs),Sucralfate,Sucralfate 1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001466,Controloc 40 mg (14 tabs),Pantoprazole,Pantoprazole 40 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007108,Dosate 20 mg (10 cap),Omeprazole,Omeprazole 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002629,Miracid (14 cap),Omeprazole,Omeprazole 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003417,Mucosta tabs (10 tabs),Rebamipide,Rebamipide 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002898,Nexium 20 mg (14 tabs),Esomeprazole,Esomeprazole 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002903,Nexium 40 mg (14 tabs),Esomeprazole,Esomeprazole 40 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS045613,Nycacid (10 cap),Omeprazole,Omeprazole 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003065,Ocid (10 cap),Omeprazole,Omeprazole 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006714,Omeprazole 20 mg (GPO) (10 cap),Omeprazole,Omeprazole 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003138,Pariet 20 mg (14 tabs),Rabeprazole,Rabeprazole 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003110,Prevacid FDT 30 (14 tabs),Lansoprazole,Lansoprazole 30 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047441,Rabeprazole Sandoz 20 mg (14 tabs),Rabeprazole Sandoz,Rabeprazole Sandoz 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003527,Siamidine 400 mg (10 tabs),Cimetidine,Cimetidine 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007181,Leftose (10 tabs),Lysozyme chloride,Lysozyme chloride 30 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046509,Proctase-P (10 cap),Proctase + Pancreatin,Proctase 10 mg+Pancreatin 50 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008607,Durasal-CR 4 mg (10 cap),Salbutamol,Salbutamol 4 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002616,Meptin 50 (10 tabs),Procaterol HCl,Procaterol HCl 50 mcg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002617,Meptin Mini 25 (10 tabs),Procaterol HCl,Procaterol HCl 25 mcg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002844,Nuelin SR (20 tabs),Theophylline,Theophylline 200 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003708,Terbuhim (10 tabs),Terbutaline sulfate,Terbutaline sulfate 2.5 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS042329,Doiz 50 mg (10 tabs),Itopride hydrochloride,Itopride hydrochloride 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007106,Domperdone (10 tabs),Domperidone,Domperidone 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002048,Ganaton (10 tabs),Itopride Hydrochloride,Itopride Hydrochloride 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006250,Gasmotin tabslets (10 tabs),Mosapride citrate,Mosapride citrate 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044921,Mirax-M (10 tabs),Domperidone,Domperidone 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006639,Molax-M (10 tabs),Domperidone,Domperidone 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002636,Motilium-M (10 tabs),Domperidone,Domperidone 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046502,Patilum (10 tabs),Domperidone,Domperidone 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001079,Air-X 120 (10 tabs),simethicone,Simethicone 120 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS006054,Gogaz (10 cap),simethicone,Simethicone 200 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS008682,Pudin Hara (10 cap),Peppermint Oil + Spearmint Oil,Peppermint Oil 150 mg.+Spearmint Oil 30 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047683,Soda Mint (10 tabs),Sodium bicarbonate + Peppermint Oil,Sodium bicarbonate 300 mg+Peppermint Oil 0.003 ml,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003910,V-Cap (10 cap),Simethicone,Simethicone 150 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS040602,Biozole 150 mg (1 cap),fluconazole,Fluconazole 150 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007128,Funa 200 mg (1 cap),Fluconazole,Fluconazole 200 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007572,J.V.Nazole (10 tabs),Ketoconazole,Ketoconazole 200 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002826,Ninazol T.O. (10 tabs),Ketoconazole,Ketoconazole 200 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS045631,Nyst Oral (12 ml.),nystatin oral,"Nystatin 100,000 Unit/1 ml.",calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS003653,Spornar (10 cap),Itraconazole,Itraconazole 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008064,Acyvir 400 mg (5 tabs),acyclovir,Acyclovir 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008065,Acyvir 800 mg (5 tabs),acyclovir,Acyclovir 800 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007782,Clinovir 200 mg (5 tabs),Acyclovir,Acyclovir 200 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007783,Clinovir 400 mg (5 tabs),Acyclovir,Acyclovir 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007781,Clinovir 800 mg (5 tabs),Acyclovir,Acyclovir 800 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004019,Vilerm 200 mg 5s (5 tabs),Acyclovir,Acyclovir 200 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004086,Vilerm 400 mg 5s (5 tabs),Acyclovir,Acyclovir 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004011,Vilerm 800 mg 5s (5 tabs),Acyclovir,Acyclovir 800 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001230,Benda 500 (1 tab),Mebendazole,Mebendazole 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001227,Benda 500 กลิ่นเลมอน (1 tab),Mebendazole,Mebendazole 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001927,Fugacar 500 รสผลไม้ (1 tab),Mebendazole,Mebendazole 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS042304,Dehecta (20 ml.),dioctahedral smectite,Dioctahedral Smectite 3 g./20 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007122,Deltacarbon (10 tabs),Medicinal Charcoal,Medicinal Charcoal 250 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS045666,Ny-C-Bon (10 cap),Activated Charcoal,Activated Charcoal 260 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003546,Smecta (3 g.),Dioctahedral Smectite,Dioctahedral Smectite 3 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003912,Dacin-F 300 (10 cap),Clindamycin,Clindamycin 300 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007723,Doxylcap (10 cap),Doxycycline Hyclate,Doxycycline Hyclate (eq. to Doxycycline 100 mg.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS044901,Metrolex 400 mg (10 tabs),Metronidazole,Metronidazole 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007193,Metronidazole 400 (10 tabs),Metronidazole,Metronidazole 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007911,Dibendryl (10 tabs),Diphenhydramine,Diphenhydramine 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002211,Icolid (ควบคุมจำนวน) (10 tabs),dextromethorphan,Dextromethorphan HBr 15 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001046,AMK 228 (70 ml.),amoxicillin clavulanate syrup,Amoxicillin 200 mg.+Clavulanic Acid 28 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001047,AMK 457 (70 ml.),amoxicillin clavulanate syrup,Amoxicillin 400 mg.+Clavulanic Acid 57 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001056,Augmentin 457 mg (70 ml.),Amoxicillin + Clavulanic Acid,Amoxicillin 400 mg.+Clavulanic Acid 57 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001054,Augmentin ES (50 ml.),Amoxicillin + Clavulanic Acid,Amoxicillin 600 mg.+Clavulanic Acid 42.9 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001084,Azith Oral Suspension (15 ml.),Azithromycin,Azithromycin 200 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001441,Cefspan Suspension (30 ml.),Cefixime,Cefixime 100 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002206,Ibilex Syrup (60 ml.),Cephalexin,Cephalexin 125 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002693,Meiact Fine Granules (0.5 g.),Cefditoren,Cefditoren 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007586,Newtamox For Oral Suspension (60 ml.),Amoxicillin,Amoxicillin 125 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS007589,Newthrocin (60 ml.),Erythromycin,Erythromycin 125 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS046209,Onzet Oral Suspension (15 ml.),Azithromycin,Azithromycin 200 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS003549,Sia-Mox Syrup 125 mg (60 ml.),Amoxicillin,Amoxicillin 125 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS003550,Sia-Mox Syrup 250 mg (60 ml.),Amoxicillin,Amoxicillin 250 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS007682,Xalin Dry Syrup 125 mg (60 ml.),Cloxacillin,Cloxacillin 125 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS004225,Zithromax Dry 200 mg (15 ml.),Azithromycin,Azithromycin 200 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS008609,Ampol Suspension (60 ml.),Paracetamol,Paracetamol 120 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS002407,Kit-F Drops (15 ml.),Paracetamol,Paracetamol 60 mg./0.6 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS007583,Newtamol Syrup (60 ml.),Paracetamol,Paracetamol 150 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS002861,Panadol Orange Suspension (60 ml.),Paracetamol,Paracetamol 250 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS002847,Panadol Strawberry Suspension (60 ml.),Paracetamol,Paracetamol 120 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS008137,Poro Suspension (60 ml.),Paracetamol,Paracetamol 250 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS003597,Sara Infant Drops (รสองุ่น) (15 ml.),Paracetamol,Paracetamol 60 mg./0.6 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS003596,Sara น้ำรสสตรอเบอร์รี่ (60 ml.),Paracetamol,Paracetamol 120 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS003504,Sara น้ำรสส้ม (60 ml.),Paracetamol,Paracetamol 250 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS003600,Sara น้ำรสองุ่น (60 ml.),Paracetamol,Paracetamol 160 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS003711,Tempra Drop (15 ml.),Paracetamol,Paracetamol 80 mg./0.8 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS003712,Tempra Forte (60 ml.),Paracetamol,Paracetamol 250 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS048670,Tempra Kids Orange (60 ml.),Paracetamol,Paracetamol 120 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS003713,Tempra Kids Strawberry (60 ml.),Paracetamol,Paracetamol 120 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS003737,Tylenol Drop (15 ml.),Paracetamol,Paracetamol 80 mg./0.8 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS003763,Tylenol Suspension (60 ml.),paracetamol syrup,Paracetamol 160 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS001015,Aerius Syrup (60 ml.),Desloratadine,Desloratadine 0.5 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS007003,Asiatapp Infant Drops (ควบคุมจำนวน) (15 ml.),Brompheniramine Maleate + Phenylephrine HCl,Brompheniramine Maleate 2.0 mg.+Phenylephrine HCl 2.5 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS008047,Asiatapp Syrup (ควบคุมจำนวน) (60 ml.),Brompheniramine Maleate + Phenylephrine HCl,Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS008033,Chlophen Syrup (ควบคุมจำนวน) (60 ml.),Chlorpheniramine Maleate,Chlorpheniramine Maleate 2 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS007038,Cistamine Syrup (60 ml.),Cetirizine 2HCl,Cetirizine 2HCl 5 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS044519,Lorius Syrup (60 ml.),Desloratadine,Desloratadine 0.5 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS007271,Sea Chlor Syrup (ควบคุมจำนวน) (60 ml.),Chlorpheniramine Maleate,Chlorpheniramine Maleate 2 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS003573,Sulidine CP Plus (ควบคุมจำนวน) (60 ml.),Acetaminophen + Chlorpheniramine maleate + Phenylephrine HCl,Acetaminophen 120 mg+Chlorpheniramine maleate 1 mg+Phenylephrine HCl 5 mg/5 ml,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS008301,Trandrozine Syrup (ควบคุมจำนวน) (60 ml.),Hydroxyzine HCl,Hydroxyzine HCl 10 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS008086,Zermed Syrup (60 ml.),Cetirizine 2HCl,Cetirizine 2HCl 5 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS004212,Zyrtec Syrup (75 ml.),cetirizine syrup,Cetirizine 2HCI 1 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS006036,Icorin Kids Syrup (60 ml.),Butamirate Citrate,Butamirate Citrate 4 mg/5 ml,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002290,Ivorin Syrup (60 ml.),Levodropropizine,Levodropropizine 30 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001257,Bisolvon EX Syrup เล็ก (60 ml.),bromhexine syrup,Bromhexine HCl 4 mg.+K guaiacolsulphonate 100 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS001296,Bisolvon EX Syrup ใหญ่ (125 ml.),Bromhexine HCl + K guaiacolsulphonate,Bromhexine HCl 4 mg.+K guaiacolsulphonate 100 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001253,Bisolvon Pediatric Syrup (60 ml.),Bromhexine HCl,Bromhexine HCl 4 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS007033,Bocytin Syrup (60 ml.),Carbocysteine,Carbocysteine 250 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS041506,Carboflex Syrup (60 ml.),Carbocysteine,Carbocysteine 250 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001495,Cisteine (60 ml.),Carbocysteine,Carbocysteine 100 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001919,Flemex Kids (60 ml.),Carbocysteine,Carbocysteine 100 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001920,Flemex Syrup (60 ml.),Carbocysteine,Carbocysteine 250 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS007742,Mucobrox (60 ml.),Ambroxol HCl,Ambroxol HCl 30 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002659,Mucoflux Syrup (60 ml.),Cyclidrol,Cyclidrol 80 mg./10 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002691,Mucolid Junior บลูเบอร์รี่ (60 ml.),ambroxol syrup,Ambroxol HCl 15 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS002654,Mucolid Syrup (60 ml.),Ambroxol HCl,Ambroxol HCl 30 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS003697,Solmax Forte Suspension (60 ml.),Carbocysteine,Carbocysteine 500 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS003782,Solmax Kids Suspension (60 ml.),Carbocysteine,Carbocysteine 200 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS040009,Anpuzz 520 (10 tabs),Mefenamic acid + Dicyclomine HCl,Mefenamic acid 500 mg. + Dicyclomine HCl 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001076,Arcoxia 120 mg (5 tabs),Etoricoxib,Etoricoxib 120 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001078,Arcoxia 60 mg (5 tabs),etoricoxib,Etoricoxib 60 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001075,Arcoxia 90 mg (5 tabs),Etoricoxib,Etoricoxib 90 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040616,Biocoxib 90 mg. (5 tabs),Etoricoxib,Etoricoxib 90 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008116,Cambic 15 (10 tabs),Meloxicam,Meloxicam 15 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041402,Cataflam 50 mg (10 tabs),Diclofenac Potassium,Diclofenac Potassium 50 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007035,Catanac 50 mg (10 tabs),Diclofenac Potassium,Diclofenac Potassium 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001509,Celebrex 200 mg (10 cap),celecoxib,Celecoxib 200 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001507,Celebrex 400 mg (10 cap),Celecoxib,Celecoxib 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001822,Dosanac 25 (10 tabs),Diclofenac Sodium,Diclofenac Sodium 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001824,Dosanac 50 (10 tabs),Diclofenac Sodium,Diclofenac Sodium 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS042806,Eberil 120 (5 tabs),Etoricoxib,Etoricoxib 120 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008061,Felcam (10 tabs),Piroxicam,Piroxicam 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007602,Felcam Capsule (10 cap),Piroxicam,Piroxicam 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044250,Japrolox tabslets (20 tabs),Loxoprofen sodium,Loxoprofen sodium 60 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044900,Mefamed 500 (10 tabs),Mefenamic acid,Mefenamic acid 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002669,Melcam (10 tabs),Meloxicam,Meloxicam 7.5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044909,Meomic 500 (10 tabs),Mefenamic acid,Mefenamic acid 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002642,Mobic 7.5 mg (10 tabs),Meloxicam,Meloxicam 7.5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS045624,Naprofazt (10 cap),Naproxen,Naproxen (as Naproxen Sodium) 250 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007214,Naproflex (6 tabs),Naproxen sodium,Naproxen sodium 275 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007576,Naprosian (10 tabs),Naproxen,Naproxen 250 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003422,Pircam 20 mg (10 cap),Piroxicam,Piroxicam 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003131,Ponstan 500 mg (10 tabs),Mefenamic acid,Mefenamic acid 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047654,Soproxen (10 tabs),Naproxen sodium,Naproxen sodium 275 mg. (eq. to Naproxen 250 mg.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS003581,S-Pro 600 (10 tabs),Ibuprofen,Ibuprofen 600 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003599,Subsyde-CR (10 cap),Diclofenac Sodium,Diclofenac Sodium 100 mg. (Controlled Release cap),no_peds_reference,no pediatric reference and no parseable concentration
+BDS003568,Synflex (6 tabs),naproxen,Naproxen sodium 275 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS049251,Voltaren SR 100 mg (10 tabs),Diclofenac Sodium,Diclofenac Sodium 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004052,Voltaren SR 75 mg (10 tabs),Diclofenac Sodium,Diclofenac Sodium 75 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004041,Voltaren-25 (10 tabs),Diclofenac Sodium,Diclofenac Sodium 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS049777,Zobrex (10 cap),Celecoxib,Celecoxib 200 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001248,Bioflor (1 sachet),saccharomyces boulardii,Lyophilized Saccharomyces boulardii 250 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001233,Bioflor Capsule (5 cap),Lyophilized Saccharomyces boulardii,Lyophilized Saccharomyces boulardii 250 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS042802,Erfuzide cap (12 cap),Nifuroxazide,Nifuroxazide 200 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043842,Hidrasec 100 mg. (10 cap),racecadotril,Racecadotril 100 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS002108,Hidrasec Paediatric 30 mg (3 g.),racecadotril paeds,Racecadotril 30 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS001231,Benda Syrup กลิ่นผลไม้รวม (30 ml.),Mebendazole,Mebendazole 100 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS049775,Zenzera-200 Suspension (10 ml.),Albendazole,Albendazole 200 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS007973,Fartussin (ควบคุมจำนวน) (10 tabs),cough combo,Dextromethorphan HBr 15 mg.+Glyceryl Guaiacolate 100 mg.+Terpin Hydrate 130 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008106,Kenya-I (ควบคุมจำนวน) (10 tabs),Dextromethorphan HBr + Chlorpheniramine maleate + Terpine hydrate,Dextromethorphan HBr 15 mg+Chlorpheniramine maleate 2 mg+Terpine hydrate 125 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003112,Patar-Cap (ควบคุมจำนวน) (10 cap),Dextromethorphan + Guaifenesin,Dextromethorphan 10 mg.+Guaifenesin 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003416,Robitussin DM เล็ก (ควบคุมจำนวน) (60 ml.),Guaifenesin + Dextromethorphan HBr,Guaifenesin 200 mg.+Dextromethorphan HBr 10 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001458,Asthmasian Expectorant Syrup (60 ml.),Terbutaline sulfate + Glyceryl guaiacolate,Terbutaline sulfate 1.5 mg.+Glyceryl guaiacolate 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002618,Meptin น้ำ มีกล่อง (60 ml.),Procaterol HCl,Procaterol HCl 5 mcg./1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003645,Salbulin Syrup (60 ml.),Salbutamol,Salbutamol 2.4 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS003589,Salmol Syrup (60 ml.),Salbutamol,Salbutamol 2 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001071,Avamigran (1 blister),Ergotamine tartrate + Caffeine,Ergotamine tartrate 1 mg.+Caffeine 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001405,Cafergot (10 tabs),Ergotamine tartrate + Caffeine,Ergotamine tartrate 1 mg.+Caffeine 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006840,Relpax 40 mg (2 tabs),eletriptan,Eletriptan 40 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047646,Siagran 50 mg (4 tabs),Sumatriptan succinate,Sumatriptan succinate (eq. to Sumatriptan 50 mg.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001404,Tofago (10 tabs),Ergotamine tartrate + Caffeine,Ergotamine tartrate 1 mg.+Caffeine 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007022,Behistin (10 tabs),Betahistine Mesylate,Betahistine Mesylate 6 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008007,Cephadol (10 tabs),Diphenidol hydrochloride,Diphenidol hydrochloride 25 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007055,Cinerine (10 tabs),Cinnarizine,Cinnarizine 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008142,Liberal Cap (10 cap),Flunarizine,Flunarizine 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002688,Merislon 12 mg (10 tabs),Betahistine Mesilate,Betahistine Mesilate 12 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002621,Merislon 6 mg (10 tabs),Betahistine Mesilate,Betahistine Mesilate 6 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007222,Poli-Flunarin (10 cap),Flunarizine,Flunarizine 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003510,Serc 16 mg (20 tabs),Betahistine dihydrochloride,Betahistine dihydrochloride 16 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006571,Serc 24 mg (20 tabs),betahistine,Betahistine dihydrochloride 24 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047664,Sobelin (10 cap),Flunarizine,Flunarizine 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007272,Stei 16 mg (10 tabs),Betahistine dihydrochloride,Betahistine dihydrochloride 16 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003514,Stugeron 25 mg (10 tabs),Cinnarizine,Cinnarizine 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008034,Berclomine Syrup (60 ml.),dicyclomine + simethicone syrup,Dicyclomine 5 mg.+Simethicone 50 mg./5 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS042321,Daflon 1000 mg (10 tabs),Diosmin + Hesperidin,Diosmin 900 mg.+Hesperidin 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001602,Daflon 500 mg (15 tabs),Diosmin + Hesperidin,Diosmin 450 mg.+Hesperidin 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001444,Dafomin 500 mg (10 tabs),Diosmin + Hesperidin,Diosmin 450 mg.+Hesperidin 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008452,Diosmin 500 (10 tabs),Diosmin + Hesperidin,Diosmin 450 mg.+Hesperidin 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003407,Reparil Dragees (10 tabs),Absorbable aescin,Absorbable aescin 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003507,Siduol (10 cap),Vit K1 + Rutin + Lysozyme Cl + Vit E,Vit K1 2 mg+ Rutin 100 mg+Lysozyme Cl 10 mg+Vit E 52 mg+Pluronic F-68 20 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007765,T-Osmin (10 tabs),Diosmin + Hesperidin,Diosmin 450 mg.+Hesperidin 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003739,Tramal (10 cap),Tramadol HCl,Tramadol HCl 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001283,Buscopan (10 tabs),hyoscine butylbromide,Hyoscine-N-butylbromide 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007061,Cencopan-S (10 tabs),Hyoscine-N-butylbromide,Hyoscine-N-butylbromide 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001484,Colofac 135 (10 tabs),Mebeverine HCl,Mebeverine HCl 135 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001707,Duspatin 135 (10 tabs),Mebeverine HCl,Mebeverine HCl 135 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007284,Scopas S/C tabslets (10 tabs),Hyoscine-N-butylbromide,Hyoscine-N-butylbromide 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007303,Spacovin 40 (10 tabs),Drotaverine Hydrochloride,Drotaverine Hydrochloride 40 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007107,Sparta (10 tabs),Drotaverine Hydrochloride,Drotaverine Hydrochloride 40 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007274,Spasuri (10 tabs),Flavoxate HCl,Flavoxate HCl 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001042,Amogin-Gel bottle 240 ml (240 ml.),Aluminium Hydroxide + Magnesium Hydroxide + Dimethylpolysiloxane,Aluminium Hydroxide 0.459 g.+Magnesium Hydroxide 0.300 g.+Dimethylpolysiloxane 0.021 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001095,Amogin-Gel sachet 15 ml (15 ml.),Aluminium Hydroxide + Magnesium Hydroxide + Dimethylpolysiloxane,Aluminium Hydroxide 0.459 g.+Magnesium Hydroxide 0.300 g.+Dimethylpolysiloxane 0.021 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001050,Antacil Gel กลาง (450 ml.),Aluminium Hydroxide + Magnesium Hydroxide + Simethicone,Aluminium Hydroxide 960 mg. (Aluminium Hydroxide Compressed Gel)+Magnesium Hydroxide 330 mg.+Simethicone 60 mg./15 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001048,Antacil Gel เล็ก (240 ml.),Aluminium Hydroxide + Magnesium Hydroxide + Simethicone,Aluminium Hydroxide 960 mg. (Aluminium Hydroxide Compressed Gel)+Magnesium Hydroxide 330 mg.+Simethicone 60 mg./15 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS040608,Belcid Forte Suspension (240 ml.),Aluminium Hydroxide Gel ( + Magnesium Hydroxide + Simethicone,Aluminium Hydroxide Gel (eq. to Aluminium Hydroxide 306 mg.+Magnesium Hydroxide 110 mg.+ Simethicone 30 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS007133,Gaspec-S (240 ml.),Simethicone + Dried Aluminium Hydroxide gel + Magnesium Hydroxide,Simethicone 60 mg+Dried Aluminium Hydroxide gel 600 mg+Magnesium Hydroxide 375 mg./15 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002010,Gastro Bismol (240 ml.),Bismuth Subsalicylate,Bismuth Subsalicylate 262 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043614,Gaviscon Advance bottle 150 ml (150 ml.),Sodium alginate Ph Eur + Potassium bicarbonate + Calcium carbonate + Carbomer,Sodium alginate Ph Eur 1000 mg.+Potassium bicarbonate 200 mg. +Calcium carbonate+Carbomer+Methyl (E218)+Propyl (E216)+อื่นๆ,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043613,Gaviscon Advance sachet 10 ml (10 ml.),Sodium alginate Ph Eur + Potassium bicarbonate + Calcium carbonate + Carbomer,Sodium alginate Ph Eur 1000 mg.+Potassium bicarbonate 200 mg.+Calcium carbonate+Carbomer+Methyl (E218)+Propyl (E216)+อื่นๆ,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002012,Gaviscon Dual Action bottle 150 ml (150 ml.),Sodium alginate + Sodium bicarbonate + Calcium carbonate,Sodium alginate 500 mg.+Sodium bicarbonate 213 mg.+Calcium carbonate 325 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002033,Gaviscon Dual Action sachet 10 ml (10 ml.),Sodium alginate + Sodium bicarbonate + Calcium carbonate,Sodium alginate 500 mg.+Sodium bicarbonate 213 mg.+Calcium carbonate 325 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002014,Gaviscon Suspension bottle 150 ml (150 ml.),Sodium alginate + Sodium bicarbonate,Sodium alginate 500 mg.+Sodium bicarbonate 267 mg./10 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002013,Gaviscon Suspension sachet 10 ml (10 ml.),Sodium alginate + Sodium bicarbonate + Calcium carbonate,Sodium alginate 500 mg.+Sodium bicarbonate 267 mg.+Calcium carbonate 160 mg./10 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS043606,Gaviscon Suspension กล่อง 4 ซอง (4 sachets),Sodium alginate + Sodium bicarbonate + Calcium carbonate,Sodium alginate 500 mg.+Sodium bicarbonate 267 mg.+Calcium carbonate 160 mg./10 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001029,Maalox Alum Milk (240 ml.),Al3 + Mg2,Al(OH)3 4.4 g.+Mg(OH)2 2.4 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003565,Sucrate Gel (5 ml.),Sucralfate gel,Sucralfate gel 1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003918,Ulcefate Suspension bottle 240 ml (240 ml.),Sucralfate,Sucralfate 1 g./5 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003917,Ulcefate Suspension bottle 60 ml (60 ml.),Sucralfate,Sucralfate 1 g./5 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003915,Ulcefate Suspension sachet 5 ml (5 ml.),Sucralfate,Sucralfate 1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007951,Ziga Gel (240 ml.),Al3 + Mg2 + Simethicone,Al(OH)3 900 mg.+Mg(OH)2 400 mg.+Simethicone 70 mg./15 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001013,Air-X Drops (15 ml.),simethicone drops,Simethicone 40 mg./0.6 ml.,auto_mapped,same-generic pediatric reference + parseable concentration
+BDS002631,Mixt.Carminative (GPO) 180 ml (180 ml.),Cardamon Tincture + Capsicum Tincture + Ginger Tincture,Cardamon Tincture 1.80 ml.+Capsicum Tincture 0.06 ml.+Ginger Tincture 0.024 ml./15 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002632,Mixt.Carminative (GPO) 450 ml (450 ml.),Cardamon Tincture + Capsicum Tincture + Ginger Tincture,Cardamon Tincture 1.80 ml.+Capsicum Tincture 0.06 ml.+Ginger Tincture 0.024 ml./15 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007967,Ziga Gas (240 ml.),เปล้าน้อย + สมุลแว้ง + ขมิ้นชัน + กานพลู,เปล้าน้อย+สมุลแว้ง+ขมิ้นชัน+กานพลู+ลูกกระวาน+เกล็ดสะระแหน่,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006664,Baclofen (10 tabs),Baclofen,Baclofen 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001271,Biocalm (10 tabs),tolperisone,Tolperisone 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007049,Cenasic (10 tabs),Paracetamol + Orphenadrine Citrate,Paracetamol 450 mg.+Orphenadrine Citrate 35 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041455,Corilax tabslet (10 tabs),Paracetamol + Orphenadrine Citrate,Paracetamol 450 mg.+Orphenadrine Citrate 35 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003410,M-Calm tabslet (10 tabs),Tolperisone Hydrochloride,Tolperisone Hydrochloride 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044932,Muslexac (10 tabs),Paracetamol + Orphenadrine Citrate,Paracetamol 500 mg.+Orphenadrine Citrate 35 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007571,Musolax (10 tabs),Eperisone hydrochloride,Eperisone hydrochloride 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002652,Mydocalm (10 tabs),Tolperisone,Tolperisone 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002701,Myonal 50 mg (10 tabs),Eperisone hydrochloride,Eperisone hydrochloride 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007752,Noraphen (10 tabs),Paracetamol + Orphenadrine Citrate,Paracetamol 500 mg.+Orphenadrine Citrate 35 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002840,Norgesic (10 tabs),Paracetamol + Orphenadrine Citrate,Paracetamol 450 mg.+Orphenadrine Citrate 35 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS045616,Norpa tabslets (10 tabs),Paracetamol + Orphenadrine Citrate,Paracetamol 450 mg.+Orphenadrine Citrate 35 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003571,Soneriper M (10 tabs),Tolperisone Hydrochloride,Tolperisone Hydrochloride 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS048632,Torrent (10 tabs),Paracetamol + Orphenadrine Citrate,Paracetamol 450 mg.+Orphenadrine Citrate 35 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002637,Motilium Oral Suspension (30 ml.),Domperidone,Domperidone 1 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS046503,Patilum Oral Suspension (30 ml.),Domperidone,Domperidone 1 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS008001,Actrim (10 tabs),Trimethoprim + Sulfamethoxazole,Trimethoprim 80 mg.+Sulfamethoxazole 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001072,Avelox tabslet (5 tabs),Moxifloxacin Hydrochloride,Moxifloxacin Hydrochloride 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001496,Cifloxin 500 mg (10 tabs),ciprofloxacin,Ciprofloxacin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041409,Cipflocin 500 mg (10 tabs),Ciprofloxacin,Ciprofloxacin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008114,Ciproxin-500 (10 tabs),Ciprofloxacin,Ciprofloxacin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001548,Cravit 500 mg (5 tabs),Levofloxacin,Levofloxacin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008681,Levomac 500 (5 tabs),Levofloxacin,Levofloxacin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007591,Noflox-400 (10 tabs),norfloxacin,Norfloxacin 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007751,Norfloxyl-400 (10 tabs),Norfloxacin,Norfloxacin 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS009086,Norxacin 400 mg (8 tabs),Norfloxacin,Norfloxacin 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007971,Oflomac-200 (10 tabs),Ofloxacin,Ofloxacin 200 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007238,Proflox 500 mg (10 tabs),Ciprofloxacin,Ciprofloxacin 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047662,Sixime (10 cap),Cefixime,Cefixime 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007311,Xacin (10 tabs),Norfloxacin,Norfloxacin 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS042357,Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส (8 tabs),"2,4-Dichlorobenzyl alcohol + Amylmetacresol","2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS042358,Difflam รสส้มผสมวิตามินซี (8 tabs),"2,4-Dichlorobenzyl alcohol + Amylmetacresol + Vit.C","2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.+Vit.C 100 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS044922,Mybacin OTC Mint (8 tabs),"2,4-ไดคลอโรเบนซิล แอลกอฮอล์ 1.2 มก + เอมิลเมเทครีซอล 0.6 มก","2,4-ไดคลอโรเบนซิล แอลกอฮอล์ 1.2 มก.+เอมิลเมเทครีซอล 0.6 มก.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003574,Strepsils Citrus Lemon SF HHR ซอง 6s (6 tabs),lozenge throat relief,"2,4-Dichlorobenzyl Alcohol 1.2 mg.+Amylmetacresol 0.6 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003578,Strepsils Citrus Lemon Sugar Free กล่อง 16s (16 tabs),"2,4-Dichlorobenzyl Alcohol + Amylmetacresol","2,4-Dichlorobenzyl Alcohol 1.2 mg.+Amylmetacresol 0.6 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003661,Strepsils Cool กล่อง 24s (24 tabs),"2,4-Dichlorobenzyl Alcohol + Amylmetacresol + Menthol","2,4-Dichlorobenzyl Alcohol 1.2 mg.+Amylmetacresol 0.6 mg.+Menthol 7.0 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003554,Strepsils Cool ซอง 8s (8 tabs),"2,4-Dichlorobenzyl alcohol + Amylmetacresol + Menthol","2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.+Menthol 7.0 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003590,Strepsils Honey & Lemon HHR ซอง 8s (8 tabs),"2,4-Dichlorobenzyl Alcohol + Amylmetacresol","2,4-Dichlorobenzyl Alcohol 1.2 mg.+Amylmetacresol 0.6 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003582,Strepsils Honey & Lemon กล่อง 24s (24 tabs),"2,4-Dichlorobenzyl Alcohol + Amylmetacresol","2,4-Dichlorobenzyl Alcohol 1.2 mg.+Amylmetacresol 0.6 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003555,Strepsils Orange+Vitamin C HHR ซอง 8s (8 tabs),"2,4-Dichlorobenzyl Alcohol + Amylmetacresol + Vitamin C","2,4-Dichlorobenzyl Alcohol 1.2 mg.+Amylmetacresol 0.6 mg.+Vitamin C 100 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003556,Strepsils Orange+Vitamin C กล่อง 24s (24 tabs),"2,4-Dichlorobenzyl Alcohol + Amylmetacresol + Vitamin C","2,4-Dichlorobenzyl Alcohol 1.2 mg.+Amylmetacresol 0.6 mg.+Vitamin C 100 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003583,Strepsils Original HHR (เม็ดแดง) กล่อง 24s (24 tabs),"2,4-Dichlorobenzyl Alcohol + Amylmetacresol","2,4-Dichlorobenzyl Alcohol 1.2 mg.+Amylmetacresol 0.6 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003551,Strepsils Original HHR (เม็ดแดง) ซอง 8s (8 tabs),"2,4-Dichlorobenzyl Alcohol + Amylmetacresol","2,4-Dichlorobenzyl Alcohol 1.2 mg.+Amylmetacresol 0.6 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003777,Throatsil รสน้ำผึ้งมะนาว ซอง 8s (8 tabs),Dichlorobenzyl alcohol + Amylmetacresol,Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003790,Throatsil รสเมนทอล ซอง 8s (8 tabs),Dichlorobenzyl alcohol + Amylmetacresol,Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003802,Throatsil รสส้ม กล่อง 24s (24 tabs),Dichlorobenzyl alcohol + Amylmetacresol + Vitamin C,Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.+Vitamin C 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003775,Throatsil รสส้ม ซอง 8s (8 tabs),Dichlorobenzyl alcolhol + Amylmetacresol + Vitamin C,Dichlorobenzyl alcolhol 1.2 mg.+Amylmetacresol 0.6 mg.+Vitamin C 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040016,Adavil F/C tabslets (10 tabs),Ibuprofen,Ibuprofen 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040623,Brusoft 400 (10 cap),Ibuprofen,Ibuprofen 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040629,Brustan (10 tabs),Ibuprofen + Paracetamol,Ibuprofen 400 mg.+Paracetamol 325 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007040,Cefen 400P (10 tabs),Ibuprofen,Ibuprofen 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001618,Duran (10 tabs),Ibuprofen,Ibuprofen 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002042,Gofen 400 (10 cap),ibuprofen,Ibuprofen 400 mg.+Polyethylene 400+Porpylene Glycol,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002036,Greatofen-400 mg (10 tabs),Ibuprofen,Ibuprofen 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007161,Ibuman-Plus (10 tabs),Ibuprofen + Paracetamol,Ibuprofen 400 mg.+Paracetamol 325 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007165,Kintal B (10 tabs),Ibuprofen + Paracetamol,Ibuprofen 400 mg.+Paracetamol 325 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS045600,Nurofen Zavance (10 cap),Ibuprofen,Ibuprofen 400 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002846,Nurofen-400 (6 tabs),Ibuprofen,Ibuprofen 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047673,Solufen 400 (10 cap),Ibuprofen,Ibuprofen 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046200,Oral-VP tabslet (10 tabs),Cetylpyridinium chloride,Cetylpyridinium chloride 1.5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003662,Strepsils Maxi Pluzz กล่อง 16s (16 tabs),"2,4-ไดคลอโรเบนซิล แอลกอฮอล์ 1.2 มก + เอมิลเมแทครีซอล 0.6 มก + ลิกโนเคน ไฮโดรคลอไรด์ 10.0 มก","2,4-ไดคลอโรเบนซิล แอลกอฮอล์ 1.2 มก.+ เอมิลเมแทครีซอล 0.6 มก. + ลิกโนเคน ไฮโดรคลอไรด์ 10.0 มก.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003580,Strepsils Maxi Pluzz ซอง 6s (6 tabs),"2,4-Dichlorobenzyl alcohol + Amylmetacresol + Lidocain","2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.+Lidocain 10 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003772,Throatsil Plus ซอง 8s (8 tabs),"2,4-Dichlorobenzyl Alcohol + Amylmetacresol + Lignocaine HCl","2,4-Dichlorobenzyl Alcohol 1.2 mg.+Amylmetacresol 0.6 mg.+Lignocaine HCl 10.0 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS008282,Cera ORS รสส้ม (5 sachets),ors,Glucose Anhydrous 3 g.+Sodium Chloride 0.53 g.+Potassium Chloride 0.23 g.+Sodium Citrate Dihydrate 0.44 g.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS007141,Dimenhydrinate (10 tabs),Dimenhydrinate,Dimenhydrinate 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001663,Dramamine (10 tabs),Dimenhydrinate,Dimenhydrinate 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008272,Biotaplex-BC (10 tabs),Benfotiamine + Riboflavin + Pyridoxine HCl + Cyanocobalamin,Benfotiamine (Vit.B1) 69.15 mg+Riboflavin (Vit.B2) 5 mg+Pyridoxine HCl (Vit.B6) 5 mg+Cyanocobalamin (Vit.B12) 5 mcg+Vit.C 50 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002687,Mecze (10 tabs),Mecobalamin,Mecobalamin (Vit. B12) 500 mcg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044925,Mega Diavit (10 cap),Vit.B1 + Vit.B6 + Methylcobalamin + Folic Acid,Vit.B1 100 mg+ Vit.B6 200 mg+Methylcobalamin 500 mg+ Folic Acid 0.2 mg+Natural Vit.E 200 IU+ Natural Mixed Carotenoids 4 mg+Equivlent to Vit.A 5000 IU+ Vit.D3 400 IU+Copper 1 mg+Chromium 0.2 mg+Zinc 15 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002625,Methycobal 500 (10 tabs),Mecobalamin,Mecobalamin (Vit. B12) 500 mcg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002822,Neurobion (10 tabs),Thiamine Disulfide + Pyridoxine HCl + Cyanocobalamin,Thiamine Disulfide (Vit.B1) 100 mg+Pyridoxine HCl (Vit.B6) 200 mg+Cyanocobalamin (Vit.B12) 200 mcg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003007,One-Six-Twelve (10 tabs),Thiamine Mononitrate + Pyridoxine HCl + Cyanocobalamin,Thiamine Mononitrate (Vit.B1) 100 mg+Pyridoxine HCl (Vit.B6) 5 mg+Cyanocobalamin (Vit.B12) 50 mcg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008151,Sambee (10 tabs),Thiamine Mononitrate + Pyridoxine HCl + Cyanocobalamin,Thiamine Mononitrate (Vit.B1) 100 mg+Pyridoxine HCl (Vit.B6) 5 mg+Cyanocobalamin (Vit.B12) 65 mcg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008708,Tri-Be-Sian (10 tabs),Thiamine Mononitrate + Pyridoxine HCl + Cyanocobalamin,Thiamine Mononitrate (Vit.B1) 100 mg+Pyridoxine HCl (Vit.B6) 5 mg+Cyanocobalamin (Vit.B12) 50 mcg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007809,Viboral (10 tabs),Thiamine Mononitrate + Pyridoxine HCl + Cyanocobalamin,Thiamine Mononitrate (Vit.B1) 100 mg+Pyridoxine HCl (Vit.B6) 20 mg+Cyanocobalamin (Vit.B12) 100 mcg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004007,Vitamin B1-B6-B12 (GPO) (100 tabs),Vit.B1 + Vit.B6 + Vit.B12,Vit.B1 100 mg+Vit.B6 7.5 mg+Vit.B12 75 mcg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002449,Kremil-S tabslet (10 tabs),AHMC(Aluminum Hydroxide + Magnesium Carbonate .) + Simethicone + Dicyclomine HCl,AHMC(Aluminum Hydroxide 188.8 mg.+Magnesium Carbonate 136.2 mg.) 325 mg.+Simethicone 10 mg.+Dicyclomine HCl 2.5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008766,Sulcain (10 tabs),Sulcain + Magcerin,Sulcain (Ethyl p-piperidylacetylaminobenzoate) 100 mg+Magcerin (Magnesia-alumina hydrate) 100 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001038,Avarin (10 cap),Simethicone + Alverine Citrate,Simethicone 300 mg.+Alverine Citrate 60 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001234,Berclomin tabs (10 tabs),Dicyclomine + Simethicone,Dicyclomine 10 mg.+Simethicone 100 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS044943,Meteospasmyl (10 tabs),Alverine Citrate + Simethicone,Alverine Citrate 60 mg +Simethicone 300 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008455,CB-400 (1 tab),Albendazole,Albendazole 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002104,Hexin ฆ่าพยาธิ (4 tabs),Niclosamide + Phenolphthalein,Niclosamide 500 mg.+Phenolphthalein 75 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004217,Zentel 400 mg (1 tab),Albendazole,Albendazole 400 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001465,Combizym (10 tabs),digestive enzyme,(Cellulase+Protease+Amylase) 24 mg.+(Lipase+Protease+Amylase) 220 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001636,Diasgest (10 tabs),Diastase + Aluminium magnesium silicate + Sodium bicarbonate + Calcium carbonate,diastase 50 mg+Aluminium magnesium silicate 100 mg+Sodium bicarbonate 60 mg+Calcium carbonate,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002043,Gaszym (10 tabs),simethicone + pancreatin,Simethicone 60 mg.+Pancreatin 4NF 200 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002681,Magesto-F bottle 100s (100 tabs),Mamylase + Thiamine mononitrate + Diastase + Scopolia extract,Mamylase+Thiamine mononitrate+Diastase+Scopolia extract+Calcium carbonate,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002224,Magesto-F sachet 10s (10 tabs),Mamylase + Thiamine mononitrate + Diastase + Scopolia extract,Mamylase+Thiamine mononitrate+Diastase+Scopolia extract+Calcium carbonate,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003591,Strepsils Chesty Cough ซอง 8s (8 tabs),Ambroxol HCl,Ambroxol HCl 15 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003642,Strepsils Throat Irritation & Cough กล่อง 24s (24 tabs),Ambroxol HCl,Ambroxol HCl 15 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003641,Strepsils Throat Irritation & Cough ซอง 8s (8 tabs),Ambroxol HCl,Ambroxol HCl 15 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001665,Duran Suspension (60 ml.),Ibuprofen,Ibuprofen 100 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS007151,Ibukids Suspension (60 ml.),Ibuprofen,Ibuprofen 100 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002845,Nurofen Suspension (60 ml.),Ibuprofen,Ibuprofen 100 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS007031,Bromhexine Syrup (60 ml.),Bromhexine HCl,Bromhexine HCl 4 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS008325,Oscin Syrup (30 ml.),Hyoscine-N-butylbromide,Hyoscine-N-butylbromide 5 mg./5 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001097,Annylyn 21 (21 tabs),Gestodene + Ethinylestradiol,Gestodene 0.075 mg.+Ethinylestradiol 0.02 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001098,Annylyn 28 (28 tabs),Gestodene + Ethinylestradiol,Gestodene 0.075 mg.+Ethinylestradiol 0.02 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001232,Belara (21 tabs),Chlormadinone acetate + Ethinylestradiol,Chlormadinone acetate 2 mg.+ Ethinylestradiol 0.03 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040601,Beriz (21 tabs),Cyproterone acetate + Ethinylestradiol,Cyproterone acetate 2 mg.+Ethinylestradiol 0.035 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041443,Camella 28 (28 tabs),Gestodene + Ethinylestradiol,Gestodene 0.075 mg.+Ethinylestradiol 0.03 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001526,Cerazette 28 (28 tabs),Desogestrel,Desogestrel 0.075 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041401,Ciclomex-20 (21 tabs),Gestodene + Ethinylestradiol,Gestodene 0.075 mg.+Ethinylestradiol 0.02 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008781,Dafne 35 (21 tabs),Cyproterone acetate + Ethinylestradiol,Cyproterone acetate 2.0 mg.+Ethinylestradiol 0.035 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001640,Diane-35 (21 tabs),Cyproterone acetate + Ethinylestradiol,Cyproterone acetate 2 mg.+Ethinylestradiol 0.035 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001643,Diora-21 (21 tabs),D-Norgestrel + Ethinylestradiol,D-Norgestrel 0.15 mg.+Ethinylestradiol 0.03 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001644,Diora-28 (28 tabs),D-Norgestrel + Ethinylestradiol,D-Norgestrel 0.15 mg.+Ethinylestradiol 0.03 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001858,Evra (3 sheet),Norelgestromin + Ethinylestradiol ./1 patch,Norelgestromin 6 mg.+Ethinylestradiol 600 mcg./1 patch,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001830,Exluton (28 tabs),Lynestrenol,Lynestrenol 0.5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043846,Herz (28 tabs),Drospirenone + Ethinylestradiol + Placebo,Drospirenone 3 mg.+Ethinylestradiol 0.02 mg.+Placebo 4 tabs,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003715,Laura-35 (21 tabs),Cyproterone acetate + Ethinylestradiol,Cyproterone acetate 2 mg.+Ethinylestradiol 0.035 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002607,Marvelon 21 (21 tabs),Desogestrel + Ethinylestradiol,Desogestrel 0.15 mg.+Ethinylestradiol 0.03 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002608,Marvelon 28 (28 tabs),Desogestrel + Ethinylestradiol,Desogestrel 0.15 mg.+Ethinylestradiol 0.03 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002613,Meliane 21 (21 tabs),Gestodene + Ethinylestradiol,Gestodene 0.075 mg.+Ethinylestradiol 0.02 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002614,Meliane ED 28 (28 tabs),Gestodene + Ethinylestradiol,Gestodene 0.075 mg.+Ethinylestradiol 0.02 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002630,Melodia (21 tabs),Drospirenone + Ethinylestradiol,Drospirenone 3 mg.+Ethinylestradiol 0.030 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002619,Mercilon-21 (21 tabs),Desogestrel + Ethinylestradiol,Desogestrel 0.15 mg.+Ethinylestradiol 0.02 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002620,Mercilon-28 (28 tabs),Desogestrel + Ethinylestradiol,Desogestrel 0.15 mg.+Ethinylestradiol 0.02 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002695,Minidoz 28 (28 tabs),Gestodene + Ethinylestradiol,Gestodene 0.060 mg.+Ethinylestradiol 0.015 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002670,Minny-21 (21 tabs),Desogestrel + Ethinylestradiol,Desogestrel 0.15 mg.+Ethinylestradiol 0.02 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002671,Minny-28 (28 tabs),Desogestrel + Ethinylestradiol,Desogestrel 0.15 mg.+Ethinylestradiol 0.02 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044910,Minoz 28 (28 tabs),Gestodene + Ethinylestradiol,Gestodene 0.060 mg.+Ethinylestradiol 0.015 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003032,OC-35 (21 tabs),Cyproterone acetate + Ethinylestradiol,Cyproterone acetate 2 mg.+Ethinylestradiol 0.035 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003143,Preme (21 tabs),Cyproterone Acetate + Ethinylestradiol,Cyproterone Acetate 2 mg.+Ethinylestradiol 0.035 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046511,Preme 28 (28 tabs),Cyproterone Acetate + Ethinylestradiol,Cyproterone Acetate 2 mg.+Ethinylestradiol 0.035 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047721,Slinda (28 tabs),Drospirenone,Drospirenone 4 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003731,Sucee (21 tabs),Cyproterone Acetate + Ethinylestradiol,Cyproterone Acetate 2 mg.+Ethinylestradiol 0.035 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003699,Sucee 28 (28 tabs),Cyproterone Acetate + Ethinylestradiol,Cyproterone Acetate 2 mg.+Ethinylestradiol 0.035 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003655,Synfonia (28 tabs),Drospirenone + Ethinylestradiol,Drospirenone 3 mg.+Ethinylestradiol 0.02 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004153,Yasmin-21 (21 tabs),Drospirenone + Ethinylestradiol,Drospirenone 3 mg.+Ethinylestradiol 0.030 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004154,Yaz (28 tabs),Drospirenone + Ethinylestradiol,Drospirenone 3 mg.+Ethinylestradiol 0.02 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040024,Arthro-K Orange 1500 (3.95 g.),Crystalline Glucosamine Sulfate Potassium Chloride,Crystalline Glucosamine Sulfate Potassium Chloride (เทียบเท่ากับ Glucosamine sulfate 1500 mg.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS040032,Artrofort Complex (30 sachets),Crystalline Glucosamine Sulphate .(เทียบเท่ากับ Glucosamine + Sodium Chloride .) + Chondroitin Sulphate Sodium,Crystalline Glucosamine Sulphate 942 mg.(เทียบเท่ากับ Glucosamine 750 mg.+Sodium Chloride 192 mg.)+Chondroitin Sulphate Sodium 600 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001521,Coxium (30 sachets),Glucosamine Sulfate NaCl,Glucosamine Sulfate NaCl 1500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007743,Glucosa 1500 ชนิดผง (10 sachets),Glucosamine sulfate sodium,Glucosamine sulfate sodium 1500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043605,Glucosa 1500 ชนิดผง (รสมะนาว) (10 sachets),Glucosamine sulfate sodium,Glucosamine sulfate sodium 1500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007739,Glucosa 500 (10 cap),Glucosamine sulfate sodium,Glucosamine sulfate sodium 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007225,Osteotin 500 (10 cap),Glucosamine sulfate sodium,Glucosamine sulfate sodium 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001003,Viaflex 1500 (30 sachets),Glucosamine Sulfate Sodium Chloride,Glucosamine Sulfate Sodium Chloride 1884 mg. (Glucosamine Sulfate 1500 mg./1 ซอง),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001705,Viartril-S (30 sachets),Glucosamine Sulphate,Glucosamine Sulphate 1500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040631,Bromcolex (10 tabs),Bromhexine HCl,Bromhexine HCl 8 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008046,Extorant (10 tabs),Bromhexine HCl + Guaifenesin,Bromhexine HCl 4 mg+Guaifenesin 100 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007196,Mucoxine-F (10 tabs),Ambroxol HCl,Ambroxol HCl 30 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007601,Polibroxol (10 tabs),Ambroxol HCl,Ambroxol HCl 30 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008201,Bisacod (10 tabs),Bisacodyl,Bisacodyl 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007554,Losalac Syrup (100 ml.),Lactulose,Lactulose 66.7 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008768,T.Man-Lax (10 tabs),Bisacodyl + Dioctyl sodium sulfosuccinate,Bisacodyl 5 mg.+Dioctyl sodium sulfosuccinate 15 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001975,Firide 1 mg (10 tabs),Finasteride,Finasteride 1 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040003,Asiazole-T.N. tabslets (4 tabs),Tinidazole,Tinidazole 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007954,Gyno Gena-500 (4 tabs),Tinidazole,Tinidazole 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS045662,Navamed (2 tabs),Dimenhydrinate,Dimenhydrinate 50 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS048649,Tavipec cap (10 cap),Spike Lavender Oil,Spike Lavender Oil 150 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040613,Bakamol 500 mg strip 10s (10 tabs),Paracetamol,Paracetamol 500 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS007044,Cemol 500 mg strip 10s เม็ดรี (10 tabs),Paracetamol,Paracetamol 500 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS003108,Para Cap strip 10s (10 tabs),Paracetamol,Paracetamol 500 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS003503,Sara เม็ดกลม แผง 10s (10 tabs),Paracetamol,Paracetamol 500 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS003654,Sara เม็ดรี แผง 10s (10 tabs),Paracetamol,Paracetamol 500 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS003762,Tylenol 500 mg strip 10s (10 tabs),paracetamol,Paracetamol 500 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS001014,Air-X (10 tabs),Simethicone,Simethicone 80 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS001089,Air-X Lemon (10 tabs),Simethicone,Simethicone 80 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS001085,Air-X Orange (10 tabs),Simethicone,Simethicone 80 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS001088,Air-X Sugar Free (10 tabs),Simethicone,Simethicone 40 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS001641,Dioxzye (10 tabs),Simethicone,Simethicone 80 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS040030,Amitriptyline 10 mg (10 tabs),Amitriptyline Hydrochloride,Amitriptyline Hydrochloride 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004039,Rowatinex (10 cap),Pinene (Alpha + Beta) + Camphene + Cineol,Pinene (Alpha+Beta) 31 mg.+Camphene 15 mg.+Cineol 3 mg.+Fenchone 4 mg.+Borneol 10 mg.+Anethol 4 mg.+Olive Oil 33 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007960,Tranxic (10 cap),Tranexamic Acid,Tranexamic Acid 250 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006069,Ambes 10 mg (GPO) (10 tabs),Amlodipine besylate,Amlodipine besylate 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006070,Ambes 5 mg (GPO) (10 tabs),Amlodipine besylate,Amlodipine besylate 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040008,Amlodac 10 (10 tabs),Amlodipine besilate,Amlodipine besilate 10 mg. (eq. to Amlodipine 10 mg.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS040007,Amlodac 5 (10 tabs),Amlodipine besilate,Amlodipine besilate 5 mg. (eq. to Amlodipine 5 mg.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001106,Amlopine 10 mg (10 tabs),Amlodipine besylate,Amlodipine besylate 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001096,Amlopine 5 mg (10 tabs),Amlodipine besylate,Amlodipine besylate 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001114,Anapril 20 mg (10 tabs),Enalapril Maleate,Enalapril Maleate 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001113,Anapril 5 mg (10 tabs),Enalapril Maleate,Enalapril Maleate 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007484,Annalol-10 (10 tabs),Propranolol HCl,Propranolol HCl 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001237,Betalol 10 mg (10 tabs),Propranolol,Propranolol 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001281,Betalol 40 mg (10 tabs),Propranolol HCl,Propranolol HCl 40 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040634,Blopress 16 mg (28 tabs),Candesartan Cilexetil,Candesartan Cilexetil 16 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001275,Blopress 8 mg (7 tabs),Candesartan cilexetil,Candesartan cilexetil 8 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041442,Caraten 6.25 (10 tabs),Carvedilol,Carvedilol 6.25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001415,Cardeloc (10 tabs),Metoprolol Tartrate,Metoprolol Tartrate 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006702,Catenol 50 mg (10 tabs),Atenolol,Atenolol 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001443,Cesoline W (10 tabs),Hydralazine HCl,Hydralazine HCl 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001453,Concor 2.5 mg (10 tabs),Bisoprolol fumarate,Bisoprolol fumarate 2.5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001454,Concor 5 mg (10 tabs),Bisoprolol fumarate,Bisoprolol fumarate 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS042320,Diovan 160 mg (28 tabs),Valsartan,Valsartan 160 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS042319,Diovan 80 mg (28 tabs),Valsartan,Valsartan 80 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001845,Enaril 20 mg (10 tabs),Enalapril Maleate,Enalapril Maleate 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001812,Enaril 5 mg (10 tabs),Enalapril Maleate,Enalapril Maleate 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS042814,Exforge 5 mg/160 mg (28 tabs),Amlodipine + Valsartan,Amlodipine 5 mg.+Valsartan 160 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043130,Felopine 5 (3 blister),Felodipine,Felodipine 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044317,Kerdica 20 mg (10 tabs),Manidipine HCl,Manidipine HCl 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044532,Lanzaar 100 mg (3 blister),Losartan potassium,Losartan potassium 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044546,Lanzaar 50 (10 tabs),Losartan potassium,Losartan potassium 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002549,Loranta 100 mg (10 tabs),Losartan potassium,Losartan potassium 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002522,Loranta 50 mg (10 tabs),Losartan potassium,Losartan potassium 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006044,Losartan 50 mg (GPO) (15 tabs),Losartan potassium,Losartan potassium 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007556,Loxidil 5 mg 100s (100 tabs),Minoxidil,Minoxidil 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003146,Madiplot 10 mg (10 tabs),Manidipine HCl,Manidipine HCl 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002638,Madiplot 20 mg (10 tabs),Manidipine HCl,Manidipine HCl 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002808,Nelapine 20 SR (3 blister),Nifedipine,Nifedipine 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002862,Norvasc 5 mg (10 tabs),Amlodipine besylate,Amlodipine besylate 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003174,Plendil 5 mg (30 tabs),Felodipine,Felodipine 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003144,Prenolol 100 mg (10 tabs),Atenolol,Atenolol 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003140,Prenolol 25 mg (10 tabs),Atenolol,Atenolol 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003145,Prenolol 50 mg (10 tabs),Atenolol,Atenolol 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS048635,Tanzaril 100 mg (10 tabs),Losartan potassium,Losartan potassium 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003703,Tanzaril 50 mg (10 tabs),Losartan potassium,Losartan potassium 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006259,Zanidip 10 mg (28 tabs),Lercanidipine HCl,Lercanidipine HCl 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040006,Amaryl 2 mg (10 tabs),Glimepiride,Glimepiride 2 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007131,Benclamide (10 tabs),Glibenclamide,Glibenclamide 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001611,Daonil 5 mg (10 tabs),Glibenclamide,Glibenclamide 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001639,Diamicron MR 60 mg (15 tabs),Gliclazide,Gliclazide 60 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001649,Dipazide (10 tabs),Glipizide,Glipizide 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043612,Galvus 50 mg (56 tabs),Vildagliptin,Vildagliptin 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043603,Glizide (15 tabs),Glipizide,Glipizide 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002021,Glucophage 500 mg (10 tabs),Metformin HCI,Metformin HCI 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002035,Glucophage 850 mg (10 tabs),Metformin HCl,Metformin HCl 850 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043610,Glucophage XR 1000 mg (3 blister),Metformin HCl,Metformin HCl 1000 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001959,Glucophage XR 750 mg (15 tabs),Metformin HCl,Metformin HCl 750 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043611,Glycediab 5 mg (10 tabs),Glipizide,Glipizide 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044920,Metfor-500 (10 tabs),Metformin HCl,Metformin HCl 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006205,Metformin Hydrochloride 500 mg (GPO) (10 tabs),Metformin HCl,Metformin HCl 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044902,Miformin 500 mg (10 tabs),Metformin HCl,Metformin HCl 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002628,Minidiab (15 tabs),Glipizide,Glipizide 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003612,Siamformet 500 mg (10 tabs),Metformin HCl,Metformin HCl 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003614,Siamformet 850 mg (10 tabs),Metformin HCl,Metformin HCl 850 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006734,Sugril 5 mg (10 tabs),Glibenclamide,Glibenclamide 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001960,Atorvastatin Sandoz 10 mg (10 tabs),Atorvastatin Calcium,Atorvastatin Calcium 10.34 mg. (eq. to Atorvastatin 10 mg.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001945,Atorvastatin Sandoz 20 mg (10 tabs),Atorvastatin Calcium,Atorvastatin Calcium 20.68 mg. (eq. to Atorvastatin 20 mg.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001918,Atorvastatin Sandoz 40 mg (10 tabs),Atorvastatin Calcium,Atorvastatin Calcium 41.36 mg. (eq. to Atorvastatin 40 mg.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001226,Bestatin 10 mg (10 tabs),Simvastatin,Simvastatin 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001225,Bestatin 20 mg (10 tabs),Simvastatin,Simvastatin 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001223,Bestatin 40 mg (10 tabs),Simvastatin,Simvastatin 40 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041432,Chlovas-40 mg. (10 tabs),Atorvastatin Calcium,Atorvastatin Calcium 43.3 mg. (eq. to Atorvastatin 40 mg.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001922,Fibril 160 (10 cap),Fenofibrate,Fenofibrate 160 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002132,Hidil 300 mg (10 cap),Gemfibrozil,Gemfibrozil 300 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002133,Hidil 600 mg (10 tabs),Gemfibrozil,Gemfibrozil 600 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006466,Supralip NT 145 mg (10 tabs),Fenofibrate,Fenofibrate 145 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS049670,Xarator 10 mg. (30 tabs),Atorvastatin,Atorvastatin 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS049671,Xarator 20 mg. (30 tabs),Atorvastatin,Atorvastatin 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004228,Zimmex 10 mg (10 tabs),Simvastatin,Simvastatin 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001222,Zimmex 20 mg (10 tabs),Simvastatin,Simvastatin 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS049784,Zimmex 40 mg (10 tabs),Simvastatin,Simvastatin 40 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006693,Zimva 10 mg (GPO) (10 tabs),Simvastatin,Simvastatin 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006691,Zimva 20 mg (GPO) (10 tabs),Simvastatin,Simvastatin 20 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007005,Altone (10 tabs),Spironolactone,Spironolactone 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001987,Furetic 40 mg (10 tabs),Furosemide,Furosemide 40 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006802,GPO - HCTZ 25 (10 tabs),Hydrochlorothiazide,Hydrochlorothiazide 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006801,GPO - HCTZ 50 (10 tabs),Hydrochlorothiazide,Hydrochlorothiazide 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001480,HCTZ 25 (10 tabs),Hydrochlorothiazide,Hydrochlorothiazide 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002633,Moduretic (10 tabs),Hydrochlorothiazide + Amiloride HCl,Hydrochlorothiazide 50 mg.+ Amiloride HCl 5 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001439,Cardura XL 4 mg (10 tabs),Doxazosin,Doxazosin 4 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001429,Cazosin 2 mg (10 tabs),Doxazosin mesylate,Doxazosin mesylate 2 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002016,Firide 5 mg (10 tabs),Finasteride,Finasteride 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046561,Pencor 2 (10 tabs),Doxazosin,Doxazosin 2 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001666,Dilantin (100 cap),Phenytoin Sodium,Phenytoin Sodium 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002047,Gabutin 100 mg (10 cap),Gabapentin,Gabapentin 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002046,Gabutin 300 mg (10 cap),Gabapentin,Gabapentin 300 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002561,Lyrica 25 mg (14 cap),Pregabalin,Pregabalin 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002591,Lyrica 75 mg (14 cap),Pregabalin,Pregabalin 75 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002863,Neurontin 100 mg (10 cap),Gabapentin,Gabapentin 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002823,Neurontin 300 mg (10 cap),Gabapentin,Gabapentin 300 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046516,Pregabalin Sandoz 25 mg (7 cap),Pregabalin,Pregabalin 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046517,Pregabalin Sandoz 75 mg (7 cap),Pregabalin,Pregabalin 75 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS042823,Euthyrox 100 mcg สูตรปรับปรุง (100 tabs),Levothyroxine Sodium,Levothyroxine Sodium 100 mcg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS042824,Euthyrox 50 mcg สูตรปรับปรุง (100 tabs),Levothyroxine Sodium,Levothyroxine Sodium 50 mcg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046506,Pyroid (10 tabs),Propylthiouracil,Propylthiouracil 50 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003746,Timazol (10 tabs),Methimazole,Methimazole 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007004,Alinol 100 mg (10 tabs),Allopurinol,Allopurinol 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001460,Colchicine 0.6 mg (10 tabs),Colchicine,Colchicine 0.6 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008731,Colchimex (10 tabs),Colchicine,Colchicine 0.6 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007613,Puride 100 mg (10 tabs),Allopurinol,Allopurinol 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007611,Puride 300 mg (10 tabs),Allopurinol,Allopurinol 300 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003732,Tolchicine T.O. (10 tabs),Colchicine,Colchicine 0.6 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007312,Xanol (10 tabs),Allopurinol,Allopurinol 300 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001107,Apolets (10 tabs),Clopidogrel,Clopidogrel 75 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001070,Asa-tabs (10 tabs),Aspirin,Aspirin 81 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001077,Aspilets (10 tabs),Aspirin,Aspirin 81 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003651,Sermion 10 mg (25 tabs),Nicergoline,Nicergoline 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003652,Sermion 30 mg (15 tabs),Nicergoline,Nicergoline 30 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004151,Xenical (21 cap),Orlistat,Orlistat 120 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043159,Ferli-6 (30 tabs),Ferrous fumarate + Folic + Pyridoxine hydrochloride,Ferrous fumarate 200 mg +Folic 0.5 mg +Pyridoxine hydrochloride 5 mg,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008045,Ferropro (100 tabs),Ferrous Fumarate + Thiamine Mononitrate + Riboflavin + Cyanocobalamin,Ferrous Fumarate 200 mg.+Thiamine Mononitrate (B1) 2 mg.+Riboflavin (B2) 2 mg.+Cyanocobalamin (B12) 5 mcg.+Niacin (B3) 10 mg.+.Ascorbic Acid 20 mg.+Folic Acid 100 mcg.+Calcium Phosphate Tribasic 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007123,Folic Acid (10 tabs),Folic Acid,Folic Acid 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006704,Folivit tabslet (100 tabs),Folic Acid,Folic Acid 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002101,Haemo-Vit ยาบำรุง (100 tabs),Dried Ferrous Sulfate + Aneurine HCl + Pyridoxine HCl + Cyanocobalamin,Dried Ferrous Sulfate 135 mg.+Aneurine HCl 2 mg.+Pyridoxine HCl (B6) 0.5 mg.+Cyanocobalamin (B12) 5 mcg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003027,Obimin-AZ (60 tabs),Vit.A + Vit.D + Vit.E + Vit. C,"Vit.A 5,000 IU+Vit.D 400 IU+Vit.E 10 IU+Vit. C 75 mg.+Vit.B1 2 mg.+Vit.B2 3 mg.+Vit.B6 2.5 mg.+Vit.B12 3 mcg.+Nicotinamide 20 mg.+Folic Acid 1 mg.+Ferrous Fumarate 200 mg.+Calcium Lactate 250 mg.+Potassium Iodine 0.2 mg.+Zinc Sulfate 20 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS040014,Amsel Nature C (30 cap),Acerola Cherry Extract + Rosehips Extract + Cranberry Extract + Ascorbic Acid,Acerola Cherry Extract 360 mg. + Rosehips Extract 100 mg. + Cranberry Extract 50 mg. + Ascorbic Acid 35 mg. + Citrus Bioflavonoid 6.5 mg. + Rutin 5 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008321,Bio-C-Vitamin (30 tabs),Vitamin C + Calcium,Vitamin C 750 mg.+Calcium 85 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001309,Blackmores Bio C กลาง (62 tabs),Ascorbic acid + Sodium ascorbate + Calcium ascorbate + Bioflavonoids,Ascorbic acid 400 mg.+Sodium ascorbate 350 mg.+Calcium ascorbate 400 mg.+Bioflavonoids 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001308,Blackmores Bio C เล็ก (31 tabs),Ascorbic acid + Sodium ascorbate + Calcium ascorbate + Bioflavonoids,Ascorbic acid 400 mg.+Sodium ascorbate 350 mg.+Calcium ascorbate 400 mg.+Bioflavonoids 25 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040622,Blackmores Naturetime Buffered C (31 tabs),Vitamin C .(Ascorbic acid + Calcium ascorbate .) + Bioflavonoids + Hesperidin,Vitamin C 500 mg.(Ascorbic acid 280 mg.+Calcium ascorbate 266 mg.) +Bioflavonoids 25 mg.+Hesperidin 25 mg.+Rutin 50 mg.+Rosehips extract equiv. to dry fruit 250 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041434,C-Force 1000 (6 tabs),Vit.C . (Ascorbic acid + Sodium Ascorbate .),Vit.C 1000 mg. (Ascorbic acid 524 mg.+Sodium Ascorbate 476 mg.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS044313,Klean & Kare Saline (ANB) (200 ml.),Sodium Chloride,Sodium Chloride 0.9 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044321,Klean & Kare Saline กลาง (500 ml.),Sodium Chloride,Sodium Chloride 0.9 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044320,Klean & Kare Saline เล็ก (100 ml.),normal saline,Sodium Chloride 0.9 g./100 ml.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS044322,Klean & Kare Saline ใหญ่ (1000 ml.),Sodium Chloride,Sodium Chloride 0.9 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004868,Normal Saline (Otsuka) (1000 ml.),Sodium Chloride,Sodium Chloride 0.9 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS045626,Normal Saline (Thai Nakorn Patana) (1000 ml.),Sodium Chloride,Sodium Chloride 0.9 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047669,Sofclens Normal Saline Solution (100 ml.),Sodium Chloride 0.9 % w/v,Sodium Chloride 0.9 % w/v,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004870,น้ำเกลือล้างแผล (วิทยาศรม) (120 ml.),Sodium Chloride,Sodium Chloride 0.9 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001032,Ammeltz เล็ก (48 ml.),L-Menthol + DL-Campher + Methyl Salicylate + Vanillylamide,L-Menthol+DL-Campher+Methyl Salicylate+Vanillylamide,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001031,Ammeltz ใหญ่ (82 ml.),L-Menthol + DL-Campher + Methyl Salicylate + Vanillylamide,L-Menthol+DL-Campher+Methyl Salicylate+Vanillylamide,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040020,Arotika Rub (35 g.),Capsicum Tincture 0.05% w/v + Methyl Salicylate + Menthol + Clove Oil,Capsicum Tincture 0.05% w/v 4.5 g.+Methyl Salicylate 10.2 g.+ Menthol 5.44 g.+Clove Oil 1.36 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007711,Capsika Gel (35 g.),Capsaicin 0.0125%,Capsaicin 0.0125%/100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001541,Capsika-25 Gel (35 g.),Capsaicin 0.025%,Capsaicin 0.025%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001475,Counterpain Cool กลาง (60 g.),Menthol 4%,Menthol 4%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001474,Counterpain Cool เล็ก (30 g.),Menthol 4%,Menthol 4%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001476,Counterpain Cool ใหญ่ (120 g.),Menthol 4%,Menthol 4%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001472,Counterpain กลาง (60 g.),Methyl Salicylate 10.2% + Eugenol 1.36% + Menthol 5.44%,Methyl Salicylate 10.2%+Eugenol 1.36%+Menthol 5.44%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001471,Counterpain เล็ก (30 g.),Menthol 5.44% + Methyl Salicylate 10.2% + Eugenol 1.36%,Menthol 5.44%+Methyl Salicylate 10.2%+Eugenol 1.36%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001473,Counterpain ใหญ่ (120 g.),Menthol 5.44% + Methyl Salicylate 10.2% + Eugenol 1.36%,Menthol 5.44%+Methyl Salicylate 10.2%+Eugenol 1.36%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001924,Flanil (30 g.),Menthol + Methyl Salicylate + Eugenol,Menthol 5.44 g.+Methyl Salicylate 10.20 g.+Eugenol 1.36 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008608,Muscort Cream (25 g.),Menthol 5.44% + Methyl Salicylate 10.12% + Eugenol 1.36%,Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002817,Neotica Balm เล็ก (30 g.),Menthol + Camphor + Methyl Salicylate + Eucalyptus oil,Menthol 5.64 g.+Camphor 1.8 g.+Methyl Salicylate 12.5 g.+Eucalyptus oil 1.8 g.+Eugenol 1.36 g./100 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002819,Neotica Balm ใหญ่ (100 g.),Menthol + Camphor + Methyl Salicylate + Eucalyptus oil,Menthol 5.64 g.+Camphor 1.8 g.+Methyl Salicylate 12.5 g.+Eucalyptus oil 1.8 g.+Eugenol 1.36 g./100 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003118,Perskindol Classic Gel (100 ml.),topical pain rub,Menthol 1.5%+Pine Needle Oil 1.35%+Wintergreen Oil 0.35%+Orange Oil 0.4%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003119,Perskindol Classic Spray (150 ml.),Menthol 1.5% + Pine Needle Oil 1.35% + Wintergreen Oil 0.35% + Orange Oil 0.4%,Menthol 1.5%+Pine Needle Oil 1.35%+Wintergreen Oil 0.35%+Orange Oil 0.4%+Lemon Oil 0.1%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003117,Perskindol Cool Spray (250 ml.),I-Menthol,I-Menthol 5 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046527,Plaivana Cream (35 g.),น้ำมันไพล,น้ำมันไพล 14 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002875,Reparil Ice Spray (200 ml.),Butane + Pentane + Isobutane + Propane,Butane+Pentane+Isobutane+Propane+Isopropyl alcohol+Menthol+Camphor,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003602,Salonpas Cream (30 g.),Methyl salicylate + Menthol,Methyl salicylate 15 g.+Menthol 7 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001991,Fucidin Cream (5 g.),fusidic acid cream,Fusidic acid 20 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001923,Fucidin Ointment (5 g.),Sodium fusidate,Sodium fusidate 20 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002038,Gentrex Cream (5 g.),Gentamicin Sulfate,Gentamicin Sulfate (eq. to Gentamicin 1 mg/1 g),no_peds_reference,no pediatric reference and no parseable concentration
+BDS008231,Mulacin Ointment (5 g.),Mupirocin 2% w/w,Mupirocin 2% w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007768,Skinfect Cream เล็ก (5 g.),Gentamicin,Gentamicin 1 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007766,Skinfect Cream ใหญ่ (15 g.),Gentamicin,Gentamicin 1 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006059,Candix Solution (15 ml.),Clotrimazole,Clotrimazole 1 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001489,Canesten Cream 10 g (10 g.),clotrimazole cream,Clotrimazole 1 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001422,Canesten Cream 20 g (20 g.),Clotrimazole,Clotrimazole 1 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041433,Canesten Cream O.D. (10 g.),Bifonazole,Bifonazole 1 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007735,Fango Cream เล็ก (5 g.),Clotrimazole,Clotrimazole 1 g/100 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043117,Fango Cream ใหญ่ (15 g.),Clotrimazole,Clotrimazole 1 g/100 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007542,Fungasin Cream เล็ก (5 g.),ketoconazole cream,Ketoconazole 20 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007543,Fungasin Cream ใหญ่ (20 g.),Ketoconazole,Ketoconazole 20 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008451,Funginox Solution (25 ml.),ketoconazole solution,Ketoconazole 2%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002562,Lamazone Cream (10 g.),Clotrimazole,Clotrimazole 1 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002563,Lamisil Cream (5 g.),Terbinafine HCl,Terbinafine HCl 10 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002648,Mycoderm-C 1% (75 g.),Clotrimazole BP 1% w/w,Clotrimazole BP 1% w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS045665,Nizoral Cream 15 g. (15 g.),Ketoconazole,Ketoconazole 20 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002829,Nizoral Cream เล็ก (5 g.),Ketoconazole,Ketoconazole 20 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004205,Zema Lotion (15 ml.),Salicylic Acid 11.8% + Resorcinol 3.8% + Phenylic Acid 0.285%,Salicylic Acid 11.8%+Resorcinol 3.8%+Phenylic Acid 0.285%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006745,Antergan Cream (10 g.),hydrocortisone + mepyramine cream,Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001057,Aristocort 0.02% (15 g.),triamcinolone cream,Triamcinolone Acetonide 0.02%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001058,Aristocort 0.1% (15 g.),Triamcinolone Acetonide,Triamcinolone Acetonide 1 mg/1 g (0.1%)+Preservative (Benzyl alcohol 2.0%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS007501,Betatone Cream เล็ก (5 g.),Betamethasone Valerate,Betamethasone Valerate (eq. to Betamethasone 0.10 g/100 g),no_peds_reference,no pediatric reference and no parseable concentration
+BDS007502,Betatone Cream ใหญ่ (15 g.),Betamethasone Valerate,Betamethasone Valerate (eq. to Betamethasone 0.10 g/100 g),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001246,Betnovate Cream ใหญ่ (15 g.),Betamethasone 17-Valerate w/w,Betamethasone 17-Valerate 0.122 %w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001216,Betnovate Scalp (30 ml.),Betamethasone 17-Valerate 0.122 % w/w,Betamethasone 17-Valerate 0.122 % w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041408,Clinivate Cream ใหญ่ (15 g.),Betamethasone Valerate (,Betamethasone Valerate (eq. to Betamethasone 1 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006198,Clinoderm Cream (15 g.),Clobetasol Propionate,Clobetasol Propionate 0.05 g/100 g (0.05%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS007514,Clobevate Cream เล็ก (5 g.),Clobetasol Propionate,Clobetasol Propionate 0.05 g/100 g (0.05%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS007515,Clobevate Cream ใหญ่ (15 g.),Clobetasol Propionate,Clobetasol Propionate 0.05 g/100 g (0.05%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001621,Dermatop Cream เล็ก (5 g.),Prednicarbate,Prednicarbate 2.5 mg/1 g (0.25%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001622,Dermovate Cream เล็ก (5 g.),Clobetasol Propionate 0.05% w/w,Clobetasol Propionate 0.05% w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001623,Dermovate Cream ใหญ่ (15 g.),Clobetasol Propionate 0.05% w/w,Clobetasol Propionate 0.05% w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001630,Dermovate Ointment (5 g.),Clobetasol Propionate 0.05% w/w,Clobetasol Propionate 0.05% w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001660,Dermovate Scalp (30 ml.),Clobetasol Propionate 0.05% w/w,Clobetasol Propionate 0.05% w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001650,Diprosalic Ointment (5 g.),Betamethasone Dipropionate + Salicylic acid 3%,Betamethasone Dipropionate (eq. to Betamethasone 0.05%)+Salicylic acid 3%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001546,Diprosalic Ointment ใหญ่ (15 g.),Betamethasone Dipropionate + Salicylic acid 3%,Betamethasone Dipropionate (eq. to Betamethasone 0.05%)+Salicylic acid 3%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001699,Diprotop Ointment (5 g.),Betamethasone Dipropionate + Propylene Glycol,Betamethasone Dipropionate 0.64 mg (eq. to Betamethasone 0.5 mg)+Propylene Glycol,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001803,Elomet 0.1 % (5 g.),Mometasone Furoate,Mometasone Furoate 1 mg/1 g (0.1%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001807,Elomet 0.1% (15 g.),Mometasone Furoate,Mometasone Furoate 1 mg/1 g (0.1%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001607,Elomet Lotion (30 ml.),Mometasone Furoate + Isopropyl Alcohol,Mometasone Furoate 1 mg+Isopropyl Alcohol 400 mg/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006023,Epiklin Skin Ointment (15 g.),Betamethasone Dipropionate + Salicylic acid,Betamethasone Dipropionate 0.64 mg+Salicylic acid 30 mg/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001825,Esperson (5 g.),Desoximetasone,Desoximetasone 2.5 mg/1 g (0.25%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS042807,Esperson กลาง (15 g.),Desoximetasone,Desoximetasone 2.5 mg/1 g (0.25%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS003719,T.A.Cream 0.02% (15 g.),Triamcinolone Acetonide,Triamcinolone Acetonide 0.02 g/100 g (0.02%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS003773,T.A.Cream 0.1% เล็ก (5 g.),Triamcinolone Acetonide,Triamcinolone Acetonide 0.1 g/100 g (0.1%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS003780,T.A.Cream 0.1% ใหญ่ (15 g.),Triamcinolone Acetonide,Triamcinolone Acetonide 0.1 g/100 g (0.1%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS008756,Tacinol 0.02 เล็ก (5 g.),Triamcinolone Acetonide 0.02% w/w,Triamcinolone Acetonide 0.02% w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008757,Tacinol 0.02 ใหญ่ (15 g.),Triamcinolone Acetonide 0.02% w/w,Triamcinolone Acetonide 0.02% w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008758,Tacinol 0.1 เล็ก (5 g.),Triamcinolone Acetonide 0.1 % w/w,Triamcinolone Acetonide 0.1 % w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008759,Tacinol 0.1 ใหญ่ (15 g.),Triamcinolone Acetonide 0.1 % w/w,Triamcinolone Acetonide 0.1 % w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001831,Topicort Skin Cream (15 g.),Desoximetasone,Desoximetasone 2.5 mg/1 g (0.25%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS048634,Topoxy Skin Cream (10 g.),Desoximetasone 0.25%,Desoximetasone 0.25%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007775,Zyno 0.02% (5 g.),Triamcinolone Acetonide,Triamcinolone Acetonide 0.02 g/100 g (0.02%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS007776,Zyno 0.1% (5 g.),Triamcinolone Acetonide,Triamcinolone Acetonide 0.1 g/100 g (0.1%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001491,Canasone C.B. Cream (15 g.),clotrimazole + betamethasone cream,Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001417,Canazol-Be Cream ใหญ่ (15 g.),Clotrimazole + Betamethasone Dipropionate,Clotrimazole 1 g+Betamethasone Dipropionate (eq. to Betamethasone 0.1 g)/100 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007517,Clotribet-D Cream เล็ก (5 g.),Clotrimazole + Betamethasone Dipropionate,Clotrimazole 1 g+Betamethasone Dipropionate 0.064 g (eq. to Betamethasone 0.05 g)/100 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007516,Clotribet-D Cream ใหญ่ (15 g.),Clotrimazole + Betamethasone Dipropionate,Clotrimazole 1 g+Betamethasone Dipropionate 0.064 g (eq. to Betamethasone 0.05 g)/100 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007736,Fango-B Cream เล็ก (5 g.),Clotrimazole + Betamethasone Valerate,Clotrimazole 1 g+Betamethasone Valerate (eq. to Betamethasone 0.1 g)/100 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001956,Fango-B Cream ใหญ่ (15 g.),Clotrimazole + Betamethasone Valerate,Clotrimazole 1 g+Betamethasone Valerate (eq. to Betamethasone 0.1 g)/100 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001932,Fungiderm-B (20 g.),Clotrimazole + Betamethasone Valerate,Clotrimazole 1 g+Betamethasone Valerate (eq. to Betamethasone 0.1 g)/100 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002538,Lymarin Cream ใหญ่ (15 g.),Miconazole Nitrate 2% + Triamcinolone Acetonide 0.2% w/w,Miconazole Nitrate 2%+Triamcinolone Acetonide 0.2% w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002650,Myda-B Cream เล็ก (5 g.),Clotrimazole 1% + Betamethasone Valerate w/w,Clotrimazole 1%+Betamethasone Valerate (eq. to Betamethasone 0.1%) w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002651,Myda-B Cream ใหญ่ (15 g.),Clotrimazole 1% + Betamethasone Valerate w/w,Clotrimazole 1%+Betamethasone Valerate (eq. to Betamethasone 0.1%) w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008239,Myrazole-B Cream (5 g.),Clotrimazole 1% + Betamethasone Valerate w/w,Clotrimazole 1%+Betamethasone Valerate (eq. to Betamethasone 0.1%) w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008221,Tara-Plus Cream (15 g.),Miconazole Nitrate + Triamcinolone Acetonide,Miconazole Nitrate 2 g+Triamcinolone Acetonide 0.1 g/100 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002023,Glycerin Suppositories For Adults (12 sticks),Sodium Stearate,Glycerol (Glycerin) 91 g.+Sodium Stearate 9 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002032,Glycerin Suppositories For Infants (12 sticks),Sodium Stearate,Glycerol 91 g.+Sodium Stearate 9 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006463,Glymorin Children Suppositories (10 sticks),Glycerin,Glycerin 1365 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006743,Glymorin Suppositories (10 sticks),Glycerin,Glycerin 2320 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003906,U-Enema (100 ml.),Sodium Chloride,Sodium Chloride 15 g./100 ml,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003907,Unison Enema เด็ก (10 ml.),Sodium Chloride,Sodium Chloride 15 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003905,Unison Enema ผู้ใหญ่ (20 ml.),Sodium Chloride,Sodium Chloride 15 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001437,ChlorOph Eye Drops (5 ml.),chloramphenicol eye drops,Chloramphenicol 5 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001515,ChlorOph Eye Ointment (5 g.),Chloramphenicol,Chloramphenicol 10 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041410,Cogetine Ointment (5 g.),Chloramphenicol 1%,Chloramphenicol 1% (1 g./100 g.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001847,Fucithalmic Eye Drops (5 g.),fusidic acid eye drops,Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003181,Poly-Oph Eye Drops (5 ml.),Neomycin Sulfate + Polymyxin B Sulfate + Gramicidin,"Neomycin Sulfate (eq. to Neomycin 2 mg.)+Polymyxin B Sulfate (eq. to Polymyxin B 5,000 Units)+Gramicidin 0.025 mg./1 ml.",calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS003721,Terramycin Ophthalmic Ointment (3.5 g.),ophthalmic antibiotic ointment,"Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003861,Tobrex Ophthalmic Solution (5 ml.),Tobramycin,Tobramycin 3 mg.+Preservative (Benzalkonium Chloride 0.1 mg.)/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001052,Allergis (5 ml.),Antazoline HCl + Tetrahydrozoline HCl,Antazoline HCl 0.5 mg+Tetrahydrozoline HCl 0.4 mg/1 ml,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS040035,Antazallerge (10 ml.),Antazoline HCl + Tetrahydrozoline HCl,Antazoline HCl 0.5 mg.+Tetrahydrozoline HCl 0.4 mg.+Preservative (Benzalkonium Cl 0.1mg.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001401,Cadexcin.N (4 ml.),Dexamethasone 21 + Neomycin Sulfate,Dexamethasone 21-(disodium phosphate) (eq. to Dexamethasone 21-phosphate 1 mg.)+Neomycin Sulfate (eq. to Neomycin base 3.5 mg.)/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS041404,CD-Oph Eye Drops (5 ml.),Dexamethasone Sodium Phosphate + Chloramphenicol + Tetrahydrozoline HCl,Dexamethasone Sodium Phosphate 1 mg.+Chloramphenicol 5 mg.+Tetrahydrozoline HCl 0.25 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001632,DexOph Eye-Ear Drops (4 ml.),Dexamethasone Sodium Phosphate + Neomycin Sulfate 0.5%,Dexamethasone Sodium Phosphate (eq. to Dexamethasone Phosphate 0.1 %)+Neomycin Sulfate 0.5% (eq. to Neomycin Base 0.35 %)/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001981,Flarex (5 ml.),Fluorometholone Acetate 0.1 % + Monobasic Sodium Phosphate + Sodium Chloride + Edetate Disodium,Fluorometholone Acetate 0.1 %+Monobasic Sodium Phosphate+Sodium Chloride+Edetate Disodium+Hydroxyethylcellulose+Tyloxapol+Hydrochloric Acid+Sodium Hydroxide+Preservative (Edetate Disodium+Benzalkonium Chloride 0.01%)/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006181,FML Ophthalmic Suspension (5 ml.),Fluorometholone 0.1 % + Polyvinyl Alcohol + Sodium Chloride + Sodium Phosphste Monobasic,Fluorometholone 0.1 %+Polyvinyl Alcohol 14 mg.+Sodium Chloride+Sodium Phosphste Monobasic+Sodium Phosphate Dibasic+Polysorbate 80+Preservative (Edetate Disodium+Benzalkonium Chloride 0.04 mg.)/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002117,Hista-Oph (5 ml.),Antazoline HCl 0.05 % + Tetrahydrozoline HCl 0.04% + Hydroxypropyl Methylcellulose,Antazoline HCl 0.05 %+Tetrahydrozoline HCl 0.04%+Hydroxypropyl Methylcellulose+Preservative (Benzalkonium Chloride 0.015%)/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002804,Naphcon-A (15 ml.),Naphazoline HCl 0.025% + Pheniramine Maleate 0.3%,Naphazoline HCl 0.025%+Pheniramine Maleate 0.3%+Preservative (Benzalkonium Chloride 0.01%)/1 ml,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003029,Opsa-His (5 ml.),Antazoline HCl + Tetrahydrozoline HCl,Antazoline HCl 0.5 mg+Tetrahydrozoline HCl 0.4 mg/1 ml,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS003013,Opsil-A (10 ml.),Antazoline HCl BP 0.05 % + Tetrahydrozoline HCl USP 0.04%,Antazoline HCl BP 0.05 %+Tetrahydrozoline HCl USP 0.04%+Preservative (Benzalkonium Cl 0.01%)/1 ml,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046500,Pataday Ophthalmic Solution (2.5 ml.),Olopatadine HCl + Povidone + Dibasic Sodium Phosphate + Sodium Chloride,Olopatadine HCl 2.22 mg (eq. to Olopatadine 2 mg (0.2%)+Povidone+Dibasic Sodium Phosphate+Sodium Chloride+Hydrochloric Acid /Sodium Hydroxide+Preservative (Edetate Disodium+Benzalkonium Chloride 0.01%)/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046553,Pemirox Ophthalmic Solution (5 ml.),Pemirolast potassium 0.1 %,Pemirolast potassium 0.1 %,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003862,Tobradex Ophthalmic Suspension (5 ml.),Tobramycin + Dexamethasone + Tyloxapol + Sodium Chloride,Tobramycin 3 mg (0.3%)+Dexamethasone 1 mg (0.1%)+Tyloxapol+Sodium Chloride+Hydroxyethylcellulose+Sodium Sulfate+Sulfuric Acid+Sodium Hydroxide+Preservative (Edetate Disodium+Benzalkonium Chloride 0.01%)/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001552,Cellufresh (30 tubes),artificial tears,Carboxymethylcellulose Sodium (CMC) 0.5%+Calcium Chloride+Magnesium Chloride+Potassium Chloride+Sodium Chloride+Sodium Lactate+Hydrochloric Acid+Sodium Hydroxide,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS041414,Cellufresh MD (3 ml.),Carboxymethylcellulose Sodium 0.5% + Boric acid + Calcium Chloride + Magnesium Chloride,Carboxymethylcellulose Sodium (CMC) 0.5%+Boric acid+Calcium Chloride+Magnesium Chloride+Potassium Chloride+Sodium Borate+Sodium Chloride+Preservative (Stabilized Oxychloro Complex (Purite),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001554,Cellufresh MD ใหญ่ (15 ml.),Carboxymethylcellulose Sodium 0.5% + Boric acid + Calcium Chloride dihydrate + Magnesium Chloride,Carboxymethylcellulose Sodium (CMC) 0.5%+Boric acid+Calcium Chloride dihydrate+Magnesium Chloride+ Potassium Chloride+Sodium Borate+Sodium Chloride+Preservative (Stabilized Oxychloro complex (Purite),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001551,Clens 100 Lens Drops (8 ml.),Citrate/Borate Buffer + Sodium Chloride + Edetate Disodium 0.05% + Tetronic t1304,Citrate/Borate Buffer+Sodium Chloride+Edetate Disodium 0.05%+PEG-11 Lauryl ether Carboxylic acid+Tetronic t1304+Preservative (Edetate Disodium 0.05%+Polidronium Chloride 0.001%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS002107,Genteal Eye Drop (10 ml.),Hypromellose + Sodium Chloride + Boric Acid + Potassium Chloride,Hypromellose 3 mg. (0.3%)+Sodium Chloride+Boric Acid+Potassium Chloride+Hydrochloric Acid+Preservative (Sodium Perborate+Phosphonic Acid),no_peds_reference,no pediatric reference and no parseable concentration
+BDS002031,Genteal Gel (10 g.),Hypromellose + Carbomer 980 + Sorbitol + Sodium hydroxide,Hypromellose 3 mg. (0.3%)+Carbomer 980 2.2 mg.+Sorbitol 35 mg.+Sodium hydroxide 0.787 mg.+Dequest 2060 0.06 mg.+Preservative (Sodium Perborate Tetrahydrate 0.28 mg.)/1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043800,Hialid 0.1 Opthalmic Solution (5 ml.),Sodium Hyaluronate 0.1% + 6-Aminocaproic Acid,Sodium Hyaluronate 0.1%+6-Aminocaproic Acid/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS043847,Hyatear (20 tubes),Sodium Hyaluronate 0.18% (Sodium Hyaluronate + Sodium Chloride + Potassium Chloride + Trisodium citrate,Sodium Hyaluronate 0.18% (Sodium Hyaluronate 1.8 mg.+Sodium Chloride +Potassium Chloride +Trisodium citrate +Disodium Hydrogenphosphate +Sodium dihydrogen phosphate +Magnesium chloride hexahydrate +Calcium Chloride dihydrate),no_peds_reference,no pediatric reference and no parseable concentration
+BDS002886,Natear (10 ml.),Hydroxypropyl Methylcellulose USP 0.3%,Hydroxypropyl Methylcellulose USP 0.3%+Preservative (Sodium Perborate),no_peds_reference,no pediatric reference and no parseable concentration
+BDS045617,Natear UD Lubricant Eye Drops (7 tubes),Hypromellose 0.3% w/v,Hypromellose (Hydroxypropyl Methylcellulose) 0.3% w/v /0.8 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046204,OcuFreshs Tear Eye Drops (10 ml.),Hypromellose,Hypromellose 3 mg. (0.3%)+Preservative (Benzalkonium Chloride 0.02%)/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003014,Opsil Tears 0.3% (10 ml.),Hydroxypropyl Methylcellulose USP 0.3%,Hydroxypropyl Methylcellulose USP 0.3%+Preservative (Benzalkonium Chloride),no_peds_reference,no pediatric reference and no parseable concentration
+BDS003102,Opti-Free Rewetting Drops (10 ml.),Citrate buffer + Sodium chloride + Polyquaternium-1 0.001%),Citrate buffer+Sodium chloride+Preservative (Edetate Disodium 0.05%+Polyquaternium-1 0.001%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001204,Renu Multiplus Lubricating & Rewetting Drops (8 ml.),Povidone + Boric acid + Potassium chloride + Sodium chloride,Povidone+Boric acid+Potassium chloride+Sodium chloride+ Sodium borate+Edetate disodium+Sorbic acid+Preservative (Edetate disodium 0.1%+Sorbic acid 0.1%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS047663,Seeview Sofs (10 ml.),Hypromellose,Hypromellose 3 mg/1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS047647,Sof Tear Eye Drops (5 ml.),Hypromellose USP,Hypromellose USP 3 mg. (0.3% w/v USP)+Preservative (Sodium Perborate 0.28 mg.)/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047637,Systane Ultra (UD) Lubricant Eye Drops (28 tubes),Polyethylene Glycol 400 0.4% + Propylene Glycol 0.3% + Aminomethylpropanol + Boric Acid,Polyethylene Glycol 400 0.4%+Propylene Glycol 0.3%+Aminomethylpropanol+Boric Acid+Hydroxypropyl Guar+Potassium Chloride+Sodium Chloride+Sorbitol+Hydrochloric Acid+Sodium Hydroxide/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003679,Systane Ultra Lubricant Eye Drops (10 ml.),artificial tears,Polyethylene Glycol 400 0.4%+Propylene Glycol 0.3%+Aminomethylpropanol+//Boric Acid+Hydroxypropyl guar+Potassium Chloride+Sodium Chloride+Sorbitol+Hydrochloric Acid+Sodium Hydroxide+Preservative (Polyquaternium-1 0.001%),has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS003765,Tear Mac Eye Drops (10 ml.),Carboxymethyl Cellulose Sodium w/v,Carboxymethyl Cellulose Sodium (CMC) 0.5%w/v+Preservative (Stabilised Oxychloro Complex 0.005% w/v),no_peds_reference,no pediatric reference and no parseable concentration
+BDS003709,Tear Natural (15 ml.),Dextran 70 0.1% + Hydroxypropyl Methylcellulose 2910 0.3% + Borax + Potassium Chloride,Dextran 70 0.1%+Hydroxypropyl Methylcellulose 2910 0.3%+Borax+Potassium Chloride+Sodium Chloride+Hydrochloric acid+Preservative (Polyquaternium-1 0.0011%)/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003714,Tears Naturale Free (32 tubes),Dextran 70 0.1% + Hydroxypropyl Methylcellulose 2910 0.3%,Dextran 70 0.1%+Hydroxypropyl Methylcellulose 2910 0.3%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004035,Vislube (20 tubes),artificial tears,Sodium Hyaluronate 0.18% (Sodium Hyaluronate 1.8 mg.+Sodium Chloride 2.8 mg.+Potassium Chloride 1 mg.+Disodium Hydrogenphosphate 3.2 mg.+Sodium Citrate 0.3 mg.+Magnesium Chloride 0.09 mg.+Calcium Chloride 0.09 mg.),has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS002003,Garamycin Cream (5 g.),gentamicin cream,Gentamicin 1 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047636,Silverzine Cream (25 g.),Micronized Silver Sulfadiazine 1%,Micronized Silver Sulfadiazine 1%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046208,Op-Ize Eye Wash (110 ml.),eye wash,Boric Acid 2.0 g.+Sodium Borate 0.5 g.+Zinc Sulphate 0.004 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003009,Opsar กลาง (120 ml.),Sodium Borate + Boric Acid + Sodium Chloride,Sodium Borate 0.02 g.+Boric Acid 1.24 g.+Sodium Chloride+ 0.29 g.+Benzalkonium Chloride 2 mg./100 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS003025,Opsar เล็ก (75 ml.),Sodium Borate + Boric Acid + Sodium Chloride,Sodium Borate 0.02 g.+Boric Acid 1.24 g.+Sodium Chloride+ 0.29 g.+Benzalkonium Chloride 2 mg./100 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS003016,Optrex เล็ก (110 ml.),Distilled Witch Hazel 13.0% v/v + Borax + Boric Acid,Distilled Witch Hazel 13.0% v/v+Benzalkonium Chloride 0.005% w/v+Borax+Boric Acid/100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007001,Acevax Cream (1 g.),Acyclovir,Acyclovir 5 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007719,Clinovir Cream (5 g.),Acyclovir w/w,Acyclovir 5%w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004046,Vilerm Cream 5 g (5 g.),Acyclovir,Acyclovir 5 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004020,Vilerm Cream sachet 1 g (1 g.),Acyclovir,Acyclovir 5 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004216,Zevin Cream (3 g.),Acyclovir,Acyclovir 5 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001419,Canesten Vaginal tabs. 1s (1 tab),Clotrimazole,Clotrimazole 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001420,Canesten Vaginal tabs. 6s (6 tabs),Clotrimazole,Clotrimazole 100 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007056,Clomaz-Forte (1 tab),Clotrimazole,Clotrimazole 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007953,Gynosten-500 (1 tab),Clotrimazole,Clotrimazole 500 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS049779,Zalain Vaginal Suppository (1 tab),Sertaconazole,Sertaconazole 300 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001280,Betadine Ointment (50 g.),Povidone Iodine 10 %,Povidone Iodine 10 %,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001238,Betadine Solution 15 ml (15 ml.),povidone iodine,Povidone-Iodine USP 10 % w/v,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001239,Betadine Solution 30 ml (30 ml.),Povidone-Iodine USP 10% w/v,Povidone-Iodine USP 10% w/v,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044520,LeoPovidone (15 ml.),Povidone-Iodine 10% w/v,Povidone-Iodine 10% w/v,no_peds_reference,no pediatric reference and no parseable concentration
+BDS044106,Povidone-Iodine (30 ml.),Povidone-Iodine 10% w/v,Povidone-Iodine 10% w/v,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001470,Counterpain Plus (25 g.),Piroxicam 0.5% + Methyl salicylate 10.2% + Menthol 5.43% + Eugenol 1.37%,Piroxicam 0.5%+Methyl salicylate 10.2%+Menthol 5.43%+Eugenol 1.37%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001656,Difelene Gel เล็ก (30 g.),Diclofenac diethylammonium,Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001654,Difelene Gel ใหญ่ (60 g.),Diclofenac diethylammonium,Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g).,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001806,Elmetacin พ่นแก้ปวด (50 ml.),Indomethacin,Indomethacin 8 mg./0.8 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006242,Fastum Gel (30 g.),Ketoprofen 2.5%,Ketoprofen 2.5%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007952,Felgesic Gel (30 g.),Piroxicam,Piroxicam 0.5 g/100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001917,Flamic Gel (25 g.),Piroxicam,Piroxicam 5 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002684,M-Cin (50 ml.),Indomethacin,Indomethacin 8 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS007574,Neofenac Gel เล็ก (20 g.),Diclofenac Sodium,Diclofenac Sodium 1 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007575,Neofenac Gel ใหญ่ (50 g.),Diclofenac Sodium,Diclofenac Sodium 1 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS045623,Neotica Cool (30 g.),Piroxicam,Piroxicam 5 mg./1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006730,N-Zen Gel ใหญ่ (60 g.),Diclofenac Sodium,Diclofenac Sodium 1 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006814,Painelief Cool Gel (30 g.),Diclofenac Sodium,Diclofenac Sodium (as diethylammonium) 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046515,Painelief Cool Gel ใหญ่ (60 g.),Diclofenac Sodium,Diclofenac Sodium (as diethylammonium) 10 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007224,Piridene Gel (25 g.),Piroxicam,Piroxicam 0.5 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047729,Satogesic Gel (35 g.),Indomethacin + L-menthol,Indomethacin 0.75 g + L-menthol 0.3 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003914,Uniren Spray (60 ml.),diclofenac topical,Diclofenac Sodium 1 % w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004043,Voltaren Emulgel กลาง (25 g.),Diclofenac Sodium,Diclofenac Sodium 1 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004042,Voltaren Emulgel เล็ก (10 g.),Diclofenac Sodium,Diclofenac Sodium 1 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004044,Voltaren Emulgel ใหญ่ (50 g.),Diclofenac Sodium,Diclofenac Sodium 1 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002430,Kamistad-Gel N (10 g.),oral ulcer gel,Lidocaine HCl 20 mg.+Chamomile Flower Extract 185 mg.+Ethanol 50% v/v+Tromethamole 1.37% w/w+Preservative (Benzalkonium Chloride 1 mg.)/1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007549,Kenalone Oral Paste 5 g (5 g.),triamcinolone oral paste,Triamcinolone Acetonide 0.1%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007548,Kenalone Oral Paste sachet 1 g (1 g.),Triamcinolone Acetonide 0.1%,Triamcinolone Acetonide 0.1%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003751,Trinolone Oral Paste 5 g (5 g.),Triamcinolone Acetonide 0.1%,Triamcinolone Acetonide 0.1%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003750,Trinolone Oral Paste sachet 1 g (1 g.),Triamcinolone Acetonide 0.1%,Triamcinolone Acetonide 0.1%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007547,Kanolone Lotion 30 ml (30 ml.),Triamcinolone Acetonide,Triamcinolone Acetonide 0.1 g/100 ml (0.1% w/v),no_peds_reference,no pediatric reference and no parseable concentration
+BDS007551,Kanolone Lotion 60 ml (60 ml.),Triamcinolone Acetonide,Triamcinolone Acetonide 0.1 g/100 ml (0.1% w/v),no_peds_reference,no pediatric reference and no parseable concentration
+BDS048630,TA 0.1% Lotion (30 g.),Triamcinolone Acetonide,Triamcinolone Acetonide 0.1 g/100 g (0.1 % w/w),no_peds_reference,no pediatric reference and no parseable concentration
+BDS003799,Tram Lotion (30 ml.),Triamcinolone Acetonide 0.1 % w/v,Triamcinolone Acetonide 0.1 % w/v,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001099,Intrasite Gel (25 g.),Carboxymethyl Cellulose Polymer + Propylene Glycol + Water,Carboxymethyl Cellulose Polymer+Propylene Glycol+Water,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003753,Poro Suppository (5 sticks),Paracetamol,Paracetamol 125 mg.,has_ref_but_not_parseable,pediatric reference exists but amount cannot be parsed exactly
+BDS001007,Aloe Gel (30 g.),aloe gel,วุ้นจากว่านหางจระเข้ 87.399 %,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002801,Mebo (10 g.),beta sitosterol burn cream,Beta-sitosterol 0.25%,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002121,Hirudoid Cream เล็ก (10 g.),Mucopolysaccharide polysulphate,Mucopolysaccharide polysulphate 0.3 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002110,Hirudoid Cream ใหญ่ (40 g.),Mucopolysaccharide polysulphate,Mucopolysaccharide polysulphate 0.3 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002130,Hirudoid Forte Cream เล็ก (10 g.),Mucopolysaccharide polysulphate,Mucopolysaccharide polysulphate 0.445 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002113,Hirudoid Forte Cream ใหญ่ (40 g.),Mucopolysaccharide polysulphate,Mucopolysaccharide polysulphate 0.445 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002649,Maxitrol Ophthalmic Ointment (3.5 g.),"Dexamethasone 0.1% + Neomycin Sulfate 3,500 I./g + Polymyxin B Sulfate 6,000 I./g + Propylparaben 0.01%)","Dexamethasone 0.1%+Neomycin Sulfate 3,500 I.U./g.+Polymyxin B Sulfate 6,000 I.U./g.+Preservative (Methylparaben 0.05%+Propylparaben 0.01%)/1 g.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS003637,Tobradex Ophthalmic Ointment (3.5 g.),Tobramycin 0.3% + Dexamethasone 0.1%,Tobramycin 0.3%+Dexamethasone 0.1%+Preservative (Chlorobutanol 0.5%)/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001685,Doproct Ointment (10 g.),Hydrocortisone Acetate + Zinc Oxide + Benzocaine,Hydrocortisone Acetate 5 mg+Zinc Oxide 200 mg+Benzocaine 10 mg/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001605,Doproct Suppository (10 sticks),Hydrocortisone Acetate + Zinc Oxide + Benzocaine /1 Suppository,Hydrocortisone Acetate 7.5 mg+Zinc Oxide 250 mg+Benzocaine 40 mg/1 Suppository,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003167,Proctosedyl Ointment (15 g.),Hydrocortisone BP + Cinchocaine HCl BP + Aesculin,Hydrocortisone BP 5 mg+Cinchocaine HCl BP 5 mg+Aesculin 10 mg/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003162,Proctosedyl Suppositories (12 sticks),Hydrocortisone Micronized + Cinchocaine HCl /1 Suppository,Hydrocortisone Micronized 5 mg+Cinchocaine HCl 5 mg/1 Suppository,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001712,Dewax Ear Drops (15 ml.),Docusate Sodium 0.5% w/v,Docusate Sodium 0.5% w/v (5 mg./1 ml.),calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001468,Con Con (15 ml.),salicylic acid wart treatment,Salicylic Acid 25 g.+Liquified Phenol 1.5 ml./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS047738,SOS Plus Corn Plaster Removal (4 pieces),Salicylic acid + Titanium dioxide + Liquid paraffin + Polyvinyl alkyl ethers,Salicylic acid 40 g (40%w/w)+Titanium dioxide+Liquid paraffin+Polyvinyl alkyl ethers+อื่นๆ,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001023,Alcohol Alsoff กลาง (180 ml.),Ethyl Alcohol Solution 70% v/v,Ethyl Alcohol Solution 70% v/v,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001018,Alcohol Alsoff ใหญ่ (450 ml.),Ethyl Alcohol Solution 70% v/v,Ethyl Alcohol Solution 70% v/v,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001682,Diabederm Urea Cream 10% (35 g.),urea cream,10% Urea,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001683,Diabederm Urea Cream 20% (35 g.),urea cream,20% Urea,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040609,Betadine Gargle (30 ml.),povidone iodine gargle,Povidone-Iodine 70 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001407,C-20 Blue Sally (180 ml.),Chlorhexidine Gluconate,Chlorhexidine Gluconate 0.12 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001406,C-20 Original เล็ก (180 ml.),Chlorhexidine Gluconate,Chlorhexidine Gluconate 0.12 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001409,C-20 Original ใหญ่ (360 ml.),Chlorhexidine Gluconate,Chlorhexidine Gluconate 0.12 g./100 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS046547,Puvadon Gargle (30 ml.),Povidone-Iodine,Povidone-Iodine 70 mg eq. to Iodine 7 mg/1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001462,Cravit Ophthalmic Solution (5 ml.),Levofloxacin 0.5%,Levofloxacin 0.5%/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001606,Grafadex (5 ml.),Gentamicin w/v,Gentamicin 0.3 %w/v+Preservative (Benzalkonium Chloride),no_peds_reference,no pediatric reference and no parseable concentration
+BDS004018,Vigamox (5 ml.),Moxifloxacin Hydrochloride + Boric Acid + Sodium Chloride + Hydrochloric Acid,Moxifloxacin Hydrochloride 5.45 mg. (eq. to Moxifloxacin 5 mg.)+Boric Acid+Sodium Chloride+Hydrochloric Acid+Sodium Hydroxide/1 ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002034,Gynecon ยาสอด (7 tabs),Nystatin + Di-iodohydroxyquin + Benzalkonium Cl,"Nystatin 100,000 Unit+Di-iodohydroxyquin 100 mg.+Benzalkonium Cl 7 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS045605,Neo-Penotran Forte (7 tabs),Metronidazole + Miconazole Nitrate,Metronidazole 750 mg.+Miconazole Nitrate 200 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS008491,Vagicin (1 blister),vaginal mixed anti infective,"Nystatin 100,000 units.+Chloramphenicol 250 mg.+Diiodohydroxyguin 100 mg.",no_peds_reference,no pediatric reference and no parseable concentration
+BDS008031,Cabana Lotion (60 ml.),Diphenhydramine HCl + Calamine + Zinc Oxide,Diphenhydramine HCl 10 mg.+Calamine 100 mg.+Zinc Oxide 30 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001402,Cadramine-V เล็ก (60 ml.),Diphenhydramine HCl + Calamine + Zinc oxide + Camphor,Diphenhydramine HCl 10 mg.+Calamine 100 mg.+Zinc oxide 30 mg.+Camphor 15 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001403,Cadramine-V ใหญ่ (120 ml.),Diphenhydramine HCl + Calamine + Zinc oxide + Camphor,Diphenhydramine HCl 10 mg.+Calamine 100 mg.+Zinc oxide 30 mg.+Camphor 15 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001846,Fenistil Gel (20 g.),Dimethindene maleate,Dimethindene maleate 1 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003669,Systral Cream เล็ก (10 g.),Chlorphenoxamine HCl 1.5 %,Chlorphenoxamine HCl 1.5 %,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003681,Systral Cream ใหญ่ (25 g.),Chlorphenoxamine HCl 1.5 %,Chlorphenoxamine HCl 1.5 %,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003904,Vidisic Gel (10 g.),Carbomer + Cetrimide + Sorbitol + Sodium hydroxide,Carbomer 2 mg.+Cetrimide 0.1 mg.+Sorbitol+Sodium hydroxide +Water for injections/1 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS042303,Docusate Earwax (15 ml.),Docusate Sodium,Docusate Sodium 5 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS001102,Aldara (0.25 g.),Imiquimod 5% w/w,Imiquimod 5% w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001236,Betagram ใหญ่ (15 g.),Betamethasone Valerate + Gentamicin Sulfate,Betamethasone Valerate (eq. to Betamethasone 0.1%)+Gentamicin Sulfate (eq. to Gentamicin 0.1%),no_peds_reference,no pediatric reference and no parseable concentration
+BDS007505,Betatone-N Cream เล็ก (5 g.),Betamethasone Valerate + Neomycin Sulphate,Betamethasone Valerate (eq. to Betamethasone 1 mg)+Neomycin Sulphate 5 mg (eq. to Neomycin 3 mg)/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS007506,Betatone-N Cream ใหญ่ (15 g.),Betamethasone Valerate + Neomycin Sulphate,Betamethasone Valerate (eq. to Betamethasone 1 mg)+Neomycin Sulphate 5 mg (eq. to Neomycin 3 mg)/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001250,Betnovate-N Cream ใหญ่ (15 g.),Betamethasone 17-Valerate 0.1% w/w + Neomycin Sulphate 0.5% w/w,Betamethasone 17-Valerate 0.1% w/w + Neomycin Sulphate 0.5% w/w,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001908,Fucicort Cream (5 g.),fusidic acid + steroid cream,Fusidic acid 20 mg+Betamethasone Valerate (eq. to Betamethasone 1 mg)+Preservative (Chlorocresol)/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001910,Fucidin H Cream (5 g.),fusidic acid + hydrocortisone cream,Fusidic acid 20 mg+Hydrocortisone Acetate 10 mg+อื่นๆ/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001678,Dermacombin Cream (5 g.),Nystatin + Neomycin Sulphate + Gramicidin + Triamcinolone Acetonide,"Nystatin 100,000 Units+Neomycin Sulphate (eq. to Neomycin 2.5 mg)+Gramicidin 0.25 mg+Triamcinolone Acetonide 1 mg/1 g",no_peds_reference,no pediatric reference and no parseable concentration
+BDS001628,Dermaheu Cream เล็ก (5 g.),Betamethasone Dipropionate ( + Gentamicin Sulfate + Tolnaftate + Iodochlorhydroxyquin,Betamethasone Dipropionate (eq. to Betamethasone 0.05 g+Gentamicin Sulfate (eq. to Gentamicin 0.1 g)+Tolnaftate 1 g+Iodochlorhydroxyquin 1 g/100 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001629,Dermaheu Cream ใหญ่ (15 g.),Betamethasone Dipropionate ( + Gentamicin Sulfate + Tolnaftate + Iodochlorhydroxyquin,Betamethasone Dipropionate (eq. to Betamethasone 0.05 g+Gentamicin Sulfate (eq. to Gentamicin 0.1 g)+Tolnaftate 1 g+Iodochlorhydroxyquin 1 g/100 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006718,Dertec Cream เล็ก (5 g.),Betamethasone Valerate + Gentamicin Sulfate + Tolnaftate + Iodochlorhydroxyquin,Betamethasone Valerate (eq. to Betamethasone 0.5 mg)+Gentamicin Sulfate (eq. to Gentamicin 1 mg)+Tolnaftate 10 mg+Iodochlorhydroxyquin 10 mg/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS006011,Dertec Cream ใหญ่ (15 g.),Betamethasone Valerate + Gentamicin Sulfate + Tolnaftate + Iodochlorhydroxyquin,Betamethasone Valerate (eq. to Betamethasone 0.5 mg)+Gentamicin Sulfate (eq. to Gentamicin 1 mg)+Tolnaftate 10 mg+Iodochlorhydroxyquin 10 mg/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003301,Quadriderm Cream เล็ก (5 g.),Betamethasone Valerate + Gentamicin Sulfate + Tolnaftate + Iodochlorhydroxyquin,Betamethasone Valerate (eq. to Betamethasone 0.5 mg)+Gentamicin Sulfate (eq. to Gentamicin 1 mg)+Tolnaftate 10 mg+Iodochlorhydroxyquin 10 mg/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003302,Quadriderm Cream ใหญ่ (15 g.),Betamethasone Valerate + Gentamicin Sulfate + Tolnaftate + Iodochlorhydroxyquin,Betamethasone Valerate (eq. to Betamethasone 0.5 mg)+Gentamicin Sulfate (eq. to Gentamicin 1 mg)+Tolnaftate 10 mg+Iodochlorhydroxyquin 10 mg/1 g,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001219,Bepanthen Ointment (30 g.),Dexpanthenol,Dexpanthenol 50 mg.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS002806,Nappy-Hippo (25 g.),Zinc Oxide,Zinc Oxide 7.5 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001009,Avamys (120 doses),Fluticasone furoate /spray + อื่นๆ,Fluticasone furoate 27.5 mcg/spray+Preservative (Benzalkonium Chloride)+อื่นๆ,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040624,Busonase (6 ml.),Budesonide,budesonide 1.28 mg/1 ml (64 mcg/dose),calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002874,Nasacort AQ Spray Suspension (120 doses),Triamcinolone Acetonide + อื่นๆ,Triamcinolone Acetonide 9.075 mg/16.5 g (55 mcg/dose)+Preservative (Benzalkonium Chloride)+อื่นๆ,no_peds_reference,no pediatric reference and no parseable concentration
+BDS045641,Nasol Nebuliser (15 ml.),Naphazoline HCl + Chlorpheniramine Maleate,Naphazoline HCl 1 mg+Chlorpheniramine Maleate 2.5 mg/1 ml,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002807,Nasonex 140 doses (140 doses),Mometasone Furoate Monohydrate,Mometasone Furoate Monohydrate (eq. to Mometasone Furoate 50 mcg/dose)+Preservative (Benzalkonium Chloride 0.2 mg/g),no_peds_reference,no pediatric reference and no parseable concentration
+BDS002805,Nasonex 60 doses (60 doses),mometasone nasal spray,Mometasone Furoate Monohydrate (eq. to Mometasone Furoate 50 mcg/dose)+Preservative (Benzalkonium Chloride 0.2 mg/g),no_peds_reference,no pediatric reference and no parseable concentration
+BDS003432,Rhinocort Aqua (120 doses),Budesonide,Budesonide 1.28 mg/1 ml (64 mcg/dose),calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS040080,Actavia (10 ml.),Xylometazoline Hydrochloride 0.1%,Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.),calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS043102,Feenoze (20 ml.),Oxymetazoline Hydrochloride 0.05%,Oxymetazoline Hydrochloride 0.05% (0.5 mg./1 ml.).,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002228,Iliadin 0.025% ชนิดหยด (10 ml.),Oxymetazoline Hydrochloride 0.025%,Oxymetazoline Hydrochloride 0.025% (0.25 mg./1 ml.),calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002209,Iliadin 0.05% ชนิดหยด (10 ml.),Oxymetazoline Hydrochloride 0.05%,Oxymetazoline Hydrochloride 0.05% (0.5 mg./1 ml.),calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002215,Iliadin Spray (10 ml.),oxymetazoline,Oxymetazoline Hydrochloride 0.05% (0.5 mg./1 ml.),calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002605,Mar Plus 5% Nasal Spray (20 ml.),Dexpanthenol + Sodium Chloride,Dexpanthenol 50 mg.+Sodium Chloride 9 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS007191,Metzodin (10 ml.),Oxymetazoline Hydrochloride 0.05%,Oxymetazoline Hydrochloride 0.05% (0.05 g./100 ml.),no_peds_reference,no pediatric reference and no parseable concentration
+BDS002813,Nasaline-ISO (30 ml.),Dexpanthenol + Sodium Chloride,Dexpanthenol 10 mg.+Sodium Chloride 9 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS003019,Otrivin 0.1% (10 ml.),Xylometazoline Hydrochloride 0.1%,Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.),calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS003105,Otrivin Child Spray 0.05% (10 ml.),Xylometazoline Hydrochloride 0.05%,Xylometazoline Hydrochloride 0.05% (0.5 mg./1 ml.),calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS040610,Betadine Throat Spray 12 ml (12 ml.),Povidone-Iodine,Povidone-Iodine 4.5 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS040617,Betadine Throat Spray 25 ml (25 ml.),Povidone-Iodine,Povidone-Iodine 4.5 mg./1 ml.,calc_ready_needs_target,parseable concentration but no exact pediatric reference mapping
+BDS002411,Kamillosan-M Spray (15 ml.),herbal throat spray,ดอกหญ้าหอม+เพเพอร์มิ้นต์+เซจ ออยล์+เทียนสัตบุษย์+ไพน์ นีดเดิล ออยล์+เบอร์กามอต ออยล์+ยูคาลิปทอล,no_peds_reference,no pediatric reference and no parseable concentration
+BDS068420,สเปรย์แก้ไอตราตะขาบ 5 ตัว (20 ml.),โง้วปวยจี้ + ชะเอมเทศ + รากบัวหลวง + เฮ้งยิ้ง,โง้วปวยจี้+ชะเอมเทศ+รากบัวหลวง+เฮ้งยิ้ง+เง็กเต็ก+แบะตงและอื่นๆ,no_peds_reference,no pediatric reference and no parseable concentration
+BDS040000,Aerobidol Inhaler (200 doses),Ipratropium Bromide Monohydrate ( + Fenoterol Hydrobromide 50 ug./dose,Ipratropium Bromide Monohydrate (eq. to Ipratropium Bromide Anhydrous 20 ug.+Fenoterol Hydrobromide 50 ug./dose,no_peds_reference,no pediatric reference and no parseable concentration
+BDS001033,Aerotamol 100 mcg (200 doses),Salbutamol Sulphate,Salbutamol Sulphate (eq. to Salbutamol 100 mcg./dose),no_peds_reference,no pediatric reference and no parseable concentration
+BDS001235,Berodual Metered Doses (10 ml.),Ipratropium Bromide Monohydrate . ( + Fenoterol Hydrobromide ./dose,Ipratropium Bromide Monohydrate 21 mcg. (eq. to Ipratropium Bromide Anhydrous 20 ug.+Fenoterol Hydrobromide 50 mcg./dose,no_peds_reference,no pediatric reference and no parseable concentration
+BDS004009,Ventolin Evohaler (200 doses),Salbutamol Sulphate,Salbutamol Sulphate (eq. to Salbutamol 100 mcg./dose),no_peds_reference,no pediatric reference and no parseable concentration
+BDS006462,Difflam Forte Spray (15 ml.),benzydamine spray,Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003439,Reparil-Gel N เล็ก (20 g.),Aescin + Diethylamine Salicylate,Aescin 1.0 g.+Diethylamine Salicylate 5.0 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration
+BDS003408,Reparil-Gel N ใหญ่ (40 g.),Aescin + Diethylamine Salicylate,Aescin 1.0 g.+Diethylamine Salicylate 5.0 g./100 g.,no_peds_reference,no pediatric reference and no parseable concentration

@@ -1,0 +1,218 @@
+{
+  "status_counts": {
+    "no_pediatric_target_found": 765,
+    "reference_exists_but_not_parseable": 34,
+    "calculator_ready_manual_target_needed": 91,
+    "auto_mapped_from_same_generic_reference": 20
+  },
+  "examples": {
+    "no_pediatric_target_found": [
+      {
+        "bds": "BDS003578",
+        "product_name": "Strepsils Citrus Lemon Sugar Free กล่อง 16s (16 tabs)",
+        "generic_group": "2,4-Dichlorobenzyl Alcohol + Amylmetacresol"
+      },
+      {
+        "bds": "BDS003590",
+        "product_name": "Strepsils Honey & Lemon HHR ซอง 8s (8 tabs)",
+        "generic_group": "2,4-Dichlorobenzyl Alcohol + Amylmetacresol"
+      },
+      {
+        "bds": "BDS003582",
+        "product_name": "Strepsils Honey & Lemon กล่อง 24s (24 tabs)",
+        "generic_group": "2,4-Dichlorobenzyl Alcohol + Amylmetacresol"
+      },
+      {
+        "bds": "BDS003583",
+        "product_name": "Strepsils Original HHR (เม็ดแดง) กล่อง 24s (24 tabs)",
+        "generic_group": "2,4-Dichlorobenzyl Alcohol + Amylmetacresol"
+      },
+      {
+        "bds": "BDS003551",
+        "product_name": "Strepsils Original HHR (เม็ดแดง) ซอง 8s (8 tabs)",
+        "generic_group": "2,4-Dichlorobenzyl Alcohol + Amylmetacresol"
+      },
+      {
+        "bds": "BDS003772",
+        "product_name": "Throatsil Plus ซอง 8s (8 tabs)",
+        "generic_group": "2,4-Dichlorobenzyl Alcohol + Amylmetacresol + Lignocaine HCl"
+      },
+      {
+        "bds": "BDS003661",
+        "product_name": "Strepsils Cool กล่อง 24s (24 tabs)",
+        "generic_group": "2,4-Dichlorobenzyl Alcohol + Amylmetacresol + Menthol"
+      },
+      {
+        "bds": "BDS003555",
+        "product_name": "Strepsils Orange+Vitamin C HHR ซอง 8s (8 tabs)",
+        "generic_group": "2,4-Dichlorobenzyl Alcohol + Amylmetacresol + Vitamin C"
+      },
+      {
+        "bds": "BDS003556",
+        "product_name": "Strepsils Orange+Vitamin C กล่อง 24s (24 tabs)",
+        "generic_group": "2,4-Dichlorobenzyl Alcohol + Amylmetacresol + Vitamin C"
+      },
+      {
+        "bds": "BDS042357",
+        "product_name": "Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส (8 tabs)",
+        "generic_group": "2,4-Dichlorobenzyl alcohol + Amylmetacresol"
+      }
+    ],
+    "reference_exists_but_not_parseable": [
+      {
+        "bds": "BDS001234",
+        "product_name": "Berclomin tabs (10 tabs)",
+        "generic_group": "Dicyclomine + Simethicone"
+      },
+      {
+        "bds": "BDS040614",
+        "product_name": "Bakamol 500 mg bottle 100s (100 tabs)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS040613",
+        "product_name": "Bakamol 500 mg strip 10s (10 tabs)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS007047",
+        "product_name": "Cemol 500 mg bottle 100s ฟ้า-ขาว (100 tabs)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS007041",
+        "product_name": "Cemol 500 mg bottle 100s เม็ดกลม (100 tabs)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS007044",
+        "product_name": "Cemol 500 mg strip 10s เม็ดรี (10 tabs)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS046505",
+        "product_name": "Panadol Actifast (10 tabs)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS003109",
+        "product_name": "Para Cap bottle 100s (100 tabs)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS003108",
+        "product_name": "Para Cap strip 10s (10 tabs)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS003753",
+        "product_name": "Poro Suppository (5 sticks)",
+        "generic_group": "Paracetamol"
+      }
+    ],
+    "calculator_ready_manual_target_needed": [
+      {
+        "bds": "BDS003573",
+        "product_name": "Sulidine CP Plus (ควบคุมจำนวน) (60 ml.)",
+        "generic_group": "Acetaminophen + Chlorpheniramine maleate + Phenylephrine HCl"
+      },
+      {
+        "bds": "BDS007951",
+        "product_name": "Ziga Gel (240 ml.)",
+        "generic_group": "Al3 + Mg2 + Simethicone"
+      },
+      {
+        "bds": "BDS049775",
+        "product_name": "Zenzera-200 Suspension (10 ml.)",
+        "generic_group": "Albendazole"
+      },
+      {
+        "bds": "BDS001050",
+        "product_name": "Antacil Gel กลาง (450 ml.)",
+        "generic_group": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone"
+      },
+      {
+        "bds": "BDS001048",
+        "product_name": "Antacil Gel เล็ก (240 ml.)",
+        "generic_group": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone"
+      },
+      {
+        "bds": "BDS040608",
+        "product_name": "Belcid Forte Suspension (240 ml.)",
+        "generic_group": "Aluminium Hydroxide Gel ( + Magnesium Hydroxide + Simethicone"
+      },
+      {
+        "bds": "BDS007742",
+        "product_name": "Mucobrox (60 ml.)",
+        "generic_group": "Ambroxol HCl"
+      },
+      {
+        "bds": "BDS002654",
+        "product_name": "Mucolid Syrup (60 ml.)",
+        "generic_group": "Ambroxol HCl"
+      },
+      {
+        "bds": "BDS007586",
+        "product_name": "Newtamox For Oral Suspension (60 ml.)",
+        "generic_group": "Amoxicillin"
+      },
+      {
+        "bds": "BDS003549",
+        "product_name": "Sia-Mox Syrup 125 mg (60 ml.)",
+        "generic_group": "Amoxicillin"
+      }
+    ],
+    "auto_mapped_from_same_generic_reference": [
+      {
+        "bds": "BDS008609",
+        "product_name": "Ampol Suspension (60 ml.)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS002407",
+        "product_name": "Kit-F Drops (15 ml.)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS007583",
+        "product_name": "Newtamol Syrup (60 ml.)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS002861",
+        "product_name": "Panadol Orange Suspension (60 ml.)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS002847",
+        "product_name": "Panadol Strawberry Suspension (60 ml.)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS008137",
+        "product_name": "Poro Suspension (60 ml.)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS003597",
+        "product_name": "Sara Infant Drops (รสองุ่น) (15 ml.)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS003596",
+        "product_name": "Sara น้ำรสสตรอเบอร์รี่ (60 ml.)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS003504",
+        "product_name": "Sara น้ำรสส้ม (60 ml.)",
+        "generic_group": "Paracetamol"
+      },
+      {
+        "bds": "BDS003600",
+        "product_name": "Sara น้ำรสองุ่น (60 ml.)",
+        "generic_group": "Paracetamol"
+      }
+    ]
+  }
+}
