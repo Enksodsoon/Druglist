@@ -151,7 +151,9 @@ function renderInventory(){const q=n(S.qInv); const rs=(D.dr||[]).filter(d=>!q||
 function renderAdmin(){const q=n(S.qAdm); const dg=diagnostics(); $('adminSummary').innerHTML=`<div class="kpi-grid"><div class="kpi"><div class="label">Schema</div><div class="val">${e(D.m.schema_version||'—')}</div></div><div class="kpi"><div class="label">Build</div><div class="val">${e(D.m.build_version||'—')}</div></div><div class="kpi ${dg.errs.length?'bad':''}"><div class="label">Integrity errors</div><div class="val">${dg.errs.length}</div></div><div class="kpi ${dg.warns.length?'warn':''}"><div class="label">Integrity warnings</div><div class="val">${dg.warns.length}</div></div></div>`; const rs=(D.dr||[]).filter(d=>{const g=gate(d); return !q||[d.i,d.n,d.g,d.cc,d.f,d.tl.s,(typeof g.mn==='number'?String(g.mn):''),g.src].some(v=>n(v).includes(q))}).sort((a,b)=>rankDrug(b)-rankDrug(a)||String(a.n).localeCompare(String(b.n))); $('adminPanel').innerHTML=rs.length?`<div class="table"><div class="thead grid-admin"><div>Name</div><div>Generic</div><div>Form</div><div>Peds / age</div></div>${rs.slice(0,180).map(r=>{const g=gate(r); return `<button class="trow grid-admin" data-open-drug="${e(r.i)}"><div><div class="title">${e(r.n)}</div><div class="subtext">${e(r.i)}</div></div><div>${e(r.g||'—')}</div><div>${e(r.f||'—')}</div><div>${e(r.tl.s.replaceAll('_',' '))}<div class="subtext">${typeof g.mn==='number'?`${g.mn}+ yr`:'no age gate'}${g.src!=='none'?` · ${g.src}`:''}${r.dp?' · doctor pick':''}${favOn(r.i)?' · favorite':''}</div></div></button>`}).join('')}</div>`:`<div class="empty">No admin rows matched.</div>`}
 function openDrug(id){
   try{
-    const d=byId.get(id); if(!d) return;
+    if(!id){throw new Error('Missing drug id')}
+    const d=byId.get(id);
+    if(!d){throw new Error(`Drug not found: ${id}`)}
     const g=gate(d||{}), tl=d.tl||{}, pc=tl.pc||null;
     const status=typeof tl.s==='string'?tl.s.replaceAll('_',' '):'—';
     const pcText = Array.isArray(pc)
@@ -185,11 +187,12 @@ function openDrug(id){
 }
 function openContext(uid){
   try{
-    const it=(S.mI||[]).find(x=>x.u===uid); if(!it) return;
-    const dr=byId.get(it.i)||{};
+    if(!uid){throw new Error('Missing context uid')}
+    const it=(S.mI||[]).find(x=>x.u===uid); if(!it){throw new Error(`Context line not found: ${uid}`)}
+    const drug=byId.get(it.i)||{};
     const parts=[];
     parts.push(`<div class="card panel">`);
-    parts.push(pills([it.t||'',it.i||'',dr.g||dr.cc||'',`stock: ${S.inv[it.i]||'available'}`].filter(Boolean)));
+    parts.push(pills([it.t||'',it.i||'',drug.g||drug.cc||'',`stock: ${S.inv[it.i]||'available'}`].filter(Boolean)));
     parts.push(`<div class="subtext"><strong>Complaint</strong>: ${e(it.c||'—')}</div>`);
     parts.push(`<div class="subtext"><strong>Regimen</strong>: ${e(it.r||'—')}</div>`);
     parts.push(`<div class="subtext"><strong>Role / group</strong>: ${e(it.rl||'—')} / ${e(it.dg||'—')}</div>`);
