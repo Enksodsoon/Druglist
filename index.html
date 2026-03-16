@@ -29,6 +29,12 @@ button,input,select,textarea{font:inherit}button{cursor:pointer}a{color:inherit}
 .warning{padding:10px 12px;border-radius:12px;background:#fffbeb;border:1px solid #fcd34d;color:#92400e;margin-bottom:8px}.bad{background:#fef2f2;border-color:#fca5a5;color:#991b1b}.good{padding:10px 12px;border-radius:12px;background:#f0fdf4;border:1px solid #86efac;color:#166534}
 .empty{padding:28px;border:1px dashed var(--line);border-radius:14px;background:#f8fafc;color:#64748b;text-align:center}
 .error-banner{padding:12px 14px;border-radius:14px;border:1px solid #fca5a5;background:#fef2f2;color:#991b1b;margin-bottom:14px;display:none;white-space:pre-wrap}
+.drawer{position:fixed;inset:0;display:none;align-items:flex-start;justify-content:center;padding:24px;background:rgba(15,23,42,.45);z-index:70}
+.drawer.show{display:flex}
+.drawer-panel{width:min(900px,96vw);max-height:calc(100vh - 48px);overflow:auto;background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 24px 48px rgba(2,6,23,.22)}
+.drawer-head{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;padding:16px;border-bottom:1px solid var(--line)}
+.drawer-body{padding:16px}
+.close-btn{border:1px solid var(--line);background:#fff;border-radius:12px;padding:8px 12px;font-weight:700}
 @media (max-width:1280px){.layout-main,.layout-peds{grid-template-columns:1fr}}
 @media (max-width:1100px){.controls.peds{grid-template-columns:1fr}.grid-main,.grid-peds{grid-template-columns:68px 1fr}.grid-main>div:nth-child(n+3),.grid-peds>div:nth-child(n+3){grid-column:2}}
 @media (max-width:780px){.app{padding:14px}.thead{display:none}.trow,.grid-catalog,.grid-compare,.grid-admin{grid-template-columns:1fr}}
