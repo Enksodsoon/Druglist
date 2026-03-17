@@ -1,39 +1,94 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Druglist Complete Tool v3.1 Light</title><style>
-:root{--bg:#f8fafc;--panel:#fff;--line:#e2e8f0;--muted:#64748b;--ink:#0f172a;--soft:#f1f5f9;--accent:#111827}
-*{box-sizing:border-box}html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
-button,input,select,textarea{font:inherit}button{cursor:pointer}a{color:inherit}
-.app{max-width:1680px;margin:0 auto;padding:18px}.header{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:14px}
-.badge{display:inline-flex;align-items:center;gap:8px;padding:8px 12px;border-radius:999px;border:1px solid var(--line);background:#fff;color:#475569;font-size:14px}
-.h1{font-size:30px;line-height:1.08;font-weight:800;letter-spacing:-.03em}.sub{margin-top:8px;color:var(--muted);max-width:1000px;line-height:1.5}
-.tabs{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px}.tab{border:1px solid var(--line);background:#fff;color:#334155;border-radius:16px;padding:10px 14px;font-weight:700}
-.tab.active{background:var(--accent);border-color:var(--accent);color:#fff}.tab .count{margin-left:8px;padding:2px 8px;border-radius:999px;background:var(--soft);font-size:12px;color:#475569}
-.tab.active .count{background:rgba(255,255,255,.15);color:#fff}
-.section{display:none}.section.active{display:block}
-.controls{display:grid;gap:10px;margin-bottom:12px}.controls.peds{grid-template-columns:1.4fr 160px 160px}
-.input,.textarea,.select{width:100%;padding:12px 14px;border-radius:14px;border:1px solid var(--line);background:#fff;outline:none}.input:focus,.textarea:focus,.select:focus{border-color:#94a3b8}
-.layout-main{display:grid;grid-template-columns:300px 300px minmax(0,1fr);gap:14px}.layout-peds{display:grid;grid-template-columns:minmax(0,1.2fr) 300px 300px;gap:14px}
-.card{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 1px 2px rgba(15,23,42,.03)}.panel{padding:14px}.panel-head{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:10px}.panel-head h3{margin:0;font-size:16px}.meta{font-size:12px;color:var(--muted)}
-.list{display:flex;flex-direction:column;gap:8px;max-height:70vh;overflow:auto;padding-right:2px}.item{border:1px solid var(--line);background:#fff;border-radius:14px;padding:12px;transition:.15s;text-align:left}.item:hover{background:#f8fafc}.item.active{border-color:#0f172a;background:#f8fafc;box-shadow:inset 0 0 0 1px #0f172a}
-.title{font-weight:700}.subtext{font-size:12px;color:var(--muted);line-height:1.45;margin-top:4px}
-.pills{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}.pill{display:inline-flex;align-items:center;padding:3px 8px;border:1px solid var(--line);background:var(--soft);border-radius:999px;font-size:11px;color:#475569}
-.notice{padding:12px 14px;border:1px dashed var(--line);border-radius:14px;background:#f8fafc;color:#475569;font-size:13px;line-height:1.45}
-.builder-card{padding:16px}.grid-main,.grid-peds{display:grid;gap:10px}.grid-main{grid-template-columns:68px 1fr 1fr 120px 120px 1fr}.grid-peds{grid-template-columns:68px 1fr 120px 100px 1fr 1fr}
-.head{padding:0 4px 4px 4px;font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:800}
-.row{padding:10px;border:1px solid var(--line);border-radius:14px;background:#fff}.row.off{opacity:.6;background:#fcfcfd}
-.chk{display:flex;flex-direction:column;gap:6px;align-items:flex-start;justify-content:center}.chk input{width:18px;height:18px}
-.inline{width:100%;padding:10px 12px;border-radius:12px;border:1px solid var(--line);background:#fff;outline:none}
-.actions{display:flex;gap:10px;flex-wrap:wrap}.primary,.ghost,.mini{border:1px solid var(--line);border-radius:14px;padding:10px 14px;font-weight:700;background:#fff;color:#0f172a}.primary{background:var(--accent);border-color:var(--accent);color:#fff}.ghost{background:var(--soft)}.mini{padding:6px 10px;border-radius:10px;font-size:12px}
-.table{border:1px solid var(--line);border-radius:18px;overflow:hidden;background:#fff}.thead,.trow{display:grid;gap:12px;padding:12px 14px;align-items:start}.thead{background:#f8fafc;color:#64748b;font-size:12px;font-weight:800;letter-spacing:.06em;text-transform:uppercase}.trow{border-top:1px solid #f1f5f9}.trow:hover{background:#f8fafc}
-.grid-catalog{grid-template-columns:1.2fr .9fr .8fr .6fr auto}.grid-compare{grid-template-columns:1.1fr .9fr .7fr .6fr}.grid-admin{grid-template-columns:1.2fr .9fr .8fr 1fr}
-.warning{padding:10px 12px;border-radius:12px;background:#fffbeb;border:1px solid #fcd34d;color:#92400e;margin-bottom:8px}.bad{background:#fef2f2;border-color:#fca5a5;color:#991b1b}.good{padding:10px 12px;border-radius:12px;background:#f0fdf4;border:1px solid #86efac;color:#166534}
-.empty{padding:28px;border:1px dashed var(--line);border-radius:14px;background:#f8fafc;color:#64748b;text-align:center}
-.error-banner{padding:12px 14px;border-radius:14px;border:1px solid #fca5a5;background:#fef2f2;color:#991b1b;margin-bottom:14px;display:none;white-space:pre-wrap}
+
+:root{
+  --bg:#f3f5f9;
+  --panel:#ffffff;
+  --line:#e6eaf2;
+  --line-strong:#d3dae6;
+  --muted:#66758b;
+  --ink:#0f172a;
+  --soft:#f8fafc;
+  --accent:#2563eb;
+  --accent-strong:#1d4ed8;
+  --accent-soft:#eff6ff;
+  --success:#16a34a;
+  --danger:#dc2626;
+  --shadow:0 8px 30px rgba(15,23,42,.06);
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:linear-gradient(180deg,#f8fafc 0%, #f3f5f9 100%);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+button,input,select,textarea{font:inherit}
+button{cursor:pointer}
+a{color:inherit;text-decoration:none}
+.app{max-width:1680px;margin:0 auto;padding:24px}
+.header{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;margin-bottom:16px;padding:18px 20px;background:rgba(255,255,255,.82);backdrop-filter:blur(10px);border:1px solid var(--line);border-radius:20px;box-shadow:var(--shadow)}
+.badge{display:inline-flex;align-items:center;gap:8px;padding:7px 12px;border-radius:999px;border:1px solid #dbe5ff;background:var(--accent-soft);color:var(--accent-strong);font-size:12px;font-weight:700;letter-spacing:.02em;text-transform:uppercase}
+.h1{font-size:30px;line-height:1.08;font-weight:800;letter-spacing:-.03em}
+.sub{margin-top:8px;color:var(--muted);max-width:900px;line-height:1.55;font-size:14px}
+.tabs{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px;padding:8px;border-radius:16px;border:1px solid var(--line);background:#fff}
+.tab{border:1px solid transparent;background:transparent;color:#334155;border-radius:12px;padding:9px 13px;font-weight:700;transition:.18s ease}
+.tab:hover{background:var(--soft);border-color:var(--line)}
+.tab.active{background:var(--accent);border-color:var(--accent);color:#fff;box-shadow:0 4px 14px rgba(37,99,235,.28)}
+.tab .count{margin-left:8px;padding:2px 8px;border-radius:999px;background:var(--soft);font-size:12px;color:#475569}
+.tab.active .count{background:rgba(255,255,255,.17);color:#fff}
+.section{display:none}
+.section.active{display:block}
+.controls{display:grid;gap:10px;margin-bottom:14px}
+.controls.peds{grid-template-columns:1.4fr 170px 170px}
+.input,.textarea,.select,.inline{width:100%;padding:11px 13px;border-radius:12px;border:1px solid var(--line);background:#fff;outline:none;transition:.15s ease}
+.input:focus,.textarea:focus,.select:focus,.inline:focus{border-color:#93c5fd;box-shadow:0 0 0 3px rgba(37,99,235,.12)}
+.layout-main{display:grid;grid-template-columns:290px 290px minmax(0,1fr);gap:14px}
+.layout-peds{display:grid;grid-template-columns:minmax(0,1.2fr) 290px 290px;gap:14px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow)}
+.panel{padding:14px}
+.panel-head{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:10px}
+.panel-head h3{margin:0;font-size:15px;letter-spacing:.01em}
+.meta{font-size:12px;color:var(--muted)}
+.list{display:flex;flex-direction:column;gap:8px;max-height:68vh;overflow:auto;padding-right:2px}
+.item{border:1px solid var(--line);background:#fff;border-radius:12px;padding:11px;transition:.15s;text-align:left}
+.item:hover{background:#f8fbff;border-color:#cfe0ff}
+.item.active{border-color:var(--accent);background:#f5f9ff;box-shadow:inset 0 0 0 1px rgba(37,99,235,.25)}
+.title{font-weight:700}
+.subtext{font-size:12px;color:var(--muted);line-height:1.45;margin-top:4px}
+.pills{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}
+.pill{display:inline-flex;align-items:center;padding:3px 8px;border:1px solid var(--line);background:var(--soft);border-radius:999px;font-size:11px;color:#475569}
+.notice{padding:12px 14px;border:1px dashed var(--line-strong);border-radius:12px;background:#f8fafc;color:#475569;font-size:13px;line-height:1.45}
+.builder-card{padding:16px}
+.grid-main,.grid-peds{display:grid;gap:10px}
+.grid-main{grid-template-columns:68px 1fr 1fr 120px 120px 1fr}
+.grid-peds{grid-template-columns:68px 1fr 120px 100px 1fr 1fr}
+.head{padding:0 4px 4px 4px;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:800}
+.row{padding:10px;border:1px solid var(--line);border-radius:12px;background:#fff}
+.row.off{opacity:.62;background:#fcfcfd}
+.chk{display:flex;flex-direction:column;gap:6px;align-items:flex-start;justify-content:center}
+.chk input{width:18px;height:18px;accent-color:var(--accent)}
+.actions{display:flex;gap:10px;flex-wrap:wrap}
+.primary,.ghost,.mini{border:1px solid var(--line);border-radius:12px;padding:10px 14px;font-weight:700;background:#fff;color:#0f172a;transition:.15s ease}
+.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.primary:hover{background:var(--accent-strong);border-color:var(--accent-strong)}
+.ghost{background:var(--soft)}
+.ghost:hover,.mini:hover{border-color:var(--line-strong);background:#f8fbff}
+.mini{padding:6px 10px;border-radius:10px;font-size:12px}
+.table{border:1px solid var(--line);border-radius:16px;overflow:hidden;background:#fff;box-shadow:var(--shadow)}
+.thead,.trow{display:grid;gap:12px;padding:12px 14px;align-items:start}
+.thead{background:#f8fbff;color:#64748b;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+.trow{border-top:1px solid #eef2f8}
+.trow:hover{background:#f8fbff}
+.grid-catalog{grid-template-columns:1.2fr .9fr .8fr .6fr auto}
+.grid-compare{grid-template-columns:1.1fr .9fr .7fr .6fr}
+.grid-admin{grid-template-columns:1.2fr .9fr .8fr 1fr}
+.warning{padding:10px 12px;border-radius:12px;background:#fff7ed;border:1px solid #fdba74;color:#9a3412;margin-bottom:8px}
+.bad{background:#fef2f2;border-color:#fca5a5;color:#991b1b}
+.good{padding:10px 12px;border-radius:12px;background:#f0fdf4;border:1px solid #86efac;color:#166534}
+.empty{padding:28px;border:1px dashed var(--line);border-radius:12px;background:#f8fafc;color:#64748b;text-align:center}
+.error-banner{padding:12px 14px;border-radius:12px;border:1px solid #fca5a5;background:#fef2f2;color:#991b1b;margin-bottom:14px;display:none;white-space:pre-wrap}
 @media (max-width:1280px){.layout-main,.layout-peds{grid-template-columns:1fr}}
 @media (max-width:1100px){.controls.peds{grid-template-columns:1fr}.grid-main,.grid-peds{grid-template-columns:68px 1fr}.grid-main>div:nth-child(n+3),.grid-peds>div:nth-child(n+3){grid-column:2}}
-@media (max-width:780px){.app{padding:14px}.thead{display:none}.trow,.grid-catalog,.grid-compare,.grid-admin{grid-template-columns:1fr}}
+@media (max-width:780px){.app{padding:14px}.header{padding:14px 15px}.tabs{padding:6px}.thead{display:none}.trow,.grid-catalog,.grid-compare,.grid-admin{grid-template-columns:1fr}}
+
 </style></head>
-<body><div class="app"><div class="header"><div><div class="badge">Reduced-size stable all-in-one tool</div><div class="h1">Druglist Complete Tool v3.1</div><div class="sub">This rebuild keeps the same tab structure but uses a much lighter embedded dataset. It restores the main builder as the core, keeps pediatric as a separate module, and renders only the active tab to reduce blank-load failures.</div></div><div class="badge">Source: drug_list_final_userfriendly_engine_ready_v7.xlsx · v7</div></div><div id="bootError" class="error-banner"></div><div id="tabs" class="tabs"></div>
+<body><div class="app"><div class="header"><div><div class="badge">Minimal, clean and modern workflow</div><div class="h1">Druglist Complete Tool v3.1</div><div class="sub">A cleaner UI with improved spacing, softer contrast, and clearer navigation hierarchy while preserving your existing workflow and output logic.</div></div><div class="badge">Source: drug_list_final_userfriendly_engine_ready_v7.xlsx · v7</div></div><div id="bootError" class="error-banner"></div><div id="tabs" class="tabs"></div>
 <div class="card panel" style="margin-bottom:12px">
   <div class="panel-head"><h3>Clinic profile</h3><div id="favMeta" class="meta"></div></div>
   <div style="display:grid;grid-template-columns:220px 1fr;gap:10px;align-items:center">
