@@ -1,14 +1,7 @@
 #!/usr/bin/env python3
-"""One-command release preparation pipeline.
-
-Steps:
-1) Build seed from workbook
-2) Validate built seed in strict release mode
-3) Inject seed into index.html
-4) Re-validate index embedded seed consistency
-5) Emit consolidated release report
-"""
+"""One-command release preparation pipeline with strict guardrails and regression checks."""
 from __future__ import annotations
+
 import argparse
 import json
 import re
@@ -19,27 +12,58 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 BUILD = ROOT / "build"
 REPORT = BUILD / "release_prepare_report.json"
+HISTORY_JSON = BUILD / "release_history.json"
+HISTORY_MD = BUILD / "release_history.md"
 
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Prepare release artifact with strict guardrails.")
     p.add_argument("--min-price-rate", type=float, default=0.30)
     p.add_argument("--min-peds-rate", type=float, default=0.20)
+    p.add_argument("--min-direct-generic-rate", type=float, default=0.04)
+    p.add_argument("--min-peds-weighted-rate", type=float, default=0.12)
+    p.add_argument("--max-price-regression", type=float, default=0.04, help="Max allowed drop vs previous snapshot")
+    p.add_argument("--max-peds-regression", type=float, default=0.03, help="Max allowed peds weighted drop vs previous snapshot")
+    p.add_argument("--max-direct-generic-regression", type=float, default=0.03, help="Max allowed direct+generic drop vs previous snapshot")
     return p.parse_args()
 
 
 def run(cmd: list[str]) -> dict:
     p = subprocess.run(cmd, cwd=ROOT, text=True, capture_output=True)
-    return {
-        "cmd": " ".join(cmd),
-        "returncode": p.returncode,
-        "stdout": p.stdout,
-        "stderr": p.stderr,
-    }
+    return {"cmd": " ".join(cmd), "returncode": p.returncode, "stdout": p.stdout, "stderr": p.stderr}
 
 
-def fail(steps: list[dict], failed_step: dict) -> None:
-    REPORT.write_text(json.dumps({"pass": False, "failed_step": failed_step, "steps": steps}, indent=2))
+def write_history(snap: dict) -> tuple[list[dict], str]:
+    history: list[dict] = []
+    if HISTORY_JSON.exists():
+        try:
+            history = json.loads(HISTORY_JSON.read_text())
+        except Exception:
+            history = []
+    history.append(snap)
+    history = history[-30:]
+    HISTORY_JSON.write_text(json.dumps(history, indent=2))
+
+    lines = [
+        "# Release Regression History",
+        "",
+        "| Date | Build | PriceRate | Direct+GenericRate | PedsRate | PedsWeighted | Errors |",
+        "|---|---:|---:|---:|---:|---:|---:|",
+    ]
+    for h in reversed(history[-15:]):
+        lines.append(
+            f"| {h.get('generated_at','')} | {h.get('build_version','')} | {h.get('priceCoverageRate',0):.4f} | "
+            f"{h.get('directGenericPriceRate',0):.4f} | {h.get('pedsCoverageRate',0):.4f} | {h.get('pedsWeightedQualityRate',0):.4f} | {h.get('errorCount',0)} |"
+        )
+    HISTORY_MD.write_text("\n".join(lines) + "\n")
+    return history, str(HISTORY_MD)
+
+
+def fail(steps: list[dict], failed_step: dict, extra: dict | None = None) -> None:
+    payload = {"pass": False, "failed_step": failed_step, "steps": steps}
+    if extra:
+        payload.update(extra)
+    REPORT.write_text(json.dumps(payload, indent=2))
     raise SystemExit(1)
 
 
@@ -48,7 +72,6 @@ def main() -> None:
     BUILD.mkdir(exist_ok=True)
 
     steps: list[dict] = []
-
     steps.append(run(["python", "scripts/build_from_workbook.py"]))
     if steps[-1]["returncode"] != 0:
         fail(steps, steps[-1])
@@ -63,6 +86,10 @@ def main() -> None:
                 str(args.min_price_rate),
                 "--min-peds-rate",
                 str(args.min_peds_rate),
+                "--min-direct-generic-rate",
+                str(args.min_direct_generic_rate),
+                "--min-peds-weighted-rate",
+                str(args.min_peds_weighted_rate),
             ]
         )
     )
@@ -73,11 +100,42 @@ def main() -> None:
     if steps[-1]["returncode"] != 0:
         fail(steps, steps[-1])
 
-    index = (ROOT / "index.html").read_text()
-    m = re.search(r'<script id="seed" type="application/json">(.*?)</script>', index, re.S)
+    m = re.search(r'<script id="seed" type="application/json">(.*?)</script>', (ROOT / "index.html").read_text(), re.S)
     if not m:
         raise SystemExit("seed block missing after injection")
     seed = json.loads(m.group(1))
+
+    vr = json.loads((BUILD / "validation_report.json").read_text())
+    snapshot = {
+        "generated_at": datetime.utcnow().isoformat() + "Z",
+        "build_version": seed.get("m", {}).get("build_version"),
+        "priceCoverageRate": vr.get("priceCoverageRate", 0),
+        "directGenericPriceRate": vr.get("directGenericPriceRate", 0),
+        "pedsCoverageRate": vr.get("pedsCoverageRate", 0),
+        "pedsWeightedQualityRate": vr.get("pedsWeightedQualityRate", 0),
+        "errorCount": len(vr.get("errors", [])),
+    }
+
+    history, history_md_path = write_history(snapshot)
+
+    regressions: list[str] = []
+    if len(history) >= 2:
+        prev = history[-2]
+        if snapshot["priceCoverageRate"] < prev.get("priceCoverageRate", 0) - args.max_price_regression:
+            regressions.append(
+                f"priceCoverageRate regressed from {prev.get('priceCoverageRate',0):.4f} to {snapshot['priceCoverageRate']:.4f}"
+            )
+        if snapshot["pedsWeightedQualityRate"] < prev.get("pedsWeightedQualityRate", 0) - args.max_peds_regression:
+            regressions.append(
+                f"pedsWeightedQualityRate regressed from {prev.get('pedsWeightedQualityRate',0):.4f} to {snapshot['pedsWeightedQualityRate']:.4f}"
+            )
+        if snapshot["directGenericPriceRate"] < prev.get("directGenericPriceRate", 0) - args.max_direct_generic_regression:
+            regressions.append(
+                f"directGenericPriceRate regressed from {prev.get('directGenericPriceRate',0):.4f} to {snapshot['directGenericPriceRate']:.4f}"
+            )
+
+    if regressions:
+        fail(steps, {"cmd": "regression-check", "returncode": 1, "stdout": "\n".join(regressions), "stderr": ""}, {"regressions": regressions})
 
     summary = {
         "drugCount": len(seed.get("dr", [])),
@@ -89,15 +147,14 @@ def main() -> None:
         "release_thresholds": {
             "min_price_rate": args.min_price_rate,
             "min_peds_rate": args.min_peds_rate,
+            "min_direct_generic_rate": args.min_direct_generic_rate,
+            "min_peds_weighted_rate": args.min_peds_weighted_rate,
         },
+        "snapshot": snapshot,
+        "history_markdown": history_md_path,
     }
 
-    out = {
-        "pass": True,
-        "generated_at": datetime.utcnow().isoformat() + "Z",
-        "summary": summary,
-        "steps": steps,
-    }
+    out = {"pass": True, "generated_at": datetime.utcnow().isoformat() + "Z", "summary": summary, "steps": steps}
     REPORT.write_text(json.dumps(out, indent=2))
     print(json.dumps(summary, indent=2))
     print("release_prepare: PASS")
