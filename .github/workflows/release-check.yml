@@ -1,0 +1,23 @@
+name: release-check
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'index.html'
+      - 'scripts/**'
+      - 'source_workbooks/**'
+      - '.github/workflows/release-check.yml'
+
+jobs:
+  release-prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: python -m pip install --upgrade pip openpyxl
+      - name: Run release prepare (strict)
+        run: python scripts/release_prepare.py --min-price-rate 0.30 --min-peds-rate 0.20
