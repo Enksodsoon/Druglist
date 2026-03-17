@@ -40,3 +40,13 @@ python scripts/release_prepare.py \
 - In strict mode, both integrity errors and threshold misses fail the pipeline.
 - Regression checks can fail release if key KPIs drop too much versus previous run.
 - Recommended for CI so release candidates are blocked when guardrails fail.
+
+## UI smoke automation
+- Run local UI smoke checks:
+  ```bash
+  python scripts/ui_smoke_test.py
+  ```
+- CI workflow runs the same script and uploads:
+  - `build/release_history.json`
+  - `build/release_history.md`
+  - `artifacts/ui-smoke.png`

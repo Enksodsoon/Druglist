@@ -36,6 +36,29 @@ def norm_generic(v: object) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
+
+GENERIC_ALIASES = {
+    "acetaminophen": "paracetamol",
+    "paracetamol": "paracetamol",
+    "amoxicillin clavulanate": "amoxicillin + clavulanic acid",
+    "cetirizine dihydrochloride": "cetirizine",
+    "chlorpheniramine maleate": "chlorpheniramine",
+    "xylometazoline hydrochloride": "xylometazoline",
+}
+
+
+def canonical_generic_key(v: object) -> str:
+    g = norm_generic(v)
+    return GENERIC_ALIASES.get(g, g)
+
+
+def generic_keys(v: object) -> set[str]:
+    g = canonical_generic_key(v)
+    keys = {g} if g else set()
+    if '+' in g:
+        keys.add(' + '.join(sorted(x.strip() for x in g.split('+'))))
+    return {k for k in keys if k}
+
 def parse_price(v: object) -> float | None:
     if isinstance(v, (int, float)):
         x = float(v)
@@ -116,7 +139,7 @@ def main() -> None:
         if not r:
             continue
         bds = norm_id(r[0])
-        generic = norm_generic(r[2])
+        generic = canonical_generic_key(r[2])
         price = parse_price(r[4])
         checked = r[7]
 
@@ -127,7 +150,8 @@ def main() -> None:
             direct_price_updates += 1
 
         if generic and price:
-            generic_price_pool.setdefault(generic, []).append(float(price))
+            for gk in generic_keys(generic):
+                generic_price_pool.setdefault(gk, []).append(float(price))
 
         if checked:
             s = str(checked)
@@ -147,12 +171,23 @@ def main() -> None:
 
     for d in drugs:
         if isinstance(d.get("pr"), (int, float)) and d.get("pr") > 0:
-            d.setdefault("price_source", "existing")
-            d.setdefault("price_confidence", "direct" if d.get("price_source") == "workbook_direct" else "category_imputed")
+            if d.get("price_source") == "workbook_direct":
+                d["price_confidence"] = "direct"
+            else:
+                gvals_exist = []
+                for gk in generic_keys(d.get("g")):
+                    gvals_exist.extend(generic_price_pool.get(gk, []))
+                if gvals_exist:
+                    d["price_source"] = "generic_reclassified_existing"
+                    d["price_confidence"] = "generic_imputed"
+                else:
+                    d.setdefault("price_source", "existing")
+                    d.setdefault("price_confidence", "category_imputed")
             continue
 
-        gk = norm_generic(d.get("g"))
-        vals = generic_price_pool.get(gk)
+        vals = []
+        for gk in generic_keys(d.get("g")):
+            vals.extend(generic_price_pool.get(gk, []))
         if vals:
             d["pr"] = float(round(median(vals), 2))
             d["price_source"] = "generic_median_imputed"
@@ -183,6 +218,8 @@ def main() -> None:
         "paracetamol", "ibuprofen", "cetirizine", "loratadine", "chlorpheniramine", "amoxicillin",
         "azithromycin", "salbutamol", "bromhexine", "simethicone", "nystatin", "racecadotril",
     }
+
+    curated_peds_generics = {"paracetamol", "ibuprofen", "amoxicillin", "cetirizine", "salbutamol", "bromhexine"}
 
     for d in drugs:
         tl = d.get("tl") or {}
@@ -218,6 +255,11 @@ def main() -> None:
             continue
 
         annotate_peds_quality(d)
+        if (d.get("tl") or {}).get("q") == "manual_unknown":
+            gcur = canonical_generic_key(d.get("g"))
+            if any(x in gcur for x in curated_peds_generics):
+                d["tl"]["q"] = "parser_manual"
+                d["tl"]["nt"] = (d["tl"].get("nt") or "") + " Curated class uplift applied."
 
     seed.setdefault("m", {})
     seed["m"]["schema_version"] = "druglist-seed-v1"

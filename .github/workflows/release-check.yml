@@ -18,7 +18,9 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install deps
-        run: python -m pip install --upgrade pip openpyxl
+        run: python -m pip install --upgrade pip openpyxl playwright
+      - name: Install playwright browsers
+        run: python -m playwright install --with-deps chromium firefox
       - name: Run release prepare (strict + regression guardrails)
         run: |
           python scripts/release_prepare.py \
@@ -29,3 +31,15 @@ jobs:
             --max-price-regression 0.05 \
             --max-peds-regression 0.03 \
             --max-direct-generic-regression 0.03
+
+      - name: Run UI smoke test
+        run: python scripts/ui_smoke_test.py
+
+      - name: Upload release history artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-history
+          path: |
+            build/release_history.json
+            build/release_history.md
+            artifacts/ui-smoke.png
