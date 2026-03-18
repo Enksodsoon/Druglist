@@ -79,6 +79,18 @@ def parse_price(v: object) -> float | None:
     return x if x > 0 else None
 
 
+def clean_cell(v: object) -> str:
+    if v is None:
+        return ""
+    if isinstance(v, float) and v.is_integer():
+        return str(int(v))
+    return str(v).strip()
+
+
+def row_cell(row: tuple[object, ...], idx: int) -> str:
+    return clean_cell(row[idx]) if idx < len(row) else ""
+
+
 def parse_concentration(drug: dict) -> tuple[float, str] | None:
     text = f"{drug.get('n','')} {drug.get('c','')}".lower().replace("μg", "mcg")
     text = text.replace("mg./", "mg/").replace("mcg./", "mcg/").replace("ml.", "ml")
@@ -243,6 +255,7 @@ def main() -> None:
 
     wb = load_workbook(WB, data_only=True, read_only=True)
     ws = wb["Price_Estimates_Online"]
+    final_ws = wb["Final approved"] if "Final approved" in wb.sheetnames else wb["Final approved "]
 
     direct_price_updates = 0
     generic_fallback_updates = 0
@@ -276,6 +289,30 @@ def main() -> None:
             s = str(checked)
             if not latest_date or s > latest_date:
                 latest_date = s
+
+    for r in final_ws.iter_rows(min_row=3, values_only=True):
+        if not r:
+            continue
+        bds = norm_id(r[6])
+        if not bds or bds not in by_id:
+            continue
+        by_id[bds]["fa"] = {
+            "subcategory": row_cell(r, 1),
+            "product_code": row_cell(r, 2),
+            "product_name": row_cell(r, 3),
+            "pack_size": row_cell(r, 4),
+            "composition": row_cell(r, 5),
+            "medicine_code": row_cell(r, 6),
+            "medicine_name": row_cell(r, 7),
+            "instructions_th": row_cell(r, 8),
+            "instructions_en": row_cell(r, 9),
+            "online_pack_price_thb": row_cell(r, 10),
+            "online_unit_price_thb": row_cell(r, 11),
+            "price_source_url": row_cell(r, 12),
+            "price_checked_date": row_cell(r, 13),
+            "price_notes": row_cell(r, 14),
+            "category": row_cell(r, 15),
+        }
 
     for d in drugs:
         pr = d.get("pr")
