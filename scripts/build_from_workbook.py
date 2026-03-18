@@ -43,6 +43,7 @@ GENERIC_ALIASES = {
     "amoxicillin clavulanate": "amoxicillin + clavulanic acid",
     "cetirizine dihydrochloride": "cetirizine",
     "chlorpheniramine maleate": "chlorpheniramine",
+    "fexofenadine hcl": "fexofenadine",
     "xylometazoline hydrochloride": "xylometazoline",
 }
 
@@ -164,6 +165,48 @@ def format_fraction_units(lo: float, hi: float, unit: str) -> str:
     return f"{span} {unit}"
 
 
+def apply_curated_fexofenadine_rule(drug: dict) -> bool:
+    tl = drug.get("tl") or {}
+    strength = parse_unit_strength(drug)
+    if not strength:
+        return False
+
+    amt, unit = strength
+    if unit != "mg":
+        return False
+
+    ag = drug.get("ag") or {}
+    if abs(amt - 60.0) < 1e-6:
+        tl.update({
+            "s": "curated_generic_fallback",
+            "rp": "Curated fexofenadine pediatric fallback",
+            "rs": "0.5 tab BID",
+            "rf": "BID",
+            "rd": "5 days",
+            "rdi": "1 box / unit as needed",
+            "nt": "Curated pediatric fallback: 60 mg tablet mapped to 30 mg BID equivalent.",
+        })
+        ag["imin"] = max(int(ag.get("imin") or 0), 6)
+    elif abs(amt - 180.0) < 1e-6:
+        tl.update({
+            "s": "curated_generic_fallback",
+            "rp": "Curated fexofenadine adolescent fallback",
+            "rs": "1 tab OD",
+            "rf": "OD",
+            "rd": "5 days",
+            "rdi": "1 box / unit as needed",
+            "nt": "Curated adolescent fallback: 180 mg tablet limited to age 12 years and above.",
+        })
+        ag["imin"] = max(int(ag.get("imin") or 0), 12)
+        ag["it"] = "curated adolescent gate: fexofenadine 180 mg tablet"
+    else:
+        return False
+
+    drug["tl"] = tl
+    drug["ag"] = ag
+    return True
+
+
 def annotate_peds_quality(drug: dict) -> None:
     tl = drug.get("tl") or {}
     s = tl.get("s")
@@ -174,6 +217,8 @@ def annotate_peds_quality(drug: dict) -> None:
         tl["q"] = "auto_mapped"
     elif s == "reference_default_filled_from_template":
         tl["q"] = "manual_unknown"
+    elif s == "curated_generic_fallback":
+        tl["q"] = "generic_uplift_manual"
     elif s == "calculator_ready_manual_target_needed":
         if "parser" in nt:
             tl["q"] = "parser_manual"
@@ -290,6 +335,7 @@ def main() -> None:
     upgraded_top_generic = 0
     upgraded_reference_manual = 0
     upgraded_reference_fraction = 0
+    upgraded_curated_generic = 0
     top_peds_generics = {
         "paracetamol", "ibuprofen", "cetirizine", "loratadine", "chlorpheniramine", "amoxicillin",
         "azithromycin", "salbutamol", "bromhexine", "simethicone", "nystatin", "racecadotril",
@@ -341,6 +387,12 @@ def main() -> None:
             annotate_peds_quality(d)
             upgraded_top_generic += 1
             continue
+
+        if canonical_generic_key(d.get("g")) == "fexofenadine" and status == "no_pediatric_target_found":
+            if apply_curated_fexofenadine_rule(d):
+                annotate_peds_quality(d)
+                upgraded_curated_generic += 1
+                continue
 
         bid = norm_id(d.get("i"))
         direct_rows = pd_rows_by_bds.get(bid, [])
@@ -454,6 +506,7 @@ def main() -> None:
         "pediatric_upgraded_top_generic": upgraded_top_generic,
         "pediatric_reference_manual_defaults": upgraded_reference_manual,
         "pediatric_reference_fraction_defaults": upgraded_reference_fraction,
+        "pediatric_curated_generic_defaults": upgraded_curated_generic,
         "pricedDrugCount": seed["m"].get("pricedDrugCount"),
         "price_confidence_counts": conf,
         "pediatric_quality_counts": pq,
