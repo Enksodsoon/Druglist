@@ -64,6 +64,15 @@ def read_json(path: str | Path, default: Any = None) -> Any:
     return json.loads(target.read_text(encoding="utf-8"))
 
 
+def load_embedded_seed() -> dict[str, Any]:
+    index = ROOT / "index.html"
+    text = index.read_text(encoding="utf-8")
+    match = re.search(r'<script id="seed" type="application/json">(.*?)</script><script>', text, re.S)
+    if not match:
+        return {}
+    return json.loads(match.group(1))
+
+
 def write_report(path: str, title: str, sections: list[tuple[str, str]]) -> None:
     body = [f"# {title}", "", f"Generated: {now_iso()}", ""]
     for heading, content in sections:

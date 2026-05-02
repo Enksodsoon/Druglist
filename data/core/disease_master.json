@@ -1,0 +1,4044 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:39:49Z",
+    "complaint_count": 422,
+    "disease_count": 164,
+    "regimen_count": 133,
+    "manual_review": true,
+    "safety_rule_count": 9,
+    "antibiotic_rule_count": 2,
+    "pediatric_output_count": 93
+  },
+  "diseases": [
+    {
+      "disease_id": "abdominal_colic_adult",
+      "display_name": "abdominal_colic_adult",
+      "aliases": [
+        "abdominal cramp",
+        "colic",
+        "stomach cramp"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "abdominal_colic_peds",
+      "display_name": "abdominal_colic_peds",
+      "aliases": [
+        "abdominal colic child",
+        "colic child",
+        "stomach cramp child"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "abdominal_gas_bloating_adult",
+      "display_name": "abdominal_gas_bloating_adult",
+      "aliases": [
+        "abdominal gas",
+        "bloating",
+        "gas bloating"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "abdominal_gas_peds",
+      "display_name": "abdominal_gas_peds",
+      "aliases": [
+        "abdominal gas child",
+        "child bloating gas",
+        "gas child"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "acute_gastroenteritis_peds_mild",
+      "display_name": "acute_gastroenteritis_peds_mild",
+      "aliases": [
+        "child gastroenteritis",
+        "gastroenteritis child",
+        "mild diarrhea child"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "acute_pharyngitis_viral_adult",
+      "display_name": "acute_pharyngitis_viral_adult",
+      "aliases": [
+        "throat irritation",
+        "viral pharyngitis",
+        "viral sore throat"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "acute_watery_diarrhea_adult",
+      "display_name": "acute_watery_diarrhea_adult",
+      "aliases": [
+        "acute watery diarrhea",
+        "diarrhea",
+        "watery diarrhea"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "acute_watery_diarrhea_peds",
+      "display_name": "acute_watery_diarrhea_peds",
+      "aliases": [
+        "diarrhea 5 yr bw 20 kg"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "acute_watery_diarrhea_peds_rehydration",
+      "display_name": "acute_watery_diarrhea_peds_rehydration",
+      "aliases": [
+        "child ors support",
+        "rehydration diarrhea child",
+        "watery diarrhea child rehydration"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "allergic_conjunctivitis",
+      "display_name": "allergic conjunctivitis",
+      "aliases": [
+        "allergic conjunctivitis"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "allergic_conjunctivitis_adult",
+      "display_name": "allergic_conjunctivitis_adult",
+      "aliases": [
+        "allergic conjunctivitis",
+        "itchy red eye allergy",
+        "itchy watery eyes"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "allergic_rhinitis",
+      "display_name": "allergic rhinitis",
+      "aliases": [
+        "allergic rhinitis"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "allergic_rhinitis_adult",
+      "display_name": "allergic_rhinitis_adult",
+      "aliases": [
+        "allergic rhinitis",
+        "blocked nose",
+        "itchy nose",
+        "nasal congestion",
+        "runny nose",
+        "runny nose allergy",
+        "sneezing"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "allergic_rhinitis_congestion_adult",
+      "display_name": "allergic_rhinitis_congestion_adult",
+      "aliases": [
+        "allergic rhinitis with congestion",
+        "allergy nose blocked",
+        "blocked nose allergy"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "allergic_rhinitis_peds",
+      "display_name": "allergic_rhinitis_peds",
+      "aliases": [
+        "allergic rhinitis child",
+        "child allergic rhinitis",
+        "runny nose allergy child"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "animal_bite",
+      "display_name": "animal bite",
+      "aliases": [
+        "animal bite"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "aphthous_ulcer",
+      "display_name": "aphthous ulcer",
+      "aliases": [
+        "aphthous ulcer"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "aphthous_ulcer_pain_adult",
+      "display_name": "aphthous_ulcer_pain_adult",
+      "aliases": [
+        "aphthous ulcer",
+        "canker sore",
+        "painful mouth ulcer"
+      ],
+      "category": "Oral",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "bacterial_conjunctivitis",
+      "display_name": "bacterial conjunctivitis",
+      "aliases": [
+        "bacterial conjunctivitis"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "bacterial_conjunctivitis_adult",
+      "display_name": "bacterial_conjunctivitis_adult",
+      "aliases": [
+        "bacterial conjunctivitis",
+        "purulent red eye",
+        "sticky eye discharge"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "bacterial_conjunctivitis_peds",
+      "display_name": "bacterial_conjunctivitis_peds",
+      "aliases": [
+        "bacterial conjunctivitis child",
+        "purulent eye discharge child",
+        "sticky eye child"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "bacterial_eyelid_infection_adult",
+      "display_name": "bacterial_eyelid_infection_adult",
+      "aliases": [
+        "eyelid infection",
+        "infected stye",
+        "stye bacterial"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "bacterial_eyelid_infection_peds",
+      "display_name": "bacterial_eyelid_infection_peds",
+      "aliases": [
+        "eyelid infection child",
+        "infected stye child",
+        "stye child"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "bacterial_pharyngitis_adult",
+      "display_name": "bacterial_pharyngitis_adult",
+      "aliases": [
+        "bacterial pharyngitis",
+        "bacterial sore throat",
+        "tonsillitis"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "bacterial_pharyngitis_alt_adult",
+      "display_name": "bacterial_pharyngitis_alt_adult",
+      "aliases": [
+        "bacterial throat alternative antibiotic",
+        "pharyngitis alternative antibiotic",
+        "roxi sore throat antibiotic"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "bacterial_pharyngitis_peds",
+      "display_name": "bacterial_pharyngitis_peds",
+      "aliases": [
+        "bacterial sore throat child",
+        "exudative throat child",
+        "tonsillitis child bacterial"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "bacterial_sinusitis_adult",
+      "display_name": "bacterial_sinusitis_adult",
+      "aliases": [
+        "bacterial sinusitis",
+        "sinus infection",
+        "sinusitis"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "bacterial_sinusitis_alt_adult",
+      "display_name": "bacterial_sinusitis_alt_adult",
+      "aliases": [
+        "roxi sinusitis",
+        "sinus infection alternative antibiotic",
+        "sinusitis alternative antibiotic"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "bacterial_sinusitis_peds",
+      "display_name": "bacterial_sinusitis_peds",
+      "aliases": [
+        "bacterial sinusitis child",
+        "purulent sinus child",
+        "sinus infection child"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "bacterial_skin_infection_topical_adult",
+      "display_name": "bacterial_skin_infection_topical_adult",
+      "aliases": [
+        "localized bacterial skin lesion",
+        "topical bacterial skin support",
+        "topical skin antibiotic"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "bacterial_skin_infection_topical_peds",
+      "display_name": "bacterial_skin_infection_topical_peds",
+      "aliases": [
+        "localized skin infection child",
+        "skin infection child topical",
+        "topical skin antibiotic child"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "burn_aftercare_minor_adult",
+      "display_name": "burn_aftercare_minor_adult",
+      "aliases": [
+        "burn aftercare",
+        "burn follow up",
+        "healing burn"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "cellulitis_mild_adult",
+      "display_name": "cellulitis_mild_adult",
+      "aliases": [
+        "localized cellulitis",
+        "mild cellulitis",
+        "skin infection cellulitis"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "common_cold_adult",
+      "display_name": "common_cold_adult",
+      "aliases": [
+        "cold",
+        "common cold",
+        "viral uri"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "constipation",
+      "display_name": "constipation",
+      "aliases": [
+        "constipation"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "contact_dermatitis_adult",
+      "display_name": "contact_dermatitis_adult",
+      "aliases": [
+        "allergic contact rash",
+        "contact dermatitis",
+        "irritant dermatitis"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "contact_lens_dry_eye_support_adult",
+      "display_name": "contact_lens_dry_eye_support_adult",
+      "aliases": [
+        "contact lens dry eye",
+        "dry eye contact lens",
+        "lens irritation"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "corn_callus_topical_adult",
+      "display_name": "corn_callus_topical_adult",
+      "aliases": [
+        "callus treatment",
+        "corn callus topical",
+        "corn treatment"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "cough_sore_throat_sputum_nasal_discharge",
+      "display_name": "cough sore throat sputum nasal discharge",
+      "aliases": [
+        "cough sore throat sputum nasal discharge"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "cutaneous_candidiasis_adult",
+      "display_name": "cutaneous_candidiasis_adult",
+      "aliases": [
+        "candida skin rash",
+        "cutaneous candidiasis",
+        "yeast skin rash"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "dental_abscess_support_adult",
+      "display_name": "dental_abscess_support_adult",
+      "aliases": [
+        "dental abscess",
+        "gum abscess",
+        "tooth abscess"
+      ],
+      "category": "Oral",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "dental_infection_support_adult",
+      "display_name": "dental_infection_support_adult",
+      "aliases": [
+        "dental infection",
+        "gum infection",
+        "tooth infection"
+      ],
+      "category": "Oral",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "dental_pain_support_adult",
+      "display_name": "dental_pain_support_adult",
+      "aliases": [
+        "dental pain",
+        "tooth pain",
+        "toothache"
+      ],
+      "category": "Oral",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "dermatitis",
+      "display_name": "dermatitis",
+      "aliases": [
+        "dermatitis"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "diarrhea_adult",
+      "display_name": "diarrhea adult",
+      "aliases": [
+        "diarrhea adult"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "diarrhea_child",
+      "display_name": "diarrhea child",
+      "aliases": [
+        "diarrhea child"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "digestive_aid_postmeal_adult",
+      "display_name": "digestive_aid_postmeal_adult",
+      "aliases": [
+        "after meal digestive aid",
+        "digestive aid",
+        "post meal fullness support"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "dry_eye",
+      "display_name": "dry eye",
+      "aliases": [
+        "dry eye"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "dry_eye_adult",
+      "display_name": "dry_eye_adult",
+      "aliases": [
+        "dry eye"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "dry_eye_peds_support",
+      "display_name": "dry_eye_peds_support",
+      "aliases": [
+        "child dry eye",
+        "dry eye child",
+        "eye dryness child"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "dry_skin_adult",
+      "display_name": "dry_skin_adult",
+      "aliases": [
+        "dry skin",
+        "rough skin",
+        "xerosis"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "dysmenorrhea",
+      "display_name": "dysmenorrhea",
+      "aliases": [
+        "dysmenorrhea"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "dyspepsia",
+      "display_name": "dyspepsia",
+      "aliases": [
+        "dyspepsia"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "dyspepsia_gas_adult",
+      "display_name": "dyspepsia_gas_adult",
+      "aliases": [
+        "belching after meals",
+        "dyspepsia gas",
+        "post meal belching"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "dysuria",
+      "display_name": "dysuria",
+      "aliases": [
+        "dysuria"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "dysuria_lower_uti_adult",
+      "display_name": "dysuria_lower_uti_adult",
+      "aliases": [
+        "burning urination",
+        "dysuria lower uti",
+        "lower uti burning"
+      ],
+      "category": "GU",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "eczema_dry_pruritic_adult",
+      "display_name": "eczema_dry_pruritic_adult",
+      "aliases": [
+        "dry itchy eczema",
+        "eczema dry itchy",
+        "xerotic eczema"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "eye_irritation_adult",
+      "display_name": "eye_irritation_adult",
+      "aliases": [
+        "dust in eye",
+        "eye irritation",
+        "red eye from dust"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "eye_irritation_peds",
+      "display_name": "eye_irritation_peds",
+      "aliases": [
+        "dust in eye child",
+        "eye irritation child",
+        "eye irritation kid"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "eye_lubrication_adult",
+      "display_name": "eye_lubrication_adult",
+      "aliases": [
+        "artificial tears",
+        "eye lubrication",
+        "lubricant drops"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "eye_wash_support_adult",
+      "display_name": "eye_wash_support_adult",
+      "aliases": [
+        "eye rinse",
+        "eye wash",
+        "wash eye"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "eyelid_bump",
+      "display_name": "eyelid bump",
+      "aliases": [
+        "eyelid bump"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "fever_myalgia",
+      "display_name": "fever myalgia",
+      "aliases": [
+        "fever myalgia"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "foreign_body_irritation_followup_adult",
+      "display_name": "foreign_body_irritation_followup_adult",
+      "aliases": [
+        "after dust eye irritation",
+        "eye irritation follow up",
+        "foreign body irritation"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "frequency_urgency_uti_adult",
+      "display_name": "frequency_urgency_uti_adult",
+      "aliases": [
+        "frequent urination infection",
+        "urine frequency urgency",
+        "uti frequency urgency"
+      ],
+      "category": "GU",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "functional_bloating_adult",
+      "display_name": "functional_bloating_adult",
+      "aliases": [
+        "flatulence",
+        "functional bloating",
+        "stomach gas bloating"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "fungal_intertrigo_adult",
+      "display_name": "fungal_intertrigo_adult",
+      "aliases": [
+        "candida intertrigo",
+        "fungal intertrigo",
+        "skin fold fungal rash"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "gas_belching_adult",
+      "display_name": "gas_belching_adult",
+      "aliases": [
+        "belching",
+        "dyspeptic gas",
+        "gas belching"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "gastroenteritis_mild_adult",
+      "display_name": "gastroenteritis_mild_adult",
+      "aliases": [
+        "gastroenteritis",
+        "mild diarrhea",
+        "viral gastroenteritis"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "gerd",
+      "display_name": "GERD",
+      "aliases": [
+        "GERD"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "gingivitis_localized_adult",
+      "display_name": "gingivitis_localized_adult",
+      "aliases": [
+        "gingivitis",
+        "gum inflammation",
+        "swollen gums"
+      ],
+      "category": "Oral",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "gum_inflammation_support_adult",
+      "display_name": "gum_inflammation_support_adult",
+      "aliases": [
+        "gum gargle support",
+        "gum inflammation support",
+        "oral antiseptic gum support"
+      ],
+      "category": "Oral",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "herpes_labialis",
+      "display_name": "herpes labialis",
+      "aliases": [
+        "herpes labialis"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "herpes_labialis_adult",
+      "display_name": "herpes_labialis_adult",
+      "aliases": [
+        "cold sore",
+        "herpes labialis",
+        "lip blister"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "herpes_zoster_adult",
+      "display_name": "herpes_zoster_adult",
+      "aliases": [
+        "herpes zoster",
+        "shingles",
+        "zoster"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "impetigo_localized_adult",
+      "display_name": "impetigo_localized_adult",
+      "aliases": [
+        "impetigo",
+        "localized skin infection",
+        "small bacterial skin lesion"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "impetigo_oral_antibiotic_adult",
+      "display_name": "impetigo_oral_antibiotic_adult",
+      "aliases": [
+        "extensive impetigo",
+        "impetigo oral antibiotic",
+        "impetigo widespread"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "indigestion_postmeal_adult",
+      "display_name": "indigestion_postmeal_adult",
+      "aliases": [
+        "after meal dyspepsia",
+        "indigestion after meal",
+        "post meal indigestion"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "infected_abrasion_adult",
+      "display_name": "infected_abrasion_adult",
+      "aliases": [
+        "abrasion infected",
+        "infected abrasion",
+        "infected scrape"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "infected_eczema_localized_adult",
+      "display_name": "infected_eczema_localized_adult",
+      "aliases": [
+        "eczema with infection",
+        "infected dermatitis",
+        "infected eczema"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "infected_insect_bite_adult",
+      "display_name": "infected_insect_bite_adult",
+      "aliases": [
+        "bite cellulitis small",
+        "infected insect bite",
+        "infected mosquito bite"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "infected_insect_bite_peds",
+      "display_name": "infected_insect_bite_peds",
+      "aliases": [
+        "infected bite child",
+        "infected insect bite child",
+        "red infected bug bite child"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "infected_wound_oral_antibiotic_adult",
+      "display_name": "infected_wound_oral_antibiotic_adult",
+      "aliases": [
+        "infected wound oral antibiotic",
+        "oral antibiotic wound infection",
+        "wound infection antibiotic"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "inflammatory_pain_adult",
+      "display_name": "inflammatory_pain_adult",
+      "aliases": [
+        "inflammatory pain",
+        "joint flare",
+        "joint pain"
+      ],
+      "category": "Pain",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "insect_bite_peds",
+      "display_name": "insect_bite_peds",
+      "aliases": [
+        "bug bite kid",
+        "insect bite child",
+        "mosquito bite child"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "insect_bite_reaction_adult",
+      "display_name": "insect_bite_reaction_adult",
+      "aliases": [
+        "bug bite",
+        "insect bite",
+        "mosquito bite"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "insect_bite_swelling_adult",
+      "display_name": "insect_bite_swelling_adult",
+      "aliases": [
+        "bug bite swelling",
+        "insect bite swelling",
+        "swollen mosquito bite"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "itchy_dermatitis_adult",
+      "display_name": "itchy_dermatitis_adult",
+      "aliases": [
+        "dermatitis",
+        "eczema",
+        "itchy dermatitis"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "itchy_localized_rash_adult",
+      "display_name": "itchy_localized_rash_adult",
+      "aliases": [
+        "itchy patch",
+        "itchy skin patch",
+        "localized itchy rash"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "joint_pain_topical_support_adult",
+      "display_name": "joint_pain_topical_support_adult",
+      "aliases": [
+        "joint pain spray",
+        "local joint pain",
+        "topical joint pain"
+      ],
+      "category": "Pain",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "knee_joint_pain_adult",
+      "display_name": "knee_joint_pain_adult",
+      "aliases": [
+        "joint pain knee",
+        "knee pain",
+        "localized joint pain"
+      ],
+      "category": "Pain",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "laryngitis_irritation_adult",
+      "display_name": "laryngitis_irritation_adult",
+      "aliases": [
+        "hoarse voice",
+        "laryngitis",
+        "voice irritation"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "localized_eczema_peds",
+      "display_name": "localized_eczema_peds",
+      "aliases": [
+        "eczema child",
+        "itchy eczema child",
+        "localized eczema child"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "localized_eczema_sensitive_area_adult",
+      "display_name": "localized_eczema_sensitive_area_adult",
+      "aliases": [
+        "mild eczema patch",
+        "sensitive area eczema",
+        "small eczema patch"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "localized_folliculitis_adult",
+      "display_name": "localized_folliculitis_adult",
+      "aliases": [
+        "folliculitis",
+        "infected hair follicle",
+        "small pustule folliculitis"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "localized_muscle_ache_support_adult",
+      "display_name": "localized_muscle_ache_support_adult",
+      "aliases": [
+        "localized muscle ache",
+        "muscle ache topical",
+        "muscle pain local"
+      ],
+      "category": "Pain",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "low_back_pain_simple_adult",
+      "display_name": "low_back_pain_simple_adult",
+      "aliases": [
+        "low back pain",
+        "mechanical back pain",
+        "simple back pain"
+      ],
+      "category": "Pain",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "macrolide_respiratory_bacterial_adult",
+      "display_name": "macrolide_respiratory_bacterial_adult",
+      "aliases": [
+        "b roxi support",
+        "macrolide respiratory bacterial",
+        "roxithromycin option"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "migraine_adult",
+      "display_name": "migraine_adult",
+      "aliases": [
+        "migraine",
+        "one-sided headache"
+      ],
+      "category": "Neuro",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "migraine_headache",
+      "display_name": "migraine headache",
+      "aliases": [
+        "migraine headache"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "mild_mucolytic_support_adult",
+      "display_name": "mild_mucolytic_support_adult",
+      "aliases": [
+        "mild wet cough support",
+        "mucolytic support",
+        "phlegm support"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "minor_burn_adult",
+      "display_name": "minor_burn_adult",
+      "aliases": [
+        "minor burn",
+        "small burn",
+        "superficial burn"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "minor_cut_wound_care_adult",
+      "display_name": "minor_cut_wound_care_adult",
+      "aliases": [
+        "minor cut care",
+        "small cut support",
+        "small wound care"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "minor_skin_infection_topical_adult",
+      "display_name": "minor_skin_infection_topical_adult",
+      "aliases": [
+        "localized skin infection",
+        "minor skin infection",
+        "small infected wound"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "minor_wound",
+      "display_name": "minor wound",
+      "aliases": [
+        "minor wound"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "minor_wound_care_adult",
+      "display_name": "minor_wound_care_adult",
+      "aliases": [
+        "abrasion care",
+        "minor wound care",
+        "small wound support"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "msk_pain",
+      "display_name": "MSK pain",
+      "aliases": [
+        "MSK pain"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "muscle_spasm_adult",
+      "display_name": "muscle_spasm_adult",
+      "aliases": [
+        "muscle spasm",
+        "spasm",
+        "tight muscle"
+      ],
+      "category": "Pain",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "musculoskeletal_pain_adult",
+      "display_name": "musculoskeletal_pain_adult",
+      "aliases": [
+        "back pain",
+        "muscle pain",
+        "neck pain",
+        "sprain"
+      ],
+      "category": "Pain",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "nasal_blockage_adult",
+      "display_name": "nasal_blockage_adult",
+      "aliases": [
+        "nasal blockage",
+        "stuffy nose"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "nasal_dryness_irritation_adult",
+      "display_name": "nasal_dryness_irritation_adult",
+      "aliases": [
+        "dry irritated nose",
+        "nasal dryness",
+        "nose dryness irritation"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "nasal_irrigation_support_adult",
+      "display_name": "nasal_irrigation_support_adult",
+      "aliases": [
+        "nasal irrigation",
+        "nasal wash",
+        "saline nasal rinse"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "nasal_irritation_peds",
+      "display_name": "nasal_irritation_peds",
+      "aliases": [
+        "child nasal dryness",
+        "dry nose child",
+        "nasal irritation child"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "nausea_vomiting",
+      "display_name": "nausea vomiting",
+      "aliases": [
+        "nausea vomiting"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "neck_shoulder_strain_adult",
+      "display_name": "neck_shoulder_strain_adult",
+      "aliases": [
+        "neck shoulder pain",
+        "neck strain",
+        "shoulder strain"
+      ],
+      "category": "Pain",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "oral_thrush_adult",
+      "display_name": "oral_thrush_adult",
+      "aliases": [
+        "oral thrush",
+        "thrush mouth",
+        "white tongue thrush"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "oral_thrush_peds",
+      "display_name": "oral_thrush_peds",
+      "aliases": [
+        "oral thrush child",
+        "thrush child",
+        "white tongue thrush child"
+      ],
+      "category": "Oral",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "oral_ulcer_adult",
+      "display_name": "oral_ulcer_adult",
+      "aliases": [
+        "aphthous ulcer",
+        "mouth ulcer"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "penicillin_allergy_resp_support_adult",
+      "display_name": "penicillin_allergy_resp_support_adult",
+      "aliases": [
+        "penicillin allergy respiratory antibiotic",
+        "penicillin allergy sore throat antibiotic",
+        "roxi respiratory support"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "pityriasis_versicolor_adult",
+      "display_name": "pityriasis_versicolor_adult",
+      "aliases": [
+        "pityriasis versicolor",
+        "superficial fungal patch",
+        "versicolor"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "post_uri_cough_peds",
+      "display_name": "post_uri_cough_peds",
+      "aliases": [
+        "cough after cold child",
+        "post uri cough child",
+        "residual cough child"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "post_viral_cough_adult",
+      "display_name": "post_viral_cough_adult",
+      "aliases": [
+        "cough after uri",
+        "post viral cough",
+        "residual cough after cold"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "postnasal_drip_cough_adult",
+      "display_name": "postnasal_drip_cough_adult",
+      "aliases": [
+        "cough from post nasal drip",
+        "postnasal drip cough",
+        "throat clearing cough"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "pruritus_localized_adult",
+      "display_name": "pruritus_localized_adult",
+      "aliases": [
+        "itch without rash",
+        "local itch",
+        "localized pruritus"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "pterygium",
+      "display_name": "pterygium",
+      "aliases": [
+        "pterygium"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "red_eye",
+      "display_name": "red eye",
+      "aliases": [
+        "red eye"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "screen_related_dry_eye_adult",
+      "display_name": "screen_related_dry_eye_adult",
+      "aliases": [
+        "computer eye dryness",
+        "dry eye from screen",
+        "screen related dry eye"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "sore_throat",
+      "display_name": "sore throat",
+      "aliases": [
+        "sore throat"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "sore_throat_adult",
+      "display_name": "sore_throat_adult",
+      "aliases": [
+        "sore throat",
+        "throat pain"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "sprain_strain_mild_adult",
+      "display_name": "sprain_strain_mild_adult",
+      "aliases": [
+        "ankle sprain mild",
+        "mild strain",
+        "sprain"
+      ],
+      "category": "Pain",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "superficial_abrasion_adult",
+      "display_name": "superficial_abrasion_adult",
+      "aliases": [
+        "abrasion",
+        "scrape wound",
+        "superficial abrasion"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "tension_headache_adult",
+      "display_name": "tension_headache_adult",
+      "aliases": [
+        "stress headache",
+        "tension headache",
+        "tight headache"
+      ],
+      "category": "Neuro",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "tinea",
+      "display_name": "tinea",
+      "aliases": [
+        "tinea"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "tinea_corporis_clotrimazole_adult",
+      "display_name": "tinea_corporis_clotrimazole_adult",
+      "aliases": [
+        "body fungal rash clotrimazole",
+        "ringworm clotrimazole",
+        "tinea corporis clotrimazole"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "tinea_corporis_localized_adult",
+      "display_name": "tinea_corporis_localized_adult",
+      "aliases": [
+        "fungal body rash",
+        "ringworm",
+        "tinea corporis"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "tinea_cruris_adult",
+      "display_name": "tinea_cruris_adult",
+      "aliases": [
+        "groin fungal rash",
+        "jock itch",
+        "tinea cruris"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "tinea_pedis_adult",
+      "display_name": "tinea_pedis_adult",
+      "aliases": [
+        "athletes foot",
+        "fungal foot rash",
+        "tinea pedis"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "tinea_pruritic_rash_adult",
+      "display_name": "tinea_pruritic_rash_adult",
+      "aliases": [
+        "fungal rash",
+        "ringworm",
+        "tinea"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "tonsillar_inflammation_support_adult",
+      "display_name": "tonsillar_inflammation_support_adult",
+      "aliases": [
+        "tonsil irritation",
+        "tonsil pain mild",
+        "tonsillar inflammation"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "topical_eye_antibiotic_support_adult",
+      "display_name": "topical_eye_antibiotic_support_adult",
+      "aliases": [
+        "bacterial eye drop option",
+        "eye antibiotic support",
+        "topical eye antibiotic"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "topical_fusidic_support_adult",
+      "display_name": "topical_fusidic_support_adult",
+      "aliases": [
+        "fucidin support",
+        "fusidic acid support",
+        "topical fusidic"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "traveler_diarrhea_support_adult",
+      "display_name": "traveler_diarrhea_support_adult",
+      "aliases": [
+        "diarrhea while travelling",
+        "travel diarrhea",
+        "traveler diarrhea"
+      ],
+      "category": "GI",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "uncomplicated_uti_adult",
+      "display_name": "uncomplicated_uti_adult",
+      "aliases": [
+        "cystitis",
+        "uncomplicated uti",
+        "urine infection lower"
+      ],
+      "category": "GU",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "uncomplicated_uti_alt_cipro_adult",
+      "display_name": "uncomplicated_uti_alt_cipro_adult",
+      "aliases": [
+        "cifloxin uti",
+        "cipro uti option",
+        "uti alternative cipro"
+      ],
+      "category": "GU",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "uri_diarrhea_adult",
+      "display_name": "uri_diarrhea_adult",
+      "aliases": [
+        "uri with diarrhea"
+      ],
+      "category": "Mixed",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "uri_dry_cough",
+      "display_name": "URI dry cough",
+      "aliases": [
+        "URI dry cough"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "uri_dry_cough_adult",
+      "display_name": "uri_dry_cough_adult",
+      "aliases": [
+        "dry cough",
+        "night cough",
+        "uri dry cough"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "uri_rash_adult",
+      "display_name": "uri_rash_adult",
+      "aliases": [
+        "itchy rash",
+        "uri with rash"
+      ],
+      "category": "Mixed",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "uri_sneezing_runny_nose_adult",
+      "display_name": "uri_sneezing_runny_nose_adult",
+      "aliases": [
+        "common cold runny nose",
+        "runny nose and sneezing",
+        "uri sneezing runny nose"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "uri_wet_cough",
+      "display_name": "URI wet cough",
+      "aliases": [
+        "URI wet cough"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "uri_wet_cough_adult",
+      "display_name": "uri_wet_cough_adult",
+      "aliases": [
+        "productive cough",
+        "uri with wet cough"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "uri_wet_cough_peds",
+      "display_name": "uri_wet_cough_peds",
+      "aliases": [
+        "productive cough child",
+        "uri wet cough child",
+        "wet cough child"
+      ],
+      "category": "ENT",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "urinary_frequency",
+      "display_name": "urinary frequency",
+      "aliases": [
+        "urinary frequency"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "urticaria",
+      "display_name": "urticaria",
+      "aliases": [
+        "urticaria"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "urticaria_mild_adult",
+      "display_name": "urticaria_mild_adult",
+      "aliases": [
+        "allergic wheals",
+        "hives",
+        "urticaria"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "vaginal_discharge_support_adult",
+      "display_name": "vaginal_discharge_support_adult",
+      "aliases": [
+        "local vaginal treatment support",
+        "vaginal discharge support",
+        "vaginal tab support"
+      ],
+      "category": "GU",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "vaginal_mixed_infection_adult",
+      "display_name": "vaginal_mixed_infection_adult",
+      "aliases": [
+        "mixed vaginal discharge",
+        "vaginal discharge infection",
+        "vaginal mixed infection"
+      ],
+      "category": "GU",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "vertigo",
+      "display_name": "vertigo",
+      "aliases": [
+        "vertigo"
+      ],
+      "category": "",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "disease_id": "vertigo_adult",
+      "display_name": "vertigo_adult",
+      "aliases": [
+        "dizzy spinning",
+        "vertigo"
+      ],
+      "category": "Neuro",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "viral_fever_bodyache_adult",
+      "display_name": "viral_fever_bodyache_adult",
+      "aliases": [
+        "body ache",
+        "fever body ache",
+        "viral fever"
+      ],
+      "category": "General",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "viral_fever_peds_support",
+      "display_name": "viral_fever_peds_support",
+      "aliases": [
+        "child fever support",
+        "fever child support",
+        "viral fever child"
+      ],
+      "category": "General",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "vulvovaginal_candidiasis_adult",
+      "display_name": "vulvovaginal_candidiasis_adult",
+      "aliases": [
+        "itchy fungal vaginal discharge",
+        "vaginal candidiasis",
+        "yeast infection"
+      ],
+      "category": "GU",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "wart_localized_adult",
+      "display_name": "wart_localized_adult",
+      "aliases": [
+        "corn topical wart",
+        "localized wart",
+        "wart"
+      ],
+      "category": "Skin",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "disease_id": "watery_red_eye_nonpurulent_adult",
+      "display_name": "watery_red_eye_nonpurulent_adult",
+      "aliases": [
+        "non purulent red eye",
+        "red watery eye",
+        "watery red eye"
+      ],
+      "category": "Eye",
+      "runtime_priority": [
+        "OPD_Fast_Index",
+        "Top_50_Defaults",
+        "Clinic_Defaults",
+        "Complaint_Index",
+        "Fast_Regimen_Master",
+        "Drug_Short_Lookup",
+        "Generic_Cluster_Map",
+        "Pediatric_Layer",
+        "Antibiotic_Stewardship",
+        "Validation_Rules"
+      ],
+      "source_ids": [],
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    }
+  ]
+}

@@ -1,0 +1,3812 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:39:49Z",
+    "complaint_count": 422,
+    "disease_count": 164,
+    "regimen_count": 133,
+    "manual_review": true,
+    "safety_rule_count": 9,
+    "antibiotic_rule_count": 2,
+    "pediatric_output_count": 93
+  },
+  "items": [
+    {
+      "complaint_id": "CMP_ALLERGIC_RHINITIS",
+      "complaint": "allergic rhinitis",
+      "disease_id": "allergic_rhinitis",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_URI_WET_COUGH",
+      "complaint": "URI wet cough",
+      "disease_id": "uri_wet_cough",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_URI_DRY_COUGH",
+      "complaint": "URI dry cough",
+      "disease_id": "uri_dry_cough",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_COUGH_SORE_THROAT_SPUTUM_NASAL_DISCHARGE",
+      "complaint": "cough sore throat sputum nasal discharge",
+      "disease_id": "cough_sore_throat_sputum_nasal_discharge",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_SORE_THROAT",
+      "complaint": "sore throat",
+      "disease_id": "sore_throat",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_FEVER_MYALGIA",
+      "complaint": "fever myalgia",
+      "disease_id": "fever_myalgia",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_DIARRHEA_ADULT",
+      "complaint": "diarrhea adult",
+      "disease_id": "diarrhea_adult",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_DIARRHEA_CHILD",
+      "complaint": "diarrhea child",
+      "disease_id": "diarrhea_child",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_NAUSEA_VOMITING",
+      "complaint": "nausea vomiting",
+      "disease_id": "nausea_vomiting",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_DYSPEPSIA",
+      "complaint": "dyspepsia",
+      "disease_id": "dyspepsia",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_GERD",
+      "complaint": "GERD",
+      "disease_id": "gerd",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_CONSTIPATION",
+      "complaint": "constipation",
+      "disease_id": "constipation",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_DRY_EYE",
+      "complaint": "dry eye",
+      "disease_id": "dry_eye",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_RED_EYE",
+      "complaint": "red eye",
+      "disease_id": "red_eye",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_BACTERIAL_CONJUNCTIVITIS",
+      "complaint": "bacterial conjunctivitis",
+      "disease_id": "bacterial_conjunctivitis",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_ALLERGIC_CONJUNCTIVITIS",
+      "complaint": "allergic conjunctivitis",
+      "disease_id": "allergic_conjunctivitis",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_EYELID_BUMP",
+      "complaint": "eyelid bump",
+      "disease_id": "eyelid_bump",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_PTERYGIUM",
+      "complaint": "pterygium",
+      "disease_id": "pterygium",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_TINEA",
+      "complaint": "tinea",
+      "disease_id": "tinea",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_DERMATITIS",
+      "complaint": "dermatitis",
+      "disease_id": "dermatitis",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_HERPES_LABIALIS",
+      "complaint": "herpes labialis",
+      "disease_id": "herpes_labialis",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_APHTHOUS_ULCER",
+      "complaint": "aphthous ulcer",
+      "disease_id": "aphthous_ulcer",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_URTICARIA",
+      "complaint": "urticaria",
+      "disease_id": "urticaria",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_DYSURIA",
+      "complaint": "dysuria",
+      "disease_id": "dysuria",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_URINARY_FREQUENCY",
+      "complaint": "urinary frequency",
+      "disease_id": "urinary_frequency",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_DYSMENORRHEA",
+      "complaint": "dysmenorrhea",
+      "disease_id": "dysmenorrhea",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_MIGRAINE_HEADACHE",
+      "complaint": "migraine headache",
+      "disease_id": "migraine_headache",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_VERTIGO",
+      "complaint": "vertigo",
+      "disease_id": "vertigo",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_MSK_PAIN",
+      "complaint": "MSK pain",
+      "disease_id": "msk_pain",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_MINOR_WOUND",
+      "complaint": "minor wound",
+      "disease_id": "minor_wound",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CMP_ANIMAL_BITE",
+      "complaint": "animal bite",
+      "disease_id": "animal_bite",
+      "match_type": "required_pattern",
+      "priority": 1,
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0001",
+      "complaint": "allergic rhinitis",
+      "disease_id": "allergic_rhinitis_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0002",
+      "complaint": "runny nose",
+      "disease_id": "allergic_rhinitis_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0003",
+      "complaint": "uri with wet cough",
+      "disease_id": "uri_wet_cough_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0004",
+      "complaint": "productive cough",
+      "disease_id": "uri_wet_cough_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0005",
+      "complaint": "uri with diarrhea",
+      "disease_id": "uri_diarrhea_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0006",
+      "complaint": "acute watery diarrhea",
+      "disease_id": "acute_watery_diarrhea_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0007",
+      "complaint": "uri with rash",
+      "disease_id": "uri_rash_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0008",
+      "complaint": "sore throat",
+      "disease_id": "sore_throat_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0009",
+      "complaint": "dry eye",
+      "disease_id": "dry_eye_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0010",
+      "complaint": "diarrhea 5 yr bw 20 kg",
+      "disease_id": "acute_watery_diarrhea_peds",
+      "match_type": "shortcut",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0011",
+      "complaint": "runny nose allergy",
+      "disease_id": "allergic_rhinitis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0012",
+      "complaint": "sneezing",
+      "disease_id": "allergic_rhinitis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0013",
+      "complaint": "itchy nose",
+      "disease_id": "allergic_rhinitis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0014",
+      "complaint": "blocked nose",
+      "disease_id": "allergic_rhinitis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0015",
+      "complaint": "nasal congestion",
+      "disease_id": "allergic_rhinitis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0016",
+      "complaint": "uri dry cough",
+      "disease_id": "uri_dry_cough_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0017",
+      "complaint": "dry cough",
+      "disease_id": "uri_dry_cough_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0018",
+      "complaint": "night cough",
+      "disease_id": "uri_dry_cough_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0019",
+      "complaint": "throat pain",
+      "disease_id": "sore_throat_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0020",
+      "complaint": "watery diarrhea",
+      "disease_id": "acute_watery_diarrhea_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0021",
+      "complaint": "diarrhea",
+      "disease_id": "acute_watery_diarrhea_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0022",
+      "complaint": "itchy rash",
+      "disease_id": "uri_rash_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0023",
+      "complaint": "eye irritation",
+      "disease_id": "eye_irritation_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0024",
+      "complaint": "dust in eye",
+      "disease_id": "eye_irritation_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0025",
+      "complaint": "red eye from dust",
+      "disease_id": "eye_irritation_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0026",
+      "complaint": "muscle pain",
+      "disease_id": "musculoskeletal_pain_adult",
+      "match_type": "alias",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0027",
+      "complaint": "neck pain",
+      "disease_id": "musculoskeletal_pain_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0028",
+      "complaint": "back pain",
+      "disease_id": "musculoskeletal_pain_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0029",
+      "complaint": "sprain",
+      "disease_id": "musculoskeletal_pain_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0030",
+      "complaint": "migraine",
+      "disease_id": "migraine_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0031",
+      "complaint": "one-sided headache",
+      "disease_id": "migraine_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0032",
+      "complaint": "vertigo",
+      "disease_id": "vertigo_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0033",
+      "complaint": "dizzy spinning",
+      "disease_id": "vertigo_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0034",
+      "complaint": "mouth ulcer",
+      "disease_id": "oral_ulcer_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0035",
+      "complaint": "aphthous ulcer",
+      "disease_id": "oral_ulcer_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0036",
+      "complaint": "common cold",
+      "disease_id": "common_cold_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0037",
+      "complaint": "cold",
+      "disease_id": "common_cold_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0038",
+      "complaint": "viral uri",
+      "disease_id": "common_cold_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0039",
+      "complaint": "nasal blockage",
+      "disease_id": "nasal_blockage_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0040",
+      "complaint": "stuffy nose",
+      "disease_id": "nasal_blockage_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0041",
+      "complaint": "fever body ache",
+      "disease_id": "viral_fever_bodyache_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0042",
+      "complaint": "viral fever",
+      "disease_id": "viral_fever_bodyache_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0043",
+      "complaint": "body ache",
+      "disease_id": "viral_fever_bodyache_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0044",
+      "complaint": "gas bloating",
+      "disease_id": "abdominal_gas_bloating_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0045",
+      "complaint": "bloating",
+      "disease_id": "abdominal_gas_bloating_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0046",
+      "complaint": "abdominal gas",
+      "disease_id": "abdominal_gas_bloating_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0047",
+      "complaint": "abdominal cramp",
+      "disease_id": "abdominal_colic_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0048",
+      "complaint": "colic",
+      "disease_id": "abdominal_colic_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0049",
+      "complaint": "stomach cramp",
+      "disease_id": "abdominal_colic_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0050",
+      "complaint": "muscle spasm",
+      "disease_id": "muscle_spasm_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0051",
+      "complaint": "tight muscle",
+      "disease_id": "muscle_spasm_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0052",
+      "complaint": "spasm",
+      "disease_id": "muscle_spasm_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0053",
+      "complaint": "tension headache",
+      "disease_id": "tension_headache_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0054",
+      "complaint": "tight headache",
+      "disease_id": "tension_headache_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0055",
+      "complaint": "stress headache",
+      "disease_id": "tension_headache_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0056",
+      "complaint": "joint pain",
+      "disease_id": "inflammatory_pain_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0057",
+      "complaint": "inflammatory pain",
+      "disease_id": "inflammatory_pain_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0058",
+      "complaint": "joint flare",
+      "disease_id": "inflammatory_pain_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0059",
+      "complaint": "dry skin",
+      "disease_id": "dry_skin_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0060",
+      "complaint": "xerosis",
+      "disease_id": "dry_skin_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0061",
+      "complaint": "rough skin",
+      "disease_id": "dry_skin_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0062",
+      "complaint": "eczema",
+      "disease_id": "itchy_dermatitis_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0063",
+      "complaint": "itchy dermatitis",
+      "disease_id": "itchy_dermatitis_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0064",
+      "complaint": "dermatitis",
+      "disease_id": "itchy_dermatitis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0065",
+      "complaint": "insect bite",
+      "disease_id": "insect_bite_reaction_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0066",
+      "complaint": "bug bite",
+      "disease_id": "insect_bite_reaction_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0067",
+      "complaint": "mosquito bite",
+      "disease_id": "insect_bite_reaction_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0068",
+      "complaint": "cold sore",
+      "disease_id": "herpes_labialis_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0069",
+      "complaint": "herpes labialis",
+      "disease_id": "herpes_labialis_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0070",
+      "complaint": "lip blister",
+      "disease_id": "herpes_labialis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0071",
+      "complaint": "shingles",
+      "disease_id": "herpes_zoster_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0072",
+      "complaint": "herpes zoster",
+      "disease_id": "herpes_zoster_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0073",
+      "complaint": "zoster",
+      "disease_id": "herpes_zoster_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0074",
+      "complaint": "fungal rash",
+      "disease_id": "tinea_pruritic_rash_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0075",
+      "complaint": "tinea",
+      "disease_id": "tinea_pruritic_rash_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0076",
+      "complaint": "ringworm",
+      "disease_id": "tinea_pruritic_rash_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0077",
+      "complaint": "oral thrush",
+      "disease_id": "oral_thrush_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0078",
+      "complaint": "thrush mouth",
+      "disease_id": "oral_thrush_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0079",
+      "complaint": "white tongue thrush",
+      "disease_id": "oral_thrush_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0080",
+      "complaint": "minor burn",
+      "disease_id": "minor_burn_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0081",
+      "complaint": "small burn",
+      "disease_id": "minor_burn_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0082",
+      "complaint": "superficial burn",
+      "disease_id": "minor_burn_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0083",
+      "complaint": "minor skin infection",
+      "disease_id": "minor_skin_infection_topical_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0084",
+      "complaint": "small infected wound",
+      "disease_id": "minor_skin_infection_topical_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0085",
+      "complaint": "localized skin infection",
+      "disease_id": "minor_skin_infection_topical_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0086",
+      "complaint": "allergic conjunctivitis",
+      "disease_id": "allergic_conjunctivitis_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0087",
+      "complaint": "itchy red eye allergy",
+      "disease_id": "allergic_conjunctivitis_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0088",
+      "complaint": "itchy watery eyes",
+      "disease_id": "allergic_conjunctivitis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0089",
+      "complaint": "sinusitis",
+      "disease_id": "bacterial_sinusitis_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0090",
+      "complaint": "bacterial sinusitis",
+      "disease_id": "bacterial_sinusitis_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0091",
+      "complaint": "sinus infection",
+      "disease_id": "bacterial_sinusitis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0092",
+      "complaint": "bacterial sore throat",
+      "disease_id": "bacterial_pharyngitis_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0093",
+      "complaint": "tonsillitis",
+      "disease_id": "bacterial_pharyngitis_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0094",
+      "complaint": "bacterial pharyngitis",
+      "disease_id": "bacterial_pharyngitis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0095",
+      "complaint": "saline nasal rinse",
+      "disease_id": "nasal_irrigation_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0096",
+      "complaint": "nasal wash",
+      "disease_id": "nasal_irrigation_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0097",
+      "complaint": "nasal irrigation",
+      "disease_id": "nasal_irrigation_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0098",
+      "complaint": "eye lubrication",
+      "disease_id": "eye_lubrication_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0099",
+      "complaint": "lubricant drops",
+      "disease_id": "eye_lubrication_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0100",
+      "complaint": "artificial tears",
+      "disease_id": "eye_lubrication_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0101",
+      "complaint": "topical joint pain",
+      "disease_id": "joint_pain_topical_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0102",
+      "complaint": "joint pain spray",
+      "disease_id": "joint_pain_topical_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0103",
+      "complaint": "local joint pain",
+      "disease_id": "joint_pain_topical_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0104",
+      "complaint": "belching",
+      "disease_id": "gas_belching_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0105",
+      "complaint": "gas belching",
+      "disease_id": "gas_belching_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0106",
+      "complaint": "dyspeptic gas",
+      "disease_id": "gas_belching_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0107",
+      "complaint": "burn aftercare",
+      "disease_id": "burn_aftercare_minor_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0108",
+      "complaint": "burn follow up",
+      "disease_id": "burn_aftercare_minor_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0109",
+      "complaint": "healing burn",
+      "disease_id": "burn_aftercare_minor_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0110",
+      "complaint": "localized itchy rash",
+      "disease_id": "itchy_localized_rash_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0111",
+      "complaint": "itchy patch",
+      "disease_id": "itchy_localized_rash_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0112",
+      "complaint": "itchy skin patch",
+      "disease_id": "itchy_localized_rash_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0113",
+      "complaint": "allergic rhinitis with congestion",
+      "disease_id": "allergic_rhinitis_congestion_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0114",
+      "complaint": "blocked nose allergy",
+      "disease_id": "allergic_rhinitis_congestion_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0115",
+      "complaint": "allergy nose blocked",
+      "disease_id": "allergic_rhinitis_congestion_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0116",
+      "complaint": "runny nose and sneezing",
+      "disease_id": "uri_sneezing_runny_nose_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0117",
+      "complaint": "uri sneezing runny nose",
+      "disease_id": "uri_sneezing_runny_nose_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0118",
+      "complaint": "common cold runny nose",
+      "disease_id": "uri_sneezing_runny_nose_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0119",
+      "complaint": "viral pharyngitis",
+      "disease_id": "acute_pharyngitis_viral_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0120",
+      "complaint": "viral sore throat",
+      "disease_id": "acute_pharyngitis_viral_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0121",
+      "complaint": "throat irritation",
+      "disease_id": "acute_pharyngitis_viral_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0122",
+      "complaint": "postnasal drip cough",
+      "disease_id": "postnasal_drip_cough_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0123",
+      "complaint": "throat clearing cough",
+      "disease_id": "postnasal_drip_cough_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0124",
+      "complaint": "cough from post nasal drip",
+      "disease_id": "postnasal_drip_cough_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0125",
+      "complaint": "post viral cough",
+      "disease_id": "post_viral_cough_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0126",
+      "complaint": "residual cough after cold",
+      "disease_id": "post_viral_cough_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0127",
+      "complaint": "cough after uri",
+      "disease_id": "post_viral_cough_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0128",
+      "complaint": "laryngitis",
+      "disease_id": "laryngitis_irritation_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0129",
+      "complaint": "hoarse voice",
+      "disease_id": "laryngitis_irritation_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0130",
+      "complaint": "voice irritation",
+      "disease_id": "laryngitis_irritation_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0131",
+      "complaint": "gastroenteritis",
+      "disease_id": "gastroenteritis_mild_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0132",
+      "complaint": "viral gastroenteritis",
+      "disease_id": "gastroenteritis_mild_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0133",
+      "complaint": "mild diarrhea",
+      "disease_id": "gastroenteritis_mild_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0134",
+      "complaint": "traveler diarrhea",
+      "disease_id": "traveler_diarrhea_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0135",
+      "complaint": "travel diarrhea",
+      "disease_id": "traveler_diarrhea_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0136",
+      "complaint": "diarrhea while travelling",
+      "disease_id": "traveler_diarrhea_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0137",
+      "complaint": "functional bloating",
+      "disease_id": "functional_bloating_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0138",
+      "complaint": "flatulence",
+      "disease_id": "functional_bloating_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0139",
+      "complaint": "stomach gas bloating",
+      "disease_id": "functional_bloating_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0140",
+      "complaint": "dyspepsia gas",
+      "disease_id": "dyspepsia_gas_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0141",
+      "complaint": "post meal belching",
+      "disease_id": "dyspepsia_gas_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0142",
+      "complaint": "belching after meals",
+      "disease_id": "dyspepsia_gas_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0143",
+      "complaint": "neck shoulder pain",
+      "disease_id": "neck_shoulder_strain_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0144",
+      "complaint": "shoulder strain",
+      "disease_id": "neck_shoulder_strain_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0145",
+      "complaint": "neck strain",
+      "disease_id": "neck_shoulder_strain_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0146",
+      "complaint": "low back pain",
+      "disease_id": "low_back_pain_simple_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0147",
+      "complaint": "simple back pain",
+      "disease_id": "low_back_pain_simple_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0148",
+      "complaint": "mechanical back pain",
+      "disease_id": "low_back_pain_simple_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0149",
+      "complaint": "sprain",
+      "disease_id": "sprain_strain_mild_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0150",
+      "complaint": "mild strain",
+      "disease_id": "sprain_strain_mild_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0151",
+      "complaint": "ankle sprain mild",
+      "disease_id": "sprain_strain_mild_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0152",
+      "complaint": "knee pain",
+      "disease_id": "knee_joint_pain_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0153",
+      "complaint": "joint pain knee",
+      "disease_id": "knee_joint_pain_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0154",
+      "complaint": "localized joint pain",
+      "disease_id": "knee_joint_pain_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0155",
+      "complaint": "contact dermatitis",
+      "disease_id": "contact_dermatitis_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0156",
+      "complaint": "irritant dermatitis",
+      "disease_id": "contact_dermatitis_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0157",
+      "complaint": "allergic contact rash",
+      "disease_id": "contact_dermatitis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0158",
+      "complaint": "urticaria",
+      "disease_id": "urticaria_mild_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0159",
+      "complaint": "hives",
+      "disease_id": "urticaria_mild_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0160",
+      "complaint": "allergic wheals",
+      "disease_id": "urticaria_mild_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0161",
+      "complaint": "localized pruritus",
+      "disease_id": "pruritus_localized_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0162",
+      "complaint": "local itch",
+      "disease_id": "pruritus_localized_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0163",
+      "complaint": "itch without rash",
+      "disease_id": "pruritus_localized_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0164",
+      "complaint": "tinea corporis",
+      "disease_id": "tinea_corporis_localized_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0165",
+      "complaint": "ringworm",
+      "disease_id": "tinea_corporis_localized_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0166",
+      "complaint": "fungal body rash",
+      "disease_id": "tinea_corporis_localized_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0167",
+      "complaint": "impetigo",
+      "disease_id": "impetigo_localized_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0168",
+      "complaint": "localized skin infection",
+      "disease_id": "impetigo_localized_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0169",
+      "complaint": "small bacterial skin lesion",
+      "disease_id": "impetigo_localized_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0170",
+      "complaint": "minor wound care",
+      "disease_id": "minor_wound_care_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0171",
+      "complaint": "abrasion care",
+      "disease_id": "minor_wound_care_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0172",
+      "complaint": "small wound support",
+      "disease_id": "minor_wound_care_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0173",
+      "complaint": "screen related dry eye",
+      "disease_id": "screen_related_dry_eye_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0174",
+      "complaint": "computer eye dryness",
+      "disease_id": "screen_related_dry_eye_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0175",
+      "complaint": "dry eye from screen",
+      "disease_id": "screen_related_dry_eye_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0176",
+      "complaint": "aphthous ulcer",
+      "disease_id": "aphthous_ulcer_pain_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0177",
+      "complaint": "painful mouth ulcer",
+      "disease_id": "aphthous_ulcer_pain_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0178",
+      "complaint": "canker sore",
+      "disease_id": "aphthous_ulcer_pain_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0179",
+      "complaint": "nasal dryness",
+      "disease_id": "nasal_dryness_irritation_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0180",
+      "complaint": "dry irritated nose",
+      "disease_id": "nasal_dryness_irritation_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0181",
+      "complaint": "nose dryness irritation",
+      "disease_id": "nasal_dryness_irritation_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0182",
+      "complaint": "mild wet cough support",
+      "disease_id": "mild_mucolytic_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0183",
+      "complaint": "mucolytic support",
+      "disease_id": "mild_mucolytic_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0184",
+      "complaint": "phlegm support",
+      "disease_id": "mild_mucolytic_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0185",
+      "complaint": "tonsil irritation",
+      "disease_id": "tonsillar_inflammation_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0186",
+      "complaint": "tonsil pain mild",
+      "disease_id": "tonsillar_inflammation_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0187",
+      "complaint": "tonsillar inflammation",
+      "disease_id": "tonsillar_inflammation_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0188",
+      "complaint": "dry itchy eczema",
+      "disease_id": "eczema_dry_pruritic_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0189",
+      "complaint": "eczema dry itchy",
+      "disease_id": "eczema_dry_pruritic_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0190",
+      "complaint": "xerotic eczema",
+      "disease_id": "eczema_dry_pruritic_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0191",
+      "complaint": "localized muscle ache",
+      "disease_id": "localized_muscle_ache_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0192",
+      "complaint": "muscle ache topical",
+      "disease_id": "localized_muscle_ache_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0193",
+      "complaint": "muscle pain local",
+      "disease_id": "localized_muscle_ache_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0194",
+      "complaint": "watery red eye",
+      "disease_id": "watery_red_eye_nonpurulent_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0195",
+      "complaint": "non purulent red eye",
+      "disease_id": "watery_red_eye_nonpurulent_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0196",
+      "complaint": "red watery eye",
+      "disease_id": "watery_red_eye_nonpurulent_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0197",
+      "complaint": "contact lens dry eye",
+      "disease_id": "contact_lens_dry_eye_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0198",
+      "complaint": "dry eye contact lens",
+      "disease_id": "contact_lens_dry_eye_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0199",
+      "complaint": "lens irritation",
+      "disease_id": "contact_lens_dry_eye_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0200",
+      "complaint": "eye wash",
+      "disease_id": "eye_wash_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0201",
+      "complaint": "wash eye",
+      "disease_id": "eye_wash_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0202",
+      "complaint": "eye rinse",
+      "disease_id": "eye_wash_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0203",
+      "complaint": "foreign body irritation",
+      "disease_id": "foreign_body_irritation_followup_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0204",
+      "complaint": "eye irritation follow up",
+      "disease_id": "foreign_body_irritation_followup_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0205",
+      "complaint": "after dust eye irritation",
+      "disease_id": "foreign_body_irritation_followup_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0206",
+      "complaint": "eye irritation child",
+      "disease_id": "eye_irritation_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0207",
+      "complaint": "eye irritation kid",
+      "disease_id": "eye_irritation_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0208",
+      "complaint": "dust in eye child",
+      "disease_id": "eye_irritation_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0209",
+      "complaint": "dry eye child",
+      "disease_id": "dry_eye_peds_support",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0210",
+      "complaint": "child dry eye",
+      "disease_id": "dry_eye_peds_support",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0211",
+      "complaint": "eye dryness child",
+      "disease_id": "dry_eye_peds_support",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0212",
+      "complaint": "abrasion",
+      "disease_id": "superficial_abrasion_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0213",
+      "complaint": "superficial abrasion",
+      "disease_id": "superficial_abrasion_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0214",
+      "complaint": "scrape wound",
+      "disease_id": "superficial_abrasion_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0215",
+      "complaint": "minor cut care",
+      "disease_id": "minor_cut_wound_care_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0216",
+      "complaint": "small cut support",
+      "disease_id": "minor_cut_wound_care_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0217",
+      "complaint": "small wound care",
+      "disease_id": "minor_cut_wound_care_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0218",
+      "complaint": "insect bite swelling",
+      "disease_id": "insect_bite_swelling_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0219",
+      "complaint": "swollen mosquito bite",
+      "disease_id": "insect_bite_swelling_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0220",
+      "complaint": "bug bite swelling",
+      "disease_id": "insect_bite_swelling_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0221",
+      "complaint": "sensitive area eczema",
+      "disease_id": "localized_eczema_sensitive_area_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0222",
+      "complaint": "mild eczema patch",
+      "disease_id": "localized_eczema_sensitive_area_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0223",
+      "complaint": "small eczema patch",
+      "disease_id": "localized_eczema_sensitive_area_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0224",
+      "complaint": "insect bite child",
+      "disease_id": "insect_bite_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0225",
+      "complaint": "bug bite kid",
+      "disease_id": "insect_bite_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0226",
+      "complaint": "mosquito bite child",
+      "disease_id": "insect_bite_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0227",
+      "complaint": "eczema child",
+      "disease_id": "localized_eczema_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0228",
+      "complaint": "itchy eczema child",
+      "disease_id": "localized_eczema_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0229",
+      "complaint": "localized eczema child",
+      "disease_id": "localized_eczema_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0230",
+      "complaint": "indigestion after meal",
+      "disease_id": "indigestion_postmeal_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0231",
+      "complaint": "post meal indigestion",
+      "disease_id": "indigestion_postmeal_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0232",
+      "complaint": "after meal dyspepsia",
+      "disease_id": "indigestion_postmeal_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0233",
+      "complaint": "digestive aid",
+      "disease_id": "digestive_aid_postmeal_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0234",
+      "complaint": "after meal digestive aid",
+      "disease_id": "digestive_aid_postmeal_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0235",
+      "complaint": "post meal fullness support",
+      "disease_id": "digestive_aid_postmeal_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0236",
+      "complaint": "abdominal gas child",
+      "disease_id": "abdominal_gas_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0237",
+      "complaint": "child bloating gas",
+      "disease_id": "abdominal_gas_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0238",
+      "complaint": "gas child",
+      "disease_id": "abdominal_gas_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0239",
+      "complaint": "abdominal colic child",
+      "disease_id": "abdominal_colic_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0240",
+      "complaint": "stomach cramp child",
+      "disease_id": "abdominal_colic_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0241",
+      "complaint": "colic child",
+      "disease_id": "abdominal_colic_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0242",
+      "complaint": "gastroenteritis child",
+      "disease_id": "acute_gastroenteritis_peds_mild",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0243",
+      "complaint": "child gastroenteritis",
+      "disease_id": "acute_gastroenteritis_peds_mild",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0244",
+      "complaint": "mild diarrhea child",
+      "disease_id": "acute_gastroenteritis_peds_mild",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0245",
+      "complaint": "rehydration diarrhea child",
+      "disease_id": "acute_watery_diarrhea_peds_rehydration",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0246",
+      "complaint": "child ors support",
+      "disease_id": "acute_watery_diarrhea_peds_rehydration",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0247",
+      "complaint": "watery diarrhea child rehydration",
+      "disease_id": "acute_watery_diarrhea_peds_rehydration",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0248",
+      "complaint": "allergic rhinitis child",
+      "disease_id": "allergic_rhinitis_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0249",
+      "complaint": "child allergic rhinitis",
+      "disease_id": "allergic_rhinitis_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0250",
+      "complaint": "runny nose allergy child",
+      "disease_id": "allergic_rhinitis_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0251",
+      "complaint": "wet cough child",
+      "disease_id": "uri_wet_cough_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0252",
+      "complaint": "uri wet cough child",
+      "disease_id": "uri_wet_cough_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0253",
+      "complaint": "productive cough child",
+      "disease_id": "uri_wet_cough_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0254",
+      "complaint": "post uri cough child",
+      "disease_id": "post_uri_cough_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0255",
+      "complaint": "residual cough child",
+      "disease_id": "post_uri_cough_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0256",
+      "complaint": "cough after cold child",
+      "disease_id": "post_uri_cough_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0257",
+      "complaint": "nasal irritation child",
+      "disease_id": "nasal_irritation_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0258",
+      "complaint": "dry nose child",
+      "disease_id": "nasal_irritation_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0259",
+      "complaint": "child nasal dryness",
+      "disease_id": "nasal_irritation_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0260",
+      "complaint": "oral thrush child",
+      "disease_id": "oral_thrush_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0261",
+      "complaint": "thrush child",
+      "disease_id": "oral_thrush_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0262",
+      "complaint": "white tongue thrush child",
+      "disease_id": "oral_thrush_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0263",
+      "complaint": "fever child support",
+      "disease_id": "viral_fever_peds_support",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0264",
+      "complaint": "viral fever child",
+      "disease_id": "viral_fever_peds_support",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0265",
+      "complaint": "child fever support",
+      "disease_id": "viral_fever_peds_support",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0266",
+      "complaint": "bacterial conjunctivitis",
+      "disease_id": "bacterial_conjunctivitis_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0267",
+      "complaint": "sticky eye discharge",
+      "disease_id": "bacterial_conjunctivitis_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0268",
+      "complaint": "purulent red eye",
+      "disease_id": "bacterial_conjunctivitis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0269",
+      "complaint": "bacterial conjunctivitis child",
+      "disease_id": "bacterial_conjunctivitis_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0270",
+      "complaint": "sticky eye child",
+      "disease_id": "bacterial_conjunctivitis_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0271",
+      "complaint": "purulent eye discharge child",
+      "disease_id": "bacterial_conjunctivitis_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0272",
+      "complaint": "stye bacterial",
+      "disease_id": "bacterial_eyelid_infection_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0273",
+      "complaint": "eyelid infection",
+      "disease_id": "bacterial_eyelid_infection_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0274",
+      "complaint": "infected stye",
+      "disease_id": "bacterial_eyelid_infection_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0275",
+      "complaint": "stye child",
+      "disease_id": "bacterial_eyelid_infection_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0276",
+      "complaint": "eyelid infection child",
+      "disease_id": "bacterial_eyelid_infection_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0277",
+      "complaint": "infected stye child",
+      "disease_id": "bacterial_eyelid_infection_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0278",
+      "complaint": "bacterial sinusitis child",
+      "disease_id": "bacterial_sinusitis_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0279",
+      "complaint": "sinus infection child",
+      "disease_id": "bacterial_sinusitis_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0280",
+      "complaint": "purulent sinus child",
+      "disease_id": "bacterial_sinusitis_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0281",
+      "complaint": "bacterial sore throat child",
+      "disease_id": "bacterial_pharyngitis_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0282",
+      "complaint": "tonsillitis child bacterial",
+      "disease_id": "bacterial_pharyngitis_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0283",
+      "complaint": "exudative throat child",
+      "disease_id": "bacterial_pharyngitis_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0284",
+      "complaint": "roxithromycin option",
+      "disease_id": "macrolide_respiratory_bacterial_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0285",
+      "complaint": "b roxi support",
+      "disease_id": "macrolide_respiratory_bacterial_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0286",
+      "complaint": "macrolide respiratory bacterial",
+      "disease_id": "macrolide_respiratory_bacterial_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0287",
+      "complaint": "dental infection",
+      "disease_id": "dental_infection_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0288",
+      "complaint": "gum infection",
+      "disease_id": "dental_infection_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0289",
+      "complaint": "tooth infection",
+      "disease_id": "dental_infection_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0290",
+      "complaint": "infected insect bite",
+      "disease_id": "infected_insect_bite_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0291",
+      "complaint": "infected mosquito bite",
+      "disease_id": "infected_insect_bite_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0292",
+      "complaint": "bite cellulitis small",
+      "disease_id": "infected_insect_bite_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0293",
+      "complaint": "infected insect bite child",
+      "disease_id": "infected_insect_bite_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0294",
+      "complaint": "infected bite child",
+      "disease_id": "infected_insect_bite_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0295",
+      "complaint": "red infected bug bite child",
+      "disease_id": "infected_insect_bite_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0296",
+      "complaint": "mild cellulitis",
+      "disease_id": "cellulitis_mild_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0297",
+      "complaint": "localized cellulitis",
+      "disease_id": "cellulitis_mild_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0298",
+      "complaint": "skin infection cellulitis",
+      "disease_id": "cellulitis_mild_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0299",
+      "complaint": "impetigo oral antibiotic",
+      "disease_id": "impetigo_oral_antibiotic_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0300",
+      "complaint": "extensive impetigo",
+      "disease_id": "impetigo_oral_antibiotic_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0301",
+      "complaint": "impetigo widespread",
+      "disease_id": "impetigo_oral_antibiotic_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0302",
+      "complaint": "folliculitis",
+      "disease_id": "localized_folliculitis_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0303",
+      "complaint": "infected hair follicle",
+      "disease_id": "localized_folliculitis_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0304",
+      "complaint": "small pustule folliculitis",
+      "disease_id": "localized_folliculitis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0305",
+      "complaint": "infected abrasion",
+      "disease_id": "infected_abrasion_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0306",
+      "complaint": "abrasion infected",
+      "disease_id": "infected_abrasion_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0307",
+      "complaint": "infected scrape",
+      "disease_id": "infected_abrasion_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0308",
+      "complaint": "infected eczema",
+      "disease_id": "infected_eczema_localized_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0309",
+      "complaint": "infected dermatitis",
+      "disease_id": "infected_eczema_localized_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0310",
+      "complaint": "eczema with infection",
+      "disease_id": "infected_eczema_localized_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0311",
+      "complaint": "uncomplicated uti",
+      "disease_id": "uncomplicated_uti_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0312",
+      "complaint": "cystitis",
+      "disease_id": "uncomplicated_uti_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0313",
+      "complaint": "urine infection lower",
+      "disease_id": "uncomplicated_uti_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0314",
+      "complaint": "topical eye antibiotic",
+      "disease_id": "topical_eye_antibiotic_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0315",
+      "complaint": "eye antibiotic support",
+      "disease_id": "topical_eye_antibiotic_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0316",
+      "complaint": "bacterial eye drop option",
+      "disease_id": "topical_eye_antibiotic_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0317",
+      "complaint": "skin infection child topical",
+      "disease_id": "bacterial_skin_infection_topical_peds",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0318",
+      "complaint": "topical skin antibiotic child",
+      "disease_id": "bacterial_skin_infection_topical_peds",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0319",
+      "complaint": "localized skin infection child",
+      "disease_id": "bacterial_skin_infection_topical_peds",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0320",
+      "complaint": "topical skin antibiotic",
+      "disease_id": "bacterial_skin_infection_topical_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0321",
+      "complaint": "topical bacterial skin support",
+      "disease_id": "bacterial_skin_infection_topical_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0322",
+      "complaint": "localized bacterial skin lesion",
+      "disease_id": "bacterial_skin_infection_topical_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0323",
+      "complaint": "infected wound oral antibiotic",
+      "disease_id": "infected_wound_oral_antibiotic_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0324",
+      "complaint": "wound infection antibiotic",
+      "disease_id": "infected_wound_oral_antibiotic_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0325",
+      "complaint": "oral antibiotic wound infection",
+      "disease_id": "infected_wound_oral_antibiotic_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0326",
+      "complaint": "penicillin allergy respiratory antibiotic",
+      "disease_id": "penicillin_allergy_resp_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0327",
+      "complaint": "roxi respiratory support",
+      "disease_id": "penicillin_allergy_resp_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0328",
+      "complaint": "penicillin allergy sore throat antibiotic",
+      "disease_id": "penicillin_allergy_resp_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0329",
+      "complaint": "sinusitis alternative antibiotic",
+      "disease_id": "bacterial_sinusitis_alt_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0330",
+      "complaint": "roxi sinusitis",
+      "disease_id": "bacterial_sinusitis_alt_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0331",
+      "complaint": "sinus infection alternative antibiotic",
+      "disease_id": "bacterial_sinusitis_alt_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0332",
+      "complaint": "pharyngitis alternative antibiotic",
+      "disease_id": "bacterial_pharyngitis_alt_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0333",
+      "complaint": "roxi sore throat antibiotic",
+      "disease_id": "bacterial_pharyngitis_alt_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0334",
+      "complaint": "bacterial throat alternative antibiotic",
+      "disease_id": "bacterial_pharyngitis_alt_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0335",
+      "complaint": "fusidic acid support",
+      "disease_id": "topical_fusidic_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0336",
+      "complaint": "fucidin support",
+      "disease_id": "topical_fusidic_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0337",
+      "complaint": "topical fusidic",
+      "disease_id": "topical_fusidic_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0338",
+      "complaint": "vaginal candidiasis",
+      "disease_id": "vulvovaginal_candidiasis_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0339",
+      "complaint": "yeast infection",
+      "disease_id": "vulvovaginal_candidiasis_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0340",
+      "complaint": "itchy fungal vaginal discharge",
+      "disease_id": "vulvovaginal_candidiasis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0341",
+      "complaint": "vaginal mixed infection",
+      "disease_id": "vaginal_mixed_infection_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0342",
+      "complaint": "vaginal discharge infection",
+      "disease_id": "vaginal_mixed_infection_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0343",
+      "complaint": "mixed vaginal discharge",
+      "disease_id": "vaginal_mixed_infection_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0344",
+      "complaint": "vaginal discharge support",
+      "disease_id": "vaginal_discharge_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0345",
+      "complaint": "local vaginal treatment support",
+      "disease_id": "vaginal_discharge_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0346",
+      "complaint": "vaginal tab support",
+      "disease_id": "vaginal_discharge_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0347",
+      "complaint": "uti alternative cipro",
+      "disease_id": "uncomplicated_uti_alt_cipro_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0348",
+      "complaint": "cipro uti option",
+      "disease_id": "uncomplicated_uti_alt_cipro_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0349",
+      "complaint": "cifloxin uti",
+      "disease_id": "uncomplicated_uti_alt_cipro_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0350",
+      "complaint": "dysuria lower uti",
+      "disease_id": "dysuria_lower_uti_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0351",
+      "complaint": "burning urination",
+      "disease_id": "dysuria_lower_uti_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0352",
+      "complaint": "lower uti burning",
+      "disease_id": "dysuria_lower_uti_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0353",
+      "complaint": "urine frequency urgency",
+      "disease_id": "frequency_urgency_uti_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0354",
+      "complaint": "uti frequency urgency",
+      "disease_id": "frequency_urgency_uti_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0355",
+      "complaint": "frequent urination infection",
+      "disease_id": "frequency_urgency_uti_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0356",
+      "complaint": "tinea cruris",
+      "disease_id": "tinea_cruris_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0357",
+      "complaint": "groin fungal rash",
+      "disease_id": "tinea_cruris_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0358",
+      "complaint": "jock itch",
+      "disease_id": "tinea_cruris_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0359",
+      "complaint": "tinea pedis",
+      "disease_id": "tinea_pedis_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0360",
+      "complaint": "fungal foot rash",
+      "disease_id": "tinea_pedis_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0361",
+      "complaint": "athletes foot",
+      "disease_id": "tinea_pedis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0362",
+      "complaint": "tinea corporis clotrimazole",
+      "disease_id": "tinea_corporis_clotrimazole_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0363",
+      "complaint": "body fungal rash clotrimazole",
+      "disease_id": "tinea_corporis_clotrimazole_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0364",
+      "complaint": "ringworm clotrimazole",
+      "disease_id": "tinea_corporis_clotrimazole_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0365",
+      "complaint": "fungal intertrigo",
+      "disease_id": "fungal_intertrigo_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0366",
+      "complaint": "skin fold fungal rash",
+      "disease_id": "fungal_intertrigo_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0367",
+      "complaint": "candida intertrigo",
+      "disease_id": "fungal_intertrigo_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0368",
+      "complaint": "pityriasis versicolor",
+      "disease_id": "pityriasis_versicolor_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0369",
+      "complaint": "versicolor",
+      "disease_id": "pityriasis_versicolor_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0370",
+      "complaint": "superficial fungal patch",
+      "disease_id": "pityriasis_versicolor_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0371",
+      "complaint": "cutaneous candidiasis",
+      "disease_id": "cutaneous_candidiasis_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0372",
+      "complaint": "candida skin rash",
+      "disease_id": "cutaneous_candidiasis_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0373",
+      "complaint": "yeast skin rash",
+      "disease_id": "cutaneous_candidiasis_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0374",
+      "complaint": "wart",
+      "disease_id": "wart_localized_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0375",
+      "complaint": "localized wart",
+      "disease_id": "wart_localized_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0376",
+      "complaint": "corn topical wart",
+      "disease_id": "wart_localized_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0377",
+      "complaint": "corn treatment",
+      "disease_id": "corn_callus_topical_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0378",
+      "complaint": "callus treatment",
+      "disease_id": "corn_callus_topical_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0379",
+      "complaint": "corn callus topical",
+      "disease_id": "corn_callus_topical_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0380",
+      "complaint": "dental pain",
+      "disease_id": "dental_pain_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0381",
+      "complaint": "tooth pain",
+      "disease_id": "dental_pain_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0382",
+      "complaint": "toothache",
+      "disease_id": "dental_pain_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0383",
+      "complaint": "gingivitis",
+      "disease_id": "gingivitis_localized_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0384",
+      "complaint": "gum inflammation",
+      "disease_id": "gingivitis_localized_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0385",
+      "complaint": "swollen gums",
+      "disease_id": "gingivitis_localized_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0386",
+      "complaint": "gum inflammation support",
+      "disease_id": "gum_inflammation_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0387",
+      "complaint": "gum gargle support",
+      "disease_id": "gum_inflammation_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0388",
+      "complaint": "oral antiseptic gum support",
+      "disease_id": "gum_inflammation_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0389",
+      "complaint": "dental abscess",
+      "disease_id": "dental_abscess_support_adult",
+      "match_type": "exact",
+      "priority": 1,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0390",
+      "complaint": "gum abscess",
+      "disease_id": "dental_abscess_support_adult",
+      "match_type": "alias",
+      "priority": 2,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    },
+    {
+      "complaint_id": "CI0391",
+      "complaint": "tooth abscess",
+      "disease_id": "dental_abscess_support_adult",
+      "match_type": "alias",
+      "priority": 3,
+      "source_status": "legacy_unverified",
+      "manual_review": true
+    }
+  ]
+}
