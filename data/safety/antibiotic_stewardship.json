@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:45:17Z",
+    "manual_review": true
+  },
+  "rules": [
+    {
+      "rule_id": "NO_ROUTINE_ABX_FRAMEWORK",
+      "title": "No routine antibiotics framework",
+      "category": "antibiotic_stewardship",
+      "triggers": [
+        "viral_uri",
+        "simple_diarrhea",
+        "allergic_rhinitis",
+        "dry_eye",
+        "likely_viral_conjunctivitis"
+      ],
+      "message": "No routine antibiotics for viral URI, simple diarrhea, allergic rhinitis, dry eye, or likely viral conjunctivitis unless a verified indication is documented.",
+      "severity": "review",
+      "active": false,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "ABX_INDICATION_DURATION_SOURCE_REQUIRED",
+      "title": "Antibiotic indication/duration/source required",
+      "category": "antibiotic_stewardship",
+      "triggers": [
+        "antibiotic"
+      ],
+      "message": "Antibiotic selection requires disease-specific indication, dose, duration, and source.",
+      "severity": "review",
+      "active": true,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    }
+  ]
+}
