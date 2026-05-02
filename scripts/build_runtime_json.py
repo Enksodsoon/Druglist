@@ -7,6 +7,7 @@ from collections import defaultdict
 from typing import Any
 
 from engine_common import clean, display_name, ensure_dirs, load_embedded_seed, norm_key, now_iso, read_json, stable_id, write_json, write_report
+from runtime_readiness import readiness_for_med
 
 COMMON_OPD_PATTERNS = [
     "allergic rhinitis",
@@ -69,10 +70,10 @@ def source_status_for(disease_id: str, disease_sources: dict[str, Any]) -> dict[
     }
 
 
-def normalize_legacy_med(med: dict[str, Any], short_lookup: dict[str, Any]) -> dict[str, object]:
+def normalize_legacy_med(med: dict[str, Any], short_lookup: dict[str, Any], disease_id: str = "") -> dict[str, object]:
     product_id = clean(med.get("i"))
     product = short_lookup.get(product_id) or {}
-    return {
+    row = {
         "line_id": clean(med.get("s")) or stable_id("LINE", f"{product_id}_{med.get('n')}"),
         "line_type": clean(med.get("t")),
         "product_id": product_id,
@@ -83,6 +84,9 @@ def normalize_legacy_med(med: dict[str, Any], short_lookup: dict[str, Any]) -> d
         "source_status": "legacy_unverified",
         "manual_review": True,
     }
+    row.update(readiness_for_med(row, product, disease_id))
+    row["manual_review"] = row["clinical_readiness"] in {"manual_review_required", "blocked"}
+    return row
 
 
 def build() -> dict[str, int]:
@@ -160,7 +164,7 @@ def build() -> dict[str, int]:
                 "display_name": clean(regimen.get("d")),
                 "workflow_label": clean(regimen.get("w")),
                 "is_default": bool(regimen.get("y")),
-                "lines": [normalize_legacy_med(med, short_lookup) for med in regimen.get("m") or []],
+                "lines": [normalize_legacy_med(med, short_lookup, disease_id) for med in regimen.get("m") or []],
                 "source_status": "legacy_unverified",
                 "source_ids": [],
                 "manual_review": True,

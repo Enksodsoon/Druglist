@@ -28,3 +28,15 @@ def test_source_registry_is_pending_not_fabricated():
     assert sources
     assert all(source["access_status"] == "pending_access" for source in sources)
     assert all(source["manual_review"] for source in sources)
+
+
+def test_frontend_seed_exposes_review_workflow_counts():
+    seed_meta = load("data/core/app_seed_runtime.json")["m"]
+    queue = load("data/meta/manual_review_queue.json")["items"]
+    gaps = load("data/guidelines/source_gap_list.json")["items"]
+    peds = load("data/pediatric/peds_product_dose_output.json")["items"]
+    assert seed_meta["manual_review_product_count"] == len(queue)
+    assert seed_meta["source_gap_count"] == len(gaps)
+    assert seed_meta["pediatric_review_count"] == len(peds)
+    assert seed_meta["manual_review_count"] == len(queue) + len(gaps) + len(peds)
+    assert seed_meta["manual_review_reason_counts"]

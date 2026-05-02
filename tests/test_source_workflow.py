@@ -60,8 +60,15 @@ def test_apply_links_preserves_unresolved_gap_status():
 
 
 def test_summary_report_is_generated():
-    result = run_source_workflow("summary")
-    assert result.returncode == 0, result.stderr
     path = ROOT / "reports/source_workflow_summary.md"
-    assert path.exists()
-    assert "Source Workflow Summary" in path.read_text(encoding="utf-8")
+    previous = path.read_text(encoding="utf-8") if path.exists() else None
+    result = run_source_workflow("summary")
+    try:
+        assert result.returncode == 0, result.stderr
+        assert path.exists()
+        assert "Source Workflow Summary" in path.read_text(encoding="utf-8")
+    finally:
+        if previous is None:
+            path.unlink(missing_ok=True)
+        else:
+            path.write_text(previous, encoding="utf-8")

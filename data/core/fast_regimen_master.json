@@ -25,8 +25,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -36,8 +41,14 @@
           "order_text": "2 sprays/nostril OD",
           "duration_label": "7–14 days",
           "pack_label": "1 bottle (60 doses)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -47,8 +58,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -58,8 +74,13 @@
           "order_text": "1 tab PO q4–6h",
           "duration_label": "3–5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -81,8 +102,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN fever/pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -92,8 +118,13 @@
           "order_text": "1 tab PO q4–6h",
           "duration_label": "3–5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX3",
@@ -103,8 +134,13 @@
           "order_text": "1 tab PO TID–QID",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -114,8 +150,13 @@
           "order_text": "1 eff tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 tube (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -137,8 +178,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN fever/pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -148,8 +194,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX3",
@@ -159,8 +210,14 @@
           "order_text": "1 sachet in 150 mL water; sip frequently / after each loose stool",
           "duration_label": "1–2 days",
           "pack_label": "1 box (5 sachets)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX4",
@@ -170,8 +227,14 @@
           "order_text": "1 sachet PO BID",
           "duration_label": "3 days",
           "pack_label": "6 sachets",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -181,8 +244,14 @@
           "order_text": "1 sachet PO TID–QID",
           "duration_label": "2 days",
           "pack_label": "6 sachets",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP2",
@@ -192,8 +261,13 @@
           "order_text": "1 cap PO q8h",
           "duration_label": "2–3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP3",
@@ -203,8 +277,13 @@
           "order_text": "1 tab PO q4–6h",
           "duration_label": "3–5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -226,8 +305,14 @@
           "order_text": "1 sachet in 150 mL water; sip frequently / after each loose stool",
           "duration_label": "1–2 days",
           "pack_label": "1 box (5 sachets)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -237,8 +322,14 @@
           "order_text": "1 sachet PO BID",
           "duration_label": "3 days",
           "pack_label": "6 sachets",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -248,8 +339,14 @@
           "order_text": "1 sachet PO TID–QID",
           "duration_label": "2 days",
           "pack_label": "6 sachets",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP2",
@@ -259,8 +356,13 @@
           "order_text": "1 cap PO q8h",
           "duration_label": "2–3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -282,8 +384,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN fever/pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -293,8 +400,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX3",
@@ -304,8 +416,13 @@
           "order_text": "apply thinly BID–TID to itchy rash",
           "duration_label": "5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -315,8 +432,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -326,8 +448,13 @@
           "order_text": "1 tab PO q4–6h",
           "duration_label": "3–5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -349,8 +476,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN fever/pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -360,8 +492,14 @@
           "order_text": "2 sprays to mouth/throat TID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -371,8 +509,14 @@
           "order_text": "2–4 sprays to throat PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -394,8 +538,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "7 days",
           "pack_label": "1 box (20 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -405,8 +555,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "7 days",
           "pack_label": "1 box (30 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -428,8 +584,14 @@
           "order_text": "1 sachet in 150 mL water; small frequent sips",
           "duration_label": "1–2 days",
           "pack_label": "1 box (5 sachets)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -451,8 +613,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN fever/pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -462,8 +629,13 @@
           "order_text": "1 tab PO q4–6h",
           "duration_label": "3–5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX3",
@@ -473,8 +645,13 @@
           "order_text": "1–2 tabs PO TID",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -484,8 +661,13 @@
           "order_text": "1–2 tabs PO TID–QID",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -495,8 +677,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -518,8 +705,14 @@
           "order_text": "use as eye wash BID–TID PRN",
           "duration_label": "3–5 days",
           "pack_label": "1 bottle (110 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -529,8 +722,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 box (20 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -540,8 +739,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 box (30 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP2",
@@ -551,8 +756,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 bottle (10 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -574,8 +785,13 @@
           "order_text": "1 cap PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -585,8 +801,14 @@
           "order_text": "spray to affected area TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -596,8 +818,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -619,8 +846,13 @@
           "order_text": "1 tab at migraine onset; may repeat once after 2 h",
           "duration_label": "PRN",
           "pack_label": "1 box (2 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -630,8 +862,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -653,8 +890,13 @@
           "order_text": "1 tab PO BID",
           "duration_label": "5 days",
           "pack_label": "1 box (20 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -676,8 +918,13 @@
           "order_text": "apply to oral ulcer after meals and before bed",
           "duration_label": "5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -699,8 +946,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN fever/pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -710,8 +962,13 @@
           "order_text": "1 tab PO q4–6h",
           "duration_label": "3–5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX3",
@@ -721,8 +978,14 @@
           "order_text": "irrigate / rinse nasal cavity PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (100 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -732,8 +995,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -743,8 +1011,14 @@
           "order_text": "1–2 sprays/nostril BID–TID (max 3 days)",
           "duration_label": "3 days",
           "pack_label": "1 bottle (10 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -766,8 +1040,13 @@
           "order_text": "1 tab PO q4–6h",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -777,8 +1056,14 @@
           "order_text": "1–2 sprays/nostril BID–TID (max 3 days)",
           "duration_label": "3 days",
           "pack_label": "1 bottle (10 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX3",
@@ -788,8 +1073,14 @@
           "order_text": "irrigate / rinse nasal cavity PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (100 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -799,8 +1090,14 @@
           "order_text": "2 sprays/nostril OD",
           "duration_label": "7–14 days",
           "pack_label": "1 bottle (60 doses)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -822,8 +1119,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN fever/pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -833,8 +1135,13 @@
           "order_text": "1 cap PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -856,8 +1163,13 @@
           "order_text": "1 chewable tab PO TID–QID",
           "duration_label": "3 days",
           "pack_label": "2 strips (20 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -867,8 +1179,13 @@
           "order_text": "1 cap PO OD–BID after meals",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -890,8 +1207,13 @@
           "order_text": "1–2 tabs PO TID–QID PRN cramp",
           "duration_label": "3 days",
           "pack_label": "2 strips (20 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -901,8 +1223,13 @@
           "order_text": "1 chewable tab PO TID–QID",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -924,8 +1251,13 @@
           "order_text": "1 tab PO TID",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -935,8 +1267,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX3",
@@ -946,8 +1283,14 @@
           "order_text": "spray to affected area TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -969,8 +1312,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN headache",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -980,8 +1328,13 @@
           "order_text": "1 cap PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -1003,8 +1356,13 @@
           "order_text": "1 cap PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -1014,8 +1372,14 @@
           "order_text": "spray to affected area TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -1025,8 +1389,13 @@
           "order_text": "1 tab PO OD after food",
           "duration_label": "3 days",
           "pack_label": "1 strip (5 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -1048,8 +1417,13 @@
           "order_text": "apply to dry skin BID–TID",
           "duration_label": "7 days",
           "pack_label": "1 tube (35 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -1059,8 +1433,13 @@
           "order_text": "apply to thicker dry skin BID",
           "duration_label": "7 days",
           "pack_label": "1 tube (35 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -1082,8 +1461,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -1093,8 +1477,14 @@
           "order_text": "apply thinly BID–TID",
           "duration_label": "5 days",
           "pack_label": "1 tube (15 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -1104,8 +1494,13 @@
           "order_text": "apply thinly BID–TID to itchy areas",
           "duration_label": "5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -1127,8 +1522,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "3–5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -1138,8 +1538,13 @@
           "order_text": "apply thinly BID–TID to bite area",
           "duration_label": "3–5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -1161,8 +1566,13 @@
           "order_text": "1 tab PO q6h",
           "duration_label": "5 days",
           "pack_label": "3 strips (15 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -1184,8 +1594,13 @@
           "order_text": "1 tab PO 5x/day",
           "duration_label": "5 days",
           "pack_label": "5 strips (25 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -1195,8 +1610,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "5 days",
           "pack_label": "2 strips (20 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -1218,8 +1638,15 @@
           "order_text": "apply thinly BID",
           "duration_label": "7 days",
           "pack_label": "1 tube (15 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -1241,8 +1668,14 @@
           "order_text": "1 dropper PO QID after meals and HS",
           "duration_label": "5–7 days",
           "pack_label": "1 bottle (12 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -1264,8 +1697,13 @@
           "order_text": "apply to affected area BID–TID",
           "duration_label": "5 days",
           "pack_label": "1 tube (30 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -1275,8 +1713,14 @@
           "order_text": "apply to affected area BID–TID",
           "duration_label": "5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -1298,8 +1742,15 @@
           "order_text": "apply thinly TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -1321,8 +1772,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -1332,8 +1788,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 box (20 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -1343,8 +1805,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 box (30 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -1366,8 +1834,15 @@
           "order_text": "1 tab PO BID",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -1377,8 +1852,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX3",
@@ -1388,8 +1868,14 @@
           "order_text": "irrigate / rinse nasal cavity PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (100 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -1399,8 +1885,14 @@
           "order_text": "1–2 sprays/nostril BID–TID (max 3 days)",
           "duration_label": "3 days",
           "pack_label": "1 bottle (10 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -1422,8 +1914,15 @@
           "order_text": "1 cap PO TID",
           "duration_label": "5 days",
           "pack_label": "2 strips (20 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -1433,8 +1932,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX3",
@@ -1444,8 +1948,14 @@
           "order_text": "2 sprays to mouth/throat TID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -1455,8 +1965,14 @@
           "order_text": "2–4 sprays to throat PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -1478,8 +1994,14 @@
           "order_text": "irrigate / rinse nasal cavity PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (100 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -1489,8 +2011,14 @@
           "order_text": "1–2 sprays/nostril BID–TID (max 3 days)",
           "duration_label": "3 days",
           "pack_label": "1 bottle (10 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP2",
@@ -1500,8 +2028,14 @@
           "order_text": "2 sprays/nostril OD",
           "duration_label": "7–14 days",
           "pack_label": "1 bottle (60 doses)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -1523,8 +2057,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 box (20 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -1534,8 +2074,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 box (30 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -1545,8 +2091,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 bottle (10 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -1568,8 +2120,14 @@
           "order_text": "spray to affected area TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -1579,8 +2137,13 @@
           "order_text": "1 cap PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -1602,8 +2165,13 @@
           "order_text": "1 cap PO OD–BID after meals",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -1613,8 +2181,13 @@
           "order_text": "1 chewable tab PO TID–QID",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -1636,8 +2209,14 @@
           "order_text": "apply to affected area BID–TID",
           "duration_label": "5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -1647,8 +2226,13 @@
           "order_text": "apply to affected area BID–TID",
           "duration_label": "5 days",
           "pack_label": "1 tube (30 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -1670,8 +2254,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -1681,8 +2270,13 @@
           "order_text": "apply thinly BID–TID to itchy areas",
           "duration_label": "5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -1692,8 +2286,14 @@
           "order_text": "apply thinly BID–TID",
           "duration_label": "5 days",
           "pack_label": "1 tube (15 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -1715,8 +2315,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -1726,8 +2331,14 @@
           "order_text": "2 sprays/nostril OD",
           "duration_label": "7–14 days",
           "pack_label": "1 bottle (60 doses)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX3",
@@ -1737,8 +2348,14 @@
           "order_text": "1–2 sprays/nostril BID–TID (max 3 days)",
           "duration_label": "3 days",
           "pack_label": "1 bottle (10 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -1748,8 +2365,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -1759,8 +2381,13 @@
           "order_text": "1 tab PO q4–6h",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -1782,8 +2409,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN fever/pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -1793,8 +2425,13 @@
           "order_text": "1 tab PO q4–6h",
           "duration_label": "3–5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -1804,8 +2441,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -1815,8 +2457,14 @@
           "order_text": "1–2 sprays/nostril BID–TID (max 3 days)",
           "duration_label": "3 days",
           "pack_label": "1 bottle (10 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -1838,8 +2486,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain/fever",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -1849,8 +2502,14 @@
           "order_text": "2 sprays to mouth/throat TID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX3",
@@ -1860,8 +2519,13 @@
           "order_text": "1 lozenge dissolve slowly q2–3h PRN",
           "duration_label": "3–5 days",
           "pack_label": "1 sachet (6 lozenges)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -1871,8 +2535,14 @@
           "order_text": "2–4 sprays to throat PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -1894,8 +2564,13 @@
           "order_text": "1 tab PO q4–6h",
           "duration_label": "3–5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -1905,8 +2580,14 @@
           "order_text": "2 sprays/nostril OD",
           "duration_label": "7–14 days",
           "pack_label": "1 bottle (60 doses)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -1916,8 +2597,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -1927,8 +2613,14 @@
           "order_text": "irrigate / rinse nasal cavity PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (100 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -1950,8 +2642,13 @@
           "order_text": "1 tab PO TID–QID PRN cough",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -1961,8 +2658,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -1972,8 +2674,13 @@
           "order_text": "1 tab PO TID–QID PRN cough",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -1983,8 +2690,13 @@
           "order_text": "1 eff tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 tube (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2006,8 +2718,14 @@
           "order_text": "2 sprays to mouth/throat TID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -2017,8 +2735,13 @@
           "order_text": "1 lozenge dissolve slowly q2–3h PRN",
           "duration_label": "3–5 days",
           "pack_label": "1 sachet (6 lozenges)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -2028,8 +2751,14 @@
           "order_text": "2–4 sprays to throat PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP2",
@@ -2039,8 +2768,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2062,8 +2796,14 @@
           "order_text": "1 sachet in 150 mL water; sip frequently / after each loose stool",
           "duration_label": "1–2 days",
           "pack_label": "1 box (5 sachets)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -2073,8 +2813,14 @@
           "order_text": "1 sachet PO BID",
           "duration_label": "3 days",
           "pack_label": "6 sachets",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -2084,8 +2830,14 @@
           "order_text": "1 sachet PO TID–QID",
           "duration_label": "2 days",
           "pack_label": "6 sachets",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP2",
@@ -2095,8 +2847,13 @@
           "order_text": "1 cap PO q8h",
           "duration_label": "2–3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2118,8 +2875,14 @@
           "order_text": "1 sachet in 150 mL water; sip frequently / after each loose stool",
           "duration_label": "1–2 days",
           "pack_label": "1 box (5 sachets)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -2129,8 +2892,14 @@
           "order_text": "1 sachet PO BID",
           "duration_label": "3 days",
           "pack_label": "6 sachets",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX3",
@@ -2140,8 +2909,13 @@
           "order_text": "1 cap PO q8h",
           "duration_label": "2–3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -2151,8 +2925,14 @@
           "order_text": "1 sachet PO TID–QID",
           "duration_label": "2 days",
           "pack_label": "6 sachets",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -2174,8 +2954,13 @@
           "order_text": "1 chewable tab PO TID–QID",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -2185,8 +2970,13 @@
           "order_text": "1 cap PO OD–BID after meals",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -2196,8 +2986,13 @@
           "order_text": "1 tab PO TID PRN cramp",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2219,8 +3014,13 @@
           "order_text": "1 cap PO OD–BID after meals",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -2230,8 +3030,13 @@
           "order_text": "1 chewable tab PO TID–QID",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -2241,8 +3046,13 @@
           "order_text": "1 tab PO TID PRN cramp",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2264,8 +3074,13 @@
           "order_text": "1 cap PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -2275,8 +3090,13 @@
           "order_text": "1 tab PO TID",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX3",
@@ -2286,8 +3106,14 @@
           "order_text": "spray to affected area TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -2297,8 +3123,13 @@
           "order_text": "apply to affected area TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 tube (100 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -2308,8 +3139,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2331,8 +3167,13 @@
           "order_text": "1 cap PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -2342,8 +3183,13 @@
           "order_text": "1 tab PO TID",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX3",
@@ -2353,8 +3199,14 @@
           "order_text": "spray to affected area TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -2364,8 +3216,13 @@
           "order_text": "1 tab PO BID after food",
           "duration_label": "3 days",
           "pack_label": "1 strip (6 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -2375,8 +3232,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2398,8 +3260,13 @@
           "order_text": "1 cap PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -2409,8 +3276,14 @@
           "order_text": "spray to affected area TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -2420,8 +3293,13 @@
           "order_text": "1 tab PO OD after food",
           "duration_label": "3 days",
           "pack_label": "1 strip (5 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -2431,8 +3309,13 @@
           "order_text": "apply to affected area TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 tube (100 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2454,8 +3337,13 @@
           "order_text": "1 tab PO OD after food",
           "duration_label": "3 days",
           "pack_label": "1 strip (5 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -2465,8 +3353,14 @@
           "order_text": "spray to affected area TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -2476,8 +3370,13 @@
           "order_text": "1 cap PO BID after food",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -2487,8 +3386,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2510,8 +3414,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -2521,8 +3430,14 @@
           "order_text": "apply thinly BID–TID",
           "duration_label": "5 days",
           "pack_label": "1 tube (15 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX3",
@@ -2532,8 +3447,13 @@
           "order_text": "apply to dry/irritated skin BID–TID",
           "duration_label": "7 days",
           "pack_label": "1 tube (35 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -2543,8 +3463,13 @@
           "order_text": "apply thinly BID–TID to itchy areas",
           "duration_label": "5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -2554,8 +3479,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2577,8 +3507,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -2588,8 +3523,13 @@
           "order_text": "apply thinly BID–TID to itchy areas",
           "duration_label": "3–5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -2599,8 +3539,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP2",
@@ -2610,8 +3555,14 @@
           "order_text": "apply thinly BID–TID",
           "duration_label": "3–5 days",
           "pack_label": "1 tube (15 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -2633,8 +3584,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -2644,8 +3600,13 @@
           "order_text": "apply thinly BID–TID to itchy areas",
           "duration_label": "5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -2655,8 +3616,14 @@
           "order_text": "apply thinly BID–TID",
           "duration_label": "5 days",
           "pack_label": "1 tube (15 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -2678,8 +3645,15 @@
           "order_text": "apply thinly BID",
           "duration_label": "7–14 days",
           "pack_label": "1 tube (15 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -2689,8 +3663,13 @@
           "order_text": "1 tab PO OD if itchy",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2712,8 +3691,15 @@
           "order_text": "apply thinly TID–QID to lesion",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -2723,8 +3709,14 @@
           "order_text": "clean around lesion TOP BID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -2734,8 +3726,15 @@
           "order_text": "1 cap PO TID",
           "duration_label": "5 days",
           "pack_label": "1 strip (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -2757,8 +3756,14 @@
           "order_text": "clean around wound TOP BID",
           "duration_label": "3–5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -2768,8 +3773,15 @@
           "order_text": "apply thinly to small superficial wound if infected-looking",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -2791,8 +3803,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 box (20 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -2802,8 +3820,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 box (30 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -2813,8 +3837,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 bottle (10 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -2836,8 +3866,13 @@
           "order_text": "apply to ulcer BID–TID after meals / HS",
           "duration_label": "5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -2847,8 +3882,14 @@
           "order_text": "apply thin film to ulcer BID–TID after meals",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -2858,8 +3899,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2881,8 +3927,14 @@
           "order_text": "irrigate / rinse nasal cavity PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (100 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -2892,8 +3944,14 @@
           "order_text": "2 sprays/nostril OD",
           "duration_label": "7 days",
           "pack_label": "1 bottle (60 doses)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -2903,8 +3961,13 @@
           "order_text": "1 tab PO OD if allergy prominent",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2926,8 +3989,13 @@
           "order_text": "1 tab PO TID",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -2937,8 +4005,13 @@
           "order_text": "1 tab PO TID–QID",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -2948,8 +4021,13 @@
           "order_text": "1 eff tab PO OD",
           "duration_label": "5 days",
           "pack_label": "1 tube (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -2971,8 +4049,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain/fever",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -2982,8 +4065,14 @@
           "order_text": "2 sprays to mouth/throat TID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX3",
@@ -2993,8 +4082,13 @@
           "order_text": "1 lozenge dissolve slowly q2–3h PRN",
           "duration_label": "3–5 days",
           "pack_label": "1 sachet (6 lozenges)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -3016,8 +4110,14 @@
           "order_text": "apply thinly BID–TID to active itchy areas",
           "duration_label": "5 days",
           "pack_label": "1 tube (15 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -3027,8 +4127,13 @@
           "order_text": "apply to dry skin BID–TID",
           "duration_label": "7 days",
           "pack_label": "1 tube (35 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -3038,8 +4143,13 @@
           "order_text": "1 tab PO OD if itchy",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -3061,8 +4171,13 @@
           "order_text": "apply to affected area TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 tube (100 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -3072,8 +4187,14 @@
           "order_text": "spray to affected area TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -3083,8 +4204,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -3106,8 +4232,14 @@
           "order_text": "use as eye wash BID–TID PRN",
           "duration_label": "3–5 days",
           "pack_label": "1 bottle (110 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -3117,8 +4249,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 box (20 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -3128,8 +4266,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 box (30 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3151,8 +4295,14 @@
           "order_text": "1–2 drops OU PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 box (30 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -3162,8 +4312,14 @@
           "order_text": "1–2 drops OU PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 bottle (10 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3185,8 +4341,14 @@
           "order_text": "use as eye wash BID–TID PRN",
           "duration_label": "3–5 days",
           "pack_label": "1 bottle (110 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -3196,8 +4358,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 box (20 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3219,8 +4387,14 @@
           "order_text": "1–2 drops OU / affected eye PRN",
           "duration_label": "5–7 days",
           "pack_label": "1 box (20 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -3230,8 +4404,14 @@
           "order_text": "use as eye wash BID PRN",
           "duration_label": "2–3 days",
           "pack_label": "1 bottle (110 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3253,8 +4433,14 @@
           "order_text": "use as eye wash BID–TID PRN",
           "duration_label": "3 days",
           "pack_label": "1 bottle (110 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -3264,8 +4450,14 @@
           "order_text": "1–2 drops affected eye PRN",
           "duration_label": "3–5 days",
           "pack_label": "1 box (20 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3287,8 +4479,14 @@
           "order_text": "1–2 drops affected eye PRN",
           "duration_label": "5 days",
           "pack_label": "1 box (20 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -3298,8 +4496,14 @@
           "order_text": "1–2 drops affected eye PRN",
           "duration_label": "5 days",
           "pack_label": "1 box (30 tubes)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -3309,8 +4513,14 @@
           "order_text": "1–2 drops affected eye PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (10 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3332,8 +4542,14 @@
           "order_text": "clean around abrasion TOP BID",
           "duration_label": "3–5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -3343,8 +4559,15 @@
           "order_text": "apply thinly if infected-looking superficial abrasion",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3366,8 +4589,14 @@
           "order_text": "clean around wound TOP BID",
           "duration_label": "3–5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -3377,8 +4606,15 @@
           "order_text": "apply thinly if localized superficial infection develops",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3400,8 +4636,13 @@
           "order_text": "1 tab PO OD",
           "duration_label": "3–5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -3411,8 +4652,13 @@
           "order_text": "apply thinly BID–TID to bite area",
           "duration_label": "3–5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -3422,8 +4668,14 @@
           "order_text": "apply thinly BID–TID",
           "duration_label": "3–5 days",
           "pack_label": "1 tube (15 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3445,8 +4697,13 @@
           "order_text": "apply thinly BID–TID to itchy area",
           "duration_label": "3–5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -3456,8 +4713,13 @@
           "order_text": "1 tab PO OD if itchy",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -3467,8 +4729,13 @@
           "order_text": "apply to dry skin BID–TID",
           "duration_label": "7 days",
           "pack_label": "1 tube (35 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -3490,8 +4757,14 @@
           "order_text": "1–2 tsp PO OD",
           "duration_label": "3–5 days",
           "pack_label": "1 bottle (75 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -3501,8 +4774,13 @@
           "order_text": "apply thinly BID–TID to bite area",
           "duration_label": "3–5 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -3524,8 +4802,14 @@
           "order_text": "apply thinly BID–TID to active itchy area",
           "duration_label": "3–5 days",
           "pack_label": "1 tube (15 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -3535,8 +4819,13 @@
           "order_text": "apply to dry skin BID–TID",
           "duration_label": "7 days",
           "pack_label": "1 tube (35 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -3546,8 +4835,14 @@
           "order_text": "1–2 tsp PO OD if itchy",
           "duration_label": "3–5 days",
           "pack_label": "1 bottle (75 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3569,8 +4864,13 @@
           "order_text": "1–2 tabs PO TID after meals",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -3580,8 +4880,13 @@
           "order_text": "1–2 tabs PO TID after meals / PRN",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -3603,8 +4908,13 @@
           "order_text": "1–2 tabs PO TID after meals",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -3614,8 +4924,13 @@
           "order_text": "1–2 tabs PO TID after meals / PRN",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -3637,8 +4952,14 @@
           "order_text": "0.3 mL PO TID after meals",
           "duration_label": "3 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -3648,8 +4969,14 @@
           "order_text": "1 tsp PO QID before meals",
           "duration_label": "3 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3671,8 +4998,14 @@
           "order_text": "1 tsp PO QID before meals",
           "duration_label": "3 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -3682,8 +5015,14 @@
           "order_text": "0.3 mL PO TID after meals",
           "duration_label": "3 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3705,8 +5044,14 @@
           "order_text": "1 sachet in 150 mL water; small frequent sips",
           "duration_label": "1–2 days",
           "pack_label": "1 box (5 sachets)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -3716,8 +5061,14 @@
           "order_text": "1 sachet PO BID",
           "duration_label": "3 days",
           "pack_label": "6 sachets",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -3727,8 +5078,14 @@
           "order_text": "1 sachet PO q8h",
           "duration_label": "2–3 days",
           "pack_label": "1 box / unit as needed",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3750,8 +5107,14 @@
           "order_text": "1 sachet in 150 mL water; small frequent sips",
           "duration_label": "1–2 days",
           "pack_label": "1 box (5 sachets)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -3761,8 +5124,14 @@
           "order_text": "1 sachet PO q8h",
           "duration_label": "2–3 days",
           "pack_label": "1 box / unit as needed",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3784,8 +5153,14 @@
           "order_text": "1–2 tsp PO OD",
           "duration_label": "5 days",
           "pack_label": "1 bottle (75 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -3795,8 +5170,14 @@
           "order_text": "clean/rinse nasal cavity PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (100 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3818,8 +5199,14 @@
           "order_text": "2 tsp PO TID",
           "duration_label": "3 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -3829,8 +5216,14 @@
           "order_text": "5 mL PO q6h PRN fever/pain",
           "duration_label": "3 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -3840,8 +5233,14 @@
           "order_text": "1–2 tsp PO TID–QID",
           "duration_label": "3 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP2",
@@ -3851,8 +5250,14 @@
           "order_text": "1 sachet dissolved PO TID",
           "duration_label": "3 days",
           "pack_label": "3 sachets",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3874,8 +5279,14 @@
           "order_text": "1–2 tsp PO TID–QID",
           "duration_label": "3 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -3885,8 +5296,14 @@
           "order_text": "1 sachet dissolved PO TID",
           "duration_label": "3 days",
           "pack_label": "3 sachets",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3908,8 +5325,14 @@
           "order_text": "clean/rinse nasal cavity PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (100 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3931,8 +5354,14 @@
           "order_text": "1 dropper PO QID after meals and HS",
           "duration_label": "5–7 days",
           "pack_label": "1 bottle (12 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3954,8 +5383,14 @@
           "order_text": "5 mL PO q6h PRN fever/pain",
           "duration_label": "3 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -3977,8 +5412,15 @@
           "order_text": "2–3 drops affected eye QID–5x/day",
           "duration_label": "5 days",
           "pack_label": "1 bottle (5 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -3988,8 +5430,15 @@
           "order_text": "1 drop affected eye BID",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP2",
@@ -3999,8 +5448,15 @@
           "order_text": "apply ophthalmic ointment HS",
           "duration_label": "5 days",
           "pack_label": "1 tube (3.5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4022,8 +5478,15 @@
           "order_text": "2–3 drops affected eye QID–5x/day",
           "duration_label": "5 days",
           "pack_label": "1 bottle (5 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -4033,8 +5496,15 @@
           "order_text": "1 drop affected eye BID",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4056,8 +5526,15 @@
           "order_text": "apply ophthalmic ointment HS",
           "duration_label": "5 days",
           "pack_label": "1 tube (3.5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -4067,8 +5544,15 @@
           "order_text": "1 drop affected eye BID",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4090,8 +5574,15 @@
           "order_text": "apply ophthalmic ointment HS",
           "duration_label": "5 days",
           "pack_label": "1 tube (3.5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -4101,8 +5592,15 @@
           "order_text": "1 drop affected eye BID",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4124,8 +5622,15 @@
           "order_text": "2.5 mL PO BID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (70 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4135,8 +5640,14 @@
           "order_text": "clean/rinse nasal cavity PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (100 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -4146,8 +5657,14 @@
           "order_text": "1–2 sprays/nostril BID–TID (max 3 days)",
           "duration_label": "3 days",
           "pack_label": "1 bottle (10 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4169,8 +5686,15 @@
           "order_text": "5 mL PO BID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (70 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4180,8 +5704,14 @@
           "order_text": "5 mL PO q6h PRN fever/pain",
           "duration_label": "3 days",
           "pack_label": "1 bottle (60 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4203,8 +5733,15 @@
           "order_text": "1 tab PO BID before meals",
           "duration_label": "5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4214,8 +5751,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN fever/pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -4237,8 +5779,15 @@
           "order_text": "1 tab PO BID",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4248,8 +5797,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -4271,8 +5825,15 @@
           "order_text": "1 cap PO TID",
           "duration_label": "5 days",
           "pack_label": "2 strips (20 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4282,8 +5843,13 @@
           "order_text": "apply thinly TID",
           "duration_label": "5–7 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -4305,8 +5871,15 @@
           "order_text": "5 mL PO BID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (70 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4316,8 +5889,13 @@
           "order_text": "apply thinly TID",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -4339,8 +5917,15 @@
           "order_text": "1 tab PO BID",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4350,8 +5935,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -4373,8 +5963,15 @@
           "order_text": "1 cap PO TID",
           "duration_label": "5 days",
           "pack_label": "2 strips (20 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4384,8 +5981,13 @@
           "order_text": "apply thinly TID",
           "duration_label": "5–7 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -4407,8 +6009,13 @@
           "order_text": "apply thinly TID",
           "duration_label": "5–7 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -4418,8 +6025,15 @@
           "order_text": "1 cap PO TID",
           "duration_label": "5 days",
           "pack_label": "2 strips (20 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4441,8 +6055,14 @@
           "order_text": "clean around abrasion TOP BID",
           "duration_label": "3–5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4452,8 +6072,13 @@
           "order_text": "apply thinly TID",
           "duration_label": "5–7 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -4463,8 +6088,15 @@
           "order_text": "1 cap PO TID",
           "duration_label": "5 days",
           "pack_label": "2 strips (20 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4486,8 +6118,15 @@
           "order_text": "apply thinly BID–TID",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -4497,8 +6136,15 @@
           "order_text": "apply thinly BID–TID",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4520,8 +6166,15 @@
           "order_text": "1 tab PO BID",
           "duration_label": "5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4543,8 +6196,15 @@
           "order_text": "2–3 drops affected eye QID–5x/day",
           "duration_label": "5 days",
           "pack_label": "1 bottle (5 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4554,8 +6214,15 @@
           "order_text": "1 drop affected eye BID",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -4565,8 +6232,15 @@
           "order_text": "apply ophthalmic ointment HS",
           "duration_label": "5 days",
           "pack_label": "1 tube (3.5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4588,8 +6262,13 @@
           "order_text": "apply thinly TID",
           "duration_label": "5–7 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -4611,8 +6290,13 @@
           "order_text": "apply thinly TID",
           "duration_label": "5–7 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -4634,8 +6318,15 @@
           "order_text": "1 tab PO BID",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4645,8 +6336,14 @@
           "order_text": "clean around wound TOP BID",
           "duration_label": "3–5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4668,8 +6365,15 @@
           "order_text": "1 tab PO BID before meals",
           "duration_label": "5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4679,8 +6383,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN fever/pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -4702,8 +6411,15 @@
           "order_text": "1 tab PO BID before meals",
           "duration_label": "5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4713,8 +6429,14 @@
           "order_text": "clean/rinse nasal cavity PRN",
           "duration_label": "5 days",
           "pack_label": "1 bottle (100 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4736,8 +6458,15 @@
           "order_text": "1 tab PO BID before meals",
           "duration_label": "5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -4747,8 +6476,14 @@
           "order_text": "2 sprays to mouth/throat TID",
           "duration_label": "5 days",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4770,8 +6505,13 @@
           "order_text": "apply thinly TID",
           "duration_label": "5–7 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -4781,8 +6521,15 @@
           "order_text": "apply thinly TID–QID",
           "duration_label": "5 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4804,8 +6551,13 @@
           "order_text": "1 cap PO once after food",
           "duration_label": "single dose",
           "pack_label": "1 cap",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -4827,8 +6579,14 @@
           "order_text": "insert 1 tab PV nightly",
           "duration_label": "7–14 days",
           "pack_label": "1 blister",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4850,8 +6608,14 @@
           "order_text": "insert 1 tab PV nightly",
           "duration_label": "7–14 days",
           "pack_label": "1 blister",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4873,8 +6637,15 @@
           "order_text": "1 tab PO BID",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4896,8 +6667,15 @@
           "order_text": "1 tab PO BID",
           "duration_label": "5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4919,8 +6697,15 @@
           "order_text": "1 tab PO BID",
           "duration_label": "5 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "antibiotic source-linked rule",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -4942,8 +6727,13 @@
           "order_text": "apply thinly BID–TID",
           "duration_label": "7–14 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -4953,8 +6743,13 @@
           "order_text": "apply thinly BID",
           "duration_label": "7–14 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -4976,8 +6771,13 @@
           "order_text": "apply thinly BID",
           "duration_label": "7–14 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -4987,8 +6787,13 @@
           "order_text": "apply thinly BID–TID",
           "duration_label": "7–14 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -5010,8 +6815,13 @@
           "order_text": "apply thinly BID–TID",
           "duration_label": "7–14 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -5021,8 +6831,13 @@
           "order_text": "apply thinly BID",
           "duration_label": "7–14 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -5044,8 +6859,13 @@
           "order_text": "apply thinly BID–TID",
           "duration_label": "7–14 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "SWAP1",
@@ -5055,8 +6875,13 @@
           "order_text": "apply thinly BID",
           "duration_label": "7–14 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -5078,8 +6903,14 @@
           "order_text": "apply/spray to lesions once daily",
           "duration_label": "7–14 days",
           "pack_label": "1 bottle (25 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "SWAP1",
@@ -5089,8 +6920,13 @@
           "order_text": "apply thinly BID",
           "duration_label": "7–14 days",
           "pack_label": "1 tube (5 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -5112,8 +6948,13 @@
           "order_text": "apply thinly BID–TID",
           "duration_label": "7–14 days",
           "pack_label": "1 tube (10 g)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -5135,8 +6976,14 @@
           "order_text": "apply carefully to wart/corn BID–TID",
           "duration_label": "2–4 weeks",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -5158,8 +7005,14 @@
           "order_text": "apply carefully to corn/callus BID–TID",
           "duration_label": "2–4 weeks",
           "pack_label": "1 bottle (15 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         }
       ],
       "source_status": "legacy_unverified",
@@ -5181,8 +7034,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         },
         {
           "line_id": "RX2",
@@ -5192,8 +7050,13 @@
           "order_text": "1 cap PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 box (10 caps)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -5215,8 +7078,14 @@
           "order_text": "dilute and gargle/spit 2–3x/day",
           "duration_label": "3–5 days",
           "pack_label": "1 bottle (30 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -5226,8 +7095,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -5249,8 +7123,14 @@
           "order_text": "dilute and gargle/spit 2–3x/day",
           "duration_label": "3–5 days",
           "pack_label": "1 bottle (30 mL)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "manual_review_required",
+          "missing_requirements": [
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -5260,8 +7140,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",
@@ -5283,8 +7168,15 @@
           "order_text": "1 tab PO BID",
           "duration_label": "5 days",
           "pack_label": "1 box (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "clinical_readiness": "blocked",
+          "missing_requirements": [
+            "bacterial indication criteria",
+            "product manual review",
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": false
         },
         {
           "line_id": "RX2",
@@ -5294,8 +7186,13 @@
           "order_text": "1–2 tabs PO q4–6h PRN pain",
           "duration_label": "3 days",
           "pack_label": "1 strip (10 tabs)",
-          "source_status": "legacy_unverified",
-          "manual_review": true
+          "source_status": "source_gap",
+          "manual_review": false,
+          "clinical_readiness": "usable_with_warning",
+          "missing_requirements": [
+            "verified guideline source"
+          ],
+          "fast_mode_allowed": true
         }
       ],
       "source_status": "legacy_unverified",

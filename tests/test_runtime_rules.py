@@ -27,3 +27,60 @@ def test_no_pediatric_auto_dose_without_sources():
     peds_outputs = load("data/pediatric/peds_product_dose_output.json")["items"]
     assert all(not item["auto_dose_enabled"] for item in peds_outputs)
     assert all(item["dose_output_status"] == "manual_review" for item in peds_outputs)
+
+
+def test_all_opd_rows_have_source_gated_readiness_fields():
+    lines = [
+        line
+        for regimen in load("data/core/fast_regimen_master.json")["regimens"]
+        for line in regimen["lines"]
+    ]
+    assert lines
+    for line in lines:
+        assert line["source_status"] in {
+            "source_verified",
+            "source_gap",
+            "pending_manual_review",
+            "local_rule_only",
+            "not_applicable",
+        }
+        assert line["clinical_readiness"] in {
+            "ready",
+            "usable_with_warning",
+            "manual_review_required",
+            "blocked",
+        }
+        assert isinstance(line["missing_requirements"], list)
+        assert isinstance(line["fast_mode_allowed"], bool)
+
+
+def test_no_runtime_row_is_source_verified_without_source_ids():
+    lines = [
+        line
+        for regimen in load("data/core/fast_regimen_master.json")["regimens"]
+        for line in regimen["lines"]
+    ]
+    assert all(line["source_status"] != "source_verified" or line.get("source_ids") for line in lines)
+
+
+def test_antibiotic_rows_are_not_fast_mode_allowed_without_verified_gate():
+    products = {p["id"]: p for p in load("data/core/drug_master_rebuilt.json")["products"]}
+    lines = [
+        line
+        for regimen in load("data/core/fast_regimen_master.json")["regimens"]
+        for line in regimen["lines"]
+    ]
+    antibiotic_lines = [line for line in lines if products.get(line["product_id"], {}).get("category") == "antibiotic"]
+    assert antibiotic_lines
+    assert all(not line["fast_mode_allowed"] for line in antibiotic_lines)
+
+
+def test_app_seed_medication_rows_include_readiness_badges_data():
+    meds = [
+        med
+        for complaint in load("data/core/app_seed_runtime.json")["cp"]
+        for regimen in complaint.get("r", [])
+        for med in regimen.get("m", [])
+    ]
+    assert meds
+    assert all("clinical_readiness" in med and "fast_mode_allowed" in med for med in meds)

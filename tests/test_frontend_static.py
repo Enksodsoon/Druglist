@@ -10,6 +10,9 @@ def test_frontend_sections_and_runtime_loader():
     assert "loadRuntimeSeed" in html
     assert "data/core/app_seed_runtime.json" in html
     assert "renderAdminRuntimeMeta" in html
+    assert "reviewWorkflowStats" in html
+    assert "Manual-review products" in html
+    assert "Source Coverage Gate" in html
 
 
 def test_rules_tab_visible_once_tabs_rendered():

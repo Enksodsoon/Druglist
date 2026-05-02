@@ -71,6 +71,7 @@ def main() -> int:
 
     products = payloads["data/core/drug_master_rebuilt.json"].get("products", [])
     product_ids = {p.get("id") for p in products}
+    products_by_id = {p.get("id"): p for p in products}
     if len(product_ids) != len(products):
         errors.append("duplicate_product_ids")
 
@@ -109,6 +110,39 @@ def main() -> int:
     ]
     if broken_meds:
         warnings.append(f"legacy_regimen_product_links_missing_product:{len(broken_meds)}")
+    allowed_source_status = {"source_verified", "source_gap", "pending_manual_review", "local_rule_only", "not_applicable"}
+    allowed_readiness = {"ready", "usable_with_warning", "manual_review_required", "blocked"}
+    runtime_lines = [line for regimen in regimens for line in regimen.get("lines", [])]
+    missing_readiness = [
+        line.get("line_id")
+        for line in runtime_lines
+        if line.get("source_status") not in allowed_source_status
+        or line.get("clinical_readiness") not in allowed_readiness
+        or not isinstance(line.get("missing_requirements"), list)
+        or not isinstance(line.get("fast_mode_allowed"), bool)
+    ]
+    if missing_readiness:
+        errors.append(f"runtime_lines_missing_readiness:{len(missing_readiness)}")
+    source_verified_without_source = [
+        line.get("line_id")
+        for line in runtime_lines
+        if line.get("source_status") == "source_verified" and not line.get("source_ids")
+    ]
+    if source_verified_without_source:
+        errors.append(f"source_verified_without_source_ids:{len(source_verified_without_source)}")
+    unsafe_antibiotics = [
+        line.get("line_id")
+        for line in runtime_lines
+        for product in [products_by_id.get(line.get("product_id")) or {}]
+        if line.get("fast_mode_allowed")
+        and (
+            product.get("category") == "antibiotic"
+            or "antibiotic" in " ".join([str(line.get("display_name", "")), str(product.get("generic", ""))]).lower()
+        )
+        and line.get("source_status") != "source_verified"
+    ]
+    if unsafe_antibiotics:
+        errors.append(f"antibiotic_fast_mode_without_verified_gate:{len(unsafe_antibiotics)}")
 
     index_text = (ROOT / "index.html").read_text(encoding="utf-8")
     for section in REQUIRED_SECTIONS:
