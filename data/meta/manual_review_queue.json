@@ -1,0 +1,3204 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:27:28Z",
+    "source_file": "Drug list for physician usage added -update 29022024.xlsx",
+    "source_sheet": "Final approved",
+    "source_rows": 910,
+    "product_count": 910,
+    "duplicate_bds_count": 0,
+    "manual_review_count": 334,
+    "headers": [
+      "#",
+      "ประเภทย่อย",
+      "รหัสสินค้า",
+      "ชื่อสินค้า",
+      "ขนาด",
+      "ส่วนประกอบ",
+      "Medicine code",
+      "Medicine name",
+      "วิธีใช้ (Med-Links)",
+      "วิธีใช้ (Med-Links).1"
+    ]
+  },
+  "items": [
+    {
+      "id": "BDS040078",
+      "display_name": "A.M.Mox 500 [Amoxicillin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 4,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001103",
+      "display_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 5,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001035",
+      "display_name": "Amoksiklav 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 6,
+      "status": "pending"
+    },
+    {
+      "id": "BDS040017",
+      "display_name": "Augmentin 1 g. [Amoxicillin Trihydrate (eq. to Amoxicillin 875 mg.)+Clavulanic Potassium (eq. to Clavulanic Acid 125 mg.)]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 7,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001494",
+      "display_name": "Azithro 250 mg [Azithromycin 250 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 8,
+      "status": "pending"
+    },
+    {
+      "id": "BDS006115",
+      "display_name": "Azycin 250 mg (GPO) [Azithromycin 250 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 9,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007066",
+      "display_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 10,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001545",
+      "display_name": "Cavumox 1 g [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 11,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007784",
+      "display_name": "Cephalex-500 [Cephalexin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 12,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001452",
+      "display_name": "Clarith 500 [Clarithromycin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 13,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008652",
+      "display_name": "Dicloxilin-500 [Dicloxacillin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 14,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008702",
+      "display_name": "Dicloxman-500 [Dicloxacillin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 15,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001943",
+      "display_name": "Floctil 250 [Azithromycin 250 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 16,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002201",
+      "display_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 17,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002447",
+      "display_name": "Klacid MR 500 mg [Clarithromycin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 18,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002692",
+      "display_name": "Meiact tabslet [Cefditoren 100 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 19,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003078",
+      "display_name": "Omnicef 100 mg [Cefdinir 100 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 20,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008121",
+      "display_name": "Rintacin [Erythromycin stearate 250 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 21,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003423",
+      "display_name": "Rothricin 150 mg [Roxithromycin 150 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 22,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007976",
+      "display_name": "Roxitop 300 [Roxithromycin 300 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 23,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003428",
+      "display_name": "Rulid 150 mg [Roxithromycin 150 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 24,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007007",
+      "display_name": "Uramox 500 [Amoxicillin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 25,
+      "status": "pending"
+    },
+    {
+      "id": "BDS049776",
+      "display_name": "Zithromax tabslet 250 mg [Azithromycin 250 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 26,
+      "status": "pending"
+    },
+    {
+      "id": "BDS047643",
+      "display_name": "Singulair Granules 4 mg [Montelukast Sodium 4.2 mg.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 58,
+      "status": "pending"
+    },
+    {
+      "id": "BDS043123",
+      "display_name": "Facil 100 [Acetylcysteine 100 mg./5 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 77,
+      "status": "pending"
+    },
+    {
+      "id": "BDS043124",
+      "display_name": "Facil 200 [Acetylcysteine 200 mg./3 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 78,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001936",
+      "display_name": "Fluimucil A 200 mg [Acetylcysteine 200 mg./3 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 81,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002640",
+      "display_name": "Mucolid SF 600 [Acetylcysteine 600 mg./7 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 85,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008135",
+      "display_name": "Muco-Sea 200 [Acetylcysteine 200 mg./3 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 86,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001715",
+      "display_name": "Duphalac 100 [Lactulose 66.7 g/100 ml]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 92,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001842",
+      "display_name": "Forlax [Macrogol 4000 10 g.+ Saccharin sodium 0.017 g.+ Orange-grapefruit flavour 0.15 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 94,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003505",
+      "display_name": "Fybogel Orange [Ispaghula Husk 3.5 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 95,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002128",
+      "display_name": "Hepalac [Lactulose 66.7 g+Galactose 11 g+Lactose 6 g/100 ml]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 96,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008461",
+      "display_name": "Milk of Magnesia C.B. [Magnesium Hydroxide 400 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 97,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002697",
+      "display_name": "Mucilin Orange Flavour [Ispaghula Husk 49.0 g./100 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 98,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002699",
+      "display_name": "Mucilin Orange SF [Ispaghula Husk 3.5 g./5 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 99,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004866",
+      "display_name": "น้ำมันละหุ่งหวาน [Saccharin 0.006 g+Amyl Acetate 0.037 g+Alcohol 0.45 ml+Castor Oil/15 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 102,
+      "status": "pending"
+    },
+    {
+      "id": "BDS045631",
+      "display_name": "Nyst Oral [Nystatin 100,000 Unit/1 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 150,
+      "status": "pending"
+    },
+    {
+      "id": "BDS042304",
+      "display_name": "Dehecta [Dioctahedral Smectite 3 g./20 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 163,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003546",
+      "display_name": "Smecta [Dioctahedral Smectite 3 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 166,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003912",
+      "display_name": "Dacin-F 300 [Clindamycin 300 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 167,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007723",
+      "display_name": "Doxylcap [Doxycycline Hyclate (eq. to Doxycycline 100 mg.)]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 168,
+      "status": "pending"
+    },
+    {
+      "id": "BDS044901",
+      "display_name": "Metrolex 400 mg [Metronidazole 400 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 169,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007193",
+      "display_name": "Metronidazole 400 [Metronidazole 400 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 170,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001046",
+      "display_name": "AMK 228 [Amoxicillin 200 mg.+Clavulanic Acid 28 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain",
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 173,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001047",
+      "display_name": "AMK 457 [Amoxicillin 400 mg.+Clavulanic Acid 57 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain",
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 174,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001056",
+      "display_name": "Augmentin 457 mg [Amoxicillin 400 mg.+Clavulanic Acid 57 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain",
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 175,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001054",
+      "display_name": "Augmentin ES [Amoxicillin 600 mg.+Clavulanic Acid 42.9 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain",
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 176,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001084",
+      "display_name": "Azith Oral Suspension [Azithromycin 200 mg./5 ml.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source",
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 177,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001441",
+      "display_name": "Cefspan Suspension [Cefixime 100 mg./5 ml.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source",
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 178,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002206",
+      "display_name": "Ibilex Syrup [Cephalexin 125 mg./5 ml.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source",
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 179,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002693",
+      "display_name": "Meiact Fine Granules [Cefditoren 50 mg.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain",
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 180,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007586",
+      "display_name": "Newtamox For Oral Suspension [Amoxicillin 125 mg./5 ml.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source",
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 181,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007589",
+      "display_name": "Newthrocin [Erythromycin 125 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain",
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 182,
+      "status": "pending"
+    },
+    {
+      "id": "BDS046209",
+      "display_name": "Onzet Oral Suspension [Azithromycin 200 mg./5 ml.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source",
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 183,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003549",
+      "display_name": "Sia-Mox Syrup 125 mg [Amoxicillin 125 mg./5 ml.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source",
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 184,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003550",
+      "display_name": "Sia-Mox Syrup 250 mg [Amoxicillin 250 mg./5 ml.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source",
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 185,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007682",
+      "display_name": "Xalin Dry Syrup 125 mg [Cloxacillin 125 mg./5 ml.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source",
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 186,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004225",
+      "display_name": "Zithromax Dry 200 mg [Azithromycin 200 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain",
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 187,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008609",
+      "display_name": "Ampol Suspension [Paracetamol 120 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 188,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002407",
+      "display_name": "Kit-F Drops [Paracetamol 60 mg./0.6 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 189,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007583",
+      "display_name": "Newtamol Syrup [Paracetamol 150 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 190,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002861",
+      "display_name": "Panadol Orange Suspension [Paracetamol 250 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 191,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002847",
+      "display_name": "Panadol Strawberry Suspension [Paracetamol 120 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 192,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008137",
+      "display_name": "Poro Suspension [Paracetamol 250 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 193,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003597",
+      "display_name": "Sara Infant Drops (รสองุ่น) [Paracetamol 60 mg./0.6 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 194,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003596",
+      "display_name": "Sara น้ำรสสตรอเบอร์รี่ [Paracetamol 120 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 195,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003504",
+      "display_name": "Sara น้ำรสส้ม [Paracetamol 250 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 196,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003600",
+      "display_name": "Sara น้ำรสองุ่น [Paracetamol 160 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 197,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003711",
+      "display_name": "Tempra Drop [Paracetamol 80 mg./0.8 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 198,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003712",
+      "display_name": "Tempra Forte [Paracetamol 250 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 199,
+      "status": "pending"
+    },
+    {
+      "id": "BDS048670",
+      "display_name": "Tempra Kids Orange [Paracetamol 120 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 200,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003713",
+      "display_name": "Tempra Kids Strawberry [Paracetamol 120 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 201,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003737",
+      "display_name": "Tylenol Drop [Paracetamol 80 mg./0.8 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 202,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003763",
+      "display_name": "Tylenol Suspension [Paracetamol 160 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 203,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001015",
+      "display_name": "Aerius Syrup [Desloratadine 0.5 mg./1 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 204,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007003",
+      "display_name": "Asiatapp Infant Drops (ควบคุมจำนวน) [Brompheniramine Maleate 2.0 mg.+Phenylephrine HCl 2.5 mg./1 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 205,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008047",
+      "display_name": "Asiatapp Syrup (ควบคุมจำนวน) [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 206,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008033",
+      "display_name": "Chlophen Syrup (ควบคุมจำนวน) [Chlorpheniramine Maleate 2 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 207,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007038",
+      "display_name": "Cistamine Syrup [Cetirizine 2HCl 5 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 208,
+      "status": "pending"
+    },
+    {
+      "id": "BDS044519",
+      "display_name": "Lorius Syrup [Desloratadine 0.5 mg./1 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 209,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007271",
+      "display_name": "Sea Chlor Syrup (ควบคุมจำนวน) [Chlorpheniramine Maleate 2 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 210,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003573",
+      "display_name": "Sulidine CP Plus (ควบคุมจำนวน) [Acetaminophen 120 mg+Chlorpheniramine maleate 1 mg+Phenylephrine HCl 5 mg/5 ml]",
+      "reasons": [
+        "form_uncertain"
+      ],
+      "source_row": 211,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008301",
+      "display_name": "Trandrozine Syrup (ควบคุมจำนวน) [Hydroxyzine HCl 10 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 212,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008086",
+      "display_name": "Zermed Syrup [Cetirizine 2HCl 5 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 213,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004212",
+      "display_name": "Zyrtec Syrup [Cetirizine 2HCI 1 mg./1 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 214,
+      "status": "pending"
+    },
+    {
+      "id": "BDS006036",
+      "display_name": "Icorin Kids Syrup [Butamirate Citrate 4 mg/5 ml]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 215,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002290",
+      "display_name": "Ivorin Syrup [Levodropropizine 30 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 216,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001257",
+      "display_name": "Bisolvon EX Syrup เล็ก [Bromhexine HCl 4 mg.+K guaiacolsulphonate 100 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 217,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001296",
+      "display_name": "Bisolvon EX Syrup ใหญ่ [Bromhexine HCl 4 mg.+K guaiacolsulphonate 100 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 218,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001253",
+      "display_name": "Bisolvon Pediatric Syrup [Bromhexine HCl 4 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 219,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007033",
+      "display_name": "Bocytin Syrup [Carbocysteine 250 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 220,
+      "status": "pending"
+    },
+    {
+      "id": "BDS041506",
+      "display_name": "Carboflex Syrup [Carbocysteine 250 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 221,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001495",
+      "display_name": "Cisteine [Carbocysteine 100 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 222,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001919",
+      "display_name": "Flemex Kids [Carbocysteine 100 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 223,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001920",
+      "display_name": "Flemex Syrup [Carbocysteine 250 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 224,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007742",
+      "display_name": "Mucobrox [Ambroxol HCl 30 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 225,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002659",
+      "display_name": "Mucoflux Syrup [Cyclidrol 80 mg./10 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 226,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002691",
+      "display_name": "Mucolid Junior บลูเบอร์รี่ [Ambroxol HCl 15 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 227,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002654",
+      "display_name": "Mucolid Syrup [Ambroxol HCl 30 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 228,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003697",
+      "display_name": "Solmax Forte Suspension [Carbocysteine 500 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 229,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003782",
+      "display_name": "Solmax Kids Suspension [Carbocysteine 200 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 230,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001248",
+      "display_name": "Bioflor [Lyophilized Saccharomyces boulardii 250 mg.]",
+      "reasons": [
+        "form_uncertain"
+      ],
+      "source_row": 264,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002108",
+      "display_name": "Hidrasec Paediatric 30 mg [Racecadotril 30 mg.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 268,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001231",
+      "display_name": "Benda Syrup กลิ่นผลไม้รวม [Mebendazole 100 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 269,
+      "status": "pending"
+    },
+    {
+      "id": "BDS049775",
+      "display_name": "Zenzera-200 Suspension [Albendazole 200 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 270,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003416",
+      "display_name": "Robitussin DM เล็ก (ควบคุมจำนวน) [Guaifenesin 200 mg.+Dextromethorphan HBr 10 mg./5 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 274,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001458",
+      "display_name": "Asthmasian Expectorant Syrup [Terbutaline sulfate 1.5 mg.+Glyceryl guaiacolate 100 mg.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 275,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002618",
+      "display_name": "Meptin น้ำ มีกล่อง [Procaterol HCl 5 mcg./1 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 276,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003645",
+      "display_name": "Salbulin Syrup [Salbutamol 2.4 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 277,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003589",
+      "display_name": "Salmol Syrup [Salbutamol 2 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 278,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008034",
+      "display_name": "Berclomine Syrup [Dicyclomine 5 mg.+Simethicone 50 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 296,
+      "status": "pending"
+    },
+    {
+      "id": "BDS040608",
+      "display_name": "Belcid Forte Suspension [Aluminium Hydroxide Gel (eq. to Aluminium Hydroxide 306 mg.+Magnesium Hydroxide 110 mg.+ Simethicone 30 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 317,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002010",
+      "display_name": "Gastro Bismol [Bismuth Subsalicylate 262 mg.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 319,
+      "status": "pending"
+    },
+    {
+      "id": "BDS043614",
+      "display_name": "Gaviscon Advance bottle 150 ml [Sodium alginate Ph Eur 1000 mg.+Potassium bicarbonate 200 mg. +Calcium carbonate+Carbomer+Methyl (E218)+Propyl (E216)+อื่นๆ]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 320,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002012",
+      "display_name": "Gaviscon Dual Action bottle 150 ml [Sodium alginate 500 mg.+Sodium bicarbonate 213 mg.+Calcium carbonate 325 mg.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 322,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002014",
+      "display_name": "Gaviscon Suspension bottle 150 ml [Sodium alginate 500 mg.+Sodium bicarbonate 267 mg./10 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 324,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002013",
+      "display_name": "Gaviscon Suspension sachet 10 ml [Sodium alginate 500 mg.+Sodium bicarbonate 267 mg.+Calcium carbonate 160 mg./10 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 325,
+      "status": "pending"
+    },
+    {
+      "id": "BDS043606",
+      "display_name": "Gaviscon Suspension กล่อง 4 ซอง [Sodium alginate 500 mg.+Sodium bicarbonate 267 mg.+Calcium carbonate 160 mg./10 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 326,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001029",
+      "display_name": "Maalox Alum Milk [Al(OH)3 4.4 g.+Mg(OH)2 2.4 g./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 327,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003918",
+      "display_name": "Ulcefate Suspension bottle 240 ml [Sucralfate 1 g./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 329,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003917",
+      "display_name": "Ulcefate Suspension bottle 60 ml [Sucralfate 1 g./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 330,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003915",
+      "display_name": "Ulcefate Suspension sachet 5 ml [Sucralfate 1 g.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 331,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001013",
+      "display_name": "Air-X Drops [Simethicone 40 mg./0.6 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 333,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002631",
+      "display_name": "Mixt.Carminative (GPO) 180 ml [Cardamon Tincture 1.80 ml.+Capsicum Tincture 0.06 ml.+Ginger Tincture 0.024 ml./15 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 334,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002632",
+      "display_name": "Mixt.Carminative (GPO) 450 ml [Cardamon Tincture 1.80 ml.+Capsicum Tincture 0.06 ml.+Ginger Tincture 0.024 ml./15 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 335,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007967",
+      "display_name": "Ziga Gas [เปล้าน้อย+สมุลแว้ง+ขมิ้นชัน+กานพลู+ลูกกระวาน+เกล็ดสะระแหน่]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 336,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002637",
+      "display_name": "Motilium Oral Suspension [Domperidone 1 mg./1 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 351,
+      "status": "pending"
+    },
+    {
+      "id": "BDS046503",
+      "display_name": "Patilum Oral Suspension [Domperidone 1 mg./1 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 352,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008001",
+      "display_name": "Actrim [Trimethoprim 80 mg.+Sulfamethoxazole 400 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 353,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001072",
+      "display_name": "Avelox tabslet [Moxifloxacin Hydrochloride 400 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 354,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001496",
+      "display_name": "Cifloxin 500 mg [Ciprofloxacin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 355,
+      "status": "pending"
+    },
+    {
+      "id": "BDS041409",
+      "display_name": "Cipflocin 500 mg [Ciprofloxacin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 356,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008114",
+      "display_name": "Ciproxin-500 [Ciprofloxacin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 357,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001548",
+      "display_name": "Cravit 500 mg [Levofloxacin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 358,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008681",
+      "display_name": "Levomac 500 [Levofloxacin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 359,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007591",
+      "display_name": "Noflox-400 [Norfloxacin 400 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 360,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007751",
+      "display_name": "Norfloxyl-400 [Norfloxacin 400 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 361,
+      "status": "pending"
+    },
+    {
+      "id": "BDS009086",
+      "display_name": "Norxacin 400 mg [Norfloxacin 400 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 362,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007971",
+      "display_name": "Oflomac-200 [Ofloxacin 200 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 363,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007238",
+      "display_name": "Proflox 500 mg [Ciprofloxacin 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 364,
+      "status": "pending"
+    },
+    {
+      "id": "BDS047662",
+      "display_name": "Sixime [Cefixime 100 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 365,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007311",
+      "display_name": "Xacin [Norfloxacin 400 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 366,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008282",
+      "display_name": "Cera ORS รสส้ม [Glucose Anhydrous 3 g.+Sodium Chloride 0.53 g.+Potassium Chloride 0.23 g.+Sodium Citrate Dihydrate 0.44 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 400,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001665",
+      "display_name": "Duran Suspension [Ibuprofen 100 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 429,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007151",
+      "display_name": "Ibukids Suspension [Ibuprofen 100 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 430,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002845",
+      "display_name": "Nurofen Suspension [Ibuprofen 100 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 431,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007031",
+      "display_name": "Bromhexine Syrup [Bromhexine HCl 4 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 432,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008325",
+      "display_name": "Oscin Syrup [Hyoscine-N-butylbromide 5 mg./5 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 433,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001858",
+      "display_name": "Evra [Norelgestromin 6 mg.+Ethinylestradiol 600 mcg./1 patch]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 445,
+      "status": "pending"
+    },
+    {
+      "id": "BDS040024",
+      "display_name": "Arthro-K Orange 1500 [Crystalline Glucosamine Sulfate Potassium Chloride (เทียบเท่ากับ Glucosamine sulfate 1500 mg.)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 469,
+      "status": "pending"
+    },
+    {
+      "id": "BDS040032",
+      "display_name": "Artrofort Complex [Crystalline Glucosamine Sulphate 942 mg.(เทียบเท่ากับ Glucosamine 750 mg.+Sodium Chloride 192 mg.)+Chondroitin Sulphate Sodium 600 mg.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 470,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001521",
+      "display_name": "Coxium [Glucosamine Sulfate NaCl 1500 mg.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 471,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001003",
+      "display_name": "Viaflex 1500 [Glucosamine Sulfate Sodium Chloride 1884 mg. (Glucosamine Sulfate 1500 mg./1 ซอง)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 476,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001705",
+      "display_name": "Viartril-S [Glucosamine Sulphate 1500 mg.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 477,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007554",
+      "display_name": "Losalac Syrup [Lactulose 66.7 g./100 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 483,
+      "status": "pending"
+    },
+    {
+      "id": "BDS040003",
+      "display_name": "Asiazole-T.N. tabslets [Tinidazole 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 486,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007954",
+      "display_name": "Gyno Gena-500 [Tinidazole 500 mg.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 487,
+      "status": "pending"
+    },
+    {
+      "id": "BDS044313",
+      "display_name": "Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 632,
+      "status": "pending"
+    },
+    {
+      "id": "BDS044321",
+      "display_name": "Klean & Kare Saline กลาง [Sodium Chloride 0.9 g./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 633,
+      "status": "pending"
+    },
+    {
+      "id": "BDS044320",
+      "display_name": "Klean & Kare Saline เล็ก [Sodium Chloride 0.9 g./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 634,
+      "status": "pending"
+    },
+    {
+      "id": "BDS044322",
+      "display_name": "Klean & Kare Saline ใหญ่ [Sodium Chloride 0.9 g./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 635,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004868",
+      "display_name": "Normal Saline (Otsuka) [Sodium Chloride 0.9 g./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 636,
+      "status": "pending"
+    },
+    {
+      "id": "BDS045626",
+      "display_name": "Normal Saline (Thai Nakorn Patana) [Sodium Chloride 0.9 g./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 637,
+      "status": "pending"
+    },
+    {
+      "id": "BDS047669",
+      "display_name": "Sofclens Normal Saline Solution [Sodium Chloride 0.9 % w/v]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 638,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004870",
+      "display_name": "น้ำเกลือล้างแผล (วิทยาศรม) [Sodium Chloride 0.9 g./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 639,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001475",
+      "display_name": "Counterpain Cool กลาง [Menthol 4%]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 645,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001474",
+      "display_name": "Counterpain Cool เล็ก [Menthol 4%]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 646,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001476",
+      "display_name": "Counterpain Cool ใหญ่ [Menthol 4%]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 647,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001472",
+      "display_name": "Counterpain กลาง [Methyl Salicylate 10.2%+Eugenol 1.36%+Menthol 5.44%]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 648,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001471",
+      "display_name": "Counterpain เล็ก [Menthol 5.44%+Methyl Salicylate 10.2%+Eugenol 1.36%]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 649,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001473",
+      "display_name": "Counterpain ใหญ่ [Menthol 5.44%+Methyl Salicylate 10.2%+Eugenol 1.36%]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 650,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001924",
+      "display_name": "Flanil [Menthol 5.44 g.+Methyl Salicylate 10.20 g.+Eugenol 1.36 g./100 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 651,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002875",
+      "display_name": "Reparil Ice Spray [Butane+Pentane+Isobutane+Propane+Isopropyl alcohol+Menthol+Camphor]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 659,
+      "status": "pending"
+    },
+    {
+      "id": "BDS006059",
+      "display_name": "Candix Solution [Clotrimazole 1 g./100 ml.]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 667,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008451",
+      "display_name": "Funginox Solution [Ketoconazole 2%]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 675,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002648",
+      "display_name": "Mycoderm-C 1% [Clotrimazole BP 1% w/w]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 678,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004205",
+      "display_name": "Zema Lotion [Salicylic Acid 11.8%+Resorcinol 3.8%+Phenylic Acid 0.285%]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 681,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001057",
+      "display_name": "Aristocort 0.02% [Triamcinolone Acetonide 0.02%]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 683,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001058",
+      "display_name": "Aristocort 0.1% [Triamcinolone Acetonide 1 mg/1 g (0.1%)+Preservative (Benzyl alcohol 2.0%)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 684,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001216",
+      "display_name": "Betnovate Scalp [Betamethasone 17-Valerate 0.122 % w/w]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 688,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001660",
+      "display_name": "Dermovate Scalp [Clobetasol Propionate 0.05% w/w]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 697,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001803",
+      "display_name": "Elomet 0.1 % [Mometasone Furoate 1 mg/1 g (0.1%)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 701,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001807",
+      "display_name": "Elomet 0.1% [Mometasone Furoate 1 mg/1 g (0.1%)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 702,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001607",
+      "display_name": "Elomet Lotion [Mometasone Furoate 1 mg+Isopropyl Alcohol 400 mg/1 g]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 703,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001825",
+      "display_name": "Esperson [Desoximetasone 2.5 mg/1 g (0.25%)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 705,
+      "status": "pending"
+    },
+    {
+      "id": "BDS042807",
+      "display_name": "Esperson กลาง [Desoximetasone 2.5 mg/1 g (0.25%)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 706,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008756",
+      "display_name": "Tacinol 0.02 เล็ก [Triamcinolone Acetonide 0.02% w/w]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 710,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008757",
+      "display_name": "Tacinol 0.02 ใหญ่ [Triamcinolone Acetonide 0.02% w/w]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 711,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008758",
+      "display_name": "Tacinol 0.1 เล็ก [Triamcinolone Acetonide 0.1 % w/w]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 712,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008759",
+      "display_name": "Tacinol 0.1 ใหญ่ [Triamcinolone Acetonide 0.1 % w/w]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 713,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007775",
+      "display_name": "Zyno 0.02% [Triamcinolone Acetonide 0.02 g/100 g (0.02%)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 716,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007776",
+      "display_name": "Zyno 0.1% [Triamcinolone Acetonide 0.1 g/100 g (0.1%)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 717,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001491",
+      "display_name": "Canasone C.B. Cream [Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 718,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001417",
+      "display_name": "Canazol-Be Cream ใหญ่ [Clotrimazole 1 g+Betamethasone Dipropionate (eq. to Betamethasone 0.1 g)/100 g]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 719,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007517",
+      "display_name": "Clotribet-D Cream เล็ก [Clotrimazole 1 g+Betamethasone Dipropionate 0.064 g (eq. to Betamethasone 0.05 g)/100 g]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 720,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007516",
+      "display_name": "Clotribet-D Cream ใหญ่ [Clotrimazole 1 g+Betamethasone Dipropionate 0.064 g (eq. to Betamethasone 0.05 g)/100 g]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 721,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007736",
+      "display_name": "Fango-B Cream เล็ก [Clotrimazole 1 g+Betamethasone Valerate (eq. to Betamethasone 0.1 g)/100 g]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 722,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001956",
+      "display_name": "Fango-B Cream ใหญ่ [Clotrimazole 1 g+Betamethasone Valerate (eq. to Betamethasone 0.1 g)/100 g]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 723,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001932",
+      "display_name": "Fungiderm-B [Clotrimazole 1 g+Betamethasone Valerate (eq. to Betamethasone 0.1 g)/100 g]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain",
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 724,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002538",
+      "display_name": "Lymarin Cream ใหญ่ [Miconazole Nitrate 2%+Triamcinolone Acetonide 0.2% w/w]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 725,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002650",
+      "display_name": "Myda-B Cream เล็ก [Clotrimazole 1%+Betamethasone Valerate (eq. to Betamethasone 0.1%) w/w]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 726,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002651",
+      "display_name": "Myda-B Cream ใหญ่ [Clotrimazole 1%+Betamethasone Valerate (eq. to Betamethasone 0.1%) w/w]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 727,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008239",
+      "display_name": "Myrazole-B Cream [Clotrimazole 1%+Betamethasone Valerate (eq. to Betamethasone 0.1%) w/w]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 728,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008221",
+      "display_name": "Tara-Plus Cream [Miconazole Nitrate 2 g+Triamcinolone Acetonide 0.1 g/100 g]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 729,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002023",
+      "display_name": "Glycerin Suppositories For Adults [Glycerol (Glycerin) 91 g.+Sodium Stearate 9 g./100 g.]",
+      "reasons": [
+        "form_uncertain"
+      ],
+      "source_row": 730,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002032",
+      "display_name": "Glycerin Suppositories For Infants [Glycerol 91 g.+Sodium Stearate 9 g./100 g.]",
+      "reasons": [
+        "form_uncertain"
+      ],
+      "source_row": 731,
+      "status": "pending"
+    },
+    {
+      "id": "BDS006463",
+      "display_name": "Glymorin Children Suppositories [Glycerin 1365 mg.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 732,
+      "status": "pending"
+    },
+    {
+      "id": "BDS006743",
+      "display_name": "Glymorin Suppositories [Glycerin 2320 mg.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 733,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003906",
+      "display_name": "U-Enema [Sodium Chloride 15 g./100 ml]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 734,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003907",
+      "display_name": "Unison Enema เด็ก [Sodium Chloride 15 g./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 735,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003905",
+      "display_name": "Unison Enema ผู้ใหญ่ [Sodium Chloride 15 g./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 736,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001437",
+      "display_name": "ChlorOph Eye Drops [Chloramphenicol 5 mg./1 ml.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source",
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 737,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001515",
+      "display_name": "ChlorOph Eye Ointment [Chloramphenicol 10 mg./1 g.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 738,
+      "status": "pending"
+    },
+    {
+      "id": "BDS041410",
+      "display_name": "Cogetine Ointment [Chloramphenicol 1% (1 g./100 g.)]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 739,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001847",
+      "display_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source",
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 740,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003181",
+      "display_name": "Poly-Oph Eye Drops [Neomycin Sulfate (eq. to Neomycin 2 mg.)+Polymyxin B Sulfate (eq. to Polymyxin B 5,000 Units)+Gramicidin 0.025 mg./1 ml.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source",
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 741,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003721",
+      "display_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 742,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003861",
+      "display_name": "Tobrex Ophthalmic Solution [Tobramycin 3 mg.+Preservative (Benzalkonium Chloride 0.1 mg.)/1 ml.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 743,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001052",
+      "display_name": "Allergis [Antazoline HCl 0.5 mg+Tetrahydrozoline HCl 0.4 mg/1 ml]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 744,
+      "status": "pending"
+    },
+    {
+      "id": "BDS040035",
+      "display_name": "Antazallerge [Antazoline HCl 0.5 mg.+Tetrahydrozoline HCl 0.4 mg.+Preservative (Benzalkonium Cl 0.1mg.)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 745,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001401",
+      "display_name": "Cadexcin.N [Dexamethasone 21-(disodium phosphate) (eq. to Dexamethasone 21-phosphate 1 mg.)+Neomycin Sulfate (eq. to Neomycin base 3.5 mg.)/1 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 746,
+      "status": "pending"
+    },
+    {
+      "id": "BDS041404",
+      "display_name": "CD-Oph Eye Drops [Dexamethasone Sodium Phosphate 1 mg.+Chloramphenicol 5 mg.+Tetrahydrozoline HCl 0.25 mg./1 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 747,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001632",
+      "display_name": "DexOph Eye-Ear Drops [Dexamethasone Sodium Phosphate (eq. to Dexamethasone Phosphate 0.1 %)+Neomycin Sulfate 0.5% (eq. to Neomycin Base 0.35 %)/1 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 748,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001981",
+      "display_name": "Flarex [Fluorometholone Acetate 0.1 %+Monobasic Sodium Phosphate+Sodium Chloride+Edetate Disodium+Hydroxyethylcellulose+Tyloxapol+Hydrochloric Acid+Sodium Hydroxide+Preservative (Edetate Disodium+Benzalkonium Chloride 0.01%)/1 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 749,
+      "status": "pending"
+    },
+    {
+      "id": "BDS006181",
+      "display_name": "FML Ophthalmic Suspension [Fluorometholone 0.1 %+Polyvinyl Alcohol 14 mg.+Sodium Chloride+Sodium Phosphste Monobasic+Sodium Phosphate Dibasic+Polysorbate 80+Preservative (Edetate Disodium+Benzalkonium Chloride 0.04 mg.)/1 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 750,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002117",
+      "display_name": "Hista-Oph [Antazoline HCl 0.05 %+Tetrahydrozoline HCl 0.04%+Hydroxypropyl Methylcellulose+Preservative (Benzalkonium Chloride 0.015%)/1 ml.]",
+      "reasons": [
+        "form_uncertain"
+      ],
+      "source_row": 751,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002804",
+      "display_name": "Naphcon-A [Naphazoline HCl 0.025%+Pheniramine Maleate 0.3%+Preservative (Benzalkonium Chloride 0.01%)/1 ml]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 752,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003029",
+      "display_name": "Opsa-His [Antazoline HCl 0.5 mg+Tetrahydrozoline HCl 0.4 mg/1 ml]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 753,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003013",
+      "display_name": "Opsil-A [Antazoline HCl BP 0.05 %+Tetrahydrozoline HCl USP 0.04%+Preservative (Benzalkonium Cl 0.01%)/1 ml]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 754,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003862",
+      "display_name": "Tobradex Ophthalmic Suspension [Tobramycin 3 mg (0.3%)+Dexamethasone 1 mg (0.1%)+Tyloxapol+Sodium Chloride+Hydroxyethylcellulose+Sodium Sulfate+Sulfuric Acid+Sodium Hydroxide+Preservative (Edetate Disodium+Benzalkonium Chloride 0.01%)/1 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 757,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001552",
+      "display_name": "Cellufresh [Carboxymethylcellulose Sodium (CMC) 0.5%+Calcium Chloride+Magnesium Chloride+Potassium Chloride+Sodium Chloride+Sodium Lactate+Hydrochloric Acid+Sodium Hydroxide]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 758,
+      "status": "pending"
+    },
+    {
+      "id": "BDS041414",
+      "display_name": "Cellufresh MD [Carboxymethylcellulose Sodium (CMC) 0.5%+Boric acid+Calcium Chloride+Magnesium Chloride+Potassium Chloride+Sodium Borate+Sodium Chloride+Preservative (Stabilized Oxychloro Complex (Purite)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 759,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001554",
+      "display_name": "Cellufresh MD ใหญ่ [Carboxymethylcellulose Sodium (CMC) 0.5%+Boric acid+Calcium Chloride dihydrate+Magnesium Chloride+ Potassium Chloride+Sodium Borate+Sodium Chloride+Preservative (Stabilized Oxychloro complex (Purite)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 760,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001551",
+      "display_name": "Clens 100 Lens Drops [Citrate/Borate Buffer+Sodium Chloride+Edetate Disodium 0.05%+PEG-11 Lauryl ether Carboxylic acid+Tetronic t1304+Preservative (Edetate Disodium 0.05%+Polidronium Chloride 0.001%)]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 761,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002107",
+      "display_name": "Genteal Eye Drop [Hypromellose 3 mg. (0.3%)+Sodium Chloride+Boric Acid+Potassium Chloride+Hydrochloric Acid+Preservative (Sodium Perborate+Phosphonic Acid)]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 762,
+      "status": "pending"
+    },
+    {
+      "id": "BDS043800",
+      "display_name": "Hialid 0.1 Opthalmic Solution [Sodium Hyaluronate 0.1%+6-Aminocaproic Acid/1 ml.]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 764,
+      "status": "pending"
+    },
+    {
+      "id": "BDS043847",
+      "display_name": "Hyatear [Sodium Hyaluronate 0.18% (Sodium Hyaluronate 1.8 mg.+Sodium Chloride +Potassium Chloride +Trisodium citrate +Disodium Hydrogenphosphate +Sodium dihydrogen phosphate +Magnesium chloride hexahydrate +Calcium Chloride dihydrate)]",
+      "reasons": [
+        "form_uncertain"
+      ],
+      "source_row": 765,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002886",
+      "display_name": "Natear [Hydroxypropyl Methylcellulose USP 0.3%+Preservative (Sodium Perborate)]",
+      "reasons": [
+        "form_uncertain"
+      ],
+      "source_row": 766,
+      "status": "pending"
+    },
+    {
+      "id": "BDS045617",
+      "display_name": "Natear UD Lubricant Eye Drops [Hypromellose (Hydroxypropyl Methylcellulose) 0.3% w/v /0.8 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 767,
+      "status": "pending"
+    },
+    {
+      "id": "BDS046204",
+      "display_name": "OcuFreshs Tear Eye Drops [Hypromellose 3 mg. (0.3%)+Preservative (Benzalkonium Chloride 0.02%)/1 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 768,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003014",
+      "display_name": "Opsil Tears 0.3% [Hydroxypropyl Methylcellulose USP 0.3%+Preservative (Benzalkonium Chloride)]",
+      "reasons": [
+        "form_uncertain"
+      ],
+      "source_row": 769,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003102",
+      "display_name": "Opti-Free Rewetting Drops [Citrate buffer+Sodium chloride+Preservative (Edetate Disodium 0.05%+Polyquaternium-1 0.001%)]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 770,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001204",
+      "display_name": "Renu Multiplus Lubricating & Rewetting Drops [Povidone+Boric acid+Potassium chloride+Sodium chloride+ Sodium borate+Edetate disodium+Sorbic acid+Preservative (Edetate disodium 0.1%+Sorbic acid 0.1%)]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 771,
+      "status": "pending"
+    },
+    {
+      "id": "BDS047663",
+      "display_name": "Seeview Sofs [Hypromellose 3 mg/1 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 772,
+      "status": "pending"
+    },
+    {
+      "id": "BDS047647",
+      "display_name": "Sof Tear Eye Drops [Hypromellose USP 3 mg. (0.3% w/v USP)+Preservative (Sodium Perborate 0.28 mg.)/1 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 773,
+      "status": "pending"
+    },
+    {
+      "id": "BDS047637",
+      "display_name": "Systane Ultra (UD) Lubricant Eye Drops [Polyethylene Glycol 400 0.4%+Propylene Glycol 0.3%+Aminomethylpropanol+Boric Acid+Hydroxypropyl Guar+Potassium Chloride+Sodium Chloride+Sorbitol+Hydrochloric Acid+Sodium Hydroxide/1 ml.]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 774,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003679",
+      "display_name": "Systane Ultra Lubricant Eye Drops [Polyethylene Glycol 400 0.4%+Propylene Glycol 0.3%+Aminomethylpropanol+//Boric Acid+Hydroxypropyl guar+Potassium Chloride+Sodium Chloride+Sorbitol+Hydrochloric Acid+Sodium Hydroxide+Preservative (Polyquaternium-1 0.001%)]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 775,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003765",
+      "display_name": "Tear Mac Eye Drops [Carboxymethyl Cellulose Sodium (CMC) 0.5%w/v+Preservative (Stabilised Oxychloro Complex 0.005% w/v)]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 776,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003709",
+      "display_name": "Tear Natural [Dextran 70 0.1%+Hydroxypropyl Methylcellulose 2910 0.3%+Borax+Potassium Chloride+Sodium Chloride+Hydrochloric acid+Preservative (Polyquaternium-1 0.0011%)/1 ml.]",
+      "reasons": [
+        "form_uncertain"
+      ],
+      "source_row": 777,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003714",
+      "display_name": "Tears Naturale Free [Dextran 70 0.1%+Hydroxypropyl Methylcellulose 2910 0.3%]",
+      "reasons": [
+        "form_uncertain"
+      ],
+      "source_row": 778,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004035",
+      "display_name": "Vislube [Sodium Hyaluronate 0.18% (Sodium Hyaluronate 1.8 mg.+Sodium Chloride 2.8 mg.+Potassium Chloride 1 mg.+Disodium Hydrogenphosphate 3.2 mg.+Sodium Citrate 0.3 mg.+Magnesium Chloride 0.09 mg.+Calcium Chloride 0.09 mg.)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 779,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002003",
+      "display_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 780,
+      "status": "pending"
+    },
+    {
+      "id": "BDS047636",
+      "display_name": "Silverzine Cream [Micronized Silver Sulfadiazine 1%]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 781,
+      "status": "pending"
+    },
+    {
+      "id": "BDS046208",
+      "display_name": "Op-Ize Eye Wash [Boric Acid 2.0 g.+Sodium Borate 0.5 g.+Zinc Sulphate 0.004 g./100 ml.]",
+      "reasons": [
+        "form_uncertain"
+      ],
+      "source_row": 782,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003009",
+      "display_name": "Opsar กลาง [Sodium Borate 0.02 g.+Boric Acid 1.24 g.+Sodium Chloride+ 0.29 g.+Benzalkonium Chloride 2 mg./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 783,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003025",
+      "display_name": "Opsar เล็ก [Sodium Borate 0.02 g.+Boric Acid 1.24 g.+Sodium Chloride+ 0.29 g.+Benzalkonium Chloride 2 mg./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 784,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003016",
+      "display_name": "Optrex เล็ก [Distilled Witch Hazel 13.0% v/v+Benzalkonium Chloride 0.005% w/v+Borax+Boric Acid/100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 785,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007001",
+      "display_name": "Acevax Cream [Acyclovir 5 g./100 g.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 786,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007719",
+      "display_name": "Clinovir Cream [Acyclovir 5%w/w]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 787,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004046",
+      "display_name": "Vilerm Cream 5 g [Acyclovir 5 g./100 g.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 788,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004020",
+      "display_name": "Vilerm Cream sachet 1 g [Acyclovir 5 g./100 g.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 789,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004216",
+      "display_name": "Zevin Cream [Acyclovir 5 g./100 g.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 790,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001238",
+      "display_name": "Betadine Solution 15 ml [Povidone-Iodine USP 10 % w/v]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 797,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001239",
+      "display_name": "Betadine Solution 30 ml [Povidone-Iodine USP 10% w/v]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 798,
+      "status": "pending"
+    },
+    {
+      "id": "BDS044520",
+      "display_name": "LeoPovidone [Povidone-Iodine 10% w/v]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 799,
+      "status": "pending"
+    },
+    {
+      "id": "BDS044106",
+      "display_name": "Povidone-Iodine [Povidone-Iodine 10% w/v]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 800,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001470",
+      "display_name": "Counterpain Plus [Piroxicam 0.5%+Methyl salicylate 10.2%+Menthol 5.43%+Eugenol 1.37%]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 801,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001806",
+      "display_name": "Elmetacin พ่นแก้ปวด [Indomethacin 8 mg./0.8 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 804,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002684",
+      "display_name": "M-Cin [Indomethacin 8 mg./1 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 808,
+      "status": "pending"
+    },
+    {
+      "id": "BDS045623",
+      "display_name": "Neotica Cool [Piroxicam 5 mg./1 g.]",
+      "reasons": [
+        "form_uncertain"
+      ],
+      "source_row": 811,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003914",
+      "display_name": "Uniren Spray [Diclofenac Sodium 1 % w/w]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 817,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004043",
+      "display_name": "Voltaren Emulgel กลาง [Diclofenac Sodium 1 g./100 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 818,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004042",
+      "display_name": "Voltaren Emulgel เล็ก [Diclofenac Sodium 1 g./100 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 819,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004044",
+      "display_name": "Voltaren Emulgel ใหญ่ [Diclofenac Sodium 1 g./100 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 820,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007549",
+      "display_name": "Kenalone Oral Paste 5 g [Triamcinolone Acetonide 0.1%]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 822,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003751",
+      "display_name": "Trinolone Oral Paste 5 g [Triamcinolone Acetonide 0.1%]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 824,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007547",
+      "display_name": "Kanolone Lotion 30 ml [Triamcinolone Acetonide 0.1 g/100 ml (0.1% w/v)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 826,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007551",
+      "display_name": "Kanolone Lotion 60 ml [Triamcinolone Acetonide 0.1 g/100 ml (0.1% w/v)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 827,
+      "status": "pending"
+    },
+    {
+      "id": "BDS048630",
+      "display_name": "TA 0.1% Lotion [Triamcinolone Acetonide 0.1 g/100 g (0.1 % w/w)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 828,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003799",
+      "display_name": "Tram Lotion [Triamcinolone Acetonide 0.1 % w/v]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 829,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003753",
+      "display_name": "Poro Suppository [Paracetamol 125 mg.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 831,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002801",
+      "display_name": "Mebo [Beta-sitosterol 0.25%]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 833,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001605",
+      "display_name": "Doproct Suppository [Hydrocortisone Acetate 7.5 mg+Zinc Oxide 250 mg+Benzocaine 40 mg/1 Suppository]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 841,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003162",
+      "display_name": "Proctosedyl Suppositories [Hydrocortisone Micronized 5 mg+Cinchocaine HCl 5 mg/1 Suppository]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 843,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001712",
+      "display_name": "Dewax Ear Drops [Docusate Sodium 0.5% w/v (5 mg./1 ml.)]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 844,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001468",
+      "display_name": "Con Con [Salicylic Acid 25 g.+Liquified Phenol 1.5 ml./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 845,
+      "status": "pending"
+    },
+    {
+      "id": "BDS047738",
+      "display_name": "SOS Plus Corn Plaster Removal [Salicylic acid 40 g (40%w/w)+Titanium dioxide+Liquid paraffin+Polyvinyl alkyl ethers+อื่นๆ]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 846,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001023",
+      "display_name": "Alcohol Alsoff กลาง [Ethyl Alcohol Solution 70% v/v]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 847,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001018",
+      "display_name": "Alcohol Alsoff ใหญ่ [Ethyl Alcohol Solution 70% v/v]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 848,
+      "status": "pending"
+    },
+    {
+      "id": "BDS040609",
+      "display_name": "Betadine Gargle [Povidone-Iodine 70 mg./1 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 851,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001407",
+      "display_name": "C-20 Blue Sally [Chlorhexidine Gluconate 0.12 g./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 852,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001406",
+      "display_name": "C-20 Original เล็ก [Chlorhexidine Gluconate 0.12 g./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 853,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001409",
+      "display_name": "C-20 Original ใหญ่ [Chlorhexidine Gluconate 0.12 g./100 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 854,
+      "status": "pending"
+    },
+    {
+      "id": "BDS046547",
+      "display_name": "Puvadon Gargle [Povidone-Iodine 70 mg eq. to Iodine 7 mg/1 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 855,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001462",
+      "display_name": "Cravit Ophthalmic Solution [Levofloxacin 0.5%/1 ml.]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 856,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001606",
+      "display_name": "Grafadex [Gentamicin 0.3 %w/v+Preservative (Benzalkonium Chloride)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain",
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 857,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004018",
+      "display_name": "Vigamox [Moxifloxacin Hydrochloride 5.45 mg. (eq. to Moxifloxacin 5 mg.)+Boric Acid+Sodium Chloride+Hydrochloric Acid+Sodium Hydroxide/1 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain",
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 858,
+      "status": "pending"
+    },
+    {
+      "id": "BDS008031",
+      "display_name": "Cabana Lotion [Diphenhydramine HCl 10 mg.+Calamine 100 mg.+Zinc Oxide 30 mg./1 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 862,
+      "status": "pending"
+    },
+    {
+      "id": "BDS042303",
+      "display_name": "Docusate Earwax [Docusate Sodium 5 mg./1 ml.]",
+      "reasons": [
+        "form_uncertain"
+      ],
+      "source_row": 869,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001102",
+      "display_name": "Aldara [Imiquimod 5% w/w]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 870,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001236",
+      "display_name": "Betagram ใหญ่ [Betamethasone Valerate (eq. to Betamethasone 0.1%)+Gentamicin Sulfate (eq. to Gentamicin 0.1%)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain",
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 871,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007505",
+      "display_name": "Betatone-N Cream เล็ก [Betamethasone Valerate (eq. to Betamethasone 1 mg)+Neomycin Sulphate 5 mg (eq. to Neomycin 3 mg)/1 g]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 872,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007506",
+      "display_name": "Betatone-N Cream ใหญ่ [Betamethasone Valerate (eq. to Betamethasone 1 mg)+Neomycin Sulphate 5 mg (eq. to Neomycin 3 mg)/1 g]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 873,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001250",
+      "display_name": "Betnovate-N Cream ใหญ่ [Betamethasone 17-Valerate 0.1% w/w + Neomycin Sulphate 0.5% w/w]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 874,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001908",
+      "display_name": "Fucicort Cream [Fusidic acid 20 mg+Betamethasone Valerate (eq. to Betamethasone 1 mg)+Preservative (Chlorocresol)/1 g]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 875,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001910",
+      "display_name": "Fucidin H Cream [Fusidic acid 20 mg+Hydrocortisone Acetate 10 mg+อื่นๆ/1 g]",
+      "reasons": [
+        "antibiotic_requires_indication_duration_source"
+      ],
+      "source_row": 876,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002806",
+      "display_name": "Nappy-Hippo [Zinc Oxide 7.5 g./100 g.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 885,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001009",
+      "display_name": "Avamys [Fluticasone furoate 27.5 mcg/spray+Preservative (Benzalkonium Chloride)+อื่นๆ]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 886,
+      "status": "pending"
+    },
+    {
+      "id": "BDS040624",
+      "display_name": "Busonase [budesonide 1.28 mg/1 ml (64 mcg/dose)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 887,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002874",
+      "display_name": "Nasacort AQ Spray Suspension [Triamcinolone Acetonide 9.075 mg/16.5 g (55 mcg/dose)+Preservative (Benzalkonium Chloride)+อื่นๆ]",
+      "reasons": [
+        "pediatric_candidate_requires_verified_weight_age_rule"
+      ],
+      "source_row": 888,
+      "status": "pending"
+    },
+    {
+      "id": "BDS045641",
+      "display_name": "Nasol Nebuliser [Naphazoline HCl 1 mg+Chlorpheniramine Maleate 2.5 mg/1 ml]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 889,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002807",
+      "display_name": "Nasonex 140 doses [Mometasone Furoate Monohydrate (eq. to Mometasone Furoate 50 mcg/dose)+Preservative (Benzalkonium Chloride 0.2 mg/g)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 890,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002805",
+      "display_name": "Nasonex 60 doses [Mometasone Furoate Monohydrate (eq. to Mometasone Furoate 50 mcg/dose)+Preservative (Benzalkonium Chloride 0.2 mg/g)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 891,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003432",
+      "display_name": "Rhinocort Aqua [Budesonide 1.28 mg/1 ml (64 mcg/dose)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 892,
+      "status": "pending"
+    },
+    {
+      "id": "BDS040080",
+      "display_name": "Actavia [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 893,
+      "status": "pending"
+    },
+    {
+      "id": "BDS043102",
+      "display_name": "Feenoze [Oxymetazoline Hydrochloride 0.05% (0.5 mg./1 ml.).]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 894,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002228",
+      "display_name": "Iliadin 0.025% ชนิดหยด [Oxymetazoline Hydrochloride 0.025% (0.25 mg./1 ml.)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 895,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002209",
+      "display_name": "Iliadin 0.05% ชนิดหยด [Oxymetazoline Hydrochloride 0.05% (0.5 mg./1 ml.)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 896,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002215",
+      "display_name": "Iliadin Spray [Oxymetazoline Hydrochloride 0.05% (0.5 mg./1 ml.)]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 897,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002605",
+      "display_name": "Mar Plus 5% Nasal Spray [Dexpanthenol 50 mg.+Sodium Chloride 9 mg./1 ml.]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 898,
+      "status": "pending"
+    },
+    {
+      "id": "BDS007191",
+      "display_name": "Metzodin [Oxymetazoline Hydrochloride 0.05% (0.05 g./100 ml.)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 899,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002813",
+      "display_name": "Nasaline-ISO [Dexpanthenol 10 mg.+Sodium Chloride 9 mg./1 ml.]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 900,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003019",
+      "display_name": "Otrivin 0.1% [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 901,
+      "status": "pending"
+    },
+    {
+      "id": "BDS003105",
+      "display_name": "Otrivin Child Spray 0.05% [Xylometazoline Hydrochloride 0.05% (0.5 mg./1 ml.)]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 902,
+      "status": "pending"
+    },
+    {
+      "id": "BDS040610",
+      "display_name": "Betadine Throat Spray 12 ml [Povidone-Iodine 4.5 mg./1 ml.]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 903,
+      "status": "pending"
+    },
+    {
+      "id": "BDS040617",
+      "display_name": "Betadine Throat Spray 25 ml [Povidone-Iodine 4.5 mg./1 ml.]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 904,
+      "status": "pending"
+    },
+    {
+      "id": "BDS002411",
+      "display_name": "Kamillosan-M Spray [ดอกหญ้าหอม+เพเพอร์มิ้นต์+เซจ ออยล์+เทียนสัตบุษย์+ไพน์ นีดเดิล ออยล์+เบอร์กามอต ออยล์+ยูคาลิปทอล]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 905,
+      "status": "pending"
+    },
+    {
+      "id": "BDS068420",
+      "display_name": "สเปรย์แก้ไอตราตะขาบ 5 ตัว [โง้วปวยจี้+ชะเอมเทศ+รากบัวหลวง+เฮ้งยิ้ง+เง็กเต็ก+แบะตงและอื่นๆ]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 906,
+      "status": "pending"
+    },
+    {
+      "id": "BDS040000",
+      "display_name": "Aerobidol Inhaler [Ipratropium Bromide Monohydrate (eq. to Ipratropium Bromide Anhydrous 20 ug.+Fenoterol Hydrobromide 50 ug./dose]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 907,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001033",
+      "display_name": "Aerotamol 100 mcg [Salbutamol Sulphate (eq. to Salbutamol 100 mcg./dose)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 908,
+      "status": "pending"
+    },
+    {
+      "id": "BDS001235",
+      "display_name": "Berodual Metered Doses [Ipratropium Bromide Monohydrate 21 mcg. (eq. to Ipratropium Bromide Anhydrous 20 ug.+Fenoterol Hydrobromide 50 mcg./dose]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 909,
+      "status": "pending"
+    },
+    {
+      "id": "BDS004009",
+      "display_name": "Ventolin Evohaler [Salbutamol Sulphate (eq. to Salbutamol 100 mcg./dose)]",
+      "reasons": [
+        "route_uncertain",
+        "form_uncertain"
+      ],
+      "source_row": 910,
+      "status": "pending"
+    },
+    {
+      "id": "BDS006462",
+      "display_name": "Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.]",
+      "reasons": [
+        "route_uncertain"
+      ],
+      "source_row": 911,
+      "status": "pending"
+    }
+  ]
+}
