@@ -5,6 +5,7 @@ from __future__ import annotations
 from collections import defaultdict
 
 from engine_common import ensure_dirs, now_iso, read_json, stable_id, write_json, write_report
+from source_workflow import REVIEWED_GAP_STORE, REVIEWED_SOURCE_STORE, merge_reviewed_gaps, merge_reviewed_sources
 
 COMMON_OPD_PATTERNS = [
     "allergic_rhinitis",
@@ -196,6 +197,10 @@ def build() -> dict[str, object]:
     }
     for path, payload in outputs.items():
         write_json(path, payload)
+    if read_json(REVIEWED_SOURCE_STORE, {"sources": []}).get("sources"):
+        merge_reviewed_sources()
+    if read_json(REVIEWED_GAP_STORE, {"items": []}).get("items"):
+        merge_reviewed_gaps()
 
     write_report(
         "reports/guideline_integration_report.md",
