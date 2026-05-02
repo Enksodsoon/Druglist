@@ -29,14 +29,15 @@ jobs:
 
       - name: Build or validate frontend artifact
         run: |
-          if [ -d source_workbooks ] && find source_workbooks -name '*.xlsx' -print -quit | grep -q .; then
+          PRIMARY_WORKBOOK="source_workbooks/Drug list for physician usage added -update 29022024.xlsx"
+          if [ -f "$PRIMARY_WORKBOOK" ]; then
             python3 scripts/build_all.py
             python3 scripts/validate_engine.py
             python3 scripts/build_dist.py
           elif [ -d dist ]; then
             python3 scripts/build_dist.py --validate-only
           else
-            echo "No source_workbooks in CI and no committed dist/ artifact found."
+            echo "Primary workbook is absent in CI and no committed dist/ artifact was found."
             exit 1
           fi
 
