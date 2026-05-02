@@ -1,0 +1,5697 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:28:54Z",
+    "status": "unlinked_pending_source_extraction"
+  },
+  "items": [
+    {
+      "product_id": "BDS040078",
+      "display_name": "A.M.Mox 500 [Amoxicillin 500 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001103",
+      "display_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001035",
+      "display_name": "Amoksiklav 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040017",
+      "display_name": "Augmentin 1 g. [Amoxicillin Trihydrate (eq. to Amoxicillin 875 mg.)+Clavulanic Potassium (eq. to Clavulanic Acid 125 mg.)]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001494",
+      "display_name": "Azithro 250 mg [Azithromycin 250 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006115",
+      "display_name": "Azycin 250 mg (GPO) [Azithromycin 250 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007066",
+      "display_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001545",
+      "display_name": "Cavumox 1 g [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007784",
+      "display_name": "Cephalex-500 [Cephalexin 500 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001452",
+      "display_name": "Clarith 500 [Clarithromycin 500 mg.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008652",
+      "display_name": "Dicloxilin-500 [Dicloxacillin 500 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008702",
+      "display_name": "Dicloxman-500 [Dicloxacillin 500 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001943",
+      "display_name": "Floctil 250 [Azithromycin 250 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002201",
+      "display_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002447",
+      "display_name": "Klacid MR 500 mg [Clarithromycin 500 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002692",
+      "display_name": "Meiact tabslet [Cefditoren 100 mg.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003078",
+      "display_name": "Omnicef 100 mg [Cefdinir 100 mg.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008121",
+      "display_name": "Rintacin [Erythromycin stearate 250 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003423",
+      "display_name": "Rothricin 150 mg [Roxithromycin 150 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007976",
+      "display_name": "Roxitop 300 [Roxithromycin 300 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003428",
+      "display_name": "Rulid 150 mg [Roxithromycin 150 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007007",
+      "display_name": "Uramox 500 [Amoxicillin 500 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS049776",
+      "display_name": "Zithromax tabslet 250 mg [Azithromycin 250 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040614",
+      "display_name": "Bakamol 500 mg bottle 100s [Paracetamol 500 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007047",
+      "display_name": "Cemol 500 mg bottle 100s ฟ้า-ขาว [Paracetamol 500 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007041",
+      "display_name": "Cemol 500 mg bottle 100s เม็ดกลม [Paracetamol 500 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS046505",
+      "display_name": "Panadol Actifast [Paracetamol 500 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003109",
+      "display_name": "Para Cap bottle 100s [Paracetamol 500 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003595",
+      "display_name": "Sara เม็ดรี กระปุก 100s [Paracetamol 500 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003764",
+      "display_name": "Tylenol 500 mg bottle 100s [Paracetamol 500 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003748",
+      "display_name": "Tylenol 8 Hour [Paracetamol 650 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001010",
+      "display_name": "Aerius tabslet [Desloratadine 5 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040029",
+      "display_name": "Alerest [Cetirizine dihydrochloride 10 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040033",
+      "display_name": "Allernix [Loratadine 10 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040028",
+      "display_name": "Allora 5 mg [Desloratadine 5 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041454",
+      "display_name": "Carinose [Micronized Loratadine 10 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041510",
+      "display_name": "Clarid [Loratadine (Micronized) 10 mg]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041499",
+      "display_name": "Clarityne [Micronized loratadine 10 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001978",
+      "display_name": "Fenafex 180 mg [Fexofenadine HCl 180 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001953",
+      "display_name": "Fenafex 60 mg [Fexofenadine HCl 60 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007975",
+      "display_name": "Fexotine [Fexofenadine HCl 60 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007145",
+      "display_name": "Histatabs [Chlorpheniramine Maleate 4 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS044553",
+      "display_name": "Levocet [Levocetirizine dihydrochloride 5 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006046",
+      "display_name": "Loreze [Loratadine 10 mg.]",
+      "role_tags": [
+        "allergy",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003562",
+      "display_name": "Sulidine CP [Chlorpheniramine maleate 4.0 mg.+Phenylephrine hydrochloride 10.0 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003747",
+      "display_name": "Telfast 180 mg [Fexofenadine HCl 180 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003769",
+      "display_name": "Telfast 60 mg [Fexofenadine HCl 60 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS049255",
+      "display_name": "Vifas 180 mg. [Fexofenadine HCl 180 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS049254",
+      "display_name": "Vifas 60 mg. [Fexofenadine HCl 60 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004130",
+      "display_name": "Xyzal 5 mg [Levocetirizine dihydrochloride 5 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004224",
+      "display_name": "Zensil [Cetirizine dihydrochloride 10 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS049778",
+      "display_name": "Zirin [Cetirizine dihydrochloride 10 mg.]",
+      "role_tags": [
+        "allergy",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004213",
+      "display_name": "Zyrtec [Cetirizine dihydrochloride 10 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008754",
+      "display_name": "Zytizine F/C tabslet [Cetirizine dihydrochloride 10 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001008",
+      "display_name": "Chlophe [Chlorpheniramine Maleate 2 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041504",
+      "display_name": "Chlorpheniramine 2 mg. [Chlorpheniramine Maleate 2 mg.]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001255",
+      "display_name": "Bisolvon [Bromhexine HCl 8 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008141",
+      "display_name": "Bocytin Capsule [Carbocysteine 375 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001531",
+      "display_name": "Cystaline [Acetylcysteine 600 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS043123",
+      "display_name": "Facil 100 [Acetylcysteine 100 mg./5 g.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS043124",
+      "display_name": "Facil 200 [Acetylcysteine 200 mg./3 g.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001937",
+      "display_name": "Flemex Foil [Carbocysteine 375 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS043121",
+      "display_name": "Flemex-AC OD [Acetylcysteine 600 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001936",
+      "display_name": "Fluimucil A 200 mg [Acetylcysteine 200 mg./3 g.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001909",
+      "display_name": "Fluimucil A 600 mg [Acetylcysteine 600 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002574",
+      "display_name": "Muclear tabslet [Acetylcysteine 600 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002655",
+      "display_name": "Mucolid [Ambroxol HCl 30 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002640",
+      "display_name": "Mucolid SF 600 [Acetylcysteine 600 mg./7 g.]",
+      "role_tags": [
+        "cough_cold",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008135",
+      "display_name": "Muco-Sea 200 [Acetylcysteine 200 mg./3 g.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002643",
+      "display_name": "Mucosolvan [Ambroxol HCl 30 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002639",
+      "display_name": "Mucosolvan PL [Ambroxol HCl 75 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002901",
+      "display_name": "Nac Long [Acetylcysteine 600 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003694",
+      "display_name": "Solmax [Carbocysteine 500 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002697",
+      "display_name": "Mucilin Orange Flavour [Ispaghula Husk 49.0 g./100 g.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002699",
+      "display_name": "Mucilin Orange SF [Ispaghula Husk 3.5 g./5 g.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001466",
+      "display_name": "Controloc 40 mg [Pantoprazole 40 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002898",
+      "display_name": "Nexium 20 mg [Esomeprazole 20 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002903",
+      "display_name": "Nexium 40 mg [Esomeprazole 40 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS045613",
+      "display_name": "Nycacid [Omeprazole 20 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003138",
+      "display_name": "Pariet 20 mg [Rabeprazole 20 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003110",
+      "display_name": "Prevacid FDT 30 [Lansoprazole 30 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002844",
+      "display_name": "Nuelin SR [Theophylline 200 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS044921",
+      "display_name": "Mirax-M [Domperidone 10 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002636",
+      "display_name": "Motilium-M [Domperidone 10 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS046502",
+      "display_name": "Patilum [Domperidone 10 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006054",
+      "display_name": "Gogaz [Simethicone 200 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS047683",
+      "display_name": "Soda Mint [Sodium bicarbonate 300 mg+Peppermint Oil 0.003 ml]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040602",
+      "display_name": "Biozole 150 mg [Fluconazole 150 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003653",
+      "display_name": "Spornar [Itraconazole 100 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003912",
+      "display_name": "Dacin-F 300 [Clindamycin 300 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007723",
+      "display_name": "Doxylcap [Doxycycline Hyclate (eq. to Doxycycline 100 mg.)]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS044901",
+      "display_name": "Metrolex 400 mg [Metronidazole 400 mg.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007193",
+      "display_name": "Metronidazole 400 [Metronidazole 400 mg.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007911",
+      "display_name": "Dibendryl [Diphenhydramine 25 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002211",
+      "display_name": "Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001046",
+      "display_name": "AMK 228 [Amoxicillin 200 mg.+Clavulanic Acid 28 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001047",
+      "display_name": "AMK 457 [Amoxicillin 400 mg.+Clavulanic Acid 57 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001056",
+      "display_name": "Augmentin 457 mg [Amoxicillin 400 mg.+Clavulanic Acid 57 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001054",
+      "display_name": "Augmentin ES [Amoxicillin 600 mg.+Clavulanic Acid 42.9 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001084",
+      "display_name": "Azith Oral Suspension [Azithromycin 200 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001441",
+      "display_name": "Cefspan Suspension [Cefixime 100 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002206",
+      "display_name": "Ibilex Syrup [Cephalexin 125 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002693",
+      "display_name": "Meiact Fine Granules [Cefditoren 50 mg.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007586",
+      "display_name": "Newtamox For Oral Suspension [Amoxicillin 125 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007589",
+      "display_name": "Newthrocin [Erythromycin 125 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS046209",
+      "display_name": "Onzet Oral Suspension [Azithromycin 200 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003549",
+      "display_name": "Sia-Mox Syrup 125 mg [Amoxicillin 125 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003550",
+      "display_name": "Sia-Mox Syrup 250 mg [Amoxicillin 250 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007682",
+      "display_name": "Xalin Dry Syrup 125 mg [Cloxacillin 125 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004225",
+      "display_name": "Zithromax Dry 200 mg [Azithromycin 200 mg./5 ml.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008609",
+      "display_name": "Ampol Suspension [Paracetamol 120 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002407",
+      "display_name": "Kit-F Drops [Paracetamol 60 mg./0.6 ml.]",
+      "role_tags": [
+        "pain_fever",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007583",
+      "display_name": "Newtamol Syrup [Paracetamol 150 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002861",
+      "display_name": "Panadol Orange Suspension [Paracetamol 250 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002847",
+      "display_name": "Panadol Strawberry Suspension [Paracetamol 120 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008137",
+      "display_name": "Poro Suspension [Paracetamol 250 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003597",
+      "display_name": "Sara Infant Drops (รสองุ่น) [Paracetamol 60 mg./0.6 ml.]",
+      "role_tags": [
+        "pain_fever",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003596",
+      "display_name": "Sara น้ำรสสตรอเบอร์รี่ [Paracetamol 120 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003504",
+      "display_name": "Sara น้ำรสส้ม [Paracetamol 250 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003600",
+      "display_name": "Sara น้ำรสองุ่น [Paracetamol 160 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003711",
+      "display_name": "Tempra Drop [Paracetamol 80 mg./0.8 ml.]",
+      "role_tags": [
+        "pain_fever",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003712",
+      "display_name": "Tempra Forte [Paracetamol 250 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS048670",
+      "display_name": "Tempra Kids Orange [Paracetamol 120 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003713",
+      "display_name": "Tempra Kids Strawberry [Paracetamol 120 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003737",
+      "display_name": "Tylenol Drop [Paracetamol 80 mg./0.8 ml.]",
+      "role_tags": [
+        "pain_fever",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003763",
+      "display_name": "Tylenol Suspension [Paracetamol 160 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001015",
+      "display_name": "Aerius Syrup [Desloratadine 0.5 mg./1 ml.]",
+      "role_tags": [
+        "allergy",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007003",
+      "display_name": "Asiatapp Infant Drops (ควบคุมจำนวน) [Brompheniramine Maleate 2.0 mg.+Phenylephrine HCl 2.5 mg./1 ml.]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008047",
+      "display_name": "Asiatapp Syrup (ควบคุมจำนวน) [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg./5 ml.]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008033",
+      "display_name": "Chlophen Syrup (ควบคุมจำนวน) [Chlorpheniramine Maleate 2 mg./5 ml.]",
+      "role_tags": [
+        "allergy",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007038",
+      "display_name": "Cistamine Syrup [Cetirizine 2HCl 5 mg./5 ml.]",
+      "role_tags": [
+        "allergy",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS044519",
+      "display_name": "Lorius Syrup [Desloratadine 0.5 mg./1 ml.]",
+      "role_tags": [
+        "allergy",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007271",
+      "display_name": "Sea Chlor Syrup (ควบคุมจำนวน) [Chlorpheniramine Maleate 2 mg./5 ml.]",
+      "role_tags": [
+        "allergy",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003573",
+      "display_name": "Sulidine CP Plus (ควบคุมจำนวน) [Acetaminophen 120 mg+Chlorpheniramine maleate 1 mg+Phenylephrine HCl 5 mg/5 ml]",
+      "role_tags": [
+        "allergy"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008301",
+      "display_name": "Trandrozine Syrup (ควบคุมจำนวน) [Hydroxyzine HCl 10 mg./5 ml.]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008086",
+      "display_name": "Zermed Syrup [Cetirizine 2HCl 5 mg./5 ml.]",
+      "role_tags": [
+        "allergy",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004212",
+      "display_name": "Zyrtec Syrup [Cetirizine 2HCI 1 mg./1 ml.]",
+      "role_tags": [
+        "allergy",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006036",
+      "display_name": "Icorin Kids Syrup [Butamirate Citrate 4 mg/5 ml]",
+      "role_tags": [
+        "cough_cold",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002290",
+      "display_name": "Ivorin Syrup [Levodropropizine 30 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001257",
+      "display_name": "Bisolvon EX Syrup เล็ก [Bromhexine HCl 4 mg.+K guaiacolsulphonate 100 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001296",
+      "display_name": "Bisolvon EX Syrup ใหญ่ [Bromhexine HCl 4 mg.+K guaiacolsulphonate 100 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001253",
+      "display_name": "Bisolvon Pediatric Syrup [Bromhexine HCl 4 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007033",
+      "display_name": "Bocytin Syrup [Carbocysteine 250 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041506",
+      "display_name": "Carboflex Syrup [Carbocysteine 250 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001495",
+      "display_name": "Cisteine [Carbocysteine 100 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001919",
+      "display_name": "Flemex Kids [Carbocysteine 100 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001920",
+      "display_name": "Flemex Syrup [Carbocysteine 250 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007742",
+      "display_name": "Mucobrox [Ambroxol HCl 30 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002659",
+      "display_name": "Mucoflux Syrup [Cyclidrol 80 mg./10 ml.]",
+      "role_tags": [
+        "cough_cold",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002691",
+      "display_name": "Mucolid Junior บลูเบอร์รี่ [Ambroxol HCl 15 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002654",
+      "display_name": "Mucolid Syrup [Ambroxol HCl 30 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003697",
+      "display_name": "Solmax Forte Suspension [Carbocysteine 500 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003782",
+      "display_name": "Solmax Kids Suspension [Carbocysteine 200 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041402",
+      "display_name": "Cataflam 50 mg [Diclofenac Potassium 50 mg]",
+      "role_tags": [
+        "eye",
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007035",
+      "display_name": "Catanac 50 mg [Diclofenac Potassium 50 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001822",
+      "display_name": "Dosanac 25 [Diclofenac Sodium 25 mg.]",
+      "role_tags": [
+        "eye",
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001824",
+      "display_name": "Dosanac 50 [Diclofenac Sodium 50 mg.]",
+      "role_tags": [
+        "eye",
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS045624",
+      "display_name": "Naprofazt [Naproxen (as Naproxen Sodium) 250 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007214",
+      "display_name": "Naproflex [Naproxen sodium 275 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007576",
+      "display_name": "Naprosian [Naproxen 250 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS047654",
+      "display_name": "Soproxen [Naproxen sodium 275 mg. (eq. to Naproxen 250 mg.)]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003581",
+      "display_name": "S-Pro 600 [Ibuprofen 600 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003599",
+      "display_name": "Subsyde-CR [Diclofenac Sodium 100 mg. (Controlled Release cap)]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003568",
+      "display_name": "Synflex [Naproxen sodium 275 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS049251",
+      "display_name": "Voltaren SR 100 mg [Diclofenac Sodium 100 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004052",
+      "display_name": "Voltaren SR 75 mg [Diclofenac Sodium 75 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004041",
+      "display_name": "Voltaren-25 [Diclofenac Sodium 25 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS049777",
+      "display_name": "Zobrex [Celecoxib 200 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001231",
+      "display_name": "Benda Syrup กลิ่นผลไม้รวม [Mebendazole 100 mg./5 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS049775",
+      "display_name": "Zenzera-200 Suspension [Albendazole 200 mg./5 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007973",
+      "display_name": "Fartussin (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.+Glyceryl Guaiacolate 100 mg.+Terpin Hydrate 130 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008106",
+      "display_name": "Kenya-I (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg+Chlorpheniramine maleate 2 mg+Terpine hydrate 125 mg]",
+      "role_tags": [
+        "allergy",
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003112",
+      "display_name": "Patar-Cap (ควบคุมจำนวน) [Dextromethorphan 10 mg.+Guaifenesin 100 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003416",
+      "display_name": "Robitussin DM เล็ก (ควบคุมจำนวน) [Guaifenesin 200 mg.+Dextromethorphan HBr 10 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001458",
+      "display_name": "Asthmasian Expectorant Syrup [Terbutaline sulfate 1.5 mg.+Glyceryl guaiacolate 100 mg.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003645",
+      "display_name": "Salbulin Syrup [Salbutamol 2.4 mg./5 ml.]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003589",
+      "display_name": "Salmol Syrup [Salbutamol 2 mg./5 ml.]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002688",
+      "display_name": "Merislon 12 mg [Betahistine Mesilate 12 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003510",
+      "display_name": "Serc 16 mg [Betahistine dihydrochloride 16 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006571",
+      "display_name": "Serc 24 mg [Betahistine dihydrochloride 24 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007272",
+      "display_name": "Stei 16 mg [Betahistine dihydrochloride 16 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008034",
+      "display_name": "Berclomine Syrup [Dicyclomine 5 mg.+Simethicone 50 mg./5 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040608",
+      "display_name": "Belcid Forte Suspension [Aluminium Hydroxide Gel (eq. to Aluminium Hydroxide 306 mg.+Magnesium Hydroxide 110 mg.+ Simethicone 30 mg./5 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002014",
+      "display_name": "Gaviscon Suspension bottle 150 ml [Sodium alginate 500 mg.+Sodium bicarbonate 267 mg./10 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002013",
+      "display_name": "Gaviscon Suspension sachet 10 ml [Sodium alginate 500 mg.+Sodium bicarbonate 267 mg.+Calcium carbonate 160 mg./10 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS043606",
+      "display_name": "Gaviscon Suspension กล่อง 4 ซอง [Sodium alginate 500 mg.+Sodium bicarbonate 267 mg.+Calcium carbonate 160 mg./10 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003918",
+      "display_name": "Ulcefate Suspension bottle 240 ml [Sucralfate 1 g./5 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003917",
+      "display_name": "Ulcefate Suspension bottle 60 ml [Sucralfate 1 g./5 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003915",
+      "display_name": "Ulcefate Suspension sachet 5 ml [Sucralfate 1 g.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001013",
+      "display_name": "Air-X Drops [Simethicone 40 mg./0.6 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001271",
+      "display_name": "Biocalm [Tolperisone 50 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007049",
+      "display_name": "Cenasic [Paracetamol 450 mg.+Orphenadrine Citrate 35 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041455",
+      "display_name": "Corilax tabslet [Paracetamol 450 mg.+Orphenadrine Citrate 35 mg.]",
+      "role_tags": [
+        "eye",
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS044932",
+      "display_name": "Muslexac [Paracetamol 500 mg.+Orphenadrine Citrate 35 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007752",
+      "display_name": "Noraphen [Paracetamol 500 mg.+Orphenadrine Citrate 35 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002840",
+      "display_name": "Norgesic [Paracetamol 450 mg.+Orphenadrine Citrate 35 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS045616",
+      "display_name": "Norpa tabslets [Paracetamol 450 mg.+Orphenadrine Citrate 35 mg.]",
+      "role_tags": [
+        "eye",
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS048632",
+      "display_name": "Torrent [Paracetamol 450 mg.+Orphenadrine Citrate 35 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002637",
+      "display_name": "Motilium Oral Suspension [Domperidone 1 mg./1 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS046503",
+      "display_name": "Patilum Oral Suspension [Domperidone 1 mg./1 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008001",
+      "display_name": "Actrim [Trimethoprim 80 mg.+Sulfamethoxazole 400 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001072",
+      "display_name": "Avelox tabslet [Moxifloxacin Hydrochloride 400 mg.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001496",
+      "display_name": "Cifloxin 500 mg [Ciprofloxacin 500 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041409",
+      "display_name": "Cipflocin 500 mg [Ciprofloxacin 500 mg.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008114",
+      "display_name": "Ciproxin-500 [Ciprofloxacin 500 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001548",
+      "display_name": "Cravit 500 mg [Levofloxacin 500 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008681",
+      "display_name": "Levomac 500 [Levofloxacin 500 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007591",
+      "display_name": "Noflox-400 [Norfloxacin 400 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007751",
+      "display_name": "Norfloxyl-400 [Norfloxacin 400 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS009086",
+      "display_name": "Norxacin 400 mg [Norfloxacin 400 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007971",
+      "display_name": "Oflomac-200 [Ofloxacin 200 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007238",
+      "display_name": "Proflox 500 mg [Ciprofloxacin 500 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS047662",
+      "display_name": "Sixime [Cefixime 100 mg.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007311",
+      "display_name": "Xacin [Norfloxacin 400 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040016",
+      "display_name": "Adavil F/C tabslets [Ibuprofen 400 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040623",
+      "display_name": "Brusoft 400 [Ibuprofen 400 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040629",
+      "display_name": "Brustan [Ibuprofen 400 mg.+Paracetamol 325 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007040",
+      "display_name": "Cefen 400P [Ibuprofen 400 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001618",
+      "display_name": "Duran [Ibuprofen 400 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002042",
+      "display_name": "Gofen 400 [Ibuprofen 400 mg.+Polyethylene 400+Porpylene Glycol]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002036",
+      "display_name": "Greatofen-400 mg [Ibuprofen 400 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007161",
+      "display_name": "Ibuman-Plus [Ibuprofen 400 mg.+Paracetamol 325 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007165",
+      "display_name": "Kintal B [Ibuprofen 400 mg.+Paracetamol 325 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS045600",
+      "display_name": "Nurofen Zavance [Ibuprofen 400 mg]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002846",
+      "display_name": "Nurofen-400 [Ibuprofen 400 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS047673",
+      "display_name": "Solufen 400 [Ibuprofen 400 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001663",
+      "display_name": "Dramamine [Dimenhydrinate 50 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008272",
+      "display_name": "Biotaplex-BC [Benfotiamine (Vit.B1) 69.15 mg+Riboflavin (Vit.B2) 5 mg+Pyridoxine HCl (Vit.B6) 5 mg+Cyanocobalamin (Vit.B12) 5 mcg+Vit.C 50 mg]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002687",
+      "display_name": "Mecze [Mecobalamin (Vit. B12) 500 mcg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS044925",
+      "display_name": "Mega Diavit [Vit.B1 100 mg+ Vit.B6 200 mg+Methylcobalamin 500 mg+ Folic Acid 0.2 mg+Natural Vit.E 200 IU+ Natural Mixed Carotenoids 4 mg+Equivlent to Vit.A 5000 IU+ Vit.D3 400 IU+Copper 1 mg+Chromium 0.2 mg+Zinc 15 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002625",
+      "display_name": "Methycobal 500 [Mecobalamin (Vit. B12) 500 mcg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002822",
+      "display_name": "Neurobion [Thiamine Disulfide (Vit.B1) 100 mg+Pyridoxine HCl (Vit.B6) 200 mg+Cyanocobalamin (Vit.B12) 200 mcg]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003007",
+      "display_name": "One-Six-Twelve [Thiamine Mononitrate (Vit.B1) 100 mg+Pyridoxine HCl (Vit.B6) 5 mg+Cyanocobalamin (Vit.B12) 50 mcg]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008151",
+      "display_name": "Sambee [Thiamine Mononitrate (Vit.B1) 100 mg+Pyridoxine HCl (Vit.B6) 5 mg+Cyanocobalamin (Vit.B12) 65 mcg]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008708",
+      "display_name": "Tri-Be-Sian [Thiamine Mononitrate (Vit.B1) 100 mg+Pyridoxine HCl (Vit.B6) 5 mg+Cyanocobalamin (Vit.B12) 50 mcg]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007809",
+      "display_name": "Viboral [Thiamine Mononitrate (Vit.B1) 100 mg+Pyridoxine HCl (Vit.B6) 20 mg+Cyanocobalamin (Vit.B12) 100 mcg]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004007",
+      "display_name": "Vitamin B1-B6-B12 (GPO) [Vit.B1 100 mg+Vit.B6 7.5 mg+Vit.B12 75 mcg]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002449",
+      "display_name": "Kremil-S tabslet [AHMC(Aluminum Hydroxide 188.8 mg.+Magnesium Carbonate 136.2 mg.) 325 mg.+Simethicone 10 mg.+Dicyclomine HCl 2.5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003591",
+      "display_name": "Strepsils Chesty Cough ซอง 8s [Ambroxol HCl 15 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003642",
+      "display_name": "Strepsils Throat Irritation & Cough กล่อง 24s [Ambroxol HCl 15 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003641",
+      "display_name": "Strepsils Throat Irritation & Cough ซอง 8s [Ambroxol HCl 15 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001665",
+      "display_name": "Duran Suspension [Ibuprofen 100 mg./5 ml.]",
+      "role_tags": [
+        "eye",
+        "pain_fever",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007151",
+      "display_name": "Ibukids Suspension [Ibuprofen 100 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002845",
+      "display_name": "Nurofen Suspension [Ibuprofen 100 mg./5 ml.]",
+      "role_tags": [
+        "pain_fever",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007031",
+      "display_name": "Bromhexine Syrup [Bromhexine HCl 4 mg./5 ml.]",
+      "role_tags": [
+        "cough_cold",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008325",
+      "display_name": "Oscin Syrup [Hyoscine-N-butylbromide 5 mg./5 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040631",
+      "display_name": "Bromcolex [Bromhexine HCl 8 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008046",
+      "display_name": "Extorant [Bromhexine HCl 4 mg+Guaifenesin 100 mg]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007196",
+      "display_name": "Mucoxine-F [Ambroxol HCl 30 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007601",
+      "display_name": "Polibroxol [Ambroxol HCl 30 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007554",
+      "display_name": "Losalac Syrup [Lactulose 66.7 g./100 ml.]",
+      "role_tags": [
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040003",
+      "display_name": "Asiazole-T.N. tabslets [Tinidazole 500 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007954",
+      "display_name": "Gyno Gena-500 [Tinidazole 500 mg.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS048649",
+      "display_name": "Tavipec cap [Spike Lavender Oil 150 mg.]",
+      "role_tags": [
+        "cough_cold"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040613",
+      "display_name": "Bakamol 500 mg strip 10s [Paracetamol 500 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007044",
+      "display_name": "Cemol 500 mg strip 10s เม็ดรี [Paracetamol 500 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003108",
+      "display_name": "Para Cap strip 10s [Paracetamol 500 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003503",
+      "display_name": "Sara เม็ดกลม แผง 10s [Paracetamol 500 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003654",
+      "display_name": "Sara เม็ดรี แผง 10s [Paracetamol 500 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003762",
+      "display_name": "Tylenol 500 mg strip 10s [Paracetamol 500 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040030",
+      "display_name": "Amitriptyline 10 mg [Amitriptyline Hydrochloride 10 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004039",
+      "display_name": "Rowatinex [Pinene (Alpha+Beta) 31 mg.+Camphene 15 mg.+Cineol 3 mg.+Fenchone 4 mg.+Borneol 10 mg.+Anethol 4 mg.+Olive Oil 33 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006069",
+      "display_name": "Ambes 10 mg (GPO) [Amlodipine besylate 10 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006070",
+      "display_name": "Ambes 5 mg (GPO) [Amlodipine besylate 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040008",
+      "display_name": "Amlodac 10 [Amlodipine besilate 10 mg. (eq. to Amlodipine 10 mg.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040007",
+      "display_name": "Amlodac 5 [Amlodipine besilate 5 mg. (eq. to Amlodipine 5 mg.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001106",
+      "display_name": "Amlopine 10 mg [Amlodipine besylate 10 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001096",
+      "display_name": "Amlopine 5 mg [Amlodipine besylate 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001114",
+      "display_name": "Anapril 20 mg [Enalapril Maleate 20 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001113",
+      "display_name": "Anapril 5 mg [Enalapril Maleate 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001237",
+      "display_name": "Betalol 10 mg [Propranolol 10 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001281",
+      "display_name": "Betalol 40 mg [Propranolol HCl 40 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040634",
+      "display_name": "Blopress 16 mg [Candesartan Cilexetil 16 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001275",
+      "display_name": "Blopress 8 mg [Candesartan cilexetil 8 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041442",
+      "display_name": "Caraten 6.25 [Carvedilol 6.25 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001415",
+      "display_name": "Cardeloc [Metoprolol Tartrate 100 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006702",
+      "display_name": "Catenol 50 mg [Atenolol 50 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001443",
+      "display_name": "Cesoline W [Hydralazine HCl 25 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001453",
+      "display_name": "Concor 2.5 mg [Bisoprolol fumarate 2.5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001454",
+      "display_name": "Concor 5 mg [Bisoprolol fumarate 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS042320",
+      "display_name": "Diovan 160 mg [Valsartan 160 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS042319",
+      "display_name": "Diovan 80 mg [Valsartan 80 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001845",
+      "display_name": "Enaril 20 mg [Enalapril Maleate 20 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001812",
+      "display_name": "Enaril 5 mg [Enalapril Maleate 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS042814",
+      "display_name": "Exforge 5 mg/160 mg [Amlodipine 5 mg.+Valsartan 160 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS043130",
+      "display_name": "Felopine 5 [Felodipine 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS044317",
+      "display_name": "Kerdica 20 mg [Manidipine HCl 20 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS044532",
+      "display_name": "Lanzaar 100 mg [Losartan potassium 100 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS044546",
+      "display_name": "Lanzaar 50 [Losartan potassium 50 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002549",
+      "display_name": "Loranta 100 mg [Losartan potassium 100 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002522",
+      "display_name": "Loranta 50 mg [Losartan potassium 50 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006044",
+      "display_name": "Losartan 50 mg (GPO) [Losartan potassium 50 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002638",
+      "display_name": "Madiplot 20 mg [Manidipine HCl 20 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002808",
+      "display_name": "Nelapine 20 SR [Nifedipine 20 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002862",
+      "display_name": "Norvasc 5 mg [Amlodipine besylate 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003174",
+      "display_name": "Plendil 5 mg [Felodipine 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003144",
+      "display_name": "Prenolol 100 mg [Atenolol 100 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003140",
+      "display_name": "Prenolol 25 mg [Atenolol 25 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003145",
+      "display_name": "Prenolol 50 mg [Atenolol 50 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS048635",
+      "display_name": "Tanzaril 100 mg [Losartan potassium 100 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003703",
+      "display_name": "Tanzaril 50 mg [Losartan potassium 50 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006259",
+      "display_name": "Zanidip 10 mg [Lercanidipine HCl 10 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040006",
+      "display_name": "Amaryl 2 mg [Glimepiride 2 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007131",
+      "display_name": "Benclamide [Glibenclamide 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001611",
+      "display_name": "Daonil 5 mg [Glibenclamide 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001639",
+      "display_name": "Diamicron MR 60 mg [Gliclazide 60 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001649",
+      "display_name": "Dipazide [Glipizide 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS043612",
+      "display_name": "Galvus 50 mg [Vildagliptin 50 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS043603",
+      "display_name": "Glizide [Glipizide 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002021",
+      "display_name": "Glucophage 500 mg [Metformin HCI 500 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002035",
+      "display_name": "Glucophage 850 mg [Metformin HCl 850 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS043610",
+      "display_name": "Glucophage XR 1000 mg [Metformin HCl 1000 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001959",
+      "display_name": "Glucophage XR 750 mg [Metformin HCl 750 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS043611",
+      "display_name": "Glycediab 5 mg [Glipizide 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS044920",
+      "display_name": "Metfor-500 [Metformin HCl 500 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006205",
+      "display_name": "Metformin Hydrochloride 500 mg (GPO) [Metformin HCl 500 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS044902",
+      "display_name": "Miformin 500 mg [Metformin HCl 500 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002628",
+      "display_name": "Minidiab [Glipizide 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003612",
+      "display_name": "Siamformet 500 mg [Metformin HCl 500 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003614",
+      "display_name": "Siamformet 850 mg [Metformin HCl 850 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006734",
+      "display_name": "Sugril 5 mg [Glibenclamide 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001960",
+      "display_name": "Atorvastatin Sandoz 10 mg [Atorvastatin Calcium 10.34 mg. (eq. to Atorvastatin 10 mg.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001945",
+      "display_name": "Atorvastatin Sandoz 20 mg [Atorvastatin Calcium 20.68 mg. (eq. to Atorvastatin 20 mg.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001918",
+      "display_name": "Atorvastatin Sandoz 40 mg [Atorvastatin Calcium 41.36 mg. (eq. to Atorvastatin 40 mg.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001226",
+      "display_name": "Bestatin 10 mg [Simvastatin 10 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001225",
+      "display_name": "Bestatin 20 mg [Simvastatin 20 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001223",
+      "display_name": "Bestatin 40 mg [Simvastatin 40 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041432",
+      "display_name": "Chlovas-40 mg. [Atorvastatin Calcium 43.3 mg. (eq. to Atorvastatin 40 mg.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001922",
+      "display_name": "Fibril 160 [Fenofibrate 160 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002132",
+      "display_name": "Hidil 300 mg [Gemfibrozil 300 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002133",
+      "display_name": "Hidil 600 mg [Gemfibrozil 600 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006466",
+      "display_name": "Supralip NT 145 mg [Fenofibrate 145 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS049670",
+      "display_name": "Xarator 10 mg. [Atorvastatin 10 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS049671",
+      "display_name": "Xarator 20 mg. [Atorvastatin 20 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004228",
+      "display_name": "Zimmex 10 mg [Simvastatin 10 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001222",
+      "display_name": "Zimmex 20 mg [Simvastatin 20 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS049784",
+      "display_name": "Zimmex 40 mg [Simvastatin 40 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006693",
+      "display_name": "Zimva 10 mg (GPO) [Simvastatin 10 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006691",
+      "display_name": "Zimva 20 mg (GPO) [Simvastatin 20 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007005",
+      "display_name": "Altone [Spironolactone 25 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001987",
+      "display_name": "Furetic 40 mg [Furosemide 40 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006802",
+      "display_name": "GPO - HCTZ 25 [Hydrochlorothiazide 25 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006801",
+      "display_name": "GPO - HCTZ 50 [Hydrochlorothiazide 50 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001480",
+      "display_name": "HCTZ 25 [Hydrochlorothiazide 25 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002633",
+      "display_name": "Moduretic [Hydrochlorothiazide 50 mg.+ Amiloride HCl 5 mg]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001439",
+      "display_name": "Cardura XL 4 mg [Doxazosin 4 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001429",
+      "display_name": "Cazosin 2 mg [Doxazosin mesylate 2 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002016",
+      "display_name": "Firide 5 mg [Finasteride 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS046561",
+      "display_name": "Pencor 2 [Doxazosin 2 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001666",
+      "display_name": "Dilantin [Phenytoin Sodium 100 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002047",
+      "display_name": "Gabutin 100 mg [Gabapentin 100 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002046",
+      "display_name": "Gabutin 300 mg [Gabapentin 300 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002561",
+      "display_name": "Lyrica 25 mg [Pregabalin 25 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002591",
+      "display_name": "Lyrica 75 mg [Pregabalin 75 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002863",
+      "display_name": "Neurontin 100 mg [Gabapentin 100 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002823",
+      "display_name": "Neurontin 300 mg [Gabapentin 300 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS046516",
+      "display_name": "Pregabalin Sandoz 25 mg [Pregabalin 25 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS042823",
+      "display_name": "Euthyrox 100 mcg สูตรปรับปรุง [Levothyroxine Sodium 100 mcg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS042824",
+      "display_name": "Euthyrox 50 mcg สูตรปรับปรุง [Levothyroxine Sodium 50 mcg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS046506",
+      "display_name": "Pyroid [Propylthiouracil 50 mg]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003746",
+      "display_name": "Timazol [Methimazole 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001107",
+      "display_name": "Apolets [Clopidogrel 75 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001070",
+      "display_name": "Asa-tabs [Aspirin 81 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001077",
+      "display_name": "Aspilets [Aspirin 81 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003651",
+      "display_name": "Sermion 10 mg [Nicergoline 10 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003652",
+      "display_name": "Sermion 30 mg [Nicergoline 30 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS043159",
+      "display_name": "Ferli-6 [Ferrous fumarate 200 mg +Folic 0.5 mg +Pyridoxine hydrochloride 5 mg]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008045",
+      "display_name": "Ferropro [Ferrous Fumarate 200 mg.+Thiamine Mononitrate (B1) 2 mg.+Riboflavin (B2) 2 mg.+Cyanocobalamin (B12) 5 mcg.+Niacin (B3) 10 mg.+.Ascorbic Acid 20 mg.+Folic Acid 100 mcg.+Calcium Phosphate Tribasic 100 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007123",
+      "display_name": "Folic Acid [Folic Acid 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006704",
+      "display_name": "Folivit tabslet [Folic Acid 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002101",
+      "display_name": "Haemo-Vit ยาบำรุง [Dried Ferrous Sulfate 135 mg.+Aneurine HCl 2 mg.+Pyridoxine HCl (B6) 0.5 mg.+Cyanocobalamin (B12) 5 mcg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003027",
+      "display_name": "Obimin-AZ [Vit.A 5,000 IU+Vit.D 400 IU+Vit.E 10 IU+Vit. C 75 mg.+Vit.B1 2 mg.+Vit.B2 3 mg.+Vit.B6 2.5 mg.+Vit.B12 3 mcg.+Nicotinamide 20 mg.+Folic Acid 1 mg.+Ferrous Fumarate 200 mg.+Calcium Lactate 250 mg.+Potassium Iodine 0.2 mg.+Zinc Sulfate 20 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040014",
+      "display_name": "Amsel Nature C [Acerola Cherry Extract 360 mg. + Rosehips Extract 100 mg. + Cranberry Extract 50 mg. + Ascorbic Acid 35 mg. + Citrus Bioflavonoid 6.5 mg. + Rutin 5 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008321",
+      "display_name": "Bio-C-Vitamin [Vitamin C 750 mg.+Calcium 85 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001309",
+      "display_name": "Blackmores Bio C กลาง [Ascorbic acid 400 mg.+Sodium ascorbate 350 mg.+Calcium ascorbate 400 mg.+Bioflavonoids 25 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001308",
+      "display_name": "Blackmores Bio C เล็ก [Ascorbic acid 400 mg.+Sodium ascorbate 350 mg.+Calcium ascorbate 400 mg.+Bioflavonoids 25 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040622",
+      "display_name": "Blackmores Naturetime Buffered C [Vitamin C 500 mg.(Ascorbic acid 280 mg.+Calcium ascorbate 266 mg.) +Bioflavonoids 25 mg.+Hesperidin 25 mg.+Rutin 50 mg.+Rosehips extract equiv. to dry fruit 250 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041434",
+      "display_name": "C-Force 1000 [Vit.C 1000 mg. (Ascorbic acid 524 mg.+Sodium Ascorbate 476 mg.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003117",
+      "display_name": "Perskindol Cool Spray [I-Menthol 5 mg./1 g.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002875",
+      "display_name": "Reparil Ice Spray [Butane+Pentane+Isobutane+Propane+Isopropyl alcohol+Menthol+Camphor]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006745",
+      "display_name": "Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041408",
+      "display_name": "Clinivate Cream ใหญ่ [Betamethasone Valerate (eq. to Betamethasone 1 mg./1 g.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001491",
+      "display_name": "Canasone C.B. Cream [Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001417",
+      "display_name": "Canazol-Be Cream ใหญ่ [Clotrimazole 1 g+Betamethasone Dipropionate (eq. to Betamethasone 0.1 g)/100 g]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007517",
+      "display_name": "Clotribet-D Cream เล็ก [Clotrimazole 1 g+Betamethasone Dipropionate 0.064 g (eq. to Betamethasone 0.05 g)/100 g]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007516",
+      "display_name": "Clotribet-D Cream ใหญ่ [Clotrimazole 1 g+Betamethasone Dipropionate 0.064 g (eq. to Betamethasone 0.05 g)/100 g]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007736",
+      "display_name": "Fango-B Cream เล็ก [Clotrimazole 1 g+Betamethasone Valerate (eq. to Betamethasone 0.1 g)/100 g]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001956",
+      "display_name": "Fango-B Cream ใหญ่ [Clotrimazole 1 g+Betamethasone Valerate (eq. to Betamethasone 0.1 g)/100 g]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001932",
+      "display_name": "Fungiderm-B [Clotrimazole 1 g+Betamethasone Valerate (eq. to Betamethasone 0.1 g)/100 g]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002538",
+      "display_name": "Lymarin Cream ใหญ่ [Miconazole Nitrate 2%+Triamcinolone Acetonide 0.2% w/w]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002650",
+      "display_name": "Myda-B Cream เล็ก [Clotrimazole 1%+Betamethasone Valerate (eq. to Betamethasone 0.1%) w/w]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002651",
+      "display_name": "Myda-B Cream ใหญ่ [Clotrimazole 1%+Betamethasone Valerate (eq. to Betamethasone 0.1%) w/w]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008239",
+      "display_name": "Myrazole-B Cream [Clotrimazole 1%+Betamethasone Valerate (eq. to Betamethasone 0.1%) w/w]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008221",
+      "display_name": "Tara-Plus Cream [Miconazole Nitrate 2 g+Triamcinolone Acetonide 0.1 g/100 g]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001437",
+      "display_name": "ChlorOph Eye Drops [Chloramphenicol 5 mg./1 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001515",
+      "display_name": "ChlorOph Eye Ointment [Chloramphenicol 10 mg./1 g.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041410",
+      "display_name": "Cogetine Ointment [Chloramphenicol 1% (1 g./100 g.)]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001847",
+      "display_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "role_tags": [
+        "antibiotic",
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003181",
+      "display_name": "Poly-Oph Eye Drops [Neomycin Sulfate (eq. to Neomycin 2 mg.)+Polymyxin B Sulfate (eq. to Polymyxin B 5,000 Units)+Gramicidin 0.025 mg./1 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003721",
+      "display_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003861",
+      "display_name": "Tobrex Ophthalmic Solution [Tobramycin 3 mg.+Preservative (Benzalkonium Chloride 0.1 mg.)/1 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001052",
+      "display_name": "Allergis [Antazoline HCl 0.5 mg+Tetrahydrozoline HCl 0.4 mg/1 ml]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040035",
+      "display_name": "Antazallerge [Antazoline HCl 0.5 mg.+Tetrahydrozoline HCl 0.4 mg.+Preservative (Benzalkonium Cl 0.1mg.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001401",
+      "display_name": "Cadexcin.N [Dexamethasone 21-(disodium phosphate) (eq. to Dexamethasone 21-phosphate 1 mg.)+Neomycin Sulfate (eq. to Neomycin base 3.5 mg.)/1 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041404",
+      "display_name": "CD-Oph Eye Drops [Dexamethasone Sodium Phosphate 1 mg.+Chloramphenicol 5 mg.+Tetrahydrozoline HCl 0.25 mg./1 ml.]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001632",
+      "display_name": "DexOph Eye-Ear Drops [Dexamethasone Sodium Phosphate (eq. to Dexamethasone Phosphate 0.1 %)+Neomycin Sulfate 0.5% (eq. to Neomycin Base 0.35 %)/1 ml.]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001981",
+      "display_name": "Flarex [Fluorometholone Acetate 0.1 %+Monobasic Sodium Phosphate+Sodium Chloride+Edetate Disodium+Hydroxyethylcellulose+Tyloxapol+Hydrochloric Acid+Sodium Hydroxide+Preservative (Edetate Disodium+Benzalkonium Chloride 0.01%)/1 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006181",
+      "display_name": "FML Ophthalmic Suspension [Fluorometholone 0.1 %+Polyvinyl Alcohol 14 mg.+Sodium Chloride+Sodium Phosphste Monobasic+Sodium Phosphate Dibasic+Polysorbate 80+Preservative (Edetate Disodium+Benzalkonium Chloride 0.04 mg.)/1 ml.]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002117",
+      "display_name": "Hista-Oph [Antazoline HCl 0.05 %+Tetrahydrozoline HCl 0.04%+Hydroxypropyl Methylcellulose+Preservative (Benzalkonium Chloride 0.015%)/1 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002804",
+      "display_name": "Naphcon-A [Naphazoline HCl 0.025%+Pheniramine Maleate 0.3%+Preservative (Benzalkonium Chloride 0.01%)/1 ml]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003029",
+      "display_name": "Opsa-His [Antazoline HCl 0.5 mg+Tetrahydrozoline HCl 0.4 mg/1 ml]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003013",
+      "display_name": "Opsil-A [Antazoline HCl BP 0.05 %+Tetrahydrozoline HCl USP 0.04%+Preservative (Benzalkonium Cl 0.01%)/1 ml]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS046500",
+      "display_name": "Pataday Ophthalmic Solution [Olopatadine HCl 2.22 mg (eq. to Olopatadine 2 mg (0.2%)+Povidone+Dibasic Sodium Phosphate+Sodium Chloride+Hydrochloric Acid /Sodium Hydroxide+Preservative (Edetate Disodium+Benzalkonium Chloride 0.01%)/1 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS046553",
+      "display_name": "Pemirox Ophthalmic Solution [Pemirolast potassium 0.1 %]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003862",
+      "display_name": "Tobradex Ophthalmic Suspension [Tobramycin 3 mg (0.3%)+Dexamethasone 1 mg (0.1%)+Tyloxapol+Sodium Chloride+Hydroxyethylcellulose+Sodium Sulfate+Sulfuric Acid+Sodium Hydroxide+Preservative (Edetate Disodium+Benzalkonium Chloride 0.01%)/1 ml.]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001552",
+      "display_name": "Cellufresh [Carboxymethylcellulose Sodium (CMC) 0.5%+Calcium Chloride+Magnesium Chloride+Potassium Chloride+Sodium Chloride+Sodium Lactate+Hydrochloric Acid+Sodium Hydroxide]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS041414",
+      "display_name": "Cellufresh MD [Carboxymethylcellulose Sodium (CMC) 0.5%+Boric acid+Calcium Chloride+Magnesium Chloride+Potassium Chloride+Sodium Borate+Sodium Chloride+Preservative (Stabilized Oxychloro Complex (Purite)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001554",
+      "display_name": "Cellufresh MD ใหญ่ [Carboxymethylcellulose Sodium (CMC) 0.5%+Boric acid+Calcium Chloride dihydrate+Magnesium Chloride+ Potassium Chloride+Sodium Borate+Sodium Chloride+Preservative (Stabilized Oxychloro complex (Purite)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001551",
+      "display_name": "Clens 100 Lens Drops [Citrate/Borate Buffer+Sodium Chloride+Edetate Disodium 0.05%+PEG-11 Lauryl ether Carboxylic acid+Tetronic t1304+Preservative (Edetate Disodium 0.05%+Polidronium Chloride 0.001%)]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002107",
+      "display_name": "Genteal Eye Drop [Hypromellose 3 mg. (0.3%)+Sodium Chloride+Boric Acid+Potassium Chloride+Hydrochloric Acid+Preservative (Sodium Perborate+Phosphonic Acid)]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002031",
+      "display_name": "Genteal Gel [Hypromellose 3 mg. (0.3%)+Carbomer 980 2.2 mg.+Sorbitol 35 mg.+Sodium hydroxide 0.787 mg.+Dequest 2060 0.06 mg.+Preservative (Sodium Perborate Tetrahydrate 0.28 mg.)/1 g.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS043800",
+      "display_name": "Hialid 0.1 Opthalmic Solution [Sodium Hyaluronate 0.1%+6-Aminocaproic Acid/1 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS043847",
+      "display_name": "Hyatear [Sodium Hyaluronate 0.18% (Sodium Hyaluronate 1.8 mg.+Sodium Chloride +Potassium Chloride +Trisodium citrate +Disodium Hydrogenphosphate +Sodium dihydrogen phosphate +Magnesium chloride hexahydrate +Calcium Chloride dihydrate)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002886",
+      "display_name": "Natear [Hydroxypropyl Methylcellulose USP 0.3%+Preservative (Sodium Perborate)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS045617",
+      "display_name": "Natear UD Lubricant Eye Drops [Hypromellose (Hydroxypropyl Methylcellulose) 0.3% w/v /0.8 ml.]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS046204",
+      "display_name": "OcuFreshs Tear Eye Drops [Hypromellose 3 mg. (0.3%)+Preservative (Benzalkonium Chloride 0.02%)/1 ml.]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003014",
+      "display_name": "Opsil Tears 0.3% [Hydroxypropyl Methylcellulose USP 0.3%+Preservative (Benzalkonium Chloride)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003102",
+      "display_name": "Opti-Free Rewetting Drops [Citrate buffer+Sodium chloride+Preservative (Edetate Disodium 0.05%+Polyquaternium-1 0.001%)]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001204",
+      "display_name": "Renu Multiplus Lubricating & Rewetting Drops [Povidone+Boric acid+Potassium chloride+Sodium chloride+ Sodium borate+Edetate disodium+Sorbic acid+Preservative (Edetate disodium 0.1%+Sorbic acid 0.1%)]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS047663",
+      "display_name": "Seeview Sofs [Hypromellose 3 mg/1 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS047647",
+      "display_name": "Sof Tear Eye Drops [Hypromellose USP 3 mg. (0.3% w/v USP)+Preservative (Sodium Perborate 0.28 mg.)/1 ml.]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS047637",
+      "display_name": "Systane Ultra (UD) Lubricant Eye Drops [Polyethylene Glycol 400 0.4%+Propylene Glycol 0.3%+Aminomethylpropanol+Boric Acid+Hydroxypropyl Guar+Potassium Chloride+Sodium Chloride+Sorbitol+Hydrochloric Acid+Sodium Hydroxide/1 ml.]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003679",
+      "display_name": "Systane Ultra Lubricant Eye Drops [Polyethylene Glycol 400 0.4%+Propylene Glycol 0.3%+Aminomethylpropanol+//Boric Acid+Hydroxypropyl guar+Potassium Chloride+Sodium Chloride+Sorbitol+Hydrochloric Acid+Sodium Hydroxide+Preservative (Polyquaternium-1 0.001%)]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003765",
+      "display_name": "Tear Mac Eye Drops [Carboxymethyl Cellulose Sodium (CMC) 0.5%w/v+Preservative (Stabilised Oxychloro Complex 0.005% w/v)]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003709",
+      "display_name": "Tear Natural [Dextran 70 0.1%+Hydroxypropyl Methylcellulose 2910 0.3%+Borax+Potassium Chloride+Sodium Chloride+Hydrochloric acid+Preservative (Polyquaternium-1 0.0011%)/1 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003714",
+      "display_name": "Tears Naturale Free [Dextran 70 0.1%+Hydroxypropyl Methylcellulose 2910 0.3%]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004035",
+      "display_name": "Vislube [Sodium Hyaluronate 0.18% (Sodium Hyaluronate 1.8 mg.+Sodium Chloride 2.8 mg.+Potassium Chloride 1 mg.+Disodium Hydrogenphosphate 3.2 mg.+Sodium Citrate 0.3 mg.+Magnesium Chloride 0.09 mg.+Calcium Chloride 0.09 mg.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002003",
+      "display_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS047636",
+      "display_name": "Silverzine Cream [Micronized Silver Sulfadiazine 1%]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS046208",
+      "display_name": "Op-Ize Eye Wash [Boric Acid 2.0 g.+Sodium Borate 0.5 g.+Zinc Sulphate 0.004 g./100 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003009",
+      "display_name": "Opsar กลาง [Sodium Borate 0.02 g.+Boric Acid 1.24 g.+Sodium Chloride+ 0.29 g.+Benzalkonium Chloride 2 mg./100 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003025",
+      "display_name": "Opsar เล็ก [Sodium Borate 0.02 g.+Boric Acid 1.24 g.+Sodium Chloride+ 0.29 g.+Benzalkonium Chloride 2 mg./100 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003016",
+      "display_name": "Optrex เล็ก [Distilled Witch Hazel 13.0% v/v+Benzalkonium Chloride 0.005% w/v+Borax+Boric Acid/100 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007001",
+      "display_name": "Acevax Cream [Acyclovir 5 g./100 g.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007719",
+      "display_name": "Clinovir Cream [Acyclovir 5%w/w]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004046",
+      "display_name": "Vilerm Cream 5 g [Acyclovir 5 g./100 g.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004020",
+      "display_name": "Vilerm Cream sachet 1 g [Acyclovir 5 g./100 g.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004216",
+      "display_name": "Zevin Cream [Acyclovir 5 g./100 g.]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001656",
+      "display_name": "Difelene Gel เล็ก [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g)]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001654",
+      "display_name": "Difelene Gel ใหญ่ [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g).]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007574",
+      "display_name": "Neofenac Gel เล็ก [Diclofenac Sodium 1 g./100 g.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007575",
+      "display_name": "Neofenac Gel ใหญ่ [Diclofenac Sodium 1 g./100 g.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006730",
+      "display_name": "N-Zen Gel ใหญ่ [Diclofenac Sodium 1 g./100 g.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006814",
+      "display_name": "Painelief Cool Gel [Diclofenac Sodium (as diethylammonium) 10 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS046515",
+      "display_name": "Painelief Cool Gel ใหญ่ [Diclofenac Sodium (as diethylammonium) 10 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003914",
+      "display_name": "Uniren Spray [Diclofenac Sodium 1 % w/w]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004043",
+      "display_name": "Voltaren Emulgel กลาง [Diclofenac Sodium 1 g./100 g.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004042",
+      "display_name": "Voltaren Emulgel เล็ก [Diclofenac Sodium 1 g./100 g.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004044",
+      "display_name": "Voltaren Emulgel ใหญ่ [Diclofenac Sodium 1 g./100 g.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007549",
+      "display_name": "Kenalone Oral Paste 5 g [Triamcinolone Acetonide 0.1%]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007548",
+      "display_name": "Kenalone Oral Paste sachet 1 g [Triamcinolone Acetonide 0.1%]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003753",
+      "display_name": "Poro Suppository [Paracetamol 125 mg.]",
+      "role_tags": [
+        "pain_fever"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002649",
+      "display_name": "Maxitrol Ophthalmic Ointment [Dexamethasone 0.1%+Neomycin Sulfate 3,500 I.U./g.+Polymyxin B Sulfate 6,000 I.U./g.+Preservative (Methylparaben 0.05%+Propylparaben 0.01%)/1 g.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003637",
+      "display_name": "Tobradex Ophthalmic Ointment [Tobramycin 0.3%+Dexamethasone 0.1%+Preservative (Chlorobutanol 0.5%)/1 g]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001712",
+      "display_name": "Dewax Ear Drops [Docusate Sodium 0.5% w/v (5 mg./1 ml.)]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001468",
+      "display_name": "Con Con [Salicylic Acid 25 g.+Liquified Phenol 1.5 ml./100 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS047738",
+      "display_name": "SOS Plus Corn Plaster Removal [Salicylic acid 40 g (40%w/w)+Titanium dioxide+Liquid paraffin+Polyvinyl alkyl ethers+อื่นๆ]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001462",
+      "display_name": "Cravit Ophthalmic Solution [Levofloxacin 0.5%/1 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001606",
+      "display_name": "Grafadex [Gentamicin 0.3 %w/v+Preservative (Benzalkonium Chloride)]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004018",
+      "display_name": "Vigamox [Moxifloxacin Hydrochloride 5.45 mg. (eq. to Moxifloxacin 5 mg.)+Boric Acid+Sodium Chloride+Hydrochloric Acid+Sodium Hydroxide/1 ml.]",
+      "role_tags": [
+        "antibiotic",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002034",
+      "display_name": "Gynecon ยาสอด [Nystatin 100,000 Unit+Di-iodohydroxyquin 100 mg.+Benzalkonium Cl 7 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS008491",
+      "display_name": "Vagicin [Nystatin 100,000 units.+Chloramphenicol 250 mg.+Diiodohydroxyguin 100 mg.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001402",
+      "display_name": "Cadramine-V เล็ก [Diphenhydramine HCl 10 mg.+Calamine 100 mg.+Zinc oxide 30 mg.+Camphor 15 mg./1 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001403",
+      "display_name": "Cadramine-V ใหญ่ [Diphenhydramine HCl 10 mg.+Calamine 100 mg.+Zinc oxide 30 mg.+Camphor 15 mg./1 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003904",
+      "display_name": "Vidisic Gel [Carbomer 2 mg.+Cetrimide 0.1 mg.+Sorbitol+Sodium hydroxide +Water for injections/1 g.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS042303",
+      "display_name": "Docusate Earwax [Docusate Sodium 5 mg./1 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001102",
+      "display_name": "Aldara [Imiquimod 5% w/w]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001236",
+      "display_name": "Betagram ใหญ่ [Betamethasone Valerate (eq. to Betamethasone 0.1%)+Gentamicin Sulfate (eq. to Gentamicin 0.1%)]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007505",
+      "display_name": "Betatone-N Cream เล็ก [Betamethasone Valerate (eq. to Betamethasone 1 mg)+Neomycin Sulphate 5 mg (eq. to Neomycin 3 mg)/1 g]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007506",
+      "display_name": "Betatone-N Cream ใหญ่ [Betamethasone Valerate (eq. to Betamethasone 1 mg)+Neomycin Sulphate 5 mg (eq. to Neomycin 3 mg)/1 g]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001250",
+      "display_name": "Betnovate-N Cream ใหญ่ [Betamethasone 17-Valerate 0.1% w/w + Neomycin Sulphate 0.5% w/w]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001908",
+      "display_name": "Fucicort Cream [Fusidic acid 20 mg+Betamethasone Valerate (eq. to Betamethasone 1 mg)+Preservative (Chlorocresol)/1 g]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001910",
+      "display_name": "Fucidin H Cream [Fusidic acid 20 mg+Hydrocortisone Acetate 10 mg+อื่นๆ/1 g]",
+      "role_tags": [
+        "antibiotic"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006718",
+      "display_name": "Dertec Cream เล็ก [Betamethasone Valerate (eq. to Betamethasone 0.5 mg)+Gentamicin Sulfate (eq. to Gentamicin 1 mg)+Tolnaftate 10 mg+Iodochlorhydroxyquin 10 mg/1 g]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006011",
+      "display_name": "Dertec Cream ใหญ่ [Betamethasone Valerate (eq. to Betamethasone 0.5 mg)+Gentamicin Sulfate (eq. to Gentamicin 1 mg)+Tolnaftate 10 mg+Iodochlorhydroxyquin 10 mg/1 g]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001009",
+      "display_name": "Avamys [Fluticasone furoate 27.5 mcg/spray+Preservative (Benzalkonium Chloride)+อื่นๆ]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040624",
+      "display_name": "Busonase [budesonide 1.28 mg/1 ml (64 mcg/dose)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002874",
+      "display_name": "Nasacort AQ Spray Suspension [Triamcinolone Acetonide 9.075 mg/16.5 g (55 mcg/dose)+Preservative (Benzalkonium Chloride)+อื่นๆ]",
+      "role_tags": [
+        "eye",
+        "pediatric_candidate"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS045641",
+      "display_name": "Nasol Nebuliser [Naphazoline HCl 1 mg+Chlorpheniramine Maleate 2.5 mg/1 ml]",
+      "role_tags": [
+        "allergy",
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002807",
+      "display_name": "Nasonex 140 doses [Mometasone Furoate Monohydrate (eq. to Mometasone Furoate 50 mcg/dose)+Preservative (Benzalkonium Chloride 0.2 mg/g)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002805",
+      "display_name": "Nasonex 60 doses [Mometasone Furoate Monohydrate (eq. to Mometasone Furoate 50 mcg/dose)+Preservative (Benzalkonium Chloride 0.2 mg/g)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003432",
+      "display_name": "Rhinocort Aqua [Budesonide 1.28 mg/1 ml (64 mcg/dose)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002228",
+      "display_name": "Iliadin 0.025% ชนิดหยด [Oxymetazoline Hydrochloride 0.025% (0.25 mg./1 ml.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002209",
+      "display_name": "Iliadin 0.05% ชนิดหยด [Oxymetazoline Hydrochloride 0.05% (0.5 mg./1 ml.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002215",
+      "display_name": "Iliadin Spray [Oxymetazoline Hydrochloride 0.05% (0.5 mg./1 ml.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002605",
+      "display_name": "Mar Plus 5% Nasal Spray [Dexpanthenol 50 mg.+Sodium Chloride 9 mg./1 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS007191",
+      "display_name": "Metzodin [Oxymetazoline Hydrochloride 0.05% (0.05 g./100 ml.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS002813",
+      "display_name": "Nasaline-ISO [Dexpanthenol 10 mg.+Sodium Chloride 9 mg./1 ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003019",
+      "display_name": "Otrivin 0.1% [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003105",
+      "display_name": "Otrivin Child Spray 0.05% [Xylometazoline Hydrochloride 0.05% (0.5 mg./1 ml.)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS068420",
+      "display_name": "สเปรย์แก้ไอตราตะขาบ 5 ตัว [โง้วปวยจี้+ชะเอมเทศ+รากบัวหลวง+เฮ้งยิ้ง+เง็กเต็ก+แบะตงและอื่นๆ]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS040000",
+      "display_name": "Aerobidol Inhaler [Ipratropium Bromide Monohydrate (eq. to Ipratropium Bromide Anhydrous 20 ug.+Fenoterol Hydrobromide 50 ug./dose]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001033",
+      "display_name": "Aerotamol 100 mcg [Salbutamol Sulphate (eq. to Salbutamol 100 mcg./dose)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS001235",
+      "display_name": "Berodual Metered Doses [Ipratropium Bromide Monohydrate 21 mcg. (eq. to Ipratropium Bromide Anhydrous 20 ug.+Fenoterol Hydrobromide 50 mcg./dose]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS004009",
+      "display_name": "Ventolin Evohaler [Salbutamol Sulphate (eq. to Salbutamol 100 mcg./dose)]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS006462",
+      "display_name": "Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003439",
+      "display_name": "Reparil-Gel N เล็ก [Aescin 1.0 g.+Diethylamine Salicylate 5.0 g./100 g.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "product_id": "BDS003408",
+      "display_name": "Reparil-Gel N ใหญ่ [Aescin 1.0 g.+Diethylamine Salicylate 5.0 g./100 g.]",
+      "role_tags": [
+        "eye"
+      ],
+      "indications": [],
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    }
+  ]
+}

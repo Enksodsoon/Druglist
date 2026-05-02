@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:28:54Z",
+    "status": "no_verified_rules_without_sources",
+    "manual_review": true
+  },
+  "rules": [
+    {
+      "rule_id": "SAFETY_FRAMEWORK_PENDING",
+      "title": "Safety guideline framework pending source extraction",
+      "source_ids": [],
+      "active": false,
+      "manual_review": true,
+      "notes": "Safety validations may exist as non-dose guardrails, but source-linked clinical assertions remain pending."
+    }
+  ]
+}

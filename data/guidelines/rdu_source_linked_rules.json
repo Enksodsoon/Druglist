@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:28:54Z",
+    "status": "no_verified_rules_without_sources",
+    "manual_review": true
+  },
+  "rules": [
+    {
+      "rule_id": "RDU_FRAMEWORK_PENDING",
+      "title": "RDU rule framework pending source extraction",
+      "source_ids": [],
+      "active": false,
+      "manual_review": true,
+      "notes": "Do not activate until Thai RDU/NLEM/NDP or equivalent source text is attached."
+    }
+  ]
+}

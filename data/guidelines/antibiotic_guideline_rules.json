@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:28:54Z",
+    "status": "no_verified_rules_without_sources",
+    "manual_review": true
+  },
+  "rules": [
+    {
+      "rule_id": "ABX_STEWARDSHIP_FRAMEWORK_PENDING",
+      "title": "Antibiotic stewardship framework pending source extraction",
+      "source_ids": [],
+      "active": false,
+      "manual_review": true,
+      "notes": "No disease-specific antibiotic indication, dose, or duration is asserted here."
+    }
+  ]
+}
