@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -21,6 +22,9 @@ RNS = {"rel": "http://schemas.openxmlformats.org/package/2006/relationships"}
 
 
 def now_iso() -> str:
+    pinned = os.environ.get("DRUGLIST_BUILD_TIME")
+    if pinned:
+        return pinned
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
 

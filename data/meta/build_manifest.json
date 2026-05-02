@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-05-02T06:45:17Z",
+  "status": "pass",
+  "steps": [
+    {
+      "step": "scripts/build_product_layer.py",
+      "returncode": 0,
+      "stdout": "built product layer: products=910 manual_review=334",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/build_guideline_layer.py",
+      "returncode": 0,
+      "stdout": "built guideline framework: sources=8 gaps=36",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/build_pediatric_layer.py",
+      "returncode": 0,
+      "stdout": "built pediatric layer: candidates=93 auto_dose=0 manual_review=93",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/build_safety_layer.py",
+      "returncode": 0,
+      "stdout": "built safety layer: validation=9 rdu=3 antibiotic=2 red_flags=4",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/build_runtime_json.py",
+      "returncode": 0,
+      "stdout": "built runtime engine: complaints=422 diseases=164 regimens=133",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/build_frontend_seed.py",
+      "returncode": 0,
+      "stdout": "built frontend seed: drugs=910 source_coverage=0.0 manual_review=463",
+      "stderr": ""
+    }
+  ],
+  "outputs": [
+    "data/core/app_seed_runtime.json",
+    "data/core/complaint_index.json",
+    "data/core/disease_master.json",
+    "data/core/drug_master_rebuilt.json",
+    "data/core/drug_short_lookup.json",
+    "data/core/druglist_master_data.json",
+    "data/core/druglist_master_data_pretty.json",
+    "data/core/druglist_normalized_full.json",
+    "data/core/druglist_normalized_pretty.json",
+    "data/core/fast_regimen_master.json",
+    "data/core/generic_cluster_map.json",
+    "data/core/opd_fast_index.json",
+    "data/guidelines/antibiotic_guideline_rules.json",
+    "data/guidelines/disease_guideline_map.json",
+    "data/guidelines/dose_rules_adult_source_linked.json",
+    "data/guidelines/dose_rules_peds_source_linked.json",
+    "data/guidelines/drug_indication_guideline_map.json",
+    "data/guidelines/evidence_conflict_log.json",
+    "data/guidelines/rdu_source_linked_rules.json",
+    "data/guidelines/safety_guideline_rules.json",
+    "data/guidelines/source_gap_list.json",
+    "data/guidelines/source_registry.json",
+    "data/meta/build_manifest.json",
+    "data/meta/manual_review_queue.json",
+    "data/pediatric/pediatric_age_gate_library.json",
+    "data/pediatric/pediatric_product_age_indication_library_review.json",
+    "data/pediatric/pediatric_product_age_indication_library_review_pretty.json",
+    "data/pediatric/pediatric_product_age_indication_library_review_summary.json",
+    "data/pediatric/pediatric_target_dose_library.json",
+    "data/pediatric/pediatric_target_dose_library_pretty.json",
+    "data/pediatric/pediatric_target_dose_library_summary.json",
+    "data/pediatric/peds_age_gate_library.json",
+    "data/pediatric/peds_dose_rules_verified.json",
+    "data/pediatric/peds_product_dose_output.json",
+    "data/pediatric/product_concentration_map.json",
+    "data/safety/antibiotic_stewardship.json",
+    "data/safety/rdu_rules.json",
+    "data/safety/red_flags.json",
+    "data/safety/validation_rules.json"
+  ],
+  "source_workbook_required": "source_workbooks/Drug list for physician usage added -update 29022024.xlsx"
+}
