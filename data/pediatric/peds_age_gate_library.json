@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:29:56Z",
+    "status": "framework_pending_verified_pediatric_sources",
+    "manual_review": true
+  },
+  "gates": [
+    {
+      "gate_id": "PEDS_GATE_FRAMEWORK",
+      "description": "Age and body-weight gates must be configured from verified pediatric sources before dose automation.",
+      "source_ids": [],
+      "active": false,
+      "manual_review": true
+    }
+  ]
+}
