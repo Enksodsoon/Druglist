@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 from pathlib import Path
 
 from engine_common import ROOT, now_iso, write_json, write_report
@@ -118,8 +119,10 @@ def main() -> int:
     if "loadRuntimeSeed" not in index_text or "app_seed_runtime.json" not in index_text:
         errors.append("frontend_runtime_loader_missing")
 
+    generated_at = report_time()
+    os.environ["DRUGLIST_BUILD_TIME"] = generated_at
     report = {
-        "generated_at": report_time(),
+        "generated_at": generated_at,
         "pass": not errors,
         "errors": errors,
         "warnings": warnings,
