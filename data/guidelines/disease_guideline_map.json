@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:45:17Z",
+    "status": "unlinked_pending_source_extraction"
+  },
+  "diseases": [
+    {
+      "disease_id": "allergic_rhinitis",
+      "display_name": "Allergic Rhinitis",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "uri_wet_cough",
+      "display_name": "Uri Wet Cough",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "uri_dry_cough",
+      "display_name": "Uri Dry Cough",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "sore_throat",
+      "display_name": "Sore Throat",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "fever_myalgia",
+      "display_name": "Fever Myalgia",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "diarrhea_adult",
+      "display_name": "Diarrhea Adult",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "diarrhea_child",
+      "display_name": "Diarrhea Child",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "nausea_vomiting",
+      "display_name": "Nausea Vomiting",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "dyspepsia",
+      "display_name": "Dyspepsia",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "gerd",
+      "display_name": "Gerd",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "constipation",
+      "display_name": "Constipation",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "dry_eye",
+      "display_name": "Dry Eye",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "red_eye",
+      "display_name": "Red Eye",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "bacterial_conjunctivitis",
+      "display_name": "Bacterial Conjunctivitis",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "allergic_conjunctivitis",
+      "display_name": "Allergic Conjunctivitis",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "eyelid_bump",
+      "display_name": "Eyelid Bump",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "pterygium",
+      "display_name": "Pterygium",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "tinea",
+      "display_name": "Tinea",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "dermatitis",
+      "display_name": "Dermatitis",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "herpes_labialis",
+      "display_name": "Herpes Labialis",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "aphthous_ulcer",
+      "display_name": "Aphthous Ulcer",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "urticaria",
+      "display_name": "Urticaria",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "dysuria",
+      "display_name": "Dysuria",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "urinary_frequency",
+      "display_name": "Urinary Frequency",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "dysmenorrhea",
+      "display_name": "Dysmenorrhea",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "migraine_headache",
+      "display_name": "Migraine Headache",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "vertigo",
+      "display_name": "Vertigo",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "msk_pain",
+      "display_name": "Msk Pain",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "minor_wound",
+      "display_name": "Minor Wound",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    },
+    {
+      "disease_id": "animal_bite",
+      "display_name": "Animal Bite",
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true,
+      "notes": "No guideline facts populated until a prioritized source is attached and reviewed."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+peds_dose_rule_id,generic_name,disease_key,indication_text,age_min_value,age_min_unit,age_max_value,age_max_unit,weight_min_kg,weight_max_kg,dose_basis,dose_mg_per_kg_per_dose,dose_mg_per_kg_per_day,fixed_dose,fixed_dose_unit,frequency,max_per_dose,max_per_day,duration,route,source_ids,reviewer_status,reviewer_note
+PEDS_RULE_BDS047722,montelukast sodium,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS001084,azithromycin,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; antibiotic_requires_disease_specific_indication; antibiotic_requires_duration_source
+PEDS_RULE_BDS001441,cefixime,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; antibiotic_requires_disease_specific_indication; antibiotic_requires_duration_source
+PEDS_RULE_BDS002206,cephalexin,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; antibiotic_requires_disease_specific_indication; antibiotic_requires_duration_source
+PEDS_RULE_BDS007586,amoxicillin,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; antibiotic_requires_disease_specific_indication; antibiotic_requires_duration_source
+PEDS_RULE_BDS046209,azithromycin,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; antibiotic_requires_disease_specific_indication; antibiotic_requires_duration_source
+PEDS_RULE_BDS003549,amoxicillin,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; antibiotic_requires_disease_specific_indication; antibiotic_requires_duration_source
+PEDS_RULE_BDS003550,amoxicillin,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; antibiotic_requires_disease_specific_indication; antibiotic_requires_duration_source
+PEDS_RULE_BDS007682,cloxacillin,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; antibiotic_requires_disease_specific_indication; antibiotic_requires_duration_source
+PEDS_RULE_BDS008609,paracetamol,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS002407,paracetamol,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS007583,paracetamol,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS002861,paracetamol,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS002847,paracetamol,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS008137,paracetamol,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS003597,paracetamol,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS003711,paracetamol,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS003737,paracetamol,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS003763,paracetamol,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS001015,desloratadine,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS007003,brompheniramine maleate + phenylephrine hcl,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS008047,brompheniramine maleate + phenylephrine hcl,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS008033,chlorpheniramine maleate,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS007038,cetirizine 2hcl,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS044519,desloratadine,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS007271,chlorpheniramine maleate,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS008301,hydroxyzine hcl,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS008086,cetirizine 2hcl,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS004212,cetirizine 2hci,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS006036,butamirate citrate,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS002290,levodropropizine,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS001257,bromhexine hcl + k guaiacolsulphonate,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS001296,bromhexine hcl + k guaiacolsulphonate,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS001253,bromhexine hcl,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS007033,carbocysteine,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS041506,carbocysteine,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS001920,carbocysteine,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS002659,cyclidrol,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS002654,ambroxol hcl,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS003697,carbocysteine,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS003782,carbocysteine,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS001231,mebendazole,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS049775,albendazole,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS001458,terbutaline sulfate + glyceryl guaiacolate,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS003645,salbutamol,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS003589,salbutamol,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS001071,ergotamine tartrate + caffeine,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS008034,dicyclomine + simethicone,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS040608,aluminium hydroxide gel eq. to aluminium hydroxide + magnesium hydroxide + simethicone,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS043613,sodium alginate ph eur + potassium bicarbonate + calcium carbonate + carbomer,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS002033,sodium alginate + sodium bicarbonate + calcium carbonate,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS002014,sodium alginate + sodium bicarbonate,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS002013,sodium alginate + sodium bicarbonate + calcium carbonate,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS043606,sodium alginate + sodium bicarbonate + calcium carbonate,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS003918,sucralfate,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS003917,sucralfate,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS003915,sucralfate,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS001013,simethicone,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS002637,domperidone,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS046503,domperidone,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS001665,ibuprofen,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS007151,ibuprofen,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS002845,ibuprofen,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS007031,bromhexine hcl,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS008325,hyoscine n butylbromide,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS007743,glucosamine sulfate sodium,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS043605,glucosamine sulfate sodium,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS007554,lactulose,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS043130,felodipine,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS044532,losartan potassium,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS002808,nifedipine,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS043610,metformin hcl,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS001437,chloramphenicol,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; antibiotic_requires_disease_specific_indication; antibiotic_requires_duration_source
+PEDS_RULE_BDS001847,fusidic acid + preservative,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review; antibiotic_requires_disease_specific_indication; antibiotic_requires_duration_source
+PEDS_RULE_BDS003181,neomycin sulfate + polymyxin b sulfate + gramicidin,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; antibiotic_requires_disease_specific_indication; antibiotic_requires_duration_source
+PEDS_RULE_BDS041404,dexamethasone sodium phosphate + chloramphenicol + tetrahydrozoline hcl,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS001632,dexamethasone sodium phosphate + neomycin sulfate,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS006181,fluorometholone + polyvinyl alcohol + sodium chloride + sodium phosphste monobasic,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS003862,tobramycin + dexamethasone + tyloxapol + sodium chloride,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS001551,citrate/borate buffer + sodium chloride + edetate disodium + peg 11 lauryl ether carboxylic acid,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS002107,hypromellose + sodium chloride + boric acid + potassium chloride,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS045617,hypromellose w/v,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS046204,hypromellose + preservative,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS003102,citrate buffer + sodium chloride + preservative,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS001204,povidone + boric acid + potassium chloride + sodium chloride,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS047647,hypromellose usp + preservative,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS047637,polyethylene glycol 400 + propylene glycol + aminomethylpropanol + boric acid,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS003679,polyethylene glycol 400 + propylene glycol + aminomethylpropanol + boric acid,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS003765,carboxymethyl cellulose sodium w/v + preservative,,,,,,,,,,,,,,,,,,ophthalmic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS007548,triamcinolone acetonide,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS003750,triamcinolone acetonide,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review
+PEDS_RULE_BDS001712,docusate sodium w/v,,,,,,,,,,,,,,,,,,otic,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose
+PEDS_RULE_BDS002874,triamcinolone acetonide + preservative + อื่นๆ,,,,,,,,,,,,,,,,,,oral,,manual_review,missing_verified_pediatric_dose_source; missing_age_bw_rule; missing_max_dose; concentration_missing_or_requires_review

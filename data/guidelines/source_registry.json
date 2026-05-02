@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:45:17Z",
+    "status": "framework_pending_source_access"
+  },
+  "sources": [
+    {
+      "source_id": "TH_PRIORITY_1",
+      "priority": 1,
+      "name": "Thai FDA / NDP / NDI / NLEM / Thai RDU",
+      "url": "",
+      "local_path": "",
+      "access_status": "pending_access",
+      "extraction_status": "not_extracted",
+      "manual_review": true,
+      "notes": "Register exact document URL, version/date, and extracted page/section before using for clinical rules."
+    },
+    {
+      "source_id": "TH_PRIORITY_2",
+      "priority": 2,
+      "name": "Thai MOPH / Department of Medical Services",
+      "url": "",
+      "local_path": "",
+      "access_status": "pending_access",
+      "extraction_status": "not_extracted",
+      "manual_review": true,
+      "notes": "Register exact document URL, version/date, and extracted page/section before using for clinical rules."
+    },
+    {
+      "source_id": "TH_PRIORITY_3",
+      "priority": 3,
+      "name": "Thai specialty society guideline",
+      "url": "",
+      "local_path": "",
+      "access_status": "pending_access",
+      "extraction_status": "not_extracted",
+      "manual_review": true,
+      "notes": "Register exact document URL, version/date, and extracted page/section before using for clinical rules."
+    },
+    {
+      "source_id": "TH_PRIORITY_4",
+      "priority": 4,
+      "name": "Thai Pediatric Society / pediatric subspecialty CPG",
+      "url": "",
+      "local_path": "",
+      "access_status": "pending_access",
+      "extraction_status": "not_extracted",
+      "manual_review": true,
+      "notes": "Register exact document URL, version/date, and extracted page/section before using for clinical rules."
+    },
+    {
+      "source_id": "INTL_PRIORITY_5",
+      "priority": 5,
+      "name": "WHO / CDC / NICE / IDSA / GINA / GOLD / ACG / AAP",
+      "url": "",
+      "local_path": "",
+      "access_status": "pending_access",
+      "extraction_status": "not_extracted",
+      "manual_review": true,
+      "notes": "Register exact document URL, version/date, and extracted page/section before using for clinical rules."
+    },
+    {
+      "source_id": "DRUG_REF_PRIORITY_6",
+      "priority": 6,
+      "name": "BNFC / Lexicomp Pediatric / Harriet Lane / Micromedex / drug monograph",
+      "url": "",
+      "local_path": "",
+      "access_status": "pending_access",
+      "extraction_status": "not_extracted",
+      "manual_review": true,
+      "notes": "Register exact document URL, version/date, and extracted page/section before using for clinical rules."
+    },
+    {
+      "source_id": "LABEL_PRIORITY_7",
+      "priority": 7,
+      "name": "Product label / SmPC",
+      "url": "",
+      "local_path": "",
+      "access_status": "pending_access",
+      "extraction_status": "not_extracted",
+      "manual_review": true,
+      "notes": "Register exact document URL, version/date, and extracted page/section before using for clinical rules."
+    },
+    {
+      "source_id": "LOCAL_PRIORITY_8",
+      "priority": 8,
+      "name": "Local clinic preference only",
+      "url": "",
+      "local_path": "",
+      "access_status": "pending_access",
+      "extraction_status": "not_extracted",
+      "manual_review": true,
+      "notes": "Register exact document URL, version/date, and extracted page/section before using for clinical rules."
+    }
+  ]
+}
