@@ -15,6 +15,12 @@ ART = ROOT / "artifacts"
 ART.mkdir(exist_ok=True)
 
 
+def require_selector(page, selector: str, label: str) -> None:
+    count = page.locator(selector).count()
+    if count < 1:
+        raise AssertionError(f"Missing {label}: {selector}")
+
+
 def is_env_dependency_error(exc: Exception) -> bool:
     s = str(exc).lower()
     needles = [
@@ -38,34 +44,36 @@ def run_smoke(browser_name: str) -> None:
         page.on("pageerror", lambda e: errs.append(str(e)))
         page.goto(URL, wait_until="domcontentloaded")
 
-        assert page.locator("[data-tab]").count() >= 8
+        if page.locator("[data-tab]").count() < 8:
+            raise AssertionError("Expected at least 8 navigation tabs")
 
         for tab in ["compare", "validation", "admin", "rules", "release"]:
             page.click(f'[data-tab="{tab}"]')
 
         page.click('[data-tab="validation"]')
-        assert page.locator('#dlImpQueueJson').count() == 1
-        assert page.locator('#dlImpQueueCsv').count() == 1
+        require_selector(page, '[data-hero-action="review:json"]', "validation review JSON export")
+        require_selector(page, '[data-hero-action="review:csv"]', "validation review CSV export")
 
         page.click('[data-tab="admin"]')
-        assert page.locator('#dlImpQueueJsonAdmin').count() == 1
-        assert page.locator('#dlImpQueueCsvAdmin').count() == 1
+        require_selector(page, '#adminSummary .review-kpi, #adminSummary .admin-metric', "admin summary metrics")
+        require_selector(page, '[data-hero-action="review:csv"], #dlImpQueueCsvAdmin', "admin review CSV export")
+        require_selector(page, '[data-hero-action="review:json"], #dlImpQueueJsonAdmin', "admin review JSON export")
 
         page.click('[data-tab="rules"]')
         page.fill('#ruleCheckpointLabel', 'smoke-checkpoint')
         page.click('[data-rchkadd]')
-        assert page.locator('[data-rchkdiff]').count() >= 1
-        assert page.locator('[data-rchkrename]').count() >= 1
-        assert page.locator('[data-rchkdel]').count() >= 1
+        require_selector(page, '[data-rchkdiff]', "rule checkpoint diff")
+        require_selector(page, '[data-rchkrename]', "rule checkpoint rename")
+        require_selector(page, '[data-rchkdel]', "rule checkpoint delete")
         page.click('[data-rchkdiff]')
 
         page.fill('#rulePackImport', '{"complaints": []}')
         page.click('[data-rapply]')  # should auto-checkpoint before apply
-        assert page.locator('[data-rchkrestore]').count() >= 1
+        require_selector(page, '[data-rchkrestore]', "rule checkpoint restore")
 
         page.click('[data-tab="release"]')
         page.click('#runReleaseCheck')
-        assert page.locator('#releasePanel .good, #releasePanel .warning').count() >= 1
+        require_selector(page, '#releasePanel .good, #releasePanel .warning', "release status banner")
 
         page.screenshot(path=str(ART / 'ui-smoke.png'), full_page=True)
         browser.close()
