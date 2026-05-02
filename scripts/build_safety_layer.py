@@ -2,7 +2,7 @@
 """Build safety, RDU, antibiotic stewardship, and red-flag frameworks."""
 from __future__ import annotations
 
-from engine_common import ensure_dirs, now_iso, write_json
+from engine_common import read_json, ensure_dirs, now_iso, write_json
 
 
 def rule(rule_id: str, title: str, category: str, triggers: list[str], message: str, active: bool = False) -> dict[str, object]:
@@ -61,6 +61,11 @@ def build() -> dict[str, int]:
             ),
         ],
     }
+    reviewed_antibiotic_rules = read_json("data/safety/reviewed_antibiotic_rules.json", {"rules": []}).get("rules", [])
+    if reviewed_antibiotic_rules:
+        antibiotic_stewardship["rules"].extend(reviewed_antibiotic_rules)
+        antibiotic_stewardship["meta"]["reviewed_rule_count"] = len(reviewed_antibiotic_rules)
+        antibiotic_stewardship["meta"]["verified_rule_count"] = sum(1 for rule in reviewed_antibiotic_rules if rule.get("source_verified"))
 
     rdu_rules = {
         "meta": {"generated_at": generated_at, "manual_review": True},
@@ -89,6 +94,7 @@ def build() -> dict[str, int]:
         "validation_rules": len(validation_rules["rules"]),
         "rdu_rules": len(rdu_rules["rules"]),
         "antibiotic_rules": len(antibiotic_stewardship["rules"]),
+        "reviewed_antibiotic_rules": len(reviewed_antibiotic_rules),
         "red_flags": len(red_flags["red_flags"]),
     }
 
