@@ -75,6 +75,7 @@ def build() -> dict[str, object]:
     source_gaps = read_json("data/guidelines/source_gap_list.json", {"items": []})
     runtime = read_json("data/core/opd_fast_index.json", {"index": []})
     peds = read_json("data/pediatric/peds_product_dose_output.json", {"items": []})
+    peds_rules = read_json("data/pediatric/reviewed_peds_dose_rules.json", {"rules": []}).get("rules", [])
 
     sources = source_registry.get("sources", [])
     verified_sources = [s for s in sources if s.get("access_status") == "available" and s.get("extraction_status") == "extracted"]
@@ -107,6 +108,10 @@ def build() -> dict[str, object]:
         "manual_review_queue_count": len(manual_queue.get("items", [])),
         "source_gap_count": len(source_gaps.get("items", [])),
         "pediatric_review_count": len(peds.get("items", [])),
+        "pediatric_verified_count": sum(1 for rule in peds_rules if rule.get("reviewer_status") == "verified"),
+        "pediatric_label_reference_only_count": sum(1 for rule in peds_rules if rule.get("reviewer_status") == "label_reference_only"),
+        "pediatric_pending_source_count": sum(1 for rule in peds_rules if rule.get("reviewer_status") == "pending_source"),
+        "pediatric_do_not_use_count": sum(1 for rule in peds_rules if rule.get("reviewer_status") == "do_not_use"),
         "manual_review_reason_counts": dict(sorted(review_reason_counts.items())),
         "source_coverage": source_coverage,
         "verified_source_count": len(verified_sources),

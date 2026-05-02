@@ -23,6 +23,10 @@
     "manual_review_queue_count": 334,
     "source_gap_count": 36,
     "pediatric_review_count": 93,
+    "pediatric_verified_count": 0,
+    "pediatric_label_reference_only_count": 0,
+    "pediatric_pending_source_count": 0,
+    "pediatric_do_not_use_count": 0,
     "manual_review_reason_counts": {
       "antibiotic_requires_indication_duration_source": 93,
       "form_uncertain": 164,

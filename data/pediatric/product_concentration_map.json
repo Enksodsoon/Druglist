@@ -5,7 +5,11 @@
     "concentration_records": 910,
     "pediatric_candidate_count": 93,
     "auto_dose_enabled_count": 0,
-    "manual_review_count": 93
+    "manual_review_count": 93,
+    "verified_peds_review_count": 0,
+    "label_reference_only_count": 0,
+    "pending_source_count": 0,
+    "do_not_use_count": 0
   },
   "items": [
     {

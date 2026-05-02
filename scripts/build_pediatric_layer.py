@@ -6,6 +6,7 @@ import re
 from collections import Counter
 
 from engine_common import clean, ensure_dirs, norm_key, now_iso, read_json, stable_id, write_json, write_report
+from peds_workflow import REVIEWED_PEDS_STORE
 
 
 def parse_concentration(composition: str) -> dict[str, object]:
@@ -68,7 +69,9 @@ def build() -> dict[str, object]:
     ensure_dirs("data/pediatric", "reports")
     products = read_json("data/core/drug_master_rebuilt.json", {"products": []}).get("products", [])
     peds_source_rules = read_json("data/guidelines/dose_rules_peds_source_linked.json", {"rules": []}).get("rules", [])
-    verified_rules = [rule for rule in peds_source_rules if rule.get("active") and rule.get("source_ids")]
+    reviewed_peds_rules = read_json(REVIEWED_PEDS_STORE, {"rules": []}).get("rules", [])
+    verified_reviewed_rules = [rule for rule in reviewed_peds_rules if rule.get("reviewer_status") == "verified" and rule.get("source_ids")]
+    verified_rules = [rule for rule in peds_source_rules if rule.get("active") and rule.get("source_ids")] + verified_reviewed_rules
     generated_at = now_iso()
 
     concentration_map = []
@@ -146,6 +149,10 @@ def build() -> dict[str, object]:
         "pediatric_candidate_count": len(product_outputs),
         "auto_dose_enabled_count": 0,
         "manual_review_count": len(product_outputs),
+        "verified_peds_review_count": len(verified_reviewed_rules),
+        "label_reference_only_count": sum(1 for rule in reviewed_peds_rules if rule.get("reviewer_status") == "label_reference_only"),
+        "pending_source_count": sum(1 for rule in reviewed_peds_rules if rule.get("reviewer_status") == "pending_source"),
+        "do_not_use_count": sum(1 for rule in reviewed_peds_rules if rule.get("reviewer_status") == "do_not_use"),
     }
     write_json("data/pediatric/product_concentration_map.json", {"meta": meta, "items": concentration_map})
     write_json("data/pediatric/peds_dose_rules_verified.json", dose_rules_verified)
