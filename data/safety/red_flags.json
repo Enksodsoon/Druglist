@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:38:27Z",
+    "manual_review": true
+  },
+  "red_flags": [
+    {
+      "rule_id": "EYE_RED_FLAGS",
+      "title": "Eye red flags framework",
+      "category": "red_flag_eye",
+      "triggers": [
+        "eye_pain",
+        "vision_change",
+        "photophobia",
+        "trauma",
+        "contact_lens"
+      ],
+      "message": "Eye red flags require urgent clinician review.",
+      "severity": "review",
+      "active": false,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "DEHYDRATION_RED_FLAGS",
+      "title": "Dehydration red flags framework",
+      "category": "red_flag_dehydration",
+      "triggers": [
+        "lethargy",
+        "poor_intake",
+        "reduced_urine",
+        "blood_stool"
+      ],
+      "message": "Dehydration red flags require urgent clinician review.",
+      "severity": "review",
+      "active": false,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "DYSPNEA_RED_FLAGS",
+      "title": "Dyspnea red flags framework",
+      "category": "red_flag_dyspnea",
+      "triggers": [
+        "dyspnea",
+        "wheeze",
+        "cyanosis",
+        "chest_pain"
+      ],
+      "message": "Dyspnea red flags require urgent clinician review.",
+      "severity": "review",
+      "active": false,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "ANIMAL_BITE_RED_FLAGS",
+      "title": "Animal bite red flags framework",
+      "category": "red_flag_wound",
+      "triggers": [
+        "animal_bite",
+        "deep_wound",
+        "face_hand_genital",
+        "immunocompromised"
+      ],
+      "message": "Animal bite red flags require clinician review and source-linked protocol.",
+      "severity": "review",
+      "active": false,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    }
+  ]
+}

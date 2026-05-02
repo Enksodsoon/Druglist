@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:38:27Z",
+    "manual_review": true
+  },
+  "rules": [
+    {
+      "rule_id": "DUP_PARACETAMOL",
+      "title": "Duplicate paracetamol ingredient warning",
+      "category": "duplicate_ingredient",
+      "triggers": [
+        "paracetamol",
+        "acetaminophen"
+      ],
+      "message": "Review duplicate paracetamol exposure before dispensing.",
+      "severity": "review",
+      "active": true,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "DUP_NSAID",
+      "title": "Duplicate NSAID warning",
+      "category": "duplicate_class",
+      "triggers": [
+        "ibuprofen",
+        "diclofenac",
+        "naproxen",
+        "mefenamic"
+      ],
+      "message": "Review duplicate NSAID exposure before dispensing.",
+      "severity": "review",
+      "active": true,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "ALLERGY_FRAMEWORK",
+      "title": "Allergy check framework",
+      "category": "allergy",
+      "triggers": [
+        "allergy",
+        "แพ้ยา"
+      ],
+      "message": "Medication allergy must be checked and documented.",
+      "severity": "review",
+      "active": true,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "PEDS_AGE_BW_GATE",
+      "title": "Pediatric age/body-weight gate",
+      "category": "pediatric",
+      "triggers": [
+        "age",
+        "weight",
+        "pediatric"
+      ],
+      "message": "Pediatric output requires age, body weight, verified dose rule, and source.",
+      "severity": "review",
+      "active": true,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "CONCENTRATION_MISSING",
+      "title": "Pediatric concentration missing warning",
+      "category": "pediatric",
+      "triggers": [
+        "missing_concentration"
+      ],
+      "message": "Pediatric liquid dose output requires a verified concentration.",
+      "severity": "review",
+      "active": true,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "PREGNANCY_CAUTION_FRAMEWORK",
+      "title": "Pregnancy caution framework",
+      "category": "special_population",
+      "triggers": [
+        "pregnancy"
+      ],
+      "message": "Pregnancy status requires product-specific review.",
+      "severity": "review",
+      "active": false,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "RENAL_CAUTION_FRAMEWORK",
+      "title": "Renal caution framework",
+      "category": "special_population",
+      "triggers": [
+        "renal"
+      ],
+      "message": "Renal impairment requires product-specific review.",
+      "severity": "review",
+      "active": false,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "HEPATIC_CAUTION_FRAMEWORK",
+      "title": "Hepatic caution framework",
+      "category": "special_population",
+      "triggers": [
+        "hepatic"
+      ],
+      "message": "Hepatic impairment requires product-specific review.",
+      "severity": "review",
+      "active": false,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "STEROID_EYE_CAUTION",
+      "title": "Steroid eye caution framework",
+      "category": "ophthalmic",
+      "triggers": [
+        "steroid_eye",
+        "dexamethasone",
+        "prednisolone"
+      ],
+      "message": "Eye steroid products require clinician review and red-flag screening.",
+      "severity": "review",
+      "active": false,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    }
+  ]
+}

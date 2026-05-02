@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:38:27Z",
+    "manual_review": true
+  },
+  "rules": [
+    {
+      "rule_id": "RDU_ANTIBIOTIC_REVIEW",
+      "title": "RDU antibiotic review framework",
+      "category": "rdu",
+      "triggers": [
+        "antibiotic"
+      ],
+      "message": "Check RDU eligibility and documented indication before antibiotic use.",
+      "severity": "review",
+      "active": false,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "RDU_DUPLICATE_THERAPY",
+      "title": "RDU duplicate therapy framework",
+      "category": "rdu",
+      "triggers": [
+        "duplicate"
+      ],
+      "message": "Review duplicate therapy before finalizing regimen.",
+      "severity": "review",
+      "active": true,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    },
+    {
+      "rule_id": "RDU_LOCAL_PREFERENCE_ONLY",
+      "title": "Local preference is not evidence",
+      "category": "rdu",
+      "triggers": [
+        "local_preference"
+      ],
+      "message": "Local clinic preference alone is insufficient for source-linked clinical rules.",
+      "severity": "review",
+      "active": true,
+      "source_ids": [],
+      "source_status": "missing_verified_source",
+      "manual_review": true
+    }
+  ]
+}
