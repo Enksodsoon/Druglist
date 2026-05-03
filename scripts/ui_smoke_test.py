@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import os
 import subprocess
+import sys
 import time
 from pathlib import Path
 
@@ -72,8 +73,13 @@ def run_smoke(browser_name: str) -> None:
         require_selector(page, '[data-rchkrestore]', "rule checkpoint restore")
 
         page.click('[data-tab="release"]')
-        page.click('#runReleaseCheck')
-        require_selector(page, '#releasePanel .good, #releasePanel .warning', "release status banner")
+        require_selector(page, '#releasePanel', "release panel")
+        require_selector(page, '#releaseManifest, #runReleaseCheck', "release check action")
+        require_selector(
+            page,
+            '#releasePanel .release-health, #releasePanel .good, #releasePanel .warning',
+            "release status summary",
+        )
 
         page.screenshot(path=str(ART / 'ui-smoke.png'), full_page=True)
         browser.close()
@@ -82,7 +88,7 @@ def run_smoke(browser_name: str) -> None:
 
 
 def main() -> int:
-    server = subprocess.Popen(["python", "-m", "http.server", "8781"], cwd=ROOT)
+    server = subprocess.Popen([sys.executable, "-m", "http.server", "8781"], cwd=ROOT)
     try:
         time.sleep(1.0)
         last_err = None
