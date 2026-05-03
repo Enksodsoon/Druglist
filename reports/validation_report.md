@@ -22,3 +22,5 @@ None
 - source_coverage: 0.0
 - pediatric_outputs: 93
 - regimens: 133
+- evidence_claims: 0
+- evidence_auto_verified: 0

@@ -97,4 +97,13 @@ def readiness_for_med(med: dict[str, Any], product: dict[str, Any] | None, disea
         "clinical_readiness": clinical_readiness,
         "missing_requirements": sorted(set(missing)),
         "fast_mode_allowed": bool(fast_mode_allowed),
+        "evidence_status": product.get("evidence_status", "pending_source_collection"),
+        "evidence_score": float(product.get("evidence_score") or 0),
+        "evidence_confidence": product.get("evidence_confidence", "none"),
+        "evidence_source_ids": list(product.get("evidence_source_ids") or []),
+        "evidence_required_fields_missing": list(
+            product.get("evidence_required_fields_missing")
+            or ["source collection", "source extraction"]
+        ),
+        "auto_resolution_status": product.get("auto_resolution_status", "pending_source_collection"),
     }

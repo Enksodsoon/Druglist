@@ -37,6 +37,15 @@ REQUIRED_JSON = [
     "data/safety/red_flags.json",
     "data/meta/manual_review_queue.json",
     "data/meta/build_manifest.json",
+    "data/evidence/source_search_tasks.json",
+    "data/evidence/source_cache_manifest.json",
+    "data/evidence/evidence_candidates.json",
+    "data/evidence/evidence_claims.json",
+    "data/evidence/evidence_scores.json",
+    "data/evidence/auto_verified_claims.json",
+    "data/evidence/unresolved_low_confidence_gaps.json",
+    "data/evidence/auto_resolved_source_gaps.json",
+    "data/evidence/evidence_runtime_summary.json",
 ]
 
 REQUIRED_SECTIONS = ["main", "peds", "catalog", "compare", "validation", "inventory", "admin", "rules"]
@@ -144,6 +153,34 @@ def main() -> int:
     if unsafe_antibiotics:
         errors.append(f"antibiotic_fast_mode_without_verified_gate:{len(unsafe_antibiotics)}")
 
+    evidence_scores = payloads["data/evidence/evidence_scores.json"].get("claims", [])
+    evidence_verified_without_source = [
+        claim.get("claim_id")
+        for claim in evidence_scores
+        if claim.get("evidence_status") == "auto_verified"
+        and (not claim.get("source_id") or not (claim.get("source_location") or claim.get("file_reference") or claim.get("url") or claim.get("snippet")))
+    ]
+    if evidence_verified_without_source:
+        errors.append(f"evidence_auto_verified_without_source:{len(evidence_verified_without_source)}")
+    unsafe_peds_evidence = [
+        claim.get("claim_id")
+        for claim in evidence_scores
+        if claim.get("evidence_status") == "auto_verified"
+        and claim.get("claim_type") == "peds dose"
+        and claim.get("evidence_required_fields_missing")
+    ]
+    if unsafe_peds_evidence:
+        errors.append(f"peds_evidence_verified_missing_required_fields:{len(unsafe_peds_evidence)}")
+    unsafe_antibiotic_evidence = [
+        claim.get("claim_id")
+        for claim in evidence_scores
+        if claim.get("evidence_status") == "auto_verified"
+        and claim.get("claim_type") == "antibiotic criteria"
+        and claim.get("evidence_required_fields_missing")
+    ]
+    if unsafe_antibiotic_evidence:
+        errors.append(f"antibiotic_evidence_verified_missing_required_fields:{len(unsafe_antibiotic_evidence)}")
+
     index_text = (ROOT / "index.html").read_text(encoding="utf-8")
     for section in REQUIRED_SECTIONS:
         if f'id="section-{section}"' not in index_text:
@@ -167,6 +204,8 @@ def main() -> int:
             "source_coverage": round(source_coverage, 4),
             "pediatric_outputs": len(peds_outputs),
             "regimens": len(regimens),
+            "evidence_claims": len(evidence_scores),
+            "evidence_auto_verified": sum(1 for claim in evidence_scores if claim.get("evidence_status") == "auto_verified"),
         },
     }
     write_json("reports/validation_report.json", report)

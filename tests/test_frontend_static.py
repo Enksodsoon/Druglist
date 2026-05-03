@@ -76,6 +76,9 @@ def test_safety_review_strings_remain_visible_in_frontend():
         "Review reasons",
         "Next review action",
         "Pediatric auto-dose",
+        "Evidence automation status",
+        "Auto-verified evidence",
+        "Evidence status",
     ]:
         assert text in source
 
