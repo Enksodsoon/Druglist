@@ -15,6 +15,30 @@
       "stderr": ""
     },
     {
+      "step": "scripts/auto_source_collect.py",
+      "returncode": 0,
+      "stdout": "auto_source_collect summarize-cache: source_count=216, cached_count=0, pending_source_collection_count=216",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/evidence_extract.py",
+      "returncode": 0,
+      "stdout": "evidence_extract: claims=0 pending_extraction=36",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/evidence_score.py",
+      "returncode": 0,
+      "stdout": "evidence_score: auto_verified=0 blocked_low_confidence=0",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/evidence_resolve.py",
+      "returncode": 0,
+      "stdout": "evidence_resolve: auto_resolved=0 pending=36",
+      "stderr": ""
+    },
+    {
       "step": "scripts/build_pediatric_layer.py",
       "returncode": 0,
       "stdout": "built pediatric layer: candidates=93 auto_dose=0 manual_review=93",
@@ -52,6 +76,16 @@
     "data/core/fast_regimen_master.json",
     "data/core/generic_cluster_map.json",
     "data/core/opd_fast_index.json",
+    "data/evidence/auto_resolved_source_gaps.json",
+    "data/evidence/auto_verified_claims.json",
+    "data/evidence/evidence_candidates.json",
+    "data/evidence/evidence_claims.json",
+    "data/evidence/evidence_runtime_summary.json",
+    "data/evidence/evidence_scores.json",
+    "data/evidence/source_allowlist.json",
+    "data/evidence/source_cache_manifest.json",
+    "data/evidence/source_search_tasks.json",
+    "data/evidence/unresolved_low_confidence_gaps.json",
     "data/guidelines/antibiotic_guideline_rules.json",
     "data/guidelines/disease_guideline_map.json",
     "data/guidelines/dose_rules_adult_source_linked.json",

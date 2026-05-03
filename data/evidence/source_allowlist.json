@@ -1,0 +1,65 @@
+{
+  "schema_version": "druglist-evidence-allowlist-v1",
+  "groups": [
+    {
+      "group_id": "thai_fda_ndp_ndi_nlem_rdu",
+      "name": "Thai FDA / NDP / NDI / NLEM / Thai RDU",
+      "authority_level": 1,
+      "country": "TH",
+      "source_type": "national_drug_policy",
+      "url": "",
+      "status": "pending_url_discovery",
+      "notes": "Register exact source URLs or files before evidence can be verified."
+    },
+    {
+      "group_id": "thai_moph_dms",
+      "name": "Thai MOPH / Department of Medical Services",
+      "authority_level": 2,
+      "country": "TH",
+      "source_type": "national_guideline",
+      "url": "",
+      "status": "pending_url_discovery",
+      "notes": "Register exact source URLs or files before evidence can be verified."
+    },
+    {
+      "group_id": "thai_specialty_societies",
+      "name": "Thai specialty societies",
+      "authority_level": 3,
+      "country": "TH",
+      "source_type": "society_guideline",
+      "url": "",
+      "status": "pending_url_discovery",
+      "notes": "Register exact source URLs or files before evidence can be verified."
+    },
+    {
+      "group_id": "thai_pediatric_society",
+      "name": "Thai Pediatric Society / pediatric subspecialty CPG",
+      "authority_level": 4,
+      "country": "TH",
+      "source_type": "pediatric_guideline",
+      "url": "",
+      "status": "pending_url_discovery",
+      "notes": "Register exact source URLs or files before evidence can be verified."
+    },
+    {
+      "group_id": "international_guidelines",
+      "name": "WHO / CDC / NICE / IDSA / GINA / GOLD / ACG / AAP",
+      "authority_level": 5,
+      "country": "international",
+      "source_type": "international_guideline",
+      "url": "",
+      "status": "pending_url_discovery",
+      "notes": "Register exact source URLs or files before evidence can be verified."
+    },
+    {
+      "group_id": "product_labels_smpc",
+      "name": "Product labels / SmPC",
+      "authority_level": 7,
+      "country": "mixed",
+      "source_type": "product_label",
+      "url": "",
+      "status": "pending_url_discovery",
+      "notes": "Register exact source URLs or files before evidence can be verified."
+    }
+  ]
+}

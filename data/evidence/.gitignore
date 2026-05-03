@@ -1,0 +1,6 @@
+source_cache/pdf/*
+source_cache/html/*
+source_cache/text/*
+!source_cache/pdf/.gitkeep
+!source_cache/html/.gitkeep
+!source_cache/text/.gitkeep
