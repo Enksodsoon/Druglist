@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "generated_at": "2026-05-08T09:23:00Z",
+    "source_count": 0,
+    "accepted_source_count": 0,
+    "reviewed_source_count": 0,
+    "pending_source_count": 0,
+    "rejected_source_count": 0,
+    "missing_source_count": 0,
+    "pending_gap_count": 36,
+    "validation_error_count": 0,
+    "review_status_counts": {},
+    "access_status_counts": {},
+    "coverage_by_clinical_domain": {}
+  },
+  "items": [
+    {
+      "gap_id": "GAP_DISEASE_ALLERGIC_RHINITIS",
+      "entity_type": "disease",
+      "entity_id": "allergic_rhinitis",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_URI_WET_COUGH",
+      "entity_type": "disease",
+      "entity_id": "uri_wet_cough",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_URI_DRY_COUGH",
+      "entity_type": "disease",
+      "entity_id": "uri_dry_cough",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_SORE_THROAT",
+      "entity_type": "disease",
+      "entity_id": "sore_throat",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_FEVER_MYALGIA",
+      "entity_type": "disease",
+      "entity_id": "fever_myalgia",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_DIARRHEA_ADULT",
+      "entity_type": "disease",
+      "entity_id": "diarrhea_adult",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_DIARRHEA_CHILD",
+      "entity_type": "disease",
+      "entity_id": "diarrhea_child",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_NAUSEA_VOMITING",
+      "entity_type": "disease",
+      "entity_id": "nausea_vomiting",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_DYSPEPSIA",
+      "entity_type": "disease",
+      "entity_id": "dyspepsia",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_GERD",
+      "entity_type": "disease",
+      "entity_id": "gerd",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_CONSTIPATION",
+      "entity_type": "disease",
+      "entity_id": "constipation",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_DRY_EYE",
+      "entity_type": "disease",
+      "entity_id": "dry_eye",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_RED_EYE",
+      "entity_type": "disease",
+      "entity_id": "red_eye",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_BACTERIAL_CONJUNCTIVITIS",
+      "entity_type": "disease",
+      "entity_id": "bacterial_conjunctivitis",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_ALLERGIC_CONJUNCTIVITIS",
+      "entity_type": "disease",
+      "entity_id": "allergic_conjunctivitis",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_EYELID_BUMP",
+      "entity_type": "disease",
+      "entity_id": "eyelid_bump",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_PTERYGIUM",
+      "entity_type": "disease",
+      "entity_id": "pterygium",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_TINEA",
+      "entity_type": "disease",
+      "entity_id": "tinea",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_DERMATITIS",
+      "entity_type": "disease",
+      "entity_id": "dermatitis",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_HERPES_LABIALIS",
+      "entity_type": "disease",
+      "entity_id": "herpes_labialis",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_APHTHOUS_ULCER",
+      "entity_type": "disease",
+      "entity_id": "aphthous_ulcer",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_URTICARIA",
+      "entity_type": "disease",
+      "entity_id": "urticaria",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_DYSURIA",
+      "entity_type": "disease",
+      "entity_id": "dysuria",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_URINARY_FREQUENCY",
+      "entity_type": "disease",
+      "entity_id": "urinary_frequency",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_DYSMENORRHEA",
+      "entity_type": "disease",
+      "entity_id": "dysmenorrhea",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_MIGRAINE_HEADACHE",
+      "entity_type": "disease",
+      "entity_id": "migraine_headache",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_VERTIGO",
+      "entity_type": "disease",
+      "entity_id": "vertigo",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_MSK_PAIN",
+      "entity_type": "disease",
+      "entity_id": "msk_pain",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_MINOR_WOUND",
+      "entity_type": "disease",
+      "entity_id": "minor_wound",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_DISEASE_ANIMAL_BITE",
+      "entity_type": "disease",
+      "entity_id": "animal_bite",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_TAG_ALLERGY",
+      "entity_type": "drug_role_tag",
+      "entity_id": "allergy",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_TAG_ANTIBIOTIC",
+      "entity_type": "drug_role_tag",
+      "entity_id": "antibiotic",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_TAG_COUGH_COLD",
+      "entity_type": "drug_role_tag",
+      "entity_id": "cough_cold",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_TAG_EYE",
+      "entity_type": "drug_role_tag",
+      "entity_id": "eye",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_TAG_PAIN_FEVER",
+      "entity_type": "drug_role_tag",
+      "entity_id": "pain_fever",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    },
+    {
+      "gap_id": "GAP_TAG_PEDIATRIC_CANDIDATE",
+      "entity_type": "drug_role_tag",
+      "entity_id": "pediatric_candidate",
+      "missing_item": "source",
+      "status": "pending_source_collection",
+      "review_note": "Attach accepted source_manifest row, then extract traceable claim evidence."
+    }
+  ]
+}

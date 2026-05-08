@@ -15,6 +15,12 @@
       "stderr": ""
     },
     {
+      "step": "scripts/source_manifest.py",
+      "returncode": 0,
+      "stdout": "source_manifest summary: source_count=0, accepted_source_count=0, pending_gap_count=36, missing_source_count=0",
+      "stderr": ""
+    },
+    {
       "step": "scripts/auto_source_collect.py",
       "returncode": 0,
       "stdout": "auto_source_collect summarize-cache: source_count=216, cached_count=0, pending_source_collection_count=216",
@@ -82,8 +88,11 @@
     "data/evidence/evidence_claims.json",
     "data/evidence/evidence_runtime_summary.json",
     "data/evidence/evidence_scores.json",
+    "data/evidence/manual_review_queue.json",
     "data/evidence/source_allowlist.json",
     "data/evidence/source_cache_manifest.json",
+    "data/evidence/source_manifest.example.json",
+    "data/evidence/source_manifest.json",
     "data/evidence/source_search_tasks.json",
     "data/evidence/unresolved_low_confidence_gaps.json",
     "data/guidelines/antibiotic_guideline_rules.json",

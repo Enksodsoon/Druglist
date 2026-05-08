@@ -7,6 +7,7 @@ import os
 from pathlib import Path
 
 from engine_common import ROOT, now_iso, write_json, write_report
+from evidence_common import validate_source_manifest
 
 REQUIRED_JSON = [
     "data/core/drug_master_rebuilt.json",
@@ -38,6 +39,8 @@ REQUIRED_JSON = [
     "data/meta/manual_review_queue.json",
     "data/meta/build_manifest.json",
     "data/evidence/source_search_tasks.json",
+    "data/evidence/source_manifest.json",
+    "data/evidence/manual_review_queue.json",
     "data/evidence/source_cache_manifest.json",
     "data/evidence/evidence_candidates.json",
     "data/evidence/evidence_claims.json",
@@ -154,6 +157,13 @@ def main() -> int:
         errors.append(f"antibiotic_fast_mode_without_verified_gate:{len(unsafe_antibiotics)}")
 
     evidence_scores = payloads["data/evidence/evidence_scores.json"].get("claims", [])
+    manifest_errors = validate_source_manifest(payloads["data/evidence/source_manifest.json"])
+    errors.extend(manifest_errors)
+    accepted_manifest_source_ids = {
+        source.get("source_id")
+        for source in payloads["data/evidence/source_manifest.json"].get("sources", [])
+        if source.get("review_status") == "accepted"
+    }
     evidence_verified_without_source = [
         claim.get("claim_id")
         for claim in evidence_scores
@@ -162,6 +172,14 @@ def main() -> int:
     ]
     if evidence_verified_without_source:
         errors.append(f"evidence_auto_verified_without_source:{len(evidence_verified_without_source)}")
+    evidence_verified_without_accepted_source = [
+        claim.get("claim_id")
+        for claim in evidence_scores
+        if claim.get("evidence_status") == "auto_verified"
+        and claim.get("source_id") not in accepted_manifest_source_ids
+    ]
+    if evidence_verified_without_accepted_source:
+        errors.append(f"evidence_auto_verified_without_accepted_source:{len(evidence_verified_without_accepted_source)}")
     unsafe_peds_evidence = [
         claim.get("claim_id")
         for claim in evidence_scores

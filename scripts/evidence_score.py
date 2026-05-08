@@ -5,7 +5,14 @@ from __future__ import annotations
 from typing import Any
 
 from engine_common import clean, now_iso, read_json, write_json
-from evidence_common import ANTIBIOTIC_REQUIRED_FIELDS, PEDS_REQUIRED_FIELDS, REPORT_DIR, has_source_location, source_authority_map
+from evidence_common import (
+    ANTIBIOTIC_REQUIRED_FIELDS,
+    PEDS_REQUIRED_FIELDS,
+    REPORT_DIR,
+    has_source_location,
+    source_authority_map,
+    source_is_accepted,
+)
 
 
 def required_missing(claim: dict[str, Any]) -> list[str]:
@@ -16,6 +23,8 @@ def required_missing(claim: dict[str, Any]) -> list[str]:
         missing.append("source_id")
     if not has_source_location(claim):
         missing.append("source_location")
+    if clean(claim.get("source_id")) and not source_is_accepted(clean(claim.get("source_id"))):
+        missing.append("accepted_source_review")
     if claim_type == "peds dose":
         for field in PEDS_REQUIRED_FIELDS - {"source_id", "source_location"}:
             if not structured.get(field):
@@ -40,7 +49,7 @@ def score_claim(claim: dict[str, Any]) -> dict[str, Any]:
     if missing:
         base -= min(0.35, len(missing) * 0.07)
     score = round(max(0.0, min(1.0, base)), 3)
-    if missing and any(field in missing for field in ["source_id", "source_location"]):
+    if missing and any(field in missing for field in ["source_id", "source_location", "accepted_source_review"]):
         status = "blocked_missing_required_safety_field"
     elif clean(claim.get("claim_type")) in {"peds dose", "antibiotic criteria"} and missing:
         status = "blocked_missing_required_safety_field"

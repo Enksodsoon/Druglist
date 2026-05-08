@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "schema_version": "druglist-source-manifest-v1",
+    "purpose": "Example only. Copy reviewed rows into source_manifest.json after confirming source details."
+  },
+  "sources": [
+    {
+      "source_id": "example_thai_rdu_2024",
+      "title": "Example Thai RDU Guideline",
+      "organization": "Example Organization",
+      "country_or_region": "Thailand",
+      "year": "2024",
+      "version": "example",
+      "url_or_file": "source_guidelines/example.pdf",
+      "source_type": "guideline",
+      "access_status": "file_available",
+      "clinical_domain": "general_opd",
+      "related_drugs": [],
+      "related_complaints": [],
+      "reviewer": "reviewer name",
+      "review_status": "pending",
+      "notes": "Do not mark accepted until a human reviewer confirms authority and applicability.",
+      "last_checked": "2026-05-08"
+    }
+  ]
+}
