@@ -49,6 +49,18 @@ REQUIRED_JSON = [
     "data/evidence/unresolved_low_confidence_gaps.json",
     "data/evidence/auto_resolved_source_gaps.json",
     "data/evidence/evidence_runtime_summary.json",
+    "data/evidence/source_manifest.todo.json",
+    "data/meta/clinical_regimen_quality_issues.json",
+    "data/meta/antiviral_regimen_quality_issues.json",
+    "data/meta/antibiotic_rdu_quality_issues.json",
+    "data/meta/workbook_quality_issues.json",
+    "data/meta/correction_overlay_applied.json",
+    "data/guidelines/antiviral_source_gaps.json",
+    "data/guidelines/antibiotic_source_gap_priority.json",
+    "data/pediatric/pediatric_source_gap_priority.json",
+    "data/safety/regimen_safety_rules.json",
+    "data/overrides/regimen_corrections.json",
+    "data/overrides/product_corrections.json",
 ]
 
 REQUIRED_SECTIONS = ["main", "peds", "catalog", "compare", "validation", "inventory", "admin", "rules"]
@@ -198,6 +210,16 @@ def main() -> int:
     ]
     if unsafe_antibiotic_evidence:
         errors.append(f"antibiotic_evidence_verified_missing_required_fields:{len(unsafe_antibiotic_evidence)}")
+    zoster_regimens = [r for r in regimens if "zoster" in str(r.get("disease_id", "")).lower() or "shingles" in str(r.get("display_name", "")).lower()]
+    unsafe_zoster = [
+        line.get("line_id")
+        for regimen in zoster_regimens
+        for line in regimen.get("lines", [])
+        if "acyclovir" in str(line.get("display_name", "")).lower()
+        and (line.get("clinical_readiness") == "ready" or line.get("fast_mode_allowed"))
+    ]
+    if unsafe_zoster:
+        errors.append(f"zoster_antiviral_ready_without_verified_source:{len(unsafe_zoster)}")
 
     index_text = (ROOT / "index.html").read_text(encoding="utf-8")
     for section in REQUIRED_SECTIONS:

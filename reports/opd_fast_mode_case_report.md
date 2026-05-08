@@ -20,7 +20,7 @@ Pass: True
 | 11 | red eye with vision loss | eye_red_flag | 0 | 0 | n/a | True |
 | 12 | tinea cruris | tinea_cruris_adult | 2 | 0 | usable_with_warning | True |
 | 13 | aphthous ulcer | aphthous_ulcer_pain_adult | 3 | 0 | manual_review_required, usable_with_warning | True |
-| 14 | herpes labialis | herpes_labialis_adult | 1 | 0 | usable_with_warning | True |
+| 14 | herpes labialis | herpes_labialis_adult | 1 | 0 | manual_review_required | True |
 | 15 | lip dermatitis | itchy_dermatitis_adult | 3 | 0 | manual_review_required, usable_with_warning | True |
 | 16 | dyspepsia | dyspepsia_gas_adult | 3 | 0 | usable_with_warning | True |
 | 17 | GERD | gerd | 0 | 0 | n/a | True |

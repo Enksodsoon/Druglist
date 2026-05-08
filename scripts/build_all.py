@@ -21,7 +21,16 @@ STEPS = [
     "scripts/build_pediatric_layer.py",
     "scripts/build_safety_layer.py",
     "scripts/build_runtime_json.py",
+    "scripts/clinical_regimen_audit.py",
+    "scripts/antiviral_regimen_audit.py",
+    "scripts/pediatric_source_gap_audit.py",
+    "scripts/antibiotic_rdu_audit.py",
+    "scripts/regimen_safety_validate.py",
+    "scripts/workbook_qa.py",
+    "scripts/source_manifest_bootstrap.py",
+    "scripts/apply_corrections.py",
     "scripts/build_frontend_seed.py",
+    "scripts/clinical_verification_report.py",
 ]
 
 
@@ -53,7 +62,7 @@ def main() -> int:
 
     outputs = sorted(
         str(path.relative_to(ROOT))
-        for base in ["data/core", "data/guidelines", "data/pediatric", "data/safety", "data/meta", "data/evidence"]
+        for base in ["data/core", "data/guidelines", "data/pediatric", "data/safety", "data/meta", "data/evidence", "data/overrides"]
         for path in (ROOT / base).glob("*.json")
     )
     manifest = {

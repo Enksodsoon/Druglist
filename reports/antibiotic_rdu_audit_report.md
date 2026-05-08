@@ -1,0 +1,35 @@
+# Antibiotic RDU Audit Report
+
+Generated: 2026-05-02T06:45:17Z
+
+- Issues: 48
+- Blockers: 35
+- High: 13
+- Medium: 0
+- Low: 0
+
+No dose, duration, indication, or source was fabricated by this audit.
+
+- Antibiotic source gaps: 95
+
+## Top Issues
+- `ABX_FRM0028_RX1_BDS001491` blocker inappropriate_antibiotic_default tinea_pruritic_rash_adult BDS001491: remove_from_RX_NOW
+- `ABX_FRM0031_RX1_BDS002003` blocker antibiotic_source_gate_missing minor_skin_infection_topical_adult BDS002003: require_antibiotic_criteria
+- `ABX_FRM0033_RX1_BDS001103` blocker antibiotic_source_gate_missing bacterial_sinusitis_adult BDS001103: require_antibiotic_criteria
+- `ABX_FRM0034_RX1_BDS002201` blocker antibiotic_source_gate_missing bacterial_pharyngitis_adult BDS002201: require_antibiotic_criteria
+- `ABX_FRM0058_RX1_BDS001491` blocker antibiotic_source_gate_missing tinea_corporis_localized_adult BDS001491: require_antibiotic_criteria
+- `ABX_FRM0059_RX1_BDS002003` blocker antibiotic_source_gate_missing impetigo_localized_adult BDS002003: require_antibiotic_criteria
+- `ABX_FRM0059_SWAP1_BDS002201` high antibiotic_source_gate_missing impetigo_localized_adult BDS002201: require_antibiotic_criteria
+- `ABX_FRM0060_RX2_BDS002003` blocker antibiotic_source_gate_missing minor_wound_care_adult BDS002003: require_antibiotic_criteria
+- `ABX_FRM0074_SWAP1_BDS002003` high antibiotic_source_gate_missing superficial_abrasion_adult BDS002003: require_antibiotic_criteria
+- `ABX_FRM0075_SWAP1_BDS002003` high antibiotic_source_gate_missing minor_cut_wound_care_adult BDS002003: require_antibiotic_criteria
+- `ABX_FRM0092_RX1_BDS001437` blocker antibiotic_source_gate_missing bacterial_conjunctivitis_adult BDS001437: require_antibiotic_criteria
+- `ABX_FRM0092_SWAP1_BDS001847` high antibiotic_source_gate_missing bacterial_conjunctivitis_adult BDS001847: require_antibiotic_criteria
+- `ABX_FRM0092_SWAP2_BDS003721` high antibiotic_source_gate_missing bacterial_conjunctivitis_adult BDS003721: require_antibiotic_criteria
+- `ABX_FRM0093_RX1_BDS001437` blocker antibiotic_source_gate_missing bacterial_conjunctivitis_peds BDS001437: require_antibiotic_criteria
+- `ABX_FRM0093_SWAP1_BDS001847` high antibiotic_source_gate_missing bacterial_conjunctivitis_peds BDS001847: require_antibiotic_criteria
+- `ABX_FRM0094_RX1_BDS003721` blocker antibiotic_source_gate_missing bacterial_eyelid_infection_adult BDS003721: require_antibiotic_criteria
+- `ABX_FRM0094_SWAP1_BDS001847` high antibiotic_source_gate_missing bacterial_eyelid_infection_adult BDS001847: require_antibiotic_criteria
+- `ABX_FRM0095_RX1_BDS003721` blocker antibiotic_source_gate_missing bacterial_eyelid_infection_peds BDS003721: require_antibiotic_criteria
+- `ABX_FRM0095_SWAP1_BDS001847` high antibiotic_source_gate_missing bacterial_eyelid_infection_peds BDS001847: require_antibiotic_criteria
+- `ABX_FRM0096_RX1_BDS001047` blocker antibiotic_source_gate_missing bacterial_sinusitis_peds BDS001047: require_antibiotic_criteria

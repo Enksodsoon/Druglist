@@ -85,6 +85,14 @@ def build() -> dict[str, object]:
     runtime = read_json("data/core/opd_fast_index.json", {"index": []})
     peds = read_json("data/pediatric/peds_product_dose_output.json", {"items": []})
     peds_rules = read_json("data/pediatric/reviewed_peds_dose_rules.json", {"rules": []}).get("rules", [])
+    clinical_issues = read_json("data/meta/clinical_regimen_quality_issues.json", {"issues": []}).get("issues", [])
+    antiviral_issues = read_json("data/meta/antiviral_regimen_quality_issues.json", {"issues": []}).get("issues", [])
+    antibiotic_issues = read_json("data/meta/antibiotic_rdu_quality_issues.json", {"issues": []}).get("issues", [])
+    peds_priority = read_json("data/pediatric/pediatric_source_gap_priority.json", {"items": []}).get("items", [])
+    regimen_safety = read_json("data/safety/regimen_safety_rules.json", {"items": []}).get("items", [])
+    workbook_issues = read_json("data/meta/workbook_quality_issues.json", {"issues": []}).get("issues", [])
+    corrections = read_json("data/meta/correction_overlay_applied.json", {"items": []}).get("items", [])
+    source_todo = read_json("data/evidence/source_manifest.todo.json", {"items": []}).get("items", [])
 
     sources = source_registry.get("sources", [])
     verified_sources = [s for s in sources if s.get("access_status") == "available" and s.get("extraction_status") == "extracted"]
@@ -135,6 +143,15 @@ def build() -> dict[str, object]:
         "evidence_blocked_conflict_count": evidence_summary.get("blocked_conflict_count", 0),
         "evidence_peds_auto_verified_count": evidence_summary.get("peds_auto_verified_count", 0),
         "evidence_antibiotic_auto_verified_count": evidence_summary.get("antibiotic_auto_verified_count", 0),
+        "clinical_audit_issue_count": len(clinical_issues),
+        "clinical_audit_blocker_count": sum(1 for issue in clinical_issues if issue.get("severity") == "blocker"),
+        "antiviral_audit_issue_count": len(antiviral_issues),
+        "pediatric_source_gap_count": len(peds_priority),
+        "antibiotic_rdu_issue_count": len(antibiotic_issues),
+        "regimen_safety_blocker_count": sum(1 for row in regimen_safety if row.get("regimen_safety_status") == "blocked"),
+        "workbook_qa_issue_count": len(workbook_issues),
+        "correction_overlay_applied_count": len(corrections),
+        "source_manifest_todo_count": len(source_todo),
         "clinical_status": "source_workbook_only_with_unverified_legacy_regimens",
     }
     write_json("data/core/app_seed_runtime.json", output)

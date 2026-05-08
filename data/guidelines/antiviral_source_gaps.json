@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:45:17Z",
+    "gap_count": 15
+  },
+  "items": [
+    {
+      "gap_id": "AV_GAP_BDS008064_PRODUCT_METADATA",
+      "product_id": "BDS008064",
+      "generic_name": "Acyclovir",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_BDS008065_PRODUCT_METADATA",
+      "product_id": "BDS008065",
+      "generic_name": "Acyclovir",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_BDS007782_PRODUCT_METADATA",
+      "product_id": "BDS007782",
+      "generic_name": "Acyclovir",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_BDS007783_PRODUCT_METADATA",
+      "product_id": "BDS007783",
+      "generic_name": "Acyclovir",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_BDS007781_PRODUCT_METADATA",
+      "product_id": "BDS007781",
+      "generic_name": "Acyclovir",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_BDS004019_PRODUCT_METADATA",
+      "product_id": "BDS004019",
+      "generic_name": "Acyclovir",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_BDS004086_PRODUCT_METADATA",
+      "product_id": "BDS004086",
+      "generic_name": "Acyclovir",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_BDS004011_PRODUCT_METADATA",
+      "product_id": "BDS004011",
+      "generic_name": "Acyclovir",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_BDS007001_PRODUCT_METADATA",
+      "product_id": "BDS007001",
+      "generic_name": "Acyclovir",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_BDS007719_PRODUCT_METADATA",
+      "product_id": "BDS007719",
+      "generic_name": "Acyclovir w/w",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_BDS004046_PRODUCT_METADATA",
+      "product_id": "BDS004046",
+      "generic_name": "Acyclovir",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_BDS004020_PRODUCT_METADATA",
+      "product_id": "BDS004020",
+      "generic_name": "Acyclovir",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_BDS004216_PRODUCT_METADATA",
+      "product_id": "BDS004216",
+      "generic_name": "Acyclovir",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_HERPES_LABIALIS_ADULT_DISEASE_REGIMEN",
+      "disease_key": "herpes_labialis_adult",
+      "regimen_id": "FRM0026",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "indication",
+        "adult dose",
+        "frequency",
+        "duration",
+        "timing window",
+        "red flags"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_HERPES_ZOSTER_ADULT_DISEASE_REGIMEN",
+      "disease_key": "herpes_zoster_adult",
+      "regimen_id": "FRM0027",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "indication",
+        "adult dose",
+        "frequency",
+        "duration",
+        "timing window",
+        "red flags"
+      ],
+      "status": "pending_source_collection"
+    }
+  ]
+}

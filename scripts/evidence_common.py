@@ -17,7 +17,7 @@ PDF_CACHE_DIR = SOURCE_CACHE_DIR / "pdf"
 SOURCE_MANIFEST_PATH = EVIDENCE_DIR / "source_manifest.json"
 
 SOURCE_TYPES = {"guideline", "label", "formulary", "review", "local_policy", "other"}
-ACCESS_STATUSES = {"missing", "url_available", "file_available", "extracted", "reviewed"}
+ACCESS_STATUSES = {"missing", "pending_access", "url_available", "file_available", "extracted", "reviewed"}
 REVIEW_STATUSES = {"pending", "reviewed", "rejected", "accepted"}
 
 ALLOWED_EVIDENCE_STATUSES = {
@@ -111,12 +111,18 @@ def validate_source_manifest(manifest: dict[str, Any] | None = None) -> list[str
                 "title": source.get("title"),
                 "organization": source.get("organization"),
                 "url_or_file": source.get("url_or_file"),
+                "access_status": source.get("access_status"),
+                "clinical_domain": source.get("clinical_domain"),
+                "last_checked": source.get("last_checked"),
             }
             for field, value in required.items():
                 if not clean(value):
                     errors.append(f"source_manifest_accepted_missing_{field}:{label}")
             if not (clean(source.get("year")) or clean(source.get("version"))):
                 errors.append(f"source_manifest_accepted_missing_year_or_version:{label}")
+            placeholder_text = " ".join(clean(source.get(key)).lower() for key in ["source_id", "title", "url_or_file"])
+            if "example" in placeholder_text or "placeholder" in placeholder_text:
+                errors.append(f"source_manifest_accepted_placeholder_source:{label}")
     return errors
 
 
