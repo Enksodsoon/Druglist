@@ -1,24 +1,17 @@
 {
   "candidates": [
     {
-      "access_status": "pending_text_check",
-      "candidate_id": "src_candidate_a117d17b1dd2",
-      "candidate_title": "Clinical Overview of Shingles (Herpes Zoster)",
-      "candidate_url": "https://www.cdc.gov/shingles/hcp/clinical-overview/index.html",
-      "clinical_question": "Find accepted source pack evidence for Antiviral / herpes / zoster pack",
       "confidence_score": 0.75,
       "country": "United States",
-      "disease_key": "herpes_labialis_adult; herpes_zoster_adult",
-      "expected_claims": [
+      "diseases_covered": "herpes_labialis_adult; herpes_zoster_adult",
+      "drugs_covered": "Acyclovir; Acyclovir 400 mg.; Acyclovir 800 mg.; Acyclovir w/w; Paracetamol; Paracetamol 500 mg.",
+      "evidence_fields_likely": [
         "disease_strategy",
         "timing_window",
         "red_flags"
       ],
-      "generic_name": "Acyclovir; Acyclovir 400 mg.; Acyclovir 800 mg.; Acyclovir w/w; Paracetamol; Paracetamol 500 mg.",
       "organization": "Centers for Disease Control and Prevention",
       "pack_id": "antiviral_herpes_zoster",
-      "product_id": "",
-      "regimen_id": "",
       "rejection_reason": "",
       "rows_potentially_covered": [
         "coverage_ec2ac49a4e4a",
@@ -59,33 +52,25 @@
         "coverage_0a43ff4faf45",
         "coverage_1ef52ae74673"
       ],
-      "search_query": "acyclovir herpes zoster adult antiviral timing",
-      "source_id_suggestion": "cdc_shingles_clinical_overview",
-      "source_priority": 1,
-      "source_task_id": "src_task_01731ac4559e",
+      "source_candidate_id": "src_candidate_a117d17b1dd2",
+      "source_title": "Clinical Overview of Shingles (Herpes Zoster)",
       "source_type": "guideline",
       "status": "candidate_official",
-      "year": "2024"
+      "url_or_file": "https://www.cdc.gov/shingles/hcp/clinical-overview/index.html",
+      "year_version": "2024"
     },
     {
-      "access_status": "pending_text_check",
-      "candidate_id": "src_candidate_06c2c8b007fe",
-      "candidate_title": "Sexually Transmitted Infections Treatment Guidelines: Herpes",
-      "candidate_url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm",
-      "clinical_question": "Find accepted source pack evidence for Antiviral / herpes / zoster pack",
       "confidence_score": 0.75,
       "country": "United States",
-      "disease_key": "herpes_labialis_adult; herpes_zoster_adult",
-      "expected_claims": [
+      "diseases_covered": "herpes_labialis_adult; herpes_zoster_adult",
+      "drugs_covered": "Acyclovir; Acyclovir 400 mg.; Acyclovir 800 mg.; Acyclovir w/w; Paracetamol; Paracetamol 500 mg.",
+      "evidence_fields_likely": [
         "disease_indication",
         "adult_dose",
         "duration"
       ],
-      "generic_name": "Acyclovir; Acyclovir 400 mg.; Acyclovir 800 mg.; Acyclovir w/w; Paracetamol; Paracetamol 500 mg.",
       "organization": "Centers for Disease Control and Prevention",
       "pack_id": "antiviral_herpes_zoster",
-      "product_id": "",
-      "regimen_id": "",
       "rejection_reason": "",
       "rows_potentially_covered": [
         "coverage_ec2ac49a4e4a",
@@ -126,97 +111,72 @@
         "coverage_0a43ff4faf45",
         "coverage_1ef52ae74673"
       ],
-      "search_query": "genital herpes acyclovir antiviral regimen",
-      "source_id_suggestion": "cdc_sti_herpes_guideline",
-      "source_priority": 1,
-      "source_task_id": "src_task_01731ac4559e",
+      "source_candidate_id": "src_candidate_06c2c8b007fe",
+      "source_title": "Sexually Transmitted Infections Treatment Guidelines: Herpes",
       "source_type": "guideline",
       "status": "candidate_official",
-      "year": "2021"
+      "url_or_file": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm",
+      "year_version": "2021"
     },
     {
-      "access_status": "pending_text_check",
-      "candidate_id": "src_candidate_51f62f39581a",
-      "candidate_title": "WHO Model Lists of Essential Medicines",
-      "candidate_url": "https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines/essential-medicines-lists",
-      "clinical_question": "Find accepted source pack evidence for Thai NLEM / NDI / RDU pack",
       "confidence_score": 0.75,
       "country": "International",
-      "disease_key": "",
-      "expected_claims": [
+      "diseases_covered": "",
+      "drugs_covered": "",
+      "evidence_fields_likely": [
         "product_label_composition",
         "product_label_concentration"
       ],
-      "generic_name": "",
       "organization": "World Health Organization",
       "pack_id": "thai_nlem_ndi_rdu",
-      "product_id": "",
-      "regimen_id": "",
       "rejection_reason": "",
       "rows_potentially_covered": [],
-      "search_query": "WHO essential medicines children paracetamol ibuprofen ORS",
-      "source_id_suggestion": "who_eml_emlc_lists",
-      "source_priority": 1,
-      "source_task_id": "src_task_972cdf20d7f3",
+      "source_candidate_id": "src_candidate_51f62f39581a",
+      "source_title": "WHO Model Lists of Essential Medicines",
       "source_type": "formulary",
       "status": "candidate_official",
-      "year": "2025"
+      "url_or_file": "https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines/essential-medicines-lists",
+      "year_version": "2025"
     },
     {
-      "access_status": "pending_text_check",
-      "candidate_id": "src_candidate_2592b0a3e2c4",
-      "candidate_title": "The WHO AWaRe Antibiotic Book",
-      "candidate_url": "https://iris.who.int/bitstream/handle/10665/365237/9789240062382-eng.pdf",
-      "clinical_question": "Find accepted source pack evidence for Thai NLEM / NDI / RDU pack",
       "confidence_score": 0.75,
       "country": "International",
-      "disease_key": "",
-      "expected_claims": [
+      "diseases_covered": "",
+      "drugs_covered": "",
+      "evidence_fields_likely": [
         "no_antibiotic_criteria",
         "antibiotic_use_criteria"
       ],
-      "generic_name": "",
       "organization": "World Health Organization",
       "pack_id": "thai_nlem_ndi_rdu",
-      "product_id": "",
-      "regimen_id": "",
       "rejection_reason": "",
       "rows_potentially_covered": [],
-      "search_query": "WHO AWaRe no antibiotic viral URI simple diarrhea primary care",
-      "source_id_suggestion": "who_aware_antibiotic_book",
-      "source_priority": 1,
-      "source_task_id": "src_task_972cdf20d7f3",
+      "source_candidate_id": "src_candidate_2592b0a3e2c4",
+      "source_title": "The WHO AWaRe Antibiotic Book",
       "source_type": "guideline",
       "status": "candidate_official",
-      "year": "2022"
+      "url_or_file": "https://iris.who.int/bitstream/handle/10665/365237/9789240062382-eng.pdf",
+      "year_version": "2022"
     },
     {
-      "access_status": "pending_text_check",
-      "candidate_id": "src_candidate_f13ad111113c",
-      "candidate_title": "Sore throat (acute): antimicrobial prescribing",
-      "candidate_url": "https://www.nice.org.uk/guidance/ng84",
-      "clinical_question": "Find accepted source pack evidence for Thai NLEM / NDI / RDU pack",
       "confidence_score": 0.75,
       "country": "United Kingdom",
-      "disease_key": "",
-      "expected_claims": [
+      "diseases_covered": "",
+      "drugs_covered": "",
+      "evidence_fields_likely": [
         "no_antibiotic_criteria",
         "antibiotic_use_criteria"
       ],
-      "generic_name": "",
       "organization": "National Institute for Health and Care Excellence",
       "pack_id": "thai_nlem_ndi_rdu",
-      "product_id": "",
-      "regimen_id": "",
       "rejection_reason": "",
       "rows_potentially_covered": [],
-      "search_query": "NICE sore throat antimicrobial prescribing no antibiotic",
-      "source_id_suggestion": "nice_sore_throat_antimicrobial",
-      "source_priority": 1,
-      "source_task_id": "src_task_972cdf20d7f3",
+      "source_candidate_id": "src_candidate_f13ad111113c",
+      "source_title": "Sore throat (acute): antimicrobial prescribing",
       "source_type": "guideline",
       "status": "candidate_official",
-      "year": "2018"
+      "url_or_file": "https://www.nice.org.uk/guidance/ng84",
+      "year_version": "2018"
     }
   ]
 }
