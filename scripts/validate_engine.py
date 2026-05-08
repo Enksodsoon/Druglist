@@ -229,6 +229,34 @@ def main() -> int:
         errors.append("rules_tab_not_visible")
     if "loadRuntimeSeed" not in index_text or "app_seed_runtime.json" not in index_text:
         errors.append("frontend_runtime_loader_missing")
+    app_seed = payloads["data/core/app_seed_runtime.json"]
+    frontend_rows = [
+        line
+        for complaint in app_seed.get("cp", [])
+        for regimen in complaint.get("r", [])
+        for line in regimen.get("m", [])
+    ]
+    if not frontend_rows:
+        errors.append("main_builder_linked_rows_missing")
+    missing_frontend_readiness = [
+        line.get("i") or line.get("n")
+        for line in frontend_rows
+        if line.get("clinical_readiness") not in allowed_readiness
+        or not isinstance(line.get("fast_mode_allowed"), bool)
+        or not isinstance(line.get("missing_requirements"), list)
+    ]
+    if missing_frontend_readiness:
+        errors.append(f"main_builder_rows_missing_safe_defaults:{len(missing_frontend_readiness)}")
+    if frontend_rows and "function mainLineGroupsHtml" not in index_text:
+        errors.append("main_builder_schema_adapter_missing")
+    for token in [
+        "Blocked / Not for routine prescribing",
+        "Manual review required",
+        "No regimen linked for this disease yet",
+        "Status:",
+    ]:
+        if token not in index_text:
+            errors.append(f"main_builder_visibility_contract_missing:{token}")
 
     generated_at = report_time()
     os.environ["DRUGLIST_BUILD_TIME"] = generated_at
