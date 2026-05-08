@@ -1,0 +1,157 @@
+{
+  "items": [
+    {
+      "current_readiness": "manual_review_required",
+      "disease_key": "herpes_labialis_adult",
+      "drug_name": "Acyvir 400 mg [Acyclovir 400 mg.]",
+      "exact_block_reason": "product availability or broad antiviral strategy does not verify exact disease-specific dose/frequency/duration",
+      "exact_evidence_missing": [
+        "disease-specific indication",
+        "dose",
+        "frequency",
+        "duration",
+        "timing window/red flags when applicable"
+      ],
+      "exact_next_action": "add accepted zoster/herpes source with exact dose, frequency, duration, timing window, route/form, and red flags",
+      "final_status": "blocked_source_missing",
+      "product_id": "BDS008064",
+      "regimen_id": "FRM0026"
+    },
+    {
+      "current_readiness": "manual_review_required",
+      "disease_key": "herpes_labialis_adult",
+      "drug_name": "Acyvir 400 mg [Acyclovir 400 mg.]",
+      "exact_block_reason": "product availability or broad antiviral strategy does not verify exact disease-specific dose/frequency/duration",
+      "exact_evidence_missing": [
+        "disease-specific indication",
+        "dose",
+        "frequency",
+        "duration",
+        "timing window/red flags when applicable"
+      ],
+      "exact_next_action": "add accepted zoster/herpes source with exact dose, frequency, duration, timing window, route/form, and red flags",
+      "final_status": "blocked_source_missing",
+      "product_id": "BDS008064",
+      "regimen_id": "FRM0026"
+    },
+    {
+      "current_readiness": "manual_review_required",
+      "disease_key": "herpes_labialis_adult",
+      "drug_name": "Acyvir 400 mg [Acyclovir 400 mg.]",
+      "exact_block_reason": "product availability or broad antiviral strategy does not verify exact disease-specific dose/frequency/duration",
+      "exact_evidence_missing": [
+        "disease-specific indication",
+        "dose",
+        "frequency",
+        "duration",
+        "timing window/red flags when applicable"
+      ],
+      "exact_next_action": "add accepted zoster/herpes source with exact dose, frequency, duration, timing window, route/form, and red flags",
+      "final_status": "blocked_source_missing",
+      "product_id": "BDS008064",
+      "regimen_id": "FRM0026"
+    },
+    {
+      "current_readiness": "blocked",
+      "disease_key": "herpes_zoster_adult",
+      "drug_name": "Acyvir 800 mg [Acyclovir 800 mg.]",
+      "exact_block_reason": "product availability or broad antiviral strategy does not verify exact disease-specific dose/frequency/duration",
+      "exact_evidence_missing": [
+        "disease-specific indication",
+        "dose",
+        "frequency",
+        "duration",
+        "timing window/red flags when applicable"
+      ],
+      "exact_next_action": "add accepted zoster/herpes source with exact dose, frequency, duration, timing window, route/form, and red flags",
+      "final_status": "blocked_source_missing",
+      "product_id": "BDS008065",
+      "regimen_id": "FRM0027"
+    },
+    {
+      "current_readiness": "usable_with_warning",
+      "disease_key": "herpes_zoster_adult",
+      "drug_name": "Tylenol 500 mg strip 10s [Paracetamol 500 mg.]",
+      "exact_block_reason": "product availability or broad antiviral strategy does not verify exact disease-specific dose/frequency/duration",
+      "exact_evidence_missing": [
+        "disease-specific indication",
+        "dose",
+        "frequency",
+        "duration",
+        "timing window/red flags when applicable"
+      ],
+      "exact_next_action": "add accepted zoster/herpes source with exact dose, frequency, duration, timing window, route/form, and red flags",
+      "final_status": "blocked_source_missing",
+      "product_id": "BDS003762",
+      "regimen_id": "FRM0027"
+    },
+    {
+      "current_readiness": "blocked",
+      "disease_key": "herpes_zoster_adult",
+      "drug_name": "Acyvir 800 mg [Acyclovir 800 mg.]",
+      "exact_block_reason": "product availability or broad antiviral strategy does not verify exact disease-specific dose/frequency/duration",
+      "exact_evidence_missing": [
+        "disease-specific indication",
+        "dose",
+        "frequency",
+        "duration",
+        "timing window/red flags when applicable"
+      ],
+      "exact_next_action": "add accepted zoster/herpes source with exact dose, frequency, duration, timing window, route/form, and red flags",
+      "final_status": "blocked_source_missing",
+      "product_id": "BDS008065",
+      "regimen_id": "FRM0027"
+    },
+    {
+      "current_readiness": "usable_with_warning",
+      "disease_key": "herpes_zoster_adult",
+      "drug_name": "Tylenol 500 mg strip 10s [Paracetamol 500 mg.]",
+      "exact_block_reason": "product availability or broad antiviral strategy does not verify exact disease-specific dose/frequency/duration",
+      "exact_evidence_missing": [
+        "disease-specific indication",
+        "dose",
+        "frequency",
+        "duration",
+        "timing window/red flags when applicable"
+      ],
+      "exact_next_action": "add accepted zoster/herpes source with exact dose, frequency, duration, timing window, route/form, and red flags",
+      "final_status": "blocked_source_missing",
+      "product_id": "BDS003762",
+      "regimen_id": "FRM0027"
+    },
+    {
+      "current_readiness": "blocked",
+      "disease_key": "herpes_zoster_adult",
+      "drug_name": "Acyvir 800 mg [Acyclovir 800 mg.]",
+      "exact_block_reason": "product availability or broad antiviral strategy does not verify exact disease-specific dose/frequency/duration",
+      "exact_evidence_missing": [
+        "disease-specific indication",
+        "dose",
+        "frequency",
+        "duration",
+        "timing window/red flags when applicable"
+      ],
+      "exact_next_action": "add accepted zoster/herpes source with exact dose, frequency, duration, timing window, route/form, and red flags",
+      "final_status": "blocked_source_missing",
+      "product_id": "BDS008065",
+      "regimen_id": "FRM0027"
+    },
+    {
+      "current_readiness": "usable_with_warning",
+      "disease_key": "herpes_zoster_adult",
+      "drug_name": "Tylenol 500 mg strip 10s [Paracetamol 500 mg.]",
+      "exact_block_reason": "product availability or broad antiviral strategy does not verify exact disease-specific dose/frequency/duration",
+      "exact_evidence_missing": [
+        "disease-specific indication",
+        "dose",
+        "frequency",
+        "duration",
+        "timing window/red flags when applicable"
+      ],
+      "exact_next_action": "add accepted zoster/herpes source with exact dose, frequency, duration, timing window, route/form, and red flags",
+      "final_status": "blocked_source_missing",
+      "product_id": "BDS003762",
+      "regimen_id": "FRM0027"
+    }
+  ]
+}

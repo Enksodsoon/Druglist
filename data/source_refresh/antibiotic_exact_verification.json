@@ -1,0 +1,3460 @@
+{
+  "items": [
+    {
+      "disease_key": "tinea_pruritic_rash_adult",
+      "drug_name": "Canasone C.B. Cream [Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001491",
+      "regimen_id": "FRM0028"
+    },
+    {
+      "disease_key": "tinea_pruritic_rash_adult",
+      "drug_name": "Canasone C.B. Cream [Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001491",
+      "regimen_id": "FRM0028"
+    },
+    {
+      "disease_key": "tinea_pruritic_rash_adult",
+      "drug_name": "Canasone C.B. Cream [Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001491",
+      "regimen_id": "FRM0028"
+    },
+    {
+      "disease_key": "minor_skin_infection_topical_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0031"
+    },
+    {
+      "disease_key": "minor_skin_infection_topical_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0031"
+    },
+    {
+      "disease_key": "minor_skin_infection_topical_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0031"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0033"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0033"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0033"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0034"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0034"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0034"
+    },
+    {
+      "disease_key": "tinea_corporis_localized_adult",
+      "drug_name": "Canasone C.B. Cream [Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001491",
+      "regimen_id": "FRM0058"
+    },
+    {
+      "disease_key": "tinea_corporis_localized_adult",
+      "drug_name": "Canasone C.B. Cream [Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001491",
+      "regimen_id": "FRM0058"
+    },
+    {
+      "disease_key": "tinea_corporis_localized_adult",
+      "drug_name": "Canasone C.B. Cream [Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001491",
+      "regimen_id": "FRM0058"
+    },
+    {
+      "disease_key": "impetigo_localized_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0059"
+    },
+    {
+      "disease_key": "impetigo_localized_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0059"
+    },
+    {
+      "disease_key": "impetigo_localized_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0059"
+    },
+    {
+      "disease_key": "impetigo_localized_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0059"
+    },
+    {
+      "disease_key": "impetigo_localized_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0059"
+    },
+    {
+      "disease_key": "impetigo_localized_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0059"
+    },
+    {
+      "disease_key": "minor_wound_care_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0060"
+    },
+    {
+      "disease_key": "minor_wound_care_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0060"
+    },
+    {
+      "disease_key": "minor_wound_care_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0060"
+    },
+    {
+      "disease_key": "superficial_abrasion_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0074"
+    },
+    {
+      "disease_key": "superficial_abrasion_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0074"
+    },
+    {
+      "disease_key": "superficial_abrasion_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0074"
+    },
+    {
+      "disease_key": "minor_cut_wound_care_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0075"
+    },
+    {
+      "disease_key": "minor_cut_wound_care_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0075"
+    },
+    {
+      "disease_key": "minor_cut_wound_care_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0075"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_adult",
+      "drug_name": "ChlorOph Eye Drops [Chloramphenicol 5 mg./1 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001437",
+      "regimen_id": "FRM0092"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_adult",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0092"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_adult",
+      "drug_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0092"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_adult",
+      "drug_name": "ChlorOph Eye Drops [Chloramphenicol 5 mg./1 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001437",
+      "regimen_id": "FRM0092"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_adult",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0092"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_adult",
+      "drug_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0092"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_adult",
+      "drug_name": "ChlorOph Eye Drops [Chloramphenicol 5 mg./1 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001437",
+      "regimen_id": "FRM0092"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_adult",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0092"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_adult",
+      "drug_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0092"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_peds",
+      "drug_name": "ChlorOph Eye Drops [Chloramphenicol 5 mg./1 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001437",
+      "regimen_id": "FRM0093"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_peds",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0093"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_peds",
+      "drug_name": "ChlorOph Eye Drops [Chloramphenicol 5 mg./1 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001437",
+      "regimen_id": "FRM0093"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_peds",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0093"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_peds",
+      "drug_name": "ChlorOph Eye Drops [Chloramphenicol 5 mg./1 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001437",
+      "regimen_id": "FRM0093"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_peds",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0093"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_adult",
+      "drug_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0094"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_adult",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0094"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_adult",
+      "drug_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0094"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_adult",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0094"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_adult",
+      "drug_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0094"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_adult",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0094"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_peds",
+      "drug_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0095"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_peds",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0095"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_peds",
+      "drug_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0095"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_peds",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0095"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_peds",
+      "drug_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0095"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_peds",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0095"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_peds",
+      "drug_name": "AMK 457 [Amoxicillin 400 mg.+Clavulanic Acid 57 mg./5 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001047",
+      "regimen_id": "FRM0096"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_peds",
+      "drug_name": "AMK 457 [Amoxicillin 400 mg.+Clavulanic Acid 57 mg./5 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001047",
+      "regimen_id": "FRM0096"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_peds",
+      "drug_name": "AMK 457 [Amoxicillin 400 mg.+Clavulanic Acid 57 mg./5 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001047",
+      "regimen_id": "FRM0096"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_peds",
+      "drug_name": "AMK 228 [Amoxicillin 200 mg.+Clavulanic Acid 28 mg./5 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001046",
+      "regimen_id": "FRM0097"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_peds",
+      "drug_name": "AMK 228 [Amoxicillin 200 mg.+Clavulanic Acid 28 mg./5 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001046",
+      "regimen_id": "FRM0097"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_peds",
+      "drug_name": "AMK 228 [Amoxicillin 200 mg.+Clavulanic Acid 28 mg./5 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001046",
+      "regimen_id": "FRM0097"
+    },
+    {
+      "disease_key": "macrolide_respiratory_bacterial_adult",
+      "drug_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0098"
+    },
+    {
+      "disease_key": "macrolide_respiratory_bacterial_adult",
+      "drug_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0098"
+    },
+    {
+      "disease_key": "macrolide_respiratory_bacterial_adult",
+      "drug_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0098"
+    },
+    {
+      "disease_key": "dental_infection_support_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0099"
+    },
+    {
+      "disease_key": "dental_infection_support_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0099"
+    },
+    {
+      "disease_key": "dental_infection_support_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0099"
+    },
+    {
+      "disease_key": "infected_insect_bite_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0100"
+    },
+    {
+      "disease_key": "infected_insect_bite_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0100"
+    },
+    {
+      "disease_key": "infected_insect_bite_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0100"
+    },
+    {
+      "disease_key": "infected_insect_bite_peds",
+      "drug_name": "AMK 228 [Amoxicillin 200 mg.+Clavulanic Acid 28 mg./5 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001046",
+      "regimen_id": "FRM0101"
+    },
+    {
+      "disease_key": "infected_insect_bite_peds",
+      "drug_name": "AMK 228 [Amoxicillin 200 mg.+Clavulanic Acid 28 mg./5 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001046",
+      "regimen_id": "FRM0101"
+    },
+    {
+      "disease_key": "infected_insect_bite_peds",
+      "drug_name": "AMK 228 [Amoxicillin 200 mg.+Clavulanic Acid 28 mg./5 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001046",
+      "regimen_id": "FRM0101"
+    },
+    {
+      "disease_key": "cellulitis_mild_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0102"
+    },
+    {
+      "disease_key": "cellulitis_mild_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0102"
+    },
+    {
+      "disease_key": "cellulitis_mild_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0102"
+    },
+    {
+      "disease_key": "impetigo_oral_antibiotic_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0103"
+    },
+    {
+      "disease_key": "impetigo_oral_antibiotic_adult",
+      "drug_name": "Fucidin Cream [Fusidic acid 20 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001991",
+      "regimen_id": "FRM0103"
+    },
+    {
+      "disease_key": "impetigo_oral_antibiotic_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0103"
+    },
+    {
+      "disease_key": "impetigo_oral_antibiotic_adult",
+      "drug_name": "Fucidin Cream [Fusidic acid 20 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001991",
+      "regimen_id": "FRM0103"
+    },
+    {
+      "disease_key": "impetigo_oral_antibiotic_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0103"
+    },
+    {
+      "disease_key": "impetigo_oral_antibiotic_adult",
+      "drug_name": "Fucidin Cream [Fusidic acid 20 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001991",
+      "regimen_id": "FRM0103"
+    },
+    {
+      "disease_key": "localized_folliculitis_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0104"
+    },
+    {
+      "disease_key": "localized_folliculitis_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0104"
+    },
+    {
+      "disease_key": "localized_folliculitis_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0104"
+    },
+    {
+      "disease_key": "infected_abrasion_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0105"
+    },
+    {
+      "disease_key": "infected_abrasion_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0105"
+    },
+    {
+      "disease_key": "infected_abrasion_adult",
+      "drug_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0105"
+    },
+    {
+      "disease_key": "infected_eczema_localized_adult",
+      "drug_name": "Fucidin H Cream [Fusidic acid 20 mg+Hydrocortisone Acetate 10 mg+อื่นๆ/1 g]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001910",
+      "regimen_id": "FRM0106"
+    },
+    {
+      "disease_key": "infected_eczema_localized_adult",
+      "drug_name": "Fucicort Cream [Fusidic acid 20 mg+Betamethasone Valerate (eq. to Betamethasone 1 mg)+Preservative (Chlorocresol)/1 g]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001908",
+      "regimen_id": "FRM0106"
+    },
+    {
+      "disease_key": "infected_eczema_localized_adult",
+      "drug_name": "Fucidin H Cream [Fusidic acid 20 mg+Hydrocortisone Acetate 10 mg+อื่นๆ/1 g]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001910",
+      "regimen_id": "FRM0106"
+    },
+    {
+      "disease_key": "infected_eczema_localized_adult",
+      "drug_name": "Fucicort Cream [Fusidic acid 20 mg+Betamethasone Valerate (eq. to Betamethasone 1 mg)+Preservative (Chlorocresol)/1 g]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001908",
+      "regimen_id": "FRM0106"
+    },
+    {
+      "disease_key": "infected_eczema_localized_adult",
+      "drug_name": "Fucidin H Cream [Fusidic acid 20 mg+Hydrocortisone Acetate 10 mg+อื่นๆ/1 g]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001910",
+      "regimen_id": "FRM0106"
+    },
+    {
+      "disease_key": "infected_eczema_localized_adult",
+      "drug_name": "Fucicort Cream [Fusidic acid 20 mg+Betamethasone Valerate (eq. to Betamethasone 1 mg)+Preservative (Chlorocresol)/1 g]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001908",
+      "regimen_id": "FRM0106"
+    },
+    {
+      "disease_key": "uncomplicated_uti_adult",
+      "drug_name": "Noflox-400 [Norfloxacin 400 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007591",
+      "regimen_id": "FRM0107"
+    },
+    {
+      "disease_key": "uncomplicated_uti_adult",
+      "drug_name": "Noflox-400 [Norfloxacin 400 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007591",
+      "regimen_id": "FRM0107"
+    },
+    {
+      "disease_key": "uncomplicated_uti_adult",
+      "drug_name": "Noflox-400 [Norfloxacin 400 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007591",
+      "regimen_id": "FRM0107"
+    },
+    {
+      "disease_key": "topical_eye_antibiotic_support_adult",
+      "drug_name": "ChlorOph Eye Drops [Chloramphenicol 5 mg./1 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001437",
+      "regimen_id": "FRM0108"
+    },
+    {
+      "disease_key": "topical_eye_antibiotic_support_adult",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0108"
+    },
+    {
+      "disease_key": "topical_eye_antibiotic_support_adult",
+      "drug_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0108"
+    },
+    {
+      "disease_key": "topical_eye_antibiotic_support_adult",
+      "drug_name": "ChlorOph Eye Drops [Chloramphenicol 5 mg./1 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001437",
+      "regimen_id": "FRM0108"
+    },
+    {
+      "disease_key": "topical_eye_antibiotic_support_adult",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0108"
+    },
+    {
+      "disease_key": "topical_eye_antibiotic_support_adult",
+      "drug_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0108"
+    },
+    {
+      "disease_key": "topical_eye_antibiotic_support_adult",
+      "drug_name": "ChlorOph Eye Drops [Chloramphenicol 5 mg./1 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001437",
+      "regimen_id": "FRM0108"
+    },
+    {
+      "disease_key": "topical_eye_antibiotic_support_adult",
+      "drug_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0108"
+    },
+    {
+      "disease_key": "topical_eye_antibiotic_support_adult",
+      "drug_name": "Terramycin Ophthalmic Ointment [Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0108"
+    },
+    {
+      "disease_key": "infected_wound_oral_antibiotic_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0111"
+    },
+    {
+      "disease_key": "infected_wound_oral_antibiotic_adult",
+      "drug_name": "Betadine Solution 15 ml [Povidone-Iodine USP 10 % w/v]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001238",
+      "regimen_id": "FRM0111"
+    },
+    {
+      "disease_key": "infected_wound_oral_antibiotic_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0111"
+    },
+    {
+      "disease_key": "infected_wound_oral_antibiotic_adult",
+      "drug_name": "Betadine Solution 15 ml [Povidone-Iodine USP 10 % w/v]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001238",
+      "regimen_id": "FRM0111"
+    },
+    {
+      "disease_key": "infected_wound_oral_antibiotic_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0111"
+    },
+    {
+      "disease_key": "infected_wound_oral_antibiotic_adult",
+      "drug_name": "Betadine Solution 15 ml [Povidone-Iodine USP 10 % w/v]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001238",
+      "regimen_id": "FRM0111"
+    },
+    {
+      "disease_key": "penicillin_allergy_resp_support_adult",
+      "drug_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0112"
+    },
+    {
+      "disease_key": "penicillin_allergy_resp_support_adult",
+      "drug_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0112"
+    },
+    {
+      "disease_key": "penicillin_allergy_resp_support_adult",
+      "drug_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0112"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_alt_adult",
+      "drug_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0113"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_alt_adult",
+      "drug_name": "Klean & Kare Saline เล็ก [Sodium Chloride 0.9 g./100 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS044320",
+      "regimen_id": "FRM0113"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_alt_adult",
+      "drug_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0113"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_alt_adult",
+      "drug_name": "Klean & Kare Saline เล็ก [Sodium Chloride 0.9 g./100 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS044320",
+      "regimen_id": "FRM0113"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_alt_adult",
+      "drug_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0113"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_alt_adult",
+      "drug_name": "Klean & Kare Saline เล็ก [Sodium Chloride 0.9 g./100 ml.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS044320",
+      "regimen_id": "FRM0113"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_alt_adult",
+      "drug_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0114"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_alt_adult",
+      "drug_name": "Kamillosan-M Spray [ดอกหญ้าหอม+เพเพอร์มิ้นต์+เซจ ออยล์+เทียนสัตบุษย์+ไพน์ นีดเดิล ออยล์+เบอร์กามอต ออยล์+ยูคาลิปทอล]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002411",
+      "regimen_id": "FRM0114"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_alt_adult",
+      "drug_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0114"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_alt_adult",
+      "drug_name": "Kamillosan-M Spray [ดอกหญ้าหอม+เพเพอร์มิ้นต์+เซจ ออยล์+เทียนสัตบุษย์+ไพน์ นีดเดิล ออยล์+เบอร์กามอต ออยล์+ยูคาลิปทอล]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002411",
+      "regimen_id": "FRM0114"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_alt_adult",
+      "drug_name": "B.Roxi [Roxithromycin 150 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0114"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_alt_adult",
+      "drug_name": "Kamillosan-M Spray [ดอกหญ้าหอม+เพเพอร์มิ้นต์+เซจ ออยล์+เทียนสัตบุษย์+ไพน์ นีดเดิล ออยล์+เบอร์กามอต ออยล์+ยูคาลิปทอล]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002411",
+      "regimen_id": "FRM0114"
+    },
+    {
+      "disease_key": "topical_fusidic_support_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0115"
+    },
+    {
+      "disease_key": "topical_fusidic_support_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0115"
+    },
+    {
+      "disease_key": "topical_fusidic_support_adult",
+      "drug_name": "Garamycin Cream [Gentamicin 1 mg./1 g.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0115"
+    },
+    {
+      "disease_key": "uncomplicated_uti_alt_cipro_adult",
+      "drug_name": "Cifloxin 500 mg [Ciprofloxacin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001496",
+      "regimen_id": "FRM0119"
+    },
+    {
+      "disease_key": "uncomplicated_uti_alt_cipro_adult",
+      "drug_name": "Cifloxin 500 mg [Ciprofloxacin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001496",
+      "regimen_id": "FRM0119"
+    },
+    {
+      "disease_key": "uncomplicated_uti_alt_cipro_adult",
+      "drug_name": "Cifloxin 500 mg [Ciprofloxacin 500 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001496",
+      "regimen_id": "FRM0119"
+    },
+    {
+      "disease_key": "dysuria_lower_uti_adult",
+      "drug_name": "Noflox-400 [Norfloxacin 400 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007591",
+      "regimen_id": "FRM0120"
+    },
+    {
+      "disease_key": "dysuria_lower_uti_adult",
+      "drug_name": "Noflox-400 [Norfloxacin 400 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007591",
+      "regimen_id": "FRM0120"
+    },
+    {
+      "disease_key": "dysuria_lower_uti_adult",
+      "drug_name": "Noflox-400 [Norfloxacin 400 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007591",
+      "regimen_id": "FRM0120"
+    },
+    {
+      "disease_key": "frequency_urgency_uti_adult",
+      "drug_name": "Noflox-400 [Norfloxacin 400 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007591",
+      "regimen_id": "FRM0121"
+    },
+    {
+      "disease_key": "frequency_urgency_uti_adult",
+      "drug_name": "Noflox-400 [Norfloxacin 400 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007591",
+      "regimen_id": "FRM0121"
+    },
+    {
+      "disease_key": "frequency_urgency_uti_adult",
+      "drug_name": "Noflox-400 [Norfloxacin 400 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007591",
+      "regimen_id": "FRM0121"
+    },
+    {
+      "disease_key": "dental_abscess_support_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0133"
+    },
+    {
+      "disease_key": "dental_abscess_support_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0133"
+    },
+    {
+      "disease_key": "dental_abscess_support_adult",
+      "drug_name": "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0133"
+    },
+    {
+      "disease_key": "tinea_pruritic_rash_adult",
+      "drug_name": "Clotrimazole + Betamethasone Dipropionate w/w",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "inappropriate_antibiotic_default",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001491",
+      "regimen_id": "FRM0028"
+    },
+    {
+      "disease_key": "minor_skin_infection_topical_adult",
+      "drug_name": "Gentamicin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0031"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_adult",
+      "drug_name": "Amoxicillin + Clavulanic Acid",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0033"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_adult",
+      "drug_name": "Amoxicillin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0034"
+    },
+    {
+      "disease_key": "tinea_corporis_localized_adult",
+      "drug_name": "Clotrimazole + Betamethasone Dipropionate w/w",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001491",
+      "regimen_id": "FRM0058"
+    },
+    {
+      "disease_key": "impetigo_localized_adult",
+      "drug_name": "Gentamicin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0059"
+    },
+    {
+      "disease_key": "impetigo_localized_adult",
+      "drug_name": "Amoxicillin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0059"
+    },
+    {
+      "disease_key": "minor_wound_care_adult",
+      "drug_name": "Gentamicin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0060"
+    },
+    {
+      "disease_key": "superficial_abrasion_adult",
+      "drug_name": "Gentamicin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0074"
+    },
+    {
+      "disease_key": "minor_cut_wound_care_adult",
+      "drug_name": "Gentamicin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0075"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_adult",
+      "drug_name": "Chloramphenicol",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001437",
+      "regimen_id": "FRM0092"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_adult",
+      "drug_name": "Fusidic acid + Preservative",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0092"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_adult",
+      "drug_name": "Oxytetracycline HCl + Polymyxin B Sulfate 10 + s",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0092"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_peds",
+      "drug_name": "Chloramphenicol",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001437",
+      "regimen_id": "FRM0093"
+    },
+    {
+      "disease_key": "bacterial_conjunctivitis_peds",
+      "drug_name": "Fusidic acid + Preservative",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0093"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_adult",
+      "drug_name": "Oxytetracycline HCl + Polymyxin B Sulfate 10 + s",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0094"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_adult",
+      "drug_name": "Fusidic acid + Preservative",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0094"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_peds",
+      "drug_name": "Oxytetracycline HCl + Polymyxin B Sulfate 10 + s",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0095"
+    },
+    {
+      "disease_key": "bacterial_eyelid_infection_peds",
+      "drug_name": "Fusidic acid + Preservative",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0095"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_peds",
+      "drug_name": "Amoxicillin + Clavulanic Acid",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001047",
+      "regimen_id": "FRM0096"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_peds",
+      "drug_name": "Amoxicillin + Clavulanic Acid",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001046",
+      "regimen_id": "FRM0097"
+    },
+    {
+      "disease_key": "macrolide_respiratory_bacterial_adult",
+      "drug_name": "Roxithromycin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0098"
+    },
+    {
+      "disease_key": "dental_infection_support_adult",
+      "drug_name": "Amoxicillin + Clavulanic Acid",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0099"
+    },
+    {
+      "disease_key": "infected_insect_bite_adult",
+      "drug_name": "Amoxicillin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0100"
+    },
+    {
+      "disease_key": "infected_insect_bite_peds",
+      "drug_name": "Amoxicillin + Clavulanic Acid",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001046",
+      "regimen_id": "FRM0101"
+    },
+    {
+      "disease_key": "cellulitis_mild_adult",
+      "drug_name": "Amoxicillin + Clavulanic Acid",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0102"
+    },
+    {
+      "disease_key": "impetigo_oral_antibiotic_adult",
+      "drug_name": "Amoxicillin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0103"
+    },
+    {
+      "disease_key": "impetigo_oral_antibiotic_adult",
+      "drug_name": "Fusidic acid",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001991",
+      "regimen_id": "FRM0103"
+    },
+    {
+      "disease_key": "localized_folliculitis_adult",
+      "drug_name": "Amoxicillin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0104"
+    },
+    {
+      "disease_key": "infected_abrasion_adult",
+      "drug_name": "Amoxicillin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002201",
+      "regimen_id": "FRM0105"
+    },
+    {
+      "disease_key": "infected_eczema_localized_adult",
+      "drug_name": "Fusidic acid + Hydrocortisone Acetate + อื่นๆ",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001910",
+      "regimen_id": "FRM0106"
+    },
+    {
+      "disease_key": "infected_eczema_localized_adult",
+      "drug_name": "Fusidic acid + Betamethasone Valerate + Preservative",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001908",
+      "regimen_id": "FRM0106"
+    },
+    {
+      "disease_key": "uncomplicated_uti_adult",
+      "drug_name": "Norfloxacin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007591",
+      "regimen_id": "FRM0107"
+    },
+    {
+      "disease_key": "topical_eye_antibiotic_support_adult",
+      "drug_name": "Chloramphenicol",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001437",
+      "regimen_id": "FRM0108"
+    },
+    {
+      "disease_key": "topical_eye_antibiotic_support_adult",
+      "drug_name": "Fusidic acid + Preservative",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001847",
+      "regimen_id": "FRM0108"
+    },
+    {
+      "disease_key": "topical_eye_antibiotic_support_adult",
+      "drug_name": "Oxytetracycline HCl + Polymyxin B Sulfate 10 + s",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS003721",
+      "regimen_id": "FRM0108"
+    },
+    {
+      "disease_key": "infected_wound_oral_antibiotic_adult",
+      "drug_name": "Amoxicillin + Clavulanic Acid",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0111"
+    },
+    {
+      "disease_key": "infected_wound_oral_antibiotic_adult",
+      "drug_name": "Povidone-Iodine USP w/v",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001238",
+      "regimen_id": "FRM0111"
+    },
+    {
+      "disease_key": "penicillin_allergy_resp_support_adult",
+      "drug_name": "Roxithromycin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0112"
+    },
+    {
+      "disease_key": "bacterial_sinusitis_alt_adult",
+      "drug_name": "Roxithromycin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0113"
+    },
+    {
+      "disease_key": "bacterial_pharyngitis_alt_adult",
+      "drug_name": "Roxithromycin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007066",
+      "regimen_id": "FRM0114"
+    },
+    {
+      "disease_key": "topical_fusidic_support_adult",
+      "drug_name": "Gentamicin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS002003",
+      "regimen_id": "FRM0115"
+    },
+    {
+      "disease_key": "vaginal_mixed_infection_adult",
+      "drug_name": "Nystatin 100 + s + Chloramphenicol + Diiodohydroxyguin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS008491",
+      "regimen_id": "FRM0117"
+    },
+    {
+      "disease_key": "vaginal_discharge_support_adult",
+      "drug_name": "Nystatin 100 + s + Chloramphenicol + Diiodohydroxyguin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS008491",
+      "regimen_id": "FRM0118"
+    },
+    {
+      "disease_key": "uncomplicated_uti_alt_cipro_adult",
+      "drug_name": "Ciprofloxacin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001496",
+      "regimen_id": "FRM0119"
+    },
+    {
+      "disease_key": "dysuria_lower_uti_adult",
+      "drug_name": "Norfloxacin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "inappropriate_antibiotic_default",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007591",
+      "regimen_id": "FRM0120"
+    },
+    {
+      "disease_key": "frequency_urgency_uti_adult",
+      "drug_name": "Norfloxacin",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS007591",
+      "regimen_id": "FRM0121"
+    },
+    {
+      "disease_key": "dental_abscess_support_adult",
+      "drug_name": "Amoxicillin + Clavulanic Acid",
+      "exact_evidence_missing": [
+        "bacterial criteria/no-antibiotic rule",
+        "drug choice",
+        "dose",
+        "frequency",
+        "duration",
+        "allergy alternative if used"
+      ],
+      "exact_next_action": "map accepted RDU/AWaRe/disease guideline snippet to this row before RX NOW",
+      "final_status": "blocked_antibiotic_missing_criteria",
+      "issue_type": "antibiotic_source_gate_missing",
+      "no_antibiotic_rule_candidate": false,
+      "product_id": "BDS001103",
+      "regimen_id": "FRM0133"
+    }
+  ]
+}
