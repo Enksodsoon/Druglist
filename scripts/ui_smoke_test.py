@@ -22,6 +22,22 @@ def require_selector(page, selector: str, label: str) -> None:
         raise AssertionError(f"Missing {label}: {selector}")
 
 
+def smoke_main_builder(page) -> None:
+    page.click('[data-tab="main"]')
+    page.wait_for_selector("#mainComplaints [data-c]", timeout=10000)
+    buttons = page.locator("#mainComplaints [data-c]")
+    if buttons.count() < 1:
+        raise AssertionError("Main Builder complaint list is empty")
+    buttons.first.click()
+    page.wait_for_timeout(250)
+    text = page.locator("#mainBuilder").inner_text(timeout=5000).strip()
+    if len(text) < 80:
+        raise AssertionError("Main Builder stayed blank after complaint selection")
+    require_selector(page, "#mainBuilder .main-med-card, #mainBuilder .main-empty", "main builder rendered content")
+    if page.locator("#mainBuilder .main-med-card").count() and "Status:" not in text:
+        raise AssertionError("Main Builder medication rows are missing readiness status")
+
+
 def is_env_dependency_error(exc: Exception) -> bool:
     s = str(exc).lower()
     needles = [
@@ -49,6 +65,8 @@ def run_smoke(browser_name: str) -> None:
             page.wait_for_function("document.querySelectorAll('[data-tab]').length >= 8", timeout=10000)
             if page.locator("[data-tab]").count() < 8:
                 raise AssertionError("Expected at least 8 navigation tabs")
+
+            smoke_main_builder(page)
 
             for tab in ["compare", "validation", "admin", "rules", "release"]:
                 page.click(f'[data-tab="{tab}"]')
