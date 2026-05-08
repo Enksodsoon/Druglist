@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "schema_version": "druglist-source-manifest-v1",
+    "purpose": "Manual source intake registry. Empty means evidence remains pending_source_collection."
+  },
+  "sources": []
+}

@@ -13,6 +13,7 @@ from engine_common import ROOT, now_iso, write_json
 STEPS = [
     "scripts/build_product_layer.py",
     "scripts/build_guideline_layer.py",
+    "scripts/source_manifest.py",
     "scripts/auto_source_collect.py",
     "scripts/evidence_extract.py",
     "scripts/evidence_score.py",

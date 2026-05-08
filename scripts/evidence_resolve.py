@@ -6,7 +6,7 @@ from collections import Counter, defaultdict
 from typing import Any
 
 from engine_common import clean, now_iso, read_json, write_json
-from evidence_common import REPORT_DIR
+from evidence_common import REPORT_DIR, source_is_accepted, source_location
 
 
 def resolve() -> dict[str, Any]:
@@ -15,6 +15,10 @@ def resolve() -> dict[str, Any]:
     candidates = read_json("data/evidence/evidence_candidates.json", {"candidates": []}).get("candidates", [])
     by_gap: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for claim in verified:
+        if not source_is_accepted(clean(claim.get("source_id"))):
+            continue
+        if not (clean(claim.get("section")) or clean(claim.get("page")) or source_location(claim)):
+            continue
         by_gap[clean(claim.get("gap_id"))].append(claim)
     resolved = []
     for gap_id, claims in by_gap.items():
