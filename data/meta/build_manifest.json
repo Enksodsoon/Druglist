@@ -63,9 +63,63 @@
       "stderr": ""
     },
     {
+      "step": "scripts/clinical_regimen_audit.py",
+      "returncode": 0,
+      "stdout": "clinical_regimen_audit: issues=253 blockers=9",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/antiviral_regimen_audit.py",
+      "returncode": 0,
+      "stdout": "antiviral_regimen_audit: issues=3 gaps=15",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/pediatric_source_gap_audit.py",
+      "returncode": 0,
+      "stdout": "pediatric_source_gap_audit: items=93 tier1=21",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/antibiotic_rdu_audit.py",
+      "returncode": 0,
+      "stdout": "antibiotic_rdu_audit: issues=48 gaps=95",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/regimen_safety_validate.py",
+      "returncode": 0,
+      "stdout": "regimen_safety_validate: regimens=133 blocked=2",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/workbook_qa.py",
+      "returncode": 0,
+      "stdout": "workbook_qa: issues=234",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/source_manifest_bootstrap.py",
+      "returncode": 0,
+      "stdout": "source_manifest_bootstrap: todo=31 accepted=0",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/apply_corrections.py",
+      "returncode": 0,
+      "stdout": "apply_corrections: applied=2",
+      "stderr": ""
+    },
+    {
       "step": "scripts/build_frontend_seed.py",
       "returncode": 0,
       "stdout": "built frontend seed: drugs=910 source_coverage=0.0 manual_review=463",
+      "stderr": ""
+    },
+    {
+      "step": "scripts/clinical_verification_report.py",
+      "returncode": 0,
+      "stdout": "clinical_verification_report: blockers=20 source_todo=31",
       "stderr": ""
     }
   ],
@@ -93,9 +147,12 @@
     "data/evidence/source_cache_manifest.json",
     "data/evidence/source_manifest.example.json",
     "data/evidence/source_manifest.json",
+    "data/evidence/source_manifest.todo.json",
     "data/evidence/source_search_tasks.json",
     "data/evidence/unresolved_low_confidence_gaps.json",
     "data/guidelines/antibiotic_guideline_rules.json",
+    "data/guidelines/antibiotic_source_gap_priority.json",
+    "data/guidelines/antiviral_source_gaps.json",
     "data/guidelines/disease_guideline_map.json",
     "data/guidelines/dose_rules_adult_source_linked.json",
     "data/guidelines/dose_rules_peds_source_linked.json",
@@ -105,12 +162,20 @@
     "data/guidelines/safety_guideline_rules.json",
     "data/guidelines/source_gap_list.json",
     "data/guidelines/source_registry.json",
+    "data/meta/antibiotic_rdu_quality_issues.json",
+    "data/meta/antiviral_regimen_quality_issues.json",
     "data/meta/build_manifest.json",
+    "data/meta/clinical_regimen_quality_issues.json",
+    "data/meta/correction_overlay_applied.json",
     "data/meta/manual_review_queue.json",
+    "data/meta/workbook_quality_issues.json",
+    "data/overrides/product_corrections.json",
+    "data/overrides/regimen_corrections.json",
     "data/pediatric/pediatric_age_gate_library.json",
     "data/pediatric/pediatric_product_age_indication_library_review.json",
     "data/pediatric/pediatric_product_age_indication_library_review_pretty.json",
     "data/pediatric/pediatric_product_age_indication_library_review_summary.json",
+    "data/pediatric/pediatric_source_gap_priority.json",
     "data/pediatric/pediatric_target_dose_library.json",
     "data/pediatric/pediatric_target_dose_library_pretty.json",
     "data/pediatric/pediatric_target_dose_library_summary.json",
@@ -121,6 +186,7 @@
     "data/safety/antibiotic_stewardship.json",
     "data/safety/rdu_rules.json",
     "data/safety/red_flags.json",
+    "data/safety/regimen_safety_rules.json",
     "data/safety/validation_rules.json"
   ],
   "source_workbook_required": "source_workbooks/Drug list for physician usage added -update 29022024.xlsx"

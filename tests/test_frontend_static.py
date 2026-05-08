@@ -79,6 +79,12 @@ def test_safety_review_strings_remain_visible_in_frontend():
         "Evidence automation status",
         "Auto-verified evidence",
         "Evidence status",
+        "Clinical audit gates",
+        "antiviral issues",
+        "pediatric source gaps",
+        "Antibiotic/RDU issues",
+        "Correction overlay applied",
+        "source manifest TODO",
     ]:
         assert text in source
 

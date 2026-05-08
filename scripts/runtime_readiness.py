@@ -15,6 +15,8 @@ NO_ROUTINE_ANTIBIOTIC_KEYS = [
 ]
 
 BACTERIAL_KEYS = ["bacterial", "uti", "dysuria", "animal_bite", "minor_wound"]
+ANTIVIRAL_KEYS = ["acyclovir", "acyvir", "clinovir", "vilerm", "valacyclovir"]
+ANTIVIRAL_DISEASE_KEYS = ["herpes", "zoster", "shingles", "varicella"]
 
 
 def clean(value: Any) -> str:
@@ -44,6 +46,18 @@ def disease_allows_antibiotic(disease_id: str, med: dict[str, Any]) -> bool:
     if any(key in text for key in NO_ROUTINE_ANTIBIOTIC_KEYS) and "bacterial" not in text:
         return False
     return any(key in text for key in BACTERIAL_KEYS)
+
+
+def is_antiviral(product: dict[str, Any], med: dict[str, Any] | None = None) -> bool:
+    text = " ".join(
+        [
+            clean(product.get("generic")),
+            clean(product.get("display_name")),
+            clean(product.get("composition")),
+            clean((med or {}).get("display_name") or (med or {}).get("n")),
+        ]
+    ).lower()
+    return any(key in text for key in ANTIVIRAL_KEYS)
 
 
 def readiness_for_med(med: dict[str, Any], product: dict[str, Any] | None, disease_id: str = "") -> dict[str, Any]:
@@ -83,6 +97,13 @@ def readiness_for_med(med: dict[str, Any], product: dict[str, Any] | None, disea
             fast_mode_allowed = False
         source_status = "pending_manual_review" if clinical_readiness != "ready" else source_status
 
+    if is_antiviral(product, med) and any(key in disease_id.lower() for key in ANTIVIRAL_DISEASE_KEYS):
+        if not verified_source_ids:
+            missing.extend(["antiviral disease guideline", "source-backed dose/frequency/duration"])
+            clinical_readiness = "blocked" if "zoster" in disease_id.lower() or "shingles" in disease_id.lower() else "manual_review_required"
+            fast_mode_allowed = False
+            source_status = "pending_manual_review"
+
     if product_manual and clinical_readiness == "usable_with_warning":
         clinical_readiness = "manual_review_required"
         fast_mode_allowed = False
@@ -97,6 +118,15 @@ def readiness_for_med(med: dict[str, Any], product: dict[str, Any] | None, disea
         "clinical_readiness": clinical_readiness,
         "missing_requirements": sorted(set(missing)),
         "fast_mode_allowed": bool(fast_mode_allowed),
+        "clinical_audit_status": "blocked" if clinical_readiness == "blocked" else "manual_review_required" if clinical_readiness == "manual_review_required" else "pending_source_collection",
+        "correction_status": "none",
+        "source_gap_priority": "high" if clinical_readiness in {"blocked", "manual_review_required"} else "standard",
+        "regimen_safety_status": "blocked" if clinical_readiness == "blocked" else "warning" if missing else "manual_review_required",
+        "pediatric_gate_status": "blocked" if is_pediatric_calculated(med) else "not_applicable",
+        "antibiotic_gate_status": "blocked" if is_antibiotic(product, med) and not fast_mode_allowed else "not_applicable",
+        "product_match_status": "matched" if product else "missing_product_match",
+        "blocked_reason": "; ".join(sorted(set(missing))) if not fast_mode_allowed else "",
+        "next_action": "attach accepted source evidence" if missing else "continue review",
         "evidence_status": product.get("evidence_status", "pending_source_collection"),
         "evidence_score": float(product.get("evidence_score") or 0),
         "evidence_confidence": product.get("evidence_confidence", "none"),
