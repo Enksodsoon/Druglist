@@ -1,0 +1,4 @@
+index.html linguist-generated=true
+dist/** linguist-generated=true
+data/core/app_seed_runtime.json linguist-generated=true
+dist/data/core/app_seed_runtime.json linguist-generated=true
