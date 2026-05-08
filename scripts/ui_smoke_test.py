@@ -40,51 +40,56 @@ def run_smoke(browser_name: str) -> None:
     with sync_playwright() as p:
         bt = getattr(p, browser_name)
         browser = bt.launch()
-        page = browser.new_page(viewport={"width": 1600, "height": 1300})
-        errs: list[str] = []
-        page.on("pageerror", lambda e: errs.append(str(e)))
-        page.goto(URL, wait_until="domcontentloaded")
+        try:
+            page = browser.new_page(viewport={"width": 1600, "height": 1300})
+            errs: list[str] = []
+            page.on("pageerror", lambda e: errs.append(str(e)))
+            page.goto(URL, wait_until="domcontentloaded")
 
-        if page.locator("[data-tab]").count() < 8:
-            raise AssertionError("Expected at least 8 navigation tabs")
+            page.wait_for_function("document.querySelectorAll('[data-tab]').length >= 8", timeout=10000)
+            if page.locator("[data-tab]").count() < 8:
+                raise AssertionError("Expected at least 8 navigation tabs")
 
-        for tab in ["compare", "validation", "admin", "rules", "release"]:
-            page.click(f'[data-tab="{tab}"]')
+            for tab in ["compare", "validation", "admin", "rules", "release"]:
+                page.click(f'[data-tab="{tab}"]')
 
-        page.click('[data-tab="validation"]')
-        require_selector(page, '[data-hero-action="review:json"]', "validation review JSON export")
-        require_selector(page, '[data-hero-action="review:csv"]', "validation review CSV export")
+            page.click('[data-tab="validation"]')
+            require_selector(page, '[data-hero-action="review:json"]', "validation review JSON export")
+            require_selector(page, '[data-hero-action="review:csv"]', "validation review CSV export")
 
-        page.click('[data-tab="admin"]')
-        require_selector(page, '#adminSummary .review-kpi, #adminSummary .admin-metric', "admin summary metrics")
-        require_selector(page, '[data-hero-action="review:csv"], #dlImpQueueCsvAdmin', "admin review CSV export")
-        require_selector(page, '[data-hero-action="review:json"], #dlImpQueueJsonAdmin', "admin review JSON export")
+            page.click('[data-tab="admin"]')
+            require_selector(page, '#adminSummary .review-kpi, #adminSummary .admin-metric', "admin summary metrics")
+            require_selector(page, '[data-hero-action="review:csv"], #dlImpQueueCsvAdmin', "admin review CSV export")
+            require_selector(page, '[data-hero-action="review:json"], #dlImpQueueJsonAdmin', "admin review JSON export")
 
-        page.click('[data-tab="rules"]')
-        page.fill('#ruleCheckpointLabel', 'smoke-checkpoint')
-        page.click('[data-rchkadd]')
-        require_selector(page, '[data-rchkdiff]', "rule checkpoint diff")
-        require_selector(page, '[data-rchkrename]', "rule checkpoint rename")
-        require_selector(page, '[data-rchkdel]', "rule checkpoint delete")
-        page.click('[data-rchkdiff]')
+            page.click('[data-tab="rules"]')
+            page.fill('#ruleCheckpointLabel', 'smoke-checkpoint')
+            page.click('[data-rchkadd]')
+            page.wait_for_selector('[data-rchkdiff]', timeout=5000)
+            require_selector(page, '[data-rchkdiff]', "rule checkpoint diff")
+            require_selector(page, '[data-rchkrename]', "rule checkpoint rename")
+            require_selector(page, '[data-rchkdel]', "rule checkpoint delete")
+            page.click('[data-rchkdiff]')
 
-        page.fill('#rulePackImport', '{"complaints": []}')
-        page.click('[data-rapply]')  # should auto-checkpoint before apply
-        require_selector(page, '[data-rchkrestore]', "rule checkpoint restore")
+            page.fill('#rulePackImport', '{"complaints": []}')
+            page.click('[data-rapply]')  # should auto-checkpoint before apply
+            page.wait_for_selector('[data-rchkrestore]', timeout=5000)
+            require_selector(page, '[data-rchkrestore]', "rule checkpoint restore")
 
-        page.click('[data-tab="release"]')
-        require_selector(page, '#releasePanel', "release panel")
-        require_selector(page, '#releaseManifest, #runReleaseCheck', "release check action")
-        require_selector(
-            page,
-            '#releasePanel .release-health, #releasePanel .good, #releasePanel .warning',
-            "release status summary",
-        )
+            page.click('[data-tab="release"]')
+            require_selector(page, '#releasePanel', "release panel")
+            require_selector(page, '#releaseManifest, #runReleaseCheck', "release check action")
+            require_selector(
+                page,
+                '#releasePanel .release-health, #releasePanel .good, #releasePanel .warning',
+                "release status summary",
+            )
 
-        page.screenshot(path=str(ART / 'ui-smoke.png'), full_page=True)
-        browser.close()
-        if errs:
-            raise AssertionError(f"Page errors detected: {errs[:5]}")
+            page.screenshot(path=str(ART / 'ui-smoke.png'), full_page=True)
+            if errs:
+                raise AssertionError(f"Page errors detected: {errs[:5]}")
+        finally:
+            browser.close()
 
 
 def main() -> int:
@@ -92,7 +97,9 @@ def main() -> int:
     try:
         time.sleep(1.0)
         last_err = None
+        last_functional_err = None
         dep_failures = []
+        functional_failures = []
         for candidate in ["chromium", "firefox"]:
             try:
                 run_smoke(candidate)
@@ -103,6 +110,11 @@ def main() -> int:
                 print(f"ui_smoke_test: {candidate} failed -> {exc}")
                 if is_env_dependency_error(exc):
                     dep_failures.append(str(exc))
+                else:
+                    last_functional_err = exc
+                    functional_failures.append(str(exc))
+        if functional_failures:
+            raise SystemExit(f"ui_smoke_test: FAIL ({last_functional_err or functional_failures[-1]})")
         if dep_failures:
             print("ui_smoke_test: SKIP due to environment/browser dependencies (non-functional limitation)")
             return 0
