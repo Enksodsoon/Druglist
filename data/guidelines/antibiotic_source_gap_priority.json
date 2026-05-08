@@ -1,0 +1,1338 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:45:17Z",
+    "gap_count": 95
+  },
+  "items": [
+    {
+      "gap_id": "ABX_GAP_BDS040078_PRODUCT_RULE",
+      "product_id": "BDS040078",
+      "generic_name": "Amoxicillin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001103_PRODUCT_RULE",
+      "product_id": "BDS001103",
+      "generic_name": "Amoxicillin + Clavulanic Acid",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001035_PRODUCT_RULE",
+      "product_id": "BDS001035",
+      "generic_name": "Amoxicillin + Clavulanic Acid",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS040017_PRODUCT_RULE",
+      "product_id": "BDS040017",
+      "generic_name": "Amoxicillin Trihydrate + Clavulanic Potassium",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001494_PRODUCT_RULE",
+      "product_id": "BDS001494",
+      "generic_name": "Azithromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS006115_PRODUCT_RULE",
+      "product_id": "BDS006115",
+      "generic_name": "Azithromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007066_PRODUCT_RULE",
+      "product_id": "BDS007066",
+      "generic_name": "Roxithromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001545_PRODUCT_RULE",
+      "product_id": "BDS001545",
+      "generic_name": "Amoxicillin + Clavulanic Acid",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007784_PRODUCT_RULE",
+      "product_id": "BDS007784",
+      "generic_name": "Cephalexin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001452_PRODUCT_RULE",
+      "product_id": "BDS001452",
+      "generic_name": "Clarithromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS008652_PRODUCT_RULE",
+      "product_id": "BDS008652",
+      "generic_name": "Dicloxacillin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS008702_PRODUCT_RULE",
+      "product_id": "BDS008702",
+      "generic_name": "Dicloxacillin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001943_PRODUCT_RULE",
+      "product_id": "BDS001943",
+      "generic_name": "Azithromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS002201_PRODUCT_RULE",
+      "product_id": "BDS002201",
+      "generic_name": "Amoxicillin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS002447_PRODUCT_RULE",
+      "product_id": "BDS002447",
+      "generic_name": "Clarithromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS002692_PRODUCT_RULE",
+      "product_id": "BDS002692",
+      "generic_name": "Cefditoren",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS003078_PRODUCT_RULE",
+      "product_id": "BDS003078",
+      "generic_name": "Cefdinir",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS008121_PRODUCT_RULE",
+      "product_id": "BDS008121",
+      "generic_name": "Erythromycin stearate",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS003423_PRODUCT_RULE",
+      "product_id": "BDS003423",
+      "generic_name": "Roxithromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007976_PRODUCT_RULE",
+      "product_id": "BDS007976",
+      "generic_name": "Roxithromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS003428_PRODUCT_RULE",
+      "product_id": "BDS003428",
+      "generic_name": "Roxithromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007007_PRODUCT_RULE",
+      "product_id": "BDS007007",
+      "generic_name": "Amoxicillin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS049776_PRODUCT_RULE",
+      "product_id": "BDS049776",
+      "generic_name": "Azithromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS003912_PRODUCT_RULE",
+      "product_id": "BDS003912",
+      "generic_name": "Clindamycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007723_PRODUCT_RULE",
+      "product_id": "BDS007723",
+      "generic_name": "Doxycycline Hyclate",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS044901_PRODUCT_RULE",
+      "product_id": "BDS044901",
+      "generic_name": "Metronidazole",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007193_PRODUCT_RULE",
+      "product_id": "BDS007193",
+      "generic_name": "Metronidazole",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001046_PRODUCT_RULE",
+      "product_id": "BDS001046",
+      "generic_name": "Amoxicillin + Clavulanic Acid",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001047_PRODUCT_RULE",
+      "product_id": "BDS001047",
+      "generic_name": "Amoxicillin + Clavulanic Acid",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001056_PRODUCT_RULE",
+      "product_id": "BDS001056",
+      "generic_name": "Amoxicillin + Clavulanic Acid",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001054_PRODUCT_RULE",
+      "product_id": "BDS001054",
+      "generic_name": "Amoxicillin + Clavulanic Acid",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001084_PRODUCT_RULE",
+      "product_id": "BDS001084",
+      "generic_name": "Azithromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001441_PRODUCT_RULE",
+      "product_id": "BDS001441",
+      "generic_name": "Cefixime",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS002206_PRODUCT_RULE",
+      "product_id": "BDS002206",
+      "generic_name": "Cephalexin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS002693_PRODUCT_RULE",
+      "product_id": "BDS002693",
+      "generic_name": "Cefditoren",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007586_PRODUCT_RULE",
+      "product_id": "BDS007586",
+      "generic_name": "Amoxicillin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007589_PRODUCT_RULE",
+      "product_id": "BDS007589",
+      "generic_name": "Erythromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS046209_PRODUCT_RULE",
+      "product_id": "BDS046209",
+      "generic_name": "Azithromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS003549_PRODUCT_RULE",
+      "product_id": "BDS003549",
+      "generic_name": "Amoxicillin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS003550_PRODUCT_RULE",
+      "product_id": "BDS003550",
+      "generic_name": "Amoxicillin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007682_PRODUCT_RULE",
+      "product_id": "BDS007682",
+      "generic_name": "Cloxacillin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS004225_PRODUCT_RULE",
+      "product_id": "BDS004225",
+      "generic_name": "Azithromycin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS008001_PRODUCT_RULE",
+      "product_id": "BDS008001",
+      "generic_name": "Trimethoprim + Sulfamethoxazole",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001072_PRODUCT_RULE",
+      "product_id": "BDS001072",
+      "generic_name": "Moxifloxacin Hydrochloride",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001496_PRODUCT_RULE",
+      "product_id": "BDS001496",
+      "generic_name": "Ciprofloxacin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS041409_PRODUCT_RULE",
+      "product_id": "BDS041409",
+      "generic_name": "Ciprofloxacin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS008114_PRODUCT_RULE",
+      "product_id": "BDS008114",
+      "generic_name": "Ciprofloxacin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001548_PRODUCT_RULE",
+      "product_id": "BDS001548",
+      "generic_name": "Levofloxacin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS008681_PRODUCT_RULE",
+      "product_id": "BDS008681",
+      "generic_name": "Levofloxacin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007591_PRODUCT_RULE",
+      "product_id": "BDS007591",
+      "generic_name": "Norfloxacin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007751_PRODUCT_RULE",
+      "product_id": "BDS007751",
+      "generic_name": "Norfloxacin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS009086_PRODUCT_RULE",
+      "product_id": "BDS009086",
+      "generic_name": "Norfloxacin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007971_PRODUCT_RULE",
+      "product_id": "BDS007971",
+      "generic_name": "Ofloxacin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007238_PRODUCT_RULE",
+      "product_id": "BDS007238",
+      "generic_name": "Ciprofloxacin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS047662_PRODUCT_RULE",
+      "product_id": "BDS047662",
+      "generic_name": "Cefixime",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007311_PRODUCT_RULE",
+      "product_id": "BDS007311",
+      "generic_name": "Norfloxacin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS040003_PRODUCT_RULE",
+      "product_id": "BDS040003",
+      "generic_name": "Tinidazole",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007954_PRODUCT_RULE",
+      "product_id": "BDS007954",
+      "generic_name": "Tinidazole",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001491_PRODUCT_RULE",
+      "product_id": "BDS001491",
+      "generic_name": "Clotrimazole + Betamethasone Dipropionate w/w",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001417_PRODUCT_RULE",
+      "product_id": "BDS001417",
+      "generic_name": "Clotrimazole + Betamethasone Dipropionate",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007517_PRODUCT_RULE",
+      "product_id": "BDS007517",
+      "generic_name": "Clotrimazole + Betamethasone Dipropionate",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007516_PRODUCT_RULE",
+      "product_id": "BDS007516",
+      "generic_name": "Clotrimazole + Betamethasone Dipropionate",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007736_PRODUCT_RULE",
+      "product_id": "BDS007736",
+      "generic_name": "Clotrimazole + Betamethasone Valerate",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001956_PRODUCT_RULE",
+      "product_id": "BDS001956",
+      "generic_name": "Clotrimazole + Betamethasone Valerate",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001932_PRODUCT_RULE",
+      "product_id": "BDS001932",
+      "generic_name": "Clotrimazole + Betamethasone Valerate",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS002538_PRODUCT_RULE",
+      "product_id": "BDS002538",
+      "generic_name": "Miconazole Nitrate + Triamcinolone Acetonide w/w",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS002650_PRODUCT_RULE",
+      "product_id": "BDS002650",
+      "generic_name": "Clotrimazole + Betamethasone Valerate w/w",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS002651_PRODUCT_RULE",
+      "product_id": "BDS002651",
+      "generic_name": "Clotrimazole + Betamethasone Valerate w/w",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS008239_PRODUCT_RULE",
+      "product_id": "BDS008239",
+      "generic_name": "Clotrimazole + Betamethasone Valerate w/w",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS008221_PRODUCT_RULE",
+      "product_id": "BDS008221",
+      "generic_name": "Miconazole Nitrate + Triamcinolone Acetonide",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001437_PRODUCT_RULE",
+      "product_id": "BDS001437",
+      "generic_name": "Chloramphenicol",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001515_PRODUCT_RULE",
+      "product_id": "BDS001515",
+      "generic_name": "Chloramphenicol",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS041410_PRODUCT_RULE",
+      "product_id": "BDS041410",
+      "generic_name": "Chloramphenicol",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001847_PRODUCT_RULE",
+      "product_id": "BDS001847",
+      "generic_name": "Fusidic acid + Preservative",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS003181_PRODUCT_RULE",
+      "product_id": "BDS003181",
+      "generic_name": "Neomycin Sulfate + Polymyxin B Sulfate (eq. to Polymyxin B 5 + s) + Gramicidin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS003721_PRODUCT_RULE",
+      "product_id": "BDS003721",
+      "generic_name": "Oxytetracycline HCl + Polymyxin B Sulfate 10 + s",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS003861_PRODUCT_RULE",
+      "product_id": "BDS003861",
+      "generic_name": "Tobramycin + Preservative",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS041404_PRODUCT_RULE",
+      "product_id": "BDS041404",
+      "generic_name": "Dexamethasone Sodium Phosphate + Chloramphenicol + Tetrahydrozoline HCl",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS002003_PRODUCT_RULE",
+      "product_id": "BDS002003",
+      "generic_name": "Gentamicin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS047636_PRODUCT_RULE",
+      "product_id": "BDS047636",
+      "generic_name": "Micronized Silver Sulfadiazine",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007001_PRODUCT_RULE",
+      "product_id": "BDS007001",
+      "generic_name": "Acyclovir",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007719_PRODUCT_RULE",
+      "product_id": "BDS007719",
+      "generic_name": "Acyclovir w/w",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS004046_PRODUCT_RULE",
+      "product_id": "BDS004046",
+      "generic_name": "Acyclovir",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS004020_PRODUCT_RULE",
+      "product_id": "BDS004020",
+      "generic_name": "Acyclovir",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS004216_PRODUCT_RULE",
+      "product_id": "BDS004216",
+      "generic_name": "Acyclovir",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001462_PRODUCT_RULE",
+      "product_id": "BDS001462",
+      "generic_name": "Levofloxacin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001606_PRODUCT_RULE",
+      "product_id": "BDS001606",
+      "generic_name": "Gentamicin w/v + Preservative",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS004018_PRODUCT_RULE",
+      "product_id": "BDS004018",
+      "generic_name": "Moxifloxacin Hydrochloride + Boric Acid + Sodium Chloride + Hydrochloric Acid",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS008491_PRODUCT_RULE",
+      "product_id": "BDS008491",
+      "generic_name": "Nystatin 100 + s + Chloramphenicol + Diiodohydroxyguin",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001236_PRODUCT_RULE",
+      "product_id": "BDS001236",
+      "generic_name": "Betamethasone Valerate + Gentamicin Sulfate",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007505_PRODUCT_RULE",
+      "product_id": "BDS007505",
+      "generic_name": "Betamethasone Valerate + Neomycin Sulphate",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS007506_PRODUCT_RULE",
+      "product_id": "BDS007506",
+      "generic_name": "Betamethasone Valerate + Neomycin Sulphate",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001250_PRODUCT_RULE",
+      "product_id": "BDS001250",
+      "generic_name": "Betamethasone 17-Valerate w/w + Neomycin Sulphate w/w",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001908_PRODUCT_RULE",
+      "product_id": "BDS001908",
+      "generic_name": "Fusidic acid + Betamethasone Valerate + Preservative",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    },
+    {
+      "gap_id": "ABX_GAP_BDS001910_PRODUCT_RULE",
+      "product_id": "BDS001910",
+      "generic_name": "Fusidic acid + Hydrocortisone Acetate + อื่นๆ",
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "status": "pending_source_collection",
+      "priority": 2
+    }
+  ]
+}

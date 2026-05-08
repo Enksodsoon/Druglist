@@ -1,0 +1,21 @@
+# Regimen Safety Report
+
+Generated: 2026-05-02T06:45:17Z
+
+- Regimens checked: 133
+- Blocked: 2
+- Warnings: 12
+- `FRM0001` warning: duplicate therapeutic roles: antihistamine
+- `FRM0003` warning: duplicate therapeutic roles: antihistamine
+- `FRM0005` warning: duplicate therapeutic roles: antihistamine
+- `FRM0011` warning: duplicate therapeutic roles: nsaid
+- `FRM0022` warning: duplicate therapeutic roles: nsaid
+- `FRM0028` blocked: antibiotic in viral/simple/allergic/dry-eye condition
+- `FRM0037` warning: duplicate therapeutic roles: nsaid
+- `FRM0041` warning: duplicate therapeutic roles: antihistamine
+- `FRM0042` warning: duplicate therapeutic roles: antihistamine
+- `FRM0044` warning: duplicate therapeutic roles: antihistamine
+- `FRM0051` warning: duplicate therapeutic roles: nsaid
+- `FRM0052` warning: duplicate therapeutic roles: nsaid
+- `FRM0053` warning: duplicate therapeutic roles: nsaid
+- `FRM0120` blocked: antibiotic in viral/simple/allergic/dry-eye condition
