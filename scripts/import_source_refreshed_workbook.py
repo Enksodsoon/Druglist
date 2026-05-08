@@ -25,14 +25,14 @@ def main() -> int:
     importable = [
         row
         for row in regimen
-        if row.get("clinical_readiness_refreshed") == "ready"
+        if row.get("final_verification_status") == "ready_source_verified"
         and row.get("source_ids")
         and row.get("evidence_claim_ids")
     ]
     blocked_visible = [
         row
         for row in regimen
-        if row.get("clinical_readiness_refreshed") in {"blocked", "manual_review_required", "usable_with_warning"}
+        if row.get("final_verification_status") in {"blocked_source_missing", "blocked_vague_source", "blocked_conflict", "blocked_peds_missing_required_fields", "blocked_antibiotic_missing_criteria", "blocked_safety_red_flag", "manual_review_required_with_exact_reason", "usable_with_warning_source_partial"}
     ]
     diff = {
         "import_mode": "dry_run_no_clinical_change",

@@ -43,6 +43,11 @@ KEYWORD_CLAIMS = [
 
 def main() -> int:
     accepted = read_json("data/source_refresh/source_manifest.accepted.json", {"sources": []}).get("sources", [])
+    candidates = {
+        c.get("source_id_suggestion"): c
+        for c in read_json("data/source_refresh/source_url_candidates.json", {"candidates": []}).get("candidates", [])
+    }
+    coverage = read_json("data/source_refresh/refresh_coverage_matrix.json", {"records": []}).get("records", [])
     claims = []
     rejected = []
     for source in accepted:
@@ -61,10 +66,20 @@ def main() -> int:
             snippet = text_window(text, rule["keywords"])
             if not snippet:
                 continue
+            candidate = candidates.get(source.get("source_id"), {})
+            rows = candidate.get("rows_potentially_covered") or []
+            if not rows:
+                rows = [
+                    r["coverage_id"]
+                    for r in coverage
+                    if any(token in " ".join(map(str, [r.get("disease_key"), r.get("drug_name"), r.get("composition")])).lower() for token in [source.get("source_id", "").split("_")[0], rule["claim_type"].split("_")[0]])
+                ][:50]
             claim_id = stable_id("claim", source.get("source_id"), rule["claim_type"], snippet[:120])
             claims.append(
                 {
                     "claim_id": claim_id,
+                    "pack_id": candidate.get("pack_id", ""),
+                    "coverage_ids_matched": rows,
                     "source_id": source.get("source_id"),
                     "source_title": source.get("source_title"),
                     "organization": source.get("organization"),
@@ -84,10 +99,17 @@ def main() -> int:
                     "extraction_method": "keyword_snippet",
                     "missing_required_fields": rule["missing"],
                     "status": rule["status"],
+                    "row_unlock_eligibility": "not_ready_missing_required_fields" if rule["missing"] else "candidate_ready",
                 }
             )
+    row_map = [
+        {"claim_id": claim["claim_id"], "coverage_id": coverage_id, "row_unlock_eligibility": claim["row_unlock_eligibility"]}
+        for claim in claims
+        for coverage_id in claim.get("coverage_ids_matched", [])
+    ]
     write_json("data/source_refresh/evidence_claims.json", {"claims": claims})
     write_json("data/source_refresh/evidence_claims_rejected.json", {"claims": rejected})
+    write_json("data/source_refresh/evidence_claim_to_row_map.json", {"items": row_map})
     write_report(
         "reports/source_refresh/evidence_claim_extraction_report.md",
         "Evidence Claim Extraction Report",
@@ -98,6 +120,23 @@ def main() -> int:
             f"- Auto-ready dose claims: 0",
             "- Conservative rule: no dose, duration, max dose, pediatric dose, or antibiotic use criterion is verified without exact snippet support.",
         ],
+    )
+    write_report(
+        "reports/source_refresh/claim_to_row_mapping_report.md",
+        "Claim To Row Mapping Report",
+        [
+            f"- Claims: {len(claims)}",
+            f"- Claim-row mappings: {len(row_map)}",
+            "- No mapping grants ready status unless all required fields are present.",
+        ],
+    )
+    missing_by_status = {}
+    for record in coverage:
+        missing_by_status[record["final_status"]] = missing_by_status.get(record["final_status"], 0) + 1
+    write_report(
+        "reports/source_refresh/remaining_missing_evidence_report.md",
+        "Remaining Missing Evidence Report",
+        [f"- {status}: {count}" for status, count in sorted(missing_by_status.items())],
     )
     print(f"medical_evidence_extract: claims={len(claims)} rejected={len(rejected)}")
     return 0

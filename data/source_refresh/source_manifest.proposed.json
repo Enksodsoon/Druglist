@@ -2,19 +2,17 @@
   "sources": [
     {
       "access_date": "2026-05-08",
-      "clinical_domain": "Verify antiviral indication, adult dose, frequency, duration, timing window, and red flags.",
+      "clinical_domain": "Find accepted source pack evidence for Antiviral / herpes / zoster pack",
       "disease_keys": [
-        "herpes_labialis_adult"
+        "herpes_labialis_adult; herpes_zoster_adult"
       ],
       "local_file_reference": "source_text/cdc_shingles_clinical_overview.txt",
       "notes": "",
       "organization": "Centers for Disease Control and Prevention",
       "related_generics": [
-        "Acyclovir 400 mg."
+        "Acyclovir; Acyclovir 400 mg.; Acyclovir 800 mg.; Acyclovir w/w; Paracetamol; Paracetamol 500 mg."
       ],
-      "related_regimens": [
-        "FRM0026"
-      ],
+      "related_regimens": [],
       "review_status": "accepted",
       "source_id": "cdc_shingles_clinical_overview",
       "source_title": "Clinical Overview of Shingles (Herpes Zoster)",
@@ -25,19 +23,17 @@
     },
     {
       "access_date": "2026-05-08",
-      "clinical_domain": "Verify pediatric dose, age/BW gate, concentration, frequency, duration, and max dose.",
+      "clinical_domain": "Find accepted source pack evidence for Antiviral / herpes / zoster pack",
       "disease_keys": [
-        "uri_wet_cough_adult"
+        "herpes_labialis_adult; herpes_zoster_adult"
       ],
       "local_file_reference": "source_text/cdc_sti_herpes_guideline.txt",
       "notes": "",
       "organization": "Centers for Disease Control and Prevention",
       "related_generics": [
-        "Paracetamol 500 mg."
+        "Acyclovir; Acyclovir 400 mg.; Acyclovir 800 mg.; Acyclovir w/w; Paracetamol; Paracetamol 500 mg."
       ],
-      "related_regimens": [
-        "FRM0002"
-      ],
+      "related_regimens": [],
       "review_status": "accepted",
       "source_id": "cdc_sti_herpes_guideline",
       "source_title": "Sexually Transmitted Infections Treatment Guidelines: Herpes",
@@ -48,19 +44,13 @@
     },
     {
       "access_date": "2026-05-08",
-      "clinical_domain": "Verify pediatric dose, age/BW gate, concentration, frequency, duration, and max dose.",
-      "disease_keys": [
-        "uri_wet_cough_adult"
-      ],
+      "clinical_domain": "Find accepted source pack evidence for Thai NLEM / NDI / RDU pack",
+      "disease_keys": [],
       "local_file_reference": "source_text/who_eml_emlc_lists.txt",
       "notes": "",
       "organization": "World Health Organization",
-      "related_generics": [
-        "Paracetamol 500 mg."
-      ],
-      "related_regimens": [
-        "FRM0002"
-      ],
+      "related_generics": [],
+      "related_regimens": [],
       "review_status": "accepted",
       "source_id": "who_eml_emlc_lists",
       "source_title": "WHO Model Lists of Essential Medicines",
@@ -71,19 +61,13 @@
     },
     {
       "access_date": "2026-05-08",
-      "clinical_domain": "Verify pediatric dose, age/BW gate, concentration, frequency, duration, and max dose.",
-      "disease_keys": [
-        "uri_wet_cough_adult"
-      ],
+      "clinical_domain": "Find accepted source pack evidence for Thai NLEM / NDI / RDU pack",
+      "disease_keys": [],
       "local_file_reference": "",
       "notes": "PDF downloaded but no PDF parser is bundled in this repo workflow; needs OCR/text extraction before claims.",
       "organization": "World Health Organization",
-      "related_generics": [
-        "Paracetamol 500 mg."
-      ],
-      "related_regimens": [
-        "FRM0002"
-      ],
+      "related_generics": [],
+      "related_regimens": [],
       "review_status": "proposed",
       "source_id": "who_aware_antibiotic_book",
       "source_title": "The WHO AWaRe Antibiotic Book",
@@ -94,19 +78,13 @@
     },
     {
       "access_date": "2026-05-08",
-      "clinical_domain": "Verify pediatric dose, age/BW gate, concentration, frequency, duration, and max dose.",
-      "disease_keys": [
-        "uri_wet_cough_adult"
-      ],
+      "clinical_domain": "Find accepted source pack evidence for Thai NLEM / NDI / RDU pack",
+      "disease_keys": [],
       "local_file_reference": "source_text/nice_sore_throat_antimicrobial.txt",
       "notes": "",
       "organization": "National Institute for Health and Care Excellence",
-      "related_generics": [
-        "Paracetamol 500 mg."
-      ],
-      "related_regimens": [
-        "FRM0002"
-      ],
+      "related_generics": [],
+      "related_regimens": [],
       "review_status": "accepted",
       "source_id": "nice_sore_throat_antimicrobial",
       "source_title": "Sore throat (acute): antimicrobial prescribing",
