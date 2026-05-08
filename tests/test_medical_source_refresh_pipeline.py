@@ -50,6 +50,38 @@ def test_refreshed_workbook_and_citation_exports_exist():
     assert "2_Regimen_Master_Export" in workbook_xml
 
 
+def test_coverage_matrix_covers_rows_with_explicit_statuses():
+    coverage = load("data/source_refresh/refresh_coverage_matrix.json")["records"]
+    statuses = {row["final_status"] for row in coverage}
+    assert len([r for r in coverage if r["sheet_name"] == "2_Regimen_Master_Export"]) == 987
+    assert len([r for r in coverage if r["sheet_name"] == "6_Pediatric_Dosing"]) == 93
+    assert len([r for r in coverage if r["sheet_name"] == "7_Antibiotic_Rows"]) == 192
+    assert all(row["final_status"] for row in coverage)
+    assert not any("pending" in row["final_status"] for row in coverage)
+    assert "blocked_peds_missing_required_fields" in statuses
+    assert "blocked_antibiotic_missing_criteria" in statuses
+
+
+def test_refreshed_csv_has_no_duplicate_headers_and_all_final_statuses():
+    import csv
+
+    path = ROOT / "exports/source_refresh_csv/2_Regimen_Master_Export.csv"
+    with path.open(encoding="utf-8-sig", newline="") as handle:
+        header = next(csv.reader(handle))
+        rows = list(csv.DictReader(handle, fieldnames=header))
+    assert len(header) == len(set(header))
+    assert "final_verification_status" in header
+    assert all(row["final_verification_status"] for row in rows)
+
+
+def test_claims_used_for_ready_only_when_row_mapped():
+    claims = load("data/source_refresh/evidence_claims.json")["claims"]
+    mapped_claim_ids = {item["claim_id"] for item in load("data/source_refresh/evidence_claim_to_row_map.json")["items"]}
+    for claim in claims:
+        if claim["status"] == "auto_verified" and not claim["missing_required_fields"]:
+            assert claim["claim_id"] in mapped_claim_ids
+
+
 def test_raw_source_cache_is_not_in_dist():
     dist = ROOT / "dist"
     assert not (dist / "data" / "source_refresh").exists()
