@@ -1,0 +1,49 @@
+{
+  "sources": [
+    {
+      "blocked_thai_extraction_uncertain": false,
+      "character_count": 13119,
+      "needs_ocr": false,
+      "notes": "",
+      "sample_relevant_snippet": "hours of symptom onset. Diagnose and treat early to prevent progressive corneal involvement and potential vision loss. There are three preferred antiviral drugs available for the initial treatment of shingles: Acyclovir Valacyclovir Famciclovir These antivirals accelerate the resolution of lesions; reduce the development of new lesions and viral shedding; and decrease the severity of acute pain. Discuss treatment opt",
+      "source_id": "cdc_shingles_clinical_overview",
+      "text_extracted": true
+    },
+    {
+      "blocked_thai_extraction_uncertain": false,
+      "character_count": 36619,
+      "needs_ocr": false,
+      "notes": "",
+      "sample_relevant_snippet": "ffect the risk, frequency, or severity of recurrences after the drug is discontinued. Randomized trials have indicated that three FDA-approved antiviral medications provide clinical benefit for genital herpes: acyclovir, valacyclovir, and famciclovir ( 463 – 471 ). Valacyclovir is the valine ester of acyclovir and has enhanced absorption after oral administration, allowing for less frequent dosing than acyclovir. Fam",
+      "source_id": "cdc_sti_herpes_guideline",
+      "text_extracted": true
+    },
+    {
+      "blocked_thai_extraction_uncertain": false,
+      "character_count": 6655,
+      "needs_ocr": false,
+      "notes": "",
+      "sample_relevant_snippet": "containing information on essential medicines. WHO AWaRe Short description: WHO framework based on three different categories – Access, WAtch and Reserve – which all together forms the AWaRe categorization of antibiotics. WHO Global EML Short description: Database of the essential medicines lists for 137 countries based on the World Health Organization’s National Essential Medicines Lists Repository. Current lists E",
+      "source_id": "who_eml_emlc_lists",
+      "text_extracted": true
+    },
+    {
+      "blocked_thai_extraction_uncertain": false,
+      "character_count": 0,
+      "needs_ocr": true,
+      "notes": "PDF downloaded but no PDF parser is bundled in this repo workflow; needs OCR/text extraction before claims.",
+      "sample_relevant_snippet": "",
+      "source_id": "who_aware_antibiotic_book",
+      "text_extracted": false
+    },
+    {
+      "blocked_thai_extraction_uncertain": false,
+      "character_count": 3353,
+      "needs_ocr": false,
+      "notes": "",
+      "sample_relevant_snippet": "escribing NICE guideline Reference number: NG84 Published: 26 January 2018 Download guidance (PDF) Overview This guideline sets out an antimicrobial prescribing strategy for acute sore throat. It aims to limit antibiotic use and reduce antimicrobial resistance. Acute sore throat is often caused by a virus, lasts for about a week, and most people get better without antibiotics. Withholding antibiotics rarely leads to",
+      "source_id": "nice_sore_throat_antimicrobial",
+      "text_extracted": true
+    }
+  ]
+}
