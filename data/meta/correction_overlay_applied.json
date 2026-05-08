@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:45:17Z",
+    "applied_count": 2
+  },
+  "items": [
+    {
+      "correction_id": "CORR_ANTIVIRAL_HERPES_LABIALIS_SOURCE_GATE",
+      "target_id": "FRM0026",
+      "action": "downgrade_readiness"
+    },
+    {
+      "correction_id": "CORR_ANTIVIRAL_ZOSTER_BLOCK_UNTIL_SOURCE",
+      "target_id": "FRM0027",
+      "action": "block_regimen"
+    }
+  ]
+}

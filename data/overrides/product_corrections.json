@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "schema_version": "druglist-product-corrections-v1",
+    "policy": "Product corrections preserve catalog visibility unless a product metadata issue requires manual review."
+  },
+  "corrections": []
+}
