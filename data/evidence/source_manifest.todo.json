@@ -1,0 +1,759 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:45:17Z",
+    "todo_count": 31
+  },
+  "items": [
+    {
+      "todo_id": "SRC_TODO_AERIUS_SYRUP_DESLORATADINE_0_5_MG_1_ML_SOURCE_REVIEWPEDIATRIC",
+      "source_id_suggestion": "src_aerius_syrup_d",
+      "title_query": "Aerius Syrup [Desloratadine 0.5 mg./1 ml.] source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "BDS001015"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "source evidence"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Aerius Syrup [Desloratadine 0.5 mg./1 ml.] source review guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_DURAN_SUSPENSION_IBUPROFEN_100_MG_5_ML_SOURCE_REVIEWPEDIATRIC",
+      "source_id_suggestion": "src_duran_suspensi",
+      "title_query": "Duran Suspension [Ibuprofen 100 mg./5 ml.] source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "BDS001665"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "source evidence"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Duran Suspension [Ibuprofen 100 mg./5 ml.] source review guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_KIT_F_DROPS_PARACETAMOL_60_MG_0_6_ML_SOURCE_REVIEWPEDIATRIC",
+      "source_id_suggestion": "src_kit_f_drops_pa",
+      "title_query": "Kit-F Drops [Paracetamol 60 mg./0.6 ml.] source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "BDS002407"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "source evidence"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Kit-F Drops [Paracetamol 60 mg./0.6 ml.] source review guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_NUROFEN_SUSPENSION_IBUPROFEN_100_MG_5_ML_SOURCE_REVIEWPEDIATRIC",
+      "source_id_suggestion": "src_nurofen_suspen",
+      "title_query": "Nurofen Suspension [Ibuprofen 100 mg./5 ml.] source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "BDS002845"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "source evidence"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Nurofen Suspension [Ibuprofen 100 mg./5 ml.] source review guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_ORS_PEDIATRIC_DIARRHEAPEDIATRIC",
+      "source_id_suggestion": "src_ors_pediatric_",
+      "title_query": "ORS pediatric diarrhea",
+      "organization_target": "Thai Pediatric Society or MOPH",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "ORS"
+      ],
+      "related_complaints": [
+        "pediatric common OPD"
+      ],
+      "evidence_needed": [
+        "age/BW rule",
+        "dose basis",
+        "frequency",
+        "max dose",
+        "duration"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "Thai Pediatric Society or MOPH ORS pediatric diarrhea guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_PANADOL_ORANGE_SUSPENSION_PARACETAMOL_250_MG_5_ML_SOURCE_REVIEWPEDIATRIC",
+      "source_id_suggestion": "src_panadol_orange",
+      "title_query": "Panadol Orange Suspension [Paracetamol 250 mg./5 ml.] source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "BDS002861"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "source evidence"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Panadol Orange Suspension [Paracetamol 250 mg./5 ml.] source review guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_PANADOL_STRAWBERRY_SUSPENSION_PARACETAMOL_120_MG_5_ML_SOURCE_REVIEWPEDIATRIC",
+      "source_id_suggestion": "src_panadol_strawb",
+      "title_query": "Panadol Strawberry Suspension [Paracetamol 120 mg./5 ml.] source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "BDS002847"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "source evidence"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Panadol Strawberry Suspension [Paracetamol 120 mg./5 ml.] source review guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_SARA_INFANT_DROPS_PARACETAMOL_60_MG_0_6_ML_SOURCE_REVIEWPEDIATRIC",
+      "source_id_suggestion": "src_sara_infant_dr",
+      "title_query": "Sara Infant Drops (รสองุ่น) [Paracetamol 60 mg./0.6 ml.] source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "BDS003597"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "source evidence"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Sara Infant Drops (รสองุ่น) [Paracetamol 60 mg./0.6 ml.] source review guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_SYSTANE_ULTRA_LUBRICANT_EYE_DROPS_POLYETHYLENE_GLYCOL_400_0_4_PROPYLENE_GLYCOL_0",
+      "source_id_suggestion": "src_systane_ultra_",
+      "title_query": "Systane Ultra Lubricant Eye Drops [Polyethylene Glycol 400 0.4%+Propylene Glycol 0.3%+Aminomethylpropanol+//Boric Acid+Hydroxypropyl guar+Potassium Chloride+Sodium Chloride+Sorbitol+Hydrochloric Acid+Sodium Hydroxide+Preservative (Polyquaternium-1 0.001%)] source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "BDS003679"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "source evidence"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Systane Ultra Lubricant Eye Drops [Polyethylene Glycol 400 0.4%+Propylene Glycol 0.3%+Aminomethylpropanol+//Boric Acid+Hydroxypropyl guar+Potassium Chloride+Sodium Chloride+Sorbitol+Hydrochloric Acid+Sodium Hydroxide+Preservative (Polyquaternium-1 0.001%)] source review guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_TEMPRA_DROP_PARACETAMOL_80_MG_0_8_ML_SOURCE_REVIEWPEDIATRIC",
+      "source_id_suggestion": "src_tempra_drop_pa",
+      "title_query": "Tempra Drop [Paracetamol 80 mg./0.8 ml.] source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "BDS003711"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "source evidence"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Tempra Drop [Paracetamol 80 mg./0.8 ml.] source review guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_TYLENOL_DROP_PARACETAMOL_80_MG_0_8_ML_SOURCE_REVIEWPEDIATRIC",
+      "source_id_suggestion": "src_tylenol_drop_p",
+      "title_query": "Tylenol Drop [Paracetamol 80 mg./0.8 ml.] source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "BDS003737"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "source evidence"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Tylenol Drop [Paracetamol 80 mg./0.8 ml.] source review guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_ACYCLOVIR_HERPES_LABIALIS_ADULT_TREATMENTANTIVIRAL",
+      "source_id_suggestion": "src_acyclovir_herp",
+      "title_query": "acyclovir herpes labialis adult treatment",
+      "organization_target": "Thai MOPH or dermatology society",
+      "clinical_domain": "antiviral",
+      "related_drugs": [
+        "acyclovir"
+      ],
+      "related_complaints": [
+        "herpes_labialis_adult"
+      ],
+      "evidence_needed": [
+        "indication",
+        "adult dose",
+        "frequency",
+        "duration"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "Thai MOPH or dermatology society acyclovir herpes labialis adult treatment guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_ACYCLOVIR_HERPES_ZOSTER_SHINGLES_ADULT_TREATMENTANTIVIRAL",
+      "source_id_suggestion": "src_acyclovir_herp",
+      "title_query": "acyclovir herpes zoster shingles adult treatment",
+      "organization_target": "Thai MOPH or Thai specialty society",
+      "clinical_domain": "antiviral",
+      "related_drugs": [
+        "acyclovir"
+      ],
+      "related_complaints": [
+        "herpes_zoster_adult",
+        "shingles"
+      ],
+      "evidence_needed": [
+        "indication",
+        "adult dose",
+        "frequency",
+        "duration",
+        "timing window",
+        "red flags"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "Thai MOPH or Thai specialty society acyclovir herpes zoster shingles adult treatment guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_CETIRIZINE_PEDIATRIC_ALLERGIC_RHINITISPEDIATRIC",
+      "source_id_suggestion": "src_cetirizine_ped",
+      "title_query": "cetirizine pediatric allergic rhinitis",
+      "organization_target": "Thai Pediatric Society or MOPH",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "cetirizine"
+      ],
+      "related_complaints": [
+        "pediatric common OPD"
+      ],
+      "evidence_needed": [
+        "age/BW rule",
+        "dose basis",
+        "frequency",
+        "max dose",
+        "duration"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "Thai Pediatric Society or MOPH cetirizine pediatric allergic rhinitis guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_IBUPROFEN_PEDIATRIC_FEVER_PAINPEDIATRIC",
+      "source_id_suggestion": "src_ibuprofen_pedi",
+      "title_query": "ibuprofen pediatric fever pain",
+      "organization_target": "Thai Pediatric Society or MOPH",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "ibuprofen"
+      ],
+      "related_complaints": [
+        "pediatric common OPD"
+      ],
+      "evidence_needed": [
+        "age/BW rule",
+        "dose basis",
+        "frequency",
+        "max dose",
+        "duration"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "Thai Pediatric Society or MOPH ibuprofen pediatric fever pain guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_PARACETAMOL_PEDIATRIC_FEVER_PAINPEDIATRIC",
+      "source_id_suggestion": "src_paracetamol_pe",
+      "title_query": "paracetamol pediatric fever pain",
+      "organization_target": "Thai Pediatric Society or MOPH",
+      "clinical_domain": "pediatric",
+      "related_drugs": [
+        "paracetamol"
+      ],
+      "related_complaints": [
+        "pediatric common OPD"
+      ],
+      "evidence_needed": [
+        "age/BW rule",
+        "dose basis",
+        "frequency",
+        "max dose",
+        "duration"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "Thai Pediatric Society or MOPH paracetamol pediatric fever pain guideline dose duration",
+      "priority": 1,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_AMOXICILLIN_CLAVULANIC_ACID_SOURCE_REVIEWANTIBIOTIC_RDU",
+      "source_id_suggestion": "src_amoxicillin_cl",
+      "title_query": "Amoxicillin + Clavulanic Acid source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "antibiotic_rdu",
+      "related_drugs": [
+        "Amoxicillin + Clavulanic Acid"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Amoxicillin + Clavulanic Acid source review guideline dose duration",
+      "priority": 2,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_AMOXICILLIN_TRIHYDRATE_CLAVULANIC_POTASSIUM_SOURCE_REVIEWANTIBIOTIC_RDU",
+      "source_id_suggestion": "src_amoxicillin_tr",
+      "title_query": "Amoxicillin Trihydrate + Clavulanic Potassium source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "antibiotic_rdu",
+      "related_drugs": [
+        "Amoxicillin Trihydrate + Clavulanic Potassium"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Amoxicillin Trihydrate + Clavulanic Potassium source review guideline dose duration",
+      "priority": 2,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_AMOXICILLIN_SOURCE_REVIEWANTIBIOTIC_RDU",
+      "source_id_suggestion": "src_amoxicillin_so",
+      "title_query": "Amoxicillin source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "antibiotic_rdu",
+      "related_drugs": [
+        "Amoxicillin"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Amoxicillin source review guideline dose duration",
+      "priority": 2,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_AZITHROMYCIN_SOURCE_REVIEWANTIBIOTIC_RDU",
+      "source_id_suggestion": "src_azithromycin_s",
+      "title_query": "Azithromycin source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "antibiotic_rdu",
+      "related_drugs": [
+        "Azithromycin"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Azithromycin source review guideline dose duration",
+      "priority": 2,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_CEPHALEXIN_SOURCE_REVIEWANTIBIOTIC_RDU",
+      "source_id_suggestion": "src_cephalexin_sou",
+      "title_query": "Cephalexin source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "antibiotic_rdu",
+      "related_drugs": [
+        "Cephalexin"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Cephalexin source review guideline dose duration",
+      "priority": 2,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_CLARITHROMYCIN_SOURCE_REVIEWANTIBIOTIC_RDU",
+      "source_id_suggestion": "src_clarithromycin",
+      "title_query": "Clarithromycin source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "antibiotic_rdu",
+      "related_drugs": [
+        "Clarithromycin"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Clarithromycin source review guideline dose duration",
+      "priority": 2,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_ROXITHROMYCIN_SOURCE_REVIEWANTIBIOTIC_RDU",
+      "source_id_suggestion": "src_roxithromycin_",
+      "title_query": "Roxithromycin source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "antibiotic_rdu",
+      "related_drugs": [
+        "Roxithromycin"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "disease-specific indication",
+        "dose",
+        "duration",
+        "bacterial criteria",
+        "allergy alternative"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Roxithromycin source review guideline dose duration",
+      "priority": 2,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_UTI_ANTIBIOTIC_OUTPATIENT_CRITERIAANTIBIOTIC_RDU",
+      "source_id_suggestion": "src_uti_antibiotic",
+      "title_query": "UTI antibiotic outpatient criteria",
+      "organization_target": "Thai RDU/MOPH or IDSA/WHO",
+      "clinical_domain": "antibiotic_rdu",
+      "related_drugs": [
+        "antibiotics"
+      ],
+      "related_complaints": [
+        "UTI antibiotic outpatient criteria"
+      ],
+      "evidence_needed": [
+        "bacterial criteria",
+        "no-antibiotic criteria",
+        "dose",
+        "duration"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "Thai RDU/MOPH or IDSA/WHO UTI antibiotic outpatient criteria guideline dose duration",
+      "priority": 2,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_BACTERIAL_CONJUNCTIVITIS_TOPICAL_ANTIBIOTICANTIBIOTIC_RDU",
+      "source_id_suggestion": "src_bacterial_conj",
+      "title_query": "bacterial conjunctivitis topical antibiotic",
+      "organization_target": "Thai RDU/MOPH or IDSA/WHO",
+      "clinical_domain": "antibiotic_rdu",
+      "related_drugs": [
+        "antibiotics"
+      ],
+      "related_complaints": [
+        "bacterial conjunctivitis topical antibiotic"
+      ],
+      "evidence_needed": [
+        "bacterial criteria",
+        "no-antibiotic criteria",
+        "dose",
+        "duration"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "Thai RDU/MOPH or IDSA/WHO bacterial conjunctivitis topical antibiotic guideline dose duration",
+      "priority": 2,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_PEDIATRIC_SEVERE_DEHYDRATION_RED_FLAGSRED_FLAGS",
+      "source_id_suggestion": "src_pediatric_seve",
+      "title_query": "pediatric severe dehydration red flags",
+      "organization_target": "Thai MOPH or WHO",
+      "clinical_domain": "red_flags",
+      "related_drugs": [],
+      "related_complaints": [
+        "pediatric severe dehydration red flags"
+      ],
+      "evidence_needed": [
+        "red flags",
+        "referral criteria"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "Thai MOPH or WHO pediatric severe dehydration red flags guideline dose duration",
+      "priority": 2,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_RED_EYE_PAIN_PHOTOPHOBIA_VISION_LOSS_RED_FLAGSRED_FLAGS",
+      "source_id_suggestion": "src_red_eye_pain_p",
+      "title_query": "red eye pain photophobia vision loss red flags",
+      "organization_target": "Thai MOPH or WHO",
+      "clinical_domain": "red_flags",
+      "related_drugs": [],
+      "related_complaints": [
+        "red eye pain photophobia vision loss red flags"
+      ],
+      "evidence_needed": [
+        "red flags",
+        "referral criteria"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "Thai MOPH or WHO red eye pain photophobia vision loss red flags guideline dose duration",
+      "priority": 2,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_SIMPLE_DIARRHEA_NO_ROUTINE_ANTIBIOTICANTIBIOTIC_RDU",
+      "source_id_suggestion": "src_simple_diarrhe",
+      "title_query": "simple diarrhea no routine antibiotic",
+      "organization_target": "Thai RDU/MOPH or IDSA/WHO",
+      "clinical_domain": "antibiotic_rdu",
+      "related_drugs": [
+        "antibiotics"
+      ],
+      "related_complaints": [
+        "simple diarrhea no routine antibiotic"
+      ],
+      "evidence_needed": [
+        "bacterial criteria",
+        "no-antibiotic criteria",
+        "dose",
+        "duration"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "Thai RDU/MOPH or IDSA/WHO simple diarrhea no routine antibiotic guideline dose duration",
+      "priority": 2,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_VIRAL_URI_NO_ANTIBIOTICANTIBIOTIC_RDU",
+      "source_id_suggestion": "src_viral_uri_no_a",
+      "title_query": "viral URI no antibiotic",
+      "organization_target": "Thai RDU/MOPH or IDSA/WHO",
+      "clinical_domain": "antibiotic_rdu",
+      "related_drugs": [
+        "antibiotics"
+      ],
+      "related_complaints": [
+        "viral URI no antibiotic"
+      ],
+      "evidence_needed": [
+        "bacterial criteria",
+        "no-antibiotic criteria",
+        "dose",
+        "duration"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "Thai RDU/MOPH or IDSA/WHO viral URI no antibiotic guideline dose duration",
+      "priority": 2,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_ACYCLOVIR_SOURCE_REVIEWANTIVIRAL",
+      "source_id_suggestion": "src_acyclovir_sour",
+      "title_query": "Acyclovir source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "antiviral",
+      "related_drugs": [
+        "Acyclovir"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Acyclovir source review guideline dose duration",
+      "priority": 3,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    },
+    {
+      "todo_id": "SRC_TODO_ACYCLOVIR_W_W_SOURCE_REVIEWANTIVIRAL",
+      "source_id_suggestion": "src_acyclovir_w_w_",
+      "title_query": "Acyclovir w/w source review",
+      "organization_target": "official guideline or product label authority",
+      "clinical_domain": "antiviral",
+      "related_drugs": [
+        "Acyclovir w/w"
+      ],
+      "related_complaints": [
+        ""
+      ],
+      "evidence_needed": [
+        "product form",
+        "route",
+        "concentration/strength",
+        "label metadata"
+      ],
+      "preferred_source_type": "guideline",
+      "search_query": "official guideline or product label authority Acyclovir w/w source review guideline dose duration",
+      "priority": 3,
+      "review_status": "pending",
+      "source_url_candidates": [],
+      "notes": "Human review required before adding to source_manifest.json as accepted."
+    }
+  ]
+}
