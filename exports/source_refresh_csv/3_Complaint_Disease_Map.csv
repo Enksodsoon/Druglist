@@ -1,0 +1,392 @@
+﻿complaint_key,complaint_text,disease_key,disease_name,category,age_group,match_type,priority,regimen_ids,source_status,manual_review,source_runtime_path,complaint_index_matches
+CI0001,allergic rhinitis,allergic_rhinitis_adult,allergic_rhinitis_adult,ENT,adult,exact,1,FRM0001,legacy_unverified,True,data/core/app_seed_runtime.json:cp[0],CI0001; CI0002; CI0011; CI0012; CI0013; CI0014; CI0015
+CI0002,runny nose,allergic_rhinitis_adult,allergic_rhinitis_adult,ENT,adult,alias,2,FRM0001,legacy_unverified,True,data/core/app_seed_runtime.json:cp[1],CI0001; CI0002; CI0011; CI0012; CI0013; CI0014; CI0015
+CI0003,uri with wet cough,uri_wet_cough_adult,uri_wet_cough_adult,ENT,adult,exact,1,FRM0002,legacy_unverified,True,data/core/app_seed_runtime.json:cp[2],CI0003; CI0004
+CI0004,productive cough,uri_wet_cough_adult,uri_wet_cough_adult,ENT,adult,alias,2,FRM0002,legacy_unverified,True,data/core/app_seed_runtime.json:cp[3],CI0003; CI0004
+CI0005,uri with diarrhea,uri_diarrhea_adult,uri_diarrhea_adult,Mixed,adult,exact,1,FRM0003,legacy_unverified,True,data/core/app_seed_runtime.json:cp[4],CI0005
+CI0006,acute watery diarrhea,acute_watery_diarrhea_adult,acute_watery_diarrhea_adult,GI,adult,exact,1,FRM0004,legacy_unverified,True,data/core/app_seed_runtime.json:cp[5],CI0006; CI0020; CI0021
+CI0007,uri with rash,uri_rash_adult,uri_rash_adult,Mixed,adult,exact,1,FRM0005,legacy_unverified,True,data/core/app_seed_runtime.json:cp[6],CI0007; CI0022
+CI0008,sore throat,sore_throat_adult,sore_throat_adult,ENT,adult,exact,1,FRM0006,legacy_unverified,True,data/core/app_seed_runtime.json:cp[7],CI0008; CI0019
+CI0009,dry eye,dry_eye_adult,dry_eye_adult,Eye,adult,exact,1,FRM0007,legacy_unverified,True,data/core/app_seed_runtime.json:cp[8],CI0009
+CI0010,diarrhea 5 yr bw 20 kg,acute_watery_diarrhea_peds,acute_watery_diarrhea_peds,GI,peds,shortcut,1,FRM0008,legacy_unverified,True,data/core/app_seed_runtime.json:cp[9],CI0010
+CI0011,runny nose allergy,allergic_rhinitis_adult,allergic_rhinitis_adult,ENT,adult,alias,3,FRM0001,legacy_unverified,True,data/core/app_seed_runtime.json:cp[10],CI0001; CI0002; CI0011; CI0012; CI0013; CI0014; CI0015
+CI0012,sneezing,allergic_rhinitis_adult,allergic_rhinitis_adult,ENT,adult,alias,3,FRM0001,legacy_unverified,True,data/core/app_seed_runtime.json:cp[11],CI0001; CI0002; CI0011; CI0012; CI0013; CI0014; CI0015
+CI0013,itchy nose,allergic_rhinitis_adult,allergic_rhinitis_adult,ENT,adult,alias,3,FRM0001,legacy_unverified,True,data/core/app_seed_runtime.json:cp[12],CI0001; CI0002; CI0011; CI0012; CI0013; CI0014; CI0015
+CI0014,blocked nose,allergic_rhinitis_adult,allergic_rhinitis_adult,ENT,adult,alias,3,FRM0001,legacy_unverified,True,data/core/app_seed_runtime.json:cp[13],CI0001; CI0002; CI0011; CI0012; CI0013; CI0014; CI0015
+CI0015,nasal congestion,allergic_rhinitis_adult,allergic_rhinitis_adult,ENT,adult,alias,3,FRM0001,legacy_unverified,True,data/core/app_seed_runtime.json:cp[14],CI0001; CI0002; CI0011; CI0012; CI0013; CI0014; CI0015
+CI0016,uri dry cough,uri_dry_cough_adult,uri_dry_cough_adult,ENT,adult,exact,1,FRM0009,legacy_unverified,True,data/core/app_seed_runtime.json:cp[15],CI0016; CI0017; CI0018
+CI0017,dry cough,uri_dry_cough_adult,uri_dry_cough_adult,ENT,adult,alias,2,FRM0009,legacy_unverified,True,data/core/app_seed_runtime.json:cp[16],CI0016; CI0017; CI0018
+CI0018,night cough,uri_dry_cough_adult,uri_dry_cough_adult,ENT,adult,alias,3,FRM0009,legacy_unverified,True,data/core/app_seed_runtime.json:cp[17],CI0016; CI0017; CI0018
+CI0019,throat pain,sore_throat_adult,sore_throat_adult,ENT,adult,alias,2,FRM0006,legacy_unverified,True,data/core/app_seed_runtime.json:cp[18],CI0008; CI0019
+CI0020,watery diarrhea,acute_watery_diarrhea_adult,acute_watery_diarrhea_adult,GI,adult,alias,2,FRM0004,legacy_unverified,True,data/core/app_seed_runtime.json:cp[19],CI0006; CI0020; CI0021
+CI0021,diarrhea,acute_watery_diarrhea_adult,acute_watery_diarrhea_adult,GI,adult,alias,3,FRM0004,legacy_unverified,True,data/core/app_seed_runtime.json:cp[20],CI0006; CI0020; CI0021
+CI0022,itchy rash,uri_rash_adult,uri_rash_adult,Skin,adult,alias,3,FRM0005,legacy_unverified,True,data/core/app_seed_runtime.json:cp[21],CI0007; CI0022
+CI0023,eye irritation,eye_irritation_adult,eye_irritation_adult,Eye,adult,exact,1,FRM0010,legacy_unverified,True,data/core/app_seed_runtime.json:cp[22],CI0023; CI0024; CI0025
+CI0024,dust in eye,eye_irritation_adult,eye_irritation_adult,Eye,adult,alias,2,FRM0010,legacy_unverified,True,data/core/app_seed_runtime.json:cp[23],CI0023; CI0024; CI0025
+CI0025,red eye from dust,eye_irritation_adult,eye_irritation_adult,Eye,adult,alias,3,FRM0010,legacy_unverified,True,data/core/app_seed_runtime.json:cp[24],CI0023; CI0024; CI0025
+CI0026,muscle pain,musculoskeletal_pain_adult,musculoskeletal_pain_adult,Pain,adult,alias,1,FRM0011,legacy_unverified,True,data/core/app_seed_runtime.json:cp[25],CI0026; CI0027; CI0028; CI0029
+CI0027,neck pain,musculoskeletal_pain_adult,musculoskeletal_pain_adult,Pain,adult,alias,2,FRM0011,legacy_unverified,True,data/core/app_seed_runtime.json:cp[26],CI0026; CI0027; CI0028; CI0029
+CI0028,back pain,musculoskeletal_pain_adult,musculoskeletal_pain_adult,Pain,adult,alias,2,FRM0011,legacy_unverified,True,data/core/app_seed_runtime.json:cp[27],CI0026; CI0027; CI0028; CI0029
+CI0029,sprain,musculoskeletal_pain_adult,musculoskeletal_pain_adult,Pain,adult,alias,3,FRM0011,legacy_unverified,True,data/core/app_seed_runtime.json:cp[28],CI0026; CI0027; CI0028; CI0029
+CI0030,migraine,migraine_adult,migraine_adult,Neuro,adult,exact,1,FRM0012,legacy_unverified,True,data/core/app_seed_runtime.json:cp[29],CI0030; CI0031
+CI0031,one-sided headache,migraine_adult,migraine_adult,Neuro,adult,alias,2,FRM0012,legacy_unverified,True,data/core/app_seed_runtime.json:cp[30],CI0030; CI0031
+CI0032,vertigo,vertigo_adult,vertigo_adult,Neuro,adult,exact,1,FRM0013,legacy_unverified,True,data/core/app_seed_runtime.json:cp[31],CI0032; CI0033
+CI0033,dizzy spinning,vertigo_adult,vertigo_adult,Neuro,adult,alias,2,FRM0013,legacy_unverified,True,data/core/app_seed_runtime.json:cp[32],CI0032; CI0033
+CI0034,mouth ulcer,oral_ulcer_adult,oral_ulcer_adult,ENT,adult,exact,1,FRM0014,legacy_unverified,True,data/core/app_seed_runtime.json:cp[33],CI0034; CI0035
+CI0035,aphthous ulcer,oral_ulcer_adult,oral_ulcer_adult,ENT,adult,alias,2,FRM0014,legacy_unverified,True,data/core/app_seed_runtime.json:cp[34],CI0034; CI0035
+CI0036,common cold,common_cold_adult,common_cold_adult,ENT,adult,exact,1,FRM0015,legacy_unverified,True,data/core/app_seed_runtime.json:cp[35],CI0036; CI0037; CI0038
+CI0037,cold,common_cold_adult,common_cold_adult,ENT,adult,alias,2,FRM0015,legacy_unverified,True,data/core/app_seed_runtime.json:cp[36],CI0036; CI0037; CI0038
+CI0038,viral uri,common_cold_adult,common_cold_adult,ENT,adult,alias,3,FRM0015,legacy_unverified,True,data/core/app_seed_runtime.json:cp[37],CI0036; CI0037; CI0038
+CI0039,nasal blockage,nasal_blockage_adult,nasal_blockage_adult,ENT,adult,alias,2,FRM0016,legacy_unverified,True,data/core/app_seed_runtime.json:cp[38],CI0039; CI0040
+CI0040,stuffy nose,nasal_blockage_adult,nasal_blockage_adult,ENT,adult,alias,3,FRM0016,legacy_unverified,True,data/core/app_seed_runtime.json:cp[39],CI0039; CI0040
+CI0041,fever body ache,viral_fever_bodyache_adult,viral_fever_bodyache_adult,General,adult,exact,1,FRM0017,legacy_unverified,True,data/core/app_seed_runtime.json:cp[40],CI0041; CI0042; CI0043
+CI0042,viral fever,viral_fever_bodyache_adult,viral_fever_bodyache_adult,General,adult,alias,2,FRM0017,legacy_unverified,True,data/core/app_seed_runtime.json:cp[41],CI0041; CI0042; CI0043
+CI0043,body ache,viral_fever_bodyache_adult,viral_fever_bodyache_adult,General,adult,alias,3,FRM0017,legacy_unverified,True,data/core/app_seed_runtime.json:cp[42],CI0041; CI0042; CI0043
+CI0044,gas bloating,abdominal_gas_bloating_adult,abdominal_gas_bloating_adult,GI,adult,exact,1,FRM0018,legacy_unverified,True,data/core/app_seed_runtime.json:cp[43],CI0044; CI0045; CI0046
+CI0045,bloating,abdominal_gas_bloating_adult,abdominal_gas_bloating_adult,GI,adult,alias,2,FRM0018,legacy_unverified,True,data/core/app_seed_runtime.json:cp[44],CI0044; CI0045; CI0046
+CI0046,abdominal gas,abdominal_gas_bloating_adult,abdominal_gas_bloating_adult,GI,adult,alias,3,FRM0018,legacy_unverified,True,data/core/app_seed_runtime.json:cp[45],CI0044; CI0045; CI0046
+CI0047,abdominal cramp,abdominal_colic_adult,abdominal_colic_adult,GI,adult,exact,1,FRM0019,legacy_unverified,True,data/core/app_seed_runtime.json:cp[46],CI0047; CI0048; CI0049
+CI0048,colic,abdominal_colic_adult,abdominal_colic_adult,GI,adult,alias,2,FRM0019,legacy_unverified,True,data/core/app_seed_runtime.json:cp[47],CI0047; CI0048; CI0049
+CI0049,stomach cramp,abdominal_colic_adult,abdominal_colic_adult,GI,adult,alias,3,FRM0019,legacy_unverified,True,data/core/app_seed_runtime.json:cp[48],CI0047; CI0048; CI0049
+CI0050,muscle spasm,muscle_spasm_adult,muscle_spasm_adult,Pain,adult,exact,1,FRM0020,legacy_unverified,True,data/core/app_seed_runtime.json:cp[49],CI0050; CI0051; CI0052
+CI0051,tight muscle,muscle_spasm_adult,muscle_spasm_adult,Pain,adult,alias,2,FRM0020,legacy_unverified,True,data/core/app_seed_runtime.json:cp[50],CI0050; CI0051; CI0052
+CI0052,spasm,muscle_spasm_adult,muscle_spasm_adult,Pain,adult,alias,3,FRM0020,legacy_unverified,True,data/core/app_seed_runtime.json:cp[51],CI0050; CI0051; CI0052
+CI0053,tension headache,tension_headache_adult,tension_headache_adult,Neuro,adult,exact,1,FRM0021,legacy_unverified,True,data/core/app_seed_runtime.json:cp[52],CI0053; CI0054; CI0055
+CI0054,tight headache,tension_headache_adult,tension_headache_adult,Neuro,adult,alias,2,FRM0021,legacy_unverified,True,data/core/app_seed_runtime.json:cp[53],CI0053; CI0054; CI0055
+CI0055,stress headache,tension_headache_adult,tension_headache_adult,Neuro,adult,alias,3,FRM0021,legacy_unverified,True,data/core/app_seed_runtime.json:cp[54],CI0053; CI0054; CI0055
+CI0056,joint pain,inflammatory_pain_adult,inflammatory_pain_adult,Pain,adult,exact,1,FRM0022,legacy_unverified,True,data/core/app_seed_runtime.json:cp[55],CI0056; CI0057; CI0058
+CI0057,inflammatory pain,inflammatory_pain_adult,inflammatory_pain_adult,Pain,adult,alias,2,FRM0022,legacy_unverified,True,data/core/app_seed_runtime.json:cp[56],CI0056; CI0057; CI0058
+CI0058,joint flare,inflammatory_pain_adult,inflammatory_pain_adult,Pain,adult,alias,3,FRM0022,legacy_unverified,True,data/core/app_seed_runtime.json:cp[57],CI0056; CI0057; CI0058
+CI0059,dry skin,dry_skin_adult,dry_skin_adult,Skin,adult,exact,1,FRM0023,legacy_unverified,True,data/core/app_seed_runtime.json:cp[58],CI0059; CI0060; CI0061
+CI0060,xerosis,dry_skin_adult,dry_skin_adult,Skin,adult,alias,2,FRM0023,legacy_unverified,True,data/core/app_seed_runtime.json:cp[59],CI0059; CI0060; CI0061
+CI0061,rough skin,dry_skin_adult,dry_skin_adult,Skin,adult,alias,3,FRM0023,legacy_unverified,True,data/core/app_seed_runtime.json:cp[60],CI0059; CI0060; CI0061
+CI0062,eczema,itchy_dermatitis_adult,itchy_dermatitis_adult,Skin,adult,exact,1,FRM0024,legacy_unverified,True,data/core/app_seed_runtime.json:cp[61],CI0062; CI0063; CI0064
+CI0063,itchy dermatitis,itchy_dermatitis_adult,itchy_dermatitis_adult,Skin,adult,alias,2,FRM0024,legacy_unverified,True,data/core/app_seed_runtime.json:cp[62],CI0062; CI0063; CI0064
+CI0064,dermatitis,itchy_dermatitis_adult,itchy_dermatitis_adult,Skin,adult,alias,3,FRM0024,legacy_unverified,True,data/core/app_seed_runtime.json:cp[63],CI0062; CI0063; CI0064
+CI0065,insect bite,insect_bite_reaction_adult,insect_bite_reaction_adult,Skin,adult,exact,1,FRM0025,legacy_unverified,True,data/core/app_seed_runtime.json:cp[64],CI0065; CI0066; CI0067
+CI0066,bug bite,insect_bite_reaction_adult,insect_bite_reaction_adult,Skin,adult,alias,2,FRM0025,legacy_unverified,True,data/core/app_seed_runtime.json:cp[65],CI0065; CI0066; CI0067
+CI0067,mosquito bite,insect_bite_reaction_adult,insect_bite_reaction_adult,Skin,adult,alias,3,FRM0025,legacy_unverified,True,data/core/app_seed_runtime.json:cp[66],CI0065; CI0066; CI0067
+CI0068,cold sore,herpes_labialis_adult,herpes_labialis_adult,Skin,adult,exact,1,FRM0026,legacy_unverified,True,data/core/app_seed_runtime.json:cp[67],CI0068; CI0069; CI0070
+CI0069,herpes labialis,herpes_labialis_adult,herpes_labialis_adult,Skin,adult,alias,2,FRM0026,legacy_unverified,True,data/core/app_seed_runtime.json:cp[68],CI0068; CI0069; CI0070
+CI0070,lip blister,herpes_labialis_adult,herpes_labialis_adult,Skin,adult,alias,3,FRM0026,legacy_unverified,True,data/core/app_seed_runtime.json:cp[69],CI0068; CI0069; CI0070
+CI0071,shingles,herpes_zoster_adult,herpes_zoster_adult,Skin,adult,exact,1,FRM0027,legacy_unverified,True,data/core/app_seed_runtime.json:cp[70],CI0071; CI0072; CI0073
+CI0072,herpes zoster,herpes_zoster_adult,herpes_zoster_adult,Skin,adult,alias,2,FRM0027,legacy_unverified,True,data/core/app_seed_runtime.json:cp[71],CI0071; CI0072; CI0073
+CI0073,zoster,herpes_zoster_adult,herpes_zoster_adult,Skin,adult,alias,3,FRM0027,legacy_unverified,True,data/core/app_seed_runtime.json:cp[72],CI0071; CI0072; CI0073
+CI0074,fungal rash,tinea_pruritic_rash_adult,tinea_pruritic_rash_adult,Skin,adult,exact,1,FRM0028,legacy_unverified,True,data/core/app_seed_runtime.json:cp[73],CI0074; CI0075; CI0076
+CI0075,tinea,tinea_pruritic_rash_adult,tinea_pruritic_rash_adult,Skin,adult,alias,2,FRM0028,legacy_unverified,True,data/core/app_seed_runtime.json:cp[74],CI0074; CI0075; CI0076
+CI0076,ringworm,tinea_pruritic_rash_adult,tinea_pruritic_rash_adult,Skin,adult,alias,3,FRM0028,legacy_unverified,True,data/core/app_seed_runtime.json:cp[75],CI0074; CI0075; CI0076
+CI0077,oral thrush,oral_thrush_adult,oral_thrush_adult,ENT,adult,exact,1,FRM0029,legacy_unverified,True,data/core/app_seed_runtime.json:cp[76],CI0077; CI0078; CI0079
+CI0078,thrush mouth,oral_thrush_adult,oral_thrush_adult,ENT,adult,alias,2,FRM0029,legacy_unverified,True,data/core/app_seed_runtime.json:cp[77],CI0077; CI0078; CI0079
+CI0079,white tongue thrush,oral_thrush_adult,oral_thrush_adult,ENT,adult,alias,3,FRM0029,legacy_unverified,True,data/core/app_seed_runtime.json:cp[78],CI0077; CI0078; CI0079
+CI0080,minor burn,minor_burn_adult,minor_burn_adult,Skin,adult,exact,1,FRM0030,legacy_unverified,True,data/core/app_seed_runtime.json:cp[79],CI0080; CI0081; CI0082
+CI0081,small burn,minor_burn_adult,minor_burn_adult,Skin,adult,alias,2,FRM0030,legacy_unverified,True,data/core/app_seed_runtime.json:cp[80],CI0080; CI0081; CI0082
+CI0082,superficial burn,minor_burn_adult,minor_burn_adult,Skin,adult,alias,3,FRM0030,legacy_unverified,True,data/core/app_seed_runtime.json:cp[81],CI0080; CI0081; CI0082
+CI0083,minor skin infection,minor_skin_infection_topical_adult,minor_skin_infection_topical_adult,Skin,adult,exact,1,FRM0031,legacy_unverified,True,data/core/app_seed_runtime.json:cp[82],CI0083; CI0084; CI0085
+CI0084,small infected wound,minor_skin_infection_topical_adult,minor_skin_infection_topical_adult,Skin,adult,alias,2,FRM0031,legacy_unverified,True,data/core/app_seed_runtime.json:cp[83],CI0083; CI0084; CI0085
+CI0085,localized skin infection,minor_skin_infection_topical_adult,minor_skin_infection_topical_adult,Skin,adult,alias,3,FRM0031,legacy_unverified,True,data/core/app_seed_runtime.json:cp[84],CI0083; CI0084; CI0085
+CI0086,allergic conjunctivitis,allergic_conjunctivitis_adult,allergic_conjunctivitis_adult,Eye,adult,exact,1,FRM0032,legacy_unverified,True,data/core/app_seed_runtime.json:cp[85],CI0086; CI0087; CI0088
+CI0087,itchy red eye allergy,allergic_conjunctivitis_adult,allergic_conjunctivitis_adult,Eye,adult,alias,2,FRM0032,legacy_unverified,True,data/core/app_seed_runtime.json:cp[86],CI0086; CI0087; CI0088
+CI0088,itchy watery eyes,allergic_conjunctivitis_adult,allergic_conjunctivitis_adult,Eye,adult,alias,3,FRM0032,legacy_unverified,True,data/core/app_seed_runtime.json:cp[87],CI0086; CI0087; CI0088
+CI0089,sinusitis,bacterial_sinusitis_adult,bacterial_sinusitis_adult,ENT,adult,exact,1,FRM0033,legacy_unverified,True,data/core/app_seed_runtime.json:cp[88],CI0089; CI0090; CI0091
+CI0090,bacterial sinusitis,bacterial_sinusitis_adult,bacterial_sinusitis_adult,ENT,adult,alias,2,FRM0033,legacy_unverified,True,data/core/app_seed_runtime.json:cp[89],CI0089; CI0090; CI0091
+CI0091,sinus infection,bacterial_sinusitis_adult,bacterial_sinusitis_adult,ENT,adult,alias,3,FRM0033,legacy_unverified,True,data/core/app_seed_runtime.json:cp[90],CI0089; CI0090; CI0091
+CI0092,bacterial sore throat,bacterial_pharyngitis_adult,bacterial_pharyngitis_adult,ENT,adult,exact,1,FRM0034,legacy_unverified,True,data/core/app_seed_runtime.json:cp[91],CI0092; CI0093; CI0094
+CI0093,tonsillitis,bacterial_pharyngitis_adult,bacterial_pharyngitis_adult,ENT,adult,alias,2,FRM0034,legacy_unverified,True,data/core/app_seed_runtime.json:cp[92],CI0092; CI0093; CI0094
+CI0094,bacterial pharyngitis,bacterial_pharyngitis_adult,bacterial_pharyngitis_adult,ENT,adult,alias,3,FRM0034,legacy_unverified,True,data/core/app_seed_runtime.json:cp[93],CI0092; CI0093; CI0094
+CI0095,saline nasal rinse,nasal_irrigation_support_adult,nasal_irrigation_support_adult,ENT,adult,exact,1,FRM0035,legacy_unverified,True,data/core/app_seed_runtime.json:cp[94],CI0095; CI0096; CI0097
+CI0096,nasal wash,nasal_irrigation_support_adult,nasal_irrigation_support_adult,ENT,adult,alias,2,FRM0035,legacy_unverified,True,data/core/app_seed_runtime.json:cp[95],CI0095; CI0096; CI0097
+CI0097,nasal irrigation,nasal_irrigation_support_adult,nasal_irrigation_support_adult,ENT,adult,alias,3,FRM0035,legacy_unverified,True,data/core/app_seed_runtime.json:cp[96],CI0095; CI0096; CI0097
+CI0098,eye lubrication,eye_lubrication_adult,eye_lubrication_adult,Eye,adult,exact,1,FRM0036,legacy_unverified,True,data/core/app_seed_runtime.json:cp[97],CI0098; CI0099; CI0100
+CI0099,lubricant drops,eye_lubrication_adult,eye_lubrication_adult,Eye,adult,alias,2,FRM0036,legacy_unverified,True,data/core/app_seed_runtime.json:cp[98],CI0098; CI0099; CI0100
+CI0100,artificial tears,eye_lubrication_adult,eye_lubrication_adult,Eye,adult,alias,3,FRM0036,legacy_unverified,True,data/core/app_seed_runtime.json:cp[99],CI0098; CI0099; CI0100
+CI0101,topical joint pain,joint_pain_topical_support_adult,joint_pain_topical_support_adult,Pain,adult,exact,1,FRM0037,legacy_unverified,True,data/core/app_seed_runtime.json:cp[100],CI0101; CI0102; CI0103
+CI0102,joint pain spray,joint_pain_topical_support_adult,joint_pain_topical_support_adult,Pain,adult,alias,2,FRM0037,legacy_unverified,True,data/core/app_seed_runtime.json:cp[101],CI0101; CI0102; CI0103
+CI0103,local joint pain,joint_pain_topical_support_adult,joint_pain_topical_support_adult,Pain,adult,alias,3,FRM0037,legacy_unverified,True,data/core/app_seed_runtime.json:cp[102],CI0101; CI0102; CI0103
+CI0104,belching,gas_belching_adult,gas_belching_adult,GI,adult,exact,1,FRM0038,legacy_unverified,True,data/core/app_seed_runtime.json:cp[103],CI0104; CI0105; CI0106
+CI0105,gas belching,gas_belching_adult,gas_belching_adult,GI,adult,alias,2,FRM0038,legacy_unverified,True,data/core/app_seed_runtime.json:cp[104],CI0104; CI0105; CI0106
+CI0106,dyspeptic gas,gas_belching_adult,gas_belching_adult,GI,adult,alias,3,FRM0038,legacy_unverified,True,data/core/app_seed_runtime.json:cp[105],CI0104; CI0105; CI0106
+CI0107,burn aftercare,burn_aftercare_minor_adult,burn_aftercare_minor_adult,Skin,adult,exact,1,FRM0039,legacy_unverified,True,data/core/app_seed_runtime.json:cp[106],CI0107; CI0108; CI0109
+CI0108,burn follow up,burn_aftercare_minor_adult,burn_aftercare_minor_adult,Skin,adult,alias,2,FRM0039,legacy_unverified,True,data/core/app_seed_runtime.json:cp[107],CI0107; CI0108; CI0109
+CI0109,healing burn,burn_aftercare_minor_adult,burn_aftercare_minor_adult,Skin,adult,alias,3,FRM0039,legacy_unverified,True,data/core/app_seed_runtime.json:cp[108],CI0107; CI0108; CI0109
+CI0110,localized itchy rash,itchy_localized_rash_adult,itchy_localized_rash_adult,Skin,adult,exact,1,FRM0040,legacy_unverified,True,data/core/app_seed_runtime.json:cp[109],CI0110; CI0111; CI0112
+CI0111,itchy patch,itchy_localized_rash_adult,itchy_localized_rash_adult,Skin,adult,alias,2,FRM0040,legacy_unverified,True,data/core/app_seed_runtime.json:cp[110],CI0110; CI0111; CI0112
+CI0112,itchy skin patch,itchy_localized_rash_adult,itchy_localized_rash_adult,Skin,adult,alias,3,FRM0040,legacy_unverified,True,data/core/app_seed_runtime.json:cp[111],CI0110; CI0111; CI0112
+CI0113,allergic rhinitis with congestion,allergic_rhinitis_congestion_adult,allergic_rhinitis_congestion_adult,ENT,adult,exact,1,FRM0041,legacy_unverified,True,data/core/app_seed_runtime.json:cp[112],CI0113; CI0114; CI0115
+CI0114,blocked nose allergy,allergic_rhinitis_congestion_adult,allergic_rhinitis_congestion_adult,ENT,adult,alias,2,FRM0041,legacy_unverified,True,data/core/app_seed_runtime.json:cp[113],CI0113; CI0114; CI0115
+CI0115,allergy nose blocked,allergic_rhinitis_congestion_adult,allergic_rhinitis_congestion_adult,ENT,adult,alias,3,FRM0041,legacy_unverified,True,data/core/app_seed_runtime.json:cp[114],CI0113; CI0114; CI0115
+CI0116,runny nose and sneezing,uri_sneezing_runny_nose_adult,uri_sneezing_runny_nose_adult,ENT,adult,exact,1,FRM0042,legacy_unverified,True,data/core/app_seed_runtime.json:cp[115],CI0116; CI0117; CI0118
+CI0117,uri sneezing runny nose,uri_sneezing_runny_nose_adult,uri_sneezing_runny_nose_adult,ENT,adult,alias,2,FRM0042,legacy_unverified,True,data/core/app_seed_runtime.json:cp[116],CI0116; CI0117; CI0118
+CI0118,common cold runny nose,uri_sneezing_runny_nose_adult,uri_sneezing_runny_nose_adult,ENT,adult,alias,3,FRM0042,legacy_unverified,True,data/core/app_seed_runtime.json:cp[117],CI0116; CI0117; CI0118
+CI0119,viral pharyngitis,acute_pharyngitis_viral_adult,acute_pharyngitis_viral_adult,ENT,adult,exact,1,FRM0043,legacy_unverified,True,data/core/app_seed_runtime.json:cp[118],CI0119; CI0120; CI0121
+CI0120,viral sore throat,acute_pharyngitis_viral_adult,acute_pharyngitis_viral_adult,ENT,adult,alias,2,FRM0043,legacy_unverified,True,data/core/app_seed_runtime.json:cp[119],CI0119; CI0120; CI0121
+CI0121,throat irritation,acute_pharyngitis_viral_adult,acute_pharyngitis_viral_adult,ENT,adult,alias,3,FRM0043,legacy_unverified,True,data/core/app_seed_runtime.json:cp[120],CI0119; CI0120; CI0121
+CI0122,postnasal drip cough,postnasal_drip_cough_adult,postnasal_drip_cough_adult,ENT,adult,exact,1,FRM0044,legacy_unverified,True,data/core/app_seed_runtime.json:cp[121],CI0122; CI0123; CI0124
+CI0123,throat clearing cough,postnasal_drip_cough_adult,postnasal_drip_cough_adult,ENT,adult,alias,2,FRM0044,legacy_unverified,True,data/core/app_seed_runtime.json:cp[122],CI0122; CI0123; CI0124
+CI0124,cough from post nasal drip,postnasal_drip_cough_adult,postnasal_drip_cough_adult,ENT,adult,alias,3,FRM0044,legacy_unverified,True,data/core/app_seed_runtime.json:cp[123],CI0122; CI0123; CI0124
+CI0125,post viral cough,post_viral_cough_adult,post_viral_cough_adult,ENT,adult,exact,1,FRM0045,legacy_unverified,True,data/core/app_seed_runtime.json:cp[124],CI0125; CI0126; CI0127
+CI0126,residual cough after cold,post_viral_cough_adult,post_viral_cough_adult,ENT,adult,alias,2,FRM0045,legacy_unverified,True,data/core/app_seed_runtime.json:cp[125],CI0125; CI0126; CI0127
+CI0127,cough after uri,post_viral_cough_adult,post_viral_cough_adult,ENT,adult,alias,3,FRM0045,legacy_unverified,True,data/core/app_seed_runtime.json:cp[126],CI0125; CI0126; CI0127
+CI0128,laryngitis,laryngitis_irritation_adult,laryngitis_irritation_adult,ENT,adult,exact,1,FRM0046,legacy_unverified,True,data/core/app_seed_runtime.json:cp[127],CI0128; CI0129; CI0130
+CI0129,hoarse voice,laryngitis_irritation_adult,laryngitis_irritation_adult,ENT,adult,alias,2,FRM0046,legacy_unverified,True,data/core/app_seed_runtime.json:cp[128],CI0128; CI0129; CI0130
+CI0130,voice irritation,laryngitis_irritation_adult,laryngitis_irritation_adult,ENT,adult,alias,3,FRM0046,legacy_unverified,True,data/core/app_seed_runtime.json:cp[129],CI0128; CI0129; CI0130
+CI0131,gastroenteritis,gastroenteritis_mild_adult,gastroenteritis_mild_adult,GI,adult,exact,1,FRM0047,legacy_unverified,True,data/core/app_seed_runtime.json:cp[130],CI0131; CI0132; CI0133
+CI0132,viral gastroenteritis,gastroenteritis_mild_adult,gastroenteritis_mild_adult,GI,adult,alias,2,FRM0047,legacy_unverified,True,data/core/app_seed_runtime.json:cp[131],CI0131; CI0132; CI0133
+CI0133,mild diarrhea,gastroenteritis_mild_adult,gastroenteritis_mild_adult,GI,adult,alias,3,FRM0047,legacy_unverified,True,data/core/app_seed_runtime.json:cp[132],CI0131; CI0132; CI0133
+CI0134,traveler diarrhea,traveler_diarrhea_support_adult,traveler_diarrhea_support_adult,GI,adult,exact,1,FRM0048,legacy_unverified,True,data/core/app_seed_runtime.json:cp[133],CI0134; CI0135; CI0136
+CI0135,travel diarrhea,traveler_diarrhea_support_adult,traveler_diarrhea_support_adult,GI,adult,alias,2,FRM0048,legacy_unverified,True,data/core/app_seed_runtime.json:cp[134],CI0134; CI0135; CI0136
+CI0136,diarrhea while travelling,traveler_diarrhea_support_adult,traveler_diarrhea_support_adult,GI,adult,alias,3,FRM0048,legacy_unverified,True,data/core/app_seed_runtime.json:cp[135],CI0134; CI0135; CI0136
+CI0137,functional bloating,functional_bloating_adult,functional_bloating_adult,GI,adult,exact,1,FRM0049,legacy_unverified,True,data/core/app_seed_runtime.json:cp[136],CI0137; CI0138; CI0139
+CI0138,flatulence,functional_bloating_adult,functional_bloating_adult,GI,adult,alias,2,FRM0049,legacy_unverified,True,data/core/app_seed_runtime.json:cp[137],CI0137; CI0138; CI0139
+CI0139,stomach gas bloating,functional_bloating_adult,functional_bloating_adult,GI,adult,alias,3,FRM0049,legacy_unverified,True,data/core/app_seed_runtime.json:cp[138],CI0137; CI0138; CI0139
+CI0140,dyspepsia gas,dyspepsia_gas_adult,dyspepsia_gas_adult,GI,adult,exact,1,FRM0050,legacy_unverified,True,data/core/app_seed_runtime.json:cp[139],CI0140; CI0141; CI0142
+CI0141,post meal belching,dyspepsia_gas_adult,dyspepsia_gas_adult,GI,adult,alias,2,FRM0050,legacy_unverified,True,data/core/app_seed_runtime.json:cp[140],CI0140; CI0141; CI0142
+CI0142,belching after meals,dyspepsia_gas_adult,dyspepsia_gas_adult,GI,adult,alias,3,FRM0050,legacy_unverified,True,data/core/app_seed_runtime.json:cp[141],CI0140; CI0141; CI0142
+CI0143,neck shoulder pain,neck_shoulder_strain_adult,neck_shoulder_strain_adult,Pain,adult,exact,1,FRM0051,legacy_unverified,True,data/core/app_seed_runtime.json:cp[142],CI0143; CI0144; CI0145
+CI0144,shoulder strain,neck_shoulder_strain_adult,neck_shoulder_strain_adult,Pain,adult,alias,2,FRM0051,legacy_unverified,True,data/core/app_seed_runtime.json:cp[143],CI0143; CI0144; CI0145
+CI0145,neck strain,neck_shoulder_strain_adult,neck_shoulder_strain_adult,Pain,adult,alias,3,FRM0051,legacy_unverified,True,data/core/app_seed_runtime.json:cp[144],CI0143; CI0144; CI0145
+CI0146,low back pain,low_back_pain_simple_adult,low_back_pain_simple_adult,Pain,adult,exact,1,FRM0052,legacy_unverified,True,data/core/app_seed_runtime.json:cp[145],CI0146; CI0147; CI0148
+CI0147,simple back pain,low_back_pain_simple_adult,low_back_pain_simple_adult,Pain,adult,alias,2,FRM0052,legacy_unverified,True,data/core/app_seed_runtime.json:cp[146],CI0146; CI0147; CI0148
+CI0148,mechanical back pain,low_back_pain_simple_adult,low_back_pain_simple_adult,Pain,adult,alias,3,FRM0052,legacy_unverified,True,data/core/app_seed_runtime.json:cp[147],CI0146; CI0147; CI0148
+CI0149,sprain,sprain_strain_mild_adult,sprain_strain_mild_adult,Pain,adult,exact,1,FRM0053,legacy_unverified,True,data/core/app_seed_runtime.json:cp[148],CI0149; CI0150; CI0151
+CI0150,mild strain,sprain_strain_mild_adult,sprain_strain_mild_adult,Pain,adult,alias,2,FRM0053,legacy_unverified,True,data/core/app_seed_runtime.json:cp[149],CI0149; CI0150; CI0151
+CI0151,ankle sprain mild,sprain_strain_mild_adult,sprain_strain_mild_adult,Pain,adult,alias,3,FRM0053,legacy_unverified,True,data/core/app_seed_runtime.json:cp[150],CI0149; CI0150; CI0151
+CI0152,knee pain,knee_joint_pain_adult,knee_joint_pain_adult,Pain,adult,exact,1,FRM0054,legacy_unverified,True,data/core/app_seed_runtime.json:cp[151],CI0152; CI0153; CI0154
+CI0153,joint pain knee,knee_joint_pain_adult,knee_joint_pain_adult,Pain,adult,alias,2,FRM0054,legacy_unverified,True,data/core/app_seed_runtime.json:cp[152],CI0152; CI0153; CI0154
+CI0154,localized joint pain,knee_joint_pain_adult,knee_joint_pain_adult,Pain,adult,alias,3,FRM0054,legacy_unverified,True,data/core/app_seed_runtime.json:cp[153],CI0152; CI0153; CI0154
+CI0155,contact dermatitis,contact_dermatitis_adult,contact_dermatitis_adult,Skin,adult,exact,1,FRM0055,legacy_unverified,True,data/core/app_seed_runtime.json:cp[154],CI0155; CI0156; CI0157
+CI0156,irritant dermatitis,contact_dermatitis_adult,contact_dermatitis_adult,Skin,adult,alias,2,FRM0055,legacy_unverified,True,data/core/app_seed_runtime.json:cp[155],CI0155; CI0156; CI0157
+CI0157,allergic contact rash,contact_dermatitis_adult,contact_dermatitis_adult,Skin,adult,alias,3,FRM0055,legacy_unverified,True,data/core/app_seed_runtime.json:cp[156],CI0155; CI0156; CI0157
+CI0158,urticaria,urticaria_mild_adult,urticaria_mild_adult,Skin,adult,exact,1,FRM0056,legacy_unverified,True,data/core/app_seed_runtime.json:cp[157],CI0158; CI0159; CI0160
+CI0159,hives,urticaria_mild_adult,urticaria_mild_adult,Skin,adult,alias,2,FRM0056,legacy_unverified,True,data/core/app_seed_runtime.json:cp[158],CI0158; CI0159; CI0160
+CI0160,allergic wheals,urticaria_mild_adult,urticaria_mild_adult,Skin,adult,alias,3,FRM0056,legacy_unverified,True,data/core/app_seed_runtime.json:cp[159],CI0158; CI0159; CI0160
+CI0161,localized pruritus,pruritus_localized_adult,pruritus_localized_adult,Skin,adult,exact,1,FRM0057,legacy_unverified,True,data/core/app_seed_runtime.json:cp[160],CI0161; CI0162; CI0163
+CI0162,local itch,pruritus_localized_adult,pruritus_localized_adult,Skin,adult,alias,2,FRM0057,legacy_unverified,True,data/core/app_seed_runtime.json:cp[161],CI0161; CI0162; CI0163
+CI0163,itch without rash,pruritus_localized_adult,pruritus_localized_adult,Skin,adult,alias,3,FRM0057,legacy_unverified,True,data/core/app_seed_runtime.json:cp[162],CI0161; CI0162; CI0163
+CI0164,tinea corporis,tinea_corporis_localized_adult,tinea_corporis_localized_adult,Skin,adult,exact,1,FRM0058,legacy_unverified,True,data/core/app_seed_runtime.json:cp[163],CI0164; CI0165; CI0166
+CI0165,ringworm,tinea_corporis_localized_adult,tinea_corporis_localized_adult,Skin,adult,alias,2,FRM0058,legacy_unverified,True,data/core/app_seed_runtime.json:cp[164],CI0164; CI0165; CI0166
+CI0166,fungal body rash,tinea_corporis_localized_adult,tinea_corporis_localized_adult,Skin,adult,alias,3,FRM0058,legacy_unverified,True,data/core/app_seed_runtime.json:cp[165],CI0164; CI0165; CI0166
+CI0167,impetigo,impetigo_localized_adult,impetigo_localized_adult,Skin,adult,exact,1,FRM0059,legacy_unverified,True,data/core/app_seed_runtime.json:cp[166],CI0167; CI0168; CI0169
+CI0168,localized skin infection,impetigo_localized_adult,impetigo_localized_adult,Skin,adult,alias,2,FRM0059,legacy_unverified,True,data/core/app_seed_runtime.json:cp[167],CI0167; CI0168; CI0169
+CI0169,small bacterial skin lesion,impetigo_localized_adult,impetigo_localized_adult,Skin,adult,alias,3,FRM0059,legacy_unverified,True,data/core/app_seed_runtime.json:cp[168],CI0167; CI0168; CI0169
+CI0170,minor wound care,minor_wound_care_adult,minor_wound_care_adult,Skin,adult,exact,1,FRM0060,legacy_unverified,True,data/core/app_seed_runtime.json:cp[169],CI0170; CI0171; CI0172
+CI0171,abrasion care,minor_wound_care_adult,minor_wound_care_adult,Skin,adult,alias,2,FRM0060,legacy_unverified,True,data/core/app_seed_runtime.json:cp[170],CI0170; CI0171; CI0172
+CI0172,small wound support,minor_wound_care_adult,minor_wound_care_adult,Skin,adult,alias,3,FRM0060,legacy_unverified,True,data/core/app_seed_runtime.json:cp[171],CI0170; CI0171; CI0172
+CI0173,screen related dry eye,screen_related_dry_eye_adult,screen_related_dry_eye_adult,Eye,adult,exact,1,FRM0061,legacy_unverified,True,data/core/app_seed_runtime.json:cp[172],CI0173; CI0174; CI0175
+CI0174,computer eye dryness,screen_related_dry_eye_adult,screen_related_dry_eye_adult,Eye,adult,alias,2,FRM0061,legacy_unverified,True,data/core/app_seed_runtime.json:cp[173],CI0173; CI0174; CI0175
+CI0175,dry eye from screen,screen_related_dry_eye_adult,screen_related_dry_eye_adult,Eye,adult,alias,3,FRM0061,legacy_unverified,True,data/core/app_seed_runtime.json:cp[174],CI0173; CI0174; CI0175
+CI0176,aphthous ulcer,aphthous_ulcer_pain_adult,aphthous_ulcer_pain_adult,Oral,adult,exact,1,FRM0062,legacy_unverified,True,data/core/app_seed_runtime.json:cp[175],CI0176; CI0177; CI0178
+CI0177,painful mouth ulcer,aphthous_ulcer_pain_adult,aphthous_ulcer_pain_adult,Oral,adult,alias,2,FRM0062,legacy_unverified,True,data/core/app_seed_runtime.json:cp[176],CI0176; CI0177; CI0178
+CI0178,canker sore,aphthous_ulcer_pain_adult,aphthous_ulcer_pain_adult,Oral,adult,alias,3,FRM0062,legacy_unverified,True,data/core/app_seed_runtime.json:cp[177],CI0176; CI0177; CI0178
+CI0179,nasal dryness,nasal_dryness_irritation_adult,nasal_dryness_irritation_adult,ENT,adult,exact,1,FRM0063,legacy_unverified,True,data/core/app_seed_runtime.json:cp[178],CI0179; CI0180; CI0181
+CI0180,dry irritated nose,nasal_dryness_irritation_adult,nasal_dryness_irritation_adult,ENT,adult,alias,2,FRM0063,legacy_unverified,True,data/core/app_seed_runtime.json:cp[179],CI0179; CI0180; CI0181
+CI0181,nose dryness irritation,nasal_dryness_irritation_adult,nasal_dryness_irritation_adult,ENT,adult,alias,3,FRM0063,legacy_unverified,True,data/core/app_seed_runtime.json:cp[180],CI0179; CI0180; CI0181
+CI0182,mild wet cough support,mild_mucolytic_support_adult,mild_mucolytic_support_adult,ENT,adult,exact,1,FRM0064,legacy_unverified,True,data/core/app_seed_runtime.json:cp[181],CI0182; CI0183; CI0184
+CI0183,mucolytic support,mild_mucolytic_support_adult,mild_mucolytic_support_adult,ENT,adult,alias,2,FRM0064,legacy_unverified,True,data/core/app_seed_runtime.json:cp[182],CI0182; CI0183; CI0184
+CI0184,phlegm support,mild_mucolytic_support_adult,mild_mucolytic_support_adult,ENT,adult,alias,3,FRM0064,legacy_unverified,True,data/core/app_seed_runtime.json:cp[183],CI0182; CI0183; CI0184
+CI0185,tonsil irritation,tonsillar_inflammation_support_adult,tonsillar_inflammation_support_adult,ENT,adult,exact,1,FRM0065,legacy_unverified,True,data/core/app_seed_runtime.json:cp[184],CI0185; CI0186; CI0187
+CI0186,tonsil pain mild,tonsillar_inflammation_support_adult,tonsillar_inflammation_support_adult,ENT,adult,alias,2,FRM0065,legacy_unverified,True,data/core/app_seed_runtime.json:cp[185],CI0185; CI0186; CI0187
+CI0187,tonsillar inflammation,tonsillar_inflammation_support_adult,tonsillar_inflammation_support_adult,ENT,adult,alias,3,FRM0065,legacy_unverified,True,data/core/app_seed_runtime.json:cp[186],CI0185; CI0186; CI0187
+CI0188,dry itchy eczema,eczema_dry_pruritic_adult,eczema_dry_pruritic_adult,Skin,adult,exact,1,FRM0066,legacy_unverified,True,data/core/app_seed_runtime.json:cp[187],CI0188; CI0189; CI0190
+CI0189,eczema dry itchy,eczema_dry_pruritic_adult,eczema_dry_pruritic_adult,Skin,adult,alias,2,FRM0066,legacy_unverified,True,data/core/app_seed_runtime.json:cp[188],CI0188; CI0189; CI0190
+CI0190,xerotic eczema,eczema_dry_pruritic_adult,eczema_dry_pruritic_adult,Skin,adult,alias,3,FRM0066,legacy_unverified,True,data/core/app_seed_runtime.json:cp[189],CI0188; CI0189; CI0190
+CI0191,localized muscle ache,localized_muscle_ache_support_adult,localized_muscle_ache_support_adult,Pain,adult,exact,1,FRM0067,legacy_unverified,True,data/core/app_seed_runtime.json:cp[190],CI0191; CI0192; CI0193
+CI0192,muscle ache topical,localized_muscle_ache_support_adult,localized_muscle_ache_support_adult,Pain,adult,alias,2,FRM0067,legacy_unverified,True,data/core/app_seed_runtime.json:cp[191],CI0191; CI0192; CI0193
+CI0193,muscle pain local,localized_muscle_ache_support_adult,localized_muscle_ache_support_adult,Pain,adult,alias,3,FRM0067,legacy_unverified,True,data/core/app_seed_runtime.json:cp[192],CI0191; CI0192; CI0193
+CI0194,watery red eye,watery_red_eye_nonpurulent_adult,watery_red_eye_nonpurulent_adult,Eye,adult,exact,1,FRM0068,legacy_unverified,True,data/core/app_seed_runtime.json:cp[193],CI0194; CI0195; CI0196
+CI0195,non purulent red eye,watery_red_eye_nonpurulent_adult,watery_red_eye_nonpurulent_adult,Eye,adult,alias,2,FRM0068,legacy_unverified,True,data/core/app_seed_runtime.json:cp[194],CI0194; CI0195; CI0196
+CI0196,red watery eye,watery_red_eye_nonpurulent_adult,watery_red_eye_nonpurulent_adult,Eye,adult,alias,3,FRM0068,legacy_unverified,True,data/core/app_seed_runtime.json:cp[195],CI0194; CI0195; CI0196
+CI0197,contact lens dry eye,contact_lens_dry_eye_support_adult,contact_lens_dry_eye_support_adult,Eye,adult,exact,1,FRM0069,legacy_unverified,True,data/core/app_seed_runtime.json:cp[196],CI0197; CI0198; CI0199
+CI0198,dry eye contact lens,contact_lens_dry_eye_support_adult,contact_lens_dry_eye_support_adult,Eye,adult,alias,2,FRM0069,legacy_unverified,True,data/core/app_seed_runtime.json:cp[197],CI0197; CI0198; CI0199
+CI0199,lens irritation,contact_lens_dry_eye_support_adult,contact_lens_dry_eye_support_adult,Eye,adult,alias,3,FRM0069,legacy_unverified,True,data/core/app_seed_runtime.json:cp[198],CI0197; CI0198; CI0199
+CI0200,eye wash,eye_wash_support_adult,eye_wash_support_adult,Eye,adult,exact,1,FRM0070,legacy_unverified,True,data/core/app_seed_runtime.json:cp[199],CI0200; CI0201; CI0202
+CI0201,wash eye,eye_wash_support_adult,eye_wash_support_adult,Eye,adult,alias,2,FRM0070,legacy_unverified,True,data/core/app_seed_runtime.json:cp[200],CI0200; CI0201; CI0202
+CI0202,eye rinse,eye_wash_support_adult,eye_wash_support_adult,Eye,adult,alias,3,FRM0070,legacy_unverified,True,data/core/app_seed_runtime.json:cp[201],CI0200; CI0201; CI0202
+CI0203,foreign body irritation,foreign_body_irritation_followup_adult,foreign_body_irritation_followup_adult,Eye,adult,exact,1,FRM0071,legacy_unverified,True,data/core/app_seed_runtime.json:cp[202],CI0203; CI0204; CI0205
+CI0204,eye irritation follow up,foreign_body_irritation_followup_adult,foreign_body_irritation_followup_adult,Eye,adult,alias,2,FRM0071,legacy_unverified,True,data/core/app_seed_runtime.json:cp[203],CI0203; CI0204; CI0205
+CI0205,after dust eye irritation,foreign_body_irritation_followup_adult,foreign_body_irritation_followup_adult,Eye,adult,alias,3,FRM0071,legacy_unverified,True,data/core/app_seed_runtime.json:cp[204],CI0203; CI0204; CI0205
+CI0206,eye irritation child,eye_irritation_peds,eye_irritation_peds,Eye,peds,exact,1,FRM0072,legacy_unverified,True,data/core/app_seed_runtime.json:cp[205],CI0206; CI0207; CI0208
+CI0207,eye irritation kid,eye_irritation_peds,eye_irritation_peds,Eye,peds,alias,2,FRM0072,legacy_unverified,True,data/core/app_seed_runtime.json:cp[206],CI0206; CI0207; CI0208
+CI0208,dust in eye child,eye_irritation_peds,eye_irritation_peds,Eye,peds,alias,3,FRM0072,legacy_unverified,True,data/core/app_seed_runtime.json:cp[207],CI0206; CI0207; CI0208
+CI0209,dry eye child,dry_eye_peds_support,dry_eye_peds_support,Eye,peds,exact,1,FRM0073,legacy_unverified,True,data/core/app_seed_runtime.json:cp[208],CI0209; CI0210; CI0211
+CI0210,child dry eye,dry_eye_peds_support,dry_eye_peds_support,Eye,peds,alias,2,FRM0073,legacy_unverified,True,data/core/app_seed_runtime.json:cp[209],CI0209; CI0210; CI0211
+CI0211,eye dryness child,dry_eye_peds_support,dry_eye_peds_support,Eye,peds,alias,3,FRM0073,legacy_unverified,True,data/core/app_seed_runtime.json:cp[210],CI0209; CI0210; CI0211
+CI0212,abrasion,superficial_abrasion_adult,superficial_abrasion_adult,Skin,adult,exact,1,FRM0074,legacy_unverified,True,data/core/app_seed_runtime.json:cp[211],CI0212; CI0213; CI0214
+CI0213,superficial abrasion,superficial_abrasion_adult,superficial_abrasion_adult,Skin,adult,alias,2,FRM0074,legacy_unverified,True,data/core/app_seed_runtime.json:cp[212],CI0212; CI0213; CI0214
+CI0214,scrape wound,superficial_abrasion_adult,superficial_abrasion_adult,Skin,adult,alias,3,FRM0074,legacy_unverified,True,data/core/app_seed_runtime.json:cp[213],CI0212; CI0213; CI0214
+CI0215,minor cut care,minor_cut_wound_care_adult,minor_cut_wound_care_adult,Skin,adult,exact,1,FRM0075,legacy_unverified,True,data/core/app_seed_runtime.json:cp[214],CI0215; CI0216; CI0217
+CI0216,small cut support,minor_cut_wound_care_adult,minor_cut_wound_care_adult,Skin,adult,alias,2,FRM0075,legacy_unverified,True,data/core/app_seed_runtime.json:cp[215],CI0215; CI0216; CI0217
+CI0217,small wound care,minor_cut_wound_care_adult,minor_cut_wound_care_adult,Skin,adult,alias,3,FRM0075,legacy_unverified,True,data/core/app_seed_runtime.json:cp[216],CI0215; CI0216; CI0217
+CI0218,insect bite swelling,insect_bite_swelling_adult,insect_bite_swelling_adult,Skin,adult,exact,1,FRM0076,legacy_unverified,True,data/core/app_seed_runtime.json:cp[217],CI0218; CI0219; CI0220
+CI0219,swollen mosquito bite,insect_bite_swelling_adult,insect_bite_swelling_adult,Skin,adult,alias,2,FRM0076,legacy_unverified,True,data/core/app_seed_runtime.json:cp[218],CI0218; CI0219; CI0220
+CI0220,bug bite swelling,insect_bite_swelling_adult,insect_bite_swelling_adult,Skin,adult,alias,3,FRM0076,legacy_unverified,True,data/core/app_seed_runtime.json:cp[219],CI0218; CI0219; CI0220
+CI0221,sensitive area eczema,localized_eczema_sensitive_area_adult,localized_eczema_sensitive_area_adult,Skin,adult,exact,1,FRM0077,legacy_unverified,True,data/core/app_seed_runtime.json:cp[220],CI0221; CI0222; CI0223
+CI0222,mild eczema patch,localized_eczema_sensitive_area_adult,localized_eczema_sensitive_area_adult,Skin,adult,alias,2,FRM0077,legacy_unverified,True,data/core/app_seed_runtime.json:cp[221],CI0221; CI0222; CI0223
+CI0223,small eczema patch,localized_eczema_sensitive_area_adult,localized_eczema_sensitive_area_adult,Skin,adult,alias,3,FRM0077,legacy_unverified,True,data/core/app_seed_runtime.json:cp[222],CI0221; CI0222; CI0223
+CI0224,insect bite child,insect_bite_peds,insect_bite_peds,Skin,peds,exact,1,FRM0078,legacy_unverified,True,data/core/app_seed_runtime.json:cp[223],CI0224; CI0225; CI0226
+CI0225,bug bite kid,insect_bite_peds,insect_bite_peds,Skin,peds,alias,2,FRM0078,legacy_unverified,True,data/core/app_seed_runtime.json:cp[224],CI0224; CI0225; CI0226
+CI0226,mosquito bite child,insect_bite_peds,insect_bite_peds,Skin,peds,alias,3,FRM0078,legacy_unverified,True,data/core/app_seed_runtime.json:cp[225],CI0224; CI0225; CI0226
+CI0227,eczema child,localized_eczema_peds,localized_eczema_peds,Skin,peds,exact,1,FRM0079,legacy_unverified,True,data/core/app_seed_runtime.json:cp[226],CI0227; CI0228; CI0229
+CI0228,itchy eczema child,localized_eczema_peds,localized_eczema_peds,Skin,peds,alias,2,FRM0079,legacy_unverified,True,data/core/app_seed_runtime.json:cp[227],CI0227; CI0228; CI0229
+CI0229,localized eczema child,localized_eczema_peds,localized_eczema_peds,Skin,peds,alias,3,FRM0079,legacy_unverified,True,data/core/app_seed_runtime.json:cp[228],CI0227; CI0228; CI0229
+CI0230,indigestion after meal,indigestion_postmeal_adult,indigestion_postmeal_adult,GI,adult,exact,1,FRM0080,legacy_unverified,True,data/core/app_seed_runtime.json:cp[229],CI0230; CI0231; CI0232
+CI0231,post meal indigestion,indigestion_postmeal_adult,indigestion_postmeal_adult,GI,adult,alias,2,FRM0080,legacy_unverified,True,data/core/app_seed_runtime.json:cp[230],CI0230; CI0231; CI0232
+CI0232,after meal dyspepsia,indigestion_postmeal_adult,indigestion_postmeal_adult,GI,adult,alias,3,FRM0080,legacy_unverified,True,data/core/app_seed_runtime.json:cp[231],CI0230; CI0231; CI0232
+CI0233,digestive aid,digestive_aid_postmeal_adult,digestive_aid_postmeal_adult,GI,adult,exact,1,FRM0081,legacy_unverified,True,data/core/app_seed_runtime.json:cp[232],CI0233; CI0234; CI0235
+CI0234,after meal digestive aid,digestive_aid_postmeal_adult,digestive_aid_postmeal_adult,GI,adult,alias,2,FRM0081,legacy_unverified,True,data/core/app_seed_runtime.json:cp[233],CI0233; CI0234; CI0235
+CI0235,post meal fullness support,digestive_aid_postmeal_adult,digestive_aid_postmeal_adult,GI,adult,alias,3,FRM0081,legacy_unverified,True,data/core/app_seed_runtime.json:cp[234],CI0233; CI0234; CI0235
+CI0236,abdominal gas child,abdominal_gas_peds,abdominal_gas_peds,GI,peds,exact,1,FRM0082,legacy_unverified,True,data/core/app_seed_runtime.json:cp[235],CI0236; CI0237; CI0238
+CI0237,child bloating gas,abdominal_gas_peds,abdominal_gas_peds,GI,peds,alias,2,FRM0082,legacy_unverified,True,data/core/app_seed_runtime.json:cp[236],CI0236; CI0237; CI0238
+CI0238,gas child,abdominal_gas_peds,abdominal_gas_peds,GI,peds,alias,3,FRM0082,legacy_unverified,True,data/core/app_seed_runtime.json:cp[237],CI0236; CI0237; CI0238
+CI0239,abdominal colic child,abdominal_colic_peds,abdominal_colic_peds,GI,peds,exact,1,FRM0083,legacy_unverified,True,data/core/app_seed_runtime.json:cp[238],CI0239; CI0240; CI0241
+CI0240,stomach cramp child,abdominal_colic_peds,abdominal_colic_peds,GI,peds,alias,2,FRM0083,legacy_unverified,True,data/core/app_seed_runtime.json:cp[239],CI0239; CI0240; CI0241
+CI0241,colic child,abdominal_colic_peds,abdominal_colic_peds,GI,peds,alias,3,FRM0083,legacy_unverified,True,data/core/app_seed_runtime.json:cp[240],CI0239; CI0240; CI0241
+CI0242,gastroenteritis child,acute_gastroenteritis_peds_mild,acute_gastroenteritis_peds_mild,GI,peds,exact,1,FRM0084,legacy_unverified,True,data/core/app_seed_runtime.json:cp[241],CI0242; CI0243; CI0244
+CI0243,child gastroenteritis,acute_gastroenteritis_peds_mild,acute_gastroenteritis_peds_mild,GI,peds,alias,2,FRM0084,legacy_unverified,True,data/core/app_seed_runtime.json:cp[242],CI0242; CI0243; CI0244
+CI0244,mild diarrhea child,acute_gastroenteritis_peds_mild,acute_gastroenteritis_peds_mild,GI,peds,alias,3,FRM0084,legacy_unverified,True,data/core/app_seed_runtime.json:cp[243],CI0242; CI0243; CI0244
+CI0245,rehydration diarrhea child,acute_watery_diarrhea_peds_rehydration,acute_watery_diarrhea_peds_rehydration,GI,peds,exact,1,FRM0085,legacy_unverified,True,data/core/app_seed_runtime.json:cp[244],CI0245; CI0246; CI0247
+CI0246,child ors support,acute_watery_diarrhea_peds_rehydration,acute_watery_diarrhea_peds_rehydration,GI,peds,alias,2,FRM0085,legacy_unverified,True,data/core/app_seed_runtime.json:cp[245],CI0245; CI0246; CI0247
+CI0247,watery diarrhea child rehydration,acute_watery_diarrhea_peds_rehydration,acute_watery_diarrhea_peds_rehydration,GI,peds,alias,3,FRM0085,legacy_unverified,True,data/core/app_seed_runtime.json:cp[246],CI0245; CI0246; CI0247
+CI0248,allergic rhinitis child,allergic_rhinitis_peds,allergic_rhinitis_peds,ENT,peds,exact,1,FRM0086,legacy_unverified,True,data/core/app_seed_runtime.json:cp[247],CI0248; CI0249; CI0250
+CI0249,child allergic rhinitis,allergic_rhinitis_peds,allergic_rhinitis_peds,ENT,peds,alias,2,FRM0086,legacy_unverified,True,data/core/app_seed_runtime.json:cp[248],CI0248; CI0249; CI0250
+CI0250,runny nose allergy child,allergic_rhinitis_peds,allergic_rhinitis_peds,ENT,peds,alias,3,FRM0086,legacy_unverified,True,data/core/app_seed_runtime.json:cp[249],CI0248; CI0249; CI0250
+CI0251,wet cough child,uri_wet_cough_peds,uri_wet_cough_peds,ENT,peds,exact,1,FRM0087,legacy_unverified,True,data/core/app_seed_runtime.json:cp[250],CI0251; CI0252; CI0253
+CI0252,uri wet cough child,uri_wet_cough_peds,uri_wet_cough_peds,ENT,peds,alias,2,FRM0087,legacy_unverified,True,data/core/app_seed_runtime.json:cp[251],CI0251; CI0252; CI0253
+CI0253,productive cough child,uri_wet_cough_peds,uri_wet_cough_peds,ENT,peds,alias,3,FRM0087,legacy_unverified,True,data/core/app_seed_runtime.json:cp[252],CI0251; CI0252; CI0253
+CI0254,post uri cough child,post_uri_cough_peds,post_uri_cough_peds,ENT,peds,exact,1,FRM0088,legacy_unverified,True,data/core/app_seed_runtime.json:cp[253],CI0254; CI0255; CI0256
+CI0255,residual cough child,post_uri_cough_peds,post_uri_cough_peds,ENT,peds,alias,2,FRM0088,legacy_unverified,True,data/core/app_seed_runtime.json:cp[254],CI0254; CI0255; CI0256
+CI0256,cough after cold child,post_uri_cough_peds,post_uri_cough_peds,ENT,peds,alias,3,FRM0088,legacy_unverified,True,data/core/app_seed_runtime.json:cp[255],CI0254; CI0255; CI0256
+CI0257,nasal irritation child,nasal_irritation_peds,nasal_irritation_peds,ENT,peds,exact,1,FRM0089,legacy_unverified,True,data/core/app_seed_runtime.json:cp[256],CI0257; CI0258; CI0259
+CI0258,dry nose child,nasal_irritation_peds,nasal_irritation_peds,ENT,peds,alias,2,FRM0089,legacy_unverified,True,data/core/app_seed_runtime.json:cp[257],CI0257; CI0258; CI0259
+CI0259,child nasal dryness,nasal_irritation_peds,nasal_irritation_peds,ENT,peds,alias,3,FRM0089,legacy_unverified,True,data/core/app_seed_runtime.json:cp[258],CI0257; CI0258; CI0259
+CI0260,oral thrush child,oral_thrush_peds,oral_thrush_peds,Oral,peds,exact,1,FRM0090,legacy_unverified,True,data/core/app_seed_runtime.json:cp[259],CI0260; CI0261; CI0262
+CI0261,thrush child,oral_thrush_peds,oral_thrush_peds,Oral,peds,alias,2,FRM0090,legacy_unverified,True,data/core/app_seed_runtime.json:cp[260],CI0260; CI0261; CI0262
+CI0262,white tongue thrush child,oral_thrush_peds,oral_thrush_peds,Oral,peds,alias,3,FRM0090,legacy_unverified,True,data/core/app_seed_runtime.json:cp[261],CI0260; CI0261; CI0262
+CI0263,fever child support,viral_fever_peds_support,viral_fever_peds_support,General,peds,exact,1,FRM0091,legacy_unverified,True,data/core/app_seed_runtime.json:cp[262],CI0263; CI0264; CI0265
+CI0264,viral fever child,viral_fever_peds_support,viral_fever_peds_support,General,peds,alias,2,FRM0091,legacy_unverified,True,data/core/app_seed_runtime.json:cp[263],CI0263; CI0264; CI0265
+CI0265,child fever support,viral_fever_peds_support,viral_fever_peds_support,General,peds,alias,3,FRM0091,legacy_unverified,True,data/core/app_seed_runtime.json:cp[264],CI0263; CI0264; CI0265
+CI0266,bacterial conjunctivitis,bacterial_conjunctivitis_adult,bacterial_conjunctivitis_adult,Eye,adult,exact,1,FRM0092,legacy_unverified,True,data/core/app_seed_runtime.json:cp[265],CI0266; CI0267; CI0268
+CI0267,sticky eye discharge,bacterial_conjunctivitis_adult,bacterial_conjunctivitis_adult,Eye,adult,alias,2,FRM0092,legacy_unverified,True,data/core/app_seed_runtime.json:cp[266],CI0266; CI0267; CI0268
+CI0268,purulent red eye,bacterial_conjunctivitis_adult,bacterial_conjunctivitis_adult,Eye,adult,alias,3,FRM0092,legacy_unverified,True,data/core/app_seed_runtime.json:cp[267],CI0266; CI0267; CI0268
+CI0269,bacterial conjunctivitis child,bacterial_conjunctivitis_peds,bacterial_conjunctivitis_peds,Eye,peds,exact,1,FRM0093,legacy_unverified,True,data/core/app_seed_runtime.json:cp[268],CI0269; CI0270; CI0271
+CI0270,sticky eye child,bacterial_conjunctivitis_peds,bacterial_conjunctivitis_peds,Eye,peds,alias,2,FRM0093,legacy_unverified,True,data/core/app_seed_runtime.json:cp[269],CI0269; CI0270; CI0271
+CI0271,purulent eye discharge child,bacterial_conjunctivitis_peds,bacterial_conjunctivitis_peds,Eye,peds,alias,3,FRM0093,legacy_unverified,True,data/core/app_seed_runtime.json:cp[270],CI0269; CI0270; CI0271
+CI0272,stye bacterial,bacterial_eyelid_infection_adult,bacterial_eyelid_infection_adult,Eye,adult,exact,1,FRM0094,legacy_unverified,True,data/core/app_seed_runtime.json:cp[271],CI0272; CI0273; CI0274
+CI0273,eyelid infection,bacterial_eyelid_infection_adult,bacterial_eyelid_infection_adult,Eye,adult,alias,2,FRM0094,legacy_unverified,True,data/core/app_seed_runtime.json:cp[272],CI0272; CI0273; CI0274
+CI0274,infected stye,bacterial_eyelid_infection_adult,bacterial_eyelid_infection_adult,Eye,adult,alias,3,FRM0094,legacy_unverified,True,data/core/app_seed_runtime.json:cp[273],CI0272; CI0273; CI0274
+CI0275,stye child,bacterial_eyelid_infection_peds,bacterial_eyelid_infection_peds,Eye,peds,exact,1,FRM0095,legacy_unverified,True,data/core/app_seed_runtime.json:cp[274],CI0275; CI0276; CI0277
+CI0276,eyelid infection child,bacterial_eyelid_infection_peds,bacterial_eyelid_infection_peds,Eye,peds,alias,2,FRM0095,legacy_unverified,True,data/core/app_seed_runtime.json:cp[275],CI0275; CI0276; CI0277
+CI0277,infected stye child,bacterial_eyelid_infection_peds,bacterial_eyelid_infection_peds,Eye,peds,alias,3,FRM0095,legacy_unverified,True,data/core/app_seed_runtime.json:cp[276],CI0275; CI0276; CI0277
+CI0278,bacterial sinusitis child,bacterial_sinusitis_peds,bacterial_sinusitis_peds,ENT,peds,exact,1,FRM0096,legacy_unverified,True,data/core/app_seed_runtime.json:cp[277],CI0278; CI0279; CI0280
+CI0279,sinus infection child,bacterial_sinusitis_peds,bacterial_sinusitis_peds,ENT,peds,alias,2,FRM0096,legacy_unverified,True,data/core/app_seed_runtime.json:cp[278],CI0278; CI0279; CI0280
+CI0280,purulent sinus child,bacterial_sinusitis_peds,bacterial_sinusitis_peds,ENT,peds,alias,3,FRM0096,legacy_unverified,True,data/core/app_seed_runtime.json:cp[279],CI0278; CI0279; CI0280
+CI0281,bacterial sore throat child,bacterial_pharyngitis_peds,bacterial_pharyngitis_peds,ENT,peds,exact,1,FRM0097,legacy_unverified,True,data/core/app_seed_runtime.json:cp[280],CI0281; CI0282; CI0283
+CI0282,tonsillitis child bacterial,bacterial_pharyngitis_peds,bacterial_pharyngitis_peds,ENT,peds,alias,2,FRM0097,legacy_unverified,True,data/core/app_seed_runtime.json:cp[281],CI0281; CI0282; CI0283
+CI0283,exudative throat child,bacterial_pharyngitis_peds,bacterial_pharyngitis_peds,ENT,peds,alias,3,FRM0097,legacy_unverified,True,data/core/app_seed_runtime.json:cp[282],CI0281; CI0282; CI0283
+CI0284,roxithromycin option,macrolide_respiratory_bacterial_adult,macrolide_respiratory_bacterial_adult,ENT,adult,exact,1,FRM0098,legacy_unverified,True,data/core/app_seed_runtime.json:cp[283],CI0284; CI0285; CI0286
+CI0285,b roxi support,macrolide_respiratory_bacterial_adult,macrolide_respiratory_bacterial_adult,ENT,adult,alias,2,FRM0098,legacy_unverified,True,data/core/app_seed_runtime.json:cp[284],CI0284; CI0285; CI0286
+CI0286,macrolide respiratory bacterial,macrolide_respiratory_bacterial_adult,macrolide_respiratory_bacterial_adult,ENT,adult,alias,3,FRM0098,legacy_unverified,True,data/core/app_seed_runtime.json:cp[285],CI0284; CI0285; CI0286
+CI0287,dental infection,dental_infection_support_adult,dental_infection_support_adult,Oral,adult,exact,1,FRM0099,legacy_unverified,True,data/core/app_seed_runtime.json:cp[286],CI0287; CI0288; CI0289
+CI0288,gum infection,dental_infection_support_adult,dental_infection_support_adult,Oral,adult,alias,2,FRM0099,legacy_unverified,True,data/core/app_seed_runtime.json:cp[287],CI0287; CI0288; CI0289
+CI0289,tooth infection,dental_infection_support_adult,dental_infection_support_adult,Oral,adult,alias,3,FRM0099,legacy_unverified,True,data/core/app_seed_runtime.json:cp[288],CI0287; CI0288; CI0289
+CI0290,infected insect bite,infected_insect_bite_adult,infected_insect_bite_adult,Skin,adult,exact,1,FRM0100,legacy_unverified,True,data/core/app_seed_runtime.json:cp[289],CI0290; CI0291; CI0292
+CI0291,infected mosquito bite,infected_insect_bite_adult,infected_insect_bite_adult,Skin,adult,alias,2,FRM0100,legacy_unverified,True,data/core/app_seed_runtime.json:cp[290],CI0290; CI0291; CI0292
+CI0292,bite cellulitis small,infected_insect_bite_adult,infected_insect_bite_adult,Skin,adult,alias,3,FRM0100,legacy_unverified,True,data/core/app_seed_runtime.json:cp[291],CI0290; CI0291; CI0292
+CI0293,infected insect bite child,infected_insect_bite_peds,infected_insect_bite_peds,Skin,peds,exact,1,FRM0101,legacy_unverified,True,data/core/app_seed_runtime.json:cp[292],CI0293; CI0294; CI0295
+CI0294,infected bite child,infected_insect_bite_peds,infected_insect_bite_peds,Skin,peds,alias,2,FRM0101,legacy_unverified,True,data/core/app_seed_runtime.json:cp[293],CI0293; CI0294; CI0295
+CI0295,red infected bug bite child,infected_insect_bite_peds,infected_insect_bite_peds,Skin,peds,alias,3,FRM0101,legacy_unverified,True,data/core/app_seed_runtime.json:cp[294],CI0293; CI0294; CI0295
+CI0296,mild cellulitis,cellulitis_mild_adult,cellulitis_mild_adult,Skin,adult,exact,1,FRM0102,legacy_unverified,True,data/core/app_seed_runtime.json:cp[295],CI0296; CI0297; CI0298
+CI0297,localized cellulitis,cellulitis_mild_adult,cellulitis_mild_adult,Skin,adult,alias,2,FRM0102,legacy_unverified,True,data/core/app_seed_runtime.json:cp[296],CI0296; CI0297; CI0298
+CI0298,skin infection cellulitis,cellulitis_mild_adult,cellulitis_mild_adult,Skin,adult,alias,3,FRM0102,legacy_unverified,True,data/core/app_seed_runtime.json:cp[297],CI0296; CI0297; CI0298
+CI0299,impetigo oral antibiotic,impetigo_oral_antibiotic_adult,impetigo_oral_antibiotic_adult,Skin,adult,exact,1,FRM0103,legacy_unverified,True,data/core/app_seed_runtime.json:cp[298],CI0299; CI0300; CI0301
+CI0300,extensive impetigo,impetigo_oral_antibiotic_adult,impetigo_oral_antibiotic_adult,Skin,adult,alias,2,FRM0103,legacy_unverified,True,data/core/app_seed_runtime.json:cp[299],CI0299; CI0300; CI0301
+CI0301,impetigo widespread,impetigo_oral_antibiotic_adult,impetigo_oral_antibiotic_adult,Skin,adult,alias,3,FRM0103,legacy_unverified,True,data/core/app_seed_runtime.json:cp[300],CI0299; CI0300; CI0301
+CI0302,folliculitis,localized_folliculitis_adult,localized_folliculitis_adult,Skin,adult,exact,1,FRM0104,legacy_unverified,True,data/core/app_seed_runtime.json:cp[301],CI0302; CI0303; CI0304
+CI0303,infected hair follicle,localized_folliculitis_adult,localized_folliculitis_adult,Skin,adult,alias,2,FRM0104,legacy_unverified,True,data/core/app_seed_runtime.json:cp[302],CI0302; CI0303; CI0304
+CI0304,small pustule folliculitis,localized_folliculitis_adult,localized_folliculitis_adult,Skin,adult,alias,3,FRM0104,legacy_unverified,True,data/core/app_seed_runtime.json:cp[303],CI0302; CI0303; CI0304
+CI0305,infected abrasion,infected_abrasion_adult,infected_abrasion_adult,Skin,adult,exact,1,FRM0105,legacy_unverified,True,data/core/app_seed_runtime.json:cp[304],CI0305; CI0306; CI0307
+CI0306,abrasion infected,infected_abrasion_adult,infected_abrasion_adult,Skin,adult,alias,2,FRM0105,legacy_unverified,True,data/core/app_seed_runtime.json:cp[305],CI0305; CI0306; CI0307
+CI0307,infected scrape,infected_abrasion_adult,infected_abrasion_adult,Skin,adult,alias,3,FRM0105,legacy_unverified,True,data/core/app_seed_runtime.json:cp[306],CI0305; CI0306; CI0307
+CI0308,infected eczema,infected_eczema_localized_adult,infected_eczema_localized_adult,Skin,adult,exact,1,FRM0106,legacy_unverified,True,data/core/app_seed_runtime.json:cp[307],CI0308; CI0309; CI0310
+CI0309,infected dermatitis,infected_eczema_localized_adult,infected_eczema_localized_adult,Skin,adult,alias,2,FRM0106,legacy_unverified,True,data/core/app_seed_runtime.json:cp[308],CI0308; CI0309; CI0310
+CI0310,eczema with infection,infected_eczema_localized_adult,infected_eczema_localized_adult,Skin,adult,alias,3,FRM0106,legacy_unverified,True,data/core/app_seed_runtime.json:cp[309],CI0308; CI0309; CI0310
+CI0311,uncomplicated uti,uncomplicated_uti_adult,uncomplicated_uti_adult,GU,adult,exact,1,FRM0107,legacy_unverified,True,data/core/app_seed_runtime.json:cp[310],CI0311; CI0312; CI0313
+CI0312,cystitis,uncomplicated_uti_adult,uncomplicated_uti_adult,GU,adult,alias,2,FRM0107,legacy_unverified,True,data/core/app_seed_runtime.json:cp[311],CI0311; CI0312; CI0313
+CI0313,urine infection lower,uncomplicated_uti_adult,uncomplicated_uti_adult,GU,adult,alias,3,FRM0107,legacy_unverified,True,data/core/app_seed_runtime.json:cp[312],CI0311; CI0312; CI0313
+CI0314,topical eye antibiotic,topical_eye_antibiotic_support_adult,topical_eye_antibiotic_support_adult,Eye,adult,exact,1,FRM0108,legacy_unverified,True,data/core/app_seed_runtime.json:cp[313],CI0314; CI0315; CI0316
+CI0315,eye antibiotic support,topical_eye_antibiotic_support_adult,topical_eye_antibiotic_support_adult,Eye,adult,alias,2,FRM0108,legacy_unverified,True,data/core/app_seed_runtime.json:cp[314],CI0314; CI0315; CI0316
+CI0316,bacterial eye drop option,topical_eye_antibiotic_support_adult,topical_eye_antibiotic_support_adult,Eye,adult,alias,3,FRM0108,legacy_unverified,True,data/core/app_seed_runtime.json:cp[315],CI0314; CI0315; CI0316
+CI0317,skin infection child topical,bacterial_skin_infection_topical_peds,bacterial_skin_infection_topical_peds,Skin,peds,exact,1,FRM0109,legacy_unverified,True,data/core/app_seed_runtime.json:cp[316],CI0317; CI0318; CI0319
+CI0318,topical skin antibiotic child,bacterial_skin_infection_topical_peds,bacterial_skin_infection_topical_peds,Skin,peds,alias,2,FRM0109,legacy_unverified,True,data/core/app_seed_runtime.json:cp[317],CI0317; CI0318; CI0319
+CI0319,localized skin infection child,bacterial_skin_infection_topical_peds,bacterial_skin_infection_topical_peds,Skin,peds,alias,3,FRM0109,legacy_unverified,True,data/core/app_seed_runtime.json:cp[318],CI0317; CI0318; CI0319
+CI0320,topical skin antibiotic,bacterial_skin_infection_topical_adult,bacterial_skin_infection_topical_adult,Skin,adult,exact,1,FRM0110,legacy_unverified,True,data/core/app_seed_runtime.json:cp[319],CI0320; CI0321; CI0322
+CI0321,topical bacterial skin support,bacterial_skin_infection_topical_adult,bacterial_skin_infection_topical_adult,Skin,adult,alias,2,FRM0110,legacy_unverified,True,data/core/app_seed_runtime.json:cp[320],CI0320; CI0321; CI0322
+CI0322,localized bacterial skin lesion,bacterial_skin_infection_topical_adult,bacterial_skin_infection_topical_adult,Skin,adult,alias,3,FRM0110,legacy_unverified,True,data/core/app_seed_runtime.json:cp[321],CI0320; CI0321; CI0322
+CI0323,infected wound oral antibiotic,infected_wound_oral_antibiotic_adult,infected_wound_oral_antibiotic_adult,Skin,adult,exact,1,FRM0111,legacy_unverified,True,data/core/app_seed_runtime.json:cp[322],CI0323; CI0324; CI0325
+CI0324,wound infection antibiotic,infected_wound_oral_antibiotic_adult,infected_wound_oral_antibiotic_adult,Skin,adult,alias,2,FRM0111,legacy_unverified,True,data/core/app_seed_runtime.json:cp[323],CI0323; CI0324; CI0325
+CI0325,oral antibiotic wound infection,infected_wound_oral_antibiotic_adult,infected_wound_oral_antibiotic_adult,Skin,adult,alias,3,FRM0111,legacy_unverified,True,data/core/app_seed_runtime.json:cp[324],CI0323; CI0324; CI0325
+CI0326,penicillin allergy respiratory antibiotic,penicillin_allergy_resp_support_adult,penicillin_allergy_resp_support_adult,ENT,adult,exact,1,FRM0112,legacy_unverified,True,data/core/app_seed_runtime.json:cp[325],CI0326; CI0327; CI0328
+CI0327,roxi respiratory support,penicillin_allergy_resp_support_adult,penicillin_allergy_resp_support_adult,ENT,adult,alias,2,FRM0112,legacy_unverified,True,data/core/app_seed_runtime.json:cp[326],CI0326; CI0327; CI0328
+CI0328,penicillin allergy sore throat antibiotic,penicillin_allergy_resp_support_adult,penicillin_allergy_resp_support_adult,ENT,adult,alias,3,FRM0112,legacy_unverified,True,data/core/app_seed_runtime.json:cp[327],CI0326; CI0327; CI0328
+CI0329,sinusitis alternative antibiotic,bacterial_sinusitis_alt_adult,bacterial_sinusitis_alt_adult,ENT,adult,exact,1,FRM0113,legacy_unverified,True,data/core/app_seed_runtime.json:cp[328],CI0329; CI0330; CI0331
+CI0330,roxi sinusitis,bacterial_sinusitis_alt_adult,bacterial_sinusitis_alt_adult,ENT,adult,alias,2,FRM0113,legacy_unverified,True,data/core/app_seed_runtime.json:cp[329],CI0329; CI0330; CI0331
+CI0331,sinus infection alternative antibiotic,bacterial_sinusitis_alt_adult,bacterial_sinusitis_alt_adult,ENT,adult,alias,3,FRM0113,legacy_unverified,True,data/core/app_seed_runtime.json:cp[330],CI0329; CI0330; CI0331
+CI0332,pharyngitis alternative antibiotic,bacterial_pharyngitis_alt_adult,bacterial_pharyngitis_alt_adult,ENT,adult,exact,1,FRM0114,legacy_unverified,True,data/core/app_seed_runtime.json:cp[331],CI0332; CI0333; CI0334
+CI0333,roxi sore throat antibiotic,bacterial_pharyngitis_alt_adult,bacterial_pharyngitis_alt_adult,ENT,adult,alias,2,FRM0114,legacy_unverified,True,data/core/app_seed_runtime.json:cp[332],CI0332; CI0333; CI0334
+CI0334,bacterial throat alternative antibiotic,bacterial_pharyngitis_alt_adult,bacterial_pharyngitis_alt_adult,ENT,adult,alias,3,FRM0114,legacy_unverified,True,data/core/app_seed_runtime.json:cp[333],CI0332; CI0333; CI0334
+CI0335,fusidic acid support,topical_fusidic_support_adult,topical_fusidic_support_adult,Skin,adult,exact,1,FRM0115,legacy_unverified,True,data/core/app_seed_runtime.json:cp[334],CI0335; CI0336; CI0337
+CI0336,fucidin support,topical_fusidic_support_adult,topical_fusidic_support_adult,Skin,adult,alias,2,FRM0115,legacy_unverified,True,data/core/app_seed_runtime.json:cp[335],CI0335; CI0336; CI0337
+CI0337,topical fusidic,topical_fusidic_support_adult,topical_fusidic_support_adult,Skin,adult,alias,3,FRM0115,legacy_unverified,True,data/core/app_seed_runtime.json:cp[336],CI0335; CI0336; CI0337
+CI0338,vaginal candidiasis,vulvovaginal_candidiasis_adult,vulvovaginal_candidiasis_adult,GU,adult,exact,1,FRM0116,legacy_unverified,True,data/core/app_seed_runtime.json:cp[337],CI0338; CI0339; CI0340
+CI0339,yeast infection,vulvovaginal_candidiasis_adult,vulvovaginal_candidiasis_adult,GU,adult,alias,2,FRM0116,legacy_unverified,True,data/core/app_seed_runtime.json:cp[338],CI0338; CI0339; CI0340
+CI0340,itchy fungal vaginal discharge,vulvovaginal_candidiasis_adult,vulvovaginal_candidiasis_adult,GU,adult,alias,3,FRM0116,legacy_unverified,True,data/core/app_seed_runtime.json:cp[339],CI0338; CI0339; CI0340
+CI0341,vaginal mixed infection,vaginal_mixed_infection_adult,vaginal_mixed_infection_adult,GU,adult,exact,1,FRM0117,legacy_unverified,True,data/core/app_seed_runtime.json:cp[340],CI0341; CI0342; CI0343
+CI0342,vaginal discharge infection,vaginal_mixed_infection_adult,vaginal_mixed_infection_adult,GU,adult,alias,2,FRM0117,legacy_unverified,True,data/core/app_seed_runtime.json:cp[341],CI0341; CI0342; CI0343
+CI0343,mixed vaginal discharge,vaginal_mixed_infection_adult,vaginal_mixed_infection_adult,GU,adult,alias,3,FRM0117,legacy_unverified,True,data/core/app_seed_runtime.json:cp[342],CI0341; CI0342; CI0343
+CI0344,vaginal discharge support,vaginal_discharge_support_adult,vaginal_discharge_support_adult,GU,adult,exact,1,FRM0118,legacy_unverified,True,data/core/app_seed_runtime.json:cp[343],CI0344; CI0345; CI0346
+CI0345,local vaginal treatment support,vaginal_discharge_support_adult,vaginal_discharge_support_adult,GU,adult,alias,2,FRM0118,legacy_unverified,True,data/core/app_seed_runtime.json:cp[344],CI0344; CI0345; CI0346
+CI0346,vaginal tab support,vaginal_discharge_support_adult,vaginal_discharge_support_adult,GU,adult,alias,3,FRM0118,legacy_unverified,True,data/core/app_seed_runtime.json:cp[345],CI0344; CI0345; CI0346
+CI0347,uti alternative cipro,uncomplicated_uti_alt_cipro_adult,uncomplicated_uti_alt_cipro_adult,GU,adult,exact,1,FRM0119,legacy_unverified,True,data/core/app_seed_runtime.json:cp[346],CI0347; CI0348; CI0349
+CI0348,cipro uti option,uncomplicated_uti_alt_cipro_adult,uncomplicated_uti_alt_cipro_adult,GU,adult,alias,2,FRM0119,legacy_unverified,True,data/core/app_seed_runtime.json:cp[347],CI0347; CI0348; CI0349
+CI0349,cifloxin uti,uncomplicated_uti_alt_cipro_adult,uncomplicated_uti_alt_cipro_adult,GU,adult,alias,3,FRM0119,legacy_unverified,True,data/core/app_seed_runtime.json:cp[348],CI0347; CI0348; CI0349
+CI0350,dysuria lower uti,dysuria_lower_uti_adult,dysuria_lower_uti_adult,GU,adult,exact,1,FRM0120,legacy_unverified,True,data/core/app_seed_runtime.json:cp[349],CI0350; CI0351; CI0352
+CI0351,burning urination,dysuria_lower_uti_adult,dysuria_lower_uti_adult,GU,adult,alias,2,FRM0120,legacy_unverified,True,data/core/app_seed_runtime.json:cp[350],CI0350; CI0351; CI0352
+CI0352,lower uti burning,dysuria_lower_uti_adult,dysuria_lower_uti_adult,GU,adult,alias,3,FRM0120,legacy_unverified,True,data/core/app_seed_runtime.json:cp[351],CI0350; CI0351; CI0352
+CI0353,urine frequency urgency,frequency_urgency_uti_adult,frequency_urgency_uti_adult,GU,adult,exact,1,FRM0121,legacy_unverified,True,data/core/app_seed_runtime.json:cp[352],CI0353; CI0354; CI0355
+CI0354,uti frequency urgency,frequency_urgency_uti_adult,frequency_urgency_uti_adult,GU,adult,alias,2,FRM0121,legacy_unverified,True,data/core/app_seed_runtime.json:cp[353],CI0353; CI0354; CI0355
+CI0355,frequent urination infection,frequency_urgency_uti_adult,frequency_urgency_uti_adult,GU,adult,alias,3,FRM0121,legacy_unverified,True,data/core/app_seed_runtime.json:cp[354],CI0353; CI0354; CI0355
+CI0356,tinea cruris,tinea_cruris_adult,tinea_cruris_adult,Skin,adult,exact,1,FRM0122,legacy_unverified,True,data/core/app_seed_runtime.json:cp[355],CI0356; CI0357; CI0358
+CI0357,groin fungal rash,tinea_cruris_adult,tinea_cruris_adult,Skin,adult,alias,2,FRM0122,legacy_unverified,True,data/core/app_seed_runtime.json:cp[356],CI0356; CI0357; CI0358
+CI0358,jock itch,tinea_cruris_adult,tinea_cruris_adult,Skin,adult,alias,3,FRM0122,legacy_unverified,True,data/core/app_seed_runtime.json:cp[357],CI0356; CI0357; CI0358
+CI0359,tinea pedis,tinea_pedis_adult,tinea_pedis_adult,Skin,adult,exact,1,FRM0123,legacy_unverified,True,data/core/app_seed_runtime.json:cp[358],CI0359; CI0360; CI0361
+CI0360,fungal foot rash,tinea_pedis_adult,tinea_pedis_adult,Skin,adult,alias,2,FRM0123,legacy_unverified,True,data/core/app_seed_runtime.json:cp[359],CI0359; CI0360; CI0361
+CI0361,athletes foot,tinea_pedis_adult,tinea_pedis_adult,Skin,adult,alias,3,FRM0123,legacy_unverified,True,data/core/app_seed_runtime.json:cp[360],CI0359; CI0360; CI0361
+CI0362,tinea corporis clotrimazole,tinea_corporis_clotrimazole_adult,tinea_corporis_clotrimazole_adult,Skin,adult,exact,1,FRM0124,legacy_unverified,True,data/core/app_seed_runtime.json:cp[361],CI0362; CI0363; CI0364
+CI0363,body fungal rash clotrimazole,tinea_corporis_clotrimazole_adult,tinea_corporis_clotrimazole_adult,Skin,adult,alias,2,FRM0124,legacy_unverified,True,data/core/app_seed_runtime.json:cp[362],CI0362; CI0363; CI0364
+CI0364,ringworm clotrimazole,tinea_corporis_clotrimazole_adult,tinea_corporis_clotrimazole_adult,Skin,adult,alias,3,FRM0124,legacy_unverified,True,data/core/app_seed_runtime.json:cp[363],CI0362; CI0363; CI0364
+CI0365,fungal intertrigo,fungal_intertrigo_adult,fungal_intertrigo_adult,Skin,adult,exact,1,FRM0125,legacy_unverified,True,data/core/app_seed_runtime.json:cp[364],CI0365; CI0366; CI0367
+CI0366,skin fold fungal rash,fungal_intertrigo_adult,fungal_intertrigo_adult,Skin,adult,alias,2,FRM0125,legacy_unverified,True,data/core/app_seed_runtime.json:cp[365],CI0365; CI0366; CI0367
+CI0367,candida intertrigo,fungal_intertrigo_adult,fungal_intertrigo_adult,Skin,adult,alias,3,FRM0125,legacy_unverified,True,data/core/app_seed_runtime.json:cp[366],CI0365; CI0366; CI0367
+CI0368,pityriasis versicolor,pityriasis_versicolor_adult,pityriasis_versicolor_adult,Skin,adult,exact,1,FRM0126,legacy_unverified,True,data/core/app_seed_runtime.json:cp[367],CI0368; CI0369; CI0370
+CI0369,versicolor,pityriasis_versicolor_adult,pityriasis_versicolor_adult,Skin,adult,alias,2,FRM0126,legacy_unverified,True,data/core/app_seed_runtime.json:cp[368],CI0368; CI0369; CI0370
+CI0370,superficial fungal patch,pityriasis_versicolor_adult,pityriasis_versicolor_adult,Skin,adult,alias,3,FRM0126,legacy_unverified,True,data/core/app_seed_runtime.json:cp[369],CI0368; CI0369; CI0370
+CI0371,cutaneous candidiasis,cutaneous_candidiasis_adult,cutaneous_candidiasis_adult,Skin,adult,exact,1,FRM0127,legacy_unverified,True,data/core/app_seed_runtime.json:cp[370],CI0371; CI0372; CI0373
+CI0372,candida skin rash,cutaneous_candidiasis_adult,cutaneous_candidiasis_adult,Skin,adult,alias,2,FRM0127,legacy_unverified,True,data/core/app_seed_runtime.json:cp[371],CI0371; CI0372; CI0373
+CI0373,yeast skin rash,cutaneous_candidiasis_adult,cutaneous_candidiasis_adult,Skin,adult,alias,3,FRM0127,legacy_unverified,True,data/core/app_seed_runtime.json:cp[372],CI0371; CI0372; CI0373
+CI0374,wart,wart_localized_adult,wart_localized_adult,Skin,adult,exact,1,FRM0128,legacy_unverified,True,data/core/app_seed_runtime.json:cp[373],CI0374; CI0375; CI0376
+CI0375,localized wart,wart_localized_adult,wart_localized_adult,Skin,adult,alias,2,FRM0128,legacy_unverified,True,data/core/app_seed_runtime.json:cp[374],CI0374; CI0375; CI0376
+CI0376,corn topical wart,wart_localized_adult,wart_localized_adult,Skin,adult,alias,3,FRM0128,legacy_unverified,True,data/core/app_seed_runtime.json:cp[375],CI0374; CI0375; CI0376
+CI0377,corn treatment,corn_callus_topical_adult,corn_callus_topical_adult,Skin,adult,exact,1,FRM0129,legacy_unverified,True,data/core/app_seed_runtime.json:cp[376],CI0377; CI0378; CI0379
+CI0378,callus treatment,corn_callus_topical_adult,corn_callus_topical_adult,Skin,adult,alias,2,FRM0129,legacy_unverified,True,data/core/app_seed_runtime.json:cp[377],CI0377; CI0378; CI0379
+CI0379,corn callus topical,corn_callus_topical_adult,corn_callus_topical_adult,Skin,adult,alias,3,FRM0129,legacy_unverified,True,data/core/app_seed_runtime.json:cp[378],CI0377; CI0378; CI0379
+CI0380,dental pain,dental_pain_support_adult,dental_pain_support_adult,Oral,adult,exact,1,FRM0130,legacy_unverified,True,data/core/app_seed_runtime.json:cp[379],CI0380; CI0381; CI0382
+CI0381,tooth pain,dental_pain_support_adult,dental_pain_support_adult,Oral,adult,alias,2,FRM0130,legacy_unverified,True,data/core/app_seed_runtime.json:cp[380],CI0380; CI0381; CI0382
+CI0382,toothache,dental_pain_support_adult,dental_pain_support_adult,Oral,adult,alias,3,FRM0130,legacy_unverified,True,data/core/app_seed_runtime.json:cp[381],CI0380; CI0381; CI0382
+CI0383,gingivitis,gingivitis_localized_adult,gingivitis_localized_adult,Oral,adult,exact,1,FRM0131,legacy_unverified,True,data/core/app_seed_runtime.json:cp[382],CI0383; CI0384; CI0385
+CI0384,gum inflammation,gingivitis_localized_adult,gingivitis_localized_adult,Oral,adult,alias,2,FRM0131,legacy_unverified,True,data/core/app_seed_runtime.json:cp[383],CI0383; CI0384; CI0385
+CI0385,swollen gums,gingivitis_localized_adult,gingivitis_localized_adult,Oral,adult,alias,3,FRM0131,legacy_unverified,True,data/core/app_seed_runtime.json:cp[384],CI0383; CI0384; CI0385
+CI0386,gum inflammation support,gum_inflammation_support_adult,gum_inflammation_support_adult,Oral,adult,exact,1,FRM0132,legacy_unverified,True,data/core/app_seed_runtime.json:cp[385],CI0386; CI0387; CI0388
+CI0387,gum gargle support,gum_inflammation_support_adult,gum_inflammation_support_adult,Oral,adult,alias,2,FRM0132,legacy_unverified,True,data/core/app_seed_runtime.json:cp[386],CI0386; CI0387; CI0388
+CI0388,oral antiseptic gum support,gum_inflammation_support_adult,gum_inflammation_support_adult,Oral,adult,alias,3,FRM0132,legacy_unverified,True,data/core/app_seed_runtime.json:cp[387],CI0386; CI0387; CI0388
+CI0389,dental abscess,dental_abscess_support_adult,dental_abscess_support_adult,Oral,adult,exact,1,FRM0133,legacy_unverified,True,data/core/app_seed_runtime.json:cp[388],CI0389; CI0390; CI0391
+CI0390,gum abscess,dental_abscess_support_adult,dental_abscess_support_adult,Oral,adult,alias,2,FRM0133,legacy_unverified,True,data/core/app_seed_runtime.json:cp[389],CI0389; CI0390; CI0391
+CI0391,tooth abscess,dental_abscess_support_adult,dental_abscess_support_adult,Oral,adult,alias,3,FRM0133,legacy_unverified,True,data/core/app_seed_runtime.json:cp[390],CI0389; CI0390; CI0391

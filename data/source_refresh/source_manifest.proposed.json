@@ -1,0 +1,119 @@
+{
+  "sources": [
+    {
+      "access_date": "2026-05-08",
+      "clinical_domain": "Verify antiviral indication, adult dose, frequency, duration, timing window, and red flags.",
+      "disease_keys": [
+        "herpes_labialis_adult"
+      ],
+      "local_file_reference": "source_text/cdc_shingles_clinical_overview.txt",
+      "notes": "",
+      "organization": "Centers for Disease Control and Prevention",
+      "related_generics": [
+        "Acyclovir 400 mg."
+      ],
+      "related_regimens": [
+        "FRM0026"
+      ],
+      "review_status": "accepted",
+      "source_id": "cdc_shingles_clinical_overview",
+      "source_title": "Clinical Overview of Shingles (Herpes Zoster)",
+      "source_type": "guideline",
+      "source_url": "https://www.cdc.gov/shingles/hcp/clinical-overview/index.html",
+      "text_extracted": true,
+      "year": "2024"
+    },
+    {
+      "access_date": "2026-05-08",
+      "clinical_domain": "Verify pediatric dose, age/BW gate, concentration, frequency, duration, and max dose.",
+      "disease_keys": [
+        "uri_wet_cough_adult"
+      ],
+      "local_file_reference": "source_text/cdc_sti_herpes_guideline.txt",
+      "notes": "",
+      "organization": "Centers for Disease Control and Prevention",
+      "related_generics": [
+        "Paracetamol 500 mg."
+      ],
+      "related_regimens": [
+        "FRM0002"
+      ],
+      "review_status": "accepted",
+      "source_id": "cdc_sti_herpes_guideline",
+      "source_title": "Sexually Transmitted Infections Treatment Guidelines: Herpes",
+      "source_type": "guideline",
+      "source_url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm",
+      "text_extracted": true,
+      "year": "2021"
+    },
+    {
+      "access_date": "2026-05-08",
+      "clinical_domain": "Verify pediatric dose, age/BW gate, concentration, frequency, duration, and max dose.",
+      "disease_keys": [
+        "uri_wet_cough_adult"
+      ],
+      "local_file_reference": "source_text/who_eml_emlc_lists.txt",
+      "notes": "",
+      "organization": "World Health Organization",
+      "related_generics": [
+        "Paracetamol 500 mg."
+      ],
+      "related_regimens": [
+        "FRM0002"
+      ],
+      "review_status": "accepted",
+      "source_id": "who_eml_emlc_lists",
+      "source_title": "WHO Model Lists of Essential Medicines",
+      "source_type": "formulary",
+      "source_url": "https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines/essential-medicines-lists",
+      "text_extracted": true,
+      "year": "2025"
+    },
+    {
+      "access_date": "2026-05-08",
+      "clinical_domain": "Verify pediatric dose, age/BW gate, concentration, frequency, duration, and max dose.",
+      "disease_keys": [
+        "uri_wet_cough_adult"
+      ],
+      "local_file_reference": "",
+      "notes": "PDF downloaded but no PDF parser is bundled in this repo workflow; needs OCR/text extraction before claims.",
+      "organization": "World Health Organization",
+      "related_generics": [
+        "Paracetamol 500 mg."
+      ],
+      "related_regimens": [
+        "FRM0002"
+      ],
+      "review_status": "proposed",
+      "source_id": "who_aware_antibiotic_book",
+      "source_title": "The WHO AWaRe Antibiotic Book",
+      "source_type": "guideline",
+      "source_url": "https://iris.who.int/bitstream/handle/10665/365237/9789240062382-eng.pdf",
+      "text_extracted": false,
+      "year": "2022"
+    },
+    {
+      "access_date": "2026-05-08",
+      "clinical_domain": "Verify pediatric dose, age/BW gate, concentration, frequency, duration, and max dose.",
+      "disease_keys": [
+        "uri_wet_cough_adult"
+      ],
+      "local_file_reference": "source_text/nice_sore_throat_antimicrobial.txt",
+      "notes": "",
+      "organization": "National Institute for Health and Care Excellence",
+      "related_generics": [
+        "Paracetamol 500 mg."
+      ],
+      "related_regimens": [
+        "FRM0002"
+      ],
+      "review_status": "accepted",
+      "source_id": "nice_sore_throat_antimicrobial",
+      "source_title": "Sore throat (acute): antimicrobial prescribing",
+      "source_type": "guideline",
+      "source_url": "https://www.nice.org.uk/guidance/ng84",
+      "text_extracted": true,
+      "year": "2018"
+    }
+  ]
+}

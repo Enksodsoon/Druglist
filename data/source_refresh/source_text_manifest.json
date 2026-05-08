@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "access_status": "extracted",
+      "content_type": "text/html",
+      "notes": "",
+      "raw_cache_file": "cache/cdc_shingles_clinical_overview.bin",
+      "source_id": "cdc_shingles_clinical_overview",
+      "text_extracted": true,
+      "text_file": "source_text/cdc_shingles_clinical_overview.txt",
+      "url": "https://www.cdc.gov/shingles/hcp/clinical-overview/index.html"
+    },
+    {
+      "access_status": "extracted",
+      "content_type": "text/html",
+      "notes": "",
+      "raw_cache_file": "cache/cdc_sti_herpes_guideline.bin",
+      "source_id": "cdc_sti_herpes_guideline",
+      "text_extracted": true,
+      "text_file": "source_text/cdc_sti_herpes_guideline.txt",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm"
+    },
+    {
+      "access_status": "extracted",
+      "content_type": "text/html; charset=utf-8",
+      "notes": "",
+      "raw_cache_file": "cache/who_eml_emlc_lists.bin",
+      "source_id": "who_eml_emlc_lists",
+      "text_extracted": true,
+      "text_file": "source_text/who_eml_emlc_lists.txt",
+      "url": "https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines/essential-medicines-lists"
+    },
+    {
+      "access_status": "needs_pdf_text_extraction",
+      "content_type": "text/html; charset=UTF-8",
+      "notes": "PDF downloaded but no PDF parser is bundled in this repo workflow; needs OCR/text extraction before claims.",
+      "raw_cache_file": "cache/who_aware_antibiotic_book.bin",
+      "source_id": "who_aware_antibiotic_book",
+      "text_extracted": false,
+      "text_file": "",
+      "url": "https://iris.who.int/bitstream/handle/10665/365237/9789240062382-eng.pdf"
+    },
+    {
+      "access_status": "extracted",
+      "content_type": "text/html; charset=utf-8",
+      "notes": "",
+      "raw_cache_file": "cache/nice_sore_throat_antimicrobial.bin",
+      "source_id": "nice_sore_throat_antimicrobial",
+      "text_extracted": true,
+      "text_file": "source_text/nice_sore_throat_antimicrobial.txt",
+      "url": "https://www.nice.org.uk/guidance/ng84"
+    }
+  ]
+}

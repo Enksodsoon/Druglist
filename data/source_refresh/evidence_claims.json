@@ -1,0 +1,129 @@
+{
+  "claims": [
+    {
+      "claim_id": "claim_68a2f40402d1",
+      "claim_type": "disease_strategy",
+      "confidence_score": 0.62,
+      "disease_key": "",
+      "dose_struct": {},
+      "evidence_confidence": "medium",
+      "extraction_method": "keyword_snippet",
+      "generic_name": "",
+      "local_file": "source_text/cdc_shingles_clinical_overview.txt",
+      "missing_required_fields": [
+        "source-backed dose",
+        "frequency",
+        "duration"
+      ],
+      "organization": "Centers for Disease Control and Prevention",
+      "page_or_section": "text search snippet",
+      "patient_group": "adult",
+      "product_id": "",
+      "regimen_id": "",
+      "short_snippet": "hours of symptom onset. Diagnose and treat early to prevent progressive corneal involvement and potential vision loss. There are three preferred antiviral drugs available for the initial treatment of shingles: Acyclovir Valacyclovir Famciclovir These antivirals accelerate the resolution of lesions; reduce the development of new lesions and viral shedding; and decrease the severity of acute pain. Discuss treatment opt",
+      "source_id": "cdc_shingles_clinical_overview",
+      "source_title": "Clinical Overview of Shingles (Herpes Zoster)",
+      "source_url": "https://www.cdc.gov/shingles/hcp/clinical-overview/index.html",
+      "status": "indication_verified_dose_missing"
+    },
+    {
+      "claim_id": "claim_81748b3a6e3e",
+      "claim_type": "timing_window",
+      "confidence_score": 0.62,
+      "disease_key": "",
+      "dose_struct": {},
+      "evidence_confidence": "medium",
+      "extraction_method": "keyword_snippet",
+      "generic_name": "",
+      "local_file": "source_text/cdc_shingles_clinical_overview.txt",
+      "missing_required_fields": [
+        "dose",
+        "duration"
+      ],
+      "organization": "Centers for Disease Control and Prevention",
+      "page_or_section": "text search snippet",
+      "patient_group": "adult",
+      "product_id": "",
+      "regimen_id": "",
+      "short_snippet": "lla-Zoster Virus (VZV) Learn about lab testing for varicella-zoster virus, the cause of chickenpox and shingles. May 10, 2024 Treatment and recovery Diagnose and treat early! Treatment is most effective within 72 hours of symptom onset. Diagnose and treat early to prevent progressive corneal involvement and potential vision loss. There are three preferred antiviral drugs available for the initial treatment of shingle",
+      "source_id": "cdc_shingles_clinical_overview",
+      "source_title": "Clinical Overview of Shingles (Herpes Zoster)",
+      "source_url": "https://www.cdc.gov/shingles/hcp/clinical-overview/index.html",
+      "status": "usable_with_warning"
+    },
+    {
+      "claim_id": "claim_60679fe1b4e7",
+      "claim_type": "disease_strategy",
+      "confidence_score": 0.62,
+      "disease_key": "",
+      "dose_struct": {},
+      "evidence_confidence": "medium",
+      "extraction_method": "keyword_snippet",
+      "generic_name": "",
+      "local_file": "source_text/cdc_sti_herpes_guideline.txt",
+      "missing_required_fields": [
+        "source-backed dose",
+        "frequency",
+        "duration"
+      ],
+      "organization": "Centers for Disease Control and Prevention",
+      "page_or_section": "text search snippet",
+      "patient_group": "adult",
+      "product_id": "",
+      "regimen_id": "",
+      "short_snippet": "ffect the risk, frequency, or severity of recurrences after the drug is discontinued. Randomized trials have indicated that three FDA-approved antiviral medications provide clinical benefit for genital herpes: acyclovir, valacyclovir, and famciclovir ( 463 – 471 ). Valacyclovir is the valine ester of acyclovir and has enhanced absorption after oral administration, allowing for less frequent dosing than acyclovir. Fam",
+      "source_id": "cdc_sti_herpes_guideline",
+      "source_title": "Sexually Transmitted Infections Treatment Guidelines: Herpes",
+      "source_url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm",
+      "status": "indication_verified_dose_missing"
+    },
+    {
+      "claim_id": "claim_7cb5be2da4a7",
+      "claim_type": "product_label_composition",
+      "confidence_score": 0.58,
+      "disease_key": "",
+      "dose_struct": {},
+      "evidence_confidence": "low",
+      "extraction_method": "keyword_snippet",
+      "generic_name": "",
+      "local_file": "source_text/who_eml_emlc_lists.txt",
+      "missing_required_fields": [
+        "disease-specific dose"
+      ],
+      "organization": "World Health Organization",
+      "page_or_section": "text search snippet",
+      "patient_group": "both",
+      "product_id": "",
+      "regimen_id": "",
+      "short_snippet": "WHO Model Lists of Essential Medicines Skip to main content When autocomplete results are available use up and down arrows to review and enter to select. Select language Select language English All topics A B C D E F G H I J K L",
+      "source_id": "who_eml_emlc_lists",
+      "source_title": "WHO Model Lists of Essential Medicines",
+      "source_url": "https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines/essential-medicines-lists",
+      "status": "label_verified_only"
+    },
+    {
+      "claim_id": "claim_3bc0b328a5a1",
+      "claim_type": "no_antibiotic_criteria",
+      "confidence_score": 0.62,
+      "disease_key": "",
+      "dose_struct": {},
+      "evidence_confidence": "medium",
+      "extraction_method": "keyword_snippet",
+      "generic_name": "",
+      "local_file": "source_text/nice_sore_throat_antimicrobial.txt",
+      "missing_required_fields": [
+        "disease-specific local criteria"
+      ],
+      "organization": "National Institute for Health and Care Excellence",
+      "page_or_section": "text search snippet",
+      "patient_group": "both",
+      "product_id": "",
+      "regimen_id": "",
+      "short_snippet": "escribing NICE guideline Reference number: NG84 Published: 26 January 2018 Download guidance (PDF) Overview This guideline sets out an antimicrobial prescribing strategy for acute sore throat. It aims to limit antibiotic use and reduce antimicrobial resistance. Acute sore throat is often caused by a virus, lasts for about a week, and most people get better without antibiotics. Withholding antibiotics rarely leads to",
+      "source_id": "nice_sore_throat_antimicrobial",
+      "source_title": "Sore throat (acute): antimicrobial prescribing",
+      "source_url": "https://www.nice.org.uk/guidance/ng84",
+      "status": "usable_with_warning"
+    }
+  ]
+}

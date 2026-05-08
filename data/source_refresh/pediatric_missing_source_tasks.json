@@ -1,0 +1,1120 @@
+{
+  "items": [
+    {
+      "display_name": "Singulair 5 mg Box 28s [Montelukast Sodium 5.2 mg.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS047722"
+    },
+    {
+      "display_name": "Azith Oral Suspension [Azithromycin 200 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001084"
+    },
+    {
+      "display_name": "Cefspan Suspension [Cefixime 100 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001441"
+    },
+    {
+      "display_name": "Ibilex Syrup [Cephalexin 125 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002206"
+    },
+    {
+      "display_name": "Newtamox For Oral Suspension [Amoxicillin 125 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS007586"
+    },
+    {
+      "display_name": "Onzet Oral Suspension [Azithromycin 200 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS046209"
+    },
+    {
+      "display_name": "Sia-Mox Syrup 125 mg [Amoxicillin 125 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003549"
+    },
+    {
+      "display_name": "Sia-Mox Syrup 250 mg [Amoxicillin 250 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003550"
+    },
+    {
+      "display_name": "Xalin Dry Syrup 125 mg [Cloxacillin 125 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS007682"
+    },
+    {
+      "display_name": "Ampol Suspension [Paracetamol 120 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS008609"
+    },
+    {
+      "display_name": "Kit-F Drops [Paracetamol 60 mg./0.6 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002407"
+    },
+    {
+      "display_name": "Newtamol Syrup [Paracetamol 150 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS007583"
+    },
+    {
+      "display_name": "Panadol Orange Suspension [Paracetamol 250 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002861"
+    },
+    {
+      "display_name": "Panadol Strawberry Suspension [Paracetamol 120 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002847"
+    },
+    {
+      "display_name": "Poro Suspension [Paracetamol 250 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS008137"
+    },
+    {
+      "display_name": "Sara Infant Drops (รสองุ่น) [Paracetamol 60 mg./0.6 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003597"
+    },
+    {
+      "display_name": "Tempra Drop [Paracetamol 80 mg./0.8 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003711"
+    },
+    {
+      "display_name": "Tylenol Drop [Paracetamol 80 mg./0.8 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003737"
+    },
+    {
+      "display_name": "Tylenol Suspension [Paracetamol 160 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003763"
+    },
+    {
+      "display_name": "Aerius Syrup [Desloratadine 0.5 mg./1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001015"
+    },
+    {
+      "display_name": "Asiatapp Infant Drops (ควบคุมจำนวน) [Brompheniramine Maleate 2.0 mg.+Phenylephrine HCl 2.5 mg./1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS007003"
+    },
+    {
+      "display_name": "Asiatapp Syrup (ควบคุมจำนวน) [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS008047"
+    },
+    {
+      "display_name": "Chlophen Syrup (ควบคุมจำนวน) [Chlorpheniramine Maleate 2 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS008033"
+    },
+    {
+      "display_name": "Cistamine Syrup [Cetirizine 2HCl 5 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS007038"
+    },
+    {
+      "display_name": "Lorius Syrup [Desloratadine 0.5 mg./1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS044519"
+    },
+    {
+      "display_name": "Sea Chlor Syrup (ควบคุมจำนวน) [Chlorpheniramine Maleate 2 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS007271"
+    },
+    {
+      "display_name": "Trandrozine Syrup (ควบคุมจำนวน) [Hydroxyzine HCl 10 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS008301"
+    },
+    {
+      "display_name": "Zermed Syrup [Cetirizine 2HCl 5 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS008086"
+    },
+    {
+      "display_name": "Zyrtec Syrup [Cetirizine 2HCI 1 mg./1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS004212"
+    },
+    {
+      "display_name": "Icorin Kids Syrup [Butamirate Citrate 4 mg/5 ml]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS006036"
+    },
+    {
+      "display_name": "Ivorin Syrup [Levodropropizine 30 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002290"
+    },
+    {
+      "display_name": "Bisolvon EX Syrup เล็ก [Bromhexine HCl 4 mg.+K guaiacolsulphonate 100 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001257"
+    },
+    {
+      "display_name": "Bisolvon EX Syrup ใหญ่ [Bromhexine HCl 4 mg.+K guaiacolsulphonate 100 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001296"
+    },
+    {
+      "display_name": "Bisolvon Pediatric Syrup [Bromhexine HCl 4 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001253"
+    },
+    {
+      "display_name": "Bocytin Syrup [Carbocysteine 250 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS007033"
+    },
+    {
+      "display_name": "Carboflex Syrup [Carbocysteine 250 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS041506"
+    },
+    {
+      "display_name": "Flemex Syrup [Carbocysteine 250 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001920"
+    },
+    {
+      "display_name": "Mucoflux Syrup [Cyclidrol 80 mg./10 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002659"
+    },
+    {
+      "display_name": "Mucolid Syrup [Ambroxol HCl 30 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002654"
+    },
+    {
+      "display_name": "Solmax Forte Suspension [Carbocysteine 500 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003697"
+    },
+    {
+      "display_name": "Solmax Kids Suspension [Carbocysteine 200 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003782"
+    },
+    {
+      "display_name": "Benda Syrup กลิ่นผลไม้รวม [Mebendazole 100 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001231"
+    },
+    {
+      "display_name": "Zenzera-200 Suspension [Albendazole 200 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS049775"
+    },
+    {
+      "display_name": "Asthmasian Expectorant Syrup [Terbutaline sulfate 1.5 mg.+Glyceryl guaiacolate 100 mg.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001458"
+    },
+    {
+      "display_name": "Salbulin Syrup [Salbutamol 2.4 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003645"
+    },
+    {
+      "display_name": "Salmol Syrup [Salbutamol 2 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003589"
+    },
+    {
+      "display_name": "Avamigran [Ergotamine tartrate 1 mg.+Caffeine 100 mg.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001071"
+    },
+    {
+      "display_name": "Berclomine Syrup [Dicyclomine 5 mg.+Simethicone 50 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS008034"
+    },
+    {
+      "display_name": "Belcid Forte Suspension [Aluminium Hydroxide Gel (eq. to Aluminium Hydroxide 306 mg.+Magnesium Hydroxide 110 mg.+ Simethicone 30 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS040608"
+    },
+    {
+      "display_name": "Gaviscon Advance sachet 10 ml [Sodium alginate Ph Eur 1000 mg.+Potassium bicarbonate 200 mg.+Calcium carbonate+Carbomer+Methyl (E218)+Propyl (E216)+อื่นๆ]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS043613"
+    },
+    {
+      "display_name": "Gaviscon Dual Action sachet 10 ml [Sodium alginate 500 mg.+Sodium bicarbonate 213 mg.+Calcium carbonate 325 mg.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002033"
+    },
+    {
+      "display_name": "Gaviscon Suspension bottle 150 ml [Sodium alginate 500 mg.+Sodium bicarbonate 267 mg./10 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002014"
+    },
+    {
+      "display_name": "Gaviscon Suspension sachet 10 ml [Sodium alginate 500 mg.+Sodium bicarbonate 267 mg.+Calcium carbonate 160 mg./10 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002013"
+    },
+    {
+      "display_name": "Gaviscon Suspension กล่อง 4 ซอง [Sodium alginate 500 mg.+Sodium bicarbonate 267 mg.+Calcium carbonate 160 mg./10 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS043606"
+    },
+    {
+      "display_name": "Ulcefate Suspension bottle 240 ml [Sucralfate 1 g./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003918"
+    },
+    {
+      "display_name": "Ulcefate Suspension bottle 60 ml [Sucralfate 1 g./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003917"
+    },
+    {
+      "display_name": "Ulcefate Suspension sachet 5 ml [Sucralfate 1 g.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003915"
+    },
+    {
+      "display_name": "Air-X Drops [Simethicone 40 mg./0.6 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001013"
+    },
+    {
+      "display_name": "Motilium Oral Suspension [Domperidone 1 mg./1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002637"
+    },
+    {
+      "display_name": "Patilum Oral Suspension [Domperidone 1 mg./1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS046503"
+    },
+    {
+      "display_name": "Duran Suspension [Ibuprofen 100 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001665"
+    },
+    {
+      "display_name": "Ibukids Suspension [Ibuprofen 100 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS007151"
+    },
+    {
+      "display_name": "Nurofen Suspension [Ibuprofen 100 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002845"
+    },
+    {
+      "display_name": "Bromhexine Syrup [Bromhexine HCl 4 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS007031"
+    },
+    {
+      "display_name": "Oscin Syrup [Hyoscine-N-butylbromide 5 mg./5 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS008325"
+    },
+    {
+      "display_name": "Glucosa 1500 ชนิดผง [Glucosamine sulfate sodium 1500 mg.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS007743"
+    },
+    {
+      "display_name": "Glucosa 1500 ชนิดผง (รสมะนาว) [Glucosamine sulfate sodium 1500 mg.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS043605"
+    },
+    {
+      "display_name": "Losalac Syrup [Lactulose 66.7 g./100 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS007554"
+    },
+    {
+      "display_name": "Felopine 5 [Felodipine 5 mg.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS043130"
+    },
+    {
+      "display_name": "Lanzaar 100 mg [Losartan potassium 100 mg.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS044532"
+    },
+    {
+      "display_name": "Nelapine 20 SR [Nifedipine 20 mg.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002808"
+    },
+    {
+      "display_name": "Glucophage XR 1000 mg [Metformin HCl 1000 mg.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS043610"
+    },
+    {
+      "display_name": "ChlorOph Eye Drops [Chloramphenicol 5 mg./1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001437"
+    },
+    {
+      "display_name": "Fucithalmic Eye Drops [Fusidic acid 10 mg.+Preservative (Benzalkonium chloride 0.1%)/ 1 g.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001847"
+    },
+    {
+      "display_name": "Poly-Oph Eye Drops [Neomycin Sulfate (eq. to Neomycin 2 mg.)+Polymyxin B Sulfate (eq. to Polymyxin B 5,000 Units)+Gramicidin 0.025 mg./1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003181"
+    },
+    {
+      "display_name": "CD-Oph Eye Drops [Dexamethasone Sodium Phosphate 1 mg.+Chloramphenicol 5 mg.+Tetrahydrozoline HCl 0.25 mg./1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS041404"
+    },
+    {
+      "display_name": "DexOph Eye-Ear Drops [Dexamethasone Sodium Phosphate (eq. to Dexamethasone Phosphate 0.1 %)+Neomycin Sulfate 0.5% (eq. to Neomycin Base 0.35 %)/1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001632"
+    },
+    {
+      "display_name": "FML Ophthalmic Suspension [Fluorometholone 0.1 %+Polyvinyl Alcohol 14 mg.+Sodium Chloride+Sodium Phosphste Monobasic+Sodium Phosphate Dibasic+Polysorbate 80+Preservative (Edetate Disodium+Benzalkonium Chloride 0.04 mg.)/1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS006181"
+    },
+    {
+      "display_name": "Tobradex Ophthalmic Suspension [Tobramycin 3 mg (0.3%)+Dexamethasone 1 mg (0.1%)+Tyloxapol+Sodium Chloride+Hydroxyethylcellulose+Sodium Sulfate+Sulfuric Acid+Sodium Hydroxide+Preservative (Edetate Disodium+Benzalkonium Chloride 0.01%)/1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003862"
+    },
+    {
+      "display_name": "Clens 100 Lens Drops [Citrate/Borate Buffer+Sodium Chloride+Edetate Disodium 0.05%+PEG-11 Lauryl ether Carboxylic acid+Tetronic t1304+Preservative (Edetate Disodium 0.05%+Polidronium Chloride 0.001%)]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001551"
+    },
+    {
+      "display_name": "Genteal Eye Drop [Hypromellose 3 mg. (0.3%)+Sodium Chloride+Boric Acid+Potassium Chloride+Hydrochloric Acid+Preservative (Sodium Perborate+Phosphonic Acid)]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002107"
+    },
+    {
+      "display_name": "Natear UD Lubricant Eye Drops [Hypromellose (Hydroxypropyl Methylcellulose) 0.3% w/v /0.8 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS045617"
+    },
+    {
+      "display_name": "OcuFreshs Tear Eye Drops [Hypromellose 3 mg. (0.3%)+Preservative (Benzalkonium Chloride 0.02%)/1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS046204"
+    },
+    {
+      "display_name": "Opti-Free Rewetting Drops [Citrate buffer+Sodium chloride+Preservative (Edetate Disodium 0.05%+Polyquaternium-1 0.001%)]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003102"
+    },
+    {
+      "display_name": "Renu Multiplus Lubricating & Rewetting Drops [Povidone+Boric acid+Potassium chloride+Sodium chloride+ Sodium borate+Edetate disodium+Sorbic acid+Preservative (Edetate disodium 0.1%+Sorbic acid 0.1%)]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001204"
+    },
+    {
+      "display_name": "Sof Tear Eye Drops [Hypromellose USP 3 mg. (0.3% w/v USP)+Preservative (Sodium Perborate 0.28 mg.)/1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS047647"
+    },
+    {
+      "display_name": "Systane Ultra (UD) Lubricant Eye Drops [Polyethylene Glycol 400 0.4%+Propylene Glycol 0.3%+Aminomethylpropanol+Boric Acid+Hydroxypropyl Guar+Potassium Chloride+Sodium Chloride+Sorbitol+Hydrochloric Acid+Sodium Hydroxide/1 ml.]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS047637"
+    },
+    {
+      "display_name": "Systane Ultra Lubricant Eye Drops [Polyethylene Glycol 400 0.4%+Propylene Glycol 0.3%+Aminomethylpropanol+//Boric Acid+Hydroxypropyl guar+Potassium Chloride+Sodium Chloride+Sorbitol+Hydrochloric Acid+Sodium Hydroxide+Preservative (Polyquaternium-1 0.001%)]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003679"
+    },
+    {
+      "display_name": "Tear Mac Eye Drops [Carboxymethyl Cellulose Sodium (CMC) 0.5%w/v+Preservative (Stabilised Oxychloro Complex 0.005% w/v)]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003765"
+    },
+    {
+      "display_name": "Kenalone Oral Paste sachet 1 g [Triamcinolone Acetonide 0.1%]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS007548"
+    },
+    {
+      "display_name": "Trinolone Oral Paste sachet 1 g [Triamcinolone Acetonide 0.1%]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS003750"
+    },
+    {
+      "display_name": "Dewax Ear Drops [Docusate Sodium 0.5% w/v (5 mg./1 ml.)]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS001712"
+    },
+    {
+      "display_name": "Nasacort AQ Spray Suspension [Triamcinolone Acetonide 9.075 mg/16.5 g (55 mcg/dose)+Preservative (Benzalkonium Chloride)+อื่นๆ]",
+      "missing_requirements": [
+        "accepted pediatric source",
+        "age/BW rule",
+        "dose basis",
+        "max dose when relevant",
+        "verified product concentration"
+      ],
+      "next_action": "add accepted pediatric source and product concentration before calculation",
+      "product_id": "BDS002874"
+    }
+  ]
+}
