@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:45:17Z",
+    "issue_count": 3
+  },
+  "issues": [
+    {
+      "issue_id": "AV_FRM0026_RX1_BDS008064",
+      "severity": "high",
+      "disease_key": "herpes_labialis_adult",
+      "regimen_id": "FRM0026",
+      "product_id": "BDS008064",
+      "generic_name": "Acyclovir",
+      "current_sig": "1 tab PO q6h",
+      "current_dose": "1 tab PO q6h",
+      "current_duration": "5 days",
+      "issue_type": "unsupported_antiviral_regimen",
+      "why_suspect": "Herpes labialis oral antiviral regimen remains source-gated until indication/dose/duration are accepted.",
+      "source_status": "pending_manual_review",
+      "evidence_status": "pending_source_collection",
+      "recommended_action": "block_until_source_verified",
+      "source_gap_needed": true,
+      "test_case_needed": true
+    },
+    {
+      "issue_id": "AV_FRM0027_RX1_BDS008065",
+      "severity": "blocker",
+      "disease_key": "herpes_zoster_adult",
+      "regimen_id": "FRM0027",
+      "product_id": "BDS008065",
+      "generic_name": "Acyclovir",
+      "current_sig": "1 tab PO 5x/day",
+      "current_dose": "1 tab PO 5x/day",
+      "current_duration": "5 days",
+      "issue_type": "unsupported_antiviral_regimen",
+      "why_suspect": "Antiviral disease-specific use needs accepted guideline evidence and traceable dose/frequency/duration.",
+      "source_status": "pending_manual_review",
+      "evidence_status": "pending_source_collection",
+      "recommended_action": "block_until_source_verified",
+      "source_gap_needed": true,
+      "test_case_needed": true
+    },
+    {
+      "issue_id": "AV_FRM0027_RX2_BDS003762",
+      "severity": "blocker",
+      "disease_key": "herpes_zoster_adult",
+      "regimen_id": "FRM0027",
+      "product_id": "BDS003762",
+      "generic_name": "Paracetamol",
+      "current_sig": "1–2 tabs PO q4–6h PRN pain",
+      "current_dose": "1–2 tabs PO q4–6h PRN pain",
+      "current_duration": "5 days",
+      "issue_type": "unsupported_antiviral_regimen",
+      "why_suspect": "Antiviral disease-specific use needs accepted guideline evidence and traceable dose/frequency/duration.",
+      "source_status": "source_gap",
+      "evidence_status": "pending_source_collection",
+      "recommended_action": "block_until_source_verified",
+      "source_gap_needed": true,
+      "test_case_needed": true
+    }
+  ]
+}
