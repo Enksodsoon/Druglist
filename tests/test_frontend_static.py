@@ -83,6 +83,19 @@ def test_safety_review_strings_remain_visible_in_frontend():
         assert text in source
 
 
+def test_frontend_has_device_responsive_guardrails():
+    source = html()
+    for token in [
+        "@media (max-width:1180px)",
+        "@media (max-width:720px)",
+        "@media (max-width:420px)",
+        "grid-auto-flow:column",
+        "height:min(92vh,760px)",
+        "font-size:16px",
+    ]:
+        assert token in source
+
+
 def test_pediatric_mirror_controls_are_wired_bidirectionally():
     source = html()
     assert "pedsAgeMirror" in source
