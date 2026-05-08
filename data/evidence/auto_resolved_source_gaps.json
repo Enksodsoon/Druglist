@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "generated_at": "2026-05-02T06:45:17Z",
+    "auto_resolved_gap_count": 0,
+    "pending_source_collection_count": 36,
+    "blocked_low_confidence_count": 0,
+    "blocked_missing_required_safety_field_count": 0,
+    "blocked_conflict_count": 0,
+    "auto_verified_claim_count": 0,
+    "peds_auto_verified_count": 0,
+    "antibiotic_auto_verified_count": 0,
+    "evidence_status": "pending_source_collection"
+  },
+  "items": []
+}

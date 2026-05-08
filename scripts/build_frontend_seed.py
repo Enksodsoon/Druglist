@@ -8,9 +8,11 @@ from engine_common import load_embedded_seed, now_iso, read_json, write_json
 from runtime_readiness import readiness_for_med
 
 
-def legacy_drug(product: dict[str, object]) -> dict[str, object]:
+def legacy_drug(product: dict[str, object], evidence_summary: dict[str, object] | None = None) -> dict[str, object]:
     manual = product.get("manual_review", {}) or {}
     source = product.get("source", {}) or {}
+    evidence_summary = evidence_summary or {}
+    evidence_status = str(evidence_summary.get("evidence_status") or "pending_source_collection")
     return {
         "i": product["id"],
         "n": product["display_name"],
@@ -45,6 +47,12 @@ def legacy_drug(product: dict[str, object]) -> dict[str, object]:
         "source_status": source.get("status", "source_workbook_extracted"),
         "manual_review_required": bool(manual.get("required")),
         "manual_review_reasons": manual.get("reasons", []),
+        "evidence_status": evidence_status,
+        "evidence_score": 0,
+        "evidence_confidence": "none",
+        "evidence_source_ids": [],
+        "evidence_required_fields_missing": ["source collection", "source extraction"],
+        "auto_resolution_status": evidence_status,
         "fa": {
             "subcategory": product.get("subcategory_th", ""),
             "product_code": product.get("product_code", ""),
@@ -73,6 +81,7 @@ def build() -> dict[str, object]:
     manual_queue = read_json("data/meta/manual_review_queue.json", {"items": []})
     source_registry = read_json("data/guidelines/source_registry.json", {"sources": []})
     source_gaps = read_json("data/guidelines/source_gap_list.json", {"items": []})
+    evidence_summary = read_json("data/evidence/evidence_runtime_summary.json", {})
     runtime = read_json("data/core/opd_fast_index.json", {"index": []})
     peds = read_json("data/pediatric/peds_product_dose_output.json", {"items": []})
     peds_rules = read_json("data/pediatric/reviewed_peds_dose_rules.json", {"rules": []}).get("rules", [])
@@ -88,7 +97,7 @@ def build() -> dict[str, object]:
         for reason in ((product.get("manual_review") or {}).get("reasons") or [])
     )
     output = dict(seed)
-    output["dr"] = [legacy_drug(product) for product in products]
+    output["dr"] = [legacy_drug(product, evidence_summary) for product in products]
     product_by_id = {drug["i"]: drug for drug in output["dr"]}
     output["cp"] = annotate_runtime_complaints(seed.get("cp") or [], product_by_id)
     output["pd"] = []
@@ -117,6 +126,15 @@ def build() -> dict[str, object]:
         "verified_source_count": len(verified_sources),
         "registered_source_count": len(sources),
         "runtime_index_count": len(runtime.get("index", [])),
+        "evidence_status": evidence_summary.get("evidence_status", "pending_source_collection"),
+        "evidence_auto_verified_count": evidence_summary.get("auto_verified_claim_count", 0),
+        "evidence_auto_resolved_gap_count": evidence_summary.get("auto_resolved_gap_count", 0),
+        "evidence_pending_source_collection_count": evidence_summary.get("pending_source_collection_count", 0),
+        "evidence_blocked_low_confidence_count": evidence_summary.get("blocked_low_confidence_count", 0),
+        "evidence_blocked_missing_required_safety_field_count": evidence_summary.get("blocked_missing_required_safety_field_count", 0),
+        "evidence_blocked_conflict_count": evidence_summary.get("blocked_conflict_count", 0),
+        "evidence_peds_auto_verified_count": evidence_summary.get("peds_auto_verified_count", 0),
+        "evidence_antibiotic_auto_verified_count": evidence_summary.get("antibiotic_auto_verified_count", 0),
         "clinical_status": "source_workbook_only_with_unverified_legacy_regimens",
     }
     write_json("data/core/app_seed_runtime.json", output)

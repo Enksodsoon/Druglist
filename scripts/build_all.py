@@ -13,6 +13,10 @@ from engine_common import ROOT, now_iso, write_json
 STEPS = [
     "scripts/build_product_layer.py",
     "scripts/build_guideline_layer.py",
+    "scripts/auto_source_collect.py",
+    "scripts/evidence_extract.py",
+    "scripts/evidence_score.py",
+    "scripts/evidence_resolve.py",
     "scripts/build_pediatric_layer.py",
     "scripts/build_safety_layer.py",
     "scripts/build_runtime_json.py",
@@ -48,7 +52,7 @@ def main() -> int:
 
     outputs = sorted(
         str(path.relative_to(ROOT))
-        for base in ["data/core", "data/guidelines", "data/pediatric", "data/safety", "data/meta"]
+        for base in ["data/core", "data/guidelines", "data/pediatric", "data/safety", "data/meta", "data/evidence"]
         for path in (ROOT / base).glob("*.json")
     )
     manifest = {
