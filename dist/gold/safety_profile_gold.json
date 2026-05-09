@@ -1189,22 +1189,24 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "mine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product: • drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medica",
+      "contraindications": "Active ingredient (in each tablet) Cetirizine HCl 10 mg Purpose Antihistamine Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • runny nose • sneezing • itchy, watery eyes • itching of the nose or throat Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients, or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dos",
       "generic_name": "Cetirizine dihydrochloride",
       "hepatic_notes": "",
       "major_interactions": "",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "r upper respiratory allergies: • runny nose • sneezing • itchy, watery eyes • itching of the nose or throat Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients, or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product: • drowsiness may occur • avoid",
+      "pregnancy_lactation": "r • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: • if breast-feeding: Not recommended • if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directi",
       "product_id": "BDS004213",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_f5366d811445",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_cetirizine_10mg_tablet_f756d3b1"
+      ]
     },
     {
       "common_side_effects": "",
