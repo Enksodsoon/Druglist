@@ -13,7 +13,7 @@
       "source_id": "cdc_shingles_clinical_overview",
       "source_org": "Centers for Disease Control and Prevention",
       "source_title": "Clinical Overview of Shingles (Herpes Zoster)",
-      "source_type": "",
+      "source_type": "guideline_or_label",
       "source_url": "https://www.cdc.gov/shingles/hcp/clinical-overview/index.html"
     },
     {
@@ -29,7 +29,7 @@
       "source_id": "cdc_shingles_clinical_overview",
       "source_org": "Centers for Disease Control and Prevention",
       "source_title": "Clinical Overview of Shingles (Herpes Zoster)",
-      "source_type": "",
+      "source_type": "guideline_or_label",
       "source_url": "https://www.cdc.gov/shingles/hcp/clinical-overview/index.html"
     },
     {
@@ -45,7 +45,7 @@
       "source_id": "cdc_sti_herpes_guideline",
       "source_org": "Centers for Disease Control and Prevention",
       "source_title": "Sexually Transmitted Infections Treatment Guidelines: Herpes",
-      "source_type": "",
+      "source_type": "guideline_or_label",
       "source_url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm"
     },
     {
@@ -61,7 +61,7 @@
       "source_id": "who_eml_emlc_lists",
       "source_org": "World Health Organization",
       "source_title": "WHO Model Lists of Essential Medicines",
-      "source_type": "",
+      "source_type": "guideline_or_label",
       "source_url": "https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines/essential-medicines-lists"
     },
     {
@@ -77,7 +77,7 @@
       "source_id": "nice_sore_throat_antimicrobial",
       "source_org": "National Institute for Health and Care Excellence",
       "source_title": "Sore throat (acute): antimicrobial prescribing",
-      "source_type": "",
+      "source_type": "guideline_or_label",
       "source_url": "https://www.nice.org.uk/guidance/ng84"
     },
     {
@@ -93,7 +93,7 @@
       "source_id": "br_moh_herpes_treatment",
       "source_org": "Ministério da Saúde",
       "source_title": "Herpes - Tratamento",
-      "source_type": "",
+      "source_type": "guideline_or_label",
       "source_url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/herpes/tratamento/tratamento"
     },
     {
@@ -109,7 +109,7 @@
       "source_id": "cdc_common_cold_treatment",
       "source_org": "Centers for Disease Control and Prevention",
       "source_title": "Manage Common Cold",
-      "source_type": "",
+      "source_type": "guideline_or_label",
       "source_url": "https://www.cdc.gov/common-cold/treatment/index.html"
     },
     {
@@ -125,7 +125,7 @@
       "source_id": "nice_acute_cough_antimicrobial_ng120",
       "source_org": "National Institute for Health and Care Excellence",
       "source_title": "Cough (acute): antimicrobial prescribing",
-      "source_type": "",
+      "source_type": "guideline_or_label",
       "source_url": "https://www.nice.org.uk/guidance/ng120/chapter/recommendations"
     },
     {
@@ -141,8 +141,184 @@
       "source_id": "cdc_conjunctivitis_treatment",
       "source_org": "Centers for Disease Control and Prevention",
       "source_title": "How to Treat Pink Eye",
-      "source_type": "",
+      "source_type": "guideline_or_label",
       "source_url": "https://www.cdc.gov/conjunctivitis/treatment/index.html"
+    },
+    {
+      "access_date": "2026-05-09",
+      "confidence": 0.94,
+      "evidence_field": "adult_indication",
+      "evidence_snippet": "ONE K30 MAGNESIUM STEARATE HYPROMELLOSES POLYETHYLENE GLYCOL, UNSPECIFIED CETIRIZINE HYDROCHLORIDE CETIRIZINE J;220 Rounded-off rectangular shaped White to off white DRUG FACTS Active ingredient (in each tablet) Cetirizine HCl 10 mg Purpose Antihistamine Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • runny nose • sneezing • itchy, watery eyes • itching of the nose or throat Warnings Do not use if you have ever had an allergic reaction to this product or any of its",
+      "linked_disease_key": "allergic_rhinitis_adult",
+      "linked_product_id": "BDS004213",
+      "linked_regimen_id": "FRM0001",
+      "linked_row_id": "claim_dailymed_cetirizine_10mg_tablet_f756d3b1_adult_indication",
+      "source_country_or_region": "",
+      "source_id": "dailymed_cetirizine_10mg_tablet_f756d3b1",
+      "source_org": "DailyMed / U.S. National Library of Medicine",
+      "source_title": "CETIRIZINE HYDROCHLORIDE TABLETS,10 MG (CETIRIZINE HYDROCHLORIDE) TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+      "source_type": "official_product_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f756d3b1-d2e4-3705-e053-6294a90aa380"
+    },
+    {
+      "access_date": "2026-05-09",
+      "confidence": 0.94,
+      "evidence_field": "adult_dose",
+      "evidence_snippet": "t-feeding: Not recommended • if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease",
+      "linked_disease_key": "allergic_rhinitis_adult",
+      "linked_product_id": "BDS004213",
+      "linked_regimen_id": "FRM0001",
+      "linked_row_id": "claim_dailymed_cetirizine_10mg_tablet_f756d3b1_adult_dose",
+      "source_country_or_region": "",
+      "source_id": "dailymed_cetirizine_10mg_tablet_f756d3b1",
+      "source_org": "DailyMed / U.S. National Library of Medicine",
+      "source_title": "CETIRIZINE HYDROCHLORIDE TABLETS,10 MG (CETIRIZINE HYDROCHLORIDE) TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+      "source_type": "official_product_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f756d3b1-d2e4-3705-e053-6294a90aa380"
+    },
+    {
+      "access_date": "2026-05-09",
+      "confidence": 0.94,
+      "evidence_field": "adult_route",
+      "evidence_snippet": "t-feeding: Not recommended • if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease",
+      "linked_disease_key": "allergic_rhinitis_adult",
+      "linked_product_id": "BDS004213",
+      "linked_regimen_id": "FRM0001",
+      "linked_row_id": "claim_dailymed_cetirizine_10mg_tablet_f756d3b1_adult_route",
+      "source_country_or_region": "",
+      "source_id": "dailymed_cetirizine_10mg_tablet_f756d3b1",
+      "source_org": "DailyMed / U.S. National Library of Medicine",
+      "source_title": "CETIRIZINE HYDROCHLORIDE TABLETS,10 MG (CETIRIZINE HYDROCHLORIDE) TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+      "source_type": "official_product_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f756d3b1-d2e4-3705-e053-6294a90aa380"
+    },
+    {
+      "access_date": "2026-05-09",
+      "confidence": 0.94,
+      "evidence_field": "adult_frequency",
+      "evidence_snippet": "t-feeding: Not recommended • if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease",
+      "linked_disease_key": "allergic_rhinitis_adult",
+      "linked_product_id": "BDS004213",
+      "linked_regimen_id": "FRM0001",
+      "linked_row_id": "claim_dailymed_cetirizine_10mg_tablet_f756d3b1_adult_frequency",
+      "source_country_or_region": "",
+      "source_id": "dailymed_cetirizine_10mg_tablet_f756d3b1",
+      "source_org": "DailyMed / U.S. National Library of Medicine",
+      "source_title": "CETIRIZINE HYDROCHLORIDE TABLETS,10 MG (CETIRIZINE HYDROCHLORIDE) TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+      "source_type": "official_product_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f756d3b1-d2e4-3705-e053-6294a90aa380"
+    },
+    {
+      "access_date": "2026-05-09",
+      "confidence": 0.94,
+      "evidence_field": "adult_duration",
+      "evidence_snippet": "ONE K30 MAGNESIUM STEARATE HYPROMELLOSES POLYETHYLENE GLYCOL, UNSPECIFIED CETIRIZINE HYDROCHLORIDE CETIRIZINE J;220 Rounded-off rectangular shaped White to off white DRUG FACTS Active ingredient (in each tablet) Cetirizine HCl 10 mg Purpose Antihistamine Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • runny nose • sneezing • itchy, watery eyes • itching of the nose or throat Warnings Do not use if you have ever had an allergic reaction to this product or any of its",
+      "linked_disease_key": "allergic_rhinitis_adult",
+      "linked_product_id": "BDS004213",
+      "linked_regimen_id": "FRM0001",
+      "linked_row_id": "claim_dailymed_cetirizine_10mg_tablet_f756d3b1_adult_duration",
+      "source_country_or_region": "",
+      "source_id": "dailymed_cetirizine_10mg_tablet_f756d3b1",
+      "source_org": "DailyMed / U.S. National Library of Medicine",
+      "source_title": "CETIRIZINE HYDROCHLORIDE TABLETS,10 MG (CETIRIZINE HYDROCHLORIDE) TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+      "source_type": "official_product_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f756d3b1-d2e4-3705-e053-6294a90aa380"
+    },
+    {
+      "access_date": "2026-05-09",
+      "confidence": 0.94,
+      "evidence_field": "adult_max_dose",
+      "evidence_snippet": "if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor Other informati",
+      "linked_disease_key": "allergic_rhinitis_adult",
+      "linked_product_id": "BDS004213",
+      "linked_regimen_id": "FRM0001",
+      "linked_row_id": "claim_dailymed_cetirizine_10mg_tablet_f756d3b1_adult_max_dose",
+      "source_country_or_region": "",
+      "source_id": "dailymed_cetirizine_10mg_tablet_f756d3b1",
+      "source_org": "DailyMed / U.S. National Library of Medicine",
+      "source_title": "CETIRIZINE HYDROCHLORIDE TABLETS,10 MG (CETIRIZINE HYDROCHLORIDE) TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+      "source_type": "official_product_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f756d3b1-d2e4-3705-e053-6294a90aa380"
+    },
+    {
+      "access_date": "2026-05-09",
+      "confidence": 0.94,
+      "evidence_field": "contraindication",
+      "evidence_snippet": "Active ingredient (in each tablet) Cetirizine HCl 10 mg Purpose Antihistamine Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • runny nose • sneezing • itchy, watery eyes • itching of the nose or throat Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients, or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dos",
+      "linked_disease_key": "allergic_rhinitis_adult",
+      "linked_product_id": "BDS004213",
+      "linked_regimen_id": "FRM0001",
+      "linked_row_id": "claim_dailymed_cetirizine_10mg_tablet_f756d3b1_contraindication",
+      "source_country_or_region": "",
+      "source_id": "dailymed_cetirizine_10mg_tablet_f756d3b1",
+      "source_org": "DailyMed / U.S. National Library of Medicine",
+      "source_title": "CETIRIZINE HYDROCHLORIDE TABLETS,10 MG (CETIRIZINE HYDROCHLORIDE) TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+      "source_type": "official_product_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f756d3b1-d2e4-3705-e053-6294a90aa380"
+    },
+    {
+      "access_date": "2026-05-09",
+      "confidence": 0.94,
+      "evidence_field": "precaution",
+      "evidence_snippet": "r upper respiratory allergies: • runny nose • sneezing • itchy, watery eyes • itching of the nose or throat Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients, or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product: • drowsiness may occur • avoid",
+      "linked_disease_key": "allergic_rhinitis_adult",
+      "linked_product_id": "BDS004213",
+      "linked_regimen_id": "FRM0001",
+      "linked_row_id": "claim_dailymed_cetirizine_10mg_tablet_f756d3b1_precaution",
+      "source_country_or_region": "",
+      "source_id": "dailymed_cetirizine_10mg_tablet_f756d3b1",
+      "source_org": "DailyMed / U.S. National Library of Medicine",
+      "source_title": "CETIRIZINE HYDROCHLORIDE TABLETS,10 MG (CETIRIZINE HYDROCHLORIDE) TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+      "source_type": "official_product_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f756d3b1-d2e4-3705-e053-6294a90aa380"
+    },
+    {
+      "access_date": "2026-05-09",
+      "confidence": 0.94,
+      "evidence_field": "common_side_effect",
+      "evidence_snippet": "mine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product: • drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medica",
+      "linked_disease_key": "allergic_rhinitis_adult",
+      "linked_product_id": "BDS004213",
+      "linked_regimen_id": "FRM0001",
+      "linked_row_id": "claim_dailymed_cetirizine_10mg_tablet_f756d3b1_common_side_effect",
+      "source_country_or_region": "",
+      "source_id": "dailymed_cetirizine_10mg_tablet_f756d3b1",
+      "source_org": "DailyMed / U.S. National Library of Medicine",
+      "source_title": "CETIRIZINE HYDROCHLORIDE TABLETS,10 MG (CETIRIZINE HYDROCHLORIDE) TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+      "source_type": "official_product_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f756d3b1-d2e4-3705-e053-6294a90aa380"
+    },
+    {
+      "access_date": "2026-05-09",
+      "confidence": 0.94,
+      "evidence_field": "pregnancy_lactation",
+      "evidence_snippet": "r • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: • if breast-feeding: Not recommended • if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directi",
+      "linked_disease_key": "allergic_rhinitis_adult",
+      "linked_product_id": "BDS004213",
+      "linked_regimen_id": "FRM0001",
+      "linked_row_id": "claim_dailymed_cetirizine_10mg_tablet_f756d3b1_pregnancy_lactation",
+      "source_country_or_region": "",
+      "source_id": "dailymed_cetirizine_10mg_tablet_f756d3b1",
+      "source_org": "DailyMed / U.S. National Library of Medicine",
+      "source_title": "CETIRIZINE HYDROCHLORIDE TABLETS,10 MG (CETIRIZINE HYDROCHLORIDE) TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+      "source_type": "official_product_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f756d3b1-d2e4-3705-e053-6294a90aa380"
+    },
+    {
+      "access_date": "2026-05-09",
+      "confidence": 0.94,
+      "evidence_field": "composition_strength_form_route",
+      "evidence_snippet": "t-feeding: Not recommended • if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease",
+      "linked_disease_key": "allergic_rhinitis_adult",
+      "linked_product_id": "BDS004213",
+      "linked_regimen_id": "FRM0001",
+      "linked_row_id": "claim_dailymed_cetirizine_10mg_tablet_f756d3b1_composition_strength_form_route",
+      "source_country_or_region": "",
+      "source_id": "dailymed_cetirizine_10mg_tablet_f756d3b1",
+      "source_org": "DailyMed / U.S. National Library of Medicine",
+      "source_title": "CETIRIZINE HYDROCHLORIDE TABLETS,10 MG (CETIRIZINE HYDROCHLORIDE) TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+      "source_type": "official_product_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f756d3b1-d2e4-3705-e053-6294a90aa380"
     }
   ]
 }

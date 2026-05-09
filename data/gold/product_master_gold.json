@@ -1728,16 +1728,18 @@
       ],
       "generic_name": "Cetirizine dihydrochloride",
       "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified in Phase 1.",
+      "notes": "Phase 2 product metadata linked to official generic label; Thai brand registration remains separate.",
       "pack": "กล่อง 10 เม็ด",
       "price": "",
       "product_id": "BDS004213",
-      "product_metadata_source_ids": [],
+      "product_metadata_source_ids": [
+        "dailymed_cetirizine_10mg_tablet_f756d3b1"
+      ],
       "product_name": "Zyrtec [Cetirizine dihydrochloride 10 mg.]",
       "reference_only_allowed": true,
       "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
+      "rx_eligible": true,
+      "source_status": "metadata_source_linked",
       "strength": "",
       "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
       "workbook_source_sheet": "Drug_Master_Lookup"

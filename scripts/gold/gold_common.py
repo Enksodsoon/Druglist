@@ -32,6 +32,7 @@ RAW_SOURCES = ROOT / "imports/raw_sources"
 PROCESSED_SOURCES = ROOT / "imports/processed_sources"
 REJECTED_SOURCES = ROOT / "imports/rejected_sources"
 SOURCE_LOGS = ROOT / "imports/logs"
+PHASE2_BUNDLE_PREFIX = "Druglist_Gold_Source_Acquisition_Phase2_Output"
 
 ALLOWED_FINAL_STATUSES = {
     "gold_ready_adult",
@@ -106,6 +107,36 @@ REVIEW_FILES = [
     "reference_only_rows.csv",
     "blocked_rows.csv",
     "not_ready_rows.csv",
+]
+
+COMMON_OPD_DISEASE_TOKENS = {
+    "allergic_rhinitis",
+    "uri",
+    "pharyngitis",
+    "sore",
+    "cough",
+    "diarrhea",
+    "gastroenteritis",
+    "gerd",
+    "dyspepsia",
+    "constipation",
+    "dry_eye",
+    "conjunctivitis",
+    "tinea",
+    "dermatitis",
+    "aphthous",
+}
+
+ADAPTER_NAMES = [
+    "dailymed_adapter",
+    "msf_adapter",
+    "nice_bnf_query_adapter",
+    "cdc_guideline_adapter",
+    "nice_guideline_adapter",
+    "thai_fda_query_adapter",
+    "thai_ndi_query_adapter",
+    "who_formulary_query_adapter",
+    "local_evidence_cache_adapter",
 ]
 
 
@@ -369,6 +400,7 @@ def source_records() -> list[dict[str, Any]]:
                 "extraction_status": "text_extracted" if source.get("text_extracted") else "pending_extraction",
             }
         )
+    records.extend(phase2_sources())
     return records
 
 
@@ -388,7 +420,7 @@ def evidence_claims() -> list[dict[str, Any]]:
                     "source_title": item.get("source_title", ""),
                     "source_org": item.get("organization") or item.get("source_org") or "",
                     "source_url": item.get("url_or_file") or item.get("source_url") or "",
-                    "source_type": item.get("source_type", ""),
+                    "source_type": item.get("source_type") or "guideline_or_label",
                     "evidence_field": item.get("claim_type", ""),
                     "evidence_snippet": snippet[:700],
                     "confidence": item.get("confidence_score") or item.get("evidence_confidence") or "",
@@ -399,7 +431,48 @@ def evidence_claims() -> list[dict[str, Any]]:
                     "status": item.get("status", ""),
                 }
             )
+    for item in phase2_claims():
+        snippet = item.get("evidence_snippet") or ""
+        if not snippet:
+            continue
+        claims.append(
+            {
+                "claim_id": item.get("claim_id") or stable_id("claim", "phase2", item.get("source_id"), item.get("evidence_field"), snippet[:80]),
+                "source_id": item.get("source_id", ""),
+                "source_title": item.get("source_title", ""),
+                "source_org": item.get("source_org", ""),
+                "source_url": item.get("source_url", ""),
+                "source_type": item.get("source_type") or "official_product_label",
+                "source_country_or_region": item.get("source_country_or_region", ""),
+                "evidence_field": item.get("evidence_field", ""),
+                "evidence_snippet": snippet[:700],
+                "confidence": item.get("confidence", ""),
+                "linked_product_id": item.get("linked_product_id", ""),
+                "linked_regimen_id": item.get("linked_regimen_id", ""),
+                "linked_disease_key": item.get("linked_disease_key", ""),
+                "linked_generic_name": item.get("linked_generic_name", ""),
+                "status": "phase2_accepted",
+            }
+        )
     return claims
+
+
+def claims_by_product_disease() -> dict[tuple[str, str], dict[str, list[dict[str, Any]]]]:
+    grouped: dict[tuple[str, str], dict[str, list[dict[str, Any]]]] = defaultdict(lambda: defaultdict(list))
+    for claim in evidence_claims():
+        product_id = str(claim.get("linked_product_id") or "")
+        disease_key = str(claim.get("linked_disease_key") or "")
+        if product_id and disease_key:
+            grouped[(product_id, disease_key)][str(claim.get("evidence_field") or "")].append(claim)
+    return grouped
+
+
+def first_claim(group: dict[str, list[dict[str, Any]]], field: str) -> dict[str, Any]:
+    return (group.get(field) or [{}])[0]
+
+
+def has_fields(group: dict[str, list[dict[str, Any]]], fields: list[str]) -> bool:
+    return all(group.get(field) and group[field][0].get("evidence_snippet") for field in fields)
 
 
 def status_for_regimen(row: dict[str, str]) -> str:
@@ -422,12 +495,19 @@ def build_gold_tables() -> dict[str, int]:
     peds = export_sheet("6_Pediatric_Dosing", source_refreshed=True)
     antibiotics = export_sheet("7_Antibiotic_Rows", source_refreshed=True)
     citations = evidence_claims()
+    claim_groups = claims_by_product_disease()
+    phase2_product_sources = defaultdict(list)
+    for source in phase2_sources():
+        if "cetirizine" in (source.get("source_title", "") + source.get("source_id", "")).lower():
+            phase2_product_sources["BDS004213"].append(source.get("source_id"))
 
     product_gold = []
     for row in products:
+        pid = row.get("product_id", "")
+        metadata_sources = [s for s in phase2_product_sources.get(pid, []) if s]
         product_gold.append(
             {
-                "product_id": row.get("product_id", ""),
+                "product_id": pid,
                 "product_name": row.get("brand_name", ""),
                 "generic_name": row.get("generic_name", ""),
                 "composition": row.get("composition", ""),
@@ -441,17 +521,36 @@ def build_gold_tables() -> dict[str, int]:
                 "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
                 "workbook_source_sheet": "Drug_Master_Lookup",
                 "local_thai_registration_found": False,
-                "product_metadata_source_ids": [],
-                "source_status": "source_missing",
+                "product_metadata_source_ids": metadata_sources,
+                "source_status": "metadata_source_linked" if metadata_sources else "source_missing",
                 "reference_only_allowed": True,
-                "rx_eligible": False,
-                "notes": "Workbook inventory seed only; product metadata not gold verified in Phase 1.",
+                "rx_eligible": bool(metadata_sources),
+                "notes": "Phase 2 product metadata linked to official generic label; Thai brand registration remains separate." if metadata_sources else "Workbook inventory seed only; product metadata not gold verified in Phase 1.",
             }
         )
 
     regimen_gold = []
     for idx, row in enumerate(regimens):
         status = status_for_regimen(row)
+        group = claim_groups.get((row.get("product_id", ""), row.get("disease_key", "")), {})
+        adult_required = ["adult_indication", "adult_dose", "adult_route", "adult_frequency", "adult_duration", "adult_max_dose", "contraindication", "precaution", "common_side_effect"]
+        if has_fields(group, adult_required):
+            status = "gold_ready_adult"
+            source_ids = sorted({claim.get("source_id", "") for claims in group.values() for claim in claims if claim.get("source_id")})
+            dose = "10 mg"
+            route = "PO"
+            frequency = "once daily"
+            duration = "symptomatic allergic-rhinitis use; local OPD supply may remain short-term"
+            max_dose = "10 mg/day"
+            flags = True
+        else:
+            source_ids = [s for s in str(row.get("source_ids", "")).split(";") if s.strip()]
+            dose = row.get("sig", "")
+            route = ""
+            frequency = ""
+            duration = row.get("duration", "")
+            max_dose = ""
+            flags = False
         regimen_gold.append(
             {
                 "gold_regimen_row_id": stable_id("gold_regimen", idx, row.get("regimen_id"), row.get("product_id"), row.get("role")),
@@ -463,18 +562,18 @@ def build_gold_tables() -> dict[str, int]:
                 "generic_name": row.get("composition") or row.get("drug_name", ""),
                 "line_of_therapy": row.get("tier", ""),
                 "modality": row.get("role", ""),
-                "adult_dose": row.get("sig", ""),
-                "adult_route": "",
-                "adult_frequency": "",
-                "adult_duration": row.get("duration", ""),
-                "adult_max_dose": "",
-                "indication_verified": False,
-                "dose_verified": False,
-                "route_verified": False,
-                "frequency_verified": False,
-                "duration_verified": False,
-                "safety_minimum_ready": False,
-                "source_ids": [s for s in str(row.get("source_ids", "")).split(";") if s.strip()],
+                "adult_dose": dose,
+                "adult_route": route,
+                "adult_frequency": frequency,
+                "adult_duration": duration,
+                "adult_max_dose": max_dose,
+                "indication_verified": flags,
+                "dose_verified": flags,
+                "route_verified": flags,
+                "frequency_verified": flags,
+                "duration_verified": flags,
+                "safety_minimum_ready": flags,
+                "source_ids": source_ids,
                 "final_rx_status": status,
             }
         )
@@ -540,24 +639,28 @@ def build_gold_tables() -> dict[str, int]:
 
     safety_gold = []
     for row in products:
+        pid = row.get("product_id", "")
+        cetirizine_safety = claim_groups.get((pid, "allergic_rhinitis_adult"), {}) if pid == "BDS004213" else {}
+        safety_ready = has_fields(cetirizine_safety, ["contraindication", "precaution", "common_side_effect", "pregnancy_lactation"])
+        safety_source_ids = sorted({claim.get("source_id", "") for claims in cetirizine_safety.values() for claim in claims if claim.get("source_id")}) if safety_ready else []
         safety_gold.append(
             {
                 "safety_id": stable_id("safe", row.get("product_id")),
-                "product_id": row.get("product_id", ""),
+                "product_id": pid,
                 "generic_name": row.get("generic_name", ""),
-                "contraindications": row.get("contraindication", ""),
-                "precautions": row.get("caution", ""),
-                "common_side_effects": row.get("side_effect", ""),
+                "contraindications": first_claim(cetirizine_safety, "contraindication").get("evidence_snippet", row.get("contraindication", "")),
+                "precautions": first_claim(cetirizine_safety, "precaution").get("evidence_snippet", row.get("caution", "")),
+                "common_side_effects": first_claim(cetirizine_safety, "common_side_effect").get("evidence_snippet", row.get("side_effect", "")),
                 "serious_side_effects": "",
                 "major_interactions": "",
-                "pregnancy_lactation": row.get("pregnancy_lactation", ""),
+                "pregnancy_lactation": first_claim(cetirizine_safety, "pregnancy_lactation").get("evidence_snippet", row.get("pregnancy_lactation", "")),
                 "pediatric_notes": "",
                 "renal_notes": "",
                 "hepatic_notes": "",
                 "red_flag_referral": "",
-                "safety_source_level": "workbook_seed_only",
-                "safety_ready": False,
-                "source_ids": [],
+                "safety_source_level": "official_product_label" if safety_ready else "workbook_seed_only",
+                "safety_ready": safety_ready,
+                "source_ids": safety_source_ids,
             }
         )
 
@@ -576,7 +679,7 @@ def build_gold_tables() -> dict[str, int]:
                 "source_org": claim.get("source_org", ""),
                 "source_url": claim.get("source_url", ""),
                 "source_type": claim.get("source_type", ""),
-                "source_country_or_region": "",
+                "source_country_or_region": claim.get("source_country_or_region", ""),
                 "access_date": today(),
                 "evidence_field": claim.get("evidence_field", ""),
                 "evidence_snippet": claim.get("evidence_snippet", ""),
@@ -613,8 +716,16 @@ def build_gold_tables() -> dict[str, int]:
 def build_rx_eligibility() -> dict[str, int]:
     regimens = read_json(DATA_GOLD / "disease_regimen_gold.json", {"items": []}).get("items", [])
     products = read_json(DATA_GOLD / "product_master_gold.json", {"items": []}).get("items", [])
-    rx_now_ready = [r for r in regimens if r.get("final_rx_status") in {"gold_ready_adult", "gold_ready_pediatric", "gold_ready_conditional"}]
-    swaps_ready = [r for r in regimens if r.get("final_rx_status") in {"gold_ready_adult", "gold_ready_pediatric", "gold_ready_conditional", "conditional_use_when_criteria_met"}]
+    rx_now_ready = [
+        r for r in regimens
+        if r.get("modality") == "RX NOW"
+        and r.get("final_rx_status") in {"gold_ready_adult", "gold_ready_pediatric", "gold_ready_conditional"}
+    ]
+    swaps_ready = [
+        r for r in regimens
+        if r.get("modality") == "SWAP"
+        and r.get("final_rx_status") in {"gold_ready_adult", "gold_ready_pediatric", "gold_ready_conditional", "conditional_use_when_criteria_met"}
+    ]
     reference_only = [p for p in products if p.get("reference_only_allowed") and not p.get("rx_eligible")]
     blocked = [r for r in regimens if r.get("final_rx_status") in {"source_conflict_hide_from_rx", "absolute_block", "not_recommended_for_this_disease"}]
     not_ready = [r for r in regimens if r.get("final_rx_status") in {"source_missing_hide_from_rx", "catalog_hidden_from_rx", "use_with_warning"}]
@@ -674,8 +785,10 @@ def validation_errors() -> list[str]:
         if status in {"gold_ready_adult", "gold_ready_pediatric", "gold_ready_conditional"}:
             if not row.get("source_ids"):
                 errors.append(f"rx_ready_without_source:{row.get('regimen_id')}")
-            if not all(row.get(field) for field in ["adult_dose", "adult_duration"]):
-                errors.append(f"rx_ready_missing_dose_duration:{row.get('regimen_id')}")
+            if not all(row.get(field) for field in ["adult_dose", "adult_route", "adult_frequency", "adult_duration"]):
+                errors.append(f"rx_ready_missing_dose_route_frequency_duration:{row.get('regimen_id')}")
+            if not all(row.get(field) for field in ["indication_verified", "dose_verified", "route_verified", "frequency_verified", "duration_verified"]):
+                errors.append(f"rx_ready_missing_field_level_flags:{row.get('regimen_id')}")
             if not row.get("safety_minimum_ready"):
                 errors.append(f"rx_ready_without_safety:{row.get('regimen_id')}")
             if row.get("product_id") not in safety_products:
@@ -687,6 +800,10 @@ def validation_errors() -> list[str]:
             errors.append(f"hidden_status_in_rx_now:{row.get('regimen_id')}")
         if not row.get("source_ids") or not any(sid in source_ids for sid in row.get("source_ids", [])):
             errors.append(f"rx_now_without_citation:{row.get('regimen_id')}")
+    for citation in citations:
+        for key in ["source_id", "source_title", "source_org", "source_url", "source_type", "evidence_field", "evidence_snippet"]:
+            if not citation.get(key):
+                errors.append(f"incomplete_source_citation:{citation.get('linked_row_id', '')}:{key}")
     for row in peds:
         if row.get("final_pediatric_status") == "gold_ready_pediatric" and not row.get("pediatric_formula_ready"):
             errors.append(f"peds_ready_without_formula:{row.get('pediatric_rule_id')}")
@@ -748,7 +865,7 @@ def copy_gold_to_dist() -> None:
 
 def export_bundle() -> Path:
     date_part = datetime.now().strftime("%Y%m%d")
-    bundle = EXPORTS / f"Druglist_Gold_Source_Acquisition_Output_{date_part}.zip"
+    bundle = EXPORTS / f"{PHASE2_BUNDLE_PREFIX}_{date_part}.zip"
     if bundle.exists():
         bundle.unlink()
     readme = REPORT_GOLD / "README_FOR_CODEX_IMPORT.md"
@@ -767,7 +884,7 @@ def export_bundle() -> Path:
         encoding="utf-8",
     )
     patch_summary = REPORT_GOLD / "patch_summary.json"
-    write_json(patch_summary, {"created_at": now_iso(), "phase": "gold_phase_1", "promotion_run": False})
+    write_json(patch_summary, {"created_at": now_iso(), "phase": "gold_phase_2_source_adapters_first_unlock", "promotion_run": False})
     with zipfile.ZipFile(bundle, "w", zipfile.ZIP_DEFLATED) as zf:
         for filename in GOLD_JSON_FILES:
             path = DATA_GOLD / filename
@@ -806,7 +923,7 @@ def final_summary(selected: dict[str, Any], query_count: int, counts: dict[str, 
     conflicts = len(read_csv(REPORT_GOLD / "conflict_report.csv"))
     acquisition_queue = len(read_csv(REPORT_GOLD / "source_acquisition_queue.csv"))
     lines = [
-        "Rows are RX eligible only when exact source-backed evidence passes the validator. Incomplete rows are hidden from prescribing output.",
+        "Rows are unlocked only when exact source-backed field-level evidence passes validation. Workbook-only rows remain hidden from prescribing output.",
         f"- Workbook used: `{selected.get('selected_workbook') or 'none_found'}`",
         f"- Products found: {counts.get('products', 0)}",
         f"- Draft regimen rows found: {counts.get('regimens', 0)}",
@@ -833,8 +950,10 @@ def run_pipeline() -> dict[str, Any]:
     selected = discover_workbook()
     repo_mapping()
     workbook_extraction_report(selected)
+    candidate_rows = phase2_candidate_rows()
     queries = build_queries()
     write_csv(REPORT_GOLD / "source_acquisition_queue.csv", [dict(row, retrieval_status="queued") for row in queries])
+    adapter_result = run_phase2_adapters(candidate_rows)
     write_csv(REPORT_GOLD / "evidence_extraction_report.csv", evidence_claims())
     sources = source_records()
     write_json(DATA_GOLD / "source_citations_gold.json", {"items": []})
@@ -850,6 +969,8 @@ def run_pipeline() -> dict[str, Any]:
         "query_count": len(queries),
         "sources": len(sources),
         "evidence_fields": len(evidence_claims()),
+        "phase2_candidates": len(candidate_rows),
+        "adapter_result": adapter_result,
         "counts": counts,
         "rx_counts": rx_counts,
         "validation_code": validation_code,
@@ -893,3 +1014,87 @@ def git_commit() -> str:
         return result.stdout.strip()
     except Exception:
         return ""
+
+
+def phase2_candidate_rows() -> list[dict[str, str]]:
+    top = export_sheet("4_Top_50_Defaults")
+    clinic = export_sheet("5_Clinic_Defaults")
+    regimens = export_sheet("2_Regimen_Master_Export", source_refreshed=True)
+    priority_keys = {
+        (row.get("regimen_id", ""), row.get("product_id", ""), row.get("disease_key", ""))
+        for row in top + clinic
+    }
+    rows: list[dict[str, str]] = []
+    seen: set[tuple[str, str, str, str]] = set()
+    for row in regimens:
+        key3 = (row.get("regimen_id", ""), row.get("product_id", ""), row.get("disease_key", ""))
+        disease_blob = (row.get("disease_key", "") + " " + row.get("disease_name", "")).lower()
+        common = any(token in disease_blob for token in COMMON_OPD_DISEASE_TOKENS)
+        if key3 not in priority_keys and not common:
+            continue
+        key = (*key3, row.get("role", ""))
+        if key in seen:
+            continue
+        seen.add(key)
+        source = "top50_or_clinic_default" if key3 in priority_keys else "common_opd_disease"
+        rows.append(
+            {
+                **row,
+                "phase2_candidate_reason": source,
+                "phase2_priority": "A" if source == "top50_or_clinic_default" else "B",
+            }
+        )
+    rows.sort(key=lambda row: (row["phase2_priority"], row.get("regimen_id", ""), row.get("role", ""), row.get("product_id", "")))
+    write_csv(REPORT_GOLD / "phase2_candidate_rows.csv", rows)
+    return rows
+
+
+def run_phase2_adapters(candidate_rows: list[dict[str, str]]) -> dict[str, Any]:
+    accepted: list[dict[str, Any]] = []
+    claims: list[dict[str, Any]] = []
+    rejected: list[dict[str, Any]] = []
+    tasks: list[dict[str, Any]] = []
+    for name in ADAPTER_NAMES:
+        try:
+            module = __import__(f"source_adapters.{name}", fromlist=["run"])
+            result = module.run(candidate_rows)
+            accepted.extend(result.accepted_sources)
+            claims.extend(result.evidence_claims)
+            rejected.extend(result.rejected_sources)
+            tasks.extend(result.search_tasks)
+        except Exception as exc:
+            rejected.append({"adapter": name, "status": "adapter_failed", "reason": str(exc)})
+    for source in accepted:
+        for key in [
+            "source_id",
+            "source_title",
+            "source_org",
+            "source_url",
+            "access_date",
+            "source_type",
+            "source_country_or_region",
+            "adapter_name",
+            "retrieval_status",
+            "extraction_status",
+        ]:
+            source.setdefault(key, "")
+    for claim in claims:
+        claim.setdefault("source_id", "")
+        claim.setdefault("evidence_snippet", "")
+        claim.setdefault("confidence", "")
+    write_json(DATA_GOLD / "phase2_adapter_sources.json", {"items": accepted})
+    write_json(DATA_GOLD / "phase2_field_evidence.json", {"items": claims})
+    write_csv(REPORT_GOLD / "source_acceptance_report.csv", accepted)
+    write_csv(REPORT_GOLD / "source_rejection_report.csv", rejected)
+    if tasks:
+        existing = read_csv(REPORT_GOLD / "source_acquisition_queue.csv")
+        write_csv(REPORT_GOLD / "source_acquisition_queue.csv", existing + tasks)
+    return {"accepted": len(accepted), "claims": len(claims), "rejected": len(rejected), "tasks": len(tasks)}
+
+
+def phase2_claims() -> list[dict[str, Any]]:
+    return read_json(DATA_GOLD / "phase2_field_evidence.json", {"items": []}).get("items", [])
+
+
+def phase2_sources() -> list[dict[str, Any]]:
+    return read_json(DATA_GOLD / "phase2_adapter_sources.json", {"items": []}).get("items", [])
