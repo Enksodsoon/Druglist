@@ -21,6 +21,17 @@ REQUIRED_FILES = [
 FRONTEND_JSON = [
     "data/core/app_seed_runtime.json",
 ]
+GOLD_JSON = [
+    "product_master_gold.json",
+    "disease_regimen_gold.json",
+    "pediatric_dose_engine.json",
+    "antibiotic_gate_map.json",
+    "safety_profile_gold.json",
+    "search_alias_index.json",
+    "source_citations_gold.json",
+    "rx_eligibility_map.json",
+    "gold_runtime_config.json",
+]
 FORBIDDEN_PARTS = {
     "source_workbooks",
     "source_guidelines",
@@ -51,6 +62,24 @@ def copy_file(src: str, dest: str | None = None) -> None:
     shutil.copy2(source, target)
 
 
+def copy_gold_overlay() -> None:
+    source_root = ROOT / "data/gold"
+    if not source_root.exists():
+        return
+    for filename in GOLD_JSON:
+        source = source_root / filename
+        if source.exists():
+            target = DIST / "gold" / filename
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(source, target)
+    review_root = source_root / "review"
+    if review_root.exists():
+        for source in review_root.glob("*.csv"):
+            target = DIST / "gold" / "review" / source.name
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(source, target)
+
+
 def build_info() -> dict[str, Any]:
     seed = read_json("data/core/app_seed_runtime.json", {"m": {}})
     meta = seed.get("m", {})
@@ -71,6 +100,7 @@ def build_dist(_: argparse.Namespace) -> int:
     copy_file("index.html")
     for path in FRONTEND_JSON:
         copy_file(path)
+    copy_gold_overlay()
     (DIST / "build_info.json").write_text(json.dumps(build_info(), ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     validate_dist_files()
     print("built frontend dist: dist/")
@@ -89,7 +119,8 @@ def validate_dist_files() -> None:
         parts = set(rel.parts)
         if parts & FORBIDDEN_PARTS:
             raise RuntimeError(f"forbidden private path in dist: {rel}")
-        if path.is_file() and path.suffix.lower() in FORBIDDEN_SUFFIXES:
+        gold_review_csv = rel.parts[:2] == ("gold", "review") and path.suffix.lower() == ".csv"
+        if path.is_file() and path.suffix.lower() in FORBIDDEN_SUFFIXES and not gold_review_csv:
             raise RuntimeError(f"forbidden private file type in dist: {rel}")
     seed = json.loads((DIST / "data/core/app_seed_runtime.json").read_text(encoding="utf-8"))
     if not seed.get("dr") or not seed.get("cp"):

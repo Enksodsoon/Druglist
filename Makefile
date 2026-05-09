@@ -1,4 +1,4 @@
-.PHONY: verify
+.PHONY: verify gold-pipeline gold-validate
 
 verify:
 	python3 scripts/build_all.py
@@ -6,3 +6,9 @@ verify:
 	python3 scripts/build_dist.py
 	python3 scripts/ui_smoke_test.py
 	python3 scripts/check_runtime_artifacts.py
+
+gold-pipeline:
+	python3 scripts/gold/run_gold_pipeline.py
+
+gold-validate:
+	python3 scripts/gold/09_validate_gold_readiness.py

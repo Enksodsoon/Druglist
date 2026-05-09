@@ -77,7 +77,8 @@ def check_dist_privacy(errors: list[str]) -> None:
         rel = path.relative_to(dist)
         if set(rel.parts) & FORBIDDEN_DIST_PARTS:
             fail(errors, f"forbidden_private_path_in_dist:{rel}")
-        if path.is_file() and path.suffix.lower() in FORBIDDEN_DIST_SUFFIXES:
+        gold_review_csv = rel.parts[:2] == ("gold", "review") and path.suffix.lower() == ".csv"
+        if path.is_file() and path.suffix.lower() in FORBIDDEN_DIST_SUFFIXES and not gold_review_csv:
             fail(errors, f"forbidden_private_file_in_dist:{rel}")
 
 

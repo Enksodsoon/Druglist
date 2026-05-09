@@ -1,0 +1,5 @@
+{
+  "USE_GOLD_RX_ENGINE": false,
+  "fallback_to_legacy_runtime": true,
+  "overlay_path": "gold/rx_eligibility_map.json"
+}
