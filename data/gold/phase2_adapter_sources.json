@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "access_date": "2026-05-09",
+      "adapter_name": "dailymed_adapter",
+      "extraction_status": "field_snippets_extracted",
+      "retrieval_status": "retrieved",
+      "source_country_or_region": "United States",
+      "source_id": "dailymed_cetirizine_10mg_tablet_f756d3b1",
+      "source_org": "DailyMed / U.S. National Library of Medicine",
+      "source_title": "CETIRIZINE HYDROCHLORIDE TABLETS,10 MG (CETIRIZINE HYDROCHLORIDE) TABLET [NORTHWIND HEALTH COMPANY, LLC]",
+      "source_type": "official_product_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f756d3b1-d2e4-3705-e053-6294a90aa380"
+    }
+  ]
+}
