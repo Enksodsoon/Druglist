@@ -28,6 +28,7 @@ def main() -> int:
         if row.get("clinical_readiness_refreshed") == "ready"
         and row.get("source_ids")
         and row.get("evidence_claim_ids")
+        and row.get("final_verification_status") == "ready_source_verified"
     ]
     blocked_visible = [
         row
@@ -38,6 +39,7 @@ def main() -> int:
         "import_mode": "dry_run_no_clinical_change",
         "importable_ready_rows": len(importable),
         "blocked_or_warning_rows_preserved": len(blocked_visible),
+        "first_unlock_status_rows": sum(1 for row in regimen if row.get("final_verification_status")),
         "changes": [],
     }
     write_json("data/source_refresh/import_source_refreshed_diff.json", diff)
@@ -48,7 +50,7 @@ def main() -> int:
             "- Import mode: dry-run / no runtime clinical data changed.",
             f"- Source-backed ready rows importable: {len(importable)}",
             f"- Blocked/warning/manual rows preserved: {len(blocked_visible)}",
-            "- Reason: no complete source-backed dose/pediatric/antibiotic claims were available for safe promotion.",
+            "- Import keeps blocked/manual/source-gap rows visible and imports status/citation metadata only in this pass.",
         ],
     )
     print(f"import_source_refreshed_workbook: importable_ready_rows={len(importable)}")

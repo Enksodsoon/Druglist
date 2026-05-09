@@ -26,6 +26,12 @@ def main() -> int:
     antibiotic = rows("7_Antibiotic_Rows")
     if not regimen:
         errors.append("missing_refreshed_regimen_rows")
+    header_path = CSV_DIR / "2_Regimen_Master_Export.csv"
+    if header_path.exists():
+        headers = header_path.read_text(encoding="utf-8-sig").splitlines()[0].split(",")
+        duplicates = sorted({h for h in headers if headers.count(h) > 1})
+        for header in duplicates:
+            errors.append(f"duplicate_refresh_header:{header}")
     for row in regimen:
         refreshed = row.get("clinical_readiness_refreshed") or row.get("clinical_readiness")
         has_source = bool(row.get("source_ids") or row.get("evidence_claim_ids"))
@@ -35,6 +41,13 @@ def main() -> int:
             errors.append(f"blocked_row_fast_mode_allowed:{row.get('regimen_id')}:{row.get('product_id')}")
         if row.get("source_status") == "source_gap" and refreshed == "ready":
             errors.append(f"source_gap_ready:{row.get('regimen_id')}:{row.get('product_id')}")
+        if row.get("disease_key") == "herpes_zoster_adult" and "acyclovir" in (row.get("composition", "") + row.get("drug_name", "")).lower():
+            if refreshed == "ready" and row.get("final_verification_status") != "ready_source_verified":
+                errors.append(f"zoster_ready_without_exact_status:{row.get('regimen_id')}:{row.get('product_id')}")
+            if row.get("final_verification_status") == "ready_source_verified" and any(
+                not row.get(k) for k in ["source_ids", "evidence_claim_ids", "source_snippets_short"]
+            ):
+                errors.append(f"zoster_ready_missing_citation:{row.get('regimen_id')}:{row.get('product_id')}")
     for row in pediatric:
         if row.get("clinical_readiness_refreshed") == "ready":
             missing = [k for k in ["source_ids", "concentration", "age_bw_rule", "max_dose"] if not row.get(k)]

@@ -3,4 +3,4 @@
 - Import mode: dry-run / no runtime clinical data changed.
 - Source-backed ready rows importable: 0
 - Blocked/warning/manual rows preserved: 987
-- Reason: no complete source-backed dose/pediatric/antibiotic claims were available for safe promotion.
+- Import keeps blocked/manual/source-gap rows visible and imports status/citation metadata only in this pass.
