@@ -1,20 +1,65 @@
 {
   "sources": [
     {
-      "access_date": "2026-05-08",
-      "clinical_domain": "Verify antiviral indication, adult dose, frequency, duration, timing window, and red flags.",
-      "disease_keys": [
-        "herpes_labialis_adult"
-      ],
-      "local_file_reference": "source_text/cdc_shingles_clinical_overview.txt",
-      "notes": "",
+      "access_date": "2026-05-09",
+      "clinical_domain": "acyclovir_herpes_zoster_adult",
+      "disease_keys": [],
+      "local_file_reference": "source_text/br_moh_herpes_treatment.txt",
+      "notes": "Accepted by source acquisition v1 after official URL fetch and snippet extraction eligibility; row claims still require exact matching.",
+      "organization": "Ministério da Saúde",
+      "related_generics": [],
+      "related_regimens": [],
+      "review_status": "accepted",
+      "source_id": "br_moh_herpes_treatment",
+      "source_title": "Herpes - Tratamento",
+      "source_type": "guideline",
+      "source_url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/herpes/tratamento/tratamento",
+      "text_extracted": true,
+      "year": "source_version_unknown"
+    },
+    {
+      "access_date": "2026-05-09",
+      "clinical_domain": "viral_uri_no_antibiotic",
+      "disease_keys": [],
+      "local_file_reference": "source_text/cdc_common_cold_treatment.txt",
+      "notes": "Accepted by source acquisition v1 after official URL fetch and snippet extraction eligibility; row claims still require exact matching.",
       "organization": "Centers for Disease Control and Prevention",
-      "related_generics": [
-        "Acyclovir 400 mg."
-      ],
-      "related_regimens": [
-        "FRM0026"
-      ],
+      "related_generics": [],
+      "related_regimens": [],
+      "review_status": "accepted",
+      "source_id": "cdc_common_cold_treatment",
+      "source_title": "Manage Common Cold",
+      "source_type": "guideline",
+      "source_url": "https://www.cdc.gov/common-cold/treatment/index.html",
+      "text_extracted": true,
+      "year": "2026"
+    },
+    {
+      "access_date": "2026-05-09",
+      "clinical_domain": "bacterial_conjunctivitis_topical_antibiotic",
+      "disease_keys": [],
+      "local_file_reference": "source_text/cdc_conjunctivitis_treatment.txt",
+      "notes": "Accepted by source acquisition v1 after official URL fetch and snippet extraction eligibility; row claims still require exact matching.",
+      "organization": "Centers for Disease Control and Prevention",
+      "related_generics": [],
+      "related_regimens": [],
+      "review_status": "accepted",
+      "source_id": "cdc_conjunctivitis_treatment",
+      "source_title": "How to Treat Pink Eye",
+      "source_type": "guideline",
+      "source_url": "https://www.cdc.gov/conjunctivitis/treatment/index.html",
+      "text_extracted": true,
+      "year": "2024"
+    },
+    {
+      "access_date": "2026-05-09",
+      "clinical_domain": "acyclovir_herpes_zoster_adult",
+      "disease_keys": [],
+      "local_file_reference": "source_text/cdc_shingles_clinical_overview.txt",
+      "notes": "Accepted by source acquisition v1 after official URL fetch and snippet extraction eligibility; row claims still require exact matching.",
+      "organization": "Centers for Disease Control and Prevention",
+      "related_generics": [],
+      "related_regimens": [],
       "review_status": "accepted",
       "source_id": "cdc_shingles_clinical_overview",
       "source_title": "Clinical Overview of Shingles (Herpes Zoster)",
@@ -47,27 +92,21 @@
       "year": "2021"
     },
     {
-      "access_date": "2026-05-08",
-      "clinical_domain": "Verify pediatric dose, age/BW gate, concentration, frequency, duration, and max dose.",
-      "disease_keys": [
-        "uri_wet_cough_adult"
-      ],
-      "local_file_reference": "source_text/who_eml_emlc_lists.txt",
-      "notes": "",
-      "organization": "World Health Organization",
-      "related_generics": [
-        "Paracetamol 500 mg."
-      ],
-      "related_regimens": [
-        "FRM0002"
-      ],
+      "access_date": "2026-05-09",
+      "clinical_domain": "viral_uri_no_antibiotic",
+      "disease_keys": [],
+      "local_file_reference": "source_text/nice_acute_cough_antimicrobial_ng120.txt",
+      "notes": "Accepted by source acquisition v1 after official URL fetch and snippet extraction eligibility; row claims still require exact matching.",
+      "organization": "National Institute for Health and Care Excellence",
+      "related_generics": [],
+      "related_regimens": [],
       "review_status": "accepted",
-      "source_id": "who_eml_emlc_lists",
-      "source_title": "WHO Model Lists of Essential Medicines",
-      "source_type": "formulary",
-      "source_url": "https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines/essential-medicines-lists",
+      "source_id": "nice_acute_cough_antimicrobial_ng120",
+      "source_title": "Cough (acute): antimicrobial prescribing",
+      "source_type": "guideline",
+      "source_url": "https://www.nice.org.uk/guidance/ng120/chapter/recommendations",
       "text_extracted": true,
-      "year": "2025"
+      "year": "2019"
     },
     {
       "access_date": "2026-05-08",
@@ -91,6 +130,29 @@
       "source_url": "https://www.nice.org.uk/guidance/ng84",
       "text_extracted": true,
       "year": "2018"
+    },
+    {
+      "access_date": "2026-05-08",
+      "clinical_domain": "Verify pediatric dose, age/BW gate, concentration, frequency, duration, and max dose.",
+      "disease_keys": [
+        "uri_wet_cough_adult"
+      ],
+      "local_file_reference": "source_text/who_eml_emlc_lists.txt",
+      "notes": "",
+      "organization": "World Health Organization",
+      "related_generics": [
+        "Paracetamol 500 mg."
+      ],
+      "related_regimens": [
+        "FRM0002"
+      ],
+      "review_status": "accepted",
+      "source_id": "who_eml_emlc_lists",
+      "source_title": "WHO Model Lists of Essential Medicines",
+      "source_type": "formulary",
+      "source_url": "https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines/essential-medicines-lists",
+      "text_extracted": true,
+      "year": "2025"
     }
   ]
 }

@@ -1,0 +1,106 @@
+{
+  "candidates": [
+    {
+      "candidate_id": "cand_52ffe072b39b",
+      "candidate_status": "text_check_ready",
+      "confidence_score": 0.9,
+      "country": "Brazil",
+      "expected_rows_covered": 3,
+      "organization": "Ministério da Saúde",
+      "reason": "official domain fetched as HTML for text extraction",
+      "source_id": "br_moh_herpes_treatment",
+      "source_need_id": "need_8902050c5f35",
+      "source_pack_id": "acyclovir_herpes_zoster_adult",
+      "source_title": "Herpes - Tratamento",
+      "source_type": "guideline",
+      "target_claim_types": [
+        "adult_dose",
+        "frequency",
+        "duration",
+        "timing_window"
+      ],
+      "url_or_file": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/herpes/tratamento/tratamento",
+      "year_version": "source_version_unknown"
+    },
+    {
+      "candidate_id": "cand_d624e8c8e790",
+      "candidate_status": "text_check_ready",
+      "confidence_score": 0.9,
+      "country": "United States",
+      "expected_rows_covered": 3,
+      "organization": "Centers for Disease Control and Prevention",
+      "reason": "official domain fetched as HTML for text extraction",
+      "source_id": "cdc_shingles_clinical_overview",
+      "source_need_id": "need_8902050c5f35",
+      "source_pack_id": "acyclovir_herpes_zoster_adult",
+      "source_title": "Clinical Overview of Shingles (Herpes Zoster)",
+      "source_type": "guideline",
+      "target_claim_types": [
+        "disease_strategy",
+        "timing_window",
+        "red_flags"
+      ],
+      "url_or_file": "https://www.cdc.gov/shingles/hcp/clinical-overview/index.html",
+      "year_version": "2024"
+    },
+    {
+      "candidate_id": "cand_ae6dd8e0b0bf",
+      "candidate_status": "text_check_ready",
+      "confidence_score": 0.9,
+      "country": "United Kingdom",
+      "expected_rows_covered": 208,
+      "organization": "National Institute for Health and Care Excellence",
+      "reason": "official domain fetched as HTML for text extraction",
+      "source_id": "nice_acute_cough_antimicrobial_ng120",
+      "source_need_id": "need_a01534391758",
+      "source_pack_id": "viral_uri_no_antibiotic",
+      "source_title": "Cough (acute): antimicrobial prescribing",
+      "source_type": "guideline",
+      "target_claim_types": [
+        "no_antibiotic_criteria",
+        "referral_criteria"
+      ],
+      "url_or_file": "https://www.nice.org.uk/guidance/ng120/chapter/recommendations",
+      "year_version": "2019"
+    },
+    {
+      "candidate_id": "cand_d8df5e4cc723",
+      "candidate_status": "text_check_ready",
+      "confidence_score": 0.9,
+      "country": "United States",
+      "expected_rows_covered": 208,
+      "organization": "Centers for Disease Control and Prevention",
+      "reason": "official domain fetched as HTML for text extraction",
+      "source_id": "cdc_common_cold_treatment",
+      "source_need_id": "need_a01534391758",
+      "source_pack_id": "viral_uri_no_antibiotic",
+      "source_title": "Manage Common Cold",
+      "source_type": "guideline",
+      "target_claim_types": [
+        "no_antibiotic_criteria"
+      ],
+      "url_or_file": "https://www.cdc.gov/common-cold/treatment/index.html",
+      "year_version": "2026"
+    },
+    {
+      "candidate_id": "cand_21fec6f37c08",
+      "candidate_status": "text_check_ready",
+      "confidence_score": 0.9,
+      "country": "United States",
+      "expected_rows_covered": 35,
+      "organization": "Centers for Disease Control and Prevention",
+      "reason": "official domain fetched as HTML for text extraction",
+      "source_id": "cdc_conjunctivitis_treatment",
+      "source_need_id": "need_b16dff463e10",
+      "source_pack_id": "bacterial_conjunctivitis_topical_antibiotic",
+      "source_title": "How to Treat Pink Eye",
+      "source_type": "guideline",
+      "target_claim_types": [
+        "no_antibiotic_criteria",
+        "disease_strategy"
+      ],
+      "url_or_file": "https://www.cdc.gov/conjunctivitis/treatment/index.html",
+      "year_version": "2024"
+    }
+  ]
+}
