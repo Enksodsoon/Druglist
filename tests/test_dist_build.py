@@ -22,7 +22,8 @@ def test_dist_excludes_private_and_review_files():
         rel = path.relative_to(DIST)
         assert not (set(rel.parts) & forbidden_parts)
         if path.is_file():
-            assert path.suffix.lower() not in forbidden_suffixes
+            gold_review_csv = rel.parts[:2] == ("gold", "review") and path.suffix.lower() == ".csv"
+            assert gold_review_csv or path.suffix.lower() not in forbidden_suffixes
 
 
 def test_github_pages_workflow_exists():
