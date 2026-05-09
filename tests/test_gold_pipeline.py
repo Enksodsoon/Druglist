@@ -1,5 +1,6 @@
 import importlib.util
 import json
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -39,7 +40,6 @@ def test_catalog_only_and_source_missing_are_hidden_from_rx_now():
         "source_conflict_hide_from_rx",
         "absolute_block",
     }
-    assert not rx["swaps_ready"]
     assert rx["reference_only_products"]
     for row in rx["rx_now_ready"] + rx["swaps_ready"]:
         assert row["final_rx_status"] not in hidden_statuses
@@ -80,8 +80,7 @@ def test_phase2_candidate_selector_prioritizes_defaults():
 def test_phase2_adult_verified_row_appears_in_rx_now():
     rx = load("data/gold/rx_eligibility_map.json")
     assert rx["rx_now_ready"]
-    assert all(row["product_id"] == "BDS004213" for row in rx["rx_now_ready"])
-    assert all(row["disease_key"] == "allergic_rhinitis_adult" for row in rx["rx_now_ready"])
+    assert any(row["product_id"] == "BDS004213" and row["disease_key"] == "allergic_rhinitis_adult" for row in rx["rx_now_ready"])
     assert all(row["final_rx_status"] == "gold_ready_adult" for row in rx["rx_now_ready"])
 
 
@@ -138,6 +137,74 @@ def test_feature_flag_loader_legacy_and_safe_fallback():
 def test_gold_validation_report_passes_and_bundle_exists():
     report = (ROOT / "reports/gold/gold_validation_report.md").read_text(encoding="utf-8")
     assert "Pass: True" in report
-    bundles = list((ROOT / "exports").glob("Druglist_Gold_Source_Acquisition_Phase2_Output_*.zip"))
+    bundles = list((ROOT / "exports").glob("Druglist_Gold_OPD_First_Pack_Output_*.zip"))
     assert bundles
     assert bundles[-1].stat().st_size > 0
+
+
+def test_unique_coverage_report_separates_duplicates():
+    import csv
+
+    summary = (ROOT / "reports/gold/gold_unique_coverage_summary.md").read_text(encoding="utf-8")
+    with (ROOT / "reports/gold/gold_unique_coverage_report.csv").open(encoding="utf-8-sig") as handle:
+        rows = list(csv.DictReader(handle))
+    assert rows
+    assert "unique_products_rx_ready" in summary
+    assert "duplicate_row_count" in summary
+    assert len({row["product_id"] for row in rows}) <= len(rows)
+
+
+def test_product_match_gap_blocks_mismatch_rows():
+    import csv
+
+    with (ROOT / "reports/gold/product_match_gap_report.csv").open(encoding="utf-8-sig") as handle:
+        rows = list(csv.DictReader(handle))
+    assert any("ibuprofen" in row.get("generic_name", "").lower() for row in rows)
+    ibuprofen = [row for row in rows if "ibuprofen" in row.get("generic_name", "").lower()]
+    assert all("exact strength/form match" in row.get("product_match_gap_reason", "") for row in ibuprofen)
+
+
+def test_cached_accepted_evidence_requires_matching_row(monkeypatch, tmp_path):
+    module = gold_common()
+    sys.path.insert(0, str(ROOT / "scripts/gold"))
+    import source_adapters.local_evidence_cache_adapter as adapter
+    rows = [
+        {
+            "source_id": "test_source",
+            "source_title": "Test source",
+            "source_org": "Test org",
+            "source_url": "https://example.org/source",
+            "source_type": "official_product_label",
+            "generic_name": "not-a-matching-generic",
+            "disease_key": "allergic_rhinitis_adult",
+            "evidence_field": "adult_dose",
+            "evidence_value": "1 tablet",
+            "evidence_snippet": "short supported snippet",
+            "access_date": "2026-05-09",
+            "confidence": "0.9",
+        }
+    ]
+    cache = tmp_path / "accepted_evidence"
+    cache.mkdir()
+    (cache / "bad.json").write_text(json.dumps(rows), encoding="utf-8")
+    monkeypatch.setattr(adapter, "ACCEPTED", cache)
+    result = adapter.run(module.phase2_candidate_rows())
+    assert not result.evidence_claims
+
+
+def test_swaps_are_verified_and_same_disease_mapped():
+    rx = load("data/gold/rx_eligibility_map.json")
+    assert rx["swaps_ready"]
+    for row in rx["swaps_ready"]:
+        assert row["source_ids"]
+        assert row["disease_key"]
+        assert row["final_rx_status"] in {"gold_ready_adult", "gold_ready_pediatric", "gold_ready_conditional", "conditional_use_when_criteria_met"}
+
+
+def test_swap_tier_report_contains_verified_alternatives():
+    import csv
+
+    with (ROOT / "reports/gold/swaps_tier_report.csv").open(encoding="utf-8-sig") as handle:
+        rows = list(csv.DictReader(handle))
+    assert rows
+    assert any("Tier 1" in row.get("swap_tier", "") for row in rows)

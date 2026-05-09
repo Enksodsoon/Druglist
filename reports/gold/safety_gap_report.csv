@@ -57,7 +57,6 @@
 ,,Brompheniramine Maleate + Phenylephrine HCl,,,,,,BDS003575,,,safe_d169b4bde0af,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Doxylamine Succinate,,,,,,BDS008481,,,safe_1250747a1834,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Chlorpheniramine maleate + Phenylephrine hydrochloride,,,,,,BDS003562,,,safe_525d9641c999,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Fexofenadine HCl,,,,,,BDS003747,,,safe_93f2d6b809f3,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Fexofenadine HCl,,,,,,BDS003769,,,safe_08154a1dcd89,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Fexofenadine HCl,,,,,,BDS049255,,,safe_103738763fc4,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Fexofenadine HCl,,,,,,BDS049254,,,safe_1d1361ceb4a4,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -489,7 +488,6 @@
 ,,Paracetamol,,,,,,BDS003108,,,safe_a675955ced52,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Paracetamol,,,,,,BDS003503,,,safe_a5a575b3660a,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Paracetamol,,,,,,BDS003654,,,safe_5d13b1589561,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Paracetamol,,,,,,BDS003762,,,safe_29108c9d83c7,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Simethicone,,,,,,BDS001014,,,safe_d3c20a098cad,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Simethicone,,,,,,BDS001089,,,safe_d6f19a6f0e7d,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Simethicone,,,,,,BDS001085,,,safe_5bdc6e97bec0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -662,7 +660,6 @@
 ,,Gentamicin,,,,,,BDS007768,,,safe_c5ec35fc8723,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Gentamicin,,,,,,BDS007766,,,safe_b617aa1905bd,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Clotrimazole,,,,,,BDS006059,,,safe_3f3409b296cd,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Clotrimazole,,,,,,BDS001489,,,safe_563fe7f94711,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Clotrimazole,,,,,,BDS001422,,,safe_e650530093a3,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Bifonazole,,,,,,BDS041433,,,safe_7a436864b197,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Clotrimazole,,,,,,BDS007735,,,safe_d417c63eeac1,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -752,7 +749,6 @@
 ,,Olopatadine HCl + Povidone + Dibasic Sodium Phosphate + Sodium Chloride,,,,,,BDS046500,,,safe_7777fe1b2144,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Pemirolast potassium,,,,,,BDS046553,,,safe_2b75817dfe78,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Tobramycin + Dexamethasone + Tyloxapol + Sodium Chloride,,,,,,BDS003862,,,safe_0c28de888559,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Carboxymethylcellulose Sodium + Calcium Chloride + Magnesium Chloride + Potassium Chloride,,,,,,BDS001552,,,safe_51b459efa2c8,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Carboxymethylcellulose Sodium + Boric acid + Calcium Chloride + Magnesium Chloride,,,,,,BDS041414,,,safe_d6644707e06a,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Carboxymethylcellulose Sodium + Boric acid + Calcium Chloride dihydrate + Magnesium Chloride,,,,,,BDS001554,,,safe_ea30fa721004,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Citrate/Borate Buffer + Sodium Chloride + Edetate Disodium + PEG-11 Lauryl ether Carboxylic acid,,,,,,BDS001551,,,safe_3eb71bb11556,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions

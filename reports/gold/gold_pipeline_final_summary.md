@@ -5,16 +5,21 @@ Rows are unlocked only when exact source-backed field-level evidence passes vali
 - Products found: 910
 - Draft regimen rows found: 987
 - Source queries generated: 2441
-- Accredited source metadata available: 9
-- Evidence fields extracted: 20
-- RX NOW ready count: 7
-- SWAPS ready count: 0
+- Accredited source metadata available: 13
+- Evidence fields extracted: 225
+- RX NOW ready count: 35
+- SWAPS ready count: 24
+- Unique products RX-ready: 5
+- Unique generic names RX-ready: 5
+- Unique disease keys RX-ready: 17
+- Unique product+disease pairs RX-ready: 18
+- Duplicate ready row count: 41
 - Pediatric formula-ready count: 0
 - Antibiotic gate-ready count: 0
-- Reference-only count: 909
-- Hidden/not-ready count: 977
+- Reference-only count: 904
+- Hidden/not-ready count: 925
 - Conflict count: 3
 - Source acquisition queue count: 2449
-- Output bundle: `exports/Druglist_Gold_Source_Acquisition_Phase2_Output_20260509.zip`
+- Output bundle: `exports/Druglist_Gold_OPD_First_Pack_Output_20260509.zip`
 - Promotion was not run.
 - Next command: `python3 scripts/gold/run_gold_pipeline.py && python3 scripts/gold/09_validate_gold_readiness.py`

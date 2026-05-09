@@ -32,7 +32,8 @@ RAW_SOURCES = ROOT / "imports/raw_sources"
 PROCESSED_SOURCES = ROOT / "imports/processed_sources"
 REJECTED_SOURCES = ROOT / "imports/rejected_sources"
 SOURCE_LOGS = ROOT / "imports/logs"
-PHASE2_BUNDLE_PREFIX = "Druglist_Gold_Source_Acquisition_Phase2_Output"
+ACCEPTED_EVIDENCE = ROOT / "imports/accepted_evidence"
+PHASE2_BUNDLE_PREFIX = "Druglist_Gold_OPD_First_Pack_Output"
 
 ALLOWED_FINAL_STATUSES = {
     "gold_ready_adult",
@@ -150,6 +151,7 @@ def ensure_dirs() -> None:
         PROCESSED_SOURCES,
         REJECTED_SOURCES,
         SOURCE_LOGS,
+        ACCEPTED_EVIDENCE,
     ]:
         path.mkdir(parents=True, exist_ok=True)
 
@@ -471,8 +473,33 @@ def first_claim(group: dict[str, list[dict[str, Any]]], field: str) -> dict[str,
     return (group.get(field) or [{}])[0]
 
 
+def claim_value(group: dict[str, list[dict[str, Any]]], field: str, fallback: str = "") -> str:
+    claim = first_claim(group, field)
+    return str(claim.get("evidence_value") or fallback or claim.get("evidence_snippet") or "")
+
+
 def has_fields(group: dict[str, list[dict[str, Any]]], fields: list[str]) -> bool:
     return all(group.get(field) and group[field][0].get("evidence_snippet") for field in fields)
+
+
+ADULT_REQUIRED_FIELDS = [
+    "adult_indication",
+    "adult_dose",
+    "adult_route",
+    "adult_frequency",
+    "adult_duration",
+    "adult_max_dose",
+    "contraindication",
+    "precaution",
+    "common_side_effect",
+    "major_interaction",
+    "pregnancy_lactation",
+    "composition_strength_form_route",
+]
+
+
+def source_ids_for_claim_group(group: dict[str, list[dict[str, Any]]]) -> list[str]:
+    return sorted({claim.get("source_id", "") for claims in group.values() for claim in claims if claim.get("source_id")})
 
 
 def status_for_regimen(row: dict[str, str]) -> str:
@@ -497,14 +524,14 @@ def build_gold_tables() -> dict[str, int]:
     citations = evidence_claims()
     claim_groups = claims_by_product_disease()
     phase2_product_sources = defaultdict(list)
-    for source in phase2_sources():
-        if "cetirizine" in (source.get("source_title", "") + source.get("source_id", "")).lower():
-            phase2_product_sources["BDS004213"].append(source.get("source_id"))
+    for claim in citations:
+        if claim.get("linked_product_id") and claim.get("source_id"):
+            phase2_product_sources[claim.get("linked_product_id")].append(claim.get("source_id"))
 
     product_gold = []
     for row in products:
         pid = row.get("product_id", "")
-        metadata_sources = [s for s in phase2_product_sources.get(pid, []) if s]
+        metadata_sources = sorted({s for s in phase2_product_sources.get(pid, []) if s})
         product_gold.append(
             {
                 "product_id": pid,
@@ -525,7 +552,7 @@ def build_gold_tables() -> dict[str, int]:
                 "source_status": "metadata_source_linked" if metadata_sources else "source_missing",
                 "reference_only_allowed": True,
                 "rx_eligible": bool(metadata_sources),
-                "notes": "Phase 2 product metadata linked to official generic label; Thai brand registration remains separate." if metadata_sources else "Workbook inventory seed only; product metadata not gold verified in Phase 1.",
+                "notes": "Gold product metadata linked to accepted official generic/product evidence; Thai brand registration remains separate unless Thai source is present." if metadata_sources else "Workbook inventory seed only; product metadata not gold verified.",
             }
         )
 
@@ -533,15 +560,14 @@ def build_gold_tables() -> dict[str, int]:
     for idx, row in enumerate(regimens):
         status = status_for_regimen(row)
         group = claim_groups.get((row.get("product_id", ""), row.get("disease_key", "")), {})
-        adult_required = ["adult_indication", "adult_dose", "adult_route", "adult_frequency", "adult_duration", "adult_max_dose", "contraindication", "precaution", "common_side_effect"]
-        if has_fields(group, adult_required):
+        if has_fields(group, ADULT_REQUIRED_FIELDS):
             status = "gold_ready_adult"
-            source_ids = sorted({claim.get("source_id", "") for claims in group.values() for claim in claims if claim.get("source_id")})
-            dose = "10 mg"
-            route = "PO"
-            frequency = "once daily"
-            duration = "symptomatic allergic-rhinitis use; local OPD supply may remain short-term"
-            max_dose = "10 mg/day"
+            source_ids = source_ids_for_claim_group(group)
+            dose = claim_value(group, "adult_dose", row.get("sig", ""))
+            route = claim_value(group, "adult_route", "PO")
+            frequency = claim_value(group, "adult_frequency", "")
+            duration = claim_value(group, "adult_duration", row.get("duration", ""))
+            max_dose = claim_value(group, "adult_max_dose", "")
             flags = True
         else:
             source_ids = [s for s in str(row.get("source_ids", "")).split(";") if s.strip()]
@@ -640,20 +666,21 @@ def build_gold_tables() -> dict[str, int]:
     safety_gold = []
     for row in products:
         pid = row.get("product_id", "")
-        cetirizine_safety = claim_groups.get((pid, "allergic_rhinitis_adult"), {}) if pid == "BDS004213" else {}
-        safety_ready = has_fields(cetirizine_safety, ["contraindication", "precaution", "common_side_effect", "pregnancy_lactation"])
-        safety_source_ids = sorted({claim.get("source_id", "") for claims in cetirizine_safety.values() for claim in claims if claim.get("source_id")}) if safety_ready else []
+        product_claim_groups = [group for (product_id, _disease), group in claim_groups.items() if product_id == pid]
+        safety_group = next((group for group in product_claim_groups if has_fields(group, ["contraindication", "precaution", "common_side_effect", "major_interaction", "pregnancy_lactation"])), {})
+        safety_ready = bool(safety_group)
+        safety_source_ids = source_ids_for_claim_group(safety_group) if safety_ready else []
         safety_gold.append(
             {
                 "safety_id": stable_id("safe", row.get("product_id")),
                 "product_id": pid,
                 "generic_name": row.get("generic_name", ""),
-                "contraindications": first_claim(cetirizine_safety, "contraindication").get("evidence_snippet", row.get("contraindication", "")),
-                "precautions": first_claim(cetirizine_safety, "precaution").get("evidence_snippet", row.get("caution", "")),
-                "common_side_effects": first_claim(cetirizine_safety, "common_side_effect").get("evidence_snippet", row.get("side_effect", "")),
+                "contraindications": first_claim(safety_group, "contraindication").get("evidence_snippet", row.get("contraindication", "")),
+                "precautions": first_claim(safety_group, "precaution").get("evidence_snippet", row.get("caution", "")),
+                "common_side_effects": first_claim(safety_group, "common_side_effect").get("evidence_snippet", row.get("side_effect", "")),
                 "serious_side_effects": "",
-                "major_interactions": "",
-                "pregnancy_lactation": first_claim(cetirizine_safety, "pregnancy_lactation").get("evidence_snippet", row.get("pregnancy_lactation", "")),
+                "major_interactions": first_claim(safety_group, "major_interaction").get("evidence_snippet", ""),
+                "pregnancy_lactation": first_claim(safety_group, "pregnancy_lactation").get("evidence_snippet", row.get("pregnancy_lactation", "")),
                 "pediatric_notes": "",
                 "renal_notes": "",
                 "hepatic_notes": "",
@@ -755,6 +782,81 @@ def build_rx_eligibility() -> dict[str, int]:
     return {"rx_now_ready": len(rx_now_ready), "swaps_ready": len(swaps_ready), "reference_only": len(reference_only), "blocked": len(blocked), "not_ready": len(not_ready)}
 
 
+def unique_coverage_reports() -> dict[str, int]:
+    rx = read_json(DATA_GOLD / "rx_eligibility_map.json", {})
+    ready = list(rx.get("rx_now_ready", []))
+    swaps = list(rx.get("swaps_ready", []))
+    all_ready = ready + swaps
+    pair_counts = Counter((row.get("product_id", ""), row.get("disease_key", "")) for row in all_ready)
+    duplicate_rows = sum(max(0, count - 1) for count in pair_counts.values())
+    rows = []
+    for row in all_ready:
+        rows.append(
+            {
+                "output_bucket": "RX NOW" if row in ready else "SWAP",
+                "product_id": row.get("product_id", ""),
+                "generic_name": row.get("generic_name", ""),
+                "disease_key": row.get("disease_key", ""),
+                "regimen_id": row.get("regimen_id", ""),
+                "final_rx_status": row.get("final_rx_status", ""),
+                "source_ids": row.get("source_ids", []),
+                "duplicate_product_disease_rows": pair_counts[(row.get("product_id", ""), row.get("disease_key", ""))],
+            }
+        )
+    write_csv(REPORT_GOLD / "gold_unique_coverage_report.csv", rows)
+    summary = {
+        "rx_now_rows": len(ready),
+        "swaps_rows": len(swaps),
+        "unique_products_rx_ready": len({row.get("product_id") for row in all_ready if row.get("product_id")}),
+        "unique_generic_names_rx_ready": len({row.get("generic_name") for row in all_ready if row.get("generic_name")}),
+        "unique_disease_keys_rx_ready": len({row.get("disease_key") for row in all_ready if row.get("disease_key")}),
+        "unique_product_disease_pairs_rx_ready": len(pair_counts),
+        "duplicate_row_count": duplicate_rows,
+    }
+    write_report(
+        REPORT_GOLD / "gold_unique_coverage_summary.md",
+        "Gold Unique Coverage Summary",
+        [f"- {key}: {value}" for key, value in summary.items()],
+    )
+    return summary
+
+
+def product_match_gap_report() -> None:
+    regimens = read_json(DATA_GOLD / "disease_regimen_gold.json", {"items": []}).get("items", [])
+    claims = evidence_claims()
+    evidence_generics = {str(claim.get("linked_generic_name", "")).lower() for claim in claims}
+    rows = []
+    for row in regimens:
+        if row.get("final_rx_status") != "source_missing_hide_from_rx":
+            continue
+        generic = str(row.get("generic_name", "")).lower()
+        reason = ""
+        if "ibuprofen" in generic:
+            reason = "DailyMed first-pack evidence found for 200 mg OTC ibuprofen label, but workbook row is 400 mg/combination or lacks exact strength/form match."
+        elif any(token and token in generic for token in evidence_generics):
+            reason = "Generic evidence exists, but this product/disease row lacks exact product, strength, form, route, or disease mapping evidence."
+        elif any(token in generic for token in ["ambroxol", "bromhexine", "acetylcysteine", "racecadotril", "sodium chloride"]):
+            reason = "High-priority OPD row still needs accredited source evidence and product-specific match."
+        if reason:
+            rows.append({**row, "product_match_gap_reason": reason})
+    write_csv(REPORT_GOLD / "product_match_gap_report.csv", rows)
+
+
+def swaps_tier_report() -> None:
+    swaps = read_json(DATA_GOLD / "rx_eligibility_map.json", {}).get("swaps_ready", [])
+    rows = []
+    for row in swaps:
+        line = str(row.get("line_of_therapy", "")).upper()
+        if "SWAP1" in line:
+            tier = "Tier 1 verified alternative"
+        elif "SWAP2" in line:
+            tier = "Tier 2 verified adjunct/supportive option"
+        else:
+            tier = "Tier 3 verified fallback/conditional option"
+        rows.append({**row, "swap_tier": tier})
+    write_csv(REPORT_GOLD / "swaps_tier_report.csv", rows)
+
+
 def validation_errors() -> list[str]:
     errors: list[str] = []
     products = read_json(DATA_GOLD / "product_master_gold.json", {"items": []}).get("items", [])
@@ -766,7 +868,8 @@ def validation_errors() -> list[str]:
     citations = read_json(DATA_GOLD / "source_citations_gold.json", {"items": []}).get("items", [])
     rx = read_json(DATA_GOLD / "rx_eligibility_map.json", {})
     source_ids = {c.get("source_id") for c in citations if c.get("source_id")}
-    safety_products = {s.get("product_id") for s in safety}
+    safety_by_product = {s.get("product_id"): s for s in safety}
+    safety_products = set(safety_by_product)
     alias_products = {a.get("product_id") for a in aliases}
     for table_name, rows, key in [
         ("product", products, "product_id"),
@@ -793,6 +896,9 @@ def validation_errors() -> list[str]:
                 errors.append(f"rx_ready_without_safety:{row.get('regimen_id')}")
             if row.get("product_id") not in safety_products:
                 errors.append(f"rx_ready_product_without_safety_row:{row.get('product_id')}")
+            safety_row = safety_by_product.get(row.get("product_id"), {})
+            if not all(safety_row.get(field) for field in ["contraindications", "precautions", "common_side_effects", "major_interactions", "pregnancy_lactation"]):
+                errors.append(f"rx_ready_product_missing_safety_field:{row.get('product_id')}")
             if row.get("product_id") not in alias_products:
                 errors.append(f"rx_ready_product_without_alias:{row.get('product_id')}")
     for row in rx.get("rx_now_ready", []):
@@ -884,7 +990,7 @@ def export_bundle() -> Path:
         encoding="utf-8",
     )
     patch_summary = REPORT_GOLD / "patch_summary.json"
-    write_json(patch_summary, {"created_at": now_iso(), "phase": "gold_phase_2_source_adapters_first_unlock", "promotion_run": False})
+    write_json(patch_summary, {"created_at": now_iso(), "phase": "gold_phase_3_opd_first_verified_pack", "promotion_run": False})
     with zipfile.ZipFile(bundle, "w", zipfile.ZIP_DEFLATED) as zf:
         for filename in GOLD_JSON_FILES:
             path = DATA_GOLD / filename
@@ -896,6 +1002,10 @@ def export_bundle() -> Path:
                 zf.write(path, f"review/{filename}")
         for extra in [
             REPORT_GOLD / "source_acquisition_queue.csv",
+            REPORT_GOLD / "gold_unique_coverage_report.csv",
+            REPORT_GOLD / "gold_unique_coverage_summary.md",
+            REPORT_GOLD / "product_match_gap_report.csv",
+            REPORT_GOLD / "swaps_tier_report.csv",
             REPORT_GOLD / "pediatric_formula_gap_report.csv",
             REPORT_GOLD / "antibiotic_gate_gap_report.csv",
             REPORT_GOLD / "safety_gap_report.csv",
@@ -922,6 +1032,7 @@ def final_summary(selected: dict[str, Any], query_count: int, counts: dict[str, 
     evidence_count = len(evidence_claims())
     conflicts = len(read_csv(REPORT_GOLD / "conflict_report.csv"))
     acquisition_queue = len(read_csv(REPORT_GOLD / "source_acquisition_queue.csv"))
+    unique = unique_coverage_reports()
     lines = [
         "Rows are unlocked only when exact source-backed field-level evidence passes validation. Workbook-only rows remain hidden from prescribing output.",
         f"- Workbook used: `{selected.get('selected_workbook') or 'none_found'}`",
@@ -932,6 +1043,11 @@ def final_summary(selected: dict[str, Any], query_count: int, counts: dict[str, 
         f"- Evidence fields extracted: {evidence_count}",
         f"- RX NOW ready count: {rx_counts.get('rx_now_ready', 0)}",
         f"- SWAPS ready count: {rx_counts.get('swaps_ready', 0)}",
+        f"- Unique products RX-ready: {unique.get('unique_products_rx_ready', 0)}",
+        f"- Unique generic names RX-ready: {unique.get('unique_generic_names_rx_ready', 0)}",
+        f"- Unique disease keys RX-ready: {unique.get('unique_disease_keys_rx_ready', 0)}",
+        f"- Unique product+disease pairs RX-ready: {unique.get('unique_product_disease_pairs_rx_ready', 0)}",
+        f"- Duplicate ready row count: {unique.get('duplicate_row_count', 0)}",
         f"- Pediatric formula-ready count: {sum(1 for row in read_json(DATA_GOLD / 'pediatric_dose_engine.json', {'items': []}).get('items', []) if row.get('pediatric_formula_ready'))}",
         f"- Antibiotic gate-ready count: {sum(1 for row in read_json(DATA_GOLD / 'antibiotic_gate_map.json', {'items': []}).get('items', []) if row.get('antibiotic_gate_ready'))}",
         f"- Reference-only count: {rx_counts.get('reference_only', 0)}",
@@ -959,6 +1075,9 @@ def run_pipeline() -> dict[str, Any]:
     write_json(DATA_GOLD / "source_citations_gold.json", {"items": []})
     counts = build_gold_tables()
     rx_counts = build_rx_eligibility()
+    unique_coverage_reports()
+    product_match_gap_report()
+    swaps_tier_report()
     gap_reports()
     copy_gold_to_dist()
     validation_code = validate_gold()
