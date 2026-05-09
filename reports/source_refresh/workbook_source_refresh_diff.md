@@ -1,5 +1,6 @@
 # Workbook Source Refresh Diff
 
 - Added source/citation/readiness refresh columns to regimen, pediatric, and antibiotic sheets.
-- No source-backed complete dose claims were available, so no row was promoted to ready.
+- Source acquisition claims are applied idempotently by regimen/product/disease key.
+- Rows are not promoted when source-backed claims conflict with the workbook row.
 - Unsupported rows remain source_gap, manual_review_required, blocked, or usable_with_warning.

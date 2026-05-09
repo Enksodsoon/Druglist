@@ -1,6 +1,8 @@
 # Workbook Source Refresh Report
 
-- Evidence claims available: 5
+- Starter evidence claims available: 5
+- Exact acquisition claims available: 4
+- First-unlock rows imported into workbook: 11
 - Ready rows after refresh: 0
 - Blocked/manual rows after refresh: 513
 - Refreshed workbook: `exports/Druglist_Data_Refresh_Master_SOURCE_REFRESHED.xlsx`

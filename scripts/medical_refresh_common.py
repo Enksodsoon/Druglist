@@ -29,6 +29,7 @@ TRUSTED_DOMAINS = [
     "fda.moph.go.th",
     "dms.moph.go.th",
     "moph.go.th",
+    "gov.br",
     "who.int",
     "cdc.gov",
     "nice.org.uk",

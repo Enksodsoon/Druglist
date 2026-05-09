@@ -9,16 +9,27 @@ from medical_refresh_common import EXPORT_DIR, read_json, write_csv, write_repor
 
 def main() -> int:
     claims = read_json("data/source_refresh/evidence_claims.json", {"claims": []}).get("claims", [])
+    exact_claims = read_json("data/source_refresh/exact_evidence_claims.json", {"claims": []}).get("claims", [])
+    unlock_rows = read_json("data/source_refresh/first_unlock_results.json", {"results": []}).get("results", [])
+    ready_claim_ids = {
+        claim_id.strip()
+        for row in unlock_rows
+        if row.get("final_verification_status") == "ready_source_verified"
+        for claim_id in str(row.get("evidence_claim_ids", "")).split(";")
+        if claim_id.strip()
+    }
     rows = []
-    for claim in claims:
+    for claim in claims + exact_claims:
+        claim_id = claim.get("claim_id", "")
         rows.append(
             {
+                "claim_id": claim_id,
                 "source_id": claim.get("source_id", ""),
                 "source_title": claim.get("source_title", ""),
                 "organization": claim.get("organization", ""),
-                "year_version": "",
-                "source_url_local_file": claim.get("source_url") or claim.get("local_file") or "",
-                "access_date": "",
+                "year_version": claim.get("year_version", ""),
+                "source_url_local_file": claim.get("source_url") or claim.get("local_file") or claim.get("url_or_file") or "",
+                "access_date": claim.get("access_date", ""),
                 "disease_key": claim.get("disease_key", ""),
                 "regimen_id": claim.get("regimen_id", ""),
                 "product_id": claim.get("product_id", ""),
@@ -26,12 +37,13 @@ def main() -> int:
                 "claim_type": claim.get("claim_type", ""),
                 "short_snippet": claim.get("short_snippet", ""),
                 "page_or_section": claim.get("page_or_section", ""),
-                "evidence_confidence": claim.get("evidence_confidence", ""),
+                "evidence_confidence": claim.get("evidence_confidence", claim.get("confidence_score", "")),
                 "row_status": claim.get("status", ""),
-                "used_for_ready": "yes" if claim.get("status") == "auto_verified" and not claim.get("missing_required_fields") else "no",
+                "used_for_ready": "yes" if claim_id in ready_claim_ids else "no",
             }
         )
     columns = union_columns(rows, [
+        "claim_id",
         "source_id",
         "source_title",
         "organization",
@@ -63,6 +75,7 @@ def main() -> int:
         [
             f"- Citation rows: {len(rows)}",
             f"- Used for ready rows: {sum(1 for row in rows if row['used_for_ready'] == 'yes')}",
+            f"- Exact acquisition claims included: {len(exact_claims)}",
             "- Any disease/regimen without a ready citation cannot be marked ready.",
         ],
     )
