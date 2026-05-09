@@ -1,3 +1,11 @@
 .DS_Store
 data/source_refresh/cache/
 data/source_refresh/source_text/
+imports/raw_sources/*
+imports/processed_sources/*
+imports/rejected_sources/*
+imports/logs/*
+!imports/raw_sources/.gitignore
+!imports/processed_sources/.gitignore
+!imports/rejected_sources/.gitignore
+!imports/logs/.gitignore
