@@ -1,22 +1,24 @@
 {
   "items": [
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "( 4 ) 5 WARNINGS AND PRECAUTIONS Anaphylactic reactions: Serious and occasionally fatal anaphylactic reactions have been reported in patients on penicillin therapy, including amoxicillin. Discontinue amoxicillin if a reaction occurs ( 5.1 ). Severe cutaneous adverse reactions (SCAR): Monitor closely. Discontinue if rash progresses. ( 5.2 ) Drug-induced enterocolitis syndrome (DIES) has been reported with amoxicillin use. If this occurs, discontinue amoxicillin and institute appropriate therapy. ( 5.3 ) Clostridiod",
+      "contraindications": "g/5 mL. Each 5 mL of reconstituted suspension contains 125 mg, 200 mg, 250 mg or 400 mg amoxicillin as the trihydrate. Capsules: 250 mg, 500 mg ( 3 ) Tablets: 500 mg, 875 mg ( 3 ) For Oral Suspension: 125 mg/5 mL, 200 mg/5 mL, 250 mg/5 mL, 400 mg/5 mL ( 3 ) 4 CONTRAINDICATIONS Amoxicillin is contraindicated in patients who have experienced a serious hypersensitivity reaction (e.g., anaphylaxis or Stevens-Johnson syndrome) to amoxicillin or to other β-lactam antibacterial drugs (e.g., penicillins and cephalosporins)",
       "generic_name": "Amoxicillin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "and/or dizziness have been reported. Miscellaneous: Tooth discoloration (brown, yellow, or gray staining) has been reported. Most reports occurred in pediatric patients. Discoloration was reduced or eliminated with brushing or dental cleaning in most cases. 7 DRUG INTERACTIONS Co-administration with probenicid is not recommended ( 7.1 ) Concomitant use of amoxicillin and oral anticoagulants may increase the prolongation of prothrombin time. ( 7.2 ) Coadministration with allopurinol increases the risk of rash. ( 7.3",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "TITANIUM DIOXIDE GELATIN, UNSPECIFIED MICROCRYSTALLINE CELLULOSE MAGNESIUM STEARATE SHELLAC ISOPROPYL ALCOHOL BUTYL ALCOHOL PROPYLENE GLYCOL FERROSOFERRIC OXIDE AMMONIA POTASSIUM HYDROXIDE WATER ALCOHOL AMOXICILLIN AMOXICILLIN ANHYDROUS Opaque AMOX;250;GG;848 Warnings and Precautions, Drug-Induced Enterocolitis Syndrome (DIES) ( 5.3 ) 02/2024 1 INDICATIONS AND USAGE Adults and Pediatric Patients Upper Respiratory Tract Infections of the Ear, Nose, and Throat Amoxicillin is indicated in the treatment of infections d",
+      "pregnancy_lactation": "e used. Following administration of ampicillin or amoxicillin to pregnant women, a transient decrease in plasma concentration of total conjugated estriol, estriol-glucuronide, conjugated estrone, and estradiol has been noted. 8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (3 and 6 times the 3 g human dose, based on body surface area). There was no evidence of harm to the fetus due to amoxicill",
       "product_id": "BDS040078",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_9a6128a726d2",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_4d2e34729e5e"
+      ]
     },
     {
       "common_side_effects": "",
@@ -73,40 +75,44 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "med. 5.9 Development of Drug-Resistant Bacteria Prescribing azithromycin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. 6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in labeling: Hypersensitivity [see WARNINGS AND PRECAUTIONS ( 5.1 )] Hepatotoxicity [see WARNINGS AND PRECAUTIONS ( 5.2 )] Infantile Hypertrophic Pyloric Stenosis",
+      "contraindications": "Keep azithromycin tablets and all medicines out of the reach of children. General information about the safe and effective use of azithromycin tablets. Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet. Do not use azithromycin tablets for a condition for which it was not prescribed. Do not give azithromycin tablets to other people, even if they have the same symptoms you have. It may harm them. This Patient Information leaflet summarizes the most important in",
       "generic_name": "Azithromycin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "3 comparator patients. No patient had an absolute neutrophil count &lt;500 cells/mm 3 . In multiple-dose clinical trials involving approximately 4700 pediatric patients, no patients discontinued therapy because of treatment-related laboratory abnormalities. 7 DRUG INTERACTIONS Nelfinavir: Close monitoring for known adverse reactions of azithromycin, such as liver enzyme abnormalities and hearing impairment, is warranted. ( 7.1 ) Warfarin: Use with azithromycin may increase coagulation times; monitor prothrombin tim",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "OSPHATE, DIBASIC, ANHYDROUS CROSCARMELLOSE SODIUM D&amp;C RED NO. 30 HYPROMELLOSE 2910 (15 MPA.S) LACTOSE MONOHYDRATE MAGNESIUM STEARATE SODIUM LAURYL SULFATE TITANIUM DIOXIDE TRIACETIN AZITHROMYCIN DIHYDRATE AZITHROMYCIN ANHYDROUS LU;L04 RECENT MAJOR CHANGES Warnings and Precautions, Cardiovascular Death ( 5.5 ) 11/2021 1 INDICATIONS AND USAGE Azithromycin tablets are a macrolide antibacterial drug indicated for mild to moderate infections caused by designated, susceptible bacteria: Acute bacterial exacerbations o",
+      "pregnancy_lactation": "IC POPULATIONS Pediatric use: Safety and effectiveness in the treatment of patients under 6 months of age have not been established. ( 8.4 ) Geriatric use: Elderly patients may be more susceptible to development of torsades de pointes arrhythmias. ( 8.5 ) 8.1 Pregnancy Risk Summary Available data from published literature and postmarketing experience over several decades with azithromycin use in pregnant women have not identified any drug-associated risks for major birth defects, miscarriage, or adverse maternal or",
       "product_id": "BDS001494",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_2a8dce298076",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_71b190e0aced"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "med. 5.9 Development of Drug-Resistant Bacteria Prescribing azithromycin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. 6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in labeling: Hypersensitivity [see WARNINGS AND PRECAUTIONS ( 5.1 )] Hepatotoxicity [see WARNINGS AND PRECAUTIONS ( 5.2 )] Infantile Hypertrophic Pyloric Stenosis",
+      "contraindications": "Keep azithromycin tablets and all medicines out of the reach of children. General information about the safe and effective use of azithromycin tablets. Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet. Do not use azithromycin tablets for a condition for which it was not prescribed. Do not give azithromycin tablets to other people, even if they have the same symptoms you have. It may harm them. This Patient Information leaflet summarizes the most important in",
       "generic_name": "Azithromycin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "3 comparator patients. No patient had an absolute neutrophil count &lt;500 cells/mm 3 . In multiple-dose clinical trials involving approximately 4700 pediatric patients, no patients discontinued therapy because of treatment-related laboratory abnormalities. 7 DRUG INTERACTIONS Nelfinavir: Close monitoring for known adverse reactions of azithromycin, such as liver enzyme abnormalities and hearing impairment, is warranted. ( 7.1 ) Warfarin: Use with azithromycin may increase coagulation times; monitor prothrombin tim",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "OSPHATE, DIBASIC, ANHYDROUS CROSCARMELLOSE SODIUM D&amp;C RED NO. 30 HYPROMELLOSE 2910 (15 MPA.S) LACTOSE MONOHYDRATE MAGNESIUM STEARATE SODIUM LAURYL SULFATE TITANIUM DIOXIDE TRIACETIN AZITHROMYCIN DIHYDRATE AZITHROMYCIN ANHYDROUS LU;L04 RECENT MAJOR CHANGES Warnings and Precautions, Cardiovascular Death ( 5.5 ) 11/2021 1 INDICATIONS AND USAGE Azithromycin tablets are a macrolide antibacterial drug indicated for mild to moderate infections caused by designated, susceptible bacteria: Acute bacterial exacerbations o",
+      "pregnancy_lactation": "IC POPULATIONS Pediatric use: Safety and effectiveness in the treatment of patients under 6 months of age have not been established. ( 8.4 ) Geriatric use: Elderly patients may be more susceptible to development of torsades de pointes arrhythmias. ( 8.5 ) 8.1 Pregnancy Risk Summary Available data from published literature and postmarketing experience over several decades with azithromycin use in pregnant women have not identified any drug-associated risks for major birth defects, miscarriage, or adverse maternal or",
       "product_id": "BDS006115",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_511c73249b91",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_bd0cc8feb038"
+      ]
     },
     {
       "common_side_effects": "",
@@ -217,40 +223,44 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "med. 5.9 Development of Drug-Resistant Bacteria Prescribing azithromycin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. 6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in labeling: Hypersensitivity [see WARNINGS AND PRECAUTIONS ( 5.1 )] Hepatotoxicity [see WARNINGS AND PRECAUTIONS ( 5.2 )] Infantile Hypertrophic Pyloric Stenosis",
+      "contraindications": "Keep azithromycin tablets and all medicines out of the reach of children. General information about the safe and effective use of azithromycin tablets. Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet. Do not use azithromycin tablets for a condition for which it was not prescribed. Do not give azithromycin tablets to other people, even if they have the same symptoms you have. It may harm them. This Patient Information leaflet summarizes the most important in",
       "generic_name": "Azithromycin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "3 comparator patients. No patient had an absolute neutrophil count &lt;500 cells/mm 3 . In multiple-dose clinical trials involving approximately 4700 pediatric patients, no patients discontinued therapy because of treatment-related laboratory abnormalities. 7 DRUG INTERACTIONS Nelfinavir: Close monitoring for known adverse reactions of azithromycin, such as liver enzyme abnormalities and hearing impairment, is warranted. ( 7.1 ) Warfarin: Use with azithromycin may increase coagulation times; monitor prothrombin tim",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "OSPHATE, DIBASIC, ANHYDROUS CROSCARMELLOSE SODIUM D&amp;C RED NO. 30 HYPROMELLOSE 2910 (15 MPA.S) LACTOSE MONOHYDRATE MAGNESIUM STEARATE SODIUM LAURYL SULFATE TITANIUM DIOXIDE TRIACETIN AZITHROMYCIN DIHYDRATE AZITHROMYCIN ANHYDROUS LU;L04 RECENT MAJOR CHANGES Warnings and Precautions, Cardiovascular Death ( 5.5 ) 11/2021 1 INDICATIONS AND USAGE Azithromycin tablets are a macrolide antibacterial drug indicated for mild to moderate infections caused by designated, susceptible bacteria: Acute bacterial exacerbations o",
+      "pregnancy_lactation": "IC POPULATIONS Pediatric use: Safety and effectiveness in the treatment of patients under 6 months of age have not been established. ( 8.4 ) Geriatric use: Elderly patients may be more susceptible to development of torsades de pointes arrhythmias. ( 8.5 ) 8.1 Pregnancy Risk Summary Available data from published literature and postmarketing experience over several decades with azithromycin use in pregnant women have not identified any drug-associated risks for major birth defects, miscarriage, or adverse maternal or",
       "product_id": "BDS001943",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_5762b5d7b757",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_912ae06e8a00"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "( 4 ) 5 WARNINGS AND PRECAUTIONS Anaphylactic reactions: Serious and occasionally fatal anaphylactic reactions have been reported in patients on penicillin therapy, including amoxicillin. Discontinue amoxicillin if a reaction occurs ( 5.1 ). Severe cutaneous adverse reactions (SCAR): Monitor closely. Discontinue if rash progresses. ( 5.2 ) Drug-induced enterocolitis syndrome (DIES) has been reported with amoxicillin use. If this occurs, discontinue amoxicillin and institute appropriate therapy. ( 5.3 ) Clostridiod",
+      "contraindications": "g/5 mL. Each 5 mL of reconstituted suspension contains 125 mg, 200 mg, 250 mg or 400 mg amoxicillin as the trihydrate. Capsules: 250 mg, 500 mg ( 3 ) Tablets: 500 mg, 875 mg ( 3 ) For Oral Suspension: 125 mg/5 mL, 200 mg/5 mL, 250 mg/5 mL, 400 mg/5 mL ( 3 ) 4 CONTRAINDICATIONS Amoxicillin is contraindicated in patients who have experienced a serious hypersensitivity reaction (e.g., anaphylaxis or Stevens-Johnson syndrome) to amoxicillin or to other β-lactam antibacterial drugs (e.g., penicillins and cephalosporins)",
       "generic_name": "Amoxicillin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "and/or dizziness have been reported. Miscellaneous: Tooth discoloration (brown, yellow, or gray staining) has been reported. Most reports occurred in pediatric patients. Discoloration was reduced or eliminated with brushing or dental cleaning in most cases. 7 DRUG INTERACTIONS Co-administration with probenicid is not recommended ( 7.1 ) Concomitant use of amoxicillin and oral anticoagulants may increase the prolongation of prothrombin time. ( 7.2 ) Coadministration with allopurinol increases the risk of rash. ( 7.3",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "TITANIUM DIOXIDE GELATIN, UNSPECIFIED MICROCRYSTALLINE CELLULOSE MAGNESIUM STEARATE SHELLAC ISOPROPYL ALCOHOL BUTYL ALCOHOL PROPYLENE GLYCOL FERROSOFERRIC OXIDE AMMONIA POTASSIUM HYDROXIDE WATER ALCOHOL AMOXICILLIN AMOXICILLIN ANHYDROUS Opaque AMOX;250;GG;848 Warnings and Precautions, Drug-Induced Enterocolitis Syndrome (DIES) ( 5.3 ) 02/2024 1 INDICATIONS AND USAGE Adults and Pediatric Patients Upper Respiratory Tract Infections of the Ear, Nose, and Throat Amoxicillin is indicated in the treatment of infections d",
+      "pregnancy_lactation": "e used. Following administration of ampicillin or amoxicillin to pregnant women, a transient decrease in plasma concentration of total conjugated estriol, estriol-glucuronide, conjugated estrone, and estradiol has been noted. 8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (3 and 6 times the 3 g human dose, based on body surface area). There was no evidence of harm to the fetus due to amoxicill",
       "product_id": "BDS002201",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_5dcd104816cb",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_a01c55744ab8"
+      ]
     },
     {
       "common_side_effects": "",
@@ -379,40 +389,44 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "( 4 ) 5 WARNINGS AND PRECAUTIONS Anaphylactic reactions: Serious and occasionally fatal anaphylactic reactions have been reported in patients on penicillin therapy, including amoxicillin. Discontinue amoxicillin if a reaction occurs ( 5.1 ). Severe cutaneous adverse reactions (SCAR): Monitor closely. Discontinue if rash progresses. ( 5.2 ) Drug-induced enterocolitis syndrome (DIES) has been reported with amoxicillin use. If this occurs, discontinue amoxicillin and institute appropriate therapy. ( 5.3 ) Clostridiod",
+      "contraindications": "g/5 mL. Each 5 mL of reconstituted suspension contains 125 mg, 200 mg, 250 mg or 400 mg amoxicillin as the trihydrate. Capsules: 250 mg, 500 mg ( 3 ) Tablets: 500 mg, 875 mg ( 3 ) For Oral Suspension: 125 mg/5 mL, 200 mg/5 mL, 250 mg/5 mL, 400 mg/5 mL ( 3 ) 4 CONTRAINDICATIONS Amoxicillin is contraindicated in patients who have experienced a serious hypersensitivity reaction (e.g., anaphylaxis or Stevens-Johnson syndrome) to amoxicillin or to other β-lactam antibacterial drugs (e.g., penicillins and cephalosporins)",
       "generic_name": "Amoxicillin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "and/or dizziness have been reported. Miscellaneous: Tooth discoloration (brown, yellow, or gray staining) has been reported. Most reports occurred in pediatric patients. Discoloration was reduced or eliminated with brushing or dental cleaning in most cases. 7 DRUG INTERACTIONS Co-administration with probenicid is not recommended ( 7.1 ) Concomitant use of amoxicillin and oral anticoagulants may increase the prolongation of prothrombin time. ( 7.2 ) Coadministration with allopurinol increases the risk of rash. ( 7.3",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "TITANIUM DIOXIDE GELATIN, UNSPECIFIED MICROCRYSTALLINE CELLULOSE MAGNESIUM STEARATE SHELLAC ISOPROPYL ALCOHOL BUTYL ALCOHOL PROPYLENE GLYCOL FERROSOFERRIC OXIDE AMMONIA POTASSIUM HYDROXIDE WATER ALCOHOL AMOXICILLIN AMOXICILLIN ANHYDROUS Opaque AMOX;250;GG;848 Warnings and Precautions, Drug-Induced Enterocolitis Syndrome (DIES) ( 5.3 ) 02/2024 1 INDICATIONS AND USAGE Adults and Pediatric Patients Upper Respiratory Tract Infections of the Ear, Nose, and Throat Amoxicillin is indicated in the treatment of infections d",
+      "pregnancy_lactation": "e used. Following administration of ampicillin or amoxicillin to pregnant women, a transient decrease in plasma concentration of total conjugated estriol, estriol-glucuronide, conjugated estrone, and estradiol has been noted. 8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (3 and 6 times the 3 g human dose, based on body surface area). There was no evidence of harm to the fetus due to amoxicill",
       "product_id": "BDS007007",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_6bc32e7b5687",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_61dd8cfe5255"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "med. 5.9 Development of Drug-Resistant Bacteria Prescribing azithromycin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. 6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in labeling: Hypersensitivity [see WARNINGS AND PRECAUTIONS ( 5.1 )] Hepatotoxicity [see WARNINGS AND PRECAUTIONS ( 5.2 )] Infantile Hypertrophic Pyloric Stenosis",
+      "contraindications": "Keep azithromycin tablets and all medicines out of the reach of children. General information about the safe and effective use of azithromycin tablets. Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet. Do not use azithromycin tablets for a condition for which it was not prescribed. Do not give azithromycin tablets to other people, even if they have the same symptoms you have. It may harm them. This Patient Information leaflet summarizes the most important in",
       "generic_name": "Azithromycin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "3 comparator patients. No patient had an absolute neutrophil count &lt;500 cells/mm 3 . In multiple-dose clinical trials involving approximately 4700 pediatric patients, no patients discontinued therapy because of treatment-related laboratory abnormalities. 7 DRUG INTERACTIONS Nelfinavir: Close monitoring for known adverse reactions of azithromycin, such as liver enzyme abnormalities and hearing impairment, is warranted. ( 7.1 ) Warfarin: Use with azithromycin may increase coagulation times; monitor prothrombin tim",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "OSPHATE, DIBASIC, ANHYDROUS CROSCARMELLOSE SODIUM D&amp;C RED NO. 30 HYPROMELLOSE 2910 (15 MPA.S) LACTOSE MONOHYDRATE MAGNESIUM STEARATE SODIUM LAURYL SULFATE TITANIUM DIOXIDE TRIACETIN AZITHROMYCIN DIHYDRATE AZITHROMYCIN ANHYDROUS LU;L04 RECENT MAJOR CHANGES Warnings and Precautions, Cardiovascular Death ( 5.5 ) 11/2021 1 INDICATIONS AND USAGE Azithromycin tablets are a macrolide antibacterial drug indicated for mild to moderate infections caused by designated, susceptible bacteria: Acute bacterial exacerbations o",
+      "pregnancy_lactation": "IC POPULATIONS Pediatric use: Safety and effectiveness in the treatment of patients under 6 months of age have not been established. ( 8.4 ) Geriatric use: Elderly patients may be more susceptible to development of torsades de pointes arrhythmias. ( 8.5 ) 8.1 Pregnancy Risk Summary Available data from published literature and postmarketing experience over several decades with azithromycin use in pregnant women have not identified any drug-associated risks for major birth defects, miscarriage, or adverse maternal or",
       "product_id": "BDS049776",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_cba802089a4d",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_d959d0dd174c"
+      ]
     },
     {
       "common_side_effects": "",
@@ -577,22 +591,24 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "re.] Inactive ingredients Anhydrous lactose, colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, titanium dioxide, and triacetin Questions? 1-800-848-0462 • Serious side effects associated with use of this product may be reported to this number. HOW SUPPLIED Cetirizine Hydrochloride Tablets, USP are available as follows: 10 mg - White, film-coated, round, biconvex, beveled edge, unscored tablets debossed with M on one sid",
+      "contraindications": "LOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYDEXTROSE POLYETHYLENE GLYCOL, UNSPECIFIED SODIUM LAURYL SULFATE TITANIUM DIOXIDE TRIACETIN M;C37 CETIRIZINE HCl 10 mg TABLETS, USP Antihistamine Indoor &amp; Outdoor Allergies TAMPER EVIDENT: DO NOT USE IF BLISTER UNITS ARE TORN, BROKEN OR SHOW ANY SIGNS OF TAMPERING. Active ingredient (in each tablet) Cetirizine Hydrochloride, USP 10 mg Purpose Antihistamine Uses temporarily relieves these symptoms due to hay fever or other upper respiratory aller",
       "generic_name": "Cetirizine dihydrochloride",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product • drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicl",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "er upper respiratory allergies: • runny nose • sneezing • itchy, watery eyes • itching of the nose or throat Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product • drowsiness may occur • avoid a",
+      "pregnancy_lactation": "avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: • if breast-feeding: not recommended • if pregnant: ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Directions (24 Hour Relief",
       "product_id": "BDS040029",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_135f945693b5",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_bb16ba8d05e6"
+      ]
     },
     {
       "common_side_effects": "",
@@ -865,40 +881,44 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "hould be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients. A causal association between montelukast sodium and these underlying conditions has not been established [see Adverse Reactions ( 6.2 )]. 5.6 Risk in Patients with Phenylketonuria Montelukast sodium contains aspartame, a source of phenylalanine. Phenylalanine can be harmful to patients with phenylketonuria (PKU). Each 4 mg and 5 mg chewable tablet contains 0.674 mg an",
+      "contraindications": "ay from light. • Keep montelukast sodium and all medicines out of the reach of children. General information about the safe and effective use of montelukast sodium. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use montelukast sodium for a condition for which it was not prescribed. Do not give montelukast sodium to other people even if they have the same symptoms you have. It may harm them. You can ask your pharmacist or healthcare provider for information abo",
       "generic_name": "Montelukast Sodium",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ciated with the reduction of oral corticosteroid therapy. Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients [see Warnings and Precautions ( 5.5 )] 7 DRUG INTERACTIONS No dose adjustment is needed when montelukast sodium is co-administered with theophylline, prednisone, prednisolone, oral contraceptives, fexofenadine, digoxin, warfarin, gemfibrozil, itraconazole, thyroid hormones, sedative hypnotics, non-st",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "and included, but were not limited to, agitation, aggression, depression, sleep disturbances, suicidal thoughts and behavior (including suicide). The mechanisms underlying NP events associated with montelukast sodium use are currently not well understood [see Warnings and Precautions( 5.1 )] . Because of the risk of NP events, the benefits of montelukast sodium may not outweigh the risks in some patients, particularly when the symptoms of disease may be mild and adequately treated with alternative therapies. Reserv",
+      "pregnancy_lactation": "rfarin, gemfibrozil, itraconazole, thyroid hormones, sedative hypnotics, non-steroidal anti-inflammatory agents, benzodiazepines, decongestants, and Cytochrome P450 (CYP) enzyme inducers [see Clinical Pharmacology ( 12.3 )] . 8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Available data from published prospective and retrospective cohort studies over decades with montelukast use in pregnant women have not established a drug-associated risk of major birth defects [see Data] . In animal reproduction studies",
       "product_id": "BDS003427",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_6afb7cf3d058",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_47b67ac2410a"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "hould be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients. A causal association between montelukast sodium and these underlying conditions has not been established [see Adverse Reactions ( 6.2 )]. 5.6 Risk in Patients with Phenylketonuria Montelukast sodium contains aspartame, a source of phenylalanine. Phenylalanine can be harmful to patients with phenylketonuria (PKU). Each 4 mg and 5 mg chewable tablet contains 0.674 mg an",
+      "contraindications": "ay from light. • Keep montelukast sodium and all medicines out of the reach of children. General information about the safe and effective use of montelukast sodium. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use montelukast sodium for a condition for which it was not prescribed. Do not give montelukast sodium to other people even if they have the same symptoms you have. It may harm them. You can ask your pharmacist or healthcare provider for information abo",
       "generic_name": "Montelukast",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ciated with the reduction of oral corticosteroid therapy. Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients [see Warnings and Precautions ( 5.5 )] 7 DRUG INTERACTIONS No dose adjustment is needed when montelukast sodium is co-administered with theophylline, prednisone, prednisolone, oral contraceptives, fexofenadine, digoxin, warfarin, gemfibrozil, itraconazole, thyroid hormones, sedative hypnotics, non-st",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "and included, but were not limited to, agitation, aggression, depression, sleep disturbances, suicidal thoughts and behavior (including suicide). The mechanisms underlying NP events associated with montelukast sodium use are currently not well understood [see Warnings and Precautions( 5.1 )] . Because of the risk of NP events, the benefits of montelukast sodium may not outweigh the risks in some patients, particularly when the symptoms of disease may be mild and adequately treated with alternative therapies. Reserv",
+      "pregnancy_lactation": "rfarin, gemfibrozil, itraconazole, thyroid hormones, sedative hypnotics, non-steroidal anti-inflammatory agents, benzodiazepines, decongestants, and Cytochrome P450 (CYP) enzyme inducers [see Clinical Pharmacology ( 12.3 )] . 8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Available data from published prospective and retrospective cohort studies over decades with montelukast use in pregnant women have not established a drug-associated risk of major birth defects [see Data] . In animal reproduction studies",
       "product_id": "BDS044924",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_23c84aae486b",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_f6f4606e5675"
+      ]
     },
     {
       "common_side_effects": "",
@@ -937,40 +957,44 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "hould be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients. A causal association between montelukast sodium and these underlying conditions has not been established [see Adverse Reactions ( 6.2 )]. 5.6 Risk in Patients with Phenylketonuria Montelukast sodium contains aspartame, a source of phenylalanine. Phenylalanine can be harmful to patients with phenylketonuria (PKU). Each 4 mg and 5 mg chewable tablet contains 0.674 mg an",
+      "contraindications": "ay from light. • Keep montelukast sodium and all medicines out of the reach of children. General information about the safe and effective use of montelukast sodium. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use montelukast sodium for a condition for which it was not prescribed. Do not give montelukast sodium to other people even if they have the same symptoms you have. It may harm them. You can ask your pharmacist or healthcare provider for information abo",
       "generic_name": "Montelukast Sodium",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ciated with the reduction of oral corticosteroid therapy. Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients [see Warnings and Precautions ( 5.5 )] 7 DRUG INTERACTIONS No dose adjustment is needed when montelukast sodium is co-administered with theophylline, prednisone, prednisolone, oral contraceptives, fexofenadine, digoxin, warfarin, gemfibrozil, itraconazole, thyroid hormones, sedative hypnotics, non-st",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "and included, but were not limited to, agitation, aggression, depression, sleep disturbances, suicidal thoughts and behavior (including suicide). The mechanisms underlying NP events associated with montelukast sodium use are currently not well understood [see Warnings and Precautions( 5.1 )] . Because of the risk of NP events, the benefits of montelukast sodium may not outweigh the risks in some patients, particularly when the symptoms of disease may be mild and adequately treated with alternative therapies. Reserv",
+      "pregnancy_lactation": "rfarin, gemfibrozil, itraconazole, thyroid hormones, sedative hypnotics, non-steroidal anti-inflammatory agents, benzodiazepines, decongestants, and Cytochrome P450 (CYP) enzyme inducers [see Clinical Pharmacology ( 12.3 )] . 8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Available data from published prospective and retrospective cohort studies over decades with montelukast use in pregnant women have not established a drug-associated risk of major birth defects [see Data] . In animal reproduction studies",
       "product_id": "BDS003511",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_f06b3f9b6a94",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_6d21b9d1f239"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "hould be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients. A causal association between montelukast sodium and these underlying conditions has not been established [see Adverse Reactions ( 6.2 )]. 5.6 Risk in Patients with Phenylketonuria Montelukast sodium contains aspartame, a source of phenylalanine. Phenylalanine can be harmful to patients with phenylketonuria (PKU). Each 4 mg and 5 mg chewable tablet contains 0.674 mg an",
+      "contraindications": "ay from light. • Keep montelukast sodium and all medicines out of the reach of children. General information about the safe and effective use of montelukast sodium. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use montelukast sodium for a condition for which it was not prescribed. Do not give montelukast sodium to other people even if they have the same symptoms you have. It may harm them. You can ask your pharmacist or healthcare provider for information abo",
       "generic_name": "Montelukast Sodium",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ciated with the reduction of oral corticosteroid therapy. Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients [see Warnings and Precautions ( 5.5 )] 7 DRUG INTERACTIONS No dose adjustment is needed when montelukast sodium is co-administered with theophylline, prednisone, prednisolone, oral contraceptives, fexofenadine, digoxin, warfarin, gemfibrozil, itraconazole, thyroid hormones, sedative hypnotics, non-st",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "and included, but were not limited to, agitation, aggression, depression, sleep disturbances, suicidal thoughts and behavior (including suicide). The mechanisms underlying NP events associated with montelukast sodium use are currently not well understood [see Warnings and Precautions( 5.1 )] . Because of the risk of NP events, the benefits of montelukast sodium may not outweigh the risks in some patients, particularly when the symptoms of disease may be mild and adequately treated with alternative therapies. Reserv",
+      "pregnancy_lactation": "rfarin, gemfibrozil, itraconazole, thyroid hormones, sedative hypnotics, non-steroidal anti-inflammatory agents, benzodiazepines, decongestants, and Cytochrome P450 (CYP) enzyme inducers [see Clinical Pharmacology ( 12.3 )] . 8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Available data from published prospective and retrospective cohort studies over decades with montelukast use in pregnant women have not established a drug-associated risk of major birth defects [see Data] . In animal reproduction studies",
       "product_id": "BDS047722",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_2699b7b03fe0",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_f1e4ebd069b2"
+      ]
     },
     {
       "common_side_effects": "",
@@ -1155,22 +1179,24 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "re.] Inactive ingredients Anhydrous lactose, colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, titanium dioxide, and triacetin Questions? 1-800-848-0462 • Serious side effects associated with use of this product may be reported to this number. HOW SUPPLIED Cetirizine Hydrochloride Tablets, USP are available as follows: 10 mg - White, film-coated, round, biconvex, beveled edge, unscored tablets debossed with M on one sid",
+      "contraindications": "LOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYDEXTROSE POLYETHYLENE GLYCOL, UNSPECIFIED SODIUM LAURYL SULFATE TITANIUM DIOXIDE TRIACETIN M;C37 CETIRIZINE HCl 10 mg TABLETS, USP Antihistamine Indoor &amp; Outdoor Allergies TAMPER EVIDENT: DO NOT USE IF BLISTER UNITS ARE TORN, BROKEN OR SHOW ANY SIGNS OF TAMPERING. Active ingredient (in each tablet) Cetirizine Hydrochloride, USP 10 mg Purpose Antihistamine Uses temporarily relieves these symptoms due to hay fever or other upper respiratory aller",
       "generic_name": "Cetirizine dihydrochloride",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product • drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicl",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "er upper respiratory allergies: • runny nose • sneezing • itchy, watery eyes • itching of the nose or throat Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product • drowsiness may occur • avoid a",
+      "pregnancy_lactation": "avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: • if breast-feeding: not recommended • if pregnant: ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Directions (24 Hour Relief",
       "product_id": "BDS004224",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_69d38c9d2de8",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_0d0114ffb85b"
+      ]
     },
     {
       "common_side_effects": "",
@@ -1207,62 +1233,69 @@
       "safety_source_level": "official_product_label",
       "serious_side_effects": "",
       "source_ids": [
+        "dailymed_adaf88d76a7b",
         "dailymed_cetirizine_10mg_tablet_f756d3b1"
       ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "re.] Inactive ingredients Anhydrous lactose, colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, titanium dioxide, and triacetin Questions? 1-800-848-0462 • Serious side effects associated with use of this product may be reported to this number. HOW SUPPLIED Cetirizine Hydrochloride Tablets, USP are available as follows: 10 mg - White, film-coated, round, biconvex, beveled edge, unscored tablets debossed with M on one sid",
+      "contraindications": "LOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYDEXTROSE POLYETHYLENE GLYCOL, UNSPECIFIED SODIUM LAURYL SULFATE TITANIUM DIOXIDE TRIACETIN M;C37 CETIRIZINE HCl 10 mg TABLETS, USP Antihistamine Indoor &amp; Outdoor Allergies TAMPER EVIDENT: DO NOT USE IF BLISTER UNITS ARE TORN, BROKEN OR SHOW ANY SIGNS OF TAMPERING. Active ingredient (in each tablet) Cetirizine Hydrochloride, USP 10 mg Purpose Antihistamine Uses temporarily relieves these symptoms due to hay fever or other upper respiratory aller",
       "generic_name": "Cetirizine dihydrochloride",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product • drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicl",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "er upper respiratory allergies: • runny nose • sneezing • itchy, watery eyes • itching of the nose or throat Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product • drowsiness may occur • avoid a",
+      "pregnancy_lactation": "avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: • if breast-feeding: not recommended • if pregnant: ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Directions (24 Hour Relief",
       "product_id": "BDS008754",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_71b386936ffe",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_9804f2cb48f0"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "tranquilizers When using this product avoid alcoholic drinks marked drowsiness may occur alcohol, sedatives and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children Stop use and ask a doctor if pain or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a s",
+      "contraindications": "isters rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting consult a doctor promptly. Do not use in a child under 12 years of age if you are allergic to acetaminophen with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are n",
       "generic_name": "Chlorpheniramine Maleate",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ver disease a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland cough that occurs with too much phlegm (mucus) cough that lasts or is chronic such as occurs with smoking, asthma or emphysema Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers When using this product avoid alcoholic drinks marked drowsiness may occur alcohol, sedatives and tranquilizers may increase drowsiness b",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "I) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland cough that occurs with too much phlegm (mucus) cough that lasts or is chronic such as occ",
+      "pregnancy_lactation": "ctor if pain or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even i",
       "product_id": "BDS001008",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_49c303f025ea",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_239977d939c2"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "tranquilizers When using this product avoid alcoholic drinks marked drowsiness may occur alcohol, sedatives and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children Stop use and ask a doctor if pain or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a s",
+      "contraindications": "isters rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting consult a doctor promptly. Do not use in a child under 12 years of age if you are allergic to acetaminophen with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are n",
       "generic_name": "Chlorpheniramine Maleate",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ver disease a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland cough that occurs with too much phlegm (mucus) cough that lasts or is chronic such as occurs with smoking, asthma or emphysema Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers When using this product avoid alcoholic drinks marked drowsiness may occur alcohol, sedatives and tranquilizers may increase drowsiness b",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "I) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland cough that occurs with too much phlegm (mucus) cough that lasts or is chronic such as occ",
+      "pregnancy_lactation": "ctor if pain or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even i",
       "product_id": "BDS041504",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_3d0d9f9b0c16",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_dadfd0df83f4"
+      ]
     },
     {
       "common_side_effects": "",
@@ -3136,22 +3169,24 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "med. 5.9 Development of Drug-Resistant Bacteria Prescribing azithromycin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. 6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in labeling: Hypersensitivity [see WARNINGS AND PRECAUTIONS ( 5.1 )] Hepatotoxicity [see WARNINGS AND PRECAUTIONS ( 5.2 )] Infantile Hypertrophic Pyloric Stenosis",
+      "contraindications": "Keep azithromycin tablets and all medicines out of the reach of children. General information about the safe and effective use of azithromycin tablets. Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet. Do not use azithromycin tablets for a condition for which it was not prescribed. Do not give azithromycin tablets to other people, even if they have the same symptoms you have. It may harm them. This Patient Information leaflet summarizes the most important in",
       "generic_name": "Azithromycin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "3 comparator patients. No patient had an absolute neutrophil count &lt;500 cells/mm 3 . In multiple-dose clinical trials involving approximately 4700 pediatric patients, no patients discontinued therapy because of treatment-related laboratory abnormalities. 7 DRUG INTERACTIONS Nelfinavir: Close monitoring for known adverse reactions of azithromycin, such as liver enzyme abnormalities and hearing impairment, is warranted. ( 7.1 ) Warfarin: Use with azithromycin may increase coagulation times; monitor prothrombin tim",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "OSPHATE, DIBASIC, ANHYDROUS CROSCARMELLOSE SODIUM D&amp;C RED NO. 30 HYPROMELLOSE 2910 (15 MPA.S) LACTOSE MONOHYDRATE MAGNESIUM STEARATE SODIUM LAURYL SULFATE TITANIUM DIOXIDE TRIACETIN AZITHROMYCIN DIHYDRATE AZITHROMYCIN ANHYDROUS LU;L04 RECENT MAJOR CHANGES Warnings and Precautions, Cardiovascular Death ( 5.5 ) 11/2021 1 INDICATIONS AND USAGE Azithromycin tablets are a macrolide antibacterial drug indicated for mild to moderate infections caused by designated, susceptible bacteria: Acute bacterial exacerbations o",
+      "pregnancy_lactation": "IC POPULATIONS Pediatric use: Safety and effectiveness in the treatment of patients under 6 months of age have not been established. ( 8.4 ) Geriatric use: Elderly patients may be more susceptible to development of torsades de pointes arrhythmias. ( 8.5 ) 8.1 Pregnancy Risk Summary Available data from published literature and postmarketing experience over several decades with azithromycin use in pregnant women have not identified any drug-associated risks for major birth defects, miscarriage, or adverse maternal or",
       "product_id": "BDS001084",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_b8e10bb3e0e5",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_ec2fcf5e2fe4"
+      ]
     },
     {
       "common_side_effects": "",
@@ -3208,22 +3243,24 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "( 4 ) 5 WARNINGS AND PRECAUTIONS Anaphylactic reactions: Serious and occasionally fatal anaphylactic reactions have been reported in patients on penicillin therapy, including amoxicillin. Discontinue amoxicillin if a reaction occurs ( 5.1 ). Severe cutaneous adverse reactions (SCAR): Monitor closely. Discontinue if rash progresses. ( 5.2 ) Drug-induced enterocolitis syndrome (DIES) has been reported with amoxicillin use. If this occurs, discontinue amoxicillin and institute appropriate therapy. ( 5.3 ) Clostridiod",
+      "contraindications": "g/5 mL. Each 5 mL of reconstituted suspension contains 125 mg, 200 mg, 250 mg or 400 mg amoxicillin as the trihydrate. Capsules: 250 mg, 500 mg ( 3 ) Tablets: 500 mg, 875 mg ( 3 ) For Oral Suspension: 125 mg/5 mL, 200 mg/5 mL, 250 mg/5 mL, 400 mg/5 mL ( 3 ) 4 CONTRAINDICATIONS Amoxicillin is contraindicated in patients who have experienced a serious hypersensitivity reaction (e.g., anaphylaxis or Stevens-Johnson syndrome) to amoxicillin or to other β-lactam antibacterial drugs (e.g., penicillins and cephalosporins)",
       "generic_name": "Amoxicillin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "and/or dizziness have been reported. Miscellaneous: Tooth discoloration (brown, yellow, or gray staining) has been reported. Most reports occurred in pediatric patients. Discoloration was reduced or eliminated with brushing or dental cleaning in most cases. 7 DRUG INTERACTIONS Co-administration with probenicid is not recommended ( 7.1 ) Concomitant use of amoxicillin and oral anticoagulants may increase the prolongation of prothrombin time. ( 7.2 ) Coadministration with allopurinol increases the risk of rash. ( 7.3",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "TITANIUM DIOXIDE GELATIN, UNSPECIFIED MICROCRYSTALLINE CELLULOSE MAGNESIUM STEARATE SHELLAC ISOPROPYL ALCOHOL BUTYL ALCOHOL PROPYLENE GLYCOL FERROSOFERRIC OXIDE AMMONIA POTASSIUM HYDROXIDE WATER ALCOHOL AMOXICILLIN AMOXICILLIN ANHYDROUS Opaque AMOX;250;GG;848 Warnings and Precautions, Drug-Induced Enterocolitis Syndrome (DIES) ( 5.3 ) 02/2024 1 INDICATIONS AND USAGE Adults and Pediatric Patients Upper Respiratory Tract Infections of the Ear, Nose, and Throat Amoxicillin is indicated in the treatment of infections d",
+      "pregnancy_lactation": "e used. Following administration of ampicillin or amoxicillin to pregnant women, a transient decrease in plasma concentration of total conjugated estriol, estriol-glucuronide, conjugated estrone, and estradiol has been noted. 8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (3 and 6 times the 3 g human dose, based on body surface area). There was no evidence of harm to the fetus due to amoxicill",
       "product_id": "BDS007586",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_f79bd5735bd9",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_5ea73cdd7634"
+      ]
     },
     {
       "common_side_effects": "",
@@ -3244,22 +3281,24 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "med. 5.9 Development of Drug-Resistant Bacteria Prescribing azithromycin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. 6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in labeling: Hypersensitivity [see WARNINGS AND PRECAUTIONS ( 5.1 )] Hepatotoxicity [see WARNINGS AND PRECAUTIONS ( 5.2 )] Infantile Hypertrophic Pyloric Stenosis",
+      "contraindications": "Keep azithromycin tablets and all medicines out of the reach of children. General information about the safe and effective use of azithromycin tablets. Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet. Do not use azithromycin tablets for a condition for which it was not prescribed. Do not give azithromycin tablets to other people, even if they have the same symptoms you have. It may harm them. This Patient Information leaflet summarizes the most important in",
       "generic_name": "Azithromycin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "3 comparator patients. No patient had an absolute neutrophil count &lt;500 cells/mm 3 . In multiple-dose clinical trials involving approximately 4700 pediatric patients, no patients discontinued therapy because of treatment-related laboratory abnormalities. 7 DRUG INTERACTIONS Nelfinavir: Close monitoring for known adverse reactions of azithromycin, such as liver enzyme abnormalities and hearing impairment, is warranted. ( 7.1 ) Warfarin: Use with azithromycin may increase coagulation times; monitor prothrombin tim",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "OSPHATE, DIBASIC, ANHYDROUS CROSCARMELLOSE SODIUM D&amp;C RED NO. 30 HYPROMELLOSE 2910 (15 MPA.S) LACTOSE MONOHYDRATE MAGNESIUM STEARATE SODIUM LAURYL SULFATE TITANIUM DIOXIDE TRIACETIN AZITHROMYCIN DIHYDRATE AZITHROMYCIN ANHYDROUS LU;L04 RECENT MAJOR CHANGES Warnings and Precautions, Cardiovascular Death ( 5.5 ) 11/2021 1 INDICATIONS AND USAGE Azithromycin tablets are a macrolide antibacterial drug indicated for mild to moderate infections caused by designated, susceptible bacteria: Acute bacterial exacerbations o",
+      "pregnancy_lactation": "IC POPULATIONS Pediatric use: Safety and effectiveness in the treatment of patients under 6 months of age have not been established. ( 8.4 ) Geriatric use: Elderly patients may be more susceptible to development of torsades de pointes arrhythmias. ( 8.5 ) 8.1 Pregnancy Risk Summary Available data from published literature and postmarketing experience over several decades with azithromycin use in pregnant women have not identified any drug-associated risks for major birth defects, miscarriage, or adverse maternal or",
       "product_id": "BDS046209",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_3c3b08990f24",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_75f90094ed44"
+      ]
     },
     {
       "common_side_effects": "",
@@ -3316,22 +3355,24 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "med. 5.9 Development of Drug-Resistant Bacteria Prescribing azithromycin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. 6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in labeling: Hypersensitivity [see WARNINGS AND PRECAUTIONS ( 5.1 )] Hepatotoxicity [see WARNINGS AND PRECAUTIONS ( 5.2 )] Infantile Hypertrophic Pyloric Stenosis",
+      "contraindications": "Keep azithromycin tablets and all medicines out of the reach of children. General information about the safe and effective use of azithromycin tablets. Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet. Do not use azithromycin tablets for a condition for which it was not prescribed. Do not give azithromycin tablets to other people, even if they have the same symptoms you have. It may harm them. This Patient Information leaflet summarizes the most important in",
       "generic_name": "Azithromycin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "3 comparator patients. No patient had an absolute neutrophil count &lt;500 cells/mm 3 . In multiple-dose clinical trials involving approximately 4700 pediatric patients, no patients discontinued therapy because of treatment-related laboratory abnormalities. 7 DRUG INTERACTIONS Nelfinavir: Close monitoring for known adverse reactions of azithromycin, such as liver enzyme abnormalities and hearing impairment, is warranted. ( 7.1 ) Warfarin: Use with azithromycin may increase coagulation times; monitor prothrombin tim",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "OSPHATE, DIBASIC, ANHYDROUS CROSCARMELLOSE SODIUM D&amp;C RED NO. 30 HYPROMELLOSE 2910 (15 MPA.S) LACTOSE MONOHYDRATE MAGNESIUM STEARATE SODIUM LAURYL SULFATE TITANIUM DIOXIDE TRIACETIN AZITHROMYCIN DIHYDRATE AZITHROMYCIN ANHYDROUS LU;L04 RECENT MAJOR CHANGES Warnings and Precautions, Cardiovascular Death ( 5.5 ) 11/2021 1 INDICATIONS AND USAGE Azithromycin tablets are a macrolide antibacterial drug indicated for mild to moderate infections caused by designated, susceptible bacteria: Acute bacterial exacerbations o",
+      "pregnancy_lactation": "IC POPULATIONS Pediatric use: Safety and effectiveness in the treatment of patients under 6 months of age have not been established. ( 8.4 ) Geriatric use: Elderly patients may be more susceptible to development of torsades de pointes arrhythmias. ( 8.5 ) 8.1 Pregnancy Risk Summary Available data from published literature and postmarketing experience over several decades with azithromycin use in pregnant women have not identified any drug-associated risks for major birth defects, miscarriage, or adverse maternal or",
       "product_id": "BDS004225",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_c978719ac142",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_890b6107d5d5"
+      ]
     },
     {
       "common_side_effects": "",
@@ -4360,22 +4401,24 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "ndications (4) ] . When piroxicam is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma. 5.9 Serious Skin Reactions NSAIDs, including piroxicam, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal. NSAIDs canalsocause fixed drug eruption (FDE). FDE may present as a more severe variant known as generalized bullous fix",
+      "contraindications": "ounter). Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days. General information about the safe and effective use of NSAIDs Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them. If you would like more information about NSAIDs, talk with your healthcare provider. You",
       "generic_name": "Piroxicam",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "promptly initiate evaluation and treatment, and discontinue piroxicam until a serious GI adverse event is ruled out. In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7) ] . 5.3 Hepatotoxicity Elevations of alanine aminotransferase (ALT) or aspartate aminotransferase (AST) (three or more times the upper limit of normal [ULN]) have been reported in approximately 1% of NSAID-treated patients in clinical tri",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "M maroon cap blue body PR;10 PIROXICAM Piroxicam LACTOSE MONOHYDRATE MAGNESIUM STEARATE STARCH, CORN SODIUM LAURYL SULFATE FD&amp;C BLUE NO. 1 FD&amp;C RED NO. 40 FD&amp;C RED NO. 3 GELATIN TITANIUM DIOXIDE PIROXICAM PIROXICAM maroon cap and maroon body PR;20 Warnings and Precautions, Serious Skin Reactions ( 5.9 ) 11/2024 WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS Cardiovascular Thrombotic Events Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascula",
+      "pregnancy_lactation": "rance of skin rash or other signs of hypersensitivity ( 5.9 ) Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS): Discontinue and evaluate clinically ( 5.10 ) Fetal Toxicity: Limit use of NSAIDs, including piroxicam, between about 20 to 30 weeks in pregnancy due to the risk of oligohydramnios/fetal renal dysfunction. Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy due to the risks of oligohydramnios/fetal renal dysfunction and premature closure of the fetal ductus arterios",
       "product_id": "BDS007602",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_66bc5e57298f",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_2ff063c9a4b8"
+      ]
     },
     {
       "common_side_effects": "",
@@ -4522,22 +4565,24 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "ndications (4) ] . When piroxicam is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma. 5.9 Serious Skin Reactions NSAIDs, including piroxicam, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal. NSAIDs canalsocause fixed drug eruption (FDE). FDE may present as a more severe variant known as generalized bullous fix",
+      "contraindications": "ounter). Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days. General information about the safe and effective use of NSAIDs Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them. If you would like more information about NSAIDs, talk with your healthcare provider. You",
       "generic_name": "Piroxicam",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "promptly initiate evaluation and treatment, and discontinue piroxicam until a serious GI adverse event is ruled out. In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7) ] . 5.3 Hepatotoxicity Elevations of alanine aminotransferase (ALT) or aspartate aminotransferase (AST) (three or more times the upper limit of normal [ULN]) have been reported in approximately 1% of NSAID-treated patients in clinical tri",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "M maroon cap blue body PR;10 PIROXICAM Piroxicam LACTOSE MONOHYDRATE MAGNESIUM STEARATE STARCH, CORN SODIUM LAURYL SULFATE FD&amp;C BLUE NO. 1 FD&amp;C RED NO. 40 FD&amp;C RED NO. 3 GELATIN TITANIUM DIOXIDE PIROXICAM PIROXICAM maroon cap and maroon body PR;20 Warnings and Precautions, Serious Skin Reactions ( 5.9 ) 11/2024 WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS Cardiovascular Thrombotic Events Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascula",
+      "pregnancy_lactation": "rance of skin rash or other signs of hypersensitivity ( 5.9 ) Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS): Discontinue and evaluate clinically ( 5.10 ) Fetal Toxicity: Limit use of NSAIDs, including piroxicam, between about 20 to 30 weeks in pregnancy due to the risk of oligohydramnios/fetal renal dysfunction. Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy due to the risks of oligohydramnios/fetal renal dysfunction and premature closure of the fetal ductus arterios",
       "product_id": "BDS003422",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_c82ae9c0c3b0",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_13102699dbfe"
+      ]
     },
     {
       "common_side_effects": "",
@@ -9024,40 +9069,44 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "amlodipine besylate is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with impaired hepatic function, titrate slowly when administering amlodipine besylate to patients with severe hepatic impairment. 6 ADVERSE REACTIONS Most common adverse reaction to amlodipine is edema which occurred in a dose related manner. Other adverse experiences not dose related but reported with an incidence &gt;1.0% are fatigue, nausea, abdominal pain, and somnolence. (6) To report",
+      "contraindications": "nough blood. Angina feels like a pressing or squeezing pain, usually in your chest under the breastbone. Sometimes you can feel it in your shoulders, arms, neck, jaws, or back. Amlodipine besylate can relieve this pain. Who should not use amlodipine besylate? Do not use amlodipine besylate if you are allergic to amlodipine (the active ingredient in amlodipine besylate), or to the inactive ingredients. Your doctor or pharmacist can give you a list of these ingredients. What should I tell my doctor before taking amlo",
       "generic_name": "Amlodipine besylate",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ipine besylate. Amlodipine besylate has been used safely in patients with chronic obstructive pulmonary disease, well-compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes mellitus, and abnormal lipid profiles. 7 DRUG INTERACTIONS Do not exceed doses greater than 20 mg daily of simvastatin. (7.2) 7.1 Impact of Other Drugs on Amlodipine besylate CYP3A Inhibitors Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlod",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": ", debossed with “C47” on one side and plain on other side Tablets: 2.5 mg, 5 mg, and 10 mg (3) 4 CONTRAINDICATIONS Amlodipine besylate tablets are contraindicated in patients with known sensitivity to amlodipine besylate. Known sensitivity to amlodipine (4) 5 WARNINGS AND PRECAUTIONS Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis. However, acute hypotension is unlikely. (5.1) Worsening angina and acute myocardial infarction can develop after starting or increasing the dose",
+      "pregnancy_lactation": "is recommended and adjust the dose when appropriate [see Clinical Pharmacology (12.3) ]. 8 USE IN SPECIFIC POPULATIONS Pediatric: Effect on patients less than 6 years old is not known. (8.4) Geriatric: Start dosing at the low end of the dose range. (8.5) 8.1 Pregnancy Risk Summary The limited available data based on post-marketing reports with amlodipine besylate tablet use in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage. There are risks to the mother a",
       "product_id": "BDS006069",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_248b96de3aee",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_69d2eda51ef2"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "amlodipine besylate is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with impaired hepatic function, titrate slowly when administering amlodipine besylate to patients with severe hepatic impairment. 6 ADVERSE REACTIONS Most common adverse reaction to amlodipine is edema which occurred in a dose related manner. Other adverse experiences not dose related but reported with an incidence &gt;1.0% are fatigue, nausea, abdominal pain, and somnolence. (6) To report",
+      "contraindications": "nough blood. Angina feels like a pressing or squeezing pain, usually in your chest under the breastbone. Sometimes you can feel it in your shoulders, arms, neck, jaws, or back. Amlodipine besylate can relieve this pain. Who should not use amlodipine besylate? Do not use amlodipine besylate if you are allergic to amlodipine (the active ingredient in amlodipine besylate), or to the inactive ingredients. Your doctor or pharmacist can give you a list of these ingredients. What should I tell my doctor before taking amlo",
       "generic_name": "Amlodipine besylate",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ipine besylate. Amlodipine besylate has been used safely in patients with chronic obstructive pulmonary disease, well-compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes mellitus, and abnormal lipid profiles. 7 DRUG INTERACTIONS Do not exceed doses greater than 20 mg daily of simvastatin. (7.2) 7.1 Impact of Other Drugs on Amlodipine besylate CYP3A Inhibitors Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlod",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": ", debossed with “C47” on one side and plain on other side Tablets: 2.5 mg, 5 mg, and 10 mg (3) 4 CONTRAINDICATIONS Amlodipine besylate tablets are contraindicated in patients with known sensitivity to amlodipine besylate. Known sensitivity to amlodipine (4) 5 WARNINGS AND PRECAUTIONS Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis. However, acute hypotension is unlikely. (5.1) Worsening angina and acute myocardial infarction can develop after starting or increasing the dose",
+      "pregnancy_lactation": "is recommended and adjust the dose when appropriate [see Clinical Pharmacology (12.3) ]. 8 USE IN SPECIFIC POPULATIONS Pediatric: Effect on patients less than 6 years old is not known. (8.4) Geriatric: Start dosing at the low end of the dose range. (8.5) 8.1 Pregnancy Risk Summary The limited available data based on post-marketing reports with amlodipine besylate tablet use in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage. There are risks to the mother a",
       "product_id": "BDS006070",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_a5a57a151627",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_707759bb88b9"
+      ]
     },
     {
       "common_side_effects": "",
@@ -9096,40 +9145,44 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "amlodipine besylate is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with impaired hepatic function, titrate slowly when administering amlodipine besylate to patients with severe hepatic impairment. 6 ADVERSE REACTIONS Most common adverse reaction to amlodipine is edema which occurred in a dose related manner. Other adverse experiences not dose related but reported with an incidence &gt;1.0% are fatigue, nausea, abdominal pain, and somnolence. (6) To report",
+      "contraindications": "nough blood. Angina feels like a pressing or squeezing pain, usually in your chest under the breastbone. Sometimes you can feel it in your shoulders, arms, neck, jaws, or back. Amlodipine besylate can relieve this pain. Who should not use amlodipine besylate? Do not use amlodipine besylate if you are allergic to amlodipine (the active ingredient in amlodipine besylate), or to the inactive ingredients. Your doctor or pharmacist can give you a list of these ingredients. What should I tell my doctor before taking amlo",
       "generic_name": "Amlodipine besylate",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ipine besylate. Amlodipine besylate has been used safely in patients with chronic obstructive pulmonary disease, well-compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes mellitus, and abnormal lipid profiles. 7 DRUG INTERACTIONS Do not exceed doses greater than 20 mg daily of simvastatin. (7.2) 7.1 Impact of Other Drugs on Amlodipine besylate CYP3A Inhibitors Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlod",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": ", debossed with “C47” on one side and plain on other side Tablets: 2.5 mg, 5 mg, and 10 mg (3) 4 CONTRAINDICATIONS Amlodipine besylate tablets are contraindicated in patients with known sensitivity to amlodipine besylate. Known sensitivity to amlodipine (4) 5 WARNINGS AND PRECAUTIONS Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis. However, acute hypotension is unlikely. (5.1) Worsening angina and acute myocardial infarction can develop after starting or increasing the dose",
+      "pregnancy_lactation": "is recommended and adjust the dose when appropriate [see Clinical Pharmacology (12.3) ]. 8 USE IN SPECIFIC POPULATIONS Pediatric: Effect on patients less than 6 years old is not known. (8.4) Geriatric: Start dosing at the low end of the dose range. (8.5) 8.1 Pregnancy Risk Summary The limited available data based on post-marketing reports with amlodipine besylate tablet use in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage. There are risks to the mother a",
       "product_id": "BDS001106",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_bccfeacee99f",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_b959ef45c66a"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "amlodipine besylate is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with impaired hepatic function, titrate slowly when administering amlodipine besylate to patients with severe hepatic impairment. 6 ADVERSE REACTIONS Most common adverse reaction to amlodipine is edema which occurred in a dose related manner. Other adverse experiences not dose related but reported with an incidence &gt;1.0% are fatigue, nausea, abdominal pain, and somnolence. (6) To report",
+      "contraindications": "nough blood. Angina feels like a pressing or squeezing pain, usually in your chest under the breastbone. Sometimes you can feel it in your shoulders, arms, neck, jaws, or back. Amlodipine besylate can relieve this pain. Who should not use amlodipine besylate? Do not use amlodipine besylate if you are allergic to amlodipine (the active ingredient in amlodipine besylate), or to the inactive ingredients. Your doctor or pharmacist can give you a list of these ingredients. What should I tell my doctor before taking amlo",
       "generic_name": "Amlodipine besylate",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ipine besylate. Amlodipine besylate has been used safely in patients with chronic obstructive pulmonary disease, well-compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes mellitus, and abnormal lipid profiles. 7 DRUG INTERACTIONS Do not exceed doses greater than 20 mg daily of simvastatin. (7.2) 7.1 Impact of Other Drugs on Amlodipine besylate CYP3A Inhibitors Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlod",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": ", debossed with “C47” on one side and plain on other side Tablets: 2.5 mg, 5 mg, and 10 mg (3) 4 CONTRAINDICATIONS Amlodipine besylate tablets are contraindicated in patients with known sensitivity to amlodipine besylate. Known sensitivity to amlodipine (4) 5 WARNINGS AND PRECAUTIONS Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis. However, acute hypotension is unlikely. (5.1) Worsening angina and acute myocardial infarction can develop after starting or increasing the dose",
+      "pregnancy_lactation": "is recommended and adjust the dose when appropriate [see Clinical Pharmacology (12.3) ]. 8 USE IN SPECIFIC POPULATIONS Pediatric: Effect on patients less than 6 years old is not known. (8.4) Geriatric: Start dosing at the low end of the dose range. (8.5) 8.1 Pregnancy Risk Summary The limited available data based on post-marketing reports with amlodipine besylate tablet use in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage. There are risks to the mother a",
       "product_id": "BDS001096",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_0bf9002a32ba",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_11f5bc8c50ff"
+      ]
     },
     {
       "common_side_effects": "",
@@ -9492,94 +9545,104 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "se effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Thiazides cross the placental barrier and appear in cord blood. Adverse reactions include fetal or neonatal jaundice, thrombocytopenia [see Use in Specific Populations ( 8.1 )]. 5.2 Hypotension in Volume-or Salt-Depleted Patients In patients with an activated renin-angiotensin system, such as volume-or salt-depleted patien",
+      "contraindications": "high doses of diuretics), symptomatic hypotension may occur after initiation of treatment with losartan potassium and hydrochlorothiazide tablets. Correct volume or salt depletion prior to administration of losartan potassium and hydrochlorothiazide tablets. Do not use losartan potassium and hydrochlorothiazide tablets as initial therapy in patients with intravascular volume depletion. 5.3 Impaired Renal Function Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-",
       "generic_name": "Losartan potassium",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "chlorothiazide tablets. Monitor renal function periodically in these patients. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on losartan potassium and hydrochlorothiazide tablets [see Drug Interactions ( 7.3 ) and Use in Specific Populations ( 8.8 )] . 5.4 Hypersensitivity Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma but are more likely in patients with such",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNING: FETAL TOXICITY See full prescribing information for complete boxed warning. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on t",
+      "pregnancy_lactation": "SIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYVINYL ALCOHOL, UNSPECIFIED POLYETHYLENE GLYCOL, UNSPECIFIED STARCH, CORN SILICON DIOXIDE TALC TITANIUM DIOXIDE LOSARTAN POTASSIUM LOSARTAN HYDROCHLOROTHIAZIDE HYDROCHLOROTHIAZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNIN",
       "product_id": "BDS044532",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_486dc95231a0",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_8d11907d21cc"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "se effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Thiazides cross the placental barrier and appear in cord blood. Adverse reactions include fetal or neonatal jaundice, thrombocytopenia [see Use in Specific Populations ( 8.1 )]. 5.2 Hypotension in Volume-or Salt-Depleted Patients In patients with an activated renin-angiotensin system, such as volume-or salt-depleted patien",
+      "contraindications": "high doses of diuretics), symptomatic hypotension may occur after initiation of treatment with losartan potassium and hydrochlorothiazide tablets. Correct volume or salt depletion prior to administration of losartan potassium and hydrochlorothiazide tablets. Do not use losartan potassium and hydrochlorothiazide tablets as initial therapy in patients with intravascular volume depletion. 5.3 Impaired Renal Function Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-",
       "generic_name": "Losartan potassium",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "chlorothiazide tablets. Monitor renal function periodically in these patients. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on losartan potassium and hydrochlorothiazide tablets [see Drug Interactions ( 7.3 ) and Use in Specific Populations ( 8.8 )] . 5.4 Hypersensitivity Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma but are more likely in patients with such",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNING: FETAL TOXICITY See full prescribing information for complete boxed warning. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on t",
+      "pregnancy_lactation": "SIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYVINYL ALCOHOL, UNSPECIFIED POLYETHYLENE GLYCOL, UNSPECIFIED STARCH, CORN SILICON DIOXIDE TALC TITANIUM DIOXIDE LOSARTAN POTASSIUM LOSARTAN HYDROCHLOROTHIAZIDE HYDROCHLOROTHIAZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNIN",
       "product_id": "BDS044546",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_00ec925b5c2b",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_cd01f2e584e7"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "se effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Thiazides cross the placental barrier and appear in cord blood. Adverse reactions include fetal or neonatal jaundice, thrombocytopenia [see Use in Specific Populations ( 8.1 )]. 5.2 Hypotension in Volume-or Salt-Depleted Patients In patients with an activated renin-angiotensin system, such as volume-or salt-depleted patien",
+      "contraindications": "high doses of diuretics), symptomatic hypotension may occur after initiation of treatment with losartan potassium and hydrochlorothiazide tablets. Correct volume or salt depletion prior to administration of losartan potassium and hydrochlorothiazide tablets. Do not use losartan potassium and hydrochlorothiazide tablets as initial therapy in patients with intravascular volume depletion. 5.3 Impaired Renal Function Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-",
       "generic_name": "Losartan potassium",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "chlorothiazide tablets. Monitor renal function periodically in these patients. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on losartan potassium and hydrochlorothiazide tablets [see Drug Interactions ( 7.3 ) and Use in Specific Populations ( 8.8 )] . 5.4 Hypersensitivity Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma but are more likely in patients with such",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNING: FETAL TOXICITY See full prescribing information for complete boxed warning. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on t",
+      "pregnancy_lactation": "SIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYVINYL ALCOHOL, UNSPECIFIED POLYETHYLENE GLYCOL, UNSPECIFIED STARCH, CORN SILICON DIOXIDE TALC TITANIUM DIOXIDE LOSARTAN POTASSIUM LOSARTAN HYDROCHLOROTHIAZIDE HYDROCHLOROTHIAZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNIN",
       "product_id": "BDS002549",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_a3e1136c9162",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_5284ec67baa2"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "se effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Thiazides cross the placental barrier and appear in cord blood. Adverse reactions include fetal or neonatal jaundice, thrombocytopenia [see Use in Specific Populations ( 8.1 )]. 5.2 Hypotension in Volume-or Salt-Depleted Patients In patients with an activated renin-angiotensin system, such as volume-or salt-depleted patien",
+      "contraindications": "high doses of diuretics), symptomatic hypotension may occur after initiation of treatment with losartan potassium and hydrochlorothiazide tablets. Correct volume or salt depletion prior to administration of losartan potassium and hydrochlorothiazide tablets. Do not use losartan potassium and hydrochlorothiazide tablets as initial therapy in patients with intravascular volume depletion. 5.3 Impaired Renal Function Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-",
       "generic_name": "Losartan potassium",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "chlorothiazide tablets. Monitor renal function periodically in these patients. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on losartan potassium and hydrochlorothiazide tablets [see Drug Interactions ( 7.3 ) and Use in Specific Populations ( 8.8 )] . 5.4 Hypersensitivity Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma but are more likely in patients with such",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNING: FETAL TOXICITY See full prescribing information for complete boxed warning. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on t",
+      "pregnancy_lactation": "SIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYVINYL ALCOHOL, UNSPECIFIED POLYETHYLENE GLYCOL, UNSPECIFIED STARCH, CORN SILICON DIOXIDE TALC TITANIUM DIOXIDE LOSARTAN POTASSIUM LOSARTAN HYDROCHLOROTHIAZIDE HYDROCHLOROTHIAZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNIN",
       "product_id": "BDS002522",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_373f2efa5bb7",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_9f29a0ba02b1"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "se effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Thiazides cross the placental barrier and appear in cord blood. Adverse reactions include fetal or neonatal jaundice, thrombocytopenia [see Use in Specific Populations ( 8.1 )]. 5.2 Hypotension in Volume-or Salt-Depleted Patients In patients with an activated renin-angiotensin system, such as volume-or salt-depleted patien",
+      "contraindications": "high doses of diuretics), symptomatic hypotension may occur after initiation of treatment with losartan potassium and hydrochlorothiazide tablets. Correct volume or salt depletion prior to administration of losartan potassium and hydrochlorothiazide tablets. Do not use losartan potassium and hydrochlorothiazide tablets as initial therapy in patients with intravascular volume depletion. 5.3 Impaired Renal Function Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-",
       "generic_name": "Losartan potassium",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "chlorothiazide tablets. Monitor renal function periodically in these patients. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on losartan potassium and hydrochlorothiazide tablets [see Drug Interactions ( 7.3 ) and Use in Specific Populations ( 8.8 )] . 5.4 Hypersensitivity Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma but are more likely in patients with such",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNING: FETAL TOXICITY See full prescribing information for complete boxed warning. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on t",
+      "pregnancy_lactation": "SIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYVINYL ALCOHOL, UNSPECIFIED POLYETHYLENE GLYCOL, UNSPECIFIED STARCH, CORN SILICON DIOXIDE TALC TITANIUM DIOXIDE LOSARTAN POTASSIUM LOSARTAN HYDROCHLOROTHIAZIDE HYDROCHLOROTHIAZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNIN",
       "product_id": "BDS006044",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_d724c87494f5",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_c4ffec1c5c32"
+      ]
     },
     {
       "common_side_effects": "",
@@ -9654,22 +9717,24 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "amlodipine besylate is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with impaired hepatic function, titrate slowly when administering amlodipine besylate to patients with severe hepatic impairment. 6 ADVERSE REACTIONS Most common adverse reaction to amlodipine is edema which occurred in a dose related manner. Other adverse experiences not dose related but reported with an incidence &gt;1.0% are fatigue, nausea, abdominal pain, and somnolence. (6) To report",
+      "contraindications": "nough blood. Angina feels like a pressing or squeezing pain, usually in your chest under the breastbone. Sometimes you can feel it in your shoulders, arms, neck, jaws, or back. Amlodipine besylate can relieve this pain. Who should not use amlodipine besylate? Do not use amlodipine besylate if you are allergic to amlodipine (the active ingredient in amlodipine besylate), or to the inactive ingredients. Your doctor or pharmacist can give you a list of these ingredients. What should I tell my doctor before taking amlo",
       "generic_name": "Amlodipine besylate",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ipine besylate. Amlodipine besylate has been used safely in patients with chronic obstructive pulmonary disease, well-compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes mellitus, and abnormal lipid profiles. 7 DRUG INTERACTIONS Do not exceed doses greater than 20 mg daily of simvastatin. (7.2) 7.1 Impact of Other Drugs on Amlodipine besylate CYP3A Inhibitors Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlod",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": ", debossed with “C47” on one side and plain on other side Tablets: 2.5 mg, 5 mg, and 10 mg (3) 4 CONTRAINDICATIONS Amlodipine besylate tablets are contraindicated in patients with known sensitivity to amlodipine besylate. Known sensitivity to amlodipine (4) 5 WARNINGS AND PRECAUTIONS Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis. However, acute hypotension is unlikely. (5.1) Worsening angina and acute myocardial infarction can develop after starting or increasing the dose",
+      "pregnancy_lactation": "is recommended and adjust the dose when appropriate [see Clinical Pharmacology (12.3) ]. 8 USE IN SPECIFIC POPULATIONS Pediatric: Effect on patients less than 6 years old is not known. (8.4) Geriatric: Start dosing at the low end of the dose range. (8.5) 8.1 Pregnancy Risk Summary The limited available data based on post-marketing reports with amlodipine besylate tablet use in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage. There are risks to the mother a",
       "product_id": "BDS002862",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_6f446b16faae",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_509b44586a1c"
+      ]
     },
     {
       "common_side_effects": "",
@@ -9744,40 +9809,44 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "se effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Thiazides cross the placental barrier and appear in cord blood. Adverse reactions include fetal or neonatal jaundice, thrombocytopenia [see Use in Specific Populations ( 8.1 )]. 5.2 Hypotension in Volume-or Salt-Depleted Patients In patients with an activated renin-angiotensin system, such as volume-or salt-depleted patien",
+      "contraindications": "high doses of diuretics), symptomatic hypotension may occur after initiation of treatment with losartan potassium and hydrochlorothiazide tablets. Correct volume or salt depletion prior to administration of losartan potassium and hydrochlorothiazide tablets. Do not use losartan potassium and hydrochlorothiazide tablets as initial therapy in patients with intravascular volume depletion. 5.3 Impaired Renal Function Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-",
       "generic_name": "Losartan potassium",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "chlorothiazide tablets. Monitor renal function periodically in these patients. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on losartan potassium and hydrochlorothiazide tablets [see Drug Interactions ( 7.3 ) and Use in Specific Populations ( 8.8 )] . 5.4 Hypersensitivity Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma but are more likely in patients with such",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNING: FETAL TOXICITY See full prescribing information for complete boxed warning. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on t",
+      "pregnancy_lactation": "SIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYVINYL ALCOHOL, UNSPECIFIED POLYETHYLENE GLYCOL, UNSPECIFIED STARCH, CORN SILICON DIOXIDE TALC TITANIUM DIOXIDE LOSARTAN POTASSIUM LOSARTAN HYDROCHLOROTHIAZIDE HYDROCHLOROTHIAZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNIN",
       "product_id": "BDS048635",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_1b62f798153e",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_b2de6b175f60"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "se effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Thiazides cross the placental barrier and appear in cord blood. Adverse reactions include fetal or neonatal jaundice, thrombocytopenia [see Use in Specific Populations ( 8.1 )]. 5.2 Hypotension in Volume-or Salt-Depleted Patients In patients with an activated renin-angiotensin system, such as volume-or salt-depleted patien",
+      "contraindications": "high doses of diuretics), symptomatic hypotension may occur after initiation of treatment with losartan potassium and hydrochlorothiazide tablets. Correct volume or salt depletion prior to administration of losartan potassium and hydrochlorothiazide tablets. Do not use losartan potassium and hydrochlorothiazide tablets as initial therapy in patients with intravascular volume depletion. 5.3 Impaired Renal Function Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-",
       "generic_name": "Losartan potassium",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "chlorothiazide tablets. Monitor renal function periodically in these patients. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on losartan potassium and hydrochlorothiazide tablets [see Drug Interactions ( 7.3 ) and Use in Specific Populations ( 8.8 )] . 5.4 Hypersensitivity Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma but are more likely in patients with such",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNING: FETAL TOXICITY See full prescribing information for complete boxed warning. When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on t",
+      "pregnancy_lactation": "SIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYVINYL ALCOHOL, UNSPECIFIED POLYETHYLENE GLYCOL, UNSPECIFIED STARCH, CORN SILICON DIOXIDE TALC TITANIUM DIOXIDE LOSARTAN POTASSIUM LOSARTAN HYDROCHLOROTHIAZIDE HYDROCHLOROTHIAZIDE HH;212 WARNING: FETAL TOXICITY When pregnancy is detected, discontinue losartan potassium and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions ( 5.1 )]. WARNIN",
       "product_id": "BDS003703",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_2d065cf29285",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_63348ec184b5"
+      ]
     },
     {
       "common_side_effects": "",
@@ -9942,40 +10011,44 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "to be predisposed to developing subnormal vitamin B 12 levels. Measure hematologic parameters on an annual basis and vitamin B 12 at 2 year to 3 year intervals in patients on metformin hydrochloride extended-release tablets and manage any abnormalities [ see Adverse Reactions ( 6.1 ) ]. 5.3 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia. Metformin hydrochloride extended-release tablets may increase the",
+      "contraindications": "ay be switched to metformin hydrochloride extended-release tablets once daily at the same total daily dose, up to 2,000 mg once daily ( 2.1 ) Renal Impairment: Prior to initiation, assess renal function with estimated glomerular filtration rate (eGFR) ( 2.2 ) Do not use in patients with eGFR below 30 mL/minute/1.73 m 2 ( 2.2 ) Initiation is not recommended in patients with eGFR between 30 mL/minute/1.73 m 2 to 45 mL/minute/1.73 m 2 ( 2.2 ) Assess risk/benefit of continuing if eGFR falls below 45 mL/minute/1.73 m 2",
       "generic_name": "Metformin HCl",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ment of renal impairment (e.g., the elderly), renal function should be assessed more frequently. In patients taking metformin hydrochloride extended-release tablets whose eGFR falls below 45 mL/min/1.73 m 2 , assess the benefit and risk of continuing therapy. Drug interactions — The concomitant use of metformin hydrochloride extended-release tablets with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "associated lactic acidosis was characterized by elevated blood lactate levels (&gt; 5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), an increased lactate/pyruvate ratio; and metformin plasma levels generally &gt; 5 mcg/mL [ see Warnings and Precautions ( 5.1 ) ]. Risk factors for metformin-associated lactic acidosis include renal impairment, concomitant use of certain drugs (e.g. carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological stu",
+      "pregnancy_lactation": "cohol can potentiate the effect of metformin on lactate metabolism. Warn patients against excessive alcohol intake ( 7 ) 8 USE IN SPECIFIC POPULATIONS Females and Males of Reproductive Potential: Advise premenopausal females of the potential for an unintended pregnancy. ( 8.3 ) Geriatric Use: Assess renal function more frequently. ( 8.5 ) Hepatic Impairment: Avoid use in patients with hepatic impairment. ( 8.7 ) 8.1 Pregnancy Risk Summary Limited data with metformin hydrochloride extended-release tablets in pregnan",
       "product_id": "BDS002035",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_e70cc2f5042a",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_15a8c3aae617"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "to be predisposed to developing subnormal vitamin B 12 levels. Measure hematologic parameters on an annual basis and vitamin B 12 at 2 year to 3 year intervals in patients on metformin hydrochloride extended-release tablets and manage any abnormalities [ see Adverse Reactions ( 6.1 ) ]. 5.3 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia. Metformin hydrochloride extended-release tablets may increase the",
+      "contraindications": "ay be switched to metformin hydrochloride extended-release tablets once daily at the same total daily dose, up to 2,000 mg once daily ( 2.1 ) Renal Impairment: Prior to initiation, assess renal function with estimated glomerular filtration rate (eGFR) ( 2.2 ) Do not use in patients with eGFR below 30 mL/minute/1.73 m 2 ( 2.2 ) Initiation is not recommended in patients with eGFR between 30 mL/minute/1.73 m 2 to 45 mL/minute/1.73 m 2 ( 2.2 ) Assess risk/benefit of continuing if eGFR falls below 45 mL/minute/1.73 m 2",
       "generic_name": "Metformin HCl",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ment of renal impairment (e.g., the elderly), renal function should be assessed more frequently. In patients taking metformin hydrochloride extended-release tablets whose eGFR falls below 45 mL/min/1.73 m 2 , assess the benefit and risk of continuing therapy. Drug interactions — The concomitant use of metformin hydrochloride extended-release tablets with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "associated lactic acidosis was characterized by elevated blood lactate levels (&gt; 5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), an increased lactate/pyruvate ratio; and metformin plasma levels generally &gt; 5 mcg/mL [ see Warnings and Precautions ( 5.1 ) ]. Risk factors for metformin-associated lactic acidosis include renal impairment, concomitant use of certain drugs (e.g. carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological stu",
+      "pregnancy_lactation": "cohol can potentiate the effect of metformin on lactate metabolism. Warn patients against excessive alcohol intake ( 7 ) 8 USE IN SPECIFIC POPULATIONS Females and Males of Reproductive Potential: Advise premenopausal females of the potential for an unintended pregnancy. ( 8.3 ) Geriatric Use: Assess renal function more frequently. ( 8.5 ) Hepatic Impairment: Avoid use in patients with hepatic impairment. ( 8.7 ) 8.1 Pregnancy Risk Summary Limited data with metformin hydrochloride extended-release tablets in pregnan",
       "product_id": "BDS043610",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_07a3a34a00c8",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_34ea56ad82c4"
+      ]
     },
     {
       "common_side_effects": "",
@@ -10014,58 +10087,64 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "to be predisposed to developing subnormal vitamin B 12 levels. Measure hematologic parameters on an annual basis and vitamin B 12 at 2 year to 3 year intervals in patients on metformin hydrochloride extended-release tablets and manage any abnormalities [ see Adverse Reactions ( 6.1 ) ]. 5.3 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia. Metformin hydrochloride extended-release tablets may increase the",
+      "contraindications": "ay be switched to metformin hydrochloride extended-release tablets once daily at the same total daily dose, up to 2,000 mg once daily ( 2.1 ) Renal Impairment: Prior to initiation, assess renal function with estimated glomerular filtration rate (eGFR) ( 2.2 ) Do not use in patients with eGFR below 30 mL/minute/1.73 m 2 ( 2.2 ) Initiation is not recommended in patients with eGFR between 30 mL/minute/1.73 m 2 to 45 mL/minute/1.73 m 2 ( 2.2 ) Assess risk/benefit of continuing if eGFR falls below 45 mL/minute/1.73 m 2",
       "generic_name": "Metformin HCl",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ment of renal impairment (e.g., the elderly), renal function should be assessed more frequently. In patients taking metformin hydrochloride extended-release tablets whose eGFR falls below 45 mL/min/1.73 m 2 , assess the benefit and risk of continuing therapy. Drug interactions — The concomitant use of metformin hydrochloride extended-release tablets with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "associated lactic acidosis was characterized by elevated blood lactate levels (&gt; 5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), an increased lactate/pyruvate ratio; and metformin plasma levels generally &gt; 5 mcg/mL [ see Warnings and Precautions ( 5.1 ) ]. Risk factors for metformin-associated lactic acidosis include renal impairment, concomitant use of certain drugs (e.g. carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological stu",
+      "pregnancy_lactation": "cohol can potentiate the effect of metformin on lactate metabolism. Warn patients against excessive alcohol intake ( 7 ) 8 USE IN SPECIFIC POPULATIONS Females and Males of Reproductive Potential: Advise premenopausal females of the potential for an unintended pregnancy. ( 8.3 ) Geriatric Use: Assess renal function more frequently. ( 8.5 ) Hepatic Impairment: Avoid use in patients with hepatic impairment. ( 8.7 ) 8.1 Pregnancy Risk Summary Limited data with metformin hydrochloride extended-release tablets in pregnan",
       "product_id": "BDS044920",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_aef16bc3443d",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_e73d317cbd47"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "to be predisposed to developing subnormal vitamin B 12 levels. Measure hematologic parameters on an annual basis and vitamin B 12 at 2 year to 3 year intervals in patients on metformin hydrochloride extended-release tablets and manage any abnormalities [ see Adverse Reactions ( 6.1 ) ]. 5.3 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia. Metformin hydrochloride extended-release tablets may increase the",
+      "contraindications": "ay be switched to metformin hydrochloride extended-release tablets once daily at the same total daily dose, up to 2,000 mg once daily ( 2.1 ) Renal Impairment: Prior to initiation, assess renal function with estimated glomerular filtration rate (eGFR) ( 2.2 ) Do not use in patients with eGFR below 30 mL/minute/1.73 m 2 ( 2.2 ) Initiation is not recommended in patients with eGFR between 30 mL/minute/1.73 m 2 to 45 mL/minute/1.73 m 2 ( 2.2 ) Assess risk/benefit of continuing if eGFR falls below 45 mL/minute/1.73 m 2",
       "generic_name": "Metformin HCl",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ment of renal impairment (e.g., the elderly), renal function should be assessed more frequently. In patients taking metformin hydrochloride extended-release tablets whose eGFR falls below 45 mL/min/1.73 m 2 , assess the benefit and risk of continuing therapy. Drug interactions — The concomitant use of metformin hydrochloride extended-release tablets with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "associated lactic acidosis was characterized by elevated blood lactate levels (&gt; 5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), an increased lactate/pyruvate ratio; and metformin plasma levels generally &gt; 5 mcg/mL [ see Warnings and Precautions ( 5.1 ) ]. Risk factors for metformin-associated lactic acidosis include renal impairment, concomitant use of certain drugs (e.g. carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological stu",
+      "pregnancy_lactation": "cohol can potentiate the effect of metformin on lactate metabolism. Warn patients against excessive alcohol intake ( 7 ) 8 USE IN SPECIFIC POPULATIONS Females and Males of Reproductive Potential: Advise premenopausal females of the potential for an unintended pregnancy. ( 8.3 ) Geriatric Use: Assess renal function more frequently. ( 8.5 ) Hepatic Impairment: Avoid use in patients with hepatic impairment. ( 8.7 ) 8.1 Pregnancy Risk Summary Limited data with metformin hydrochloride extended-release tablets in pregnan",
       "product_id": "BDS006205",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_0d82a72b65d3",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_db597cb340a8"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "to be predisposed to developing subnormal vitamin B 12 levels. Measure hematologic parameters on an annual basis and vitamin B 12 at 2 year to 3 year intervals in patients on metformin hydrochloride extended-release tablets and manage any abnormalities [ see Adverse Reactions ( 6.1 ) ]. 5.3 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia. Metformin hydrochloride extended-release tablets may increase the",
+      "contraindications": "ay be switched to metformin hydrochloride extended-release tablets once daily at the same total daily dose, up to 2,000 mg once daily ( 2.1 ) Renal Impairment: Prior to initiation, assess renal function with estimated glomerular filtration rate (eGFR) ( 2.2 ) Do not use in patients with eGFR below 30 mL/minute/1.73 m 2 ( 2.2 ) Initiation is not recommended in patients with eGFR between 30 mL/minute/1.73 m 2 to 45 mL/minute/1.73 m 2 ( 2.2 ) Assess risk/benefit of continuing if eGFR falls below 45 mL/minute/1.73 m 2",
       "generic_name": "Metformin HCl",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ment of renal impairment (e.g., the elderly), renal function should be assessed more frequently. In patients taking metformin hydrochloride extended-release tablets whose eGFR falls below 45 mL/min/1.73 m 2 , assess the benefit and risk of continuing therapy. Drug interactions — The concomitant use of metformin hydrochloride extended-release tablets with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "associated lactic acidosis was characterized by elevated blood lactate levels (&gt; 5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), an increased lactate/pyruvate ratio; and metformin plasma levels generally &gt; 5 mcg/mL [ see Warnings and Precautions ( 5.1 ) ]. Risk factors for metformin-associated lactic acidosis include renal impairment, concomitant use of certain drugs (e.g. carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological stu",
+      "pregnancy_lactation": "cohol can potentiate the effect of metformin on lactate metabolism. Warn patients against excessive alcohol intake ( 7 ) 8 USE IN SPECIFIC POPULATIONS Females and Males of Reproductive Potential: Advise premenopausal females of the potential for an unintended pregnancy. ( 8.3 ) Geriatric Use: Assess renal function more frequently. ( 8.5 ) Hepatic Impairment: Avoid use in patients with hepatic impairment. ( 8.7 ) 8.1 Pregnancy Risk Summary Limited data with metformin hydrochloride extended-release tablets in pregnan",
       "product_id": "BDS044902",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_7d730eec9bb2",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_ede0f1a15ffa"
+      ]
     },
     {
       "common_side_effects": "",
@@ -10086,40 +10165,44 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "to be predisposed to developing subnormal vitamin B 12 levels. Measure hematologic parameters on an annual basis and vitamin B 12 at 2 year to 3 year intervals in patients on metformin hydrochloride extended-release tablets and manage any abnormalities [ see Adverse Reactions ( 6.1 ) ]. 5.3 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia. Metformin hydrochloride extended-release tablets may increase the",
+      "contraindications": "ay be switched to metformin hydrochloride extended-release tablets once daily at the same total daily dose, up to 2,000 mg once daily ( 2.1 ) Renal Impairment: Prior to initiation, assess renal function with estimated glomerular filtration rate (eGFR) ( 2.2 ) Do not use in patients with eGFR below 30 mL/minute/1.73 m 2 ( 2.2 ) Initiation is not recommended in patients with eGFR between 30 mL/minute/1.73 m 2 to 45 mL/minute/1.73 m 2 ( 2.2 ) Assess risk/benefit of continuing if eGFR falls below 45 mL/minute/1.73 m 2",
       "generic_name": "Metformin HCl",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ment of renal impairment (e.g., the elderly), renal function should be assessed more frequently. In patients taking metformin hydrochloride extended-release tablets whose eGFR falls below 45 mL/min/1.73 m 2 , assess the benefit and risk of continuing therapy. Drug interactions — The concomitant use of metformin hydrochloride extended-release tablets with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "associated lactic acidosis was characterized by elevated blood lactate levels (&gt; 5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), an increased lactate/pyruvate ratio; and metformin plasma levels generally &gt; 5 mcg/mL [ see Warnings and Precautions ( 5.1 ) ]. Risk factors for metformin-associated lactic acidosis include renal impairment, concomitant use of certain drugs (e.g. carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological stu",
+      "pregnancy_lactation": "cohol can potentiate the effect of metformin on lactate metabolism. Warn patients against excessive alcohol intake ( 7 ) 8 USE IN SPECIFIC POPULATIONS Females and Males of Reproductive Potential: Advise premenopausal females of the potential for an unintended pregnancy. ( 8.3 ) Geriatric Use: Assess renal function more frequently. ( 8.5 ) Hepatic Impairment: Avoid use in patients with hepatic impairment. ( 8.7 ) 8.1 Pregnancy Risk Summary Limited data with metformin hydrochloride extended-release tablets in pregnan",
       "product_id": "BDS003612",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_11369cdcbaef",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_dbe1366b02fd"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "to be predisposed to developing subnormal vitamin B 12 levels. Measure hematologic parameters on an annual basis and vitamin B 12 at 2 year to 3 year intervals in patients on metformin hydrochloride extended-release tablets and manage any abnormalities [ see Adverse Reactions ( 6.1 ) ]. 5.3 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia. Metformin hydrochloride extended-release tablets may increase the",
+      "contraindications": "ay be switched to metformin hydrochloride extended-release tablets once daily at the same total daily dose, up to 2,000 mg once daily ( 2.1 ) Renal Impairment: Prior to initiation, assess renal function with estimated glomerular filtration rate (eGFR) ( 2.2 ) Do not use in patients with eGFR below 30 mL/minute/1.73 m 2 ( 2.2 ) Initiation is not recommended in patients with eGFR between 30 mL/minute/1.73 m 2 to 45 mL/minute/1.73 m 2 ( 2.2 ) Assess risk/benefit of continuing if eGFR falls below 45 mL/minute/1.73 m 2",
       "generic_name": "Metformin HCl",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "ment of renal impairment (e.g., the elderly), renal function should be assessed more frequently. In patients taking metformin hydrochloride extended-release tablets whose eGFR falls below 45 mL/min/1.73 m 2 , assess the benefit and risk of continuing therapy. Drug interactions — The concomitant use of metformin hydrochloride extended-release tablets with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "associated lactic acidosis was characterized by elevated blood lactate levels (&gt; 5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), an increased lactate/pyruvate ratio; and metformin plasma levels generally &gt; 5 mcg/mL [ see Warnings and Precautions ( 5.1 ) ]. Risk factors for metformin-associated lactic acidosis include renal impairment, concomitant use of certain drugs (e.g. carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological stu",
+      "pregnancy_lactation": "cohol can potentiate the effect of metformin on lactate metabolism. Warn patients against excessive alcohol intake ( 7 ) 8 USE IN SPECIFIC POPULATIONS Females and Males of Reproductive Potential: Advise premenopausal females of the potential for an unintended pregnancy. ( 8.3 ) Geriatric Use: Assess renal function more frequently. ( 8.5 ) Hepatic Impairment: Avoid use in patients with hepatic impairment. ( 8.7 ) 8.1 Pregnancy Risk Summary Limited data with metformin hydrochloride extended-release tablets in pregnan",
       "product_id": "BDS003614",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_3629562cfdab",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_9730314814db"
+      ]
     },
     {
       "common_side_effects": "",
@@ -10194,58 +10277,64 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "or decompensated cirrhosis [see WARNINGS AND PRECAUTIONS ( 5.3 )] Hypersensitivity to simvastatin or any excipients in simvastatin tablets USP. Hypersensitivity reactions, including anaphylaxis, angioedema and Stevens-Johnson syndrome, have been reported [see ADVERSE REACTIONS ( 6.2 )] Concomitant use of strong CYP3A4 inhibitors (select azole anti-fungals, macrolide antibiotics, anti-viral medications, and nefazodone) ( 4 , 7.1 ) Concomitant use of cyclosporine, danazol or gemfibrozil ( 4 , 7.1 ) Acute liver failur",
+      "contraindications": "30°C). Keep simvastatin tablets and all medicines out of the reach of children. General information about safe and effective use of simvastatin tablets. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use simvastatin tablets for a condition for which it was not prescribed. Do not give simvastatin tablets to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for informa",
       "generic_name": "Simvastatin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "Recommended dosage is 10 mg to 40 mg once daily. ( 2.3 ) Patients with Severe Renal Impairment : Recommended starting dosage is simvastatin 5 mg once daily. ( 2.4 , 8.6 ) See full prescribing information for simvastatin tablets USP dosage modifications due to drug interactions. ( 2.5 ) 2.1 Important Dosage and Administration Information Take simvastatin tablets USP orally once daily in the evening. The maximum recommended dosage is simvastatin tablets USP 40 mg once daily [see DOSAGE AND ADMINISTRATION ( 2.2 , 2.3",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ee DOSAGE AND ADMINISTRATION ( 2.2 , 2.3 )]. An 80 mg daily dosage of simvastatin tablets USP is restricted to patients who have been taking simvastatin tablets USP 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see WARNINGS AND PRECAUTIONS ( 5.1 )]. If as dose is missed, take the missed dose as soon as possible. Do not double the next dose. For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving simvastatin tablets USP 40 mg",
+      "pregnancy_lactation": "ncomitant use of digoxin with simvastatin may result in elevated plasma digoxin concentrations [ see CLINICAL PHARMACOLOGY ( 12.3 ) ]. Intervention: Monitor digoxin levels in patients taking digoxin when simvastatin is initiated. 8 USE IN SPECIFIC POPULATIONS Pregnancy: May cause fetal harm. ( 8.1 ) Lactation: Breastfeeding not recommended during treatment with simvastatin. ( 8.2 ) 8.1 Pregnancy Risk Summary Discontinue simvastatin when pregnancy is recognized. Alternatively, consider the ongoing therapeutic needs",
       "product_id": "BDS001226",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_ec4cbfc806a6",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_17b92df5ffbf"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "or decompensated cirrhosis [see WARNINGS AND PRECAUTIONS ( 5.3 )] Hypersensitivity to simvastatin or any excipients in simvastatin tablets USP. Hypersensitivity reactions, including anaphylaxis, angioedema and Stevens-Johnson syndrome, have been reported [see ADVERSE REACTIONS ( 6.2 )] Concomitant use of strong CYP3A4 inhibitors (select azole anti-fungals, macrolide antibiotics, anti-viral medications, and nefazodone) ( 4 , 7.1 ) Concomitant use of cyclosporine, danazol or gemfibrozil ( 4 , 7.1 ) Acute liver failur",
+      "contraindications": "30°C). Keep simvastatin tablets and all medicines out of the reach of children. General information about safe and effective use of simvastatin tablets. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use simvastatin tablets for a condition for which it was not prescribed. Do not give simvastatin tablets to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for informa",
       "generic_name": "Simvastatin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "Recommended dosage is 10 mg to 40 mg once daily. ( 2.3 ) Patients with Severe Renal Impairment : Recommended starting dosage is simvastatin 5 mg once daily. ( 2.4 , 8.6 ) See full prescribing information for simvastatin tablets USP dosage modifications due to drug interactions. ( 2.5 ) 2.1 Important Dosage and Administration Information Take simvastatin tablets USP orally once daily in the evening. The maximum recommended dosage is simvastatin tablets USP 40 mg once daily [see DOSAGE AND ADMINISTRATION ( 2.2 , 2.3",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ee DOSAGE AND ADMINISTRATION ( 2.2 , 2.3 )]. An 80 mg daily dosage of simvastatin tablets USP is restricted to patients who have been taking simvastatin tablets USP 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see WARNINGS AND PRECAUTIONS ( 5.1 )]. If as dose is missed, take the missed dose as soon as possible. Do not double the next dose. For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving simvastatin tablets USP 40 mg",
+      "pregnancy_lactation": "ncomitant use of digoxin with simvastatin may result in elevated plasma digoxin concentrations [ see CLINICAL PHARMACOLOGY ( 12.3 ) ]. Intervention: Monitor digoxin levels in patients taking digoxin when simvastatin is initiated. 8 USE IN SPECIFIC POPULATIONS Pregnancy: May cause fetal harm. ( 8.1 ) Lactation: Breastfeeding not recommended during treatment with simvastatin. ( 8.2 ) 8.1 Pregnancy Risk Summary Discontinue simvastatin when pregnancy is recognized. Alternatively, consider the ongoing therapeutic needs",
       "product_id": "BDS001225",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_adcd96eef50c",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_f319673f5fdc"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "or decompensated cirrhosis [see WARNINGS AND PRECAUTIONS ( 5.3 )] Hypersensitivity to simvastatin or any excipients in simvastatin tablets USP. Hypersensitivity reactions, including anaphylaxis, angioedema and Stevens-Johnson syndrome, have been reported [see ADVERSE REACTIONS ( 6.2 )] Concomitant use of strong CYP3A4 inhibitors (select azole anti-fungals, macrolide antibiotics, anti-viral medications, and nefazodone) ( 4 , 7.1 ) Concomitant use of cyclosporine, danazol or gemfibrozil ( 4 , 7.1 ) Acute liver failur",
+      "contraindications": "30°C). Keep simvastatin tablets and all medicines out of the reach of children. General information about safe and effective use of simvastatin tablets. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use simvastatin tablets for a condition for which it was not prescribed. Do not give simvastatin tablets to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for informa",
       "generic_name": "Simvastatin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "Recommended dosage is 10 mg to 40 mg once daily. ( 2.3 ) Patients with Severe Renal Impairment : Recommended starting dosage is simvastatin 5 mg once daily. ( 2.4 , 8.6 ) See full prescribing information for simvastatin tablets USP dosage modifications due to drug interactions. ( 2.5 ) 2.1 Important Dosage and Administration Information Take simvastatin tablets USP orally once daily in the evening. The maximum recommended dosage is simvastatin tablets USP 40 mg once daily [see DOSAGE AND ADMINISTRATION ( 2.2 , 2.3",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ee DOSAGE AND ADMINISTRATION ( 2.2 , 2.3 )]. An 80 mg daily dosage of simvastatin tablets USP is restricted to patients who have been taking simvastatin tablets USP 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see WARNINGS AND PRECAUTIONS ( 5.1 )]. If as dose is missed, take the missed dose as soon as possible. Do not double the next dose. For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving simvastatin tablets USP 40 mg",
+      "pregnancy_lactation": "ncomitant use of digoxin with simvastatin may result in elevated plasma digoxin concentrations [ see CLINICAL PHARMACOLOGY ( 12.3 ) ]. Intervention: Monitor digoxin levels in patients taking digoxin when simvastatin is initiated. 8 USE IN SPECIFIC POPULATIONS Pregnancy: May cause fetal harm. ( 8.1 ) Lactation: Breastfeeding not recommended during treatment with simvastatin. ( 8.2 ) 8.1 Pregnancy Risk Summary Discontinue simvastatin when pregnancy is recognized. Alternatively, consider the ongoing therapeutic needs",
       "product_id": "BDS001223",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_d6e6f08d00b2",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_4f37e86fdcee"
+      ]
     },
     {
       "common_side_effects": "",
@@ -10374,94 +10463,104 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "or decompensated cirrhosis [see WARNINGS AND PRECAUTIONS ( 5.3 )] Hypersensitivity to simvastatin or any excipients in simvastatin tablets USP. Hypersensitivity reactions, including anaphylaxis, angioedema and Stevens-Johnson syndrome, have been reported [see ADVERSE REACTIONS ( 6.2 )] Concomitant use of strong CYP3A4 inhibitors (select azole anti-fungals, macrolide antibiotics, anti-viral medications, and nefazodone) ( 4 , 7.1 ) Concomitant use of cyclosporine, danazol or gemfibrozil ( 4 , 7.1 ) Acute liver failur",
+      "contraindications": "30°C). Keep simvastatin tablets and all medicines out of the reach of children. General information about safe and effective use of simvastatin tablets. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use simvastatin tablets for a condition for which it was not prescribed. Do not give simvastatin tablets to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for informa",
       "generic_name": "Simvastatin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "Recommended dosage is 10 mg to 40 mg once daily. ( 2.3 ) Patients with Severe Renal Impairment : Recommended starting dosage is simvastatin 5 mg once daily. ( 2.4 , 8.6 ) See full prescribing information for simvastatin tablets USP dosage modifications due to drug interactions. ( 2.5 ) 2.1 Important Dosage and Administration Information Take simvastatin tablets USP orally once daily in the evening. The maximum recommended dosage is simvastatin tablets USP 40 mg once daily [see DOSAGE AND ADMINISTRATION ( 2.2 , 2.3",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ee DOSAGE AND ADMINISTRATION ( 2.2 , 2.3 )]. An 80 mg daily dosage of simvastatin tablets USP is restricted to patients who have been taking simvastatin tablets USP 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see WARNINGS AND PRECAUTIONS ( 5.1 )]. If as dose is missed, take the missed dose as soon as possible. Do not double the next dose. For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving simvastatin tablets USP 40 mg",
+      "pregnancy_lactation": "ncomitant use of digoxin with simvastatin may result in elevated plasma digoxin concentrations [ see CLINICAL PHARMACOLOGY ( 12.3 ) ]. Intervention: Monitor digoxin levels in patients taking digoxin when simvastatin is initiated. 8 USE IN SPECIFIC POPULATIONS Pregnancy: May cause fetal harm. ( 8.1 ) Lactation: Breastfeeding not recommended during treatment with simvastatin. ( 8.2 ) 8.1 Pregnancy Risk Summary Discontinue simvastatin when pregnancy is recognized. Alternatively, consider the ongoing therapeutic needs",
       "product_id": "BDS004228",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_687656a2fc12",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_f6abd889a444"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "or decompensated cirrhosis [see WARNINGS AND PRECAUTIONS ( 5.3 )] Hypersensitivity to simvastatin or any excipients in simvastatin tablets USP. Hypersensitivity reactions, including anaphylaxis, angioedema and Stevens-Johnson syndrome, have been reported [see ADVERSE REACTIONS ( 6.2 )] Concomitant use of strong CYP3A4 inhibitors (select azole anti-fungals, macrolide antibiotics, anti-viral medications, and nefazodone) ( 4 , 7.1 ) Concomitant use of cyclosporine, danazol or gemfibrozil ( 4 , 7.1 ) Acute liver failur",
+      "contraindications": "30°C). Keep simvastatin tablets and all medicines out of the reach of children. General information about safe and effective use of simvastatin tablets. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use simvastatin tablets for a condition for which it was not prescribed. Do not give simvastatin tablets to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for informa",
       "generic_name": "Simvastatin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "Recommended dosage is 10 mg to 40 mg once daily. ( 2.3 ) Patients with Severe Renal Impairment : Recommended starting dosage is simvastatin 5 mg once daily. ( 2.4 , 8.6 ) See full prescribing information for simvastatin tablets USP dosage modifications due to drug interactions. ( 2.5 ) 2.1 Important Dosage and Administration Information Take simvastatin tablets USP orally once daily in the evening. The maximum recommended dosage is simvastatin tablets USP 40 mg once daily [see DOSAGE AND ADMINISTRATION ( 2.2 , 2.3",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ee DOSAGE AND ADMINISTRATION ( 2.2 , 2.3 )]. An 80 mg daily dosage of simvastatin tablets USP is restricted to patients who have been taking simvastatin tablets USP 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see WARNINGS AND PRECAUTIONS ( 5.1 )]. If as dose is missed, take the missed dose as soon as possible. Do not double the next dose. For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving simvastatin tablets USP 40 mg",
+      "pregnancy_lactation": "ncomitant use of digoxin with simvastatin may result in elevated plasma digoxin concentrations [ see CLINICAL PHARMACOLOGY ( 12.3 ) ]. Intervention: Monitor digoxin levels in patients taking digoxin when simvastatin is initiated. 8 USE IN SPECIFIC POPULATIONS Pregnancy: May cause fetal harm. ( 8.1 ) Lactation: Breastfeeding not recommended during treatment with simvastatin. ( 8.2 ) 8.1 Pregnancy Risk Summary Discontinue simvastatin when pregnancy is recognized. Alternatively, consider the ongoing therapeutic needs",
       "product_id": "BDS001222",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_7120c06a9016",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_7c88730fb6d4"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "or decompensated cirrhosis [see WARNINGS AND PRECAUTIONS ( 5.3 )] Hypersensitivity to simvastatin or any excipients in simvastatin tablets USP. Hypersensitivity reactions, including anaphylaxis, angioedema and Stevens-Johnson syndrome, have been reported [see ADVERSE REACTIONS ( 6.2 )] Concomitant use of strong CYP3A4 inhibitors (select azole anti-fungals, macrolide antibiotics, anti-viral medications, and nefazodone) ( 4 , 7.1 ) Concomitant use of cyclosporine, danazol or gemfibrozil ( 4 , 7.1 ) Acute liver failur",
+      "contraindications": "30°C). Keep simvastatin tablets and all medicines out of the reach of children. General information about safe and effective use of simvastatin tablets. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use simvastatin tablets for a condition for which it was not prescribed. Do not give simvastatin tablets to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for informa",
       "generic_name": "Simvastatin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "Recommended dosage is 10 mg to 40 mg once daily. ( 2.3 ) Patients with Severe Renal Impairment : Recommended starting dosage is simvastatin 5 mg once daily. ( 2.4 , 8.6 ) See full prescribing information for simvastatin tablets USP dosage modifications due to drug interactions. ( 2.5 ) 2.1 Important Dosage and Administration Information Take simvastatin tablets USP orally once daily in the evening. The maximum recommended dosage is simvastatin tablets USP 40 mg once daily [see DOSAGE AND ADMINISTRATION ( 2.2 , 2.3",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ee DOSAGE AND ADMINISTRATION ( 2.2 , 2.3 )]. An 80 mg daily dosage of simvastatin tablets USP is restricted to patients who have been taking simvastatin tablets USP 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see WARNINGS AND PRECAUTIONS ( 5.1 )]. If as dose is missed, take the missed dose as soon as possible. Do not double the next dose. For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving simvastatin tablets USP 40 mg",
+      "pregnancy_lactation": "ncomitant use of digoxin with simvastatin may result in elevated plasma digoxin concentrations [ see CLINICAL PHARMACOLOGY ( 12.3 ) ]. Intervention: Monitor digoxin levels in patients taking digoxin when simvastatin is initiated. 8 USE IN SPECIFIC POPULATIONS Pregnancy: May cause fetal harm. ( 8.1 ) Lactation: Breastfeeding not recommended during treatment with simvastatin. ( 8.2 ) 8.1 Pregnancy Risk Summary Discontinue simvastatin when pregnancy is recognized. Alternatively, consider the ongoing therapeutic needs",
       "product_id": "BDS049784",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_0ce5cd74972b",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_36a39f9a4ffe"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "or decompensated cirrhosis [see WARNINGS AND PRECAUTIONS ( 5.3 )] Hypersensitivity to simvastatin or any excipients in simvastatin tablets USP. Hypersensitivity reactions, including anaphylaxis, angioedema and Stevens-Johnson syndrome, have been reported [see ADVERSE REACTIONS ( 6.2 )] Concomitant use of strong CYP3A4 inhibitors (select azole anti-fungals, macrolide antibiotics, anti-viral medications, and nefazodone) ( 4 , 7.1 ) Concomitant use of cyclosporine, danazol or gemfibrozil ( 4 , 7.1 ) Acute liver failur",
+      "contraindications": "30°C). Keep simvastatin tablets and all medicines out of the reach of children. General information about safe and effective use of simvastatin tablets. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use simvastatin tablets for a condition for which it was not prescribed. Do not give simvastatin tablets to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for informa",
       "generic_name": "Simvastatin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "Recommended dosage is 10 mg to 40 mg once daily. ( 2.3 ) Patients with Severe Renal Impairment : Recommended starting dosage is simvastatin 5 mg once daily. ( 2.4 , 8.6 ) See full prescribing information for simvastatin tablets USP dosage modifications due to drug interactions. ( 2.5 ) 2.1 Important Dosage and Administration Information Take simvastatin tablets USP orally once daily in the evening. The maximum recommended dosage is simvastatin tablets USP 40 mg once daily [see DOSAGE AND ADMINISTRATION ( 2.2 , 2.3",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ee DOSAGE AND ADMINISTRATION ( 2.2 , 2.3 )]. An 80 mg daily dosage of simvastatin tablets USP is restricted to patients who have been taking simvastatin tablets USP 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see WARNINGS AND PRECAUTIONS ( 5.1 )]. If as dose is missed, take the missed dose as soon as possible. Do not double the next dose. For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving simvastatin tablets USP 40 mg",
+      "pregnancy_lactation": "ncomitant use of digoxin with simvastatin may result in elevated plasma digoxin concentrations [ see CLINICAL PHARMACOLOGY ( 12.3 ) ]. Intervention: Monitor digoxin levels in patients taking digoxin when simvastatin is initiated. 8 USE IN SPECIFIC POPULATIONS Pregnancy: May cause fetal harm. ( 8.1 ) Lactation: Breastfeeding not recommended during treatment with simvastatin. ( 8.2 ) 8.1 Pregnancy Risk Summary Discontinue simvastatin when pregnancy is recognized. Alternatively, consider the ongoing therapeutic needs",
       "product_id": "BDS006693",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_ba266e842699",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_f461a2cec8bf"
+      ]
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "or decompensated cirrhosis [see WARNINGS AND PRECAUTIONS ( 5.3 )] Hypersensitivity to simvastatin or any excipients in simvastatin tablets USP. Hypersensitivity reactions, including anaphylaxis, angioedema and Stevens-Johnson syndrome, have been reported [see ADVERSE REACTIONS ( 6.2 )] Concomitant use of strong CYP3A4 inhibitors (select azole anti-fungals, macrolide antibiotics, anti-viral medications, and nefazodone) ( 4 , 7.1 ) Concomitant use of cyclosporine, danazol or gemfibrozil ( 4 , 7.1 ) Acute liver failur",
+      "contraindications": "30°C). Keep simvastatin tablets and all medicines out of the reach of children. General information about safe and effective use of simvastatin tablets. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use simvastatin tablets for a condition for which it was not prescribed. Do not give simvastatin tablets to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for informa",
       "generic_name": "Simvastatin",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "Recommended dosage is 10 mg to 40 mg once daily. ( 2.3 ) Patients with Severe Renal Impairment : Recommended starting dosage is simvastatin 5 mg once daily. ( 2.4 , 8.6 ) See full prescribing information for simvastatin tablets USP dosage modifications due to drug interactions. ( 2.5 ) 2.1 Important Dosage and Administration Information Take simvastatin tablets USP orally once daily in the evening. The maximum recommended dosage is simvastatin tablets USP 40 mg once daily [see DOSAGE AND ADMINISTRATION ( 2.2 , 2.3",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "ee DOSAGE AND ADMINISTRATION ( 2.2 , 2.3 )]. An 80 mg daily dosage of simvastatin tablets USP is restricted to patients who have been taking simvastatin tablets USP 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see WARNINGS AND PRECAUTIONS ( 5.1 )]. If as dose is missed, take the missed dose as soon as possible. Do not double the next dose. For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving simvastatin tablets USP 40 mg",
+      "pregnancy_lactation": "ncomitant use of digoxin with simvastatin may result in elevated plasma digoxin concentrations [ see CLINICAL PHARMACOLOGY ( 12.3 ) ]. Intervention: Monitor digoxin levels in patients taking digoxin when simvastatin is initiated. 8 USE IN SPECIFIC POPULATIONS Pregnancy: May cause fetal harm. ( 8.1 ) Lactation: Breastfeeding not recommended during treatment with simvastatin. ( 8.2 ) 8.1 Pregnancy Risk Summary Discontinue simvastatin when pregnancy is recognized. Alternatively, consider the ongoing therapeutic needs",
       "product_id": "BDS006691",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_ce074e54e840",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_7f8937f5846a"
+      ]
     },
     {
       "common_side_effects": "",
@@ -14482,22 +14581,24 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "ndications (4) ] . When piroxicam is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma. 5.9 Serious Skin Reactions NSAIDs, including piroxicam, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal. NSAIDs canalsocause fixed drug eruption (FDE). FDE may present as a more severe variant known as generalized bullous fix",
+      "contraindications": "ounter). Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days. General information about the safe and effective use of NSAIDs Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them. If you would like more information about NSAIDs, talk with your healthcare provider. You",
       "generic_name": "Piroxicam",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "promptly initiate evaluation and treatment, and discontinue piroxicam until a serious GI adverse event is ruled out. In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7) ] . 5.3 Hepatotoxicity Elevations of alanine aminotransferase (ALT) or aspartate aminotransferase (AST) (three or more times the upper limit of normal [ULN]) have been reported in approximately 1% of NSAID-treated patients in clinical tri",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "M maroon cap blue body PR;10 PIROXICAM Piroxicam LACTOSE MONOHYDRATE MAGNESIUM STEARATE STARCH, CORN SODIUM LAURYL SULFATE FD&amp;C BLUE NO. 1 FD&amp;C RED NO. 40 FD&amp;C RED NO. 3 GELATIN TITANIUM DIOXIDE PIROXICAM PIROXICAM maroon cap and maroon body PR;20 Warnings and Precautions, Serious Skin Reactions ( 5.9 ) 11/2024 WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS Cardiovascular Thrombotic Events Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascula",
+      "pregnancy_lactation": "rance of skin rash or other signs of hypersensitivity ( 5.9 ) Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS): Discontinue and evaluate clinically ( 5.10 ) Fetal Toxicity: Limit use of NSAIDs, including piroxicam, between about 20 to 30 weeks in pregnancy due to the risk of oligohydramnios/fetal renal dysfunction. Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy due to the risks of oligohydramnios/fetal renal dysfunction and premature closure of the fetal ductus arterios",
       "product_id": "BDS001917",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_a8ab9736cbe8",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_a1633940ad19"
+      ]
     },
     {
       "common_side_effects": "",
@@ -14554,22 +14655,24 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "ndications (4) ] . When piroxicam is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma. 5.9 Serious Skin Reactions NSAIDs, including piroxicam, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal. NSAIDs canalsocause fixed drug eruption (FDE). FDE may present as a more severe variant known as generalized bullous fix",
+      "contraindications": "ounter). Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days. General information about the safe and effective use of NSAIDs Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them. If you would like more information about NSAIDs, talk with your healthcare provider. You",
       "generic_name": "Piroxicam",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "promptly initiate evaluation and treatment, and discontinue piroxicam until a serious GI adverse event is ruled out. In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7) ] . 5.3 Hepatotoxicity Elevations of alanine aminotransferase (ALT) or aspartate aminotransferase (AST) (three or more times the upper limit of normal [ULN]) have been reported in approximately 1% of NSAID-treated patients in clinical tri",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "M maroon cap blue body PR;10 PIROXICAM Piroxicam LACTOSE MONOHYDRATE MAGNESIUM STEARATE STARCH, CORN SODIUM LAURYL SULFATE FD&amp;C BLUE NO. 1 FD&amp;C RED NO. 40 FD&amp;C RED NO. 3 GELATIN TITANIUM DIOXIDE PIROXICAM PIROXICAM maroon cap and maroon body PR;20 Warnings and Precautions, Serious Skin Reactions ( 5.9 ) 11/2024 WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS Cardiovascular Thrombotic Events Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascula",
+      "pregnancy_lactation": "rance of skin rash or other signs of hypersensitivity ( 5.9 ) Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS): Discontinue and evaluate clinically ( 5.10 ) Fetal Toxicity: Limit use of NSAIDs, including piroxicam, between about 20 to 30 weeks in pregnancy due to the risk of oligohydramnios/fetal renal dysfunction. Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy due to the risks of oligohydramnios/fetal renal dysfunction and premature closure of the fetal ductus arterios",
       "product_id": "BDS045623",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_dc2ae88b75f4",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_0feca66706ec"
+      ]
     },
     {
       "common_side_effects": "",
@@ -14626,22 +14729,24 @@
       "source_ids": []
     },
     {
-      "common_side_effects": "",
-      "contraindications": "",
+      "common_side_effects": "ndications (4) ] . When piroxicam is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma. 5.9 Serious Skin Reactions NSAIDs, including piroxicam, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal. NSAIDs canalsocause fixed drug eruption (FDE). FDE may present as a more severe variant known as generalized bullous fix",
+      "contraindications": "ounter). Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days. General information about the safe and effective use of NSAIDs Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them. If you would like more information about NSAIDs, talk with your healthcare provider. You",
       "generic_name": "Piroxicam",
       "hepatic_notes": "",
-      "major_interactions": "",
+      "major_interactions": "promptly initiate evaluation and treatment, and discontinue piroxicam until a serious GI adverse event is ruled out. In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7) ] . 5.3 Hepatotoxicity Elevations of alanine aminotransferase (ALT) or aspartate aminotransferase (AST) (three or more times the upper limit of normal [ULN]) have been reported in approximately 1% of NSAID-treated patients in clinical tri",
       "pediatric_notes": "",
-      "precautions": "",
-      "pregnancy_lactation": "",
+      "precautions": "M maroon cap blue body PR;10 PIROXICAM Piroxicam LACTOSE MONOHYDRATE MAGNESIUM STEARATE STARCH, CORN SODIUM LAURYL SULFATE FD&amp;C BLUE NO. 1 FD&amp;C RED NO. 40 FD&amp;C RED NO. 3 GELATIN TITANIUM DIOXIDE PIROXICAM PIROXICAM maroon cap and maroon body PR;20 Warnings and Precautions, Serious Skin Reactions ( 5.9 ) 11/2024 WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS Cardiovascular Thrombotic Events Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascula",
+      "pregnancy_lactation": "rance of skin rash or other signs of hypersensitivity ( 5.9 ) Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS): Discontinue and evaluate clinically ( 5.10 ) Fetal Toxicity: Limit use of NSAIDs, including piroxicam, between about 20 to 30 weeks in pregnancy due to the risk of oligohydramnios/fetal renal dysfunction. Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy due to the risks of oligohydramnios/fetal renal dysfunction and premature closure of the fetal ductus arterios",
       "product_id": "BDS007224",
       "red_flag_referral": "",
       "renal_notes": "",
       "safety_id": "safe_c9718955d730",
-      "safety_ready": false,
-      "safety_source_level": "workbook_seed_only",
+      "safety_ready": true,
+      "safety_source_level": "official_product_label",
       "serious_side_effects": "",
-      "source_ids": []
+      "source_ids": [
+        "dailymed_989dd8ed65f9"
+      ]
     },
     {
       "common_side_effects": "",
