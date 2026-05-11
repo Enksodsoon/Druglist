@@ -10353,24 +10353,26 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Acyclovir 400 mg.",
       "form": "tablet",
       "generic_name": "Acyclovir",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS008064",
       "product_name": "Acyvir 400 mg [Acyclovir 400 mg.]",
       "query_count": 3,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Acyclovir Thai FDA SmPC",
         "Acyclovir DailyMed dosage contraindications interactions",
         "herpes_labialis_adult guideline Acyclovir 400 mg. dose duration"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_c4fc0b47b5dc"
+      ]
     },
     {
       "accredited_source_status": "accredited_source_linked",
@@ -10391,122 +10393,135 @@
         "herpes_zoster_adult guideline Acyclovir 800 mg. dose duration"
       ],
       "source_ids": [
-        "br_moh_herpes_treatment"
+        "br_moh_herpes_treatment",
+        "dailymed_f74aaeabcfb2"
       ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Acyclovir 200 mg.",
       "form": "tablet",
       "generic_name": "Acyclovir",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007782",
       "product_name": "Clinovir 200 mg [Acyclovir 200 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Acyclovir Thai FDA SmPC",
         "Acyclovir DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_afd6297bf8c4"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Acyclovir 400 mg.",
       "form": "tablet",
       "generic_name": "Acyclovir",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007783",
       "product_name": "Clinovir 400 mg [Acyclovir 400 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Acyclovir Thai FDA SmPC",
         "Acyclovir DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_18133e31cc1e"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Acyclovir 800 mg.",
       "form": "tablet",
       "generic_name": "Acyclovir",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007781",
       "product_name": "Clinovir 800 mg [Acyclovir 800 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Acyclovir Thai FDA SmPC",
         "Acyclovir DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_1e109e2d40bd"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Acyclovir 200 mg.",
       "form": "tablet",
       "generic_name": "Acyclovir",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS004019",
       "product_name": "Vilerm 200 mg 5s [Acyclovir 200 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Acyclovir Thai FDA SmPC",
         "Acyclovir DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_53affeb2b36e"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Acyclovir 400 mg.",
       "form": "tablet",
       "generic_name": "Acyclovir",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS004086",
       "product_name": "Vilerm 400 mg 5s [Acyclovir 400 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Acyclovir Thai FDA SmPC",
         "Acyclovir DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_5637c4e45404"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Acyclovir 800 mg.",
       "form": "tablet",
       "generic_name": "Acyclovir",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS004011",
       "product_name": "Vilerm 800 mg 5s [Acyclovir 800 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Acyclovir Thai FDA SmPC",
         "Acyclovir DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_d4cbc2cb963a"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
