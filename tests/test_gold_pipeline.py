@@ -208,3 +208,39 @@ def test_swap_tier_report_contains_verified_alternatives():
         rows = list(csv.DictReader(handle))
     assert rows
     assert any("Tier 1" in row.get("swap_tier", "") for row in rows)
+
+
+def test_all_drug_accredited_sweep_has_no_inventory_gaps():
+    import csv
+
+    products = load("data/gold/product_master_gold.json")["items"]
+    regimens = load("data/gold/disease_regimen_gold.json")["items"]
+    with (ROOT / "reports/gold/all_drug_accredited_product_sweep.csv").open(encoding="utf-8-sig") as handle:
+        product_rows = list(csv.DictReader(handle))
+    with (ROOT / "reports/gold/all_regimen_accredited_sweep.csv").open(encoding="utf-8-sig") as handle:
+        regimen_rows = list(csv.DictReader(handle))
+    assert len(product_rows) == len(products)
+    assert len(regimen_rows) == len(regimens)
+    assert {row["product_id"] for row in product_rows} == {row["product_id"] for row in products}
+    assert all(row["gold_inventory_status"] == "in_gold_inventory" for row in product_rows)
+    assert all(row["accredited_source_status"] for row in product_rows)
+
+
+def test_all_drug_sweep_keeps_pending_rows_hidden():
+    import csv
+
+    rx = load("data/gold/rx_eligibility_map.json")
+    ready_pairs = {(row["product_id"], row["disease_key"]) for row in rx["rx_now_ready"] + rx["swaps_ready"]}
+    with (ROOT / "reports/gold/all_regimen_accredited_sweep.csv").open(encoding="utf-8-sig") as handle:
+        rows = list(csv.DictReader(handle))
+    pending = [row for row in rows if row["accredited_source_status"] == "pending_exact_accredited_evidence"]
+    assert pending
+    assert all((row["product_id"], row["disease_key"]) not in ready_pairs for row in pending)
+
+
+def test_all_drug_sweep_summary_reports_full_processing():
+    summary = (ROOT / "reports/gold/all_drug_accredited_sweep_summary.md").read_text(encoding="utf-8")
+    assert "products_processed: 910" in summary
+    assert "regimen_rows_processed: 987" in summary
+    assert "pediatric_rows_processed: 93" in summary
+    assert "antibiotic_rows_processed: 192" in summary

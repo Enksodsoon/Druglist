@@ -33,7 +33,7 @@ PROCESSED_SOURCES = ROOT / "imports/processed_sources"
 REJECTED_SOURCES = ROOT / "imports/rejected_sources"
 SOURCE_LOGS = ROOT / "imports/logs"
 ACCEPTED_EVIDENCE = ROOT / "imports/accepted_evidence"
-PHASE2_BUNDLE_PREFIX = "Druglist_Gold_OPD_First_Pack_Output"
+PHASE2_BUNDLE_PREFIX = "Druglist_Gold_All_Drug_Accredited_Sweep_Output"
 
 ALLOWED_FINAL_STATUSES = {
     "gold_ready_adult",
@@ -100,6 +100,7 @@ GOLD_JSON_FILES = [
     "source_citations_gold.json",
     "rx_eligibility_map.json",
     "gold_runtime_config.json",
+    "all_drug_accredited_sweep.json",
 ]
 
 REVIEW_FILES = [
@@ -842,6 +843,132 @@ def product_match_gap_report() -> None:
     write_csv(REPORT_GOLD / "product_match_gap_report.csv", rows)
 
 
+def all_drug_accredited_sweep_reports() -> dict[str, int]:
+    products = read_json(DATA_GOLD / "product_master_gold.json", {"items": []}).get("items", [])
+    regimens = read_json(DATA_GOLD / "disease_regimen_gold.json", {"items": []}).get("items", [])
+    peds = read_json(DATA_GOLD / "pediatric_dose_engine.json", {"items": []}).get("items", [])
+    antibiotics = read_json(DATA_GOLD / "antibiotic_gate_map.json", {"items": []}).get("items", [])
+    rx = read_json(DATA_GOLD / "rx_eligibility_map.json", {})
+    ready_pairs = {(row.get("product_id", ""), row.get("disease_key", "")) for row in rx.get("rx_now_ready", []) + rx.get("swaps_ready", [])}
+    product_query_rows = read_csv(REPORT_GOLD / "source_acquisition_queue.csv")
+    queries_by_product = defaultdict(list)
+    for row in product_query_rows:
+        if row.get("product_id"):
+            queries_by_product[row["product_id"]].append(row.get("query", ""))
+
+    product_rows = []
+    for row in products:
+        pid = row.get("product_id", "")
+        source_ids = row.get("product_metadata_source_ids") or []
+        verified = bool(source_ids)
+        product_rows.append(
+            {
+                "product_id": pid,
+                "product_name": row.get("product_name", ""),
+                "generic_name": row.get("generic_name", ""),
+                "composition": row.get("composition", ""),
+                "form": row.get("form", ""),
+                "route": row.get("route", ""),
+                "gold_inventory_status": "in_gold_inventory",
+                "accredited_source_status": "accredited_source_linked" if verified else "pending_accredited_source",
+                "rx_eligible": row.get("rx_eligible", False),
+                "source_ids": source_ids,
+                "missing_accredited_fields": "" if verified else "product label or Thai registration source; safety fields; product strength/form/route confirmation",
+                "next_action": "review linked citations before promotion" if verified else "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+                "query_count": len(queries_by_product.get(pid, [])),
+                "sample_queries": queries_by_product.get(pid, [])[:3],
+            }
+        )
+
+    regimen_rows = []
+    for row in regimens:
+        status = row.get("final_rx_status", "")
+        ready = (row.get("product_id", ""), row.get("disease_key", "")) in ready_pairs and status.startswith("gold_ready")
+        missing = []
+        if not row.get("source_ids"):
+            missing.append("source citation")
+        if not row.get("indication_verified"):
+            missing.append("indication")
+        if not row.get("dose_verified"):
+            missing.append("dose")
+        if not row.get("route_verified"):
+            missing.append("route")
+        if not row.get("frequency_verified"):
+            missing.append("frequency")
+        if not row.get("duration_verified"):
+            missing.append("duration")
+        if not row.get("safety_minimum_ready"):
+            missing.append("minimum safety")
+        regimen_rows.append(
+            {
+                "gold_regimen_row_id": row.get("gold_regimen_row_id", ""),
+                "regimen_id": row.get("regimen_id", ""),
+                "product_id": row.get("product_id", ""),
+                "generic_name": row.get("generic_name", ""),
+                "disease_key": row.get("disease_key", ""),
+                "modality": row.get("modality", ""),
+                "final_rx_status": status,
+                "accredited_source_status": "ready_source_verified" if ready else "pending_exact_accredited_evidence",
+                "missing_accredited_fields": "; ".join(missing),
+                "next_action": "eligible only through Gold overlay review" if ready else "find accepted source with exact indication/dose/route/frequency/duration/safety snippets",
+            }
+        )
+
+    peds_rows = [
+        {
+            **row,
+            "accredited_source_status": "pediatric_formula_ready" if row.get("pediatric_formula_ready") else "blocked_pending_complete_pediatric_source",
+            "missing_accredited_fields": "" if row.get("pediatric_formula_ready") else "age/BW rule; dose formula; max dose; concentration; rounding; pediatric citation",
+            "next_action": "ready for pediatric formula review" if row.get("pediatric_formula_ready") else "retrieve pediatric formulary/guideline and product concentration source",
+        }
+        for row in peds
+    ]
+    antibiotic_rows = [
+        {
+            **row,
+            "accredited_source_status": "antibiotic_gate_ready" if row.get("antibiotic_gate_ready") else "blocked_pending_antibiotic_criteria_source",
+            "missing_accredited_fields": "" if row.get("antibiotic_gate_ready") else "bacterial criteria; drug choice; dose; duration; gate logic; safety citation",
+            "next_action": "ready for antibiotic gate review" if row.get("antibiotic_gate_ready") else "retrieve RDU/AWaRe/NICE/IDSA/Thai guideline with exact disease criteria and dosing",
+        }
+        for row in antibiotics
+    ]
+
+    write_csv(REPORT_GOLD / "all_drug_accredited_product_sweep.csv", product_rows)
+    write_csv(REPORT_GOLD / "all_regimen_accredited_sweep.csv", regimen_rows)
+    write_csv(REPORT_GOLD / "all_pediatric_accredited_sweep.csv", peds_rows)
+    write_csv(REPORT_GOLD / "all_antibiotic_accredited_sweep.csv", antibiotic_rows)
+    write_json(
+        DATA_GOLD / "all_drug_accredited_sweep.json",
+        {
+            "products": product_rows,
+            "regimens": regimen_rows,
+            "pediatric": peds_rows,
+            "antibiotics": antibiotic_rows,
+        },
+    )
+    summary = {
+        "products_processed": len(product_rows),
+        "products_with_accredited_source": sum(1 for row in product_rows if row["accredited_source_status"] == "accredited_source_linked"),
+        "products_pending_accredited_source": sum(1 for row in product_rows if row["accredited_source_status"] == "pending_accredited_source"),
+        "regimen_rows_processed": len(regimen_rows),
+        "regimen_rows_ready_source_verified": sum(1 for row in regimen_rows if row["accredited_source_status"] == "ready_source_verified"),
+        "regimen_rows_pending_exact_evidence": sum(1 for row in regimen_rows if row["accredited_source_status"] == "pending_exact_accredited_evidence"),
+        "pediatric_rows_processed": len(peds_rows),
+        "pediatric_rows_formula_ready": sum(1 for row in peds_rows if row.get("pediatric_formula_ready")),
+        "antibiotic_rows_processed": len(antibiotic_rows),
+        "antibiotic_rows_gate_ready": sum(1 for row in antibiotic_rows if row.get("antibiotic_gate_ready")),
+    }
+    write_report(
+        REPORT_GOLD / "all_drug_accredited_sweep_summary.md",
+        "All Drug Accredited Sweep Summary",
+        [
+            "Every exported product, regimen, pediatric shortcut, and antibiotic row was processed. Rows without exact accredited field-level evidence remain hidden from prescribing output.",
+            *[f"- {key}: {value}" for key, value in summary.items()],
+        ],
+    )
+    return summary
+
+
 def swaps_tier_report() -> None:
     swaps = read_json(DATA_GOLD / "rx_eligibility_map.json", {}).get("swaps_ready", [])
     rows = []
@@ -1006,6 +1133,11 @@ def export_bundle() -> Path:
             REPORT_GOLD / "gold_unique_coverage_summary.md",
             REPORT_GOLD / "product_match_gap_report.csv",
             REPORT_GOLD / "swaps_tier_report.csv",
+            REPORT_GOLD / "all_drug_accredited_product_sweep.csv",
+            REPORT_GOLD / "all_regimen_accredited_sweep.csv",
+            REPORT_GOLD / "all_pediatric_accredited_sweep.csv",
+            REPORT_GOLD / "all_antibiotic_accredited_sweep.csv",
+            REPORT_GOLD / "all_drug_accredited_sweep_summary.md",
             REPORT_GOLD / "pediatric_formula_gap_report.csv",
             REPORT_GOLD / "antibiotic_gate_gap_report.csv",
             REPORT_GOLD / "safety_gap_report.csv",
@@ -1033,6 +1165,7 @@ def final_summary(selected: dict[str, Any], query_count: int, counts: dict[str, 
     conflicts = len(read_csv(REPORT_GOLD / "conflict_report.csv"))
     acquisition_queue = len(read_csv(REPORT_GOLD / "source_acquisition_queue.csv"))
     unique = unique_coverage_reports()
+    all_sweep = all_drug_accredited_sweep_reports()
     lines = [
         "Rows are unlocked only when exact source-backed field-level evidence passes validation. Workbook-only rows remain hidden from prescribing output.",
         f"- Workbook used: `{selected.get('selected_workbook') or 'none_found'}`",
@@ -1054,6 +1187,10 @@ def final_summary(selected: dict[str, Any], query_count: int, counts: dict[str, 
         f"- Hidden/not-ready count: {rx_counts.get('not_ready', 0)}",
         f"- Conflict count: {conflicts}",
         f"- Source acquisition queue count: {acquisition_queue}",
+        f"- All-drug sweep products processed: {all_sweep.get('products_processed', 0)}",
+        f"- All-drug sweep products still pending accredited source: {all_sweep.get('products_pending_accredited_source', 0)}",
+        f"- All-drug sweep regimen rows processed: {all_sweep.get('regimen_rows_processed', 0)}",
+        f"- All-drug sweep regimen rows pending exact evidence: {all_sweep.get('regimen_rows_pending_exact_evidence', 0)}",
         f"- Output bundle: `{bundle.relative_to(ROOT)}`",
         "- Promotion was not run.",
         "- Next command: `python3 scripts/gold/run_gold_pipeline.py && python3 scripts/gold/09_validate_gold_readiness.py`",
@@ -1077,6 +1214,7 @@ def run_pipeline() -> dict[str, Any]:
     rx_counts = build_rx_eligibility()
     unique_coverage_reports()
     product_match_gap_report()
+    all_drug_accredited_sweep_reports()
     swaps_tier_report()
     gap_reports()
     copy_gold_to_dist()

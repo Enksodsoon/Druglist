@@ -20,6 +20,10 @@ Rows are unlocked only when exact source-backed field-level evidence passes vali
 - Hidden/not-ready count: 925
 - Conflict count: 3
 - Source acquisition queue count: 2449
-- Output bundle: `exports/Druglist_Gold_OPD_First_Pack_Output_20260509.zip`
+- All-drug sweep products processed: 910
+- All-drug sweep products still pending accredited source: 904
+- All-drug sweep regimen rows processed: 987
+- All-drug sweep regimen rows pending exact evidence: 928
+- Output bundle: `exports/Druglist_Gold_All_Drug_Accredited_Sweep_Output_20260511.zip`
 - Promotion was not run.
 - Next command: `python3 scripts/gold/run_gold_pipeline.py && python3 scripts/gold/09_validate_gold_readiness.py`
