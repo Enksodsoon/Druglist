@@ -293,3 +293,20 @@ def test_full_accredited_source_sweep_does_not_unlock_label_only_rows():
     ]
     assert label_only_regimens
     assert all(not row.get("indication_verified") for row in label_only_regimens)
+
+
+def test_long_accredited_source_queue_covers_all_row_families():
+    import csv
+
+    with (ROOT / "reports/gold/long_accredited_source_acquisition_queue.csv").open(encoding="utf-8-sig") as handle:
+        queue = list(csv.DictReader(handle))
+    with (ROOT / "reports/gold/long_accredited_source_gap_matrix.csv").open(encoding="utf-8-sig") as handle:
+        gaps = list(csv.DictReader(handle))
+    assert queue
+    assert gaps
+    row_types = {row["row_type"] for row in queue}
+    assert {"product", "regimen", "pediatric", "antibiotic"}.issubset(row_types)
+    targets = {row["source_target_id"] for row in queue}
+    assert {"thai_fda_smpc_pil", "thai_ndi_nlem", "thai_rdu_moph", "thai_pediatric", "thai_rdu_antibiotic"}.issubset(targets)
+    assert any("line_of_treatment" in row.get("missing_fields", "") for row in gaps if row["row_type"] == "regimen")
+    assert any("product concentration" in row.get("missing_fields", "") for row in gaps if row["row_type"] == "pediatric")

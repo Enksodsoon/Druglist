@@ -22304,32 +22304,6 @@
   "reference_only_products": [
     {
       "brand_aliases": [
-        "A.M.Mox 500 [Amoxicillin 500 mg.]"
-      ],
-      "composition": "Amoxicillin 500 mg.",
-      "form": "capsule",
-      "generic_aliases": [
-        "Amoxicillin",
-        "Amoxicillin 500 mg."
-      ],
-      "generic_name": "Amoxicillin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 แคปซูล",
-      "price": "",
-      "product_id": "BDS040078",
-      "product_metadata_source_ids": [],
-      "product_name": "A.M.Mox 500 [Amoxicillin 500 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "AMK 1000 mg [Amoxicillin 875 mg.+Clavulanic Acid 125 mg.]"
       ],
       "composition": "Amoxicillin 875 mg.+Clavulanic Acid 125 mg.",
@@ -22398,58 +22372,6 @@
       "product_id": "BDS040017",
       "product_metadata_source_ids": [],
       "product_name": "Augmentin 1 g. [Amoxicillin Trihydrate (eq. to Amoxicillin 875 mg.)+Clavulanic Potassium (eq. to Clavulanic Acid 125 mg.)]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Azithro 250 mg [Azithromycin 250 mg.]"
-      ],
-      "composition": "Azithromycin 250 mg.",
-      "form": "capsule",
-      "generic_aliases": [
-        "Azithromycin",
-        "Azithromycin 250 mg."
-      ],
-      "generic_name": "Azithromycin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "กล่อง 6 แคปซูล",
-      "price": "",
-      "product_id": "BDS001494",
-      "product_metadata_source_ids": [],
-      "product_name": "Azithro 250 mg [Azithromycin 250 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Azycin 250 mg (GPO) [Azithromycin 250 mg.]"
-      ],
-      "composition": "Azithromycin 250 mg.",
-      "form": "capsule",
-      "generic_aliases": [
-        "Azithromycin",
-        "Azithromycin 250 mg."
-      ],
-      "generic_name": "Azithromycin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "กล่อง 6 แคปซูล",
-      "price": "",
-      "product_id": "BDS006115",
-      "product_metadata_source_ids": [],
-      "product_name": "Azycin 250 mg (GPO) [Azithromycin 250 mg.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -22606,58 +22528,6 @@
       "product_id": "BDS008702",
       "product_metadata_source_ids": [],
       "product_name": "Dicloxman-500 [Dicloxacillin 500 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Floctil 250 [Azithromycin 250 mg.]"
-      ],
-      "composition": "Azithromycin 250 mg.",
-      "form": "capsule",
-      "generic_aliases": [
-        "Azithromycin",
-        "Azithromycin 250 mg."
-      ],
-      "generic_name": "Azithromycin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "กล่อง 6 แคปซูล",
-      "price": "",
-      "product_id": "BDS001943",
-      "product_metadata_source_ids": [],
-      "product_name": "Floctil 250 [Azithromycin 250 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Ibiamox 500 mg [Amoxicillin 500 mg.]"
-      ],
-      "composition": "Amoxicillin 500 mg.",
-      "form": "capsule",
-      "generic_aliases": [
-        "Amoxicillin",
-        "Amoxicillin 500 mg."
-      ],
-      "generic_name": "Amoxicillin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 แคปซูล",
-      "price": "",
-      "product_id": "BDS002201",
-      "product_metadata_source_ids": [],
-      "product_name": "Ibiamox 500 mg [Amoxicillin 500 mg.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -22840,58 +22710,6 @@
       "product_id": "BDS003428",
       "product_metadata_source_ids": [],
       "product_name": "Rulid 150 mg [Roxithromycin 150 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Uramox 500 [Amoxicillin 500 mg.]"
-      ],
-      "composition": "Amoxicillin 500 mg.",
-      "form": "capsule",
-      "generic_aliases": [
-        "Amoxicillin",
-        "Amoxicillin 500 mg."
-      ],
-      "generic_name": "Amoxicillin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 แคปซูล",
-      "price": "",
-      "product_id": "BDS007007",
-      "product_metadata_source_ids": [],
-      "product_name": "Uramox 500 [Amoxicillin 500 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Zithromax tabslet 250 mg [Azithromycin 250 mg.]"
-      ],
-      "composition": "Azithromycin 250 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Azithromycin",
-        "Azithromycin 250 mg."
-      ],
-      "generic_name": "Azithromycin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "กล่อง 6 เม็ด",
-      "price": "",
-      "product_id": "BDS049776",
-      "product_metadata_source_ids": [],
-      "product_name": "Zithromax tabslet 250 mg [Azithromycin 250 mg.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -23126,32 +22944,6 @@
       "product_id": "BDS001010",
       "product_metadata_source_ids": [],
       "product_name": "Aerius tabslet [Desloratadine 5 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Alerest [Cetirizine dihydrochloride 10 mg.]"
-      ],
-      "composition": "Cetirizine dihydrochloride 10 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Cetirizine dihydrochloride",
-        "Cetirizine dihydrochloride 10 mg."
-      ],
-      "generic_name": "Cetirizine dihydrochloride",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS040029",
-      "product_metadata_source_ids": [],
-      "product_name": "Alerest [Cetirizine dihydrochloride 10 mg.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -23552,58 +23344,6 @@
     },
     {
       "brand_aliases": [
-        "Montek 10 mg [Montelukast Sodium 10.4 mg.]"
-      ],
-      "composition": "Montelukast Sodium 10.4 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Montelukast Sodium",
-        "Montelukast Sodium 10.4 mg."
-      ],
-      "generic_name": "Montelukast Sodium",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 7 เม็ด",
-      "price": "",
-      "product_id": "BDS003427",
-      "product_metadata_source_ids": [],
-      "product_name": "Montek 10 mg [Montelukast Sodium 10.4 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Montulair 10 mg [Montelukast 10 mg.]"
-      ],
-      "composition": "Montelukast 10 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Montelukast",
-        "Montelukast 10 mg."
-      ],
-      "generic_name": "Montelukast",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS044924",
-      "product_metadata_source_ids": [],
-      "product_name": "Montulair 10 mg [Montelukast 10 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.]"
       ],
       "composition": "Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.",
@@ -23646,58 +23386,6 @@
       "product_id": "BDS047430",
       "product_metadata_source_ids": [],
       "product_name": "Rhinotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Singulair 10 mg 7s [Montelukast Sodium 10.4 mg.]"
-      ],
-      "composition": "Montelukast Sodium 10.4 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Montelukast Sodium",
-        "Montelukast Sodium 10.4 mg."
-      ],
-      "generic_name": "Montelukast Sodium",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 7 เม็ด",
-      "price": "",
-      "product_id": "BDS003511",
-      "product_metadata_source_ids": [],
-      "product_name": "Singulair 10 mg 7s [Montelukast Sodium 10.4 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Singulair 5 mg Box 28s [Montelukast Sodium 5.2 mg.]"
-      ],
-      "composition": "Montelukast Sodium 5.2 mg.",
-      "form": "powder",
-      "generic_aliases": [
-        "Montelukast Sodium",
-        "Montelukast Sodium 5.2 mg."
-      ],
-      "generic_name": "Montelukast Sodium",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "กล่อง 4 แผง",
-      "price": "",
-      "product_id": "BDS047722",
-      "product_metadata_source_ids": [],
-      "product_name": "Singulair 5 mg Box 28s [Montelukast Sodium 5.2 mg.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -23942,32 +23630,6 @@
     },
     {
       "brand_aliases": [
-        "Zensil [Cetirizine dihydrochloride 10 mg.]"
-      ],
-      "composition": "Cetirizine dihydrochloride 10 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Cetirizine dihydrochloride",
-        "Cetirizine dihydrochloride 10 mg."
-      ],
-      "generic_name": "Cetirizine dihydrochloride",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "กล่อง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS004224",
-      "product_metadata_source_ids": [],
-      "product_name": "Zensil [Cetirizine dihydrochloride 10 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "Zirin [Cetirizine dihydrochloride 10 mg.]"
       ],
       "composition": "Cetirizine dihydrochloride 10 mg.",
@@ -23984,84 +23646,6 @@
       "product_id": "BDS049778",
       "product_metadata_source_ids": [],
       "product_name": "Zirin [Cetirizine dihydrochloride 10 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Zytizine F/C tabslet [Cetirizine dihydrochloride 10 mg.]"
-      ],
-      "composition": "Cetirizine dihydrochloride 10 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Cetirizine dihydrochloride",
-        "Cetirizine dihydrochloride 10 mg."
-      ],
-      "generic_name": "Cetirizine dihydrochloride",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS008754",
-      "product_metadata_source_ids": [],
-      "product_name": "Zytizine F/C tabslet [Cetirizine dihydrochloride 10 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Chlophe [Chlorpheniramine Maleate 2 mg.]"
-      ],
-      "composition": "Chlorpheniramine Maleate 2 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Chlorpheniramine Maleate",
-        "Chlorpheniramine Maleate 2 mg."
-      ],
-      "generic_name": "Chlorpheniramine Maleate",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS001008",
-      "product_metadata_source_ids": [],
-      "product_name": "Chlophe [Chlorpheniramine Maleate 2 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Chlorpheniramine 2 mg. [Chlorpheniramine Maleate 2 mg.]"
-      ],
-      "composition": "Chlorpheniramine Maleate 2 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Chlorpheniramine Maleate",
-        "Chlorpheniramine Maleate 2 mg."
-      ],
-      "generic_name": "Chlorpheniramine Maleate",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "ซอง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS041504",
-      "product_metadata_source_ids": [],
-      "product_name": "Chlorpheniramine 2 mg. [Chlorpheniramine Maleate 2 mg.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -26542,32 +26126,6 @@
     },
     {
       "brand_aliases": [
-        "Azith Oral Suspension [Azithromycin 200 mg./5 ml.]"
-      ],
-      "composition": "Azithromycin 200 mg./5 ml.",
-      "form": "suspension",
-      "generic_aliases": [
-        "Azithromycin",
-        "Azithromycin 200 mg./5 ml."
-      ],
-      "generic_name": "Azithromycin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "ขวด 15 ml.",
-      "price": "",
-      "product_id": "BDS001084",
-      "product_metadata_source_ids": [],
-      "product_name": "Azith Oral Suspension [Azithromycin 200 mg./5 ml.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "Cefspan Suspension [Cefixime 100 mg./5 ml.]"
       ],
       "composition": "Cefixime 100 mg./5 ml.",
@@ -26646,32 +26204,6 @@
     },
     {
       "brand_aliases": [
-        "Newtamox For Oral Suspension [Amoxicillin 125 mg./5 ml.]"
-      ],
-      "composition": "Amoxicillin 125 mg./5 ml.",
-      "form": "suspension",
-      "generic_aliases": [
-        "Amoxicillin",
-        "Amoxicillin 125 mg./5 ml."
-      ],
-      "generic_name": "Amoxicillin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "ขวด 60 ml.",
-      "price": "",
-      "product_id": "BDS007586",
-      "product_metadata_source_ids": [],
-      "product_name": "Newtamox For Oral Suspension [Amoxicillin 125 mg./5 ml.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "Newthrocin [Erythromycin 125 mg./5 ml.]"
       ],
       "composition": "Erythromycin 125 mg./5 ml.",
@@ -26688,32 +26220,6 @@
       "product_id": "BDS007589",
       "product_metadata_source_ids": [],
       "product_name": "Newthrocin [Erythromycin 125 mg./5 ml.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Onzet Oral Suspension [Azithromycin 200 mg./5 ml.]"
-      ],
-      "composition": "Azithromycin 200 mg./5 ml.",
-      "form": "suspension",
-      "generic_aliases": [
-        "Azithromycin",
-        "Azithromycin 200 mg./5 ml."
-      ],
-      "generic_name": "Azithromycin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "ขวด 15 ml.",
-      "price": "",
-      "product_id": "BDS046209",
-      "product_metadata_source_ids": [],
-      "product_name": "Onzet Oral Suspension [Azithromycin 200 mg./5 ml.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -26792,32 +26298,6 @@
       "product_id": "BDS007682",
       "product_metadata_source_ids": [],
       "product_name": "Xalin Dry Syrup 125 mg [Cloxacillin 125 mg./5 ml.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Zithromax Dry 200 mg [Azithromycin 200 mg./5 ml.]"
-      ],
-      "composition": "Azithromycin 200 mg./5 ml.",
-      "form": "other",
-      "generic_aliases": [
-        "Azithromycin",
-        "Azithromycin 200 mg./5 ml."
-      ],
-      "generic_name": "Azithromycin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "ขวด 15 ml.",
-      "price": "",
-      "product_id": "BDS004225",
-      "product_metadata_source_ids": [],
-      "product_name": "Zithromax Dry 200 mg [Azithromycin 200 mg./5 ml.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -28310,32 +27790,6 @@
     },
     {
       "brand_aliases": [
-        "Felcam Capsule [Piroxicam 10 mg.]"
-      ],
-      "composition": "Piroxicam 10 mg.",
-      "form": "capsule",
-      "generic_aliases": [
-        "Piroxicam",
-        "Piroxicam 10 mg."
-      ],
-      "generic_name": "Piroxicam",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 แคปซูล",
-      "price": "",
-      "product_id": "BDS007602",
-      "product_metadata_source_ids": [],
-      "product_name": "Felcam Capsule [Piroxicam 10 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "Japrolox tabslets [Loxoprofen sodium 60 mg.]"
       ],
       "composition": "Loxoprofen sodium 60 mg.",
@@ -28534,32 +27988,6 @@
       "product_id": "BDS007576",
       "product_metadata_source_ids": [],
       "product_name": "Naprosian [Naproxen 250 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Pircam 20 mg [Piroxicam 20 mg.]"
-      ],
-      "composition": "Piroxicam 20 mg.",
-      "form": "capsule",
-      "generic_aliases": [
-        "Piroxicam",
-        "Piroxicam 20 mg."
-      ],
-      "generic_name": "Piroxicam",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 แคปซูล",
-      "price": "",
-      "product_id": "BDS003422",
-      "product_metadata_source_ids": [],
-      "product_name": "Pircam 20 mg [Piroxicam 20 mg.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -35018,58 +34446,6 @@
     },
     {
       "brand_aliases": [
-        "Ambes 10 mg (GPO) [Amlodipine besylate 10 mg.]"
-      ],
-      "composition": "Amlodipine besylate 10 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Amlodipine besylate",
-        "Amlodipine besylate 10 mg."
-      ],
-      "generic_name": "Amlodipine besylate",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS006069",
-      "product_metadata_source_ids": [],
-      "product_name": "Ambes 10 mg (GPO) [Amlodipine besylate 10 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Ambes 5 mg (GPO) [Amlodipine besylate 5 mg.]"
-      ],
-      "composition": "Amlodipine besylate 5 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Amlodipine besylate",
-        "Amlodipine besylate 5 mg."
-      ],
-      "generic_name": "Amlodipine besylate",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS006070",
-      "product_metadata_source_ids": [],
-      "product_name": "Ambes 5 mg (GPO) [Amlodipine besylate 5 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "Amlodac 10 [Amlodipine besilate 10 mg. (eq. to Amlodipine 10 mg.)]"
       ],
       "composition": "Amlodipine besilate 10 mg. (eq. to Amlodipine 10 mg.)",
@@ -35112,58 +34488,6 @@
       "product_id": "BDS040007",
       "product_metadata_source_ids": [],
       "product_name": "Amlodac 5 [Amlodipine besilate 5 mg. (eq. to Amlodipine 5 mg.)]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Amlopine 10 mg [Amlodipine besylate 10 mg.]"
-      ],
-      "composition": "Amlodipine besylate 10 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Amlodipine besylate",
-        "Amlodipine besylate 10 mg."
-      ],
-      "generic_name": "Amlodipine besylate",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS001106",
-      "product_metadata_source_ids": [],
-      "product_name": "Amlopine 10 mg [Amlodipine besylate 10 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Amlopine 5 mg [Amlodipine besylate 5 mg.]"
-      ],
-      "composition": "Amlodipine besylate 5 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Amlodipine besylate",
-        "Amlodipine besylate 5 mg."
-      ],
-      "generic_name": "Amlodipine besylate",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS001096",
-      "product_metadata_source_ids": [],
-      "product_name": "Amlopine 5 mg [Amlodipine besylate 5 mg.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -35694,136 +35018,6 @@
     },
     {
       "brand_aliases": [
-        "Lanzaar 100 mg [Losartan potassium 100 mg.]"
-      ],
-      "composition": "Losartan potassium 100 mg.",
-      "form": "powder",
-      "generic_aliases": [
-        "Losartan potassium",
-        "Losartan potassium 100 mg."
-      ],
-      "generic_name": "Losartan potassium",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "กล่อง 3 แผง",
-      "price": "",
-      "product_id": "BDS044532",
-      "product_metadata_source_ids": [],
-      "product_name": "Lanzaar 100 mg [Losartan potassium 100 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Lanzaar 50 [Losartan potassium 50 mg.]"
-      ],
-      "composition": "Losartan potassium 50 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Losartan potassium",
-        "Losartan potassium 50 mg."
-      ],
-      "generic_name": "Losartan potassium",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS044546",
-      "product_metadata_source_ids": [],
-      "product_name": "Lanzaar 50 [Losartan potassium 50 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Loranta 100 mg [Losartan potassium 100 mg.]"
-      ],
-      "composition": "Losartan potassium 100 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Losartan potassium",
-        "Losartan potassium 100 mg."
-      ],
-      "generic_name": "Losartan potassium",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS002549",
-      "product_metadata_source_ids": [],
-      "product_name": "Loranta 100 mg [Losartan potassium 100 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Loranta 50 mg [Losartan potassium 50 mg.]"
-      ],
-      "composition": "Losartan potassium 50 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Losartan potassium",
-        "Losartan potassium 50 mg."
-      ],
-      "generic_name": "Losartan potassium",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS002522",
-      "product_metadata_source_ids": [],
-      "product_name": "Loranta 50 mg [Losartan potassium 50 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Losartan 50 mg (GPO) [Losartan potassium 50 mg.]"
-      ],
-      "composition": "Losartan potassium 50 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Losartan potassium",
-        "Losartan potassium 50 mg."
-      ],
-      "generic_name": "Losartan potassium",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 15 เม็ด",
-      "price": "",
-      "product_id": "BDS006044",
-      "product_metadata_source_ids": [],
-      "product_name": "Losartan 50 mg (GPO) [Losartan potassium 50 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "Loxidil 5 mg 100s [Minoxidil 5 mg.]"
       ],
       "composition": "Minoxidil 5 mg.",
@@ -35928,32 +35122,6 @@
     },
     {
       "brand_aliases": [
-        "Norvasc 5 mg [Amlodipine besylate 5 mg.]"
-      ],
-      "composition": "Amlodipine besylate 5 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Amlodipine besylate",
-        "Amlodipine besylate 5 mg."
-      ],
-      "generic_name": "Amlodipine besylate",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS002862",
-      "product_metadata_source_ids": [],
-      "product_name": "Norvasc 5 mg [Amlodipine besylate 5 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "Plendil 5 mg [Felodipine 5 mg.]"
       ],
       "composition": "Felodipine 5 mg.",
@@ -36048,58 +35216,6 @@
       "product_id": "BDS003145",
       "product_metadata_source_ids": [],
       "product_name": "Prenolol 50 mg [Atenolol 50 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Tanzaril 100 mg [Losartan potassium 100 mg.]"
-      ],
-      "composition": "Losartan potassium 100 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Losartan potassium",
-        "Losartan potassium 100 mg."
-      ],
-      "generic_name": "Losartan potassium",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS048635",
-      "product_metadata_source_ids": [],
-      "product_name": "Tanzaril 100 mg [Losartan potassium 100 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Tanzaril 50 mg [Losartan potassium 50 mg.]"
-      ],
-      "composition": "Losartan potassium 50 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Losartan potassium",
-        "Losartan potassium 50 mg."
-      ],
-      "generic_name": "Losartan potassium",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS003703",
-      "product_metadata_source_ids": [],
-      "product_name": "Tanzaril 50 mg [Losartan potassium 50 mg.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -36344,58 +35460,6 @@
     },
     {
       "brand_aliases": [
-        "Glucophage 850 mg [Metformin HCl 850 mg.]"
-      ],
-      "composition": "Metformin HCl 850 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Metformin HCl",
-        "Metformin HCl 850 mg."
-      ],
-      "generic_name": "Metformin HCl",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS002035",
-      "product_metadata_source_ids": [],
-      "product_name": "Glucophage 850 mg [Metformin HCl 850 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Glucophage XR 1000 mg [Metformin HCl 1000 mg.]"
-      ],
-      "composition": "Metformin HCl 1000 mg.",
-      "form": "powder",
-      "generic_aliases": [
-        "Metformin HCl",
-        "Metformin HCl 1000 mg."
-      ],
-      "generic_name": "Metformin HCl",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "กล่อง 3 แผง",
-      "price": "",
-      "product_id": "BDS043610",
-      "product_metadata_source_ids": [],
-      "product_name": "Glucophage XR 1000 mg [Metformin HCl 1000 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "Glucophage XR 750 mg [Metformin HCl 750 mg.]"
       ],
       "composition": "Metformin HCl 750 mg.",
@@ -36448,84 +35512,6 @@
     },
     {
       "brand_aliases": [
-        "Metfor-500 [Metformin HCl 500 mg.]"
-      ],
-      "composition": "Metformin HCl 500 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Metformin HCl",
-        "Metformin HCl 500 mg."
-      ],
-      "generic_name": "Metformin HCl",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS044920",
-      "product_metadata_source_ids": [],
-      "product_name": "Metfor-500 [Metformin HCl 500 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Metformin Hydrochloride 500 mg (GPO) [Metformin HCl 500 mg.]"
-      ],
-      "composition": "Metformin HCl 500 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Metformin HCl",
-        "Metformin HCl 500 mg."
-      ],
-      "generic_name": "Metformin HCl",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS006205",
-      "product_metadata_source_ids": [],
-      "product_name": "Metformin Hydrochloride 500 mg (GPO) [Metformin HCl 500 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Miformin 500 mg [Metformin HCl 500 mg.]"
-      ],
-      "composition": "Metformin HCl 500 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Metformin HCl",
-        "Metformin HCl 500 mg."
-      ],
-      "generic_name": "Metformin HCl",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS044902",
-      "product_metadata_source_ids": [],
-      "product_name": "Miformin 500 mg [Metformin HCl 500 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "Minidiab [Glipizide 5 mg.]"
       ],
       "composition": "Glipizide 5 mg.",
@@ -36542,58 +35528,6 @@
       "product_id": "BDS002628",
       "product_metadata_source_ids": [],
       "product_name": "Minidiab [Glipizide 5 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Siamformet 500 mg [Metformin HCl 500 mg.]"
-      ],
-      "composition": "Metformin HCl 500 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Metformin HCl",
-        "Metformin HCl 500 mg."
-      ],
-      "generic_name": "Metformin HCl",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS003612",
-      "product_metadata_source_ids": [],
-      "product_name": "Siamformet 500 mg [Metformin HCl 500 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Siamformet 850 mg [Metformin HCl 850 mg.]"
-      ],
-      "composition": "Metformin HCl 850 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Metformin HCl",
-        "Metformin HCl 850 mg."
-      ],
-      "generic_name": "Metformin HCl",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS003614",
-      "product_metadata_source_ids": [],
-      "product_name": "Siamformet 850 mg [Metformin HCl 850 mg.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -36698,84 +35632,6 @@
       "product_id": "BDS001918",
       "product_metadata_source_ids": [],
       "product_name": "Atorvastatin Sandoz 40 mg [Atorvastatin Calcium 41.36 mg. (eq. to Atorvastatin 40 mg.)]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Bestatin 10 mg [Simvastatin 10 mg.]"
-      ],
-      "composition": "Simvastatin 10 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Simvastatin",
-        "Simvastatin 10 mg."
-      ],
-      "generic_name": "Simvastatin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS001226",
-      "product_metadata_source_ids": [],
-      "product_name": "Bestatin 10 mg [Simvastatin 10 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Bestatin 20 mg [Simvastatin 20 mg.]"
-      ],
-      "composition": "Simvastatin 20 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Simvastatin",
-        "Simvastatin 20 mg."
-      ],
-      "generic_name": "Simvastatin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS001225",
-      "product_metadata_source_ids": [],
-      "product_name": "Bestatin 20 mg [Simvastatin 20 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Bestatin 40 mg [Simvastatin 40 mg.]"
-      ],
-      "composition": "Simvastatin 40 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Simvastatin",
-        "Simvastatin 40 mg."
-      ],
-      "generic_name": "Simvastatin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS001223",
-      "product_metadata_source_ids": [],
-      "product_name": "Bestatin 40 mg [Simvastatin 40 mg.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -36958,136 +35814,6 @@
       "product_id": "BDS049671",
       "product_metadata_source_ids": [],
       "product_name": "Xarator 20 mg. [Atorvastatin 20 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Zimmex 10 mg [Simvastatin 10 mg.]"
-      ],
-      "composition": "Simvastatin 10 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Simvastatin",
-        "Simvastatin 10 mg."
-      ],
-      "generic_name": "Simvastatin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS004228",
-      "product_metadata_source_ids": [],
-      "product_name": "Zimmex 10 mg [Simvastatin 10 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Zimmex 20 mg [Simvastatin 20 mg.]"
-      ],
-      "composition": "Simvastatin 20 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Simvastatin",
-        "Simvastatin 20 mg."
-      ],
-      "generic_name": "Simvastatin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS001222",
-      "product_metadata_source_ids": [],
-      "product_name": "Zimmex 20 mg [Simvastatin 20 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Zimmex 40 mg [Simvastatin 40 mg.]"
-      ],
-      "composition": "Simvastatin 40 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Simvastatin",
-        "Simvastatin 40 mg."
-      ],
-      "generic_name": "Simvastatin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS049784",
-      "product_metadata_source_ids": [],
-      "product_name": "Zimmex 40 mg [Simvastatin 40 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Zimva 10 mg (GPO) [Simvastatin 10 mg.]"
-      ],
-      "composition": "Simvastatin 10 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Simvastatin",
-        "Simvastatin 10 mg."
-      ],
-      "generic_name": "Simvastatin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS006693",
-      "product_metadata_source_ids": [],
-      "product_name": "Zimva 10 mg (GPO) [Simvastatin 10 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Zimva 20 mg (GPO) [Simvastatin 20 mg.]"
-      ],
-      "composition": "Simvastatin 20 mg.",
-      "form": "tablet",
-      "generic_aliases": [
-        "Simvastatin",
-        "Simvastatin 20 mg."
-      ],
-      "generic_name": "Simvastatin",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "แผง 10 เม็ด",
-      "price": "",
-      "product_id": "BDS006691",
-      "product_metadata_source_ids": [],
-      "product_name": "Zimva 20 mg (GPO) [Simvastatin 20 mg.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
@@ -42844,32 +41570,6 @@
     },
     {
       "brand_aliases": [
-        "Flamic Gel [Piroxicam 5 mg./1 g.]"
-      ],
-      "composition": "Piroxicam 5 mg./1 g.",
-      "form": "gel",
-      "generic_aliases": [
-        "Piroxicam",
-        "Piroxicam 5 mg./1 g."
-      ],
-      "generic_name": "Piroxicam",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "หลอด 25 g.",
-      "price": "",
-      "product_id": "BDS001917",
-      "product_metadata_source_ids": [],
-      "product_name": "Flamic Gel [Piroxicam 5 mg./1 g.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "M-Cin [Indomethacin 8 mg./1 ml.]"
       ],
       "composition": "Indomethacin 8 mg./1 ml.",
@@ -42948,32 +41648,6 @@
     },
     {
       "brand_aliases": [
-        "Neotica Cool [Piroxicam 5 mg./1 g.]"
-      ],
-      "composition": "Piroxicam 5 mg./1 g.",
-      "form": "other",
-      "generic_aliases": [
-        "Piroxicam",
-        "Piroxicam 5 mg./1 g."
-      ],
-      "generic_name": "Piroxicam",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "หลอด 30 g.",
-      "price": "",
-      "product_id": "BDS045623",
-      "product_metadata_source_ids": [],
-      "product_name": "Neotica Cool [Piroxicam 5 mg./1 g.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "N-Zen Gel ใหญ่ [Diclofenac Sodium 1 g./100 g.]"
       ],
       "composition": "Diclofenac Sodium 1 g./100 g.",
@@ -43042,32 +41716,6 @@
       "product_id": "BDS046515",
       "product_metadata_source_ids": [],
       "product_name": "Painelief Cool Gel ใหญ่ [Diclofenac Sodium (as diethylammonium) 10 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Piridene Gel [Piroxicam 0.5 g./100 g.]"
-      ],
-      "composition": "Piroxicam 0.5 g./100 g.",
-      "form": "gel",
-      "generic_aliases": [
-        "Piroxicam",
-        "Piroxicam 0.5 g./100 g."
-      ],
-      "generic_name": "Piroxicam",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "หลอด 25 g.",
-      "price": "",
-      "product_id": "BDS007224",
-      "product_metadata_source_ids": [],
-      "product_name": "Piridene Gel [Piroxicam 0.5 g./100 g.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
