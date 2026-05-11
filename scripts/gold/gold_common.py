@@ -407,6 +407,7 @@ def source_records() -> list[dict[str, Any]]:
         )
     records.extend(phase2_sources())
     records.extend(PEDIATRIC_SOURCE_RECORDS)
+    records.extend(GUIDELINE_PROOF_SOURCE_RECORDS)
     records.extend(accredited_sweep_sources())
     return records
 
@@ -462,6 +463,7 @@ def evidence_claims() -> list[dict[str, Any]]:
             }
         )
     claims.extend(pediatric_formula_claims())
+    claims.extend(guideline_proof_claims())
     claims.extend(accredited_sweep_claims())
     return claims
 
@@ -614,6 +616,171 @@ def pediatric_formula_claims() -> list[dict[str, Any]]:
                 }
             )
     return rows
+
+
+GUIDELINE_PROOF_SOURCE_RECORDS = [
+    {
+        "source_id": "cdc_adult_outpatient_antibiotic_2024",
+        "source_title": "Outpatient Clinical Care for Adults",
+        "source_org": "Centers for Disease Control and Prevention",
+        "source_url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html",
+        "access_date": today(),
+        "source_type": "disease_guideline",
+        "source_country_or_region": "United States",
+        "adapter_name": "guideline_proof_pack",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+    {
+        "source_id": "cdc_common_cold_treatment_2026",
+        "source_title": "Manage Common Cold",
+        "source_org": "Centers for Disease Control and Prevention",
+        "source_url": "https://www.cdc.gov/common-cold/treatment/index.html",
+        "access_date": today(),
+        "source_type": "disease_guideline",
+        "source_country_or_region": "United States",
+        "adapter_name": "guideline_proof_pack",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+    {
+        "source_id": "cdc_conjunctivitis_treatment_2024",
+        "source_title": "How to Treat Pink Eye",
+        "source_org": "Centers for Disease Control and Prevention",
+        "source_url": "https://www.cdc.gov/conjunctivitis/treatment/index.html",
+        "access_date": today(),
+        "source_type": "disease_guideline",
+        "source_country_or_region": "United States",
+        "adapter_name": "guideline_proof_pack",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+    {
+        "source_id": "cdc_conjunctivitis_hcp_2024",
+        "source_title": "Clinical Overview of Pink Eye (Conjunctivitis)",
+        "source_org": "Centers for Disease Control and Prevention",
+        "source_url": "https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html",
+        "access_date": today(),
+        "source_type": "disease_guideline",
+        "source_country_or_region": "United States",
+        "adapter_name": "guideline_proof_pack",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+]
+
+
+GUIDELINE_DISEASE_PROOFS = [
+    {
+        "source_id": "cdc_common_cold_treatment_2026",
+        "disease_keys": ["common_cold_adult", "uri_dry_cough_adult", "uri_sneezing_runny_nose_adult", "post_viral_cough_adult"],
+        "claim_types": ["disease_strategy", "line_of_treatment", "no_antibiotic_criteria"],
+        "snippet": "The common cold has no cure but should improve on its own. Antibiotics don't work against viruses and won't help you feel better.",
+        "proof_status": "source_backed_no_antibiotic_supportive_care",
+        "next_action": "symptomatic/supportive care only unless bacterial complication or alternate diagnosis is source-supported",
+    },
+    {
+        "source_id": "cdc_adult_outpatient_antibiotic_2024",
+        "disease_keys": ["acute_bronchitis_adult", "uri_wet_cough_adult", "postnasal_drip_cough_adult", "laryngitis_irritation_adult"],
+        "claim_types": ["disease_strategy", "line_of_treatment", "no_antibiotic_criteria"],
+        "snippet": "Routine treatment of uncomplicated acute bronchitis with antibiotics is not recommended, regardless of cough duration.",
+        "proof_status": "source_backed_no_antibiotic_supportive_care",
+        "next_action": "rule out pneumonia/red flags; antibiotics remain hidden unless bacterial diagnosis criteria are met",
+    },
+    {
+        "source_id": "cdc_adult_outpatient_antibiotic_2024",
+        "disease_keys": ["acute_pharyngitis_viral_adult"],
+        "claim_types": ["disease_strategy", "line_of_treatment", "no_antibiotic_criteria"],
+        "snippet": "GAS infection is the only common indication for antibiotic therapy for sore throat; antibiotics are not recommended for negative RADT results.",
+        "proof_status": "source_backed_no_antibiotic_without_gas_testing",
+        "next_action": "keep antibiotics hidden unless GAS criteria/testing and antibiotic dose/duration are source-backed",
+    },
+    {
+        "source_id": "cdc_adult_outpatient_antibiotic_2024",
+        "disease_keys": ["bacterial_pharyngitis_adult", "bacterial_pharyngitis_alt_adult"],
+        "claim_types": ["antibiotic_use_criteria", "line_of_treatment", "duration"],
+        "snippet": "Amoxicillin and penicillin remain first-line therapy due to reliable activity against GAS; recommended oral beta-lactam course is 10 days.",
+        "proof_status": "criteria_source_partial_dose_still_needed",
+        "next_action": "requires product-specific dose/frequency and allergy alternative evidence before antibiotic gate can unlock",
+    },
+    {
+        "source_id": "cdc_adult_outpatient_antibiotic_2024",
+        "disease_keys": ["bacterial_sinusitis_adult", "bacterial_sinusitis_alt_adult"],
+        "claim_types": ["antibiotic_use_criteria", "line_of_treatment"],
+        "snippet": "Diagnose acute bacterial rhinosinusitis based on severe, persistent, or worsening symptoms; amoxicillin or amoxicillin/clavulanate are first-line.",
+        "proof_status": "criteria_source_partial_dose_still_needed",
+        "next_action": "requires exact dose/frequency/duration and patient exclusion criteria before antibiotic gate can unlock",
+    },
+    {
+        "source_id": "cdc_conjunctivitis_treatment_2024",
+        "disease_keys": ["viral_conjunctivitis_adult", "allergic_conjunctivitis_adult"],
+        "claim_types": ["disease_strategy", "no_antibiotic_criteria"],
+        "snippet": "Antibiotics will NOT improve viral pink eye; these drugs are not effective against viruses.",
+        "proof_status": "source_backed_no_antibiotic_supportive_care",
+        "next_action": "keep antibiotic eye drops hidden unless bacterial pattern criteria are met",
+    },
+    {
+        "source_id": "cdc_conjunctivitis_treatment_2024",
+        "disease_keys": ["bacterial_conjunctivitis_adult", "topical_eye_antibiotic_support_adult"],
+        "claim_types": ["antibiotic_use_criteria", "line_of_treatment"],
+        "snippet": "Mild bacterial pink eye may get better without antibiotics; antibiotics may be necessary with pus, immunocompromise, or suspected certain bacteria.",
+        "proof_status": "criteria_source_partial_product_dose_still_needed",
+        "next_action": "requires exact topical antibiotic product, dose/frequency/duration, and eye red-flag exclusion before gate can unlock",
+    },
+    {
+        "source_id": "cdc_conjunctivitis_treatment_2024",
+        "disease_keys": ["red_eye_pain_photophobia_adult", "red_eye_vision_change_adult", "bacterial_conjunctivitis_adult"],
+        "claim_types": ["red_flags", "referral_criteria"],
+        "snippet": "Seek care with eye pain, light sensitivity, blurred vision, intense redness, worsening symptoms, or immunocompromise.",
+        "proof_status": "source_backed_red_flag_referral",
+        "next_action": "red-flag findings block routine prescribing and require evaluation/referral",
+    },
+    {
+        "source_id": "cdc_conjunctivitis_hcp_2024",
+        "disease_keys": ["bacterial_conjunctivitis_adult", "bacterial_conjunctivitis_peds"],
+        "claim_types": ["antibiotic_use_criteria", "red_flags"],
+        "snippet": "Bacterial conjunctivitis symptoms include purulent discharge causing matted eyelids, chemosis, decreased vision, eyelid swelling, and pain.",
+        "proof_status": "criteria_source_partial_product_dose_still_needed",
+        "next_action": "criteria can triage bacterial pattern, but product dose/duration source is still required",
+    },
+]
+
+
+def guideline_proof_claims() -> list[dict[str, Any]]:
+    rows = []
+    source_by_id = {source["source_id"]: source for source in GUIDELINE_PROOF_SOURCE_RECORDS}
+    for item in GUIDELINE_DISEASE_PROOFS:
+        source = source_by_id[item["source_id"]]
+        for disease_key in item["disease_keys"]:
+            for claim_type in item["claim_types"]:
+                rows.append(
+                    {
+                        "claim_id": stable_id("claim", item["source_id"], disease_key, claim_type),
+                        "source_id": item["source_id"],
+                        "source_title": source["source_title"],
+                        "source_org": source["source_org"],
+                        "source_url": source["source_url"],
+                        "source_type": source["source_type"],
+                        "source_country_or_region": source["source_country_or_region"],
+                        "evidence_field": claim_type,
+                        "evidence_snippet": item["snippet"],
+                        "confidence": 0.91,
+                        "linked_product_id": "",
+                        "linked_regimen_id": "",
+                        "linked_disease_key": disease_key,
+                        "linked_generic_name": "",
+                        "status": item["proof_status"],
+                        "next_action": item["next_action"],
+                    }
+                )
+    return rows
+
+
+def guideline_proofs_by_disease() -> dict[str, list[dict[str, Any]]]:
+    grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for claim in guideline_proof_claims():
+        grouped[str(claim.get("linked_disease_key") or "")].append(claim)
+    return grouped
 
 
 def parsed_concentration_mg_per_ml(value: str) -> float | None:
@@ -911,6 +1078,7 @@ def build_gold_tables() -> dict[str, int]:
     citations = evidence_claims()
     claim_groups = claims_by_product_disease()
     product_claim_groups = claims_by_product()
+    disease_guideline_groups = guideline_proofs_by_disease()
     phase2_product_sources = defaultdict(list)
     for claim in citations:
         if claim.get("linked_product_id") and claim.get("source_id"):
@@ -948,6 +1116,11 @@ def build_gold_tables() -> dict[str, int]:
     for idx, row in enumerate(regimens):
         status = status_for_regimen(row)
         group = claim_groups.get((row.get("product_id", ""), row.get("disease_key", "")), {})
+        disease_claims = disease_guideline_groups.get(row.get("disease_key", ""), [])
+        disease_source_ids = sorted({claim.get("source_id", "") for claim in disease_claims if claim.get("source_id")})
+        disease_claim_types = sorted({claim.get("evidence_field", "") for claim in disease_claims if claim.get("evidence_field")})
+        disease_proof_status = next((claim.get("status", "") for claim in disease_claims if claim.get("status")), "")
+        disease_next_action = next((claim.get("next_action", "") for claim in disease_claims if claim.get("next_action")), "")
         if has_fields(group, ADULT_REQUIRED_FIELDS):
             status = "gold_ready_adult"
             source_ids = source_ids_for_claim_group(group)
@@ -989,6 +1162,10 @@ def build_gold_tables() -> dict[str, int]:
                 "safety_minimum_ready": flags,
                 "source_ids": source_ids,
                 "final_rx_status": status,
+                "disease_guideline_source_ids": disease_source_ids,
+                "disease_guideline_claim_types": disease_claim_types,
+                "disease_guideline_proof_status": disease_proof_status,
+                "disease_guideline_next_action": disease_next_action,
             }
         )
 
@@ -1066,14 +1243,23 @@ def build_gold_tables() -> dict[str, int]:
     for idx, row in enumerate(antibiotics):
         disease = (row.get("disease_key", "") + " " + row.get("disease_name", "")).lower()
         no_antibiotic = any(token in disease for token in ["viral", "allergic", "dry_eye", "simple", "watery"])
+        disease_key = row.get("disease_key", "")
+        disease_claims = disease_guideline_groups.get(disease_key, [])
+        claim_types = {claim.get("evidence_field", "") for claim in disease_claims}
+        no_antibiotic_source_ready = "no_antibiotic_criteria" in claim_types
+        antibiotic_criteria_source_ready = "antibiotic_use_criteria" in claim_types
+        red_flag_source_ready = "red_flags" in claim_types or "referral_criteria" in claim_types
+        disease_source_ids = sorted({claim.get("source_id", "") for claim in disease_claims if claim.get("source_id")})
+        criteria_text = next((claim.get("evidence_snippet", "") for claim in disease_claims if claim.get("evidence_field") in {"antibiotic_use_criteria", "no_antibiotic_criteria"}), "")
+        guideline_next_action = next((claim.get("next_action", "") for claim in disease_claims if claim.get("next_action")), "")
         antibiotic_gold.append(
             {
                 "antibiotic_gate_id": stable_id("abx", idx, row.get("regimen_id"), row.get("product_id"), row.get("disease_key")),
                 "product_id": row.get("product_id", ""),
                 "generic_name": row.get("composition") or row.get("drug_name", ""),
-                "disease_key": row.get("disease_key", ""),
+                "disease_key": disease_key,
                 "bacterial_criteria_required": True,
-                "criteria_text": "",
+                "criteria_text": criteria_text,
                 "not_for_viral_use": no_antibiotic,
                 "line_of_therapy": row.get("tier", ""),
                 "duration_rule": row.get("duration", ""),
@@ -1083,9 +1269,13 @@ def build_gold_tables() -> dict[str, int]:
                 "pediatric_caution": "",
                 "renal_caution": "",
                 "major_interactions": "",
-                "gate_logic": "",
+                "gate_logic": "source-backed no-antibiotic rule; hide antibiotic from routine prescribing" if no_antibiotic_source_ready else ("criteria partially sourced; product dose/duration still required" if antibiotic_criteria_source_ready else ""),
                 "antibiotic_gate_ready": False,
-                "source_ids": [],
+                "antibiotic_criteria_source_ready": antibiotic_criteria_source_ready,
+                "no_antibiotic_source_ready": no_antibiotic_source_ready,
+                "red_flag_source_ready": red_flag_source_ready,
+                "source_ids": disease_source_ids,
+                "guideline_next_action": guideline_next_action,
                 "final_antibiotic_status": "not_recommended_for_this_disease" if no_antibiotic else "source_missing_hide_from_rx",
             }
         )
@@ -1354,8 +1544,8 @@ def all_drug_accredited_sweep_reports() -> dict[str, int]:
         {
             **row,
             "accredited_source_status": "antibiotic_gate_ready" if row.get("antibiotic_gate_ready") else "blocked_pending_antibiotic_criteria_source",
-            "missing_accredited_fields": "" if row.get("antibiotic_gate_ready") else "bacterial criteria; drug choice; dose; duration; gate logic; safety citation",
-            "next_action": "ready for antibiotic gate review" if row.get("antibiotic_gate_ready") else "retrieve RDU/AWaRe/NICE/IDSA/Thai guideline with exact disease criteria and dosing",
+            "missing_accredited_fields": "" if row.get("antibiotic_gate_ready") else ("drug choice; dose; duration; product safety citation" if row.get("antibiotic_criteria_source_ready") or row.get("no_antibiotic_source_ready") else "bacterial criteria; drug choice; dose; duration; gate logic; safety citation"),
+            "next_action": "ready for antibiotic gate review" if row.get("antibiotic_gate_ready") else (row.get("guideline_next_action") or "retrieve RDU/AWaRe/NICE/IDSA/Thai guideline with exact disease criteria and dosing"),
         }
         for row in antibiotics
     ]
@@ -1509,6 +1699,21 @@ def gap_reports() -> None:
     write_csv(REPORT_GOLD / "safety_gap_report.csv", [{**row, "missing_fields": "source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions"} for row in safety if not row.get("safety_ready")])
     write_csv(REPORT_GOLD / "conflict_report.csv", [row for row in regimens if row.get("final_rx_status") == "source_conflict_hide_from_rx"])
     write_csv(REPORT_GOLD / "evidence_extraction_report.csv", evidence_claims())
+    proof_rows = []
+    for claim in guideline_proof_claims():
+        proof_rows.append(
+            {
+                "disease_key": claim.get("linked_disease_key", ""),
+                "claim_type": claim.get("evidence_field", ""),
+                "source_id": claim.get("source_id", ""),
+                "source_title": claim.get("source_title", ""),
+                "source_url": claim.get("source_url", ""),
+                "proof_status": claim.get("status", ""),
+                "evidence_snippet": claim.get("evidence_snippet", ""),
+                "next_action": claim.get("next_action", ""),
+            }
+        )
+    write_csv(REPORT_GOLD / "disease_guideline_proof_report.csv", proof_rows)
 
 
 def copy_gold_to_dist() -> None:
@@ -1571,6 +1776,7 @@ def export_bundle() -> Path:
             REPORT_GOLD / "long_accredited_source_acquisition_queue.csv",
             REPORT_GOLD / "long_accredited_source_gap_matrix.csv",
             REPORT_GOLD / "long_accredited_source_sweep_summary.md",
+            REPORT_GOLD / "disease_guideline_proof_report.csv",
             REPORT_GOLD / "pediatric_formula_gap_report.csv",
             REPORT_GOLD / "antibiotic_gate_gap_report.csv",
             REPORT_GOLD / "safety_gap_report.csv",
