@@ -53,6 +53,17 @@ def test_pediatric_and_antibiotic_gates_are_conservative():
     assert all(not row["antibiotic_gate_ready"] for row in antibiotics)
 
 
+def test_pediatric_formula_templates_are_sourced_but_not_product_ready():
+    peds = load("data/gold/pediatric_dose_engine.json")["items"]
+    templates = [row for row in peds if row.get("formula_template_ready")]
+    assert templates
+    assert any("paracetamol" in row["generic_name"] for row in templates)
+    assert any("ibuprofen" in row["generic_name"] for row in templates)
+    assert all(row["source_ids"] for row in templates)
+    assert all(not row["pediatric_formula_ready"] for row in templates)
+    assert all("product concentration" in row.get("pediatric_formula_block_reason", "") for row in templates)
+
+
 def test_every_ready_row_has_source_citation_if_future_rows_unlock():
     regimens = load("data/gold/disease_regimen_gold.json")["items"]
     citations = load("data/gold/source_citations_gold.json")["items"]
@@ -244,3 +255,23 @@ def test_all_drug_sweep_summary_reports_full_processing():
     assert "regimen_rows_processed: 987" in summary
     assert "pediatric_rows_processed: 93" in summary
     assert "antibiotic_rows_processed: 192" in summary
+
+
+def test_pediatric_gold_calculator_exact_ml_outputs():
+    sys.path.insert(0, str(ROOT / "scripts/gold"))
+    import pediatric_gold_calculator as calc
+
+    para = calc.calculate("paracetamol", age_months=24, weight_kg=12, concentration_mg_per_ml=24)
+    assert para["dose_mg_per_dose"] == 180
+    assert para["dose_ml_per_dose"] == 7.5
+    assert para["max_mg_per_day"] == 720
+
+    ibu = calc.calculate("ibuprofen", age_months=24, weight_kg=12, concentration_mg_per_ml=20)
+    assert ibu["dose_min_mg_per_dose"] == 60
+    assert ibu["dose_max_mg_per_dose"] == 120
+    assert ibu["dose_min_ml_per_dose"] == 3
+    assert ibu["dose_max_ml_per_dose"] == 6
+
+    ors = calc.calculate("ORS", age_months=36, weight_kg=14)
+    assert ors["plan_a_after_each_loose_stool"] == "100-200 mL after each loose stool"
+    assert ors["plan_b_total_ml_over_4_hours"] == 1050

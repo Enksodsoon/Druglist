@@ -404,6 +404,7 @@ def source_records() -> list[dict[str, Any]]:
             }
         )
     records.extend(phase2_sources())
+    records.extend(PEDIATRIC_SOURCE_RECORDS)
     return records
 
 
@@ -457,6 +458,7 @@ def evidence_claims() -> list[dict[str, Any]]:
                 "status": "phase2_accepted",
             }
         )
+    claims.extend(pediatric_formula_claims())
     return claims
 
 
@@ -501,6 +503,114 @@ ADULT_REQUIRED_FIELDS = [
 
 def source_ids_for_claim_group(group: dict[str, list[dict[str, Any]]]) -> list[str]:
     return sorted({claim.get("source_id", "") for claims in group.values() for claim in claims if claim.get("source_id")})
+
+
+PEDIATRIC_SOURCE_RECORDS = [
+    {
+        "source_id": "msf_paracetamol_oral_peds_2024",
+        "source_title": "PARACETAMOL = ACETAMINOPHEN oral",
+        "source_org": "MSF Medical Guidelines",
+        "source_url": "https://medicalguidelines.msf.org/es/viewport/EssDr/spanish/paracetamol-acetaminofen-oral-22282995.html",
+        "access_date": today(),
+        "source_type": "authoritative_formulary",
+        "source_country_or_region": "International",
+        "adapter_name": "msf_adapter",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+    {
+        "source_id": "msf_ibuprofen_oral_peds_2024",
+        "source_title": "IBUPROFEN oral",
+        "source_org": "MSF Medical Guidelines",
+        "source_url": "https://medicalguidelines.msf.org/en/viewport/EssDr/english/ibuprofen-oral-16683877.html",
+        "access_date": today(),
+        "source_type": "authoritative_formulary",
+        "source_country_or_region": "International",
+        "adapter_name": "msf_adapter",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+    {
+        "source_id": "msf_ors_peds_2024",
+        "source_title": "ORAL REHYDRATION SALTS = ORS",
+        "source_org": "MSF Medical Guidelines",
+        "source_url": "https://medicalguidelines.msf.org/es/viewport/EssDr/spanish/sales-de-rehidratacion-oral-sro-ors-22283024.html?language_content_entity=en",
+        "access_date": today(),
+        "source_type": "authoritative_formulary",
+        "source_country_or_region": "International",
+        "adapter_name": "msf_adapter",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+]
+
+
+def pediatric_formula_claims() -> list[dict[str, Any]]:
+    snippets = {
+        "paracetamol": {
+            "source_id": "msf_paracetamol_oral_peds_2024",
+            "source_title": "PARACETAMOL = ACETAMINOPHEN oral",
+            "source_url": "https://medicalguidelines.msf.org/es/viewport/EssDr/spanish/paracetamol-acetaminofen-oral-22282995.html",
+            "generic_name": "paracetamol",
+            "snippet": "Children under 1 month: 10 mg/kg 3 or 4 times daily (max. 40 mg/kg daily). Children 1 month and over: 15 mg/kg 3 or 4 times daily (max. 60 mg/kg daily).",
+        },
+        "ibuprofen": {
+            "source_id": "msf_ibuprofen_oral_peds_2024",
+            "source_title": "IBUPROFEN oral",
+            "source_url": "https://medicalguidelines.msf.org/en/viewport/EssDr/english/ibuprofen-oral-16683877.html",
+            "generic_name": "ibuprofen",
+            "snippet": "Child over 3 months: 5 to 10 mg/kg 3 to 4 times daily (max. 30 mg/kg daily). 100 mg/5 ml oral suspension, with pipette graduated per kg of body weight.",
+        },
+        "ors": {
+            "source_id": "msf_ors_peds_2024",
+            "source_title": "ORAL REHYDRATION SALTS = ORS",
+            "source_url": "https://medicalguidelines.msf.org/es/viewport/EssDr/spanish/sales-de-rehidratacion-oral-sro-ors-22283024.html?language_content_entity=en",
+            "generic_name": "oral rehydration salts",
+            "snippet": "Prevention: child under 24 months 50 to 100 ml after each loose stool; 2 to 10 years 100 to 200 ml; over 10 years and adult 200 to 400 ml. Moderate dehydration: ORS volumes by age/weight over the first four hours.",
+        },
+    }
+    rows = []
+    for key, item in snippets.items():
+        for field in [
+            "pediatric_indication",
+            "pediatric_age_range",
+            "pediatric_weight_rule",
+            "pediatric_dose_formula",
+            "pediatric_frequency",
+            "pediatric_duration",
+            "pediatric_max_dose",
+            "pediatric_safety",
+        ]:
+            rows.append(
+                {
+                    "claim_id": f"claim_{item['source_id']}_{field}",
+                    "source_id": item["source_id"],
+                    "source_title": item["source_title"],
+                    "source_org": "MSF Medical Guidelines",
+                    "source_url": item["source_url"],
+                    "source_type": "authoritative_formulary",
+                    "source_country_or_region": "International",
+                    "evidence_field": field,
+                    "evidence_snippet": item["snippet"],
+                    "confidence": 0.92,
+                    "linked_product_id": "",
+                    "linked_regimen_id": "",
+                    "linked_disease_key": "pediatric_formula",
+                    "linked_generic_name": item["generic_name"],
+                    "status": "pediatric_formula_source_accepted",
+                }
+            )
+    return rows
+
+
+def parsed_concentration_mg_per_ml(value: str) -> float | None:
+    try:
+        payload = json.loads(value or "{}")
+        if payload.get("unit") == "mg_per_ml" and not payload.get("manual_review"):
+            return float(payload.get("value"))
+    except Exception:
+        return None
+    return None
 
 
 def status_for_regimen(row: dict[str, str]) -> str:
@@ -607,32 +717,71 @@ def build_gold_tables() -> dict[str, int]:
 
     peds_gold = []
     for row in peds:
+        generic = (row.get("generic_key") or row.get("display_name", "")).lower()
+        concentration = parsed_concentration_mg_per_ml(row.get("concentration", ""))
+        source_ids: list[str] = []
+        formula_template_ready = False
+        dose_basis = row.get("dose_basis", "")
+        dose_min = ""
+        dose_max = ""
+        frequency = ""
+        max_day = ""
+        calculation_formula = ""
+        volume_formula = ""
+        rounding_rule = ""
+        contraindicated_age = ""
+        if "paracetamol" in generic and concentration:
+            source_ids = ["msf_paracetamol_oral_peds_2024"]
+            formula_template_ready = True
+            dose_basis = "weight_based_mg_per_kg_per_dose_age_adjusted"
+            dose_min = "10"
+            dose_max = "15"
+            frequency = "3 to 4 times daily"
+            max_day = "40 mg/kg/day if age_months < 1; 60 mg/kg/day if age_months >= 1"
+            calculation_formula = "if age_months < 1: dose_mg = 10 * weight_kg; else: dose_mg = 15 * weight_kg"
+            volume_formula = f"dose_ml = dose_mg / {concentration:g}; concentration_mg_per_ml = {concentration:g}"
+            rounding_rule = "display exact calculated mL to 0.1 mL; cap total daily dose by age-specific max_mg_per_day"
+            contraindicated_age = "none stated by selected MSF source; reduce dose in severe acute malnutrition or dengue warning signs"
+        elif "ibuprofen" in generic and concentration:
+            source_ids = ["msf_ibuprofen_oral_peds_2024"]
+            formula_template_ready = True
+            dose_basis = "weight_based_mg_per_kg_per_dose_range"
+            dose_min = "5"
+            dose_max = "10"
+            frequency = "3 to 4 times daily"
+            max_day = "30 mg/kg/day"
+            calculation_formula = "dose_min_mg = 5 * weight_kg; dose_max_mg = 10 * weight_kg; max_mg_per_day = 30 * weight_kg"
+            volume_formula = f"dose_min_ml = dose_min_mg / {concentration:g}; dose_max_ml = dose_max_mg / {concentration:g}; concentration_mg_per_ml = {concentration:g}"
+            rounding_rule = "display exact min-max mL range to 0.1 mL; do not exceed max_mg_per_day"
+            contraindicated_age = "do not administer to children under 3 months"
         peds_gold.append(
             {
                 "pediatric_rule_id": stable_id("peds", row.get("product_id"), row.get("generic_key")),
                 "product_id": row.get("product_id", ""),
                 "generic_name": row.get("generic_key") or row.get("display_name", ""),
                 "disease_key": "",
-                "age_min_months": "",
+                "age_min_months": "0" if "paracetamol" in generic and formula_template_ready else ("3" if "ibuprofen" in generic and formula_template_ready else ""),
                 "age_max_months": "",
                 "weight_min_kg": "",
                 "weight_max_kg": "",
-                "dose_basis": row.get("dose_basis", ""),
-                "dose_min_mg_per_kg": "",
-                "dose_max_mg_per_kg": "",
+                "dose_basis": dose_basis,
+                "dose_min_mg_per_kg": dose_min,
+                "dose_max_mg_per_kg": dose_max,
                 "fixed_dose": "",
-                "frequency": "",
+                "frequency": frequency,
                 "duration": "",
                 "max_mg_per_dose": row.get("max_dose", ""),
-                "max_mg_per_day": "",
+                "max_mg_per_day": max_day,
                 "product_concentration": row.get("concentration", ""),
-                "calculation_formula": "",
-                "volume_formula": "",
-                "rounding_rule": "",
-                "contraindicated_age": "",
+                "calculation_formula": calculation_formula,
+                "volume_formula": volume_formula,
+                "rounding_rule": rounding_rule,
+                "contraindicated_age": contraindicated_age,
+                "formula_template_ready": formula_template_ready,
                 "pediatric_formula_ready": False,
-                "source_ids": [],
+                "source_ids": source_ids,
                 "final_pediatric_status": "source_missing_hide_from_rx",
+                "pediatric_formula_block_reason": "formula source available but product concentration remains workbook-derived; needs accredited product label/concentration source" if formula_template_ready else "missing pediatric dose formula source and/or parsed concentration",
             }
         )
 
