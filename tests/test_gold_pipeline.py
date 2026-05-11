@@ -275,3 +275,21 @@ def test_pediatric_gold_calculator_exact_ml_outputs():
     ors = calc.calculate("ORS", age_months=36, weight_kg=14)
     assert ors["plan_a_after_each_loose_stool"] == "100-200 mL after each loose stool"
     assert ors["plan_b_total_ml_over_4_hours"] == 1050
+
+
+def test_full_accredited_source_sweep_does_not_unlock_label_only_rows():
+    products = load("data/gold/product_master_gold.json")["items"]
+    regimens = load("data/gold/disease_regimen_gold.json")["items"]
+    sources = load("data/gold/accredited_source_sweep_sources.json")["items"]
+
+    assert sources
+    linked_products = {source["linked_product_id"] for source in sources}
+    assert any(row["product_id"] in linked_products for row in products)
+
+    label_only_regimens = [
+        row for row in regimens
+        if row.get("product_id") in linked_products
+        and row.get("final_rx_status") == "source_missing_hide_from_rx"
+    ]
+    assert label_only_regimens
+    assert all(not row.get("indication_verified") for row in label_only_regimens)

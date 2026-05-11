@@ -2,8 +2,8 @@
 
 Every exported product, regimen, pediatric shortcut, and antibiotic row was processed. Rows without exact accredited field-level evidence remain hidden from prescribing output.
 - products_processed: 910
-- products_with_accredited_source: 6
-- products_pending_accredited_source: 904
+- products_with_accredited_source: 13
+- products_pending_accredited_source: 897
 - regimen_rows_processed: 987
 - regimen_rows_ready_source_verified: 59
 - regimen_rows_pending_exact_evidence: 928
