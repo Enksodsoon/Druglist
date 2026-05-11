@@ -53,6 +53,17 @@ def test_pediatric_and_antibiotic_gates_are_conservative():
     assert all(not row["antibiotic_gate_ready"] for row in antibiotics)
 
 
+def test_pediatric_formula_templates_are_sourced_but_not_product_ready():
+    peds = load("data/gold/pediatric_dose_engine.json")["items"]
+    templates = [row for row in peds if row.get("formula_template_ready")]
+    assert templates
+    assert any("paracetamol" in row["generic_name"] for row in templates)
+    assert any("ibuprofen" in row["generic_name"] for row in templates)
+    assert all(row["source_ids"] for row in templates)
+    assert all(not row["pediatric_formula_ready"] for row in templates)
+    assert all("product concentration" in row.get("pediatric_formula_block_reason", "") for row in templates)
+
+
 def test_every_ready_row_has_source_citation_if_future_rows_unlock():
     regimens = load("data/gold/disease_regimen_gold.json")["items"]
     citations = load("data/gold/source_citations_gold.json")["items"]
@@ -208,3 +219,59 @@ def test_swap_tier_report_contains_verified_alternatives():
         rows = list(csv.DictReader(handle))
     assert rows
     assert any("Tier 1" in row.get("swap_tier", "") for row in rows)
+
+
+def test_all_drug_accredited_sweep_has_no_inventory_gaps():
+    import csv
+
+    products = load("data/gold/product_master_gold.json")["items"]
+    regimens = load("data/gold/disease_regimen_gold.json")["items"]
+    with (ROOT / "reports/gold/all_drug_accredited_product_sweep.csv").open(encoding="utf-8-sig") as handle:
+        product_rows = list(csv.DictReader(handle))
+    with (ROOT / "reports/gold/all_regimen_accredited_sweep.csv").open(encoding="utf-8-sig") as handle:
+        regimen_rows = list(csv.DictReader(handle))
+    assert len(product_rows) == len(products)
+    assert len(regimen_rows) == len(regimens)
+    assert {row["product_id"] for row in product_rows} == {row["product_id"] for row in products}
+    assert all(row["gold_inventory_status"] == "in_gold_inventory" for row in product_rows)
+    assert all(row["accredited_source_status"] for row in product_rows)
+
+
+def test_all_drug_sweep_keeps_pending_rows_hidden():
+    import csv
+
+    rx = load("data/gold/rx_eligibility_map.json")
+    ready_pairs = {(row["product_id"], row["disease_key"]) for row in rx["rx_now_ready"] + rx["swaps_ready"]}
+    with (ROOT / "reports/gold/all_regimen_accredited_sweep.csv").open(encoding="utf-8-sig") as handle:
+        rows = list(csv.DictReader(handle))
+    pending = [row for row in rows if row["accredited_source_status"] == "pending_exact_accredited_evidence"]
+    assert pending
+    assert all((row["product_id"], row["disease_key"]) not in ready_pairs for row in pending)
+
+
+def test_all_drug_sweep_summary_reports_full_processing():
+    summary = (ROOT / "reports/gold/all_drug_accredited_sweep_summary.md").read_text(encoding="utf-8")
+    assert "products_processed: 910" in summary
+    assert "regimen_rows_processed: 987" in summary
+    assert "pediatric_rows_processed: 93" in summary
+    assert "antibiotic_rows_processed: 192" in summary
+
+
+def test_pediatric_gold_calculator_exact_ml_outputs():
+    sys.path.insert(0, str(ROOT / "scripts/gold"))
+    import pediatric_gold_calculator as calc
+
+    para = calc.calculate("paracetamol", age_months=24, weight_kg=12, concentration_mg_per_ml=24)
+    assert para["dose_mg_per_dose"] == 180
+    assert para["dose_ml_per_dose"] == 7.5
+    assert para["max_mg_per_day"] == 720
+
+    ibu = calc.calculate("ibuprofen", age_months=24, weight_kg=12, concentration_mg_per_ml=20)
+    assert ibu["dose_min_mg_per_dose"] == 60
+    assert ibu["dose_max_mg_per_dose"] == 120
+    assert ibu["dose_min_ml_per_dose"] == 3
+    assert ibu["dose_max_ml_per_dose"] == 6
+
+    ors = calc.calculate("ORS", age_months=36, weight_kg=14)
+    assert ors["plan_a_after_each_loose_stool"] == "100-200 mL after each loose stool"
+    assert ors["plan_b_total_ml_over_4_hours"] == 1050
