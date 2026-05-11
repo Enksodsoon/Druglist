@@ -5,8 +5,8 @@ Rows are unlocked only when exact source-backed field-level evidence passes vali
 - Products found: 910
 - Draft regimen rows found: 987
 - Source queries generated: 2441
-- Accredited source metadata available: 77
-- Evidence fields extracted: 615
+- Accredited source metadata available: 81
+- Evidence fields extracted: 670
 - Full DailyMed product-label sources accepted: 61
 - Full DailyMed product-label unmatched/rejected: 580
 - RX NOW ready count: 35

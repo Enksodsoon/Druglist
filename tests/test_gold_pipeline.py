@@ -310,3 +310,21 @@ def test_long_accredited_source_queue_covers_all_row_families():
     assert {"thai_fda_smpc_pil", "thai_ndi_nlem", "thai_rdu_moph", "thai_pediatric", "thai_rdu_antibiotic"}.issubset(targets)
     assert any("line_of_treatment" in row.get("missing_fields", "") for row in gaps if row["row_type"] == "regimen")
     assert any("product concentration" in row.get("missing_fields", "") for row in gaps if row["row_type"] == "pediatric")
+
+
+def test_guideline_proof_marks_no_antibiotic_and_partial_antibiotic_criteria():
+    import csv
+
+    regimens = load("data/gold/disease_regimen_gold.json")["items"]
+    antibiotics = load("data/gold/antibiotic_gate_map.json")["items"]
+    with (ROOT / "reports/gold/disease_guideline_proof_report.csv").open(encoding="utf-8-sig") as handle:
+        proof_rows = list(csv.DictReader(handle))
+
+    assert proof_rows
+    common_cold = [row for row in regimens if row["disease_key"] == "common_cold_adult"]
+    assert any("no_antibiotic_criteria" in row.get("disease_guideline_claim_types", "") for row in common_cold)
+
+    conjunctivitis = [row for row in antibiotics if row["disease_key"] == "bacterial_conjunctivitis_adult"]
+    assert conjunctivitis
+    assert any(row.get("antibiotic_criteria_source_ready") for row in conjunctivitis)
+    assert all(not row.get("antibiotic_gate_ready") for row in conjunctivitis)
