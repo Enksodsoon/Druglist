@@ -15,6 +15,8 @@ import os
 import re
 import shutil
 import subprocess
+import urllib.parse
+import urllib.request
 import zipfile
 from collections import Counter, defaultdict
 from datetime import date, datetime, timezone
@@ -405,6 +407,7 @@ def source_records() -> list[dict[str, Any]]:
         )
     records.extend(phase2_sources())
     records.extend(PEDIATRIC_SOURCE_RECORDS)
+    records.extend(accredited_sweep_sources())
     return records
 
 
@@ -459,6 +462,7 @@ def evidence_claims() -> list[dict[str, Any]]:
             }
         )
     claims.extend(pediatric_formula_claims())
+    claims.extend(accredited_sweep_claims())
     return claims
 
 
@@ -469,6 +473,15 @@ def claims_by_product_disease() -> dict[tuple[str, str], dict[str, list[dict[str
         disease_key = str(claim.get("linked_disease_key") or "")
         if product_id and disease_key:
             grouped[(product_id, disease_key)][str(claim.get("evidence_field") or "")].append(claim)
+    return grouped
+
+
+def claims_by_product() -> dict[str, dict[str, list[dict[str, Any]]]]:
+    grouped: dict[str, dict[str, list[dict[str, Any]]]] = defaultdict(lambda: defaultdict(list))
+    for claim in evidence_claims():
+        product_id = str(claim.get("linked_product_id") or "")
+        if product_id:
+            grouped[product_id][str(claim.get("evidence_field") or "")].append(claim)
     return grouped
 
 
@@ -613,6 +626,269 @@ def parsed_concentration_mg_per_ml(value: str) -> float | None:
     return None
 
 
+SAFETY_PHRASES = {
+    "contraindication": [
+        "do not use",
+        "contraindications",
+        "contraindicated",
+    ],
+    "precaution": [
+        "ask a doctor before use",
+        "warnings",
+        "precautions",
+    ],
+    "common_side_effect": [
+        "adverse reactions",
+        "side effects",
+        "stop use and ask a doctor",
+    ],
+    "major_interaction": [
+        "drug interactions",
+        "ask a doctor or pharmacist before use if you are",
+        "taking",
+    ],
+    "pregnancy_lactation": [
+        "pregnant or breast-feeding",
+        "pregnancy",
+        "lactation",
+    ],
+    "composition_strength_form_route": [
+        "active ingredient",
+        "dosage forms and strengths",
+        "description",
+    ],
+}
+
+
+def normalized_generic(value: str) -> str:
+    text = (value or "").lower()
+    text = re.sub(r"\b(hcl|hydrochloride|sodium|potassium|dihydrochloride|maleate|besylate|furoate|monohydrate)\b", " ", text)
+    text = re.sub(r"[^a-z0-9]+", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def strength_tokens(row: dict[str, str]) -> list[str]:
+    text = " ".join([row.get("strength", ""), row.get("composition", ""), row.get("generic_name", "")]).lower()
+    tokens = []
+    for match in re.finditer(r"(\d+(?:\.\d+)?)\s*(mg|mcg|g|%|iu|unit|units|ml)", text):
+        token = f"{match.group(1).rstrip('0').rstrip('.') if '.' in match.group(1) else match.group(1)} {match.group(2)}"
+        if token not in tokens:
+            tokens.append(token)
+    return tokens[:3]
+
+
+def form_tokens(row: dict[str, str]) -> list[str]:
+    text = " ".join([row.get("dosage_form", ""), row.get("route", ""), row.get("composition", "")]).lower()
+    tokens = []
+    for token in ["tablet", "caplet", "capsule", "syrup", "suspension", "cream", "ointment", "gel", "drops", "spray", "solution", "injection"]:
+        if token in text:
+            tokens.append(token)
+    return tokens
+
+
+def source_text_window(text: str, phrase: str, width: int = 520) -> str:
+    idx = text.lower().find(phrase.lower())
+    if idx < 0:
+        return ""
+    start = max(0, idx - width // 2)
+    end = min(len(text), idx + width // 2)
+    return re.sub(r"\s+", " ", text[start:end]).strip()[:700]
+
+
+def fetch_url_text(url: str, timeout: int = 15, max_bytes: int = 2_500_000) -> str:
+    request = urllib.request.Request(url, headers={"User-Agent": "DruglistGold/3.0"})
+    with urllib.request.urlopen(request, timeout=timeout) as response:
+        raw = response.read(max_bytes).decode("utf-8", errors="ignore")
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", raw)).strip()
+
+
+def fetch_json_url(url: str, timeout: int = 15) -> dict[str, Any]:
+    request = urllib.request.Request(url, headers={"User-Agent": "DruglistGold/3.0"})
+    with urllib.request.urlopen(request, timeout=timeout) as response:
+        return json.loads(response.read().decode("utf-8", errors="ignore"))
+
+
+def run_full_accredited_source_sweep(products: list[dict[str, str]]) -> dict[str, int]:
+    """Acquire official label snippets for every product where exact matching is possible.
+
+    This is intentionally conservative: DailyMed product labels can support
+    product metadata and safety snippets, but they do not by themselves unlock
+    disease-specific Thai OPD regimen rows.
+    """
+
+    source_rows: list[dict[str, Any]] = []
+    claim_rows: list[dict[str, Any]] = []
+    rejection_rows: list[dict[str, Any]] = []
+    task_rows: list[dict[str, Any]] = []
+    text_cache: dict[str, str] = {}
+    groups: dict[str, list[dict[str, str]]] = defaultdict(list)
+
+    for row in products:
+        product_id = row.get("product_id", "")
+        generic = row.get("generic_name") or row.get("composition") or ""
+        generic_norm = normalized_generic(generic)
+        if not product_id or not generic_norm or "+" in generic:
+            continue
+        primary = " ".join(generic_norm.split()[:3])
+        if primary:
+            groups[primary].append(row)
+
+    max_groups = int(os.environ.get("GOLD_FULL_SWEEP_MAX_GROUPS", "10"))
+    sorted_groups = sorted(groups.items(), key=lambda item: (-len(item[1]), item[0]))
+    deferred_groups = sorted_groups[max_groups:]
+    for primary, group_rows in deferred_groups:
+        for row in group_rows:
+            rejection_rows.append(
+                {
+                    "product_id": row.get("product_id", ""),
+                    "generic_name": row.get("generic_name", ""),
+                    "status": "deferred_acquisition_queue",
+                    "reason": f"Automatic web retrieval capped at {max_groups} generic groups for this run; source query remains queued.",
+                }
+            )
+    for primary, group_rows in sorted_groups[:max_groups]:
+        query = urllib.parse.quote(primary)
+        search_url = f"https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name={query}&pagesize=1"
+        task_rows.append(
+            {
+                "generic_group": primary,
+                "product_count": len(group_rows),
+                "source_target": "DailyMed official label",
+                "query_url": search_url,
+                "status": "searched",
+                "expected_fields": "composition/strength/form/route; contraindications; precautions; adverse reactions; interactions; pregnancy/lactation",
+            }
+        )
+        try:
+            payload = fetch_json_url(search_url, timeout=4)
+        except Exception as exc:
+            for row in group_rows:
+                rejection_rows.append({"product_id": row.get("product_id", ""), "generic_name": row.get("generic_name", ""), "status": "dailymed_search_failed", "reason": str(exc)})
+            continue
+        label_texts = []
+        for candidate in (payload.get("data") or [])[:1]:
+            setid = candidate.get("setid")
+            if not setid:
+                continue
+            xml_url = f"https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/{setid}.xml"
+            try:
+                label_texts.append((candidate, text_cache.setdefault(setid, fetch_url_text(xml_url, timeout=4))))
+            except Exception as exc:
+                rejection_rows.append({"generic_group": primary, "source_url": xml_url, "status": "dailymed_label_fetch_failed", "reason": str(exc)})
+
+        for row in group_rows:
+            product_id = row.get("product_id", "")
+            generic = row.get("generic_name") or row.get("composition") or ""
+            generic_norm = normalized_generic(generic)
+            matched = False
+            for candidate, text in label_texts:
+                setid = candidate.get("setid")
+                title = candidate.get("title", "")
+                text_lower = text.lower()
+                generic_terms = [term for term in generic_norm.split() if len(term) >= 4][:2]
+                generic_match = all(term in text_lower for term in generic_terms) if generic_terms else False
+                strengths = strength_tokens(row)
+                strength_match = not strengths or any(token in text_lower or token.replace(" ", "") in text_lower for token in strengths)
+                forms = form_tokens(row)
+                form_match = not forms or any(token in text_lower or token in title.lower() for token in forms)
+                if not (generic_match and strength_match and form_match):
+                    continue
+                snippets: dict[str, str] = {}
+                for field, phrases in SAFETY_PHRASES.items():
+                    snippets[field] = ""
+                    for phrase in phrases:
+                        window = source_text_window(text, phrase)
+                        if window:
+                            snippets[field] = window
+                            break
+                missing = [field for field, snippet in snippets.items() if not snippet]
+                if missing:
+                    rejection_rows.append(
+                        {
+                            "product_id": product_id,
+                            "generic_name": generic,
+                            "source_title": title,
+                            "source_url": f"https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid={setid}",
+                            "status": "label_matched_but_missing_required_safety_snippets",
+                            "missing_fields": "; ".join(missing),
+                        }
+                    )
+                    continue
+                matched = True
+                source_id = stable_id("dailymed", setid, product_id)
+                source_url = f"https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid={setid}"
+                source_rows.append(
+                    {
+                        "source_id": source_id,
+                        "source_title": title,
+                        "source_org": "DailyMed / U.S. National Library of Medicine",
+                        "source_url": source_url,
+                        "access_date": today(),
+                        "source_type": "official_product_label",
+                        "source_country_or_region": "United States",
+                        "adapter_name": "full_dailymed_accredited_sweep",
+                        "retrieval_status": "retrieved",
+                        "extraction_status": "field_snippets_extracted",
+                        "linked_product_id": product_id,
+                        "linked_generic_name": generic,
+                    }
+                )
+                for field, snippet in snippets.items():
+                    claim_rows.append(
+                        {
+                            "claim_id": stable_id("claim", source_id, product_id, field),
+                            "source_id": source_id,
+                            "source_title": title,
+                            "source_org": "DailyMed / U.S. National Library of Medicine",
+                            "source_url": source_url,
+                            "source_type": "official_product_label",
+                            "source_country_or_region": "United States",
+                            "evidence_field": field,
+                            "evidence_value": "source-backed product label field",
+                            "evidence_snippet": snippet,
+                            "confidence": 0.9,
+                            "linked_product_id": product_id,
+                            "linked_regimen_id": "",
+                            "linked_disease_key": "",
+                            "linked_generic_name": generic,
+                            "adapter_name": "full_dailymed_accredited_sweep",
+                            "product_match_status": "generic_strength_form_route_match",
+                            "rx_unlock_scope": "product_safety_metadata_only",
+                        }
+                    )
+                break
+            if not matched:
+                rejection_rows.append(
+                    {
+                        "product_id": product_id,
+                        "generic_name": generic,
+                        "status": "no_exact_dailymed_label_match",
+                        "reason": "No accessible DailyMed result matched generic plus strength/form sufficiently for product-level acceptance.",
+                    }
+                )
+
+    write_json(DATA_GOLD / "accredited_source_sweep_sources.json", {"items": source_rows})
+    write_json(DATA_GOLD / "accredited_source_sweep_evidence.json", {"items": claim_rows})
+    write_csv(REPORT_GOLD / "full_accredited_source_sweep_tasks.csv", task_rows)
+    write_csv(REPORT_GOLD / "full_accredited_source_acceptance_report.csv", source_rows)
+    write_csv(REPORT_GOLD / "full_accredited_source_rejection_report.csv", rejection_rows)
+    return {
+        "searched_products": sum(len(rows) for rows in groups.values()),
+        "searched_generic_groups": len(groups),
+        "accepted_sources": len(source_rows),
+        "accepted_claims": len(claim_rows),
+        "rejected_or_unmatched": len(rejection_rows),
+    }
+
+
+def accredited_sweep_claims() -> list[dict[str, Any]]:
+    return read_json(DATA_GOLD / "accredited_source_sweep_evidence.json", {"items": []}).get("items", [])
+
+
+def accredited_sweep_sources() -> list[dict[str, Any]]:
+    return read_json(DATA_GOLD / "accredited_source_sweep_sources.json", {"items": []}).get("items", [])
+
+
 def status_for_regimen(row: dict[str, str]) -> str:
     if row.get("final_verification_status") == "ready_source_verified":
         return "gold_ready_adult"
@@ -634,6 +910,7 @@ def build_gold_tables() -> dict[str, int]:
     antibiotics = export_sheet("7_Antibiotic_Rows", source_refreshed=True)
     citations = evidence_claims()
     claim_groups = claims_by_product_disease()
+    product_claim_groups = claims_by_product()
     phase2_product_sources = defaultdict(list)
     for claim in citations:
         if claim.get("linked_product_id") and claim.get("source_id"):
@@ -816,8 +1093,9 @@ def build_gold_tables() -> dict[str, int]:
     safety_gold = []
     for row in products:
         pid = row.get("product_id", "")
-        product_claim_groups = [group for (product_id, _disease), group in claim_groups.items() if product_id == pid]
-        safety_group = next((group for group in product_claim_groups if has_fields(group, ["contraindication", "precaution", "common_side_effect", "major_interaction", "pregnancy_lactation"])), {})
+        product_groups = [group for (product_id, _disease), group in claim_groups.items() if product_id == pid]
+        product_only_group = product_claim_groups.get(pid, {})
+        safety_group = product_only_group if has_fields(product_only_group, ["contraindication", "precaution", "common_side_effect", "major_interaction", "pregnancy_lactation"]) else next((group for group in product_groups if has_fields(group, ["contraindication", "precaution", "common_side_effect", "major_interaction", "pregnancy_lactation"])), {})
         safety_ready = bool(safety_group)
         safety_source_ids = source_ids_for_claim_group(safety_group) if safety_ready else []
         safety_gold.append(
@@ -1287,6 +1565,9 @@ def export_bundle() -> Path:
             REPORT_GOLD / "all_pediatric_accredited_sweep.csv",
             REPORT_GOLD / "all_antibiotic_accredited_sweep.csv",
             REPORT_GOLD / "all_drug_accredited_sweep_summary.md",
+            REPORT_GOLD / "full_accredited_source_sweep_tasks.csv",
+            REPORT_GOLD / "full_accredited_source_acceptance_report.csv",
+            REPORT_GOLD / "full_accredited_source_rejection_report.csv",
             REPORT_GOLD / "pediatric_formula_gap_report.csv",
             REPORT_GOLD / "antibiotic_gate_gap_report.csv",
             REPORT_GOLD / "safety_gap_report.csv",
@@ -1315,6 +1596,8 @@ def final_summary(selected: dict[str, Any], query_count: int, counts: dict[str, 
     acquisition_queue = len(read_csv(REPORT_GOLD / "source_acquisition_queue.csv"))
     unique = unique_coverage_reports()
     all_sweep = all_drug_accredited_sweep_reports()
+    full_acceptance = read_csv(REPORT_GOLD / "full_accredited_source_acceptance_report.csv")
+    full_rejections = read_csv(REPORT_GOLD / "full_accredited_source_rejection_report.csv")
     lines = [
         "Rows are unlocked only when exact source-backed field-level evidence passes validation. Workbook-only rows remain hidden from prescribing output.",
         f"- Workbook used: `{selected.get('selected_workbook') or 'none_found'}`",
@@ -1323,6 +1606,8 @@ def final_summary(selected: dict[str, Any], query_count: int, counts: dict[str, 
         f"- Source queries generated: {query_count}",
         f"- Accredited source metadata available: {source_count}",
         f"- Evidence fields extracted: {evidence_count}",
+        f"- Full DailyMed product-label sources accepted: {len(full_acceptance)}",
+        f"- Full DailyMed product-label unmatched/rejected: {len(full_rejections)}",
         f"- RX NOW ready count: {rx_counts.get('rx_now_ready', 0)}",
         f"- SWAPS ready count: {rx_counts.get('swaps_ready', 0)}",
         f"- Unique products RX-ready: {unique.get('unique_products_rx_ready', 0)}",
@@ -1356,6 +1641,8 @@ def run_pipeline() -> dict[str, Any]:
     queries = build_queries()
     write_csv(REPORT_GOLD / "source_acquisition_queue.csv", [dict(row, retrieval_status="queued") for row in queries])
     adapter_result = run_phase2_adapters(candidate_rows)
+    product_rows = export_sheet("1_Product_Master_Export")
+    accredited_sweep_result = run_full_accredited_source_sweep(product_rows)
     write_csv(REPORT_GOLD / "evidence_extraction_report.csv", evidence_claims())
     sources = source_records()
     write_json(DATA_GOLD / "source_citations_gold.json", {"items": []})
@@ -1377,6 +1664,7 @@ def run_pipeline() -> dict[str, Any]:
         "evidence_fields": len(evidence_claims()),
         "phase2_candidates": len(candidate_rows),
         "adapter_result": adapter_result,
+        "accredited_sweep_result": accredited_sweep_result,
         "counts": counts,
         "rx_counts": rx_counts,
         "validation_code": validation_code,
