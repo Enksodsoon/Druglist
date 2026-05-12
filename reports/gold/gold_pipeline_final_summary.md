@@ -5,8 +5,8 @@ Rows are unlocked only when exact source-backed field-level evidence passes vali
 - Products found: 910
 - Draft regimen rows found: 987
 - Source queries generated: 2441
-- Accredited source metadata available: 81
-- Evidence fields extracted: 670
+- Accredited source metadata available: 87
+- Evidence fields extracted: 737
 - Full DailyMed product-label sources accepted: 61
 - Full DailyMed product-label unmatched/rejected: 580
 - RX NOW ready count: 35
@@ -18,6 +18,9 @@ Rows are unlocked only when exact source-backed field-level evidence passes vali
 - Duplicate ready row count: 41
 - Pediatric formula-ready count: 0
 - Antibiotic gate-ready count: 0
+- 100% coverage ledger rows: 1272
+- 100% coverage fully verified rows: 31
+- 100% coverage not fully verified rows: 1241
 - Reference-only count: 845
 - Hidden/not-ready count: 925
 - Conflict count: 3
@@ -26,6 +29,6 @@ Rows are unlocked only when exact source-backed field-level evidence passes vali
 - All-drug sweep products still pending accredited source: 845
 - All-drug sweep regimen rows processed: 987
 - All-drug sweep regimen rows pending exact evidence: 928
-- Output bundle: `exports/Druglist_Gold_All_Drug_Accredited_Sweep_Output_20260511.zip`
+- Output bundle: `exports/Druglist_Gold_All_Drug_Accredited_Sweep_Output_20260512.zip`
 - Promotion was not run.
 - Next command: `python3 scripts/gold/run_gold_pipeline.py && python3 scripts/gold/09_validate_gold_readiness.py`

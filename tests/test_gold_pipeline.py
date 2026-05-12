@@ -328,3 +328,20 @@ def test_guideline_proof_marks_no_antibiotic_and_partial_antibiotic_criteria():
     assert conjunctivitis
     assert any(row.get("antibiotic_criteria_source_ready") for row in conjunctivitis)
     assert all(not row.get("antibiotic_gate_ready") for row in conjunctivitis)
+
+
+def test_full_coverage_gap_ledger_accounts_for_all_gold_rows():
+    import csv
+
+    regimens = load("data/gold/disease_regimen_gold.json")["items"]
+    peds = load("data/gold/pediatric_dose_engine.json")["items"]
+    antibiotics = load("data/gold/antibiotic_gate_map.json")["items"]
+    ledger = load("data/gold/gold_100_percent_coverage_gap_ledger.json")
+    with (ROOT / "reports/gold/gold_100_percent_coverage_gap_ledger.csv").open(encoding="utf-8-sig") as handle:
+        rows = list(csv.DictReader(handle))
+
+    expected = len(regimens) + len(peds) + len(antibiotics)
+    assert ledger["summary"]["total_coverage_rows"] == expected
+    assert len(rows) == expected
+    assert ledger["summary"]["not_fully_verified_rows"] > 0
+    assert all(row["next_action"] for row in rows)

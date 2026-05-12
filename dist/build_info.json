@@ -1,8 +1,8 @@
 {
   "schema_version": "druglist-dist-v1",
   "build_version": "runtime-2026-05-02T06:45:17Z",
-  "generated_at": "2026-05-11T03:00:01Z",
-  "source_commit": "5592c75",
+  "generated_at": "2026-05-12T00:59:23Z",
+  "source_commit": "6d5e118",
   "frontend_files": [
     "index.html",
     "data/core/app_seed_runtime.json",

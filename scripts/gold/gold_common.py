@@ -667,6 +667,78 @@ GUIDELINE_PROOF_SOURCE_RECORDS = [
         "retrieval_status": "retrieved",
         "extraction_status": "field_snippets_extracted",
     },
+    {
+        "source_id": "aao_hns_allergic_rhinitis_2015",
+        "source_title": "Clinical Practice Guideline: Allergic Rhinitis",
+        "source_org": "American Academy of Otolaryngology-Head and Neck Surgery Foundation",
+        "source_url": "https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/allergic-rhinitis/",
+        "access_date": today(),
+        "source_type": "disease_guideline",
+        "source_country_or_region": "United States",
+        "adapter_name": "guideline_proof_pack",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+    {
+        "source_id": "msf_acute_diarrhoea_2026",
+        "source_title": "Acute diarrhoea",
+        "source_org": "MSF Medical Guidelines",
+        "source_url": "https://medicalguidelines.msf.org/en/viewport/CG/english/acute-diarrhoea-16689593.html",
+        "access_date": today(),
+        "source_type": "disease_guideline",
+        "source_country_or_region": "International",
+        "adapter_name": "guideline_proof_pack",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+    {
+        "source_id": "msf_some_dehydration_2026",
+        "source_title": "Some dehydration",
+        "source_org": "MSF Medical Guidelines",
+        "source_url": "https://medicalguidelines.msf.org/en/viewport/CHOL/english/5-4-some-dehydration-32409711.html",
+        "access_date": today(),
+        "source_type": "pediatric_disease_guideline",
+        "source_country_or_region": "International",
+        "adapter_name": "guideline_proof_pack",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+    {
+        "source_id": "cdc_pediatric_gastroenteritis_2003",
+        "source_title": "Managing Acute Gastroenteritis Among Children",
+        "source_org": "Centers for Disease Control and Prevention",
+        "source_url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5216a1.htm",
+        "access_date": today(),
+        "source_type": "pediatric_disease_guideline",
+        "source_country_or_region": "United States",
+        "adapter_name": "guideline_proof_pack",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+    {
+        "source_id": "cdc_ringworm_hcp_2024",
+        "source_title": "Clinical Overview of Ringworm",
+        "source_org": "Centers for Disease Control and Prevention",
+        "source_url": "https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html",
+        "access_date": today(),
+        "source_type": "disease_guideline",
+        "source_country_or_region": "United States",
+        "adapter_name": "guideline_proof_pack",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+    {
+        "source_id": "fda_otc_topical_antifungal_monograph_2021",
+        "source_title": "Topical Antifungal Drug Products for OTC Human Use",
+        "source_org": "U.S. Food and Drug Administration",
+        "source_url": "https://www.accessdata.fda.gov/drugsatfda_docs/omuf/monographs/OTC%20Monograph_M005-Topical%20Antifungal%20drug%20products%20for%20OTC%20Human%20Use%2012.16.2021.pdf",
+        "access_date": today(),
+        "source_type": "official_product_label_or_monograph",
+        "source_country_or_region": "United States",
+        "adapter_name": "guideline_proof_pack",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
 ]
 
 
@@ -742,6 +814,62 @@ GUIDELINE_DISEASE_PROOFS = [
         "snippet": "Bacterial conjunctivitis symptoms include purulent discharge causing matted eyelids, chemosis, decreased vision, eyelid swelling, and pain.",
         "proof_status": "criteria_source_partial_product_dose_still_needed",
         "next_action": "criteria can triage bacterial pattern, but product dose/duration source is still required",
+    },
+    {
+        "source_id": "aao_hns_allergic_rhinitis_2015",
+        "disease_keys": ["allergic_rhinitis_adult", "allergic_rhinitis_congestion_adult", "uri_sneezing_runny_nose_adult"],
+        "claim_types": ["disease_strategy", "line_of_treatment", "drug_class_indication"],
+        "snippet": "Clinicians should recommend intranasal steroids for allergic rhinitis symptoms that affect quality of life.",
+        "proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+        "next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+    },
+    {
+        "source_id": "aao_hns_allergic_rhinitis_2015",
+        "disease_keys": ["allergic_conjunctivitis_adult", "watery_red_eye_nonpurulent_adult"],
+        "claim_types": ["disease_strategy", "line_of_treatment"],
+        "snippet": "Allergic rhinitis diagnosis may include red and watery eyes with nasal symptoms.",
+        "proof_status": "source_backed_allergic_eye_support_context",
+        "next_action": "ocular product-specific dose/safety source still required before eye-drop rows unlock",
+    },
+    {
+        "source_id": "msf_acute_diarrhoea_2026",
+        "disease_keys": ["acute_watery_diarrhea_adult", "gastroenteritis_mild_adult", "traveler_diarrhea_support_adult", "uri_diarrhea_adult"],
+        "claim_types": ["disease_strategy", "line_of_treatment", "no_antibiotic_criteria"],
+        "snippet": "Prevent or treat dehydration; do not systematically administer antimicrobials because only certain diarrhoeas require antibiotics.",
+        "proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+        "next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+    },
+    {
+        "source_id": "msf_some_dehydration_2026",
+        "disease_keys": ["acute_watery_diarrhea_adult", "acute_gastroenteritis_peds_mild", "pediatric_dehydration_support", "diarrhea_peds_support"],
+        "claim_types": ["pediatric_dose", "pediatric_weight_rule", "line_of_treatment"],
+        "snippet": "ORS volume for some dehydration is 75 ml/kg over 4 hours.",
+        "proof_status": "source_backed_ors_weight_formula",
+        "next_action": "product sachet/dilution and exact formulation still required before product-specific pediatric ORS row unlocks",
+    },
+    {
+        "source_id": "cdc_pediatric_gastroenteritis_2003",
+        "disease_keys": ["acute_gastroenteritis_peds_mild", "diarrhea_peds_support", "dry_eye_peds_support", "uri_wet_cough_peds"],
+        "claim_types": ["pediatric_safety", "red_flags", "line_of_treatment"],
+        "snippet": "Oral rehydration, maintenance, and nutrition are recommended; severe dehydration is a medical emergency.",
+        "proof_status": "source_backed_pediatric_gastroenteritis_safety",
+        "next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+    },
+    {
+        "source_id": "cdc_ringworm_hcp_2024",
+        "disease_keys": ["tinea_corporis_localized_adult", "tinea_pruritic_rash_adult", "tinea_pedis_adult", "tinea_cruris_adult"],
+        "claim_types": ["disease_strategy", "line_of_treatment", "red_flags"],
+        "snippet": "Healthcare providers are recommended to test suspected fungal skin or nail infections to determine best treatment.",
+        "proof_status": "source_backed_tinea_diagnostic_caution",
+        "next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+    },
+    {
+        "source_id": "fda_otc_topical_antifungal_monograph_2021",
+        "disease_keys": ["tinea_corporis_localized_adult", "tinea_cruris_adult", "tinea_pedis_adult"],
+        "claim_types": ["drug_class_indication", "line_of_treatment"],
+        "snippet": "OTC topical antifungal products may identify treatment of athlete's foot, jock itch, and ringworm.",
+        "proof_status": "source_backed_topical_antifungal_class_indication",
+        "next_action": "exact product active ingredient, concentration, duration, and safety source still required before product-specific unlock",
     },
 ]
 
@@ -1716,6 +1844,109 @@ def gap_reports() -> None:
     write_csv(REPORT_GOLD / "disease_guideline_proof_report.csv", proof_rows)
 
 
+def full_coverage_gap_ledger() -> dict[str, int]:
+    regimens = read_json(DATA_GOLD / "disease_regimen_gold.json", {"items": []}).get("items", [])
+    peds = read_json(DATA_GOLD / "pediatric_dose_engine.json", {"items": []}).get("items", [])
+    antibiotics = read_json(DATA_GOLD / "antibiotic_gate_map.json", {"items": []}).get("items", [])
+    rx = read_json(DATA_GOLD / "rx_eligibility_map.json", {})
+
+    rows: list[dict[str, Any]] = []
+    for row in regimens:
+        ready = str(row.get("final_rx_status", "")).startswith("gold_ready")
+        missing = []
+        if not row.get("disease_guideline_source_ids"):
+            missing.append("disease guideline/line-of-treatment proof")
+        if not row.get("source_ids"):
+            missing.append("product/regimen source citation")
+        for field, label in [
+            ("indication_verified", "indication"),
+            ("dose_verified", "dose"),
+            ("route_verified", "route"),
+            ("frequency_verified", "frequency"),
+            ("duration_verified", "duration"),
+            ("safety_minimum_ready", "minimum safety"),
+        ]:
+            if not row.get(field):
+                missing.append(label)
+        rows.append(
+            {
+                "coverage_family": "regimen",
+                "row_id": row.get("gold_regimen_row_id", ""),
+                "product_id": row.get("product_id", ""),
+                "disease_key": row.get("disease_key", ""),
+                "generic_name": row.get("generic_name", ""),
+                "status": "fully_verified" if ready and not missing else "not_fully_verified",
+                "rx_ready": ready,
+                "missing_fields": "; ".join(missing),
+                "next_action": "ready by Gold validator" if ready and not missing else "add exact source-backed field evidence before RX/SWAPS promotion",
+            }
+        )
+    for row in peds:
+        ready = bool(row.get("pediatric_formula_ready"))
+        missing = []
+        if not row.get("formula_template_ready"):
+            missing.append("pediatric formula source")
+        if not row.get("pediatric_formula_ready"):
+            missing.extend(["product concentration/formulation source", "rounding/calculation-ready product gate"])
+        rows.append(
+            {
+                "coverage_family": "pediatric",
+                "row_id": row.get("pediatric_rule_id", ""),
+                "product_id": row.get("product_id", ""),
+                "disease_key": row.get("disease_key", ""),
+                "generic_name": row.get("generic_name", ""),
+                "status": "fully_verified" if ready else "not_fully_verified",
+                "rx_ready": ready,
+                "missing_fields": "; ".join(dict.fromkeys(missing)),
+                "next_action": "ready by Gold pediatric validator" if ready else (row.get("pediatric_formula_block_reason") or "add pediatric formula and product concentration evidence"),
+            }
+        )
+    for row in antibiotics:
+        ready = bool(row.get("antibiotic_gate_ready"))
+        missing = []
+        if not row.get("antibiotic_criteria_source_ready") and not row.get("no_antibiotic_source_ready"):
+            missing.append("antibiotic/no-antibiotic disease criteria source")
+        if not ready:
+            missing.extend(["product antibiotic dose", "duration", "gate logic", "safety citation"])
+        rows.append(
+            {
+                "coverage_family": "antibiotic",
+                "row_id": row.get("antibiotic_gate_id", ""),
+                "product_id": row.get("product_id", ""),
+                "disease_key": row.get("disease_key", ""),
+                "generic_name": row.get("generic_name", ""),
+                "status": "fully_verified" if ready else "not_fully_verified",
+                "rx_ready": ready,
+                "missing_fields": "; ".join(dict.fromkeys(missing)),
+                "next_action": "ready by Gold antibiotic validator" if ready else (row.get("guideline_next_action") or "add source-backed criteria, dose, duration, and safety evidence"),
+            }
+        )
+    write_csv(REPORT_GOLD / "gold_100_percent_coverage_gap_ledger.csv", rows)
+    summary = {
+        "total_coverage_rows": len(rows),
+        "fully_verified_rows": sum(1 for row in rows if row["status"] == "fully_verified"),
+        "not_fully_verified_rows": sum(1 for row in rows if row["status"] != "fully_verified"),
+        "rx_now_ready": len(rx.get("rx_now_ready", [])),
+        "swaps_ready": len(rx.get("swaps_ready", [])),
+        "pediatric_formula_ready": sum(1 for row in peds if row.get("pediatric_formula_ready")),
+        "antibiotic_gate_ready": sum(1 for row in antibiotics if row.get("antibiotic_gate_ready")),
+        "regimen_rows_with_guideline_proof": sum(1 for row in regimens if row.get("disease_guideline_source_ids")),
+        "disease_keys_with_guideline_proof": len({row.get("disease_key") for row in regimens if row.get("disease_guideline_source_ids")}),
+        "antibiotic_rows_with_partial_criteria_proof": sum(1 for row in antibiotics if row.get("antibiotic_criteria_source_ready") or row.get("no_antibiotic_source_ready")),
+    }
+    write_json(DATA_GOLD / "gold_100_percent_coverage_gap_ledger.json", {"summary": summary, "items": rows})
+    write_report(
+        REPORT_GOLD / "gold_100_percent_coverage_gap_summary.md",
+        "Gold 100 Percent Coverage Gap Summary",
+        [
+            "This is the 100% coverage accountability ledger. It does not convert missing evidence into verified evidence.",
+            "- Fully verified means every required field is source-backed and passes the Gold validator.",
+            *[f"- {key}: {value}" for key, value in summary.items()],
+        ],
+    )
+    return summary
+
+
 def copy_gold_to_dist() -> None:
     (DIST_GOLD / "review").mkdir(parents=True, exist_ok=True)
     for filename in GOLD_JSON_FILES:
@@ -1777,6 +2008,8 @@ def export_bundle() -> Path:
             REPORT_GOLD / "long_accredited_source_gap_matrix.csv",
             REPORT_GOLD / "long_accredited_source_sweep_summary.md",
             REPORT_GOLD / "disease_guideline_proof_report.csv",
+            REPORT_GOLD / "gold_100_percent_coverage_gap_ledger.csv",
+            REPORT_GOLD / "gold_100_percent_coverage_gap_summary.md",
             REPORT_GOLD / "pediatric_formula_gap_report.csv",
             REPORT_GOLD / "antibiotic_gate_gap_report.csv",
             REPORT_GOLD / "safety_gap_report.csv",
@@ -1805,6 +2038,7 @@ def final_summary(selected: dict[str, Any], query_count: int, counts: dict[str, 
     acquisition_queue = len(read_csv(REPORT_GOLD / "source_acquisition_queue.csv"))
     unique = unique_coverage_reports()
     all_sweep = all_drug_accredited_sweep_reports()
+    coverage = full_coverage_gap_ledger()
     full_acceptance = read_csv(REPORT_GOLD / "full_accredited_source_acceptance_report.csv")
     full_rejections = read_csv(REPORT_GOLD / "full_accredited_source_rejection_report.csv")
     lines = [
@@ -1826,6 +2060,9 @@ def final_summary(selected: dict[str, Any], query_count: int, counts: dict[str, 
         f"- Duplicate ready row count: {unique.get('duplicate_row_count', 0)}",
         f"- Pediatric formula-ready count: {sum(1 for row in read_json(DATA_GOLD / 'pediatric_dose_engine.json', {'items': []}).get('items', []) if row.get('pediatric_formula_ready'))}",
         f"- Antibiotic gate-ready count: {sum(1 for row in read_json(DATA_GOLD / 'antibiotic_gate_map.json', {'items': []}).get('items', []) if row.get('antibiotic_gate_ready'))}",
+        f"- 100% coverage ledger rows: {coverage.get('total_coverage_rows', 0)}",
+        f"- 100% coverage fully verified rows: {coverage.get('fully_verified_rows', 0)}",
+        f"- 100% coverage not fully verified rows: {coverage.get('not_fully_verified_rows', 0)}",
         f"- Reference-only count: {rx_counts.get('reference_only', 0)}",
         f"- Hidden/not-ready count: {rx_counts.get('not_ready', 0)}",
         f"- Conflict count: {conflicts}",
@@ -1862,6 +2099,7 @@ def run_pipeline() -> dict[str, Any]:
     all_drug_accredited_sweep_reports()
     swaps_tier_report()
     gap_reports()
+    full_coverage_gap_ledger()
     copy_gold_to_dist()
     validation_code = validate_gold()
     bundle = export_bundle()
