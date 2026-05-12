@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import os
+import json
 import subprocess
 import sys
 import time
@@ -14,6 +15,15 @@ ROOT = Path(__file__).resolve().parents[1]
 URL = os.environ.get("DRUGLIST_URL", "http://127.0.0.1:8781/index.html")
 ART = ROOT / "artifacts"
 ART.mkdir(exist_ok=True)
+
+
+def complaint_with_swap() -> str | None:
+    data = json.loads((ROOT / "data/core/app_seed_runtime.json").read_text(encoding="utf-8"))
+    for complaint in data.get("cp") or []:
+        for regimen in complaint.get("r") or []:
+            if any("SWAP" in str(row.get("t") or row.get("s") or "").upper() for row in regimen.get("m") or []):
+                return complaint.get("i")
+    return None
 
 
 def require_selector(page, selector: str, label: str) -> None:
@@ -28,7 +38,11 @@ def smoke_main_builder(page) -> None:
     buttons = page.locator("#mainComplaints [data-c]")
     if buttons.count() < 1:
         raise AssertionError("Main Builder complaint list is empty")
-    buttons.first.click()
+    swap_complaint = complaint_with_swap()
+    if swap_complaint and page.locator(f'#mainComplaints [data-c="{swap_complaint}"]').count():
+        page.locator(f'#mainComplaints [data-c="{swap_complaint}"]').click()
+    else:
+        buttons.first.click()
     page.wait_for_timeout(250)
     text = page.locator("#mainBuilder").inner_text(timeout=5000).strip()
     if len(text) < 80:
@@ -36,6 +50,15 @@ def smoke_main_builder(page) -> None:
     require_selector(page, "#mainBuilder .main-med-card, #mainBuilder .main-empty", "main builder rendered content")
     if page.locator("#mainBuilder .main-med-card").count() and "Status:" not in text:
         raise AssertionError("Main Builder medication rows are missing readiness status")
+    if swap_complaint:
+        require_selector(page, '#mainBuilder [data-testid="main-swap-panel"]', "Drug SWAPS panel")
+        require_selector(page, '#mainBuilder [data-mswap]', "Drug SWAPS action")
+        before = page.locator("#mainBuilder .main-swap-card.active").count()
+        page.locator("#mainBuilder [data-mswap]").first.click()
+        page.wait_for_timeout(150)
+        after = page.locator("#mainBuilder .main-swap-card.active").count()
+        if after < 1 or after < before:
+            raise AssertionError("Drug SWAPS action did not activate a swap option")
 
 
 def is_env_dependency_error(exc: Exception) -> bool:
