@@ -48,20 +48,44 @@ def test_catalog_only_and_source_missing_are_hidden_from_rx_now():
 def test_pediatric_and_antibiotic_gates_are_conservative():
     peds = load("data/gold/pediatric_dose_engine.json")["items"]
     antibiotics = load("data/gold/antibiotic_gate_map.json")["items"]
-    assert all(not row["pediatric_formula_ready"] for row in peds)
-    assert all(row["final_pediatric_status"] == "source_missing_hide_from_rx" for row in peds)
+    assert any(row["pediatric_formula_ready"] for row in peds)
+    assert all(row["final_pediatric_status"] in {"source_missing_hide_from_rx", "gold_ready_pediatric"} for row in peds)
+    assert all(row["source_ids"] for row in peds if row["pediatric_formula_ready"])
     assert all(not row["antibiotic_gate_ready"] for row in antibiotics)
 
 
-def test_pediatric_formula_templates_are_sourced_but_not_product_ready():
+def test_pediatric_formula_templates_need_matching_product_labels():
     peds = load("data/gold/pediatric_dose_engine.json")["items"]
     templates = [row for row in peds if row.get("formula_template_ready")]
+    ready_templates = [row for row in templates if row.get("pediatric_formula_ready")]
+    blocked_templates = [row for row in templates if not row.get("pediatric_formula_ready")]
     assert templates
+    assert ready_templates
+    assert blocked_templates
     assert any("paracetamol" in row["generic_name"] for row in templates)
     assert any("ibuprofen" in row["generic_name"] for row in templates)
     assert all(row["source_ids"] for row in templates)
-    assert all(not row["pediatric_formula_ready"] for row in templates)
-    assert all("product concentration" in row.get("pediatric_formula_block_reason", "") for row in templates)
+    assert all(row.get("pediatric_product_label_verified") for row in ready_templates)
+    assert all("product concentration/formulation label" in row.get("pediatric_formula_block_reason", "") for row in blocked_templates)
+
+
+def test_targeted_pediatric_product_labels_unlock_matching_concentrations_only():
+    peds = load("data/gold/pediatric_dose_engine.json")["items"]
+    ready_by_product = {row["product_id"]: row for row in peds if row.get("pediatric_formula_ready")}
+    expected_ready = {"BDS003763", "BDS001665", "BDS007151", "BDS002845"}
+    assert expected_ready.issubset(ready_by_product)
+    assert all(
+        "generic_strength_form_route_match_not_thai_brand_registered" == ready_by_product[pid]["product_match_status"]
+        for pid in expected_ready
+    )
+    assert all("dailymed_" in ";".join(ready_by_product[pid]["source_ids"]) for pid in expected_ready)
+    unmatched_paracetamol = [
+        row for row in peds
+        if "paracetamol" in row["generic_name"].lower()
+        and row["product_id"] not in expected_ready
+    ]
+    assert unmatched_paracetamol
+    assert all(not row.get("pediatric_formula_ready") for row in unmatched_paracetamol)
 
 
 def test_every_ready_row_has_source_citation_if_future_rows_unlock():

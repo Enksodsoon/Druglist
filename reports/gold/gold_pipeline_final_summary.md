@@ -5,8 +5,8 @@ Rows are unlocked only when exact source-backed field-level evidence passes vali
 - Products found: 910
 - Draft regimen rows found: 987
 - Source queries generated: 2441
-- Accredited source metadata available: 208
-- Evidence fields extracted: 1463
+- Accredited source metadata available: 210
+- Evidence fields extracted: 1483
 - Full DailyMed product-label sources accepted: 182
 - Full DailyMed product-label unmatched/rejected: 486
 - RX NOW ready count: 35
@@ -16,17 +16,17 @@ Rows are unlocked only when exact source-backed field-level evidence passes vali
 - Unique disease keys RX-ready: 17
 - Unique product+disease pairs RX-ready: 18
 - Duplicate ready row count: 41
-- Pediatric formula-ready count: 0
+- Pediatric formula-ready count: 4
 - Antibiotic gate-ready count: 0
 - 100% coverage ledger rows: 1272
-- 100% coverage fully verified rows: 31
-- 100% coverage not fully verified rows: 1241
-- Reference-only count: 724
+- 100% coverage fully verified rows: 35
+- 100% coverage not fully verified rows: 1237
+- Reference-only count: 720
 - Hidden/not-ready count: 925
 - Conflict count: 3
 - Source acquisition queue count: 2449
 - All-drug sweep products processed: 910
-- All-drug sweep products still pending accredited source: 724
+- All-drug sweep products still pending accredited source: 720
 - All-drug sweep regimen rows processed: 987
 - All-drug sweep regimen rows pending exact evidence: 928
 - Output bundle: `exports/Druglist_Gold_All_Drug_Accredited_Sweep_Output_20260512.zip`
