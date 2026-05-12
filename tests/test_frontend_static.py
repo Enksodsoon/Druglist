@@ -85,6 +85,7 @@ def test_safety_review_strings_remain_visible_in_frontend():
         "Antibiotic/RDU issues",
         "Correction overlay applied",
         "source manifest TODO",
+        "Drug SWAPS",
     ]:
         assert text in source
 
@@ -98,8 +99,17 @@ def test_frontend_has_device_responsive_guardrails():
         "grid-auto-flow:column",
         "height:min(92vh,760px)",
         "font-size:16px",
+        ".layout-main.main-shell",
     ]:
         assert token in source
+
+
+def test_main_builder_swap_action_contract_is_present():
+    source = html()
+    assert "data-mswap" in source
+    assert "activateMainSwap" in source
+    assert "mainSwapPanelHtml" in source
+    assert "data-testid=\"main-swap-panel\"" in source
 
 
 def test_pediatric_mirror_controls_are_wired_bidirectionally():

@@ -2,6 +2,7 @@
 
 - Linked complaint tested: CI0001
 - Zoster/herpes complaint tested: CI0071
+- Swap complaint tested: CI0001
 - Pass: True
 
 ## Messages
