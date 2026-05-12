@@ -406,6 +406,7 @@ def source_records() -> list[dict[str, Any]]:
             }
         )
     records.extend(phase2_sources())
+    records.extend(PEDIATRIC_PRODUCT_LABEL_SOURCE_RECORDS)
     records.extend(PEDIATRIC_SOURCE_RECORDS)
     records.extend(GUIDELINE_PROOF_SOURCE_RECORDS)
     records.extend(accredited_sweep_sources())
@@ -463,6 +464,7 @@ def evidence_claims() -> list[dict[str, Any]]:
             }
         )
     claims.extend(pediatric_formula_claims())
+    claims.extend(pediatric_product_label_claims())
     claims.extend(guideline_proof_claims())
     claims.extend(accredited_sweep_claims())
     return claims
@@ -520,6 +522,34 @@ def source_ids_for_claim_group(group: dict[str, list[dict[str, Any]]]) -> list[s
     return sorted({claim.get("source_id", "") for claims in group.values() for claim in claims if claim.get("source_id")})
 
 
+PEDIATRIC_PRODUCT_LABEL_SOURCE_RECORDS = [
+    {
+        "source_id": "dailymed_acetaminophen_160mg_5ml_peds_2026",
+        "source_title": "ONESSIP ACETAMINOPHEN ORAL SUSPENSION BUBBLE GUM 5 ML",
+        "source_org": "DailyMed / U.S. National Library of Medicine",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40507559-aee4-a603-e063-6394a90afc4f",
+        "access_date": today(),
+        "source_type": "official_product_label",
+        "source_country_or_region": "United States",
+        "adapter_name": "targeted_pediatric_label_adapter",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+    {
+        "source_id": "dailymed_ibuprofen_100mg_5ml_peds_2026",
+        "source_title": "CHILDRENS IBUPROFEN ORAL SUSPENSION",
+        "source_org": "DailyMed / U.S. National Library of Medicine",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40936019-74ab-4b25-a502-7bbc6e12034a",
+        "access_date": today(),
+        "source_type": "official_product_label",
+        "source_country_or_region": "United States",
+        "adapter_name": "targeted_pediatric_label_adapter",
+        "retrieval_status": "retrieved",
+        "extraction_status": "field_snippets_extracted",
+    },
+]
+
+
 PEDIATRIC_SOURCE_RECORDS = [
     {
         "source_id": "msf_paracetamol_oral_peds_2024",
@@ -558,6 +588,87 @@ PEDIATRIC_SOURCE_RECORDS = [
         "extraction_status": "field_snippets_extracted",
     },
 ]
+
+
+PEDIATRIC_PRODUCT_LABEL_PROOFS = {
+    "BDS003763": {
+        "source_id": "dailymed_acetaminophen_160mg_5ml_peds_2026",
+        "source_title": "ONESSIP ACETAMINOPHEN ORAL SUSPENSION BUBBLE GUM 5 ML",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40507559-aee4-a603-e063-6394a90afc4f",
+        "generic_name": "paracetamol",
+        "expected_concentration": "32 mg/mL",
+        "snippet": "Active ingredient (in each 5 mL) Acetaminophen 160 mg. Directions: under 2 years ask a doctor; repeat dose every 4 hours while symptoms last; do not give more than 5 doses in 24 hours.",
+        "match_note": "Workbook row is paracetamol 160 mg/5 mL oral suspension; DailyMed label supports the matching generic concentration/formulation only, not Thai brand registration.",
+    },
+    "BDS001665": {
+        "source_id": "dailymed_ibuprofen_100mg_5ml_peds_2026",
+        "source_title": "CHILDRENS IBUPROFEN ORAL SUSPENSION",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40936019-74ab-4b25-a502-7bbc6e12034a",
+        "generic_name": "ibuprofen",
+        "expected_concentration": "20 mg/mL",
+        "snippet": "Active ingredient (in each 5 mL) Ibuprofen 100 mg. Directions: under 24 lb/under 2 years ask a doctor; repeat every 6 to 8 hours; do not use more than 4 times a day.",
+        "match_note": "Workbook row is ibuprofen 100 mg/5 mL oral suspension; DailyMed label supports the matching generic concentration/formulation only, not Thai brand registration.",
+    },
+    "BDS007151": {
+        "source_id": "dailymed_ibuprofen_100mg_5ml_peds_2026",
+        "source_title": "CHILDRENS IBUPROFEN ORAL SUSPENSION",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40936019-74ab-4b25-a502-7bbc6e12034a",
+        "generic_name": "ibuprofen",
+        "expected_concentration": "20 mg/mL",
+        "snippet": "Active ingredient (in each 5 mL) Ibuprofen 100 mg. Directions: under 24 lb/under 2 years ask a doctor; repeat every 6 to 8 hours; do not use more than 4 times a day.",
+        "match_note": "Workbook row is ibuprofen 100 mg/5 mL oral suspension; DailyMed label supports the matching generic concentration/formulation only, not Thai brand registration.",
+    },
+    "BDS002845": {
+        "source_id": "dailymed_ibuprofen_100mg_5ml_peds_2026",
+        "source_title": "CHILDRENS IBUPROFEN ORAL SUSPENSION",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40936019-74ab-4b25-a502-7bbc6e12034a",
+        "generic_name": "ibuprofen",
+        "expected_concentration": "20 mg/mL",
+        "snippet": "Active ingredient (in each 5 mL) Ibuprofen 100 mg. Directions: under 24 lb/under 2 years ask a doctor; repeat every 6 to 8 hours; do not use more than 4 times a day.",
+        "match_note": "Workbook row is ibuprofen 100 mg/5 mL oral suspension; DailyMed label supports the matching generic concentration/formulation only, not Thai brand registration.",
+    },
+}
+
+
+def pediatric_product_label_claims() -> list[dict[str, Any]]:
+    rows = []
+    for product_id, item in PEDIATRIC_PRODUCT_LABEL_PROOFS.items():
+        for field in [
+            "product_label_concentration",
+            "product_label_formulation",
+            "pediatric_age_gate",
+            "pediatric_frequency",
+            "pediatric_max_dose",
+        ]:
+            rows.append(
+                {
+                    "claim_id": f"claim_{item['source_id']}_{product_id}_{field}",
+                    "source_id": item["source_id"],
+                    "source_title": item["source_title"],
+                    "source_org": "DailyMed / U.S. National Library of Medicine",
+                    "source_url": item["source_url"],
+                    "source_type": "official_product_label",
+                    "source_country_or_region": "United States",
+                    "evidence_field": field,
+                    "evidence_snippet": f"{item['snippet']} {item['match_note']}",
+                    "confidence": 0.91,
+                    "linked_product_id": product_id,
+                    "linked_regimen_id": "",
+                    "linked_disease_key": "pediatric_formula",
+                    "linked_generic_name": item["generic_name"],
+                    "status": "targeted_pediatric_product_label_accepted",
+                }
+            )
+    return rows
+
+
+def pediatric_label_claims_by_product() -> dict[str, dict[str, list[dict[str, Any]]]]:
+    grouped: dict[str, dict[str, list[dict[str, Any]]]] = defaultdict(lambda: defaultdict(list))
+    for claim in pediatric_product_label_claims():
+        product_id = str(claim.get("linked_product_id") or "")
+        if product_id:
+            grouped[product_id][str(claim.get("evidence_field") or "")].append(claim)
+    return grouped
 
 
 def pediatric_formula_claims() -> list[dict[str, Any]]:
@@ -1011,6 +1122,21 @@ def run_full_accredited_source_sweep(products: list[dict[str, str]]) -> dict[str
     disease-specific Thai OPD regimen rows.
     """
 
+    acceptance_path = REPORT_GOLD / "full_accredited_source_acceptance_report.csv"
+    rejection_path = REPORT_GOLD / "full_accredited_source_rejection_report.csv"
+    task_path = REPORT_GOLD / "full_accredited_source_sweep_tasks.csv"
+    if os.environ.get("GOLD_FORCE_REFRESH_FULL_SWEEP") not in {"1", "true", "TRUE"} and acceptance_path.exists() and task_path.exists():
+        acceptance_rows = read_csv(acceptance_path)
+        rejection_rows = read_csv(rejection_path)
+        task_rows = read_csv(task_path)
+        if acceptance_rows or task_rows:
+            return {
+                "searched_groups": len(task_rows),
+                "accepted_sources": len(acceptance_rows),
+                "rejected_or_deferred": len(rejection_rows),
+                "cache_reused": 1,
+            }
+
     source_rows: list[dict[str, Any]] = []
     claim_rows: list[dict[str, Any]] = []
     rejection_rows: list[dict[str, Any]] = []
@@ -1206,6 +1332,7 @@ def build_gold_tables() -> dict[str, int]:
     citations = evidence_claims()
     claim_groups = claims_by_product_disease()
     product_claim_groups = claims_by_product()
+    pediatric_label_groups = pediatric_label_claims_by_product()
     disease_guideline_groups = guideline_proofs_by_disease()
     phase2_product_sources = defaultdict(list)
     for claim in citations:
@@ -1336,6 +1463,28 @@ def build_gold_tables() -> dict[str, int]:
             volume_formula = f"dose_min_ml = dose_min_mg / {concentration:g}; dose_max_ml = dose_max_mg / {concentration:g}; concentration_mg_per_ml = {concentration:g}"
             rounding_rule = "display exact min-max mL range to 0.1 mL; do not exceed max_mg_per_day"
             contraindicated_age = "do not administer to children under 3 months"
+        label_group = pediatric_label_groups.get(row.get("product_id", ""), {})
+        product_label_ready = has_fields(
+            label_group,
+            [
+                "product_label_concentration",
+                "product_label_formulation",
+                "pediatric_age_gate",
+                "pediatric_frequency",
+                "pediatric_max_dose",
+            ],
+        )
+        product_label_source_ids = source_ids_for_claim_group(label_group) if product_label_ready else []
+        if product_label_source_ids:
+            source_ids = sorted(set(source_ids + product_label_source_ids))
+        label_age_gate_note = first_claim(label_group, "pediatric_age_gate").get("evidence_snippet", "") if product_label_ready else ""
+        if product_label_ready and "ask a doctor" in label_age_gate_note.lower():
+            contraindicated_age = f"{contraindicated_age}; product label age gate: {label_age_gate_note}"
+        pediatric_formula_ready = bool(formula_template_ready and concentration and product_label_ready)
+        pediatric_block_reason = ""
+        pediatric_status = "gold_ready_pediatric" if pediatric_formula_ready else "source_missing_hide_from_rx"
+        if not pediatric_formula_ready:
+            pediatric_block_reason = "formula source available but exact product concentration/formulation label is still missing" if formula_template_ready else "missing pediatric dose formula source and/or parsed concentration"
         peds_gold.append(
             {
                 "pediatric_rule_id": stable_id("peds", row.get("product_id"), row.get("generic_key")),
@@ -1360,10 +1509,14 @@ def build_gold_tables() -> dict[str, int]:
                 "rounding_rule": rounding_rule,
                 "contraindicated_age": contraindicated_age,
                 "formula_template_ready": formula_template_ready,
-                "pediatric_formula_ready": False,
+                "pediatric_formula_ready": pediatric_formula_ready,
+                "pediatric_product_label_verified": product_label_ready,
+                "pediatric_age_gate_note": label_age_gate_note,
+                "product_concentration_source_ids": product_label_source_ids,
+                "product_match_status": "generic_strength_form_route_match_not_thai_brand_registered" if product_label_ready else "pending_exact_product_label_concentration",
                 "source_ids": source_ids,
-                "final_pediatric_status": "source_missing_hide_from_rx",
-                "pediatric_formula_block_reason": "formula source available but product concentration remains workbook-derived; needs accredited product label/concentration source" if formula_template_ready else "missing pediatric dose formula source and/or parsed concentration",
+                "final_pediatric_status": pediatric_status,
+                "pediatric_formula_block_reason": pediatric_block_reason,
             }
         )
 

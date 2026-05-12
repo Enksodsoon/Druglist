@@ -31314,32 +31314,6 @@
     },
     {
       "brand_aliases": [
-        "Tylenol Suspension [Paracetamol 160 mg./5 ml.]"
-      ],
-      "composition": "Paracetamol 160 mg./5 ml.",
-      "form": "suspension",
-      "generic_aliases": [
-        "Paracetamol",
-        "Paracetamol 160 mg./5 ml."
-      ],
-      "generic_name": "Paracetamol",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "ขวด 60 ml.",
-      "price": "",
-      "product_id": "BDS003763",
-      "product_metadata_source_ids": [],
-      "product_name": "Tylenol Suspension [Paracetamol 160 mg./5 ml.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
         "Aerius Syrup [Desloratadine 0.5 mg./1 ml.]"
       ],
       "composition": "Desloratadine 0.5 mg./1 ml.",
@@ -36738,84 +36712,6 @@
       "product_id": "BDS003641",
       "product_metadata_source_ids": [],
       "product_name": "Strepsils Throat Irritation & Cough ซอง 8s [Ambroxol HCl 15 mg.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Duran Suspension [Ibuprofen 100 mg./5 ml.]"
-      ],
-      "composition": "Ibuprofen 100 mg./5 ml.",
-      "form": "suspension",
-      "generic_aliases": [
-        "Ibuprofen",
-        "Ibuprofen 100 mg./5 ml."
-      ],
-      "generic_name": "Ibuprofen",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "ขวด 60 ml.",
-      "price": "",
-      "product_id": "BDS001665",
-      "product_metadata_source_ids": [],
-      "product_name": "Duran Suspension [Ibuprofen 100 mg./5 ml.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Ibukids Suspension [Ibuprofen 100 mg./5 ml.]"
-      ],
-      "composition": "Ibuprofen 100 mg./5 ml.",
-      "form": "suspension",
-      "generic_aliases": [
-        "Ibuprofen",
-        "Ibuprofen 100 mg./5 ml."
-      ],
-      "generic_name": "Ibuprofen",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "ขวด 60 ml.",
-      "price": "",
-      "product_id": "BDS007151",
-      "product_metadata_source_ids": [],
-      "product_name": "Ibukids Suspension [Ibuprofen 100 mg./5 ml.]",
-      "reference_only_allowed": true,
-      "route": "",
-      "rx_eligible": false,
-      "source_status": "source_missing",
-      "strength": "",
-      "workbook_source_file": "exports/refresh_csv/1_Product_Master_Export.csv",
-      "workbook_source_sheet": "Drug_Master_Lookup"
-    },
-    {
-      "brand_aliases": [
-        "Nurofen Suspension [Ibuprofen 100 mg./5 ml.]"
-      ],
-      "composition": "Ibuprofen 100 mg./5 ml.",
-      "form": "suspension",
-      "generic_aliases": [
-        "Ibuprofen",
-        "Ibuprofen 100 mg./5 ml."
-      ],
-      "generic_name": "Ibuprofen",
-      "local_thai_registration_found": false,
-      "notes": "Workbook inventory seed only; product metadata not gold verified.",
-      "pack": "ขวด 60 ml.",
-      "price": "",
-      "product_id": "BDS002845",
-      "product_metadata_source_ids": [],
-      "product_name": "Nurofen Suspension [Ibuprofen 100 mg./5 ml.]",
       "reference_only_allowed": true,
       "route": "",
       "rx_eligible": false,
