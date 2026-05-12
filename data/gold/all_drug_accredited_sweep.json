@@ -8609,61 +8609,67 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Clarithromycin 500 mg.",
       "form": "tablet",
       "generic_name": "Clarithromycin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001452",
       "product_name": "Clarith 500 [Clarithromycin 500 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Clarithromycin Thai FDA SmPC",
         "Clarithromycin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_0bbb8692f0f5"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Dicloxacillin 500 mg.",
       "form": "capsule",
       "generic_name": "Dicloxacillin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS008652",
       "product_name": "Dicloxilin-500 [Dicloxacillin 500 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Dicloxacillin Thai FDA SmPC",
         "Dicloxacillin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_4d4d0d3381c9"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Dicloxacillin 500 mg.",
       "form": "capsule",
       "generic_name": "Dicloxacillin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS008702",
       "product_name": "Dicloxman-500 [Dicloxacillin 500 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Dicloxacillin Thai FDA SmPC",
         "Dicloxacillin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_75c789467ee8"
+      ]
     },
     {
       "accredited_source_status": "accredited_source_linked",
@@ -8709,42 +8715,46 @@
       ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Clarithromycin 500 mg.",
       "form": "tablet",
       "generic_name": "Clarithromycin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002447",
       "product_name": "Klacid MR 500 mg [Clarithromycin 500 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Clarithromycin Thai FDA SmPC",
         "Clarithromycin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_d08b8f850948"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Cefditoren 100 mg.",
       "form": "tablet",
       "generic_name": "Cefditoren",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002692",
       "product_name": "Meiact tabslet [Cefditoren 100 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Cefditoren Thai FDA SmPC",
         "Cefditoren DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_025e1340cb6c"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -8766,23 +8776,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Erythromycin stearate 250 mg.",
       "form": "tablet",
       "generic_name": "Erythromycin stearate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS008121",
       "product_name": "Rintacin [Erythromycin stearate 250 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Erythromycin stearate Thai FDA SmPC",
         "Erythromycin stearate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_070e1b6e8c6b"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -9036,23 +9048,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Desloratadine 5 mg.",
       "form": "tablet",
       "generic_name": "Desloratadine",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001010",
       "product_name": "Aerius tabslet [Desloratadine 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Desloratadine Thai FDA SmPC",
         "Desloratadine DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_cc06fbd432ee"
+      ]
     },
     {
       "accredited_source_status": "accredited_source_linked",
@@ -9076,61 +9090,67 @@
       ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Hydroxyzine HCl 10 mg.",
       "form": "tablet",
       "generic_name": "Hydroxyzine HCl",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007702",
       "product_name": "Allerax-FC [Hydroxyzine HCl 10 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Hydroxyzine HCl Thai FDA SmPC",
         "Hydroxyzine HCl DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_8b87886b55bf"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Loratadine 10 mg.",
       "form": "tablet",
       "generic_name": "Loratadine",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS040033",
       "product_name": "Allernix [Loratadine 10 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Loratadine Thai FDA SmPC",
         "Loratadine DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_7ab104d28e0d"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Desloratadine 5 mg.",
       "form": "tablet",
       "generic_name": "Desloratadine",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS040028",
       "product_name": "Allora 5 mg [Desloratadine 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Desloratadine Thai FDA SmPC",
         "Desloratadine DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_92326f0ccace"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -9171,23 +9191,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Loratadine (Micronized) 10 mg",
       "form": "tablet",
       "generic_name": "Loratadine",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS041510",
       "product_name": "Clarid [Loratadine (Micronized) 10 mg]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Loratadine Thai FDA SmPC",
         "Loratadine DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_519425aab9ae"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -9285,42 +9307,46 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Hydroxyzine HCl 25 mg.",
       "form": "tablet",
       "generic_name": "Hydroxyzine HCl",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS008701",
       "product_name": "Hydrox-25 [Hydroxyzine HCl 25 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Hydroxyzine HCl Thai FDA SmPC",
         "Hydroxyzine HCl DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_f60635b5bfe4"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Levocetirizine dihydrochloride 5 mg.",
       "form": "tablet",
       "generic_name": "Levocetirizine dihydrochloride",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS044553",
       "product_name": "Levocet [Levocetirizine dihydrochloride 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Levocetirizine dihydrochloride Thai FDA SmPC",
         "Levocetirizine dihydrochloride DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_d4c95f6f9257"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -9640,23 +9666,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Levocetirizine dihydrochloride 5 mg.",
       "form": "tablet",
       "generic_name": "Levocetirizine dihydrochloride",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS004130",
       "product_name": "Xyzal 5 mg [Levocetirizine dihydrochloride 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Levocetirizine dihydrochloride Thai FDA SmPC",
         "Levocetirizine dihydrochloride DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_54c667f4a363"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -10131,23 +10159,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Bisacodyl 5 mg.",
       "form": "tablet",
       "generic_name": "Bisacodyl",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001664",
       "product_name": "Dulcolax [Bisacodyl 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Bisacodyl Thai FDA SmPC",
         "Bisacodyl DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_f5085af09615"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -10169,23 +10199,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Bisacodyl 5 mg.",
       "form": "tablet",
       "generic_name": "Bisacodyl",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001837",
       "product_name": "Emulax [Bisacodyl 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Bisacodyl Thai FDA SmPC",
         "Bisacodyl DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_115e668e01a4"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -10530,80 +10562,88 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Sucralfate 1 g.",
       "form": "tablet",
       "generic_name": "Sucralfate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003903",
       "product_name": "Ulcefate tabslet strip 10s [Sucralfate 1 g.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Sucralfate Thai FDA SmPC",
         "Sucralfate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_74b014f9619d"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Pantoprazole 40 mg.",
       "form": "tablet",
       "generic_name": "Pantoprazole",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001466",
       "product_name": "Controloc 40 mg [Pantoprazole 40 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Pantoprazole Thai FDA SmPC",
         "Pantoprazole DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_5a8627199eff"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Omeprazole 20 mg.",
       "form": "capsule",
       "generic_name": "Omeprazole",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007108",
       "product_name": "Dosate 20 mg [Omeprazole 20 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Omeprazole Thai FDA SmPC",
         "Omeprazole DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_37c4846db572"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Omeprazole 20 mg.",
       "form": "capsule",
       "generic_name": "Omeprazole",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002629",
       "product_name": "Miracid [Omeprazole 20 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Omeprazole Thai FDA SmPC",
         "Omeprazole DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_419fa6902f03"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -10663,80 +10703,88 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Omeprazole 20 mg.",
       "form": "capsule",
       "generic_name": "Omeprazole",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS045613",
       "product_name": "Nycacid [Omeprazole 20 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Omeprazole Thai FDA SmPC",
         "Omeprazole DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_994fee538ef3"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Omeprazole 20 mg.",
       "form": "capsule",
       "generic_name": "Omeprazole",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003065",
       "product_name": "Ocid [Omeprazole 20 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Omeprazole Thai FDA SmPC",
         "Omeprazole DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_04efaef9582b"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Omeprazole 20 mg.",
       "form": "capsule",
       "generic_name": "Omeprazole",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS006714",
       "product_name": "Omeprazole 20 mg (GPO) [Omeprazole 20 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Omeprazole Thai FDA SmPC",
         "Omeprazole DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_9789b161392c"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Rabeprazole 20 mg.",
       "form": "tablet",
       "generic_name": "Rabeprazole",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003138",
       "product_name": "Pariet 20 mg [Rabeprazole 20 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Rabeprazole Thai FDA SmPC",
         "Rabeprazole DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_d2a327ef5851"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -10777,23 +10825,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Cimetidine 400 mg.",
       "form": "tablet",
       "generic_name": "Cimetidine",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003527",
       "product_name": "Siamidine 400 mg [Cimetidine 400 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Cimetidine Thai FDA SmPC",
         "Cimetidine DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_e8c14e65ad8c"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -10891,42 +10941,46 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Theophylline 200 mg.",
       "form": "tablet",
       "generic_name": "Theophylline",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002844",
       "product_name": "Nuelin SR [Theophylline 200 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Theophylline Thai FDA SmPC",
         "Theophylline DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_061cddaf1304"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Terbutaline sulfate 2.5 mg",
       "form": "tablet",
       "generic_name": "Terbutaline sulfate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003708",
       "product_name": "Terbuhim [Terbutaline sulfate 2.5 mg]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Terbutaline sulfate Thai FDA SmPC",
         "Terbutaline sulfate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_4c32ab5bffe5"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -11178,43 +11232,47 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Fluconazole 150 mg.",
       "form": "capsule",
       "generic_name": "Fluconazole",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS040602",
       "product_name": "Biozole 150 mg [Fluconazole 150 mg.]",
       "query_count": 3,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Fluconazole Thai FDA SmPC",
         "Fluconazole DailyMed dosage contraindications interactions",
         "vulvovaginal_candidiasis_adult guideline Fluconazole 150 mg. dose duration"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_b10abdabfb79"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Fluconazole 200 mg.",
       "form": "capsule",
       "generic_name": "Fluconazole",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007128",
       "product_name": "Funa 200 mg [Fluconazole 200 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Fluconazole Thai FDA SmPC",
         "Fluconazole DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_17429b707426"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -11275,23 +11333,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Itraconazole 100 mg.",
       "form": "capsule",
       "generic_name": "Itraconazole",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003653",
       "product_name": "Spornar [Itraconazole 100 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Itraconazole Thai FDA SmPC",
         "Itraconazole DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_ccb605fd3b41"
+      ]
     },
     {
       "accredited_source_status": "accredited_source_linked",
@@ -11599,42 +11659,46 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Clindamycin 300 mg.",
       "form": "capsule",
       "generic_name": "Clindamycin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003912",
       "product_name": "Dacin-F 300 [Clindamycin 300 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Clindamycin Thai FDA SmPC",
         "Clindamycin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_bc32c0483855"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Doxycycline Hyclate (eq. to Doxycycline 100 mg.)",
       "form": "capsule",
       "generic_name": "Doxycycline Hyclate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007723",
       "product_name": "Doxylcap [Doxycycline Hyclate (eq. to Doxycycline 100 mg.)]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Doxycycline Hyclate Thai FDA SmPC",
         "Doxycycline Hyclate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_0f48ce7951f4"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -11854,23 +11918,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Cefditoren 50 mg.",
       "form": "other",
       "generic_name": "Cefditoren",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002693",
       "product_name": "Meiact Fine Granules [Cefditoren 50 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Cefditoren Thai FDA SmPC",
         "Cefditoren DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_432e8a945ac9"
+      ]
     },
     {
       "accredited_source_status": "accredited_source_linked",
@@ -11895,23 +11961,25 @@
       ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Erythromycin 125 mg./5 ml.",
       "form": "other",
       "generic_name": "Erythromycin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007589",
       "product_name": "Newthrocin [Erythromycin 125 mg./5 ml.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Erythromycin Thai FDA SmPC",
         "Erythromycin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_4879c7fc5040"
+      ]
     },
     {
       "accredited_source_status": "accredited_source_linked",
@@ -12963,23 +13031,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Meloxicam 15 mg.",
       "form": "tablet",
       "generic_name": "Meloxicam",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS008116",
       "product_name": "Cambic 15 [Meloxicam 15 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Meloxicam Thai FDA SmPC",
         "Meloxicam DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_66cc9dbc2794"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -13020,43 +13090,47 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Celecoxib 200 mg.",
       "form": "capsule",
       "generic_name": "Celecoxib",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001509",
       "product_name": "Celebrex 200 mg [Celecoxib 200 mg.]",
       "query_count": 3,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Celecoxib Thai FDA SmPC",
         "Celecoxib DailyMed dosage contraindications interactions",
         "knee_joint_pain_adult guideline Celecoxib 200 mg. dose duration"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_75fb0dfdf75c"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Celecoxib 400 mg.",
       "form": "capsule",
       "generic_name": "Celecoxib",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001507",
       "product_name": "Celebrex 400 mg [Celecoxib 400 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Celecoxib Thai FDA SmPC",
         "Celecoxib DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_de20a19f5ad7"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -13175,80 +13249,88 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Mefenamic acid 500 mg.",
       "form": "tablet",
       "generic_name": "Mefenamic acid",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS044900",
       "product_name": "Mefamed 500 [Mefenamic acid 500 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Mefenamic acid Thai FDA SmPC",
         "Mefenamic acid DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_5cbcfd6e0dfa"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Meloxicam 7.5 mg.",
       "form": "tablet",
       "generic_name": "Meloxicam",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002669",
       "product_name": "Melcam [Meloxicam 7.5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Meloxicam Thai FDA SmPC",
         "Meloxicam DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_7ac875f2d1ad"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Mefenamic acid 500 mg.",
       "form": "tablet",
       "generic_name": "Mefenamic acid",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS044909",
       "product_name": "Meomic 500 [Mefenamic acid 500 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Mefenamic acid Thai FDA SmPC",
         "Mefenamic acid DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_8fa2be773a9b"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Meloxicam 7.5 mg.",
       "form": "tablet",
       "generic_name": "Meloxicam",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002642",
       "product_name": "Mobic 7.5 mg [Meloxicam 7.5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Meloxicam Thai FDA SmPC",
         "Meloxicam DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_83ff9b7edda4"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -13329,23 +13411,25 @@
       ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Mefenamic acid 500 mg.",
       "form": "tablet",
       "generic_name": "Mefenamic acid",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003131",
       "product_name": "Ponstan 500 mg [Mefenamic acid 500 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Mefenamic acid Thai FDA SmPC",
         "Mefenamic acid DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_b68bf44e2c16"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -13482,23 +13566,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Celecoxib 200 mg.",
       "form": "capsule",
       "generic_name": "Celecoxib",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS049777",
       "product_name": "Zobrex [Celecoxib 200 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Celecoxib Thai FDA SmPC",
         "Celecoxib DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_38bf048a4834"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -13834,43 +13920,47 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Eletriptan 40 mg.",
       "form": "tablet",
       "generic_name": "Eletriptan",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS006840",
       "product_name": "Relpax 40 mg [Eletriptan 40 mg.]",
       "query_count": 3,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Eletriptan Thai FDA SmPC",
         "Eletriptan DailyMed dosage contraindications interactions",
         "migraine_adult guideline Eletriptan 40 mg. dose duration"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_bf66a90e972f"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Sumatriptan succinate (eq. to Sumatriptan 50 mg.)",
       "form": "tablet",
       "generic_name": "Sumatriptan succinate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS047646",
       "product_name": "Siagran 50 mg [Sumatriptan succinate (eq. to Sumatriptan 50 mg.)]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Sumatriptan succinate Thai FDA SmPC",
         "Sumatriptan succinate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_66d03b530551"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -14274,23 +14364,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Tramadol HCl 50 mg.",
       "form": "capsule",
       "generic_name": "Tramadol HCl",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003739",
       "product_name": "Tramal [Tramadol HCl 50 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Tramadol HCl Thai FDA SmPC",
         "Tramadol HCl DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_f5293177df5a"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -14912,23 +15004,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Baclofen 10 mg.",
       "form": "tablet",
       "generic_name": "Baclofen",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS006664",
       "product_name": "Baclofen [Baclofen 10 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Baclofen Thai FDA SmPC",
         "Baclofen DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_3a62a7973840"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -15315,42 +15409,46 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Levofloxacin 500 mg.",
       "form": "tablet",
       "generic_name": "Levofloxacin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001548",
       "product_name": "Cravit 500 mg [Levofloxacin 500 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Levofloxacin Thai FDA SmPC",
         "Levofloxacin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_6e2857b29eaf"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Levofloxacin 500 mg.",
       "form": "tablet",
       "generic_name": "Levofloxacin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS008681",
       "product_name": "Levomac 500 [Levofloxacin 500 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Levofloxacin Thai FDA SmPC",
         "Levofloxacin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_6288ed6bb35b"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -17321,23 +17419,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Drospirenone 4 mg",
       "form": "tablet",
       "generic_name": "Drospirenone",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS047721",
       "product_name": "Slinda [Drospirenone 4 mg]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Drospirenone Thai FDA SmPC",
         "Drospirenone DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_0b2b4ed58bde"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -17684,23 +17784,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Bisacodyl 5 mg.",
       "form": "tablet",
       "generic_name": "Bisacodyl",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS008201",
       "product_name": "Bisacod [Bisacodyl 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Bisacodyl Thai FDA SmPC",
         "Bisacodyl DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_25842a1d05ff"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -17742,61 +17844,67 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Finasteride 1 mg.",
       "form": "tablet",
       "generic_name": "Finasteride",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001975",
       "product_name": "Firide 1 mg [Finasteride 1 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Finasteride Thai FDA SmPC",
         "Finasteride DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_f7eccd4f4e82"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Tinidazole 500 mg.",
       "form": "tablet",
       "generic_name": "Tinidazole",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS040003",
       "product_name": "Asiazole-T.N. tabslets [Tinidazole 500 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Tinidazole Thai FDA SmPC",
         "Tinidazole DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_bcfa129199d4"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Tinidazole 500 mg.",
       "form": "tablet",
       "generic_name": "Tinidazole",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007954",
       "product_name": "Gyno Gena-500 [Tinidazole 500 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Tinidazole Thai FDA SmPC",
         "Tinidazole DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_531f8bd180de"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -18049,23 +18157,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Amitriptyline Hydrochloride 10 mg.",
       "form": "tablet",
       "generic_name": "Amitriptyline Hydrochloride",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS040030",
       "product_name": "Amitriptyline 10 mg [Amitriptyline Hydrochloride 10 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Amitriptyline Hydrochloride Thai FDA SmPC",
         "Amitriptyline Hydrochloride DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_ad42d4e9f63e"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -18228,42 +18338,46 @@
       ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Enalapril Maleate 20 mg.",
       "form": "tablet",
       "generic_name": "Enalapril Maleate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001114",
       "product_name": "Anapril 20 mg [Enalapril Maleate 20 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Enalapril Maleate Thai FDA SmPC",
         "Enalapril Maleate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_6e22b98fd8ed"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Enalapril Maleate 5 mg.",
       "form": "tablet",
       "generic_name": "Enalapril Maleate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001113",
       "product_name": "Anapril 5 mg [Enalapril Maleate 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Enalapril Maleate Thai FDA SmPC",
         "Enalapril Maleate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_c12eb0b17552"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -18323,99 +18437,109 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Candesartan Cilexetil 16 mg.",
       "form": "tablet",
       "generic_name": "Candesartan Cilexetil",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS040634",
       "product_name": "Blopress 16 mg [Candesartan Cilexetil 16 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Candesartan Cilexetil Thai FDA SmPC",
         "Candesartan Cilexetil DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_53dcce075e03"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Candesartan cilexetil 8 mg.",
       "form": "tablet",
       "generic_name": "Candesartan cilexetil",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001275",
       "product_name": "Blopress 8 mg [Candesartan cilexetil 8 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Candesartan cilexetil Thai FDA SmPC",
         "Candesartan cilexetil DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_46d098bad6f2"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Carvedilol 6.25 mg.",
       "form": "tablet",
       "generic_name": "Carvedilol",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS041442",
       "product_name": "Caraten 6.25 [Carvedilol 6.25 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Carvedilol Thai FDA SmPC",
         "Carvedilol DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_33c84cabe148"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Metoprolol Tartrate 100 mg.",
       "form": "tablet",
       "generic_name": "Metoprolol Tartrate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001415",
       "product_name": "Cardeloc [Metoprolol Tartrate 100 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Metoprolol Tartrate Thai FDA SmPC",
         "Metoprolol Tartrate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_43f21fe0e615"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Atenolol 50 mg.",
       "form": "tablet",
       "generic_name": "Atenolol",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS006702",
       "product_name": "Catenol 50 mg [Atenolol 50 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Atenolol Thai FDA SmPC",
         "Atenolol DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_a643fea81347"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -18437,118 +18561,130 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Bisoprolol fumarate 2.5 mg.",
       "form": "tablet",
       "generic_name": "Bisoprolol fumarate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001453",
       "product_name": "Concor 2.5 mg [Bisoprolol fumarate 2.5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Bisoprolol fumarate Thai FDA SmPC",
         "Bisoprolol fumarate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_fcdf5d88a115"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Bisoprolol fumarate 5 mg.",
       "form": "tablet",
       "generic_name": "Bisoprolol fumarate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001454",
       "product_name": "Concor 5 mg [Bisoprolol fumarate 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Bisoprolol fumarate Thai FDA SmPC",
         "Bisoprolol fumarate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_86dcdc13ed58"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Valsartan 160 mg.",
       "form": "tablet",
       "generic_name": "Valsartan",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS042320",
       "product_name": "Diovan 160 mg [Valsartan 160 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Valsartan Thai FDA SmPC",
         "Valsartan DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_4b60ae9a50c0"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Valsartan 80 mg.",
       "form": "tablet",
       "generic_name": "Valsartan",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS042319",
       "product_name": "Diovan 80 mg [Valsartan 80 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Valsartan Thai FDA SmPC",
         "Valsartan DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_9c20d8cb259c"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Enalapril Maleate 20 mg.",
       "form": "tablet",
       "generic_name": "Enalapril Maleate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001845",
       "product_name": "Enaril 20 mg [Enalapril Maleate 20 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Enalapril Maleate Thai FDA SmPC",
         "Enalapril Maleate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_8f20620fa6b9"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Enalapril Maleate 5 mg.",
       "form": "tablet",
       "generic_name": "Enalapril Maleate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001812",
       "product_name": "Enaril 5 mg [Enalapril Maleate 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Enalapril Maleate Thai FDA SmPC",
         "Enalapril Maleate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_35ccf6d66d0f"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -18570,24 +18706,26 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Felodipine 5 mg.",
       "form": "powder",
       "generic_name": "Felodipine",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS043130",
       "product_name": "Felopine 5 [Felodipine 5 mg.]",
       "query_count": 3,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Felodipine Thai FDA SmPC",
         "Felodipine DailyMed dosage contraindications interactions",
         "felodipine pediatric dose mg/kg max dose concentration"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_0648d2ee73a7"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -18772,24 +18910,26 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Nifedipine 20 mg.",
       "form": "powder",
       "generic_name": "Nifedipine",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002808",
       "product_name": "Nelapine 20 SR [Nifedipine 20 mg.]",
       "query_count": 3,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Nifedipine Thai FDA SmPC",
         "Nifedipine DailyMed dosage contraindications interactions",
         "nifedipine pediatric dose mg/kg max dose concentration"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_735fc22d46a9"
+      ]
     },
     {
       "accredited_source_status": "accredited_source_linked",
@@ -18813,80 +18953,88 @@
       ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Felodipine 5 mg.",
       "form": "tablet",
       "generic_name": "Felodipine",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003174",
       "product_name": "Plendil 5 mg [Felodipine 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Felodipine Thai FDA SmPC",
         "Felodipine DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_29b4a0466285"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Atenolol 100 mg.",
       "form": "tablet",
       "generic_name": "Atenolol",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003144",
       "product_name": "Prenolol 100 mg [Atenolol 100 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Atenolol Thai FDA SmPC",
         "Atenolol DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_a42b907821b5"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Atenolol 25 mg.",
       "form": "tablet",
       "generic_name": "Atenolol",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003140",
       "product_name": "Prenolol 25 mg [Atenolol 25 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Atenolol Thai FDA SmPC",
         "Atenolol DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_e680352bd4cd"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Atenolol 50 mg.",
       "form": "tablet",
       "generic_name": "Atenolol",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003145",
       "product_name": "Prenolol 50 mg [Atenolol 50 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Atenolol Thai FDA SmPC",
         "Atenolol DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_2f21754f7bde"
+      ]
     },
     {
       "accredited_source_status": "accredited_source_linked",
@@ -18950,23 +19098,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Glimepiride 2 mg.",
       "form": "tablet",
       "generic_name": "Glimepiride",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS040006",
       "product_name": "Amaryl 2 mg [Glimepiride 2 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Glimepiride Thai FDA SmPC",
         "Glimepiride DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_495cc4c15a75"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -19026,23 +19176,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Glipizide 5 mg.",
       "form": "tablet",
       "generic_name": "Glipizide",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001649",
       "product_name": "Dipazide [Glipizide 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Glipizide Thai FDA SmPC",
         "Glipizide DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_53ad49eb2505"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -19064,23 +19216,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Glipizide 5 mg.",
       "form": "tablet",
       "generic_name": "Glipizide",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS043603",
       "product_name": "Glizide [Glipizide 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Glipizide Thai FDA SmPC",
         "Glipizide DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_4f623953f66d"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -19164,23 +19318,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Glipizide 5 mg.",
       "form": "tablet",
       "generic_name": "Glipizide",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS043611",
       "product_name": "Glycediab 5 mg [Glipizide 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Glipizide Thai FDA SmPC",
         "Glipizide DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_11334246fead"
+      ]
     },
     {
       "accredited_source_status": "accredited_source_linked",
@@ -19246,23 +19402,25 @@
       ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Glipizide 5 mg.",
       "form": "tablet",
       "generic_name": "Glipizide",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002628",
       "product_name": "Minidiab [Glipizide 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Glipizide Thai FDA SmPC",
         "Glipizide DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_eb0ae406529d"
+      ]
     },
     {
       "accredited_source_status": "accredited_source_linked",
@@ -19326,61 +19484,67 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Atorvastatin Calcium 10.34 mg. (eq. to Atorvastatin 10 mg.)",
       "form": "tablet",
       "generic_name": "Atorvastatin Calcium",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001960",
       "product_name": "Atorvastatin Sandoz 10 mg [Atorvastatin Calcium 10.34 mg. (eq. to Atorvastatin 10 mg.)]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Atorvastatin Calcium Thai FDA SmPC",
         "Atorvastatin Calcium DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_2d4d2ba2536e"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Atorvastatin Calcium 20.68 mg. (eq. to Atorvastatin 20 mg.)",
       "form": "tablet",
       "generic_name": "Atorvastatin Calcium",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001945",
       "product_name": "Atorvastatin Sandoz 20 mg [Atorvastatin Calcium 20.68 mg. (eq. to Atorvastatin 20 mg.)]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Atorvastatin Calcium Thai FDA SmPC",
         "Atorvastatin Calcium DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_efbd81df52f9"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Atorvastatin Calcium 41.36 mg. (eq. to Atorvastatin 40 mg.)",
       "form": "tablet",
       "generic_name": "Atorvastatin Calcium",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001918",
       "product_name": "Atorvastatin Sandoz 40 mg [Atorvastatin Calcium 41.36 mg. (eq. to Atorvastatin 40 mg.)]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Atorvastatin Calcium Thai FDA SmPC",
         "Atorvastatin Calcium DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_8b78e592d3a1"
+      ]
     },
     {
       "accredited_source_status": "accredited_source_linked",
@@ -19446,42 +19610,46 @@
       ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Atorvastatin Calcium 43.3 mg. (eq. to Atorvastatin 40 mg.)",
       "form": "tablet",
       "generic_name": "Atorvastatin Calcium",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS041432",
       "product_name": "Chlovas-40 mg. [Atorvastatin Calcium 43.3 mg. (eq. to Atorvastatin 40 mg.)]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Atorvastatin Calcium Thai FDA SmPC",
         "Atorvastatin Calcium DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_45af9a09c1c5"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Fenofibrate 160 mg.",
       "form": "capsule",
       "generic_name": "Fenofibrate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001922",
       "product_name": "Fibril 160 [Fenofibrate 160 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Fenofibrate Thai FDA SmPC",
         "Fenofibrate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_f3e57fccd668"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -19503,80 +19671,88 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Gemfibrozil 600 mg.",
       "form": "tablet",
       "generic_name": "Gemfibrozil",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002133",
       "product_name": "Hidil 600 mg [Gemfibrozil 600 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Gemfibrozil Thai FDA SmPC",
         "Gemfibrozil DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_3b343710f1e5"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Fenofibrate 145 mg.",
       "form": "tablet",
       "generic_name": "Fenofibrate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS006466",
       "product_name": "Supralip NT 145 mg [Fenofibrate 145 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Fenofibrate Thai FDA SmPC",
         "Fenofibrate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_2770b4090d44"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Atorvastatin 10 mg.",
       "form": "tablet",
       "generic_name": "Atorvastatin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS049670",
       "product_name": "Xarator 10 mg. [Atorvastatin 10 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Atorvastatin Thai FDA SmPC",
         "Atorvastatin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_bd013d0ffb43"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Atorvastatin 20 mg.",
       "form": "tablet",
       "generic_name": "Atorvastatin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS049671",
       "product_name": "Xarator 20 mg. [Atorvastatin 20 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Atorvastatin Thai FDA SmPC",
         "Atorvastatin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_608fb972dbf2"
+      ]
     },
     {
       "accredited_source_status": "accredited_source_linked",
@@ -19684,99 +19860,109 @@
       ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Spironolactone 25 mg.",
       "form": "tablet",
       "generic_name": "Spironolactone",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007005",
       "product_name": "Altone [Spironolactone 25 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Spironolactone Thai FDA SmPC",
         "Spironolactone DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_933d521d8b9e"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Furosemide 40 mg.",
       "form": "tablet",
       "generic_name": "Furosemide",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001987",
       "product_name": "Furetic 40 mg [Furosemide 40 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Furosemide Thai FDA SmPC",
         "Furosemide DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_3d1d27a9f9df"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Hydrochlorothiazide 25 mg.",
       "form": "tablet",
       "generic_name": "Hydrochlorothiazide",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS006802",
       "product_name": "GPO - HCTZ 25 [Hydrochlorothiazide 25 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Hydrochlorothiazide Thai FDA SmPC",
         "Hydrochlorothiazide DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_c67199956fba"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Hydrochlorothiazide 50 mg.",
       "form": "tablet",
       "generic_name": "Hydrochlorothiazide",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS006801",
       "product_name": "GPO - HCTZ 50 [Hydrochlorothiazide 50 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Hydrochlorothiazide Thai FDA SmPC",
         "Hydrochlorothiazide DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_273eab654aa7"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Hydrochlorothiazide 25 mg.",
       "form": "tablet",
       "generic_name": "Hydrochlorothiazide",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001480",
       "product_name": "HCTZ 25 [Hydrochlorothiazide 25 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Hydrochlorothiazide Thai FDA SmPC",
         "Hydrochlorothiazide DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_da935614140e"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -19798,99 +19984,109 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Doxazosin 4 mg.",
       "form": "tablet",
       "generic_name": "Doxazosin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001439",
       "product_name": "Cardura XL 4 mg [Doxazosin 4 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Doxazosin Thai FDA SmPC",
         "Doxazosin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_7fbd16e02d08"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Doxazosin mesylate 2 mg.",
       "form": "tablet",
       "generic_name": "Doxazosin mesylate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001429",
       "product_name": "Cazosin 2 mg [Doxazosin mesylate 2 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Doxazosin mesylate Thai FDA SmPC",
         "Doxazosin mesylate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_ceba86611c60"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Finasteride 5 mg.",
       "form": "tablet",
       "generic_name": "Finasteride",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002016",
       "product_name": "Firide 5 mg [Finasteride 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Finasteride Thai FDA SmPC",
         "Finasteride DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_21393f52f182"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Doxazosin 2 mg.",
       "form": "tablet",
       "generic_name": "Doxazosin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS046561",
       "product_name": "Pencor 2 [Doxazosin 2 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Doxazosin Thai FDA SmPC",
         "Doxazosin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_3601f52c9741"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Phenytoin Sodium 100 mg.",
       "form": "capsule",
       "generic_name": "Phenytoin Sodium",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001666",
       "product_name": "Dilantin [Phenytoin Sodium 100 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Phenytoin Sodium Thai FDA SmPC",
         "Phenytoin Sodium DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_3668ab05e4ef"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -19912,61 +20108,67 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Gabapentin 300 mg.",
       "form": "capsule",
       "generic_name": "Gabapentin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002046",
       "product_name": "Gabutin 300 mg [Gabapentin 300 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Gabapentin Thai FDA SmPC",
         "Gabapentin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_f8b07b375f67"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Pregabalin 25 mg.",
       "form": "capsule",
       "generic_name": "Pregabalin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002561",
       "product_name": "Lyrica 25 mg [Pregabalin 25 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Pregabalin Thai FDA SmPC",
         "Pregabalin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_3a45a898db42"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Pregabalin 75 mg.",
       "form": "capsule",
       "generic_name": "Pregabalin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002591",
       "product_name": "Lyrica 75 mg [Pregabalin 75 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Pregabalin Thai FDA SmPC",
         "Pregabalin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_1089ff4cddd3"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -19988,289 +20190,319 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Gabapentin 300 mg.",
       "form": "capsule",
       "generic_name": "Gabapentin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS002823",
       "product_name": "Neurontin 300 mg [Gabapentin 300 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Gabapentin Thai FDA SmPC",
         "Gabapentin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_e2d5d1b39d14"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Pregabalin 25 mg.",
       "form": "capsule",
       "generic_name": "Pregabalin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS046516",
       "product_name": "Pregabalin Sandoz 25 mg [Pregabalin 25 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Pregabalin Thai FDA SmPC",
         "Pregabalin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_20c8e3da0fba"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Pregabalin 75 mg.",
       "form": "capsule",
       "generic_name": "Pregabalin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS046517",
       "product_name": "Pregabalin Sandoz 75 mg [Pregabalin 75 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Pregabalin Thai FDA SmPC",
         "Pregabalin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_414fca71b5a9"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Levothyroxine Sodium 100 mcg.",
       "form": "tablet",
       "generic_name": "Levothyroxine Sodium",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS042823",
       "product_name": "Euthyrox 100 mcg สูตรปรับปรุง [Levothyroxine Sodium 100 mcg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Levothyroxine Sodium Thai FDA SmPC",
         "Levothyroxine Sodium DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_289c1ce779e9"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Levothyroxine Sodium 50 mcg.",
       "form": "tablet",
       "generic_name": "Levothyroxine Sodium",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS042824",
       "product_name": "Euthyrox 50 mcg สูตรปรับปรุง [Levothyroxine Sodium 50 mcg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Levothyroxine Sodium Thai FDA SmPC",
         "Levothyroxine Sodium DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_4e577bc4a92c"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Propylthiouracil 50 mg",
       "form": "tablet",
       "generic_name": "Propylthiouracil",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS046506",
       "product_name": "Pyroid [Propylthiouracil 50 mg]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Propylthiouracil Thai FDA SmPC",
         "Propylthiouracil DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_b7abd9e50966"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Methimazole 5 mg.",
       "form": "tablet",
       "generic_name": "Methimazole",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003746",
       "product_name": "Timazol [Methimazole 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Methimazole Thai FDA SmPC",
         "Methimazole DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_08d454afb0f9"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Allopurinol 100 mg.",
       "form": "tablet",
       "generic_name": "Allopurinol",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007004",
       "product_name": "Alinol 100 mg [Allopurinol 100 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Allopurinol Thai FDA SmPC",
         "Allopurinol DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_29fc22a56f7d"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Colchicine 0.6 mg.",
       "form": "tablet",
       "generic_name": "Colchicine",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001460",
       "product_name": "Colchicine 0.6 mg [Colchicine 0.6 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Colchicine Thai FDA SmPC",
         "Colchicine DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_8fa2e7822fba"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Colchicine 0.6 mg.",
       "form": "tablet",
       "generic_name": "Colchicine",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS008731",
       "product_name": "Colchimex [Colchicine 0.6 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Colchicine Thai FDA SmPC",
         "Colchicine DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_a0e523947594"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Allopurinol 100 mg.",
       "form": "tablet",
       "generic_name": "Allopurinol",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007613",
       "product_name": "Puride 100 mg [Allopurinol 100 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Allopurinol Thai FDA SmPC",
         "Allopurinol DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_4937f73f6c80"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Allopurinol 300 mg.",
       "form": "tablet",
       "generic_name": "Allopurinol",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007611",
       "product_name": "Puride 300 mg [Allopurinol 300 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Allopurinol Thai FDA SmPC",
         "Allopurinol DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_f26418982195"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Colchicine 0.6 mg.",
       "form": "tablet",
       "generic_name": "Colchicine",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS003732",
       "product_name": "Tolchicine T.O. [Colchicine 0.6 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Colchicine Thai FDA SmPC",
         "Colchicine DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_425b1585d44f"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Allopurinol 300 mg.",
       "form": "tablet",
       "generic_name": "Allopurinol",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007312",
       "product_name": "Xanol [Allopurinol 300 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Allopurinol Thai FDA SmPC",
         "Allopurinol DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_c6768aa811b2"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Clopidogrel 75 mg.",
       "form": "tablet",
       "generic_name": "Clopidogrel",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001107",
       "product_name": "Apolets [Clopidogrel 75 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Clopidogrel Thai FDA SmPC",
         "Clopidogrel DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_600e0c67c133"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -20406,42 +20638,46 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Folic Acid 5 mg.",
       "form": "tablet",
       "generic_name": "Folic Acid",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS007123",
       "product_name": "Folic Acid [Folic Acid 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Folic Acid Thai FDA SmPC",
         "Folic Acid DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_122238a14712"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Folic Acid 5 mg.",
       "form": "tablet",
       "generic_name": "Folic Acid",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS006704",
       "product_name": "Folivit tabslet [Folic Acid 5 mg.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Folic Acid Thai FDA SmPC",
         "Folic Acid DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_d962397f7570"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -21917,42 +22153,46 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Mometasone Furoate 1 mg/1 g (0.1%)",
       "form": "other",
       "generic_name": "Mometasone Furoate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001803",
       "product_name": "Elomet 0.1 % [Mometasone Furoate 1 mg/1 g (0.1%)]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Mometasone Furoate Thai FDA SmPC",
         "Mometasone Furoate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_c4753a54929b"
+      ]
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Mometasone Furoate 1 mg/1 g (0.1%)",
       "form": "other",
       "generic_name": "Mometasone Furoate",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001807",
       "product_name": "Elomet 0.1% [Mometasone Furoate 1 mg/1 g (0.1%)]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Mometasone Furoate Thai FDA SmPC",
         "Mometasone Furoate DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_e0be195b6a8f"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
@@ -24906,23 +25146,25 @@
       "source_ids": []
     },
     {
-      "accredited_source_status": "pending_accredited_source",
+      "accredited_source_status": "accredited_source_linked",
       "composition": "Levofloxacin 0.5%/1 ml.",
       "form": "solution",
       "generic_name": "Levofloxacin",
       "gold_inventory_status": "in_gold_inventory",
-      "missing_accredited_fields": "product label or Thai registration source; safety fields; product strength/form/route confirmation",
-      "next_action": "retrieve accredited Thai FDA/NDI/SmPC/DailyMed/eMC source and extract field-level evidence",
+      "missing_accredited_fields": "",
+      "next_action": "review linked citations before promotion",
       "product_id": "BDS001462",
       "product_name": "Cravit Ophthalmic Solution [Levofloxacin 0.5%/1 ml.]",
       "query_count": 2,
       "route": "",
-      "rx_eligible": false,
+      "rx_eligible": true,
       "sample_queries": [
         "Levofloxacin Thai FDA SmPC",
         "Levofloxacin DailyMed dosage contraindications interactions"
       ],
-      "source_ids": []
+      "source_ids": [
+        "dailymed_513a769ee099"
+      ]
     },
     {
       "accredited_source_status": "pending_accredited_source",
