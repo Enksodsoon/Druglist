@@ -6,10 +6,16 @@
       "adult_frequency": "t-feeding: Not recommended • if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease",
       "adult_max_dose": "if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor Other informati",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -36,10 +42,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -64,10 +76,16 @@
       "adult_frequency": "Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.all",
       "adult_max_dose": "reast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.allegra.com safety sealed: do not use if the indi",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -94,10 +112,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -122,10 +146,16 @@
       "adult_frequency": "t-feeding: Not recommended • if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease",
       "adult_max_dose": "if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor Other informati",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -152,10 +182,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -180,10 +216,16 @@
       "adult_frequency": "Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.all",
       "adult_max_dose": "reast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.allegra.com safety sealed: do not use if the indi",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -210,10 +252,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -532,10 +580,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "uri_diarrhea_adult",
       "disease_name": "Acute viral URI with acute infectious diarrhea",
       "dose_verified": false,
@@ -560,10 +614,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "uri_diarrhea_adult",
       "disease_name": "Acute viral URI with acute infectious diarrhea",
       "dose_verified": false,
@@ -588,10 +648,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "uri_diarrhea_adult",
       "disease_name": "Acute viral URI with acute infectious diarrhea",
       "dose_verified": false,
@@ -616,10 +682,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "uri_diarrhea_adult",
       "disease_name": "Acute viral URI with acute infectious diarrhea",
       "dose_verified": false,
@@ -644,10 +716,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "uri_diarrhea_adult",
       "disease_name": "Acute viral URI with acute infectious diarrhea",
       "dose_verified": false,
@@ -672,10 +750,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "uri_diarrhea_adult",
       "disease_name": "Acute viral URI with acute infectious diarrhea",
       "dose_verified": false,
@@ -700,10 +784,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "uri_diarrhea_adult",
       "disease_name": "Acute viral URI with acute infectious diarrhea",
       "dose_verified": false,
@@ -728,10 +818,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria",
+        "pediatric_dose",
+        "pediatric_weight_rule"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_watery_diarrhea_adult",
       "disease_name": "Acute infectious diarrhea / viral gastroenteritis",
       "dose_verified": false,
@@ -756,10 +855,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria",
+        "pediatric_dose",
+        "pediatric_weight_rule"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_watery_diarrhea_adult",
       "disease_name": "Acute infectious diarrhea / viral gastroenteritis",
       "dose_verified": false,
@@ -784,10 +892,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria",
+        "pediatric_dose",
+        "pediatric_weight_rule"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_watery_diarrhea_adult",
       "disease_name": "Acute infectious diarrhea / viral gastroenteritis",
       "dose_verified": false,
@@ -812,10 +929,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria",
+        "pediatric_dose",
+        "pediatric_weight_rule"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_watery_diarrhea_adult",
       "disease_name": "Acute infectious diarrhea / viral gastroenteritis",
       "dose_verified": false,
@@ -1152,10 +1278,16 @@
       "adult_frequency": "t-feeding: Not recommended • if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease",
       "adult_max_dose": "if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor Other informati",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -1182,10 +1314,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -1210,10 +1348,16 @@
       "adult_frequency": "Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.all",
       "adult_max_dose": "reast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.allegra.com safety sealed: do not use if the indi",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -1240,10 +1384,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -1268,10 +1418,16 @@
       "adult_frequency": "t-feeding: Not recommended • if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease",
       "adult_max_dose": "if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor Other informati",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -1298,10 +1454,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -1326,10 +1488,16 @@
       "adult_frequency": "Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.all",
       "adult_max_dose": "reast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.allegra.com safety sealed: do not use if the indi",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -1356,10 +1524,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -1384,10 +1558,16 @@
       "adult_frequency": "t-feeding: Not recommended • if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease",
       "adult_max_dose": "if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor Other informati",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -1414,10 +1594,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -1442,10 +1628,16 @@
       "adult_frequency": "Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.all",
       "adult_max_dose": "reast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.allegra.com safety sealed: do not use if the indi",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -1472,10 +1664,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -1500,10 +1698,16 @@
       "adult_frequency": "t-feeding: Not recommended • if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease",
       "adult_max_dose": "if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor Other informati",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -1530,10 +1734,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -1558,10 +1768,16 @@
       "adult_frequency": "Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.all",
       "adult_max_dose": "reast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.allegra.com safety sealed: do not use if the indi",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -1588,10 +1804,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -1616,10 +1838,16 @@
       "adult_frequency": "t-feeding: Not recommended • if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease",
       "adult_max_dose": "if pregnant: Ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor Other informati",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -1646,10 +1874,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -1674,10 +1908,16 @@
       "adult_frequency": "Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.all",
       "adult_max_dose": "reast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor call toll-free 1-800-633-1610 or www.allegra.com safety sealed: do not use if the indi",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": true,
@@ -1704,10 +1944,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_adult",
       "disease_name": "Allergic rhinitis",
       "dose_verified": false,
@@ -2334,10 +2580,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria",
+        "pediatric_dose",
+        "pediatric_weight_rule"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_watery_diarrhea_adult",
       "disease_name": "Acute infectious diarrhea / viral gastroenteritis",
       "dose_verified": false,
@@ -2362,10 +2617,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria",
+        "pediatric_dose",
+        "pediatric_weight_rule"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_watery_diarrhea_adult",
       "disease_name": "Acute infectious diarrhea / viral gastroenteritis",
       "dose_verified": false,
@@ -2390,10 +2654,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria",
+        "pediatric_dose",
+        "pediatric_weight_rule"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_watery_diarrhea_adult",
       "disease_name": "Acute infectious diarrhea / viral gastroenteritis",
       "dose_verified": false,
@@ -2418,10 +2691,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria",
+        "pediatric_dose",
+        "pediatric_weight_rule"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_watery_diarrhea_adult",
       "disease_name": "Acute infectious diarrhea / viral gastroenteritis",
       "dose_verified": false,
@@ -2446,10 +2728,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria",
+        "pediatric_dose",
+        "pediatric_weight_rule"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_watery_diarrhea_adult",
       "disease_name": "Acute infectious diarrhea / viral gastroenteritis",
       "dose_verified": false,
@@ -2474,10 +2765,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria",
+        "pediatric_dose",
+        "pediatric_weight_rule"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_watery_diarrhea_adult",
       "disease_name": "Acute infectious diarrhea / viral gastroenteritis",
       "dose_verified": false,
@@ -2502,10 +2802,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria",
+        "pediatric_dose",
+        "pediatric_weight_rule"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_watery_diarrhea_adult",
       "disease_name": "Acute infectious diarrhea / viral gastroenteritis",
       "dose_verified": false,
@@ -2530,10 +2839,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria",
+        "pediatric_dose",
+        "pediatric_weight_rule"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_watery_diarrhea_adult",
       "disease_name": "Acute infectious diarrhea / viral gastroenteritis",
       "dose_verified": false,
@@ -6382,10 +6700,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024"
+      ],
       "disease_key": "tinea_pruritic_rash_adult",
       "disease_name": "Tinea corporis / pruritic fungal rash",
       "dose_verified": false,
@@ -6410,10 +6734,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024"
+      ],
       "disease_key": "tinea_pruritic_rash_adult",
       "disease_name": "Tinea corporis / pruritic fungal rash",
       "dose_verified": false,
@@ -6438,10 +6768,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024"
+      ],
       "disease_key": "tinea_pruritic_rash_adult",
       "disease_name": "Tinea corporis / pruritic fungal rash",
       "dose_verified": false,
@@ -6804,11 +7140,13 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "keep antibiotic eye drops hidden unless bacterial pattern criteria are met",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_conjunctivitis_treatment_2024"
       ],
       "disease_key": "allergic_conjunctivitis_adult",
@@ -6837,11 +7175,13 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "keep antibiotic eye drops hidden unless bacterial pattern criteria are met",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_conjunctivitis_treatment_2024"
       ],
       "disease_key": "allergic_conjunctivitis_adult",
@@ -6870,11 +7210,13 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "keep antibiotic eye drops hidden unless bacterial pattern criteria are met",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_conjunctivitis_treatment_2024"
       ],
       "disease_key": "allergic_conjunctivitis_adult",
@@ -6903,11 +7245,13 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "keep antibiotic eye drops hidden unless bacterial pattern criteria are met",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_conjunctivitis_treatment_2024"
       ],
       "disease_key": "allergic_conjunctivitis_adult",
@@ -6936,11 +7280,13 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "keep antibiotic eye drops hidden unless bacterial pattern criteria are met",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_conjunctivitis_treatment_2024"
       ],
       "disease_key": "allergic_conjunctivitis_adult",
@@ -6969,11 +7315,13 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "keep antibiotic eye drops hidden unless bacterial pattern criteria are met",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_conjunctivitis_treatment_2024"
       ],
       "disease_key": "allergic_conjunctivitis_adult",
@@ -7002,11 +7350,13 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "keep antibiotic eye drops hidden unless bacterial pattern criteria are met",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_conjunctivitis_treatment_2024"
       ],
       "disease_key": "allergic_conjunctivitis_adult",
@@ -7035,11 +7385,13 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "keep antibiotic eye drops hidden unless bacterial pattern criteria are met",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_conjunctivitis_treatment_2024"
       ],
       "disease_key": "allergic_conjunctivitis_adult",
@@ -7068,11 +7420,13 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "keep antibiotic eye drops hidden unless bacterial pattern criteria are met",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_conjunctivitis_treatment_2024"
       ],
       "disease_key": "allergic_conjunctivitis_adult",
@@ -9169,10 +9523,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9197,10 +9557,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9225,10 +9591,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9253,10 +9625,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9281,10 +9659,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9309,10 +9693,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9337,10 +9727,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9365,10 +9761,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9393,10 +9795,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9421,10 +9829,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9449,10 +9863,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9477,10 +9897,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9505,10 +9931,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9533,10 +9965,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9561,10 +9999,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "product-specific intranasal steroid or antihistamine dose/safety evidence is still required before new rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_rhinitis_line_of_treatment",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "allergic_rhinitis_congestion_adult",
       "disease_name": "Allergic rhinitis with congestion",
       "dose_verified": false,
@@ -9591,12 +10035,14 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "drug_class_indication",
         "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "symptomatic/supportive care only unless bacterial complication or alternate diagnosis is source-supported",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_common_cold_treatment_2026"
       ],
       "disease_key": "uri_sneezing_runny_nose_adult",
@@ -9625,12 +10071,14 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "drug_class_indication",
         "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "symptomatic/supportive care only unless bacterial complication or alternate diagnosis is source-supported",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_common_cold_treatment_2026"
       ],
       "disease_key": "uri_sneezing_runny_nose_adult",
@@ -9659,12 +10107,14 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "drug_class_indication",
         "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "symptomatic/supportive care only unless bacterial complication or alternate diagnosis is source-supported",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_common_cold_treatment_2026"
       ],
       "disease_key": "uri_sneezing_runny_nose_adult",
@@ -9693,12 +10143,14 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "drug_class_indication",
         "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "symptomatic/supportive care only unless bacterial complication or alternate diagnosis is source-supported",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_common_cold_treatment_2026"
       ],
       "disease_key": "uri_sneezing_runny_nose_adult",
@@ -9727,12 +10179,14 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "drug_class_indication",
         "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "symptomatic/supportive care only unless bacterial complication or alternate diagnosis is source-supported",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_common_cold_treatment_2026"
       ],
       "disease_key": "uri_sneezing_runny_nose_adult",
@@ -9761,12 +10215,14 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "drug_class_indication",
         "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "symptomatic/supportive care only unless bacterial complication or alternate diagnosis is source-supported",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_common_cold_treatment_2026"
       ],
       "disease_key": "uri_sneezing_runny_nose_adult",
@@ -9795,12 +10251,14 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "drug_class_indication",
         "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "symptomatic/supportive care only unless bacterial complication or alternate diagnosis is source-supported",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_common_cold_treatment_2026"
       ],
       "disease_key": "uri_sneezing_runny_nose_adult",
@@ -9829,12 +10287,14 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "drug_class_indication",
         "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "symptomatic/supportive care only unless bacterial complication or alternate diagnosis is source-supported",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_common_cold_treatment_2026"
       ],
       "disease_key": "uri_sneezing_runny_nose_adult",
@@ -9863,12 +10323,14 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "drug_class_indication",
         "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "symptomatic/supportive care only unless bacterial complication or alternate diagnosis is source-supported",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_common_cold_treatment_2026"
       ],
       "disease_key": "uri_sneezing_runny_nose_adult",
@@ -9897,12 +10359,14 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "drug_class_indication",
         "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "symptomatic/supportive care only unless bacterial complication or alternate diagnosis is source-supported",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_common_cold_treatment_2026"
       ],
       "disease_key": "uri_sneezing_runny_nose_adult",
@@ -9931,12 +10395,14 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "drug_class_indication",
         "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "symptomatic/supportive care only unless bacterial complication or alternate diagnosis is source-supported",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_common_cold_treatment_2026"
       ],
       "disease_key": "uri_sneezing_runny_nose_adult",
@@ -9965,12 +10431,14 @@
       "adult_route": "",
       "disease_guideline_claim_types": [
         "disease_strategy",
+        "drug_class_indication",
         "line_of_treatment",
         "no_antibiotic_criteria"
       ],
       "disease_guideline_next_action": "symptomatic/supportive care only unless bacterial complication or alternate diagnosis is source-supported",
       "disease_guideline_proof_status": "source_backed_no_antibiotic_supportive_care",
       "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015",
         "cdc_common_cold_treatment_2026"
       ],
       "disease_key": "uri_sneezing_runny_nose_adult",
@@ -11635,10 +12103,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "gastroenteritis_mild_adult",
       "disease_name": "Mild viral gastroenteritis",
       "dose_verified": false,
@@ -11663,10 +12137,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "gastroenteritis_mild_adult",
       "disease_name": "Mild viral gastroenteritis",
       "dose_verified": false,
@@ -11691,10 +12171,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "gastroenteritis_mild_adult",
       "disease_name": "Mild viral gastroenteritis",
       "dose_verified": false,
@@ -11719,10 +12205,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "gastroenteritis_mild_adult",
       "disease_name": "Mild viral gastroenteritis",
       "dose_verified": false,
@@ -11747,10 +12239,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "gastroenteritis_mild_adult",
       "disease_name": "Mild viral gastroenteritis",
       "dose_verified": false,
@@ -11775,10 +12273,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "gastroenteritis_mild_adult",
       "disease_name": "Mild viral gastroenteritis",
       "dose_verified": false,
@@ -11803,10 +12307,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "gastroenteritis_mild_adult",
       "disease_name": "Mild viral gastroenteritis",
       "dose_verified": false,
@@ -11831,10 +12341,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "gastroenteritis_mild_adult",
       "disease_name": "Mild viral gastroenteritis",
       "dose_verified": false,
@@ -11859,10 +12375,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "gastroenteritis_mild_adult",
       "disease_name": "Mild viral gastroenteritis",
       "dose_verified": false,
@@ -11887,10 +12409,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "gastroenteritis_mild_adult",
       "disease_name": "Mild viral gastroenteritis",
       "dose_verified": false,
@@ -11915,10 +12443,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "gastroenteritis_mild_adult",
       "disease_name": "Mild viral gastroenteritis",
       "dose_verified": false,
@@ -11943,10 +12477,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "gastroenteritis_mild_adult",
       "disease_name": "Mild viral gastroenteritis",
       "dose_verified": false,
@@ -11971,10 +12511,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "traveler_diarrhea_support_adult",
       "disease_name": "Traveler diarrhea support (mild, non-bloody)",
       "dose_verified": false,
@@ -11999,10 +12545,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "traveler_diarrhea_support_adult",
       "disease_name": "Traveler diarrhea support (mild, non-bloody)",
       "dose_verified": false,
@@ -12027,10 +12579,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "traveler_diarrhea_support_adult",
       "disease_name": "Traveler diarrhea support (mild, non-bloody)",
       "dose_verified": false,
@@ -12055,10 +12613,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "traveler_diarrhea_support_adult",
       "disease_name": "Traveler diarrhea support (mild, non-bloody)",
       "dose_verified": false,
@@ -12083,10 +12647,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "traveler_diarrhea_support_adult",
       "disease_name": "Traveler diarrhea support (mild, non-bloody)",
       "dose_verified": false,
@@ -12111,10 +12681,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "traveler_diarrhea_support_adult",
       "disease_name": "Traveler diarrhea support (mild, non-bloody)",
       "dose_verified": false,
@@ -12139,10 +12715,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "traveler_diarrhea_support_adult",
       "disease_name": "Traveler diarrhea support (mild, non-bloody)",
       "dose_verified": false,
@@ -12167,10 +12749,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "traveler_diarrhea_support_adult",
       "disease_name": "Traveler diarrhea support (mild, non-bloody)",
       "dose_verified": false,
@@ -12195,10 +12783,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "traveler_diarrhea_support_adult",
       "disease_name": "Traveler diarrhea support (mild, non-bloody)",
       "dose_verified": false,
@@ -12223,10 +12817,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "traveler_diarrhea_support_adult",
       "disease_name": "Traveler diarrhea support (mild, non-bloody)",
       "dose_verified": false,
@@ -12251,10 +12851,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "traveler_diarrhea_support_adult",
       "disease_name": "Traveler diarrhea support (mild, non-bloody)",
       "dose_verified": false,
@@ -12279,10 +12885,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment",
+        "no_antibiotic_criteria"
+      ],
+      "disease_guideline_next_action": "ORS/product evidence can support supportive care; antibiotics require dysentery/cholera/traveler criteria plus exact drug dose",
+      "disease_guideline_proof_status": "source_backed_diarrhea_ors_no_routine_antibiotic",
+      "disease_guideline_source_ids": [
+        "msf_acute_diarrhoea_2026"
+      ],
       "disease_key": "traveler_diarrhea_support_adult",
       "disease_name": "Traveler diarrhea support (mild, non-bloody)",
       "dose_verified": false,
@@ -15331,10 +15943,18 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_corporis_localized_adult",
       "disease_name": "Localized tinea corporis / fungal rash",
       "dose_verified": false,
@@ -15359,10 +15979,18 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_corporis_localized_adult",
       "disease_name": "Localized tinea corporis / fungal rash",
       "dose_verified": false,
@@ -15387,10 +16015,18 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_corporis_localized_adult",
       "disease_name": "Localized tinea corporis / fungal rash",
       "dose_verified": false,
@@ -15415,10 +16051,18 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_corporis_localized_adult",
       "disease_name": "Localized tinea corporis / fungal rash",
       "dose_verified": false,
@@ -15443,10 +16087,18 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_corporis_localized_adult",
       "disease_name": "Localized tinea corporis / fungal rash",
       "dose_verified": false,
@@ -15471,10 +16123,18 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_corporis_localized_adult",
       "disease_name": "Localized tinea corporis / fungal rash",
       "dose_verified": false,
@@ -17695,10 +18355,15 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "ocular product-specific dose/safety source still required before eye-drop rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_eye_support_context",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "watery_red_eye_nonpurulent_adult",
       "disease_name": "Watery red eye (non-purulent)",
       "dose_verified": false,
@@ -17723,10 +18388,15 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "ocular product-specific dose/safety source still required before eye-drop rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_eye_support_context",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "watery_red_eye_nonpurulent_adult",
       "disease_name": "Watery red eye (non-purulent)",
       "dose_verified": false,
@@ -17751,10 +18421,15 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "ocular product-specific dose/safety source still required before eye-drop rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_eye_support_context",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "watery_red_eye_nonpurulent_adult",
       "disease_name": "Watery red eye (non-purulent)",
       "dose_verified": false,
@@ -17779,10 +18454,15 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "ocular product-specific dose/safety source still required before eye-drop rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_eye_support_context",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "watery_red_eye_nonpurulent_adult",
       "disease_name": "Watery red eye (non-purulent)",
       "dose_verified": false,
@@ -17807,10 +18487,15 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "ocular product-specific dose/safety source still required before eye-drop rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_eye_support_context",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "watery_red_eye_nonpurulent_adult",
       "disease_name": "Watery red eye (non-purulent)",
       "dose_verified": false,
@@ -17835,10 +18520,15 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "ocular product-specific dose/safety source still required before eye-drop rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_eye_support_context",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "watery_red_eye_nonpurulent_adult",
       "disease_name": "Watery red eye (non-purulent)",
       "dose_verified": false,
@@ -17863,10 +18553,15 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "ocular product-specific dose/safety source still required before eye-drop rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_eye_support_context",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "watery_red_eye_nonpurulent_adult",
       "disease_name": "Watery red eye (non-purulent)",
       "dose_verified": false,
@@ -17891,10 +18586,15 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "ocular product-specific dose/safety source still required before eye-drop rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_eye_support_context",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "watery_red_eye_nonpurulent_adult",
       "disease_name": "Watery red eye (non-purulent)",
       "dose_verified": false,
@@ -17919,10 +18619,15 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "line_of_treatment"
+      ],
+      "disease_guideline_next_action": "ocular product-specific dose/safety source still required before eye-drop rows unlock",
+      "disease_guideline_proof_status": "source_backed_allergic_eye_support_context",
+      "disease_guideline_source_ids": [
+        "aao_hns_allergic_rhinitis_2015"
+      ],
       "disease_key": "watery_red_eye_nonpurulent_adult",
       "disease_name": "Watery red eye (non-purulent)",
       "dose_verified": false,
@@ -18619,10 +19324,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "dry_eye_peds_support",
       "disease_name": "Pediatric dry eye support",
       "dose_verified": false,
@@ -18647,10 +19358,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "dry_eye_peds_support",
       "disease_name": "Pediatric dry eye support",
       "dose_verified": false,
@@ -18675,10 +19392,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "dry_eye_peds_support",
       "disease_name": "Pediatric dry eye support",
       "dose_verified": false,
@@ -18703,10 +19426,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "dry_eye_peds_support",
       "disease_name": "Pediatric dry eye support",
       "dose_verified": false,
@@ -18731,10 +19460,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "dry_eye_peds_support",
       "disease_name": "Pediatric dry eye support",
       "dose_verified": false,
@@ -18759,10 +19494,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "dry_eye_peds_support",
       "disease_name": "Pediatric dry eye support",
       "dose_verified": false,
@@ -18787,10 +19528,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "dry_eye_peds_support",
       "disease_name": "Pediatric dry eye support",
       "dose_verified": false,
@@ -18815,10 +19562,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "dry_eye_peds_support",
       "disease_name": "Pediatric dry eye support",
       "dose_verified": false,
@@ -18843,10 +19596,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "dry_eye_peds_support",
       "disease_name": "Pediatric dry eye support",
       "dose_verified": false,
@@ -20803,10 +21562,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_dose",
+        "pediatric_safety",
+        "pediatric_weight_rule",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "product sachet/dilution and exact formulation still required before product-specific pediatric ORS row unlocks",
+      "disease_guideline_proof_status": "source_backed_ors_weight_formula",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_gastroenteritis_peds_mild",
       "disease_name": "Pediatric mild gastroenteritis",
       "dose_verified": false,
@@ -20831,10 +21599,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_dose",
+        "pediatric_safety",
+        "pediatric_weight_rule",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "product sachet/dilution and exact formulation still required before product-specific pediatric ORS row unlocks",
+      "disease_guideline_proof_status": "source_backed_ors_weight_formula",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_gastroenteritis_peds_mild",
       "disease_name": "Pediatric mild gastroenteritis",
       "dose_verified": false,
@@ -20859,10 +21636,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_dose",
+        "pediatric_safety",
+        "pediatric_weight_rule",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "product sachet/dilution and exact formulation still required before product-specific pediatric ORS row unlocks",
+      "disease_guideline_proof_status": "source_backed_ors_weight_formula",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_gastroenteritis_peds_mild",
       "disease_name": "Pediatric mild gastroenteritis",
       "dose_verified": false,
@@ -20887,10 +21673,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_dose",
+        "pediatric_safety",
+        "pediatric_weight_rule",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "product sachet/dilution and exact formulation still required before product-specific pediatric ORS row unlocks",
+      "disease_guideline_proof_status": "source_backed_ors_weight_formula",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_gastroenteritis_peds_mild",
       "disease_name": "Pediatric mild gastroenteritis",
       "dose_verified": false,
@@ -20915,10 +21710,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_dose",
+        "pediatric_safety",
+        "pediatric_weight_rule",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "product sachet/dilution and exact formulation still required before product-specific pediatric ORS row unlocks",
+      "disease_guideline_proof_status": "source_backed_ors_weight_formula",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_gastroenteritis_peds_mild",
       "disease_name": "Pediatric mild gastroenteritis",
       "dose_verified": false,
@@ -20943,10 +21747,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_dose",
+        "pediatric_safety",
+        "pediatric_weight_rule",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "product sachet/dilution and exact formulation still required before product-specific pediatric ORS row unlocks",
+      "disease_guideline_proof_status": "source_backed_ors_weight_formula",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_gastroenteritis_peds_mild",
       "disease_name": "Pediatric mild gastroenteritis",
       "dose_verified": false,
@@ -20971,10 +21784,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_dose",
+        "pediatric_safety",
+        "pediatric_weight_rule",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "product sachet/dilution and exact formulation still required before product-specific pediatric ORS row unlocks",
+      "disease_guideline_proof_status": "source_backed_ors_weight_formula",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_gastroenteritis_peds_mild",
       "disease_name": "Pediatric mild gastroenteritis",
       "dose_verified": false,
@@ -20999,10 +21821,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_dose",
+        "pediatric_safety",
+        "pediatric_weight_rule",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "product sachet/dilution and exact formulation still required before product-specific pediatric ORS row unlocks",
+      "disease_guideline_proof_status": "source_backed_ors_weight_formula",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_gastroenteritis_peds_mild",
       "disease_name": "Pediatric mild gastroenteritis",
       "dose_verified": false,
@@ -21027,10 +21858,19 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_dose",
+        "pediatric_safety",
+        "pediatric_weight_rule",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "product sachet/dilution and exact formulation still required before product-specific pediatric ORS row unlocks",
+      "disease_guideline_proof_status": "source_backed_ors_weight_formula",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003",
+        "msf_some_dehydration_2026"
+      ],
       "disease_key": "acute_gastroenteritis_peds_mild",
       "disease_name": "Pediatric mild gastroenteritis",
       "dose_verified": false,
@@ -21391,10 +22231,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "uri_wet_cough_peds",
       "disease_name": "Pediatric URI with wet cough",
       "dose_verified": false,
@@ -21419,10 +22265,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "uri_wet_cough_peds",
       "disease_name": "Pediatric URI with wet cough",
       "dose_verified": false,
@@ -21447,10 +22299,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "uri_wet_cough_peds",
       "disease_name": "Pediatric URI with wet cough",
       "dose_verified": false,
@@ -21475,10 +22333,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "uri_wet_cough_peds",
       "disease_name": "Pediatric URI with wet cough",
       "dose_verified": false,
@@ -21503,10 +22367,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "uri_wet_cough_peds",
       "disease_name": "Pediatric URI with wet cough",
       "dose_verified": false,
@@ -21531,10 +22401,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "uri_wet_cough_peds",
       "disease_name": "Pediatric URI with wet cough",
       "dose_verified": false,
@@ -21559,10 +22435,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "uri_wet_cough_peds",
       "disease_name": "Pediatric URI with wet cough",
       "dose_verified": false,
@@ -21587,10 +22469,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "uri_wet_cough_peds",
       "disease_name": "Pediatric URI with wet cough",
       "dose_verified": false,
@@ -21615,10 +22503,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "uri_wet_cough_peds",
       "disease_name": "Pediatric URI with wet cough",
       "dose_verified": false,
@@ -21643,10 +22537,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "uri_wet_cough_peds",
       "disease_name": "Pediatric URI with wet cough",
       "dose_verified": false,
@@ -21671,10 +22571,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "uri_wet_cough_peds",
       "disease_name": "Pediatric URI with wet cough",
       "dose_verified": false,
@@ -21699,10 +22605,16 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "line_of_treatment",
+        "pediatric_safety",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "pediatric product dose/concentration sources are still required before formula-ready product rows unlock",
+      "disease_guideline_proof_status": "source_backed_pediatric_gastroenteritis_safety",
+      "disease_guideline_source_ids": [
+        "cdc_pediatric_gastroenteritis_2003"
+      ],
       "disease_key": "uri_wet_cough_peds",
       "disease_name": "Pediatric URI with wet cough",
       "dose_verified": false,
@@ -26980,10 +27892,18 @@
       "adult_frequency": "inue use and consult a doctor. Keep out of the reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center right away. • Wash the affected area and dry thoroughly. • Apply a thin layer over affected area twice daily (morning and night), or as directed by a doctor. • Supervise children in the use of this product. • For athlete's foot, pay special attention to the spaces between the toes; wear well-fitting ventilated shoes, and change shoes and socks at least on",
       "adult_max_dose": "RIGLYCERIDE GLYCERIN ETHYLHEXYLGLYCERIN Clotrimazole 1% Antifungal Cures athlete's foot (tinea pedis), jock itch (tinea cruris), ringworm (tinea corporis). Relieves the itching, irritation, redness, scaling and discomfort which can accompany these conditions. For external use only Avoid contact with eyes. on children under 2 years of age unless directed by a doctor. If irritation occurs or if there is no improvement within 4 weeks (for athlete's foot or ringworm) or within 2 weeks (for jock itch), discontinue use a",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_cruris_adult",
       "disease_name": "Tinea cruris / groin fungal rash",
       "dose_verified": true,
@@ -27010,10 +27930,18 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_cruris_adult",
       "disease_name": "Tinea cruris / groin fungal rash",
       "dose_verified": false,
@@ -27038,10 +27966,18 @@
       "adult_frequency": "inue use and consult a doctor. Keep out of the reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center right away. • Wash the affected area and dry thoroughly. • Apply a thin layer over affected area twice daily (morning and night), or as directed by a doctor. • Supervise children in the use of this product. • For athlete's foot, pay special attention to the spaces between the toes; wear well-fitting ventilated shoes, and change shoes and socks at least on",
       "adult_max_dose": "RIGLYCERIDE GLYCERIN ETHYLHEXYLGLYCERIN Clotrimazole 1% Antifungal Cures athlete's foot (tinea pedis), jock itch (tinea cruris), ringworm (tinea corporis). Relieves the itching, irritation, redness, scaling and discomfort which can accompany these conditions. For external use only Avoid contact with eyes. on children under 2 years of age unless directed by a doctor. If irritation occurs or if there is no improvement within 4 weeks (for athlete's foot or ringworm) or within 2 weeks (for jock itch), discontinue use a",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_cruris_adult",
       "disease_name": "Tinea cruris / groin fungal rash",
       "dose_verified": true,
@@ -27068,10 +28004,18 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_cruris_adult",
       "disease_name": "Tinea cruris / groin fungal rash",
       "dose_verified": false,
@@ -27096,10 +28040,18 @@
       "adult_frequency": "inue use and consult a doctor. Keep out of the reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center right away. • Wash the affected area and dry thoroughly. • Apply a thin layer over affected area twice daily (morning and night), or as directed by a doctor. • Supervise children in the use of this product. • For athlete's foot, pay special attention to the spaces between the toes; wear well-fitting ventilated shoes, and change shoes and socks at least on",
       "adult_max_dose": "RIGLYCERIDE GLYCERIN ETHYLHEXYLGLYCERIN Clotrimazole 1% Antifungal Cures athlete's foot (tinea pedis), jock itch (tinea cruris), ringworm (tinea corporis). Relieves the itching, irritation, redness, scaling and discomfort which can accompany these conditions. For external use only Avoid contact with eyes. on children under 2 years of age unless directed by a doctor. If irritation occurs or if there is no improvement within 4 weeks (for athlete's foot or ringworm) or within 2 weeks (for jock itch), discontinue use a",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_cruris_adult",
       "disease_name": "Tinea cruris / groin fungal rash",
       "dose_verified": true,
@@ -27126,10 +28078,18 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_cruris_adult",
       "disease_name": "Tinea cruris / groin fungal rash",
       "dose_verified": false,
@@ -27154,10 +28114,18 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_pedis_adult",
       "disease_name": "Tinea pedis / fungal foot rash",
       "dose_verified": false,
@@ -27182,10 +28150,18 @@
       "adult_frequency": "inue use and consult a doctor. Keep out of the reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center right away. • Wash the affected area and dry thoroughly. • Apply a thin layer over affected area twice daily (morning and night), or as directed by a doctor. • Supervise children in the use of this product. • For athlete's foot, pay special attention to the spaces between the toes; wear well-fitting ventilated shoes, and change shoes and socks at least on",
       "adult_max_dose": "RIGLYCERIDE GLYCERIN ETHYLHEXYLGLYCERIN Clotrimazole 1% Antifungal Cures athlete's foot (tinea pedis), jock itch (tinea cruris), ringworm (tinea corporis). Relieves the itching, irritation, redness, scaling and discomfort which can accompany these conditions. For external use only Avoid contact with eyes. on children under 2 years of age unless directed by a doctor. If irritation occurs or if there is no improvement within 4 weeks (for athlete's foot or ringworm) or within 2 weeks (for jock itch), discontinue use a",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_pedis_adult",
       "disease_name": "Tinea pedis / fungal foot rash",
       "dose_verified": true,
@@ -27212,10 +28188,18 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_pedis_adult",
       "disease_name": "Tinea pedis / fungal foot rash",
       "dose_verified": false,
@@ -27240,10 +28224,18 @@
       "adult_frequency": "inue use and consult a doctor. Keep out of the reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center right away. • Wash the affected area and dry thoroughly. • Apply a thin layer over affected area twice daily (morning and night), or as directed by a doctor. • Supervise children in the use of this product. • For athlete's foot, pay special attention to the spaces between the toes; wear well-fitting ventilated shoes, and change shoes and socks at least on",
       "adult_max_dose": "RIGLYCERIDE GLYCERIN ETHYLHEXYLGLYCERIN Clotrimazole 1% Antifungal Cures athlete's foot (tinea pedis), jock itch (tinea cruris), ringworm (tinea corporis). Relieves the itching, irritation, redness, scaling and discomfort which can accompany these conditions. For external use only Avoid contact with eyes. on children under 2 years of age unless directed by a doctor. If irritation occurs or if there is no improvement within 4 weeks (for athlete's foot or ringworm) or within 2 weeks (for jock itch), discontinue use a",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_pedis_adult",
       "disease_name": "Tinea pedis / fungal foot rash",
       "dose_verified": true,
@@ -27270,10 +28262,18 @@
       "adult_frequency": "",
       "adult_max_dose": "",
       "adult_route": "",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_pedis_adult",
       "disease_name": "Tinea pedis / fungal foot rash",
       "dose_verified": false,
@@ -27298,10 +28298,18 @@
       "adult_frequency": "inue use and consult a doctor. Keep out of the reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center right away. • Wash the affected area and dry thoroughly. • Apply a thin layer over affected area twice daily (morning and night), or as directed by a doctor. • Supervise children in the use of this product. • For athlete's foot, pay special attention to the spaces between the toes; wear well-fitting ventilated shoes, and change shoes and socks at least on",
       "adult_max_dose": "RIGLYCERIDE GLYCERIN ETHYLHEXYLGLYCERIN Clotrimazole 1% Antifungal Cures athlete's foot (tinea pedis), jock itch (tinea cruris), ringworm (tinea corporis). Relieves the itching, irritation, redness, scaling and discomfort which can accompany these conditions. For external use only Avoid contact with eyes. on children under 2 years of age unless directed by a doctor. If irritation occurs or if there is no improvement within 4 weeks (for athlete's foot or ringworm) or within 2 weeks (for jock itch), discontinue use a",
       "adult_route": "PO",
-      "disease_guideline_claim_types": [],
-      "disease_guideline_next_action": "",
-      "disease_guideline_proof_status": "",
-      "disease_guideline_source_ids": [],
+      "disease_guideline_claim_types": [
+        "disease_strategy",
+        "drug_class_indication",
+        "line_of_treatment",
+        "red_flags"
+      ],
+      "disease_guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
+      "disease_guideline_proof_status": "source_backed_tinea_diagnostic_caution",
+      "disease_guideline_source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ],
       "disease_key": "tinea_pedis_adult",
       "disease_name": "Tinea pedis / fungal foot rash",
       "dose_verified": true,

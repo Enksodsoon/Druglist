@@ -14,19 +14,21 @@
       "final_antibiotic_status": "source_missing_hide_from_rx",
       "gate_logic": "",
       "generic_name": "Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w",
-      "guideline_next_action": "",
+      "guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "line_of_therapy": "RX1",
       "major_interactions": "",
       "missing_accredited_fields": "bacterial criteria; drug choice; dose; duration; gate logic; safety citation",
-      "next_action": "retrieve RDU/AWaRe/NICE/IDSA/Thai guideline with exact disease criteria and dosing",
+      "next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "no_antibiotic_source_ready": false,
       "not_for_viral_use": false,
       "pediatric_caution": "",
       "pregnancy_caution": "",
       "product_id": "BDS001491",
-      "red_flag_source_ready": false,
+      "red_flag_source_ready": true,
       "renal_caution": "",
-      "source_ids": []
+      "source_ids": [
+        "cdc_ringworm_hcp_2024"
+      ]
     },
     {
       "accredited_source_status": "blocked_pending_antibiotic_criteria_source",
@@ -42,19 +44,21 @@
       "final_antibiotic_status": "source_missing_hide_from_rx",
       "gate_logic": "",
       "generic_name": "Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w",
-      "guideline_next_action": "",
+      "guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "line_of_therapy": "RX1",
       "major_interactions": "",
       "missing_accredited_fields": "bacterial criteria; drug choice; dose; duration; gate logic; safety citation",
-      "next_action": "retrieve RDU/AWaRe/NICE/IDSA/Thai guideline with exact disease criteria and dosing",
+      "next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "no_antibiotic_source_ready": false,
       "not_for_viral_use": false,
       "pediatric_caution": "",
       "pregnancy_caution": "",
       "product_id": "BDS001491",
-      "red_flag_source_ready": false,
+      "red_flag_source_ready": true,
       "renal_caution": "",
-      "source_ids": []
+      "source_ids": [
+        "cdc_ringworm_hcp_2024"
+      ]
     },
     {
       "accredited_source_status": "blocked_pending_antibiotic_criteria_source",
@@ -70,19 +74,21 @@
       "final_antibiotic_status": "source_missing_hide_from_rx",
       "gate_logic": "",
       "generic_name": "Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w",
-      "guideline_next_action": "",
+      "guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "line_of_therapy": "RX1",
       "major_interactions": "",
       "missing_accredited_fields": "bacterial criteria; drug choice; dose; duration; gate logic; safety citation",
-      "next_action": "retrieve RDU/AWaRe/NICE/IDSA/Thai guideline with exact disease criteria and dosing",
+      "next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "no_antibiotic_source_ready": false,
       "not_for_viral_use": false,
       "pediatric_caution": "",
       "pregnancy_caution": "",
       "product_id": "BDS001491",
-      "red_flag_source_ready": false,
+      "red_flag_source_ready": true,
       "renal_caution": "",
-      "source_ids": []
+      "source_ids": [
+        "cdc_ringworm_hcp_2024"
+      ]
     },
     {
       "accredited_source_status": "blocked_pending_antibiotic_criteria_source",
@@ -362,19 +368,22 @@
       "final_antibiotic_status": "source_missing_hide_from_rx",
       "gate_logic": "",
       "generic_name": "Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w",
-      "guideline_next_action": "",
+      "guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "line_of_therapy": "RX1",
       "major_interactions": "",
       "missing_accredited_fields": "bacterial criteria; drug choice; dose; duration; gate logic; safety citation",
-      "next_action": "retrieve RDU/AWaRe/NICE/IDSA/Thai guideline with exact disease criteria and dosing",
+      "next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "no_antibiotic_source_ready": false,
       "not_for_viral_use": false,
       "pediatric_caution": "",
       "pregnancy_caution": "",
       "product_id": "BDS001491",
-      "red_flag_source_ready": false,
+      "red_flag_source_ready": true,
       "renal_caution": "",
-      "source_ids": []
+      "source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ]
     },
     {
       "accredited_source_status": "blocked_pending_antibiotic_criteria_source",
@@ -390,19 +399,22 @@
       "final_antibiotic_status": "source_missing_hide_from_rx",
       "gate_logic": "",
       "generic_name": "Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w",
-      "guideline_next_action": "",
+      "guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "line_of_therapy": "RX1",
       "major_interactions": "",
       "missing_accredited_fields": "bacterial criteria; drug choice; dose; duration; gate logic; safety citation",
-      "next_action": "retrieve RDU/AWaRe/NICE/IDSA/Thai guideline with exact disease criteria and dosing",
+      "next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "no_antibiotic_source_ready": false,
       "not_for_viral_use": false,
       "pediatric_caution": "",
       "pregnancy_caution": "",
       "product_id": "BDS001491",
-      "red_flag_source_ready": false,
+      "red_flag_source_ready": true,
       "renal_caution": "",
-      "source_ids": []
+      "source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ]
     },
     {
       "accredited_source_status": "blocked_pending_antibiotic_criteria_source",
@@ -418,19 +430,22 @@
       "final_antibiotic_status": "source_missing_hide_from_rx",
       "gate_logic": "",
       "generic_name": "Clotrimazole 1%+Betamethasone Dipropionate (eq. to Betamethasone 0.1%) w/w",
-      "guideline_next_action": "",
+      "guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "line_of_therapy": "RX1",
       "major_interactions": "",
       "missing_accredited_fields": "bacterial criteria; drug choice; dose; duration; gate logic; safety citation",
-      "next_action": "retrieve RDU/AWaRe/NICE/IDSA/Thai guideline with exact disease criteria and dosing",
+      "next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "no_antibiotic_source_ready": false,
       "not_for_viral_use": false,
       "pediatric_caution": "",
       "pregnancy_caution": "",
       "product_id": "BDS001491",
-      "red_flag_source_ready": false,
+      "red_flag_source_ready": true,
       "renal_caution": "",
-      "source_ids": []
+      "source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ]
     },
     {
       "accredited_source_status": "blocked_pending_antibiotic_criteria_source",
@@ -4139,19 +4154,21 @@
       "final_antibiotic_status": "source_missing_hide_from_rx",
       "gate_logic": "",
       "generic_name": "Clotrimazole + Betamethasone Dipropionate w/w",
-      "guideline_next_action": "",
+      "guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "line_of_therapy": "",
       "major_interactions": "",
       "missing_accredited_fields": "bacterial criteria; drug choice; dose; duration; gate logic; safety citation",
-      "next_action": "retrieve RDU/AWaRe/NICE/IDSA/Thai guideline with exact disease criteria and dosing",
+      "next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "no_antibiotic_source_ready": false,
       "not_for_viral_use": false,
       "pediatric_caution": "",
       "pregnancy_caution": "",
       "product_id": "BDS001491",
-      "red_flag_source_ready": false,
+      "red_flag_source_ready": true,
       "renal_caution": "",
-      "source_ids": []
+      "source_ids": [
+        "cdc_ringworm_hcp_2024"
+      ]
     },
     {
       "accredited_source_status": "blocked_pending_antibiotic_criteria_source",
@@ -4255,19 +4272,22 @@
       "final_antibiotic_status": "source_missing_hide_from_rx",
       "gate_logic": "",
       "generic_name": "Clotrimazole + Betamethasone Dipropionate w/w",
-      "guideline_next_action": "",
+      "guideline_next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "line_of_therapy": "",
       "major_interactions": "",
       "missing_accredited_fields": "bacterial criteria; drug choice; dose; duration; gate logic; safety citation",
-      "next_action": "retrieve RDU/AWaRe/NICE/IDSA/Thai guideline with exact disease criteria and dosing",
+      "next_action": "topical antifungal product dose/duration source is required before additional tinea rows unlock",
       "no_antibiotic_source_ready": false,
       "not_for_viral_use": false,
       "pediatric_caution": "",
       "pregnancy_caution": "",
       "product_id": "BDS001491",
-      "red_flag_source_ready": false,
+      "red_flag_source_ready": true,
       "renal_caution": "",
-      "source_ids": []
+      "source_ids": [
+        "cdc_ringworm_hcp_2024",
+        "fda_otc_topical_antifungal_monograph_2021"
+      ]
     },
     {
       "accredited_source_status": "blocked_pending_antibiotic_criteria_source",
