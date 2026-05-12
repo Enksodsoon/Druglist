@@ -5,13 +5,7 @@
 ,,Roxithromycin,,,,,,BDS007066,,,safe_b32f4ffd1a4b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Amoxicillin + Clavulanic Acid,,,,,,BDS001545,,,safe_633318733e58,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Cephalexin,,,,,,BDS007784,,,safe_70a572930c57,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Clarithromycin,,,,,,BDS001452,,,safe_19157b7ce6a3,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Dicloxacillin,,,,,,BDS008652,,,safe_5bd903eeb256,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Dicloxacillin,,,,,,BDS008702,,,safe_bf79309cb887,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Clarithromycin,,,,,,BDS002447,,,safe_5f42dd83edd3,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Cefditoren,,,,,,BDS002692,,,safe_f6cbcc699357,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Cefdinir,,,,,,BDS003078,,,safe_3198cb463c2c,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Erythromycin stearate,,,,,,BDS008121,,,safe_3de72f2a4fe4,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Roxithromycin,,,,,,BDS003423,,,safe_ae2732c46d77,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Roxithromycin,,,,,,BDS007976,,,safe_20bdc62187b4,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Roxithromycin,,,,,,BDS003428,,,safe_2946830183ee,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -23,20 +17,13 @@
 ,,Paracetamol,,,,,,BDS003595,,,safe_7d3612fa072f,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Paracetamol,,,,,,BDS003764,,,safe_118e5f4423c2,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Paracetamol,,,,,,BDS003748,,,safe_efe4f951babb,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Desloratadine,,,,,,BDS001010,,,safe_f095eab730d5,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Hydroxyzine HCl,,,,,,BDS007702,,,safe_3a4aac3092bd,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Loratadine,,,,,,BDS040033,,,safe_664233cca311,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Desloratadine,,,,,,BDS040028,,,safe_2f015153a303,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Bilastine,,,,,,BDS040630,,,safe_07333669a7b8,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Micronized Loratadine,,,,,,BDS041454,,,safe_21fda92f970f,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Loratadine,,,,,,BDS041510,,,safe_52dd1121301f,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Micronized loratadine,,,,,,BDS041499,,,safe_39f7be4c5188,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Fexofenadine HCl,,,,,,BDS001978,,,safe_147fe498c7a5,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Fexofenadine HCl,,,,,,BDS001953,,,safe_6f8e263003fb,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Fexofenadine HCl,,,,,,BDS007975,,,safe_a7947eb4be1c,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Chlorpheniramine Maleate,,,,,,BDS007145,,,safe_1698dae96085,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Hydroxyzine HCl,,,,,,BDS008701,,,safe_6a93ed9d6e2f,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Levocetirizine dihydrochloride,,,,,,BDS044553,,,safe_3ecd23ad60c9,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Loratadine,,,,,,BDS006046,,,safe_3ba9b04f7117,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Cyproheptadine HCI,,,,,,BDS008241,,,safe_35a518be4632,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Brompheniramine Maleate + Phenylephrine HCl,,,,,,BDS045630,,,safe_07158e541612,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -48,7 +35,6 @@
 ,,Fexofenadine HCl,,,,,,BDS003769,,,safe_08154a1dcd89,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Fexofenadine HCl,,,,,,BDS049255,,,safe_103738763fc4,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Fexofenadine HCl,,,,,,BDS049254,,,safe_1d1361ceb4a4,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Levocetirizine dihydrochloride,,,,,,BDS004130,,,safe_54a937dd93c1,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ketotifen,,,,,,BDS007691,,,safe_5f468278a005,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Cetirizine dihydrochloride,,,,,,BDS049778,,,safe_00a0be787644,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Bromhexine HCl,,,,,,BDS001255,,,safe_1386bb6c3287,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -68,9 +54,7 @@
 ,,Ambroxol HCl,,,,,,BDS002639,,,safe_5d5188f5998b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Acetylcysteine,,,,,,BDS002901,,,safe_f29d61892deb,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Carbocysteine,,,,,,BDS003694,,,safe_2227385c76a9,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Bisacodyl,,,,,,BDS001664,,,safe_f4c348b72fc1,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Lactulose,,,,,,BDS001715,,,safe_719a581c0f4d,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Bisacodyl,,,,,,BDS001837,,,safe_58f666763731,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Macrogol 4000 + Saccharin sodium + Orange-grapefruit flavour,,,,,,BDS001842,,,safe_7fbe1b27e4ca,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ispaghula Husk,,,,,,BDS003505,,,safe_260f164d1ff9,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Lactulose + Galactose + Lactose,,,,,,BDS002128,,,safe_5cb0792a5ce1,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -89,27 +73,16 @@
 ,,Sodium alginate + Sodium bicarbonate + Calcium Carbonate,,,,,,BDS002015,,,safe_529ba3c4436c,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,AHMC Type F-MA II ( Aluminum Hydroxide + Magnesium Carbonate ) + Simethicone,,,,,,BDS044334,,,safe_c540bd3d2c06,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Calcium Carbonate + Simethicone,,,,,,BDS044908,,,safe_25852601e6f0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Sucralfate,,,,,,BDS003903,,,safe_8547ac5bb64c,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Pantoprazole,,,,,,BDS001466,,,safe_57d3d6455a8a,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Omeprazole,,,,,,BDS007108,,,safe_4db93f7398a1,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Omeprazole,,,,,,BDS002629,,,safe_33b758e3fc35,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Rebamipide,,,,,,BDS003417,,,safe_3d9a6ccf8611,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Esomeprazole,,,,,,BDS002898,,,safe_f1d0879153cb,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Esomeprazole,,,,,,BDS002903,,,safe_5480e59341dc,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Omeprazole,,,,,,BDS045613,,,safe_deb7d52ada17,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Omeprazole,,,,,,BDS003065,,,safe_e9dc0c84f2b5,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Omeprazole,,,,,,BDS006714,,,safe_cc8d8b0b8598,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Rabeprazole,,,,,,BDS003138,,,safe_fdab2d39e770,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Lansoprazole,,,,,,BDS003110,,,safe_0b5f939e1c3c,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Rabeprazole Sandoz,,,,,,BDS047441,,,safe_15b2edb904e2,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Cimetidine,,,,,,BDS003527,,,safe_b818fb1dd67f,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Lysozyme chloride,,,,,,BDS007181,,,safe_844fa93a94fa,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Proctase + Pancreatin,,,,,,BDS046509,,,safe_f31c339fc6ce,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Salbutamol,,,,,,BDS008607,,,safe_73bd84c75732,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Procaterol HCl,,,,,,BDS002616,,,safe_368ad3f3cba9,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Procaterol HCl,,,,,,BDS002617,,,safe_1e8a53ca5e8a,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Theophylline,,,,,,BDS002844,,,safe_ae5d924d5620,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Terbutaline sulfate,,,,,,BDS003708,,,safe_04b80adb23ad,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Itopride hydrochloride,,,,,,BDS042329,,,safe_768169ee5dc3,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Domperidone,,,,,,BDS007106,,,safe_7e55c353e357,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Itopride Hydrochloride,,,,,,BDS002048,,,safe_a406fe20d6e6,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -123,12 +96,9 @@
 ,,Peppermint Oil + Spearmint Oil,,,,,,BDS008682,,,safe_d72f19c27f8e,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Sodium bicarbonate + Peppermint Oil,,,,,,BDS047683,,,safe_1efc20549aaf,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Simethicone,,,,,,BDS003910,,,safe_b183600fc407,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Fluconazole,,,,,,BDS040602,,,safe_1ec36e78e839,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Fluconazole,,,,,,BDS007128,,,safe_4eeef472b6cd,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ketoconazole,,,,,,BDS007572,,,safe_3fe05c3de118,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ketoconazole,,,,,,BDS002826,,,safe_54bc8cbbe3ec,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Nystatin 100,,,,,,BDS045631,,,safe_83133e71ecff,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Itraconazole,,,,,,BDS003653,,,safe_e9d99b3f321b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Mebendazole,,,,,,BDS001230,,,safe_8b2ca37be1da,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Mebendazole,,,,,,BDS001227,,,safe_3b4f6766ac3c,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Mebendazole,,,,,,BDS001927,,,safe_e868a49060f7,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -136,8 +106,6 @@
 ,,Medicinal Charcoal,,,,,,BDS007122,,,safe_91864bce02d2,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Activated Charcoal,,,,,,BDS045666,,,safe_94ea7e307e95,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Dioctahedral Smectite,,,,,,BDS003546,,,safe_9aa53607c5e0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Clindamycin,,,,,,BDS003912,,,safe_c4596d98054e,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Doxycycline Hyclate,,,,,,BDS007723,,,safe_bd108ca99d9f,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Metronidazole,,,,,,BDS044901,,,safe_45e91816a01a,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Metronidazole,,,,,,BDS007193,,,safe_2aa6399b4af9,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Diphenhydramine,,,,,,BDS007911,,,safe_dadbfd9f3bd8,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -148,8 +116,6 @@
 ,,Amoxicillin + Clavulanic Acid,,,,,,BDS001054,,,safe_5bcc0ec91b51,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Cefixime,,,,,,BDS001441,,,safe_de287984581c,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Cephalexin,,,,,,BDS002206,,,safe_5fdaa8f7422a,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Cefditoren,,,,,,BDS002693,,,safe_5decf6f39953,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Erythromycin,,,,,,BDS007589,,,safe_374ce724034d,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Amoxicillin,,,,,,BDS003549,,,safe_55b946a6b051,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Amoxicillin,,,,,,BDS003550,,,safe_6a475edb7c09,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Cloxacillin,,,,,,BDS007682,,,safe_c3a2a098fbf7,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -201,24 +167,16 @@
 ,,Etoricoxib,,,,,,BDS001078,,,safe_a5c78c134afd,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Etoricoxib,,,,,,BDS001075,,,safe_321e4f809fcf,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Etoricoxib,,,,,,BDS040616,,,safe_dfdb8f054dc7,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Meloxicam,,,,,,BDS008116,,,safe_1051ae160178,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Diclofenac Potassium,,,,,,BDS041402,,,safe_37f02dfc2e72,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Diclofenac Potassium,,,,,,BDS007035,,,safe_b4bf567e7dbd,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Celecoxib,,,,,,BDS001509,,,safe_215c6b847c40,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Celecoxib,,,,,,BDS001507,,,safe_a4eb01b7c039,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Diclofenac Sodium,,,,,,BDS001822,,,safe_1db04bdb1c93,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Diclofenac Sodium,,,,,,BDS001824,,,safe_0b35b40553dd,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Etoricoxib,,,,,,BDS042806,,,safe_a0d1bc99fe88,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Piroxicam,,,,,,BDS008061,,,safe_d936280924eb,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Loxoprofen sodium,,,,,,BDS044250,,,safe_941f25c21b29,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Mefenamic acid,,,,,,BDS044900,,,safe_2eade891b380,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Meloxicam,,,,,,BDS002669,,,safe_a04dd48c655d,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Mefenamic acid,,,,,,BDS044909,,,safe_112a16b3f627,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Meloxicam,,,,,,BDS002642,,,safe_1e0af4ee0f61,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Naproxen,,,,,,BDS045624,,,safe_31ec47384352,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Naproxen sodium,,,,,,BDS007214,,,safe_69575cdf78e5,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Naproxen,,,,,,BDS007576,,,safe_536b565da1b0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Mefenamic acid,,,,,,BDS003131,,,safe_f2002ba0c41b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Naproxen sodium,,,,,,BDS047654,,,safe_3cb4651848ff,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ibuprofen,,,,,,BDS003581,,,safe_0924763d9c19,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Diclofenac Sodium,,,,,,BDS003599,,,safe_7e38545a9aed,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -226,7 +184,6 @@
 ,,Diclofenac Sodium,,,,,,BDS049251,,,safe_8f3a4c51d04b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Diclofenac Sodium,,,,,,BDS004052,,,safe_ee66c4d622a6,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Diclofenac Sodium,,,,,,BDS004041,,,safe_6eaabb922c9b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Celecoxib,,,,,,BDS049777,,,safe_e67da523b2e8,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Lyophilized Saccharomyces boulardii,,,,,,BDS001248,,,safe_50e0f32b299b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Lyophilized Saccharomyces boulardii,,,,,,BDS001233,,,safe_a2bc46797c2d,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Nifuroxazide,,,,,,BDS042802,,,safe_faa8945381e0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -244,8 +201,6 @@
 ,,Salbutamol,,,,,,BDS003589,,,safe_d064386efad0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ergotamine tartrate + Caffeine,,,,,,BDS001071,,,safe_b56ceef08282,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ergotamine tartrate + Caffeine,,,,,,BDS001405,,,safe_9634baee3f93,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Eletriptan,,,,,,BDS006840,,,safe_b2f5c8eef701,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Sumatriptan succinate,,,,,,BDS047646,,,safe_46ec50fd1fd4,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ergotamine tartrate + Caffeine,,,,,,BDS001404,,,safe_c2428c8afd70,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Betahistine Mesylate,,,,,,BDS007022,,,safe_9770e16039b1,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Diphenidol hydrochloride,,,,,,BDS008007,,,safe_4ae788c5c8ad,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -267,7 +222,6 @@
 ,,Absorbable aescin,,,,,,BDS003407,,,safe_4336986cdd44,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Vit K1 + Rutin + Lysozyme Cl + Vit E,,,,,,BDS003507,,,safe_df8455db0ffe,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Diosmin + Hesperidin,,,,,,BDS007765,,,safe_fe78efd85ed1,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Tramadol HCl,,,,,,BDS003739,,,safe_044f968798aa,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Hyoscine-N-butylbromide,,,,,,BDS001283,,,safe_0fa2ed5feba4,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Hyoscine-N-butylbromide,,,,,,BDS007061,,,safe_bee01a9fefcf,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Mebeverine HCl,,,,,,BDS001484,,,safe_9d74a01eb4eb,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -300,7 +254,6 @@
 ,,Cardamon Tincture + Capsicum Tincture + Ginger Tincture,,,,,,BDS002631,,,safe_3472415fd6dd,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Cardamon Tincture + Capsicum Tincture + Ginger Tincture,,,,,,BDS002632,,,safe_12c1a6139f5c,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,เปล้าน้อย + สมุลแว้ง + ขมิ้นชัน + กานพลู,,,,,,BDS007967,,,safe_b5bf9c1e83c7,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Baclofen,,,,,,BDS006664,,,safe_30bebbe2e93f,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Tolperisone,,,,,,BDS001271,,,safe_2ffd8af8ed47,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Paracetamol + Orphenadrine Citrate,,,,,,BDS007049,,,safe_a49e096d0167,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Paracetamol + Orphenadrine Citrate,,,,,,BDS041455,,,safe_58ba959684a2,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -321,8 +274,6 @@
 ,,Ciprofloxacin,,,,,,BDS001496,,,safe_b54318c96829,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ciprofloxacin,,,,,,BDS041409,,,safe_78ebe0b8957c,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ciprofloxacin,,,,,,BDS008114,,,safe_9d5b25c07392,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Levofloxacin,,,,,,BDS001548,,,safe_1084bc950977,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Levofloxacin,,,,,,BDS008681,,,safe_d60e34748fdc,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Norfloxacin,,,,,,BDS007591,,,safe_f16e7641861b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Norfloxacin,,,,,,BDS007751,,,safe_7b2660c6851f,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Norfloxacin,,,,,,BDS009086,,,safe_ab1b1829f7c5,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -426,7 +377,6 @@
 ,,Cyproterone acetate + Ethinylestradiol,,,,,,BDS003032,,,safe_db3c922899c6,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Cyproterone Acetate + Ethinylestradiol,,,,,,BDS003143,,,safe_c73d8e7a60eb,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Cyproterone Acetate + Ethinylestradiol,,,,,,BDS046511,,,safe_04147cf4dd8a,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Drospirenone,,,,,,BDS047721,,,safe_55e86f56d4c6,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Cyproterone Acetate + Ethinylestradiol,,,,,,BDS003731,,,safe_ccd600d28f81,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Cyproterone Acetate + Ethinylestradiol,,,,,,BDS003699,,,safe_a0ac5243ce87,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Drospirenone + Ethinylestradiol,,,,,,BDS003655,,,safe_625e8a66c3aa,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -445,12 +395,8 @@
 ,,Bromhexine HCl + Guaifenesin,,,,,,BDS008046,,,safe_fae14f63266e,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ambroxol HCl,,,,,,BDS007196,,,safe_ce0ec064a39d,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ambroxol HCl,,,,,,BDS007601,,,safe_1db31f0a6285,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Bisacodyl,,,,,,BDS008201,,,safe_291c7a3683d6,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Lactulose,,,,,,BDS007554,,,safe_91190892271c,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Bisacodyl + Dioctyl sodium sulfosuccinate,,,,,,BDS008768,,,safe_2247b5ada9e0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Finasteride,,,,,,BDS001975,,,safe_5246304dfc88,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Tinidazole,,,,,,BDS040003,,,safe_c9832ffe285e,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Tinidazole,,,,,,BDS007954,,,safe_a7b7534bb131,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Dimenhydrinate,,,,,,BDS045662,,,safe_20313bdf132b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Spike Lavender Oil,,,,,,BDS048649,,,safe_a0524de05a1c,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Paracetamol,,,,,,BDS040613,,,safe_d83bf6ea05d2,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -463,93 +409,31 @@
 ,,Simethicone,,,,,,BDS001085,,,safe_5bdc6e97bec0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Simethicone,,,,,,BDS001088,,,safe_e82ded4ae6f3,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Simethicone,,,,,,BDS001641,,,safe_b083a8cc2af6,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Amitriptyline Hydrochloride,,,,,,BDS040030,,,safe_5caff8c001d5,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Pinene (Alpha + Beta) + Camphene + Cineol,,,,,,BDS004039,,,safe_f3c808fa0ba3,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Tranexamic Acid,,,,,,BDS007960,,,safe_c5f9151fe324,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Amlodipine besilate,,,,,,BDS040008,,,safe_295bbcd6c496,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Amlodipine besilate,,,,,,BDS040007,,,safe_278a239bf04f,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Enalapril Maleate,,,,,,BDS001114,,,safe_042c23705dcc,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Enalapril Maleate,,,,,,BDS001113,,,safe_8b9281d5f1c4,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Propranolol HCl,,,,,,BDS007484,,,safe_40306c889b5b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Propranolol,,,,,,BDS001237,,,safe_116dd3486667,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Propranolol HCl,,,,,,BDS001281,,,safe_822233bc8490,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Candesartan Cilexetil,,,,,,BDS040634,,,safe_fac727d84f9a,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Candesartan cilexetil,,,,,,BDS001275,,,safe_4c6f7fa4cd70,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Carvedilol,,,,,,BDS041442,,,safe_6aca5e13ec81,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Metoprolol Tartrate,,,,,,BDS001415,,,safe_a43e509a9713,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Atenolol,,,,,,BDS006702,,,safe_d03028ca7af1,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Hydralazine HCl,,,,,,BDS001443,,,safe_f67ea20528e8,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Bisoprolol fumarate,,,,,,BDS001453,,,safe_9f669d3bb49b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Bisoprolol fumarate,,,,,,BDS001454,,,safe_7d25233afbb5,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Valsartan,,,,,,BDS042320,,,safe_1ce37f7d7351,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Valsartan,,,,,,BDS042319,,,safe_d8426e8c3918,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Enalapril Maleate,,,,,,BDS001845,,,safe_f97122f914a1,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Enalapril Maleate,,,,,,BDS001812,,,safe_52d7002c49cd,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Amlodipine + Valsartan,,,,,,BDS042814,,,safe_dea9c02d6aaa,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Felodipine,,,,,,BDS043130,,,safe_c40389ca8e57,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Manidipine HCl,,,,,,BDS044317,,,safe_02753f4b6eda,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Minoxidil,,,,,,BDS007556,,,safe_4410e3c2f68a,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Manidipine HCl,,,,,,BDS003146,,,safe_7895476c3d1b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Manidipine HCl,,,,,,BDS002638,,,safe_d9a7e5e7e08f,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Nifedipine,,,,,,BDS002808,,,safe_fa641d6f9271,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Felodipine,,,,,,BDS003174,,,safe_00539c738dc2,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Atenolol,,,,,,BDS003144,,,safe_e4f0904b5ea0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Atenolol,,,,,,BDS003140,,,safe_ac7f623c39a8,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Atenolol,,,,,,BDS003145,,,safe_9793f8c01770,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Lercanidipine HCl,,,,,,BDS006259,,,safe_ac82efb2f7be,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Glimepiride,,,,,,BDS040006,,,safe_70e6d7ed6a2b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Glibenclamide,,,,,,BDS007131,,,safe_a335edc86dba,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Glibenclamide,,,,,,BDS001611,,,safe_e4927478b9a8,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Gliclazide,,,,,,BDS001639,,,safe_31d04a0c9425,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Glipizide,,,,,,BDS001649,,,safe_f8651ca5d1de,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Vildagliptin,,,,,,BDS043612,,,safe_7dd748447472,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Glipizide,,,,,,BDS043603,,,safe_1164ac1c0ec1,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Metformin HCI,,,,,,BDS002021,,,safe_a89f253dcfc2,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Metformin HCl,,,,,,BDS001959,,,safe_64c05d2925ec,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Glipizide,,,,,,BDS043611,,,safe_6564c24109c2,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Glipizide,,,,,,BDS002628,,,safe_ef5eaca1878a,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Glibenclamide,,,,,,BDS006734,,,safe_98fc347574a3,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Atorvastatin Calcium,,,,,,BDS001960,,,safe_75a75e0e5bc9,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Atorvastatin Calcium,,,,,,BDS001945,,,safe_99e554493ba6,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Atorvastatin Calcium,,,,,,BDS001918,,,safe_fc28ef278f2b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Atorvastatin Calcium,,,,,,BDS041432,,,safe_d04092493321,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Fenofibrate,,,,,,BDS001922,,,safe_dbac683111c6,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Gemfibrozil,,,,,,BDS002132,,,safe_75d2cb96c6d2,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Gemfibrozil,,,,,,BDS002133,,,safe_07bd64244f02,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Fenofibrate,,,,,,BDS006466,,,safe_bddc44f507b5,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Atorvastatin,,,,,,BDS049670,,,safe_8147a414b559,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Atorvastatin,,,,,,BDS049671,,,safe_655cbc622f11,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Spironolactone,,,,,,BDS007005,,,safe_5e9ea13e5ee2,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Furosemide,,,,,,BDS001987,,,safe_888789b64a92,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Hydrochlorothiazide,,,,,,BDS006802,,,safe_ee970d083966,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Hydrochlorothiazide,,,,,,BDS006801,,,safe_acf24ecf3c50,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Hydrochlorothiazide,,,,,,BDS001480,,,safe_f16c83002bfc,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Hydrochlorothiazide + Amiloride HCl,,,,,,BDS002633,,,safe_d1767e811033,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Doxazosin,,,,,,BDS001439,,,safe_d609e2a2c910,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Doxazosin mesylate,,,,,,BDS001429,,,safe_d58cbdf02872,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Finasteride,,,,,,BDS002016,,,safe_282d87589971,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Doxazosin,,,,,,BDS046561,,,safe_622e1e8aabc9,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Phenytoin Sodium,,,,,,BDS001666,,,safe_1557ec937661,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Gabapentin,,,,,,BDS002047,,,safe_0cfdcd9758cb,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Gabapentin,,,,,,BDS002046,,,safe_268b121d3413,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Pregabalin,,,,,,BDS002561,,,safe_6163d08e3c9e,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Pregabalin,,,,,,BDS002591,,,safe_607a073c15a0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Gabapentin,,,,,,BDS002863,,,safe_4ee28230433f,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Gabapentin,,,,,,BDS002823,,,safe_9de0383542c1,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Pregabalin,,,,,,BDS046516,,,safe_76e3b8cdd6b8,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Pregabalin,,,,,,BDS046517,,,safe_eb1b023b0afc,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Levothyroxine Sodium,,,,,,BDS042823,,,safe_208c39b774f0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Levothyroxine Sodium,,,,,,BDS042824,,,safe_db5e6b570e98,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Propylthiouracil,,,,,,BDS046506,,,safe_c0d6b77a8f38,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Methimazole,,,,,,BDS003746,,,safe_22d07e056500,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Allopurinol,,,,,,BDS007004,,,safe_4c667c6a1da0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Colchicine,,,,,,BDS001460,,,safe_bb0e586c1905,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Colchicine,,,,,,BDS008731,,,safe_04a875f2d8da,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Allopurinol,,,,,,BDS007613,,,safe_9b22c11b6fa0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Allopurinol,,,,,,BDS007611,,,safe_c586057cf016,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Colchicine,,,,,,BDS003732,,,safe_a4664d48837b,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Allopurinol,,,,,,BDS007312,,,safe_0ec916d488ef,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Clopidogrel,,,,,,BDS001107,,,safe_7a52e9e62417,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Aspirin,,,,,,BDS001070,,,safe_1d7ea27844bd,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Aspirin,,,,,,BDS001077,,,safe_21efe445f322,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Nicergoline,,,,,,BDS003651,,,safe_358afd852443,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -557,8 +441,6 @@
 ,,Orlistat,,,,,,BDS004151,,,safe_3665ddeb734c,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ferrous fumarate + Folic + Pyridoxine hydrochloride,,,,,,BDS043159,,,safe_f4e4ec42df4e,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Ferrous Fumarate + Thiamine Mononitrate + Riboflavin + Cyanocobalamin,,,,,,BDS008045,,,safe_e81321f4e7b0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Folic Acid,,,,,,BDS007123,,,safe_9f1c42b9b964,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Folic Acid,,,,,,BDS006704,,,safe_6d5583a83cf8,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Dried Ferrous Sulfate + Aneurine HCl + Pyridoxine HCl + Cyanocobalamin,,,,,,BDS002101,,,safe_cc66c5b7b6c7,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Vit.A 5 + Vit.D + Vit.E + Vit. C,,,,,,BDS003027,,,safe_0de96024440f,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Acerola Cherry Extract + Rosehips Extract + Cranberry Extract + Ascorbic Acid,,,,,,BDS040014,,,safe_11f980a2150a,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -635,8 +517,6 @@
 ,,Betamethasone Dipropionate + Salicylic acid,,,,,,BDS001650,,,safe_630a6913f338,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Betamethasone Dipropionate + Salicylic acid,,,,,,BDS001546,,,safe_366c553b7c2a,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Betamethasone Dipropionate + Propylene Glycol,,,,,,BDS001699,,,safe_6c2370dd7551,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Mometasone Furoate,,,,,,BDS001803,,,safe_17ec466face9,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Mometasone Furoate,,,,,,BDS001807,,,safe_b92744ca1498,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Mometasone Furoate + Isopropyl Alcohol,,,,,,BDS001607,,,safe_c84cfe4224a2,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Betamethasone Dipropionate + Salicylic acid,,,,,,BDS006023,,,safe_860ccd6d87ab,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Desoximetasone,,,,,,BDS001825,,,safe_ee621edaa951,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
@@ -786,7 +666,6 @@
 ,,Chlorhexidine Gluconate,,,,,,BDS001406,,,safe_0e10ad1d0ec6,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Chlorhexidine Gluconate,,,,,,BDS001409,,,safe_581b79e61be3,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Povidone-Iodine eq. to Iodine,,,,,,BDS046547,,,safe_1d36ec067d78,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
-,,Levofloxacin,,,,,,BDS001462,,,safe_c589b2d812f6,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Gentamicin w/v + Preservative,,,,,,BDS001606,,,safe_43b3c4cdb7e0,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Moxifloxacin Hydrochloride + Boric Acid + Sodium Chloride + Hydrochloric Acid,,,,,,BDS004018,,,safe_d324812ee6a2,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
 ,,Nystatin 100 + Di-iodohydroxyquin + Benzalkonium Cl,,,,,,BDS002034,,,safe_7244f3d48903,False,workbook_seed_only,,,source-backed contraindications; interactions; side effects; pregnancy/renal/hepatic cautions
