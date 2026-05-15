@@ -9,13 +9,13 @@ Rows are unlocked only when exact source-backed field-level evidence passes vali
 - Evidence fields extracted: 1483
 - Full DailyMed product-label sources accepted: 182
 - Full DailyMed product-label unmatched/rejected: 486
-- RX NOW ready count: 35
-- SWAPS ready count: 24
+- RX NOW ready count: 11
+- SWAPS ready count: 7
 - Unique products RX-ready: 5
 - Unique generic names RX-ready: 5
 - Unique disease keys RX-ready: 17
 - Unique product+disease pairs RX-ready: 18
-- Duplicate ready row count: 41
+- Duplicate ready row count: 0
 - Pediatric formula-ready count: 4
 - Antibiotic gate-ready count: 0
 - 100% coverage ledger rows: 1272
