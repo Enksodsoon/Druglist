@@ -110,6 +110,11 @@ def test_main_builder_swap_action_contract_is_present():
     assert "activateMainSwap" in source
     assert "mainSwapPanelHtml" in source
     assert "data-testid=\"main-swap-panel\"" in source
+    assert "mainClassifySwaps" in source
+    assert "isTherapeuticSwapLine" in source
+    assert "same_generic_brand_alternative" in source
+    assert "same active ingredient" in source
+    assert "not a therapeutic Drug SWAP" in source
 
 
 def test_pediatric_mirror_controls_are_wired_bidirectionally():

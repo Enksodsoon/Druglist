@@ -230,10 +230,29 @@ def test_cached_accepted_evidence_requires_matching_row(monkeypatch, tmp_path):
 def test_swaps_are_verified_and_same_disease_mapped():
     rx = load("data/gold/rx_eligibility_map.json")
     assert rx["swaps_ready"]
+    module = gold_common()
+    rx_keys = {
+        (row["disease_key"], module.therapeutic_equivalence_key(row["generic_name"]))
+        for row in rx["rx_now_ready"]
+    }
+    swap_keys = [
+        (row["disease_key"], module.therapeutic_equivalence_key(row["generic_name"]))
+        for row in rx["swaps_ready"]
+    ]
+    assert len(swap_keys) == len(set(swap_keys))
+    assert all(key not in rx_keys for key in swap_keys)
     for row in rx["swaps_ready"]:
         assert row["source_ids"]
         assert row["disease_key"]
         assert row["final_rx_status"] in {"gold_ready_adult", "gold_ready_pediatric", "gold_ready_conditional", "conditional_use_when_criteria_met"}
+
+
+def test_same_generic_gold_swaps_are_review_only_not_drug_swaps():
+    rx = load("data/gold/rx_eligibility_map.json")
+    review_only = rx.get("swap_review_only", [])
+    assert review_only
+    assert any(row.get("swap_review_status") == "duplicate_therapeutic_alternative" for row in review_only)
+    assert all(row.get("swap_review_status") for row in review_only)
 
 
 def test_swap_tier_report_contains_verified_alternatives():

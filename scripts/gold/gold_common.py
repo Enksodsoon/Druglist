@@ -108,6 +108,7 @@ GOLD_JSON_FILES = [
 REVIEW_FILES = [
     "rx_now_ready_rows.csv",
     "swaps_ready_rows.csv",
+    "swap_review_only_rows.csv",
     "reference_only_rows.csv",
     "blocked_rows.csv",
     "not_ready_rows.csv",
@@ -1073,6 +1074,63 @@ def normalized_generic(value: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
+def therapeutic_equivalence_key(value: str) -> str:
+    text = normalized_generic(value)
+    text = re.sub(r"\b\d+(?:\.\d+)?\s*(mg|mcg|g|ml|%|iu|unit|units|dose|tab|tabs|cap|caps|capsule|tablet|strip|bottle)\b", " ", text)
+    parts = [part.strip() for part in text.split("+") if part.strip()]
+    return "+".join(sorted(parts)) if parts else re.sub(r"\s+", " ", text).strip()
+
+
+def dedupe_rows(rows: list[dict[str, Any]], fields: list[str]) -> list[dict[str, Any]]:
+    seen: set[tuple[str, ...]] = set()
+    out: list[dict[str, Any]] = []
+    for row in rows:
+        key = tuple(str(row.get(field, "")) for field in fields)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(row)
+    return out
+
+
+def split_therapeutic_swaps(
+    rx_now_ready: list[dict[str, Any]],
+    raw_swaps: list[dict[str, Any]],
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    rx_keys_by_disease: dict[str, set[str]] = defaultdict(set)
+    for row in rx_now_ready:
+        key = therapeutic_equivalence_key(str(row.get("generic_name", "")))
+        if key:
+            rx_keys_by_disease[str(row.get("disease_key", ""))].add(key)
+
+    swaps_ready: list[dict[str, Any]] = []
+    review_only: list[dict[str, Any]] = []
+    seen_swaps: set[tuple[str, str]] = set()
+    for row in raw_swaps:
+        disease_key = str(row.get("disease_key", ""))
+        generic_key = therapeutic_equivalence_key(str(row.get("generic_name", "")))
+        review_row = dict(row)
+        if not generic_key:
+            review_row["swap_review_status"] = "missing_generic_not_drug_swap"
+            review_row["swap_review_reason"] = "missing generic/composition for therapeutic swap comparison"
+            review_only.append(review_row)
+            continue
+        if generic_key in rx_keys_by_disease.get(disease_key, set()):
+            review_row["swap_review_status"] = "same_generic_brand_alternative"
+            review_row["swap_review_reason"] = "same active ingredient as RX NOW row; brand/form alternatives are not Drug SWAPS"
+            review_only.append(review_row)
+            continue
+        dedupe_key = (disease_key, generic_key)
+        if dedupe_key in seen_swaps:
+            review_row["swap_review_status"] = "duplicate_therapeutic_alternative"
+            review_row["swap_review_reason"] = "same active ingredient already listed as a therapeutic swap for this disease"
+            review_only.append(review_row)
+            continue
+        seen_swaps.add(dedupe_key)
+        swaps_ready.append(row)
+    return swaps_ready, review_only
+
+
 def strength_tokens(row: dict[str, str]) -> list[str]:
     text = " ".join([row.get("strength", ""), row.get("composition", ""), row.get("generic_name", "")]).lower()
     tokens = []
@@ -1642,16 +1700,17 @@ def build_gold_tables() -> dict[str, int]:
 def build_rx_eligibility() -> dict[str, int]:
     regimens = read_json(DATA_GOLD / "disease_regimen_gold.json", {"items": []}).get("items", [])
     products = read_json(DATA_GOLD / "product_master_gold.json", {"items": []}).get("items", [])
-    rx_now_ready = [
+    rx_now_ready = dedupe_rows([
         r for r in regimens
         if r.get("modality") == "RX NOW"
         and r.get("final_rx_status") in {"gold_ready_adult", "gold_ready_pediatric", "gold_ready_conditional"}
-    ]
-    swaps_ready = [
+    ], ["product_id", "disease_key"])
+    raw_swaps_ready = [
         r for r in regimens
         if r.get("modality") == "SWAP"
         and r.get("final_rx_status") in {"gold_ready_adult", "gold_ready_pediatric", "gold_ready_conditional", "conditional_use_when_criteria_met"}
     ]
+    swaps_ready, swap_review_only = split_therapeutic_swaps(rx_now_ready, raw_swaps_ready)
     reference_only = [p for p in products if p.get("reference_only_allowed") and not p.get("rx_eligible")]
     blocked = [r for r in regimens if r.get("final_rx_status") in {"source_conflict_hide_from_rx", "absolute_block", "not_recommended_for_this_disease"}]
     not_ready = [r for r in regimens if r.get("final_rx_status") in {"source_missing_hide_from_rx", "catalog_hidden_from_rx", "use_with_warning"}]
@@ -1660,6 +1719,7 @@ def build_rx_eligibility() -> dict[str, int]:
         "default_enabled": False,
         "rx_now_ready": rx_now_ready,
         "swaps_ready": swaps_ready,
+        "swap_review_only": swap_review_only,
         "reference_only_products": reference_only,
         "blocked_rows": blocked,
         "not_ready_rows": not_ready,
@@ -1668,6 +1728,7 @@ def build_rx_eligibility() -> dict[str, int]:
             "source_missing_hidden_from_rx": True,
             "source_conflict_hidden_from_rx": True,
             "catalog_only_hidden_from_prescribing": True,
+            "same_generic_brand_alternatives_not_drug_swaps": True,
         },
     }
     write_json(DATA_GOLD / "rx_eligibility_map.json", payload)
@@ -1675,10 +1736,11 @@ def build_rx_eligibility() -> dict[str, int]:
     for base in [DATA_GOLD / "review", DIST_GOLD / "review"]:
         write_csv(base / "rx_now_ready_rows.csv", rx_now_ready)
         write_csv(base / "swaps_ready_rows.csv", swaps_ready)
+        write_csv(base / "swap_review_only_rows.csv", swap_review_only)
         write_csv(base / "reference_only_rows.csv", reference_only)
         write_csv(base / "blocked_rows.csv", blocked)
         write_csv(base / "not_ready_rows.csv", not_ready)
-    return {"rx_now_ready": len(rx_now_ready), "swaps_ready": len(swaps_ready), "reference_only": len(reference_only), "blocked": len(blocked), "not_ready": len(not_ready)}
+    return {"rx_now_ready": len(rx_now_ready), "swaps_ready": len(swaps_ready), "swap_review_only": len(swap_review_only), "reference_only": len(reference_only), "blocked": len(blocked), "not_ready": len(not_ready)}
 
 
 def unique_coverage_reports() -> dict[str, int]:

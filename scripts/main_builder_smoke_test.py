@@ -14,21 +14,37 @@ RUNTIME = ROOT / "data/core/app_seed_runtime.json"
 REPORT = ROOT / "reports/main_builder_smoke_report.md"
 
 
-def choose_cases() -> tuple[str | None, str | None, str | None]:
+def norm_key(value: object) -> str:
+    return str(value or "").strip().lower()
+
+
+def choose_cases() -> tuple[str | None, str | None, str | None, str | None]:
     data = json.loads(RUNTIME.read_text(encoding="utf-8"))
+    products = {drug.get("i"): drug for drug in data.get("dr") or []}
     linked = None
     swap = None
+    same_generic_swap = None
     zoster = None
     herpes_fallback = None
     for complaint in data.get("cp") or []:
         has_lines = any(regimen.get("m") for regimen in (complaint.get("r") or []))
         if has_lines and not linked:
             linked = complaint.get("i")
-        has_swap = any(
-            "SWAP" in str(row.get("t") or row.get("s") or "").upper()
-            for regimen in (complaint.get("r") or [])
-            for row in (regimen.get("m") or [])
-        )
+        has_swap = False
+        for regimen in complaint.get("r") or []:
+            baseline_generics = {
+                norm_key(products.get(row.get("i"), {}).get("g") or row.get("n"))
+                for row in regimen.get("m") or []
+                if "SWAP" not in str(row.get("t") or row.get("s") or "").upper()
+            }
+            for row in regimen.get("m") or []:
+                is_swap = "SWAP" in str(row.get("t") or row.get("s") or "").upper()
+                if not is_swap:
+                    continue
+                has_swap = True
+                generic = norm_key(products.get(row.get("i"), {}).get("g") or row.get("n"))
+                if generic and generic in baseline_generics and not same_generic_swap:
+                    same_generic_swap = complaint.get("i")
         if has_lines and has_swap and not swap:
             swap = complaint.get("i")
         hay = " ".join(
@@ -45,9 +61,9 @@ def choose_cases() -> tuple[str | None, str | None, str | None]:
             zoster = complaint.get("i")
         if has_lines and not herpes_fallback and "herpes" in hay:
             herpes_fallback = complaint.get("i")
-        if linked and zoster and swap:
+        if linked and zoster and swap and same_generic_swap:
             break
-    return linked, zoster or herpes_fallback, swap
+    return linked, zoster or herpes_fallback, swap, same_generic_swap
 
 
 class QuietHandler(http.server.SimpleHTTPRequestHandler):
@@ -55,7 +71,12 @@ class QuietHandler(http.server.SimpleHTTPRequestHandler):
         return
 
 
-def run_browser(linked_id: str, zoster_id: str | None, swap_id: str | None) -> tuple[bool, list[str]]:
+def run_browser(
+    linked_id: str,
+    zoster_id: str | None,
+    swap_id: str | None,
+    same_generic_swap_id: str | None,
+) -> tuple[bool, list[str]]:
     try:
         from playwright.sync_api import sync_playwright
     except Exception as exc:  # pragma: no cover - exercised only on missing local deps.
@@ -97,7 +118,19 @@ def run_browser(linked_id: str, zoster_id: str | None, swap_id: str | None) -> t
                         page.wait_for_timeout(150)
                         if page.locator("#mainBuilder .main-swap-card.active").count() < 1:
                             messages.append("Drug SWAPS action did not activate a swap card")
+                if same_generic_swap_id:
+                    page.locator("#clearMain").click()
+                    page.wait_for_timeout(150)
+                    page.locator(f'#mainComplaints [data-c="{same_generic_swap_id}"]').click()
+                    page.wait_for_timeout(250)
+                    same_text = page.locator("#mainBuilder").inner_text(timeout=5000)
+                    if "not drug swaps" not in same_text.lower():
+                        messages.append("same-generic SWAP rows were not labeled as non-Drug-SWAP alternatives")
+                    if page.locator("#mainBuilder [data-mswap]").count() > 0:
+                        messages.append("same-generic SWAP rows rendered an actionable Drug SWAPS button")
                 if zoster_id:
+                    page.locator("#clearMain").click()
+                    page.wait_for_timeout(150)
                     page.locator(f'#mainComplaints [data-c="{zoster_id}"]').click()
                     page.wait_for_timeout(250)
                     z_text = page.locator("#mainBuilder").inner_text(timeout=5000)
@@ -112,13 +145,13 @@ def run_browser(linked_id: str, zoster_id: str | None, swap_id: str | None) -> t
 
 
 def main() -> int:
-    linked_id, zoster_id, swap_id = choose_cases()
+    linked_id, zoster_id, swap_id, same_generic_swap_id = choose_cases()
     messages: list[str] = []
     if not linked_id:
         messages.append("No complaint with linked regimen rows found in runtime seed.")
     passed = False
     if linked_id:
-        passed, messages = run_browser(linked_id, zoster_id, swap_id)
+        passed, messages = run_browser(linked_id, zoster_id, swap_id, same_generic_swap_id)
 
     REPORT.parent.mkdir(parents=True, exist_ok=True)
     REPORT.write_text(
@@ -129,6 +162,7 @@ def main() -> int:
                 f"- Linked complaint tested: {linked_id or 'none'}",
                 f"- Zoster/herpes complaint tested: {zoster_id or 'none'}",
                 f"- Swap complaint tested: {swap_id or 'none'}",
+                f"- Same-generic swap complaint tested: {same_generic_swap_id or 'none'}",
                 f"- Pass: {passed}",
                 "",
                 "## Messages",

@@ -5,8 +5,8 @@ This is the 100% coverage accountability ledger. It does not convert missing evi
 - total_coverage_rows: 1272
 - fully_verified_rows: 35
 - not_fully_verified_rows: 1237
-- rx_now_ready: 35
-- swaps_ready: 24
+- rx_now_ready: 11
+- swaps_ready: 7
 - pediatric_formula_ready: 4
 - antibiotic_gate_ready: 0
 - regimen_rows_with_guideline_proof: 313
