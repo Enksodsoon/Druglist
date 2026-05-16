@@ -133,6 +133,13 @@ def test_retain_design_behavior_fixes_are_present():
         assert token in source
 
 
+def test_topbar_global_search_removed_but_dashboard_search_remains():
+    source = html()
+    assert 'id="globalSearch"' not in source
+    assert "dashboardCommandSearch" in source
+    assert "$('globalSearch')" in source  # optional legacy sync path stays null-safe
+
+
 def test_pediatric_mirror_controls_are_wired_bidirectionally():
     source = html()
     assert "pedsAgeMirror" in source
