@@ -142,6 +142,24 @@ def test_retain_design_behavior_fixes_are_present():
         assert token in source
 
 
+def test_main_complaint_icons_are_grouped_by_disease_family():
+    source = html()
+    assert "function complaintIcon(c)" in source
+    for pattern, icon in [
+        ("resp|uri|cough|cold|throat", "≋"),
+        ("gi|gastro|diarr|abdomen", "◓"),
+        ("card|heart|chest", "♡"),
+        ("skin|rash|tinea", "◇"),
+        ("eye|conjunct|vision", "◉"),
+        ("neuro|headache|migraine", "⌁"),
+        ("uti|dysuria|urine", "⌬"),
+        ("pain|sprain|muscle", "✚"),
+    ]:
+        assert pattern in source
+        assert f"'{icon}'" in source
+    assert "const complaintIcon=c=>" not in source
+
+
 def test_topbar_global_search_removed_but_dashboard_search_remains():
     source = html()
     assert 'id="globalSearch"' not in source
@@ -155,6 +173,21 @@ def test_pediatric_mirror_controls_are_wired_bidirectionally():
     assert "pedsWeightMirror" in source
     assert "$('pedsAge')) $('pedsAge').value=e.target.value" in source
     assert "$('pedsWeight')) $('pedsWeight').value=e.target.value" in source
+
+
+def test_pediatric_curve_plots_age_or_weight_inputs():
+    source = html()
+    assert "function pedsVisualProfile(age,weight)" in source
+    assert "function pedsInputNumber(v)" in source
+    assert "raw===''?NaN:Number(raw)" in source
+    assert "const pa=pedsInputNumber(S.age), pw=pedsInputNumber(S.wt)" in source
+    assert "estAgeFromWeight" in source
+    assert "refWeight" in source
+    assert "Weight plotted" in source
+    assert "Age plotted" in source
+    assert "circle cx=\"${vp.x}\" cy=\"${vp.y}\"" in source
+    assert "line x1=\"${vp.x}\"" in source
+    assert "line x1=\"16\" y1=\"${vp.y}\"" in source
 
 
 def test_dist_deploy_entry_is_non_empty_when_present():
