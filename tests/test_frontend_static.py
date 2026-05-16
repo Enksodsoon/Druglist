@@ -105,6 +105,8 @@ def test_frontend_has_device_responsive_guardrails():
         ".layout-peds{grid-template-columns:minmax(0,1.12fr) 286px 286px!important",
         ".peds-hero-grid{grid-template-columns:minmax(340px,1.2fr) 290px!important",
         ".rule-studio{grid-template-columns:minmax(0,1fr) 328px!important",
+        ".drawer-panel{width:min(520px,82vw)!important",
+        ".detail-grid{grid-template-columns:130px minmax(0,1fr)!important",
     ]:
         assert token in source
 
