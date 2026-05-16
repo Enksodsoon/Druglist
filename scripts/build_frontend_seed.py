@@ -3,8 +3,10 @@
 from __future__ import annotations
 
 from collections import Counter
+import json
+import re
 
-from engine_common import load_embedded_seed, now_iso, read_json, write_json
+from engine_common import ROOT, load_embedded_seed, now_iso, read_json, write_json
 from runtime_readiness import readiness_for_med
 
 
@@ -155,7 +157,20 @@ def build() -> dict[str, object]:
         "clinical_status": "source_workbook_only_with_unverified_legacy_regimens",
     }
     write_json("data/core/app_seed_runtime.json", output)
+    inject_runtime_seed(output)
     return output["m"]
+
+
+def inject_runtime_seed(output: dict[str, object]) -> None:
+    """Keep the embedded file:// fallback identical to the generated runtime seed."""
+    index = ROOT / "index.html"
+    text = index.read_text(encoding="utf-8")
+    seed_min = json.dumps(output, ensure_ascii=False, separators=(",", ":"))
+    pattern = r'(<script id="seed" type="application/json">)(.*?)(</script>)'
+    next_text, count = re.subn(pattern, rf"\1{seed_min}\3", text, count=1, flags=re.S)
+    if count != 1:
+        raise RuntimeError("seed script block not found in index.html")
+    index.write_text(next_text, encoding="utf-8")
 
 
 def annotate_runtime_complaints(complaints: list[dict[str, object]], product_by_id: dict[str, dict[str, object]]) -> list[dict[str, object]]:
