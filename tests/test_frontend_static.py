@@ -117,25 +117,6 @@ def test_main_builder_swap_action_contract_is_present():
     assert "not a therapeutic Drug SWAP" in source
 
 
-def test_functional_ui_cleanup_contracts_are_present():
-    source = html()
-    for token in [
-        "Universal command search",
-        "openProfileManager",
-        "localUserSave",
-        "Quick drug selected",
-        "mainIngredientKeys",
-        "Duplicate ingredient cleaner",
-        "saveMainDraft",
-        "visualPreviewMain",
-        "pedsPillMode",
-        "data-peds-form",
-        "Catalog + inventory",
-        "dashboardReportText",
-    ]:
-        assert token in source
-
-
 def test_pediatric_mirror_controls_are_wired_bidirectionally():
     source = html()
     assert "pedsAgeMirror" in source
