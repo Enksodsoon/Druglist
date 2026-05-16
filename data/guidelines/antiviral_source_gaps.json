@@ -1,7 +1,7 @@
 {
   "meta": {
     "generated_at": "2026-05-02T06:45:17Z",
-    "gap_count": 15
+    "gap_count": 17
   },
   "items": [
     {
@@ -192,6 +192,36 @@
       "gap_id": "AV_GAP_HERPES_ZOSTER_ADULT_DISEASE_REGIMEN",
       "disease_key": "herpes_zoster_adult",
       "regimen_id": "FRM0027",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "indication",
+        "adult dose",
+        "frequency",
+        "duration",
+        "timing window",
+        "red flags"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_GENITAL_HERPES_FIRST_EPISODE_ADULT_DISEASE_REGIMEN",
+      "disease_key": "genital_herpes_first_episode_adult",
+      "regimen_id": "PATCH_FRM_CDC_HSV_FIRST_20260516",
+      "clinical_domain": "antiviral",
+      "evidence_needed": [
+        "indication",
+        "adult dose",
+        "frequency",
+        "duration",
+        "timing window",
+        "red flags"
+      ],
+      "status": "pending_source_collection"
+    },
+    {
+      "gap_id": "AV_GAP_GENITAL_HERPES_RECURRENT_ADULT_DISEASE_REGIMEN",
+      "disease_key": "genital_herpes_recurrent_adult",
+      "regimen_id": "PATCH_FRM_CDC_HSV_RECURRENT_20260516",
       "clinical_domain": "antiviral",
       "evidence_needed": [
         "indication",

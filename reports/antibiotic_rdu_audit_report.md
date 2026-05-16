@@ -2,9 +2,9 @@
 
 Generated: 2026-05-02T06:45:17Z
 
-- Issues: 48
+- Issues: 91
 - Blockers: 35
-- High: 13
+- High: 56
 - Medium: 0
 - Low: 0
 

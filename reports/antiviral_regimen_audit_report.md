@@ -10,7 +10,7 @@ Generated: 2026-05-02T06:45:17Z
 
 No dose, duration, indication, or source was fabricated by this audit.
 
-- Antiviral source gaps: 15
+- Antiviral source gaps: 17
 
 ## Top Issues
 - `AV_FRM0026_RX1_BDS008064` high unsupported_antiviral_regimen herpes_labialis_adult BDS008064: block_until_source_verified

@@ -21,6 +21,7 @@ STEPS = [
     "scripts/build_pediatric_layer.py",
     "scripts/build_safety_layer.py",
     "scripts/build_runtime_json.py",
+    "scripts/import_guideline_patch_workbook.py",
     "scripts/clinical_regimen_audit.py",
     "scripts/antiviral_regimen_audit.py",
     "scripts/pediatric_source_gap_audit.py",

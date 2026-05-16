@@ -1,0 +1,462 @@
+{
+  "meta": {
+    "generated_at": "2026-05-16T17:09:31Z",
+    "manual_review": true,
+    "shortcut_count": 30
+  },
+  "items": [
+    {
+      "shortcut_id": "ADD_OR_UPDATE",
+      "product_id": "",
+      "display_name": "BDS001496",
+      "disease_id": "PDS_PATCH_UTI_CIPRO_EXCEPTION_001",
+      "drug_slot": "febrile_uti_peds_gate",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "ADD_OR_UPDATE_ROW",
+      "product_id": "",
+      "display_name": "",
+      "disease_id": "PDS_AAN_MIGRAINE_ANTIMETIC_REVIEW_20260516",
+      "drug_slot": "migraine_peds_acute",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "NO_PATCH_FROM_THIS_SOURCE",
+      "product_id": "",
+      "display_name": "NA",
+      "disease_id": "tinnitus_peds",
+      "drug_slot": "NA",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PDS_AR_AVAMYS_2Y_11Y",
+      "product_id": "BDS001009",
+      "display_name": "Avamys [Fluticasone furoate 27.5 mcg/spray+Preservative (Benzalkonium Chloride)+อื่นๆ]",
+      "disease_id": "allergic_rhinitis_peds",
+      "drug_slot": "SWAP2",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022",
+        "SRC_TABLE_32_PEDIATRIC_INTRANASAL_STEROID"
+      ],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PDS_AR_CET_12M_23M",
+      "product_id": "BDS004212",
+      "display_name": "Zyrtec Syrup [Cetirizine 2HCI 1 mg./1 ml.]",
+      "disease_id": "allergic_rhinitis_peds",
+      "drug_slot": "RX1",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022",
+        "SRC_TABLE_33_PEDIATRIC_ORAL_MEDS"
+      ],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PDS_AR_CET_2Y_5Y",
+      "product_id": "BDS004212",
+      "display_name": "Zyrtec Syrup [Cetirizine 2HCI 1 mg./1 ml.]",
+      "disease_id": "allergic_rhinitis_peds",
+      "drug_slot": "RX1",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022",
+        "SRC_TABLE_33_PEDIATRIC_ORAL_MEDS"
+      ],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PDS_AR_CET_6M_11M",
+      "product_id": "BDS004212",
+      "display_name": "Zyrtec Syrup [Cetirizine 2HCI 1 mg./1 ml.]",
+      "disease_id": "allergic_rhinitis_peds",
+      "drug_slot": "RX1",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022",
+        "SRC_TABLE_33_PEDIATRIC_ORAL_MEDS"
+      ],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PDS_AR_CET_6Y_PLUS",
+      "product_id": "BDS004212",
+      "display_name": "Zyrtec Syrup [Cetirizine 2HCI 1 mg./1 ml.]",
+      "disease_id": "allergic_rhinitis_peds",
+      "drug_slot": "RX1",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022",
+        "SRC_TABLE_33_PEDIATRIC_ORAL_MEDS"
+      ],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PDS_AR_DESLOR_1Y_5Y",
+      "product_id": "BDS001015",
+      "display_name": "Aerius Syrup [Desloratadine 0.5 mg./1 ml.]",
+      "disease_id": "allergic_rhinitis_peds",
+      "drug_slot": "SWAP1",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022",
+        "SRC_TABLE_33_PEDIATRIC_ORAL_MEDS"
+      ],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PDS_AR_DESLOR_6M_11M",
+      "product_id": "BDS001015",
+      "display_name": "Aerius Syrup [Desloratadine 0.5 mg./1 ml.]",
+      "disease_id": "allergic_rhinitis_peds",
+      "drug_slot": "SWAP1",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022",
+        "SRC_TABLE_33_PEDIATRIC_ORAL_MEDS"
+      ],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PDS_AR_DESLOR_6Y_11Y",
+      "product_id": "BDS001015",
+      "display_name": "Aerius Syrup [Desloratadine 0.5 mg./1 ml.]",
+      "disease_id": "allergic_rhinitis_peds",
+      "drug_slot": "SWAP1",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022",
+        "SRC_TABLE_33_PEDIATRIC_ORAL_MEDS"
+      ],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PDS_AR_MOM_12Y_PLUS",
+      "product_id": "BDS002805",
+      "display_name": "Nasonex 60 doses [Mometasone Furoate Monohydrate (eq. to Mometasone Furoate 50 mcg/dose)+Preservative (Benzalkonium Chloride 0.2 mg/g)]",
+      "disease_id": "allergic_rhinitis_peds",
+      "drug_slot": "RX3",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022",
+        "SRC_TABLE_32_PEDIATRIC_INTRANASAL_STEROID"
+      ],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PDS_AR_MOM_2Y_11Y",
+      "product_id": "BDS002805",
+      "display_name": "Nasonex 60 doses [Mometasone Furoate Monohydrate (eq. to Mometasone Furoate 50 mcg/dose)+Preservative (Benzalkonium Chloride 0.2 mg/g)]",
+      "disease_id": "allergic_rhinitis_peds",
+      "drug_slot": "RX3",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022",
+        "SRC_TABLE_32_PEDIATRIC_INTRANASAL_STEROID"
+      ],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PDS_EPI_DECONG_AVOID_U2",
+      "product_id": "BDS002215",
+      "display_name": "Iliadin Spray [Oxymetazoline Hydrochloride 0.05% (0.5 mg./1 ml.)]",
+      "disease_id": "epistaxis_peds",
+      "drug_slot": "RX2",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022_PASTED_TEXT_2_TXT_TH",
+        "SRC_PEDS_DECONGESTANT_CAUTION_EPISTAXIS_TOPICAL_DECONGESTANT_PROCEDURE_USE"
+      ],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_CG99_PEG_DISIMPACTION",
+      "product_id": "",
+      "display_name": "PEG 3350 + electrolytes [macrogol product review]",
+      "disease_id": "constipation_child_disimpaction",
+      "drug_slot": "DISIMPACTION",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_CG99_PEG_MAINTENANCE",
+      "product_id": "",
+      "display_name": "PEG 3350 + electrolytes [macrogol product review]",
+      "disease_id": "constipation_child_maintenance",
+      "drug_slot": "MAINTENANCE",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_CG99_STIMULANT_LAXATIVE",
+      "product_id": "",
+      "display_name": "Stimulant laxative [product review]",
+      "disease_id": "constipation_child_maintenance",
+      "drug_slot": "ADD_ON",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_NG153_CLARI_12_17Y",
+      "product_id": "",
+      "display_name": "Clarithromycin [not in workbook]",
+      "disease_id": "impetigo_bullous_systemic_highrisk",
+      "drug_slot": "PEN_ALLERGY_ALT",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_NG153_CLARI_12_19KG",
+      "product_id": "",
+      "display_name": "Clarithromycin [not in workbook]",
+      "disease_id": "impetigo_bullous_systemic_highrisk",
+      "drug_slot": "PEN_ALLERGY_ALT",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_NG153_CLARI_20_29KG",
+      "product_id": "",
+      "display_name": "Clarithromycin [not in workbook]",
+      "disease_id": "impetigo_bullous_systemic_highrisk",
+      "drug_slot": "PEN_ALLERGY_ALT",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_NG153_CLARI_30_40KG",
+      "product_id": "",
+      "display_name": "Clarithromycin [not in workbook]",
+      "disease_id": "impetigo_bullous_systemic_highrisk",
+      "drug_slot": "PEN_ALLERGY_ALT",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_NG153_CLARI_8_11KG",
+      "product_id": "",
+      "display_name": "Clarithromycin [not in workbook]",
+      "disease_id": "impetigo_bullous_systemic_highrisk",
+      "drug_slot": "PEN_ALLERGY_ALT",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_NG153_CLARI_LT8KG",
+      "product_id": "",
+      "display_name": "Clarithromycin [not in workbook]",
+      "disease_id": "impetigo_bullous_systemic_highrisk",
+      "drug_slot": "PEN_ALLERGY_ALT",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_NG153_FLUCLOX_10_17Y",
+      "product_id": "",
+      "display_name": "Flucloxacillin [not in workbook]",
+      "disease_id": "impetigo_bullous_systemic_highrisk",
+      "drug_slot": "ORAL_ABX",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_NG153_FLUCLOX_1M_1Y",
+      "product_id": "",
+      "display_name": "Flucloxacillin [not in workbook]",
+      "disease_id": "impetigo_bullous_systemic_highrisk",
+      "drug_slot": "ORAL_ABX",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_NG153_FLUCLOX_2_9Y",
+      "product_id": "",
+      "display_name": "Flucloxacillin [not in workbook]",
+      "disease_id": "impetigo_bullous_systemic_highrisk",
+      "drug_slot": "ORAL_ABX",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_PH56_VITD_AGE_4_PLUS",
+      "product_id": "",
+      "display_name": "Vitamin D supplement [product review]",
+      "disease_id": "vitamin_d_prevention_specific_groups",
+      "drug_slot": "VITAMIN_D_PREVENTION",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_PH56_VITD_CHILD_1_4Y",
+      "product_id": "",
+      "display_name": "Vitamin D supplement/drops [product review]",
+      "disease_id": "vitamin_d_prevention_specific_groups",
+      "drug_slot": "VITAMIN_D_PREVENTION",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "PATCH_PEDS_PH56_VITD_INFANT_0_12M",
+      "product_id": "",
+      "display_name": "Vitamin D drops [product review]",
+      "disease_id": "vitamin_d_prevention_specific_groups",
+      "drug_slot": "VITAMIN_D_PREVENTION",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "shortcut_id": "Patch_Action",
+      "product_id": "",
+      "display_name": "Age_Max_Months",
+      "disease_id": "Shortcut_ID",
+      "drug_slot": "Disease_Key",
+      "dose_output_status": "manual_review",
+      "auto_dose_enabled": false,
+      "source_ids": [],
+      "review_reasons": [
+        "missing exact product/dose/age-weight/frequency/duration/source requirement"
+      ],
+      "import_source": "guideline_patch_20260516"
+    }
+  ]
+}

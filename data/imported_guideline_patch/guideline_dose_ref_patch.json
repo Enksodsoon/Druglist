@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "generated_at": "2026-05-16T17:09:30Z",
+    "sheet": "COPY_Guideline_Dose_Ref",
+    "input_workbook": "/Users/a12/Downloads/druglist_patch_organized_merge_ready_20260516.xlsx",
+    "row_count": 14
+  },
+  "items": [
+    {
+      "Generic/Class": "Psyllium/Ispaghula",
+      "Guideline_Dose": "5–10 g OD or divided; workbook products use sachet OD–TID",
+      "Use_Position": "Mild constipation / fiber supplement",
+      "Key_Caution": "Start low; take with adequate water; bloating",
+      "Workbook_Product_Status": "Available: Fybogel, Mucilin",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "2",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "2"
+    },
+    {
+      "Generic/Class": "Milk of magnesia",
+      "Guideline_Dose": "15–45 mL OD",
+      "Use_Position": "Osmotic option",
+      "Key_Caution": "Avoid/caution renal impairment; hypermagnesemia risk",
+      "Workbook_Product_Status": "Available: Milk of Magnesia C.B.",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "3",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "3"
+    },
+    {
+      "Generic/Class": "PEG/Macrogol",
+      "Guideline_Dose": "10–20 g OD; workbook Forlax 10 g OD–BID",
+      "Use_Position": "Preferred osmotic conventional laxative",
+      "Key_Caution": "Hydration; loose stool/bloating",
+      "Workbook_Product_Status": "Available: Forlax",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "4",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "4"
+    },
+    {
+      "Generic/Class": "Lactulose",
+      "Guideline_Dose": "15–30 mL OD–BID",
+      "Use_Position": "Osmotic alternative",
+      "Key_Caution": "Bloating/distension; avoid galactosemia; caution lactose intolerance",
+      "Workbook_Product_Status": "Available: Duphalac/Hepalac/Losalac",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "5",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "5"
+    },
+    {
+      "Generic/Class": "Bisacodyl",
+      "Guideline_Dose": "5–10 mg OD HS",
+      "Use_Position": "Stimulant rescue/short course",
+      "Key_Caution": "Cramp/diarrhea; avoid long-term daily use; avoid milk/antacid close to dose",
+      "Workbook_Product_Status": "Available: Dulcolax/Emulax/Bisacod",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "6",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "6"
+    },
+    {
+      "Generic/Class": "Senna",
+      "Guideline_Dose": "15–20 mg OD",
+      "Use_Position": "Stimulant laxative option in guideline",
+      "Key_Caution": "Cramp/diarrhea; melanosis coli; long-term caution",
+      "Workbook_Product_Status": "NO WORKBOOK PRODUCT FOUND — manual review",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "7",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "7"
+    },
+    {
+      "Generic/Class": "Bisacodyl suppository",
+      "Guideline_Dose": "10 mg PR PRN",
+      "Use_Position": "Rapid rectal stimulant option",
+      "Key_Caution": "Rectal burning/cramp; not found as workbook product",
+      "Workbook_Product_Status": "NO WORKBOOK PRODUCT FOUND — manual review",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "8",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "8"
+    },
+    {
+      "Generic/Class": "Glycerin suppository",
+      "Guideline_Dose": "1 supp PR PRN",
+      "Use_Position": "Rectal stool/rapid rectal relief",
+      "Key_Caution": "Rectal irritation; avoid severe pain/bleeding/obstruction",
+      "Workbook_Product_Status": "Available: adult/infant/children products",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "9",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "9"
+    },
+    {
+      "Generic/Class": "Sodium phosphate enema",
+      "Guideline_Dose": "Manual/special caution only",
+      "Use_Position": "Not auto-RX",
+      "Key_Caution": "High-risk elderly/renal/heart/neuro; electrolyte disturbance/dehydration",
+      "Workbook_Product_Status": "NO AUTO-RX",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "10",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "10"
+    },
+    {
+      "Generic/Class": "Prucalopride",
+      "Guideline_Dose": "2 mg OD; elderly start 1 mg OD; CrCl <30 use 1 mg OD; avoid dialysis",
+      "Use_Position": "New agent after conventional failure",
+      "Key_Caution": "Diarrhea, nausea, abdominal pain, headache; manual review",
+      "Workbook_Product_Status": "NO WORKBOOK PRODUCT FOUND",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "11",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "11"
+    },
+    {
+      "Generic/Class": "Lubiprostone",
+      "Guideline_Dose": "24 mcg BID with food",
+      "Use_Position": "New agent after conventional failure",
+      "Key_Caution": "Nausea, diarrhea, abdominal pain; manual review",
+      "Workbook_Product_Status": "NO WORKBOOK PRODUCT FOUND",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "12",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "12"
+    },
+    {
+      "Generic/Class": "Elobixibat",
+      "Guideline_Dose": "10 mg OD",
+      "Use_Position": "New agent after conventional failure",
+      "Key_Caution": "Abdominal pain, diarrhea; manual review",
+      "Workbook_Product_Status": "NO WORKBOOK PRODUCT FOUND",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "13",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "13"
+    },
+    {
+      "Generic/Class": "Linaclotide",
+      "Guideline_Dose": "72 or 145 mcg OD",
+      "Use_Position": "Other new agent; not main Thai first-line patch",
+      "Key_Caution": "Diarrhea; availability/manual review",
+      "Workbook_Product_Status": "NO WORKBOOK PRODUCT FOUND",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "14",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "14"
+    },
+    {
+      "Generic/Class": "Plecanatide",
+      "Guideline_Dose": "3 mg OD",
+      "Use_Position": "Other new agent; not main Thai first-line patch",
+      "Key_Caution": "Diarrhea; availability/manual review",
+      "Workbook_Product_Status": "NO WORKBOOK PRODUCT FOUND",
+      "Merge_Action": "KEEP",
+      "Original_Sheet": "Guideline_dose ref",
+      "Original_Row": "15",
+      "_sheet": "COPY_Guideline_Dose_Ref",
+      "_workbook_row": "15"
+    }
+  ]
+}

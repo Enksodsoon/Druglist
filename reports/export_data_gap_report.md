@@ -15,10 +15,10 @@
 
 ## Counts
 
-- Missing product_id regimen rows: 0
+- Missing product_id regimen rows: 431
 - Missing disease_key regimen rows: 0
-- Source-unverified regimen rows: 987
-- Blocked/manual-review regimen rows: 513
+- Source-unverified regimen rows: 1750
+- Blocked/manual-review regimen rows: 691
 
 ## Duplicate Product Names
 

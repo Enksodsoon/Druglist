@@ -1,20 +1,16 @@
 {
   "meta": {
     "generated_at": "2026-05-02T06:45:17Z",
-    "regimen_count": 133
+    "regimen_count": 412
   },
   "items": [
     {
       "regimen_id": "FRM0001",
       "disease_key": "allergic_rhinitis_adult",
-      "regimen_safety_status": "warning",
-      "duplicate_roles": [
-        "antihistamine"
-      ],
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
       "blocked_reasons": [],
-      "warnings": [
-        "duplicate therapeutic roles: antihistamine"
-      ],
+      "warnings": [],
       "suggested_removal": []
     },
     {
@@ -1247,6 +1243,2541 @@
     {
       "regimen_id": "FRM0133",
       "disease_key": "dental_abscess_support_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "FRM_PEDS_EXISTING_AGE",
+      "disease_key": "acute_gastroenteritis_peds_mild",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAN_ADULT_MIGRAINE_PREVENTION_20260516",
+      "disease_key": "migraine_adult_prevention_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAN_DPN_20260516",
+      "disease_key": "painful_diabetic_polyneuropathy_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAN_MIGRAINE_ADULT_ACUTE_20260516",
+      "disease_key": "migraine_adult",
+      "regimen_safety_status": "warning",
+      "duplicate_roles": [
+        "nsaid"
+      ],
+      "blocked_reasons": [],
+      "warnings": [
+        "duplicate therapeutic roles: nsaid"
+      ],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAN_MIGRAINE_PEDS_ACUTE_20260516",
+      "disease_key": "migraine_peds_acute",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAN_MUSCLE_CRAMPS_20260516",
+      "disease_key": "muscle_cramps_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAN_PEDS_MIGRAINE_PREVENTION_20260516",
+      "disease_key": "migraine_peds_prevention_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAO_BACTERIAL_KERATITIS_URGENT_20260516",
+      "disease_key": "bacterial_keratitis_suspected_urgent",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAO_BACT_CONJ_ADULT_GATE_20260516",
+      "disease_key": "bacterial_conjunctivitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAO_BACT_CONJ_PEDS_GATE_20260516",
+      "disease_key": "bacterial_conjunctivitis_peds",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAO_CORNEAL_ABRASION_CL_TRAUMA_20260516",
+      "disease_key": "corneal_abrasion_contact_lens_or_trauma",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAO_OCULAR_HYPERTENSION_20260516",
+      "disease_key": "ocular_hypertension_eval",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAO_POAG_SUSPECT_20260516",
+      "disease_key": "poag_suspect_eval",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ACG_GERD_20260516",
+      "disease_key": "gerd_uncomplicated_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ACG_GERD_NOCTURNAL_20260516",
+      "disease_key": "gerd_nocturnal_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ACG_GERD_REFRACTORY_20260516",
+      "disease_key": "gerd_alarm_or_refractory",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ACG_HP_CONFIRMED_20260516",
+      "disease_key": "h_pylori_confirmed_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ACG_HP_TEST_TREAT_20260516",
+      "disease_key": "h_pylori_test_and_treat_dyspepsia",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AD_INFECTED_20260516",
+      "disease_key": "atopic_dermatitis_infected_localized",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AD_INFECT_20260516",
+      "disease_key": "atopic_dermatitis_infected_localized",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AD_MAINT_20260516",
+      "disease_key": "atopic_dermatitis_maintenance_advice",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AD_MILD_20260516",
+      "disease_key": "atopic_dermatitis_mild_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AD_MILD_ADULT_20260516",
+      "disease_key": "atopic_dermatitis_mild_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AD_MOD_20260516",
+      "disease_key": "atopic_dermatitis_moderate_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AD_MOD_ADULT_20260516",
+      "disease_key": "atopic_dermatitis_moderate_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AD_PEDS_MILD_20260516",
+      "disease_key": "atopic_dermatitis_peds_mild",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AD_SENSITIVE_ADULT_20260516",
+      "disease_key": "atopic_dermatitis_sensitive_area_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AD_SEVERE_GATE_20260516",
+      "disease_key": "atopic_dermatitis_severe_referral_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AD_SEV_20260516",
+      "disease_key": "atopic_dermatitis_severe_specialist",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ANGIO_ANA_20260516",
+      "disease_key": "angioedema_anaphylaxis_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AR_ADULT_20260516",
+      "disease_key": "allergic_rhinitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AR_CONG_20260516",
+      "disease_key": "allergic_rhinitis_congestion_adult",
+      "regimen_safety_status": "warning",
+      "duplicate_roles": [
+        "antihistamine"
+      ],
+      "blocked_reasons": [],
+      "warnings": [
+        "duplicate therapeutic roles: antihistamine"
+      ],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AR_MODSEV_ADULT_20260516",
+      "disease_key": "moderate_severe_allergic_rhinitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AR_PEDS_20260516",
+      "disease_key": "allergic_rhinitis_peds",
+      "regimen_safety_status": "warning",
+      "duplicate_roles": [
+        "antihistamine"
+      ],
+      "blocked_reasons": [],
+      "warnings": [
+        "duplicate therapeutic roles: antihistamine"
+      ],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ASCVD_SECONDARY_20260516",
+      "disease_key": "clinical_ascvd_secondary_prevention",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ASTHMA_EXACERB_20260516",
+      "disease_key": "asthma_exacerbation_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ASTHMA_MILD_INIT_20260516",
+      "disease_key": "asthma_mild_initial_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ASTHMA_SUSPECT_20260516",
+      "disease_key": "asthma_suspected_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AUB_TRIAGE_20260516",
+      "disease_key": "abnormal_uterine_bleeding_triage",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AV_ADULT_20260516",
+      "disease_key": "aerobic_vaginitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AXSPA_ACTIVE_TARGET_GATE_20260516",
+      "disease_key": "axspa_known_active_specialist_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AXSPA_TRIAGE_20260516",
+      "disease_key": "axspa_inflammatory_back_pain_triage",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_BARRETT_ADULT_20260516",
+      "disease_key": "barrett_oesophagus_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_BELL_ADULT_20260516",
+      "disease_key": "bells_palsy_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_BELL_PEDS_20260516",
+      "disease_key": "bells_palsy_peds",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_BPPV_GENERAL_ADULT_20260516",
+      "disease_key": "bppv_adult_general",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_BV_ADULT_20260516",
+      "disease_key": "bacterial_vaginosis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CDC_BRONCHITIS_NOABX_20260516",
+      "disease_key": "acute_bronchitis_adult_no_abx",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CDC_COMMON_COLD_ADULT_20260516",
+      "disease_key": "common_cold_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CDC_CYSTITIS_ADULT_20260516",
+      "disease_key": "acute_uncomplicated_cystitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CDC_GAS_ADULT_20260516_V2",
+      "disease_key": "gas_pharyngitis_adult_confirmed",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CDC_GAS_CHILD_20260516",
+      "disease_key": "gas_pharyngitis_child_confirmed",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CDC_GAS_PHARYNGITIS_ADULT_20260516",
+      "disease_key": "gas_pharyngitis_adult_confirmed",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CDC_HSV_FIRST_20260516",
+      "disease_key": "genital_herpes_first_episode_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CDC_HSV_RECURRENT_20260516",
+      "disease_key": "genital_herpes_recurrent_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CDC_SINUSITIS_ADULT_20260516",
+      "disease_key": "bacterial_sinusitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CERUMEN_ADULT_20260516",
+      "disease_key": "cerumen_impaction_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CERUMEN_PEDS_20260516",
+      "disease_key": "cerumen_impaction_peds",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CONFIRMED_OSA_COMORB_ADULT_20260516",
+      "disease_key": "confirmed_osa_major_comorbidity_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CONFIRMED_OSA_NO_COMORB_ADULT_20260516",
+      "disease_key": "confirmed_osa_no_major_comorbidity_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CONSTIP_ALARM_ADULT_20260516",
+      "disease_key": "constipation_alarm_features_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CONSTIP_MILD_ADULT_20260516",
+      "disease_key": "functional_constipation_adult_mild",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CONSTIP_MOD_ADULT_20260516",
+      "disease_key": "functional_constipation_adult_moderate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CONTRACEPT_COMPLEX_20260516",
+      "disease_key": "contraception_complex_medical_condition",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CSU_20260516",
+      "disease_key": "chronic_spontaneous_urticaria_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CT_ADULT_20260516",
+      "disease_key": "chlamydial_cervicitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_CYTOLYTIC_ADULT_20260516",
+      "disease_key": "cytolytic_vaginitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_DEFECATION_DISORDER_ADULT_20260516",
+      "disease_key": "defecation_disorder_constipation_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_DM_CKD_ADULT_20260516",
+      "disease_key": "diabetes_ckd_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_DM_DYSLIPID_20260516",
+      "disease_key": "diabetes_dyslipidemia_primary",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_DM_HYPO_ADULT_20260516",
+      "disease_key": "hypoglycemia_diabetes_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_DM_SCREEN_ADULT_20260516",
+      "disease_key": "diabetes_screening_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_DRESS_20260516",
+      "disease_key": "dress_dhs_suspected_er_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_DYSLIPID_SCREEN_20260516",
+      "disease_key": "dyslipidemia_screening_risk_assessment",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ENDOMETRIOMA_TRIAGE_20260516",
+      "disease_key": "endometrioma_triage",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ENDOMETRIOSIS_PAIN_20260516",
+      "disease_key": "endometriosis_pain_suspected",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ENDO_POSTOP_PREVENT_20260516",
+      "disease_key": "endometriosis_postop_recurrence_prevention",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_EPI_ADULT_20260516",
+      "disease_key": "epistaxis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_EPI_PEDS_20260516",
+      "disease_key": "epistaxis_peds",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_FEB_UTI_20260516",
+      "disease_key": "febrile_uti_peds_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_FECAL_IMPACTION_ADULT_20260516",
+      "disease_key": "fecal_impaction_constipation_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_FUNCTIONAL_HEARTBURN_20260516",
+      "disease_key": "functional_heartburn_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_FWS_0_28D_20260516",
+      "disease_key": "fever_without_source_peds_0_28d_er_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_FWS_1_3MO_HIGH_20260516",
+      "disease_key": "fever_without_source_peds_1_3mo_highrisk_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_FWS_1_3MO_LOW_20260516",
+      "disease_key": "fever_without_source_peds_1_3mo_lowrisk",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_FWS_3_36_HIGH_20260516",
+      "disease_key": "fever_without_source_peds_3_36mo_highfever_nontoxic_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_FWS_3_36_LOW_20260516",
+      "disease_key": "fever_without_source_peds_3_36mo_lowfever_nontoxic",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_FWS_3_36_TOXIC_20260516",
+      "disease_key": "fever_without_source_peds_3_36mo_toxic_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_GC_ADULT_20260516",
+      "disease_key": "gonococcal_cervicitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_GDM_SCREEN_20260516",
+      "disease_key": "gestational_diabetes_screening",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_GERD_ADULT_20260516",
+      "disease_key": "uncomplicated_gerd_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_GYN_DISCHARGE_TRIAGE_20260516",
+      "disease_key": "abnormal_vaginal_discharge_triage",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HARD_STOOL_ADULT_20260516",
+      "disease_key": "hard_stool_constipation_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HMB_STABLE_20260516",
+      "disease_key": "heavy_menstrual_bleeding_stable",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HTN_CKD_ALB_20260516",
+      "disease_key": "hypertension_ckd_albuminuria_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HTN_CRISIS_20260516",
+      "disease_key": "hypertensive_crisis_triage",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HTN_EMERG_20260516",
+      "disease_key": "hypertension_emergency_er_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HTN_G1_LOW_20260516",
+      "disease_key": "hypertension_grade1_lowrisk_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HTN_G2_HIGH_20260516",
+      "disease_key": "hypertension_grade2_or_highrisk_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HTN_NEW_20260516",
+      "disease_key": "hypertension_newly_detected_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HTN_PREG_20260516",
+      "disease_key": "hypertension_pregnancy_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HT_CKD_ALB_ADULT_20260516",
+      "disease_key": "hypertension_ckd_albuminuria_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HT_DM_ADULT_20260516",
+      "disease_key": "hypertension_diabetes_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HT_G1_HIGH_ADULT_20260516",
+      "disease_key": "hypertension_grade1_highrisk_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HT_G1_LOW_ADULT_20260516",
+      "disease_key": "hypertension_grade1_lowrisk_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HT_G2_ADULT_20260516",
+      "disease_key": "hypertension_grade2_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HT_G3_ADULT_20260516",
+      "disease_key": "hypertension_grade3_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HT_PREG_ADULT_20260516",
+      "disease_key": "hypertension_pregnancy_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HT_RISK_REDUCTION_20260516",
+      "disease_key": "hypertension_cv_risk_reduction_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_HT_SCREEN_ADULT_20260516",
+      "disease_key": "hypertension_screening_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IBSC_ADULT_20260516",
+      "disease_key": "ibs_c_constipation_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IDSA_ABRS_ADULT_20260516_V2",
+      "disease_key": "bacterial_sinusitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IDSA_ABRS_CHILD_20260516",
+      "disease_key": "bacterial_sinusitis_child",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IDSA_BLOODY_DIARRHEA_ADULT_20260516",
+      "disease_key": "acute_bloody_diarrhea_adult_eval",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IDSA_DIARRHEA_WATERY_ADULT_20260516",
+      "disease_key": "acute_watery_diarrhea_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IDSA_GASTRO_MILD_ADULT_20260516",
+      "disease_key": "gastroenteritis_mild_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IDSA_GASTRO_PEDS_MILD_20260516",
+      "disease_key": "acute_gastroenteritis_peds_mild",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IDSA_GAS_SCORE_ADULT_20260516",
+      "disease_key": "gas_pharyngitis_adult_confirmed",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IDSA_GAS_SCORE_CHILD_20260516",
+      "disease_key": "gas_pharyngitis_child_confirmed",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IDSA_PEDS_CAP_EFFUSION_20260516",
+      "disease_key": "pediatric_cap_parapneumonic_effusion",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IDSA_PERSISTENT_DIARRHEA_20260516",
+      "disease_key": "persistent_diarrhea_eval",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IDSA_SHIGELLA_DYSENTERY_ADULT_20260516",
+      "disease_key": "dysentery_shigella_suspected_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IDSA_STEC_20260516",
+      "disease_key": "suspected_stec_diarrhea",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IDSA_TD_SUPPORT_ADULT_20260516",
+      "disease_key": "traveler_diarrhea_support_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_INDUC_URTI_20260516",
+      "disease_key": "chronic_inducible_urticaria_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IWGDF_DFI_MILD_ADULT_20260516",
+      "disease_key": "diabetic_foot_infection_mild_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_IWGDF_DFI_MODSEV_ADULT_20260516",
+      "disease_key": "diabetic_foot_infection_moderate_severe_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_LATERAL_BPPV_ADULT_20260516",
+      "disease_key": "lateral_canal_bppv_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_LDL190_20260516",
+      "disease_key": "hypercholesterolemia_ldl_ge_190",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_MALARIA_SEVERE_20260516",
+      "disease_key": "malaria_severe_er_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_MALARIA_SUSPECT_20260516",
+      "disease_key": "malaria_suspected_triage",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_MALARIA_UNCOMP_GATE_20260516",
+      "disease_key": "malaria_confirmed_uncomplicated_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_MASKED_HT_ADULT_20260516",
+      "disease_key": "masked_hypertension_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_MENIERE_ADULT_20260516",
+      "disease_key": "menieres_disease_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_MENIERE_ATTACK_ADULT_20260516",
+      "disease_key": "menieres_attack_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_MGEN_ADULT_20260516",
+      "disease_key": "mycoplasma_genitalium_cervicitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_MHT_TRIAGE_20260516",
+      "disease_key": "menopausal_symptoms_mht_triage",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NAR_ADULT_20260516",
+      "disease_key": "nonallergic_rhinitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ACUTE_COUGH_20260516",
+      "disease_key": "acute_cough_no_abx",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ACUTE_COUGH_ABX_20260516",
+      "disease_key": "acute_cough_abx_or_pneumonia_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_AOM_20260516",
+      "disease_key": "acute_otitis_media",
+      "regimen_safety_status": "warning",
+      "duplicate_roles": [
+        "antibiotic"
+      ],
+      "blocked_reasons": [],
+      "warnings": [
+        "duplicate therapeutic roles: antibiotic"
+      ],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ARI_OVER16_20260516",
+      "disease_key": "suspected_acute_respiratory_infection_over16",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ASTHMA_CHILD_5_11_20260516",
+      "disease_key": "asthma_child_5_11_chronic_management",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ASTHMA_DIAG_20260516",
+      "disease_key": "suspected_asthma_diagnostic_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ASTHMA_OVER12_20260516",
+      "disease_key": "asthma_over12_chronic_management",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ATOPIC_MILD_CHILD_20260516",
+      "disease_key": "atopic_eczema_child_mild",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ATOPIC_MOD_CHILD_20260516",
+      "disease_key": "atopic_eczema_child_moderate_flare",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_B12_20260516",
+      "disease_key": "vitamin_b12_deficiency_over16_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_BRONCH_20260516",
+      "disease_key": "bronchiolitis_child_assessment",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_CELLULITIS_ADULT_20260516",
+      "disease_key": "cellulitis_erysipelas_nonsevere_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_CELLULITIS_PEDS_20260516",
+      "disease_key": "cellulitis_erysipelas_peds_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_COPD_EXACERB_20260516",
+      "disease_key": "copd_exacerbation_over16_abx_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_COPD_SUSPECT_20260516",
+      "disease_key": "copd_suspected_over16_diagnosis",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_DYSPEPSIA_20260516",
+      "disease_key": "dyspepsia_uninvestigated_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ECZEMA_HERPETICUM_CHILD_20260516",
+      "disease_key": "eczema_herpeticum_child",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_FH_ADULT_TX_20260516",
+      "disease_key": "familial_hypercholesterolaemia_adult_treatment",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_FH_CHILD_20260516",
+      "disease_key": "familial_hypercholesterolaemia_child_specialist",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_FH_SUSPECT_20260516",
+      "disease_key": "familial_hypercholesterolaemia_suspected",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_GLAUCOMA_20260516",
+      "disease_key": "suspected_glaucoma_referral",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_GORD_ADULT_20260516",
+      "disease_key": "gord_adult_empiric",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_GOUT_ACUTE_20260516",
+      "disease_key": "acute_gout_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_GOUT_ULT_20260516",
+      "disease_key": "gout_urate_lowering_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_HPYLORI_20260516",
+      "disease_key": "h_pylori_confirmed_adult_nice",
+      "regimen_safety_status": "warning",
+      "duplicate_roles": [
+        "antibiotic"
+      ],
+      "blocked_reasons": [],
+      "warnings": [
+        "duplicate therapeutic roles: antibiotic"
+      ],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_HYPO_THYROID_20260516",
+      "disease_key": "hypothyroidism_adult_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_IMPETIGO_BULLOUS_20260516",
+      "disease_key": "impetigo_bullous_systemic_highrisk",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_IMPETIGO_FAILED_20260516",
+      "disease_key": "impetigo_recurrent_failed_treatment",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_IMPETIGO_LOCAL_20260516",
+      "disease_key": "impetigo_localised_nonbullous",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_IMPETIGO_WIDE_20260516",
+      "disease_key": "impetigo_widespread_nonbullous",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_INFANT_GOR_20260516",
+      "disease_key": "gor_infant_regurgitation_reassurance",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_INFECTED_ECZEMA_20260516",
+      "disease_key": "secondary_infected_eczema",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_INFECTED_ECZEMA_CHILD_20260516",
+      "disease_key": "infected_atopic_eczema_child",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_INSECT_INFECTED_20260516",
+      "disease_key": "infected_insect_bite_cellulitis_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_INSECT_LOCAL_20260516",
+      "disease_key": "insect_bite_sting_local_reaction",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_LBP_20260516",
+      "disease_key": "low_back_pain_over16",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_LOWER_UTI_SPECIAL_20260516",
+      "disease_key": "lower_uti_man_pregnancy_peds_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_LOWER_UTI_WOMAN_20260516",
+      "disease_key": "lower_uti_nonpregnant_woman",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_MED_OVERUSE_HEADACHE_20260516",
+      "disease_key": "medication_overuse_headache_over12",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_MENOPAUSE_GSM_20260516",
+      "disease_key": "genitourinary_syndrome_menopause_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_MENOPAUSE_VMS_20260516",
+      "disease_key": "menopause_vasomotor_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_MIGRAINE_ACUTE_20260516",
+      "disease_key": "migraine_over12_acute",
+      "regimen_safety_status": "warning",
+      "duplicate_roles": [
+        "nsaid"
+      ],
+      "blocked_reasons": [],
+      "warnings": [
+        "duplicate therapeutic roles: nsaid"
+      ],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_MIGRAINE_PREVENT_20260516",
+      "disease_key": "migraine_over12_prevention_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_OA_20260516",
+      "disease_key": "osteoarthritis_over16",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_OBESITY_ADULT_REVIEW_20260516",
+      "disease_key": "obesity_adult_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_OBESITY_CHILD_REVIEW_20260516",
+      "disease_key": "obesity_child_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_OME_CHILD_20260516",
+      "disease_key": "otitis_media_effusion_child_under12",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ORLISTAT_20260516",
+      "disease_key": "obesity_orlistat_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_OSAHS_20260516",
+      "disease_key": "suspected_osahs_over16",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_OSAHS_RHINITIS_20260516",
+      "disease_key": "osahs_rhinitis_management",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_PEDS_GORD_FEED_20260516",
+      "disease_key": "gord_peds_feeding_alginate_trial",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_PEDS_GORD_PAIN_20260516",
+      "disease_key": "gord_peds_persistent_pain_trial",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_POI_20260516",
+      "disease_key": "premature_ovarian_insufficiency_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_POP_20260516",
+      "disease_key": "pelvic_organ_prolapse_women",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_PSORIASIS_MILD_20260516",
+      "disease_key": "psoriasis_mild_topical_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_PSORIASIS_SENSITIVE_20260516",
+      "disease_key": "psoriasis_face_flexure_genital",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_PSORIASIS_SEVERE_20260516",
+      "disease_key": "psoriasis_severe_referral_biologic_lock",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_PUD_NSAID_20260516",
+      "disease_key": "peptic_ulcer_nsaid_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_PYELO_ADULT_20260516",
+      "disease_key": "acute_pyelonephritis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_PYELO_PEDS_20260516",
+      "disease_key": "acute_pyelonephritis_peds",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_RA_SUSPECT_20260516",
+      "disease_key": "suspected_rheumatoid_arthritis",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_RA_SYMPTOM_20260516",
+      "disease_key": "ra_symptom_control_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_RECURRENT_CELLULITIS_20260516",
+      "disease_key": "recurrent_cellulitis_prophylaxis_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_RENAL_STONE_ACUTE_20260516",
+      "disease_key": "renal_ureteric_stone_acute_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_RENAL_STONE_PREV_20260516",
+      "disease_key": "renal_stone_prevention_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_RUTI_METHENAMINE_20260516",
+      "disease_key": "recurrent_uti_methenamine_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_RUTI_PREVENT_20260516",
+      "disease_key": "recurrent_uti_prevention_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_RUTI_SINGLE_DOSE_20260516",
+      "disease_key": "recurrent_uti_single_dose_prophylaxis",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_SCIATICA_20260516",
+      "disease_key": "sciatica_over16",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_SEVERE_OESOPH_20260516",
+      "disease_key": "severe_oesophagitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_SINUSITIS_ABX_20260516",
+      "disease_key": "acute_sinusitis_abx_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_SINUSITIS_NOABX_20260516",
+      "disease_key": "acute_sinusitis_no_abx",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_SORE_THROAT_ABX_20260516",
+      "disease_key": "acute_sore_throat_abx_score_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_SORE_THROAT_NOABX_20260516",
+      "disease_key": "acute_sore_throat_no_abx",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_T2DM_HYPERGLYCEMIA_20260516",
+      "disease_key": "type2_diabetes_symptomatic_hyperglycemia",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_T2DM_METFORMIN_20260516",
+      "disease_key": "type2_diabetes_metformin_candidate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_T2DM_REVIEW_20260516",
+      "disease_key": "type2_diabetes_adult_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_THYROTOX_20260516",
+      "disease_key": "thyrotoxicosis_adult_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_TINNITUS_ASSESS_20260516",
+      "disease_key": "tinnitus_assessment_referral",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_TINNITUS_DISTRESS_20260516",
+      "disease_key": "tinnitus_distress_management",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_UI_STRESS_20260516",
+      "disease_key": "urinary_incontinence_women_stress",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_UI_URGENCY_20260516",
+      "disease_key": "urinary_incontinence_women_urgency_oab",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_OCC_BACT_20260516",
+      "disease_key": "occult_bacteremia_peds_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ONYCHO_MILD_20260516",
+      "disease_key": "onychomycosis_mild_confirmed",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ONYCHO_MODSEV_20260516",
+      "disease_key": "onychomycosis_moderate_severe_confirmed",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ONYCHO_SUSPECT_20260516",
+      "disease_key": "onychomycosis_suspected_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_OSA_NASAL_OBSTRUCTION_ADULT_20260516",
+      "disease_key": "osa_with_nasal_obstruction_pap_support_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PAP_POOR_RESPONSE_ADULT_20260516",
+      "disease_key": "pap_intolerance_or_poor_response_osa_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_ATYP_WHEEZE_20260516",
+      "disease_key": "acute_wheeze_atypical_peds_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_BRONCHIOLITIS_20260516",
+      "disease_key": "acute_bronchiolitis_peds_supportive",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_BRONCHITIS_20260516",
+      "disease_key": "acute_bronchitis_peds",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_BRONCH_WHEEZE_TRIAL_20260516",
+      "disease_key": "acute_bronchiolitis_peds_wheeze_trial",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_CHOLERA_20260516",
+      "disease_key": "cholera_suspected_peds_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_CROUP_20260516",
+      "disease_key": "viral_croup_peds_mild_moderate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_CROUP_SEV_20260516",
+      "disease_key": "viral_croup_peds_severe_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_DIARR_DEHYD_ORAL_20260516",
+      "disease_key": "acute_gastroenteritis_peds_some_dehydration",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_DIARR_NO_DEHYD_20260516",
+      "disease_key": "acute_watery_diarrhea_peds_no_dehydration",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_DIARR_SEV_DEHYD_20260516",
+      "disease_key": "acute_gastroenteritis_peds_severe_dehydration_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_DIARR_VOMIT_20260516",
+      "disease_key": "acute_gastroenteritis_peds_vomiting",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_DYSENTERY_20260516",
+      "disease_key": "acute_dysentery_peds_antibiotic_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_EPIG_20260516",
+      "disease_key": "acute_epiglottitis_peds_er_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_FLU_PNA_20260516",
+      "disease_key": "influenza_pneumonia_peds_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_PNA_ATYP_20260516",
+      "disease_key": "pneumonia_peds_atypical_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_PNA_NONSEV_20260516",
+      "disease_key": "pneumonia_peds_nonsevere",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_PNA_SEV_20260516",
+      "disease_key": "pneumonia_peds_severe_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_PROTOZOA_20260516",
+      "disease_key": "protozoal_diarrhea_peds_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_REC_WHEEZE_20260516",
+      "disease_key": "recurrent_viral_wheeze_peds_followup_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_TRACHEITIS_20260516",
+      "disease_key": "bacterial_tracheitis_peds_er_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_UTI_COMPLICATED_20260516",
+      "disease_key": "uti_complicated_peds_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_UTI_LOWER_20260516",
+      "disease_key": "uti_lower_peds_2mo_5yr",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_UTI_RECURRENT_20260516",
+      "disease_key": "uti_recurrent_peds_workup_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_UTI_UPPER_20260516",
+      "disease_key": "uti_febrile_upper_peds_2mo_5yr",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEDS_VIW_20260516",
+      "disease_key": "viral_induced_wheeze_peds_acute",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEMPH_MILD_20260516",
+      "disease_key": "pemphigus_mild_confirmed_specialist",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEMPH_MODSEV_20260516",
+      "disease_key": "pemphigus_moderate_severe_er_specialist",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PEMPH_SUSPECT_20260516",
+      "disease_key": "pemphigus_suspected_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PFEVER_SUPPORT_20260516",
+      "disease_key": "fever_peds_viral_lowrisk_support",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_POSTERIOR_BPPV_ADULT_20260516",
+      "disease_key": "posterior_canal_bppv_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PPI_REFRACTORY_GERD_20260516",
+      "disease_key": "ppi_refractory_gerd_symptoms_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PREDM_ADULT_20260516",
+      "disease_key": "prediabetes_ifg_igt_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PRIMARY_DYSMEN_20260516",
+      "disease_key": "primary_dysmenorrhea_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_PRIMARY_HIGH_CV_RISK_20260516",
+      "disease_key": "primary_prevention_high_cv_risk",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_REFRACT_CONSTIP_ADULT_20260516",
+      "disease_key": "refractory_constipation_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_RESIDUAL_SLEEPINESS_OSA_ADULT_20260516",
+      "disease_key": "residual_sleepiness_treated_osa_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_RESIST_HT_ADULT_20260516",
+      "disease_key": "resistant_hypertension_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_SECONDARY_DYSMEN_TRIAGE_20260516",
+      "disease_key": "secondary_dysmenorrhea_triage",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_SEVERE_TG_20260516",
+      "disease_key": "severe_hypertriglyceridemia",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_SNORE_LOW_RISK_ADULT_20260516",
+      "disease_key": "snoring_low_risk_osa_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_SSNHL_ADULT_20260516",
+      "disease_key": "sudden_sensorineural_hearing_loss_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_SUSPECTED_OSA_HIGH_RISK_ADULT_20260516",
+      "disease_key": "suspected_osa_high_risk_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_T2DM_NEW_ADULT_20260516",
+      "disease_key": "type2_diabetes_new_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_T2DM_ORAL_ADDON_ADULT_20260516",
+      "disease_key": "type2_diabetes_uncontrolled_oral_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_T2DM_SEVERE_HG_ADULT_20260516",
+      "disease_key": "type2_diabetes_severe_hyperglycemia_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_TINNITUS_PERSISTENT_BOTHERSOME_ADULT_20260516",
+      "disease_key": "persistent_bothersome_tinnitus_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_TINNITUS_PRIMARY_ADULT_20260516",
+      "disease_key": "tinnitus_primary_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_TINNITUS_RED_FLAG_ADULT_20260516",
+      "disease_key": "unilateral_or_pulsatile_tinnitus_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_TRICH_ADULT_20260516",
+      "disease_key": "trichomoniasis_vaginal_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_URTI_SEV_20260516",
+      "disease_key": "urticaria_acute_severe_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_VC_ACUTE_20260516",
+      "disease_key": "vulvovaginal_candidiasis_acute",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_VC_RECURRENT_20260516",
+      "disease_key": "vulvovaginal_candidiasis_recurrent",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_WCHT_ADULT_20260516",
+      "disease_key": "white_coat_hypertension_adult",
       "regimen_safety_status": "manual_review_required",
       "duplicate_roles": [],
       "blocked_reasons": [],

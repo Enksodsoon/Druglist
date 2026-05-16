@@ -1,33 +1,33 @@
 # Export Refresh Workbook Report
 
-- Generated at: 2026-05-08T14:16:24.006049+00:00
+- Generated at: 2026-05-16T17:08:15.237860+00:00
 - Workbook: `exports/Druglist_Data_Refresh_Master.xlsx`
 - CSV directory: `exports/refresh_csv/`
 - Total products: 910
-- Total complaints: 391
-- Total disease keys: 133
-- Total regimen rows: 987
-- Rows with missing product_id: 0
+- Total complaints: 1141
+- Total disease keys: 226
+- Total regimen rows: 1750
+- Rows with missing product_id: 431
 - Rows with missing disease_key: 0
-- Rows with missing source: 987
-- Rows with blocked/manual_review status: 513
+- Rows with missing source: 1750
+- Rows with blocked/manual_review status: 691
 - Duplicate product names: 0
 - Duplicate regimen IDs in fast regimen master: 0
-- Repeated regimen IDs across complaint aliases: 132
+- Repeated regimen IDs across complaint aliases: 228
 
 ## Tabs
 
 - 1_Product_Master_Export: 910 rows
-- 2_Regimen_Master_Export: 987 rows
-- 3_Complaint_Disease_Map: 391 rows
+- 2_Regimen_Master_Export: 1750 rows
+- 3_Complaint_Disease_Map: 1141 rows
 - 4_Top_50_Defaults: 50 rows
-- 5_Clinic_Defaults: 336 rows
+- 5_Clinic_Defaults: 676 rows
 - 6_Pediatric_Dosing: 93 rows
-- 7_Antibiotic_Rows: 192 rows
+- 7_Antibiotic_Rows: 315 rows
 - 8_Source_Evidence_Queue: 103 rows
-- 9_Clinical_QC: 874 rows
+- 9_Clinical_QC: 1045 rows
 - 10_Import_Diff_Template: 1 rows
-- 11_OPD_Fast_Index_Template: 164 rows
+- 11_OPD_Fast_Index_Template: 451 rows
 - 12_Drug_Short_Lookup_Template: 910 rows
 
 ## Sample 20 High-Risk Rows
@@ -85,6 +85,9 @@
     "evidence_pending_source_collection_count",
     "evidence_status",
     "generated_at",
+    "guideline_patch_manual_review_count",
+    "guideline_patch_pediatric_shortcut_count",
+    "guideline_patch_runtime_count",
     "manual_review_count",
     "manual_review_product_count",
     "manual_review_queue_count",
@@ -144,9 +147,11 @@
     "d",
     "g",
     "i",
+    "manual_review",
     "mt",
     "p",
-    "r"
+    "r",
+    "src"
   ],
   "regimen_line_fields": [
     "antibiotic_gate_status",
@@ -162,13 +167,17 @@
     "evidence_status",
     "fast_mode_allowed",
     "i",
+    "manual_review_required",
     "missing_requirements",
     "n",
     "next_action",
+    "non_drug_action",
     "o",
     "p",
     "pediatric_gate_status",
     "product_match_status",
+    "quick_caution",
+    "quick_side_effects",
     "regimen_safety_status",
     "s",
     "source_gap_priority",

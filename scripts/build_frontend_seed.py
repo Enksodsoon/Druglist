@@ -81,11 +81,13 @@ def build() -> dict[str, object]:
     seed = load_embedded_seed()
     product_layer = read_json("data/core/drug_master_rebuilt.json", {"products": [], "meta": {}})
     manual_queue = read_json("data/meta/manual_review_queue.json", {"items": []})
+    guideline_patch_manual = read_json("data/meta/guideline_patch_manual_review_queue.json", {"items": []})
     source_registry = read_json("data/guidelines/source_registry.json", {"sources": []})
     source_gaps = read_json("data/guidelines/source_gap_list.json", {"items": []})
     evidence_summary = read_json("data/evidence/evidence_runtime_summary.json", {})
     runtime = read_json("data/core/opd_fast_index.json", {"index": []})
     peds = read_json("data/pediatric/peds_product_dose_output.json", {"items": []})
+    guideline_patch_peds = read_json("data/pediatric/imported_guideline_peds_shortcuts.json", {"items": []})
     peds_rules = read_json("data/pediatric/reviewed_peds_dose_rules.json", {"rules": []}).get("rules", [])
     clinical_issues = read_json("data/meta/clinical_regimen_quality_issues.json", {"issues": []}).get("issues", [])
     antiviral_issues = read_json("data/meta/antiviral_regimen_quality_issues.json", {"issues": []}).get("issues", [])
@@ -109,7 +111,7 @@ def build() -> dict[str, object]:
     output = dict(seed)
     output["dr"] = [legacy_drug(product, evidence_summary) for product in products]
     product_by_id = {drug["i"]: drug for drug in output["dr"]}
-    output["cp"] = annotate_runtime_complaints(seed.get("cp") or [], product_by_id)
+    output["cp"] = merge_runtime_overlay_complaints(annotate_runtime_complaints(seed.get("cp") or [], product_by_id))
     output["pd"] = []
     output["cg"] = []
     output["m"] = {
@@ -122,11 +124,13 @@ def build() -> dict[str, object]:
         "pedsCount": 0,
         "pricedDrugCount": 0,
         "classCompareCount": 0,
-        "manual_review_count": len(manual_queue.get("items", [])) + len(source_gaps.get("items", [])) + len(peds.get("items", [])),
+        "manual_review_count": len(manual_queue.get("items", [])) + len(source_gaps.get("items", [])) + len(peds.get("items", [])) + len(guideline_patch_manual.get("items", [])) + len(guideline_patch_peds.get("items", [])),
         "manual_review_product_count": len(flagged_products),
         "manual_review_queue_count": len(manual_queue.get("items", [])),
         "source_gap_count": len(source_gaps.get("items", [])),
         "pediatric_review_count": len(peds.get("items", [])),
+        "guideline_patch_manual_review_count": len(guideline_patch_manual.get("items", [])),
+        "guideline_patch_pediatric_shortcut_count": len(guideline_patch_peds.get("items", [])),
         "pediatric_verified_count": sum(1 for rule in peds_rules if rule.get("reviewer_status") == "verified"),
         "pediatric_label_reference_only_count": sum(1 for rule in peds_rules if rule.get("reviewer_status") == "label_reference_only"),
         "pediatric_pending_source_count": sum(1 for rule in peds_rules if rule.get("reviewer_status") == "pending_source"),
@@ -136,6 +140,7 @@ def build() -> dict[str, object]:
         "verified_source_count": len(verified_sources),
         "registered_source_count": len(sources),
         "runtime_index_count": len(runtime.get("index", [])),
+        "guideline_patch_runtime_count": sum(1 for complaint in output["cp"] if complaint.get("src") == "guideline_patch_20260516"),
         "evidence_status": evidence_summary.get("evidence_status", "pending_source_collection"),
         "evidence_auto_verified_count": evidence_summary.get("auto_verified_claim_count", 0),
         "evidence_auto_resolved_gap_count": evidence_summary.get("auto_resolved_gap_count", 0),
@@ -192,6 +197,81 @@ def annotate_runtime_complaints(complaints: list[dict[str, object]], product_by_
         c_next["r"] = regimens
         annotated.append(c_next)
     return annotated
+
+
+def merge_runtime_overlay_complaints(base: list[dict[str, object]]) -> list[dict[str, object]]:
+    """Expose imported OPD overlay rows through the legacy frontend complaint schema."""
+    complaint_index = read_json("data/core/complaint_index.json", {"items": []}).get("items", [])
+    regimens = read_json("data/core/fast_regimen_master.json", {"regimens": []}).get("regimens", [])
+    regimen_by_disease: dict[str, list[dict[str, object]]] = {}
+    for regimen in regimens:
+        if regimen.get("import_source") == "guideline_patch_20260516":
+            regimen_by_disease.setdefault(str(regimen.get("disease_id") or ""), []).append(regimen)
+    seen = {str(row.get("i") or "") for row in base}
+    out = list(base)
+    for complaint in complaint_index:
+        if complaint.get("import_source") != "guideline_patch_20260516":
+            continue
+        complaint_id = str(complaint.get("complaint_id") or "")
+        if not complaint_id or complaint_id in seen:
+            continue
+        disease_id = str(complaint.get("disease_id") or "")
+        mapped_regimens = [frontend_regimen(row) for row in regimen_by_disease.get(disease_id, [])]
+        out.append(
+            {
+                "i": complaint_id,
+                "c": complaint.get("complaint") or complaint.get("normalized_input") or complaint_id,
+                "d": disease_id,
+                "g": complaint.get("complaint_group") or "",
+                "a": complaint.get("age_group") or "",
+                "p": complaint.get("priority") or 5,
+                "mt": complaint.get("match_type") or "alias",
+                "src": "guideline_patch_20260516",
+                "manual_review": True,
+                "r": mapped_regimens,
+            }
+        )
+        seen.add(complaint_id)
+    return out
+
+
+def frontend_regimen(regimen: dict[str, object]) -> dict[str, object]:
+    return {
+        "i": regimen.get("regimen_id") or "",
+        "d": regimen.get("display_name") or regimen.get("disease_name") or regimen.get("disease_id") or "",
+        "w": regimen.get("likelihood_label") or regimen.get("use_when") or "",
+        "y": bool(regimen.get("is_default")),
+        "manual_review": True,
+        "source_status": regimen.get("source_status", "pending_manual_review"),
+        "fast_mode_allowed": False,
+        "m": [frontend_line(line) for line in regimen.get("lines", [])],
+    }
+
+
+def frontend_line(line: dict[str, object]) -> dict[str, object]:
+    line_type = str(line.get("line_type") or "")
+    display_type = "RX NOW" if line_type == "RX_NOW" else line_type
+    if line.get("non_drug_action"):
+        display_type = "NON DRUG ACTION"
+    return {
+        "s": line.get("line_id") or "",
+        "t": display_type,
+        "i": line.get("product_id") or "",
+        "n": line.get("display_name") or "",
+        "o": line.get("order_text") or "",
+        "u": line.get("duration_label") or "",
+        "p": line.get("pack_label") or line.get("dispense_label") or "",
+        "clinical_readiness": line.get("clinical_readiness", "manual_review_required"),
+        "fast_mode_allowed": bool(line.get("fast_mode_allowed")),
+        "missing_requirements": list(line.get("missing_requirements") or []),
+        "source_status": line.get("source_status", "pending_manual_review"),
+        "blocked_reason": line.get("blocked_reason") or "",
+        "next_action": line.get("next_action") or "",
+        "manual_review_required": True,
+        "non_drug_action": bool(line.get("non_drug_action")),
+        "quick_caution": line.get("quick_caution") or "",
+        "quick_side_effects": line.get("quick_side_effects") or "",
+    }
 
 
 def main() -> int:

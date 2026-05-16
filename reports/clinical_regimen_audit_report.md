@@ -2,18 +2,15 @@
 
 Generated: 2026-05-02T06:45:17Z
 
-- Issues: 253
-- Blockers: 9
-- High: 208
-- Medium: 36
+- Issues: 381
+- Blockers: 13
+- High: 245
+- Medium: 123
 - Low: 0
 
 No dose, duration, indication, or source was fabricated by this audit.
 
 ## Top Issues
-- `CLIN_FRM0001_RX1_FAST_SOURCE_GAP` high regimen_listed_usable_despite_evidence_missing allergic_rhinitis_adult BDS004213: manual_review_required
-- `CLIN_FRM0001_SWAP1_FAST_SOURCE_GAP` high regimen_listed_usable_despite_evidence_missing allergic_rhinitis_adult BDS003747: manual_review_required
-- `CLIN_FRM0001_SWAP2_FAST_SOURCE_GAP` high regimen_listed_usable_despite_evidence_missing allergic_rhinitis_adult BDS045630: manual_review_required
 - `CLIN_FRM0002_RX1_FAST_SOURCE_GAP` high regimen_listed_usable_despite_evidence_missing uri_wet_cough_adult BDS003762: manual_review_required
 - `CLIN_FRM0002_RX2_FAST_SOURCE_GAP` high regimen_listed_usable_despite_evidence_missing uri_wet_cough_adult BDS045630: manual_review_required
 - `CLIN_FRM0002_RX3_FAST_SOURCE_GAP` high regimen_listed_usable_despite_evidence_missing uri_wet_cough_adult BDS002655: manual_review_required
@@ -31,3 +28,6 @@ No dose, duration, indication, or source was fabricated by this audit.
 - `CLIN_FRM0006_RX1_FAST_SOURCE_GAP` high regimen_listed_usable_despite_evidence_missing sore_throat_adult BDS003762: manual_review_required
 - `CLIN_FRM0009_RX1_FAST_SOURCE_GAP` high regimen_listed_usable_despite_evidence_missing uri_dry_cough_adult BDS003762: manual_review_required
 - `CLIN_FRM0009_RX2_FAST_SOURCE_GAP` high regimen_listed_usable_despite_evidence_missing uri_dry_cough_adult BDS045630: manual_review_required
+- `CLIN_FRM0009_RX3_FAST_SOURCE_GAP` high regimen_listed_usable_despite_evidence_missing uri_dry_cough_adult BDS002211: manual_review_required
+- `CLIN_FRM0009_SWAP1_FAST_SOURCE_GAP` high regimen_listed_usable_despite_evidence_missing uri_dry_cough_adult BDS007973: manual_review_required
+- `CLIN_FRM0009_SWAP2_FAST_SOURCE_GAP` high regimen_listed_usable_despite_evidence_missing uri_dry_cough_adult BDS003747: manual_review_required
