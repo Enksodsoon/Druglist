@@ -126,6 +126,9 @@ def test_retain_design_behavior_fixes_are_present():
         "retainDesignQuickCurrentDrugs",
         "retainDesignDashboardReport",
         "retainDesignSmartAddsOriginal",
+        "retainDesignRenderDashboardOriginal",
+        "querySelector('.dashboard-rail')",
+        "rail.remove()",
     ]:
         assert token in source
 
