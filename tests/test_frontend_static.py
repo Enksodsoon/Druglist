@@ -100,6 +100,9 @@ def test_frontend_has_device_responsive_guardrails():
         "height:min(92vh,760px)",
         "font-size:16px",
         ".layout-main.main-shell",
+        "Compact desktop mode for clinical workstation widths",
+        "grid-template-columns:106px minmax(0,1fr)",
+        ".dashboard-insight-grid{display:grid;grid-template-columns:minmax(0,1.5fr) 112px 104px!important",
     ]:
         assert token in source
 
