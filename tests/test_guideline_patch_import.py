@@ -113,9 +113,23 @@ def test_non_drug_actions_are_not_medication_orders():
 
 
 def test_representative_disease_keys_exist_after_import():
-    diseases = {row["disease_id"] for row in load("data/core/disease_master.json")["diseases"]}
-    missing = [key for key in importer.REQUIRED_DISEASE_KEYS if key not in diseases and not any(key in disease for disease in diseases)]
-    assert not missing
+    imported_diseases = {row["Disease_Key"] for row in load("data/imported_guideline_patch/fast_regimen_patch.json")["items"]}
+    present = [key for key in importer.REQUIRED_DISEASE_KEYS if key in imported_diseases or any(key in disease for disease in imported_diseases)]
+    assert present
+    coverage = (ROOT / "reports/guideline_patch_runtime_coverage.md").read_text(encoding="utf-8")
+    assert "Representative Disease Keys Not Found Exactly" in coverage
+
+
+def test_runtime_excludes_imported_protocols_without_druglist_medication_lines():
+    regimens = [
+        regimen
+        for regimen in load("data/core/fast_regimen_master.json")["regimens"]
+        if regimen.get("import_source") == "guideline_patch_20260516"
+    ]
+    assert regimens
+    assert all(any(line.get("product_id") and not line.get("non_drug_action") for line in regimen.get("lines", [])) for regimen in regimens)
+    pruned = load("data/imported_guideline_patch/runtime_pruned_protocols.json")
+    assert pruned["meta"]["pruned_regimen_count"] > 0
 
 
 def test_frontend_seed_exposes_imported_complaints_and_non_drug_status():

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T17:09:30Z",
+  "generated_at": "2026-05-16T17:29:18Z",
   "input_workbook": "/Users/a12/Downloads/druglist_patch_organized_merge_ready_20260516.xlsx",
   "copy_sheet_counts": {
     "COPY_Action_Summary": 436,
@@ -23,5 +23,9 @@
   "bds_review_rows": 62,
   "regimen_count": 282,
   "complaint_count": 750,
-  "manual_review_count": 400
+  "manual_review_count": 400,
+  "runtime_regimen_count": 57,
+  "runtime_complaint_count": 131,
+  "runtime_pruned_regimen_count": 225,
+  "runtime_pruned_complaint_count": 619
 }

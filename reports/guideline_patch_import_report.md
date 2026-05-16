@@ -1,6 +1,6 @@
 # Guideline Patch Import Report
 
-Generated: 2026-05-16T17:09:31Z
+Generated: 2026-05-16T17:29:19Z
 
 ## Input Workbook
 
@@ -33,6 +33,14 @@ See `data/imported_guideline_patch/duplicate_rows.json`.
 ## Disease Keys
 
 Disease key count: 417
+
+## Runtime Overlay
+
+Runtime regimens exposed: 57
+
+Runtime complaints exposed: 131
+
+Pruned protocols without matched Druglist medication lines: 225
 
 ## Safety Counts
 

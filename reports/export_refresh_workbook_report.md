@@ -1,33 +1,33 @@
 # Export Refresh Workbook Report
 
-- Generated at: 2026-05-16T17:08:15.237860+00:00
+- Generated at: 2026-05-16T17:28:51.500951+00:00
 - Workbook: `exports/Druglist_Data_Refresh_Master.xlsx`
 - CSV directory: `exports/refresh_csv/`
 - Total products: 910
-- Total complaints: 1141
-- Total disease keys: 226
-- Total regimen rows: 1750
-- Rows with missing product_id: 431
+- Total complaints: 522
+- Total disease keys: 186
+- Total regimen rows: 1570
+- Rows with missing product_id: 251
 - Rows with missing disease_key: 0
-- Rows with missing source: 1750
-- Rows with blocked/manual_review status: 691
+- Rows with missing source: 1570
+- Rows with blocked/manual_review status: 1096
 - Duplicate product names: 0
 - Duplicate regimen IDs in fast regimen master: 0
-- Repeated regimen IDs across complaint aliases: 228
+- Repeated regimen IDs across complaint aliases: 188
 
 ## Tabs
 
 - 1_Product_Master_Export: 910 rows
-- 2_Regimen_Master_Export: 1750 rows
-- 3_Complaint_Disease_Map: 1141 rows
+- 2_Regimen_Master_Export: 1570 rows
+- 3_Complaint_Disease_Map: 522 rows
 - 4_Top_50_Defaults: 50 rows
-- 5_Clinic_Defaults: 676 rows
+- 5_Clinic_Defaults: 564 rows
 - 6_Pediatric_Dosing: 93 rows
-- 7_Antibiotic_Rows: 315 rows
+- 7_Antibiotic_Rows: 295 rows
 - 8_Source_Evidence_Queue: 103 rows
-- 9_Clinical_QC: 1045 rows
+- 9_Clinical_QC: 950 rows
 - 10_Import_Diff_Template: 1 rows
-- 11_OPD_Fast_Index_Template: 451 rows
+- 11_OPD_Fast_Index_Template: 217 rows
 - 12_Drug_Short_Lookup_Template: 910 rows
 
 ## Sample 20 High-Risk Rows

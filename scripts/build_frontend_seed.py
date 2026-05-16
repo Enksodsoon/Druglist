@@ -111,7 +111,8 @@ def build() -> dict[str, object]:
     output = dict(seed)
     output["dr"] = [legacy_drug(product, evidence_summary) for product in products]
     product_by_id = {drug["i"]: drug for drug in output["dr"]}
-    output["cp"] = merge_runtime_overlay_complaints(annotate_runtime_complaints(seed.get("cp") or [], product_by_id))
+    base_complaints = [row for row in seed.get("cp") or [] if row.get("src") != "guideline_patch_20260516"]
+    output["cp"] = merge_runtime_overlay_complaints(annotate_runtime_complaints(base_complaints, product_by_id))
     output["pd"] = []
     output["cg"] = []
     output["m"] = {
@@ -267,6 +268,11 @@ def frontend_line(line: dict[str, object]) -> dict[str, object]:
         "source_status": line.get("source_status", "pending_manual_review"),
         "blocked_reason": line.get("blocked_reason") or "",
         "next_action": line.get("next_action") or "",
+        "evidence_status": line.get("evidence_status", "pending_source_collection"),
+        "evidence_score": line.get("evidence_score", 0),
+        "evidence_confidence": line.get("evidence_confidence", "none"),
+        "evidence_source_ids": list(line.get("evidence_source_ids") or []),
+        "evidence_required_fields_missing": list(line.get("evidence_required_fields_missing") or ["source collection", "source extraction"]),
         "manual_review_required": True,
         "non_drug_action": bool(line.get("non_drug_action")),
         "quick_caution": line.get("quick_caution") or "",

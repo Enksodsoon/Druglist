@@ -4,11 +4,11 @@ Generated: 2026-05-02T06:45:17Z
 
 ## Summary
 
-Complaints: 1172
+Complaints: 422
 
-Diseases: 434
+Diseases: 164
 
-Fast regimens: 392
+Fast regimens: 133
 
 ## Priority
 

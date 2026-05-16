@@ -83,6 +83,11 @@ REQUIRED_DISEASE_KEYS = {
 }
 
 
+def runtime_eligible_regimen(regimen: dict[str, Any]) -> bool:
+    """Only expose patch protocols when they retain an actual matched Druglist product."""
+    return any(line.get("product_id") and not line.get("non_drug_action") for line in regimen.get("lines", []))
+
+
 def workbook_path() -> Path:
     env_path = os.environ.get("GUIDELINE_PATCH_WORKBOOK")
     candidates = [Path(env_path)] if env_path else []
@@ -410,9 +415,42 @@ def transform_rules(rows: list[dict[str, str]]) -> tuple[list[dict[str, Any]], l
 
 def overlay_runtime(imported: dict[str, list[dict[str, Any]]], report_counts: dict[str, Any]) -> None:
     ensure_dirs("data/core", "data/safety", "data/pediatric", "data/meta")
+    runtime_regimens = [row for row in imported["regimens"] if runtime_eligible_regimen(row)]
+    pruned_regimens = [row for row in imported["regimens"] if not runtime_eligible_regimen(row)]
+    runtime_diseases = {row["disease_id"] for row in runtime_regimens}
+    runtime_complaints = [row for row in imported["complaints"] if row.get("disease_id") in runtime_diseases]
+    pruned_complaints = [row for row in imported["complaints"] if row.get("disease_id") not in runtime_diseases]
+    write_json(
+        "data/imported_guideline_patch/runtime_pruned_protocols.json",
+        {
+            "meta": {
+                "generated_at": now_iso(),
+                "pruned_regimen_count": len(pruned_regimens),
+                "pruned_complaint_count": len(pruned_complaints),
+                "reason": "No matched Druglist product treatment line; kept in import/audit data but excluded from runtime/search.",
+            },
+            "regimens": [
+                {
+                    "regimen_id": row.get("regimen_id"),
+                    "disease_id": row.get("disease_id"),
+                    "display_name": row.get("display_name"),
+                    "line_count": len(row.get("lines", [])),
+                    "non_drug_line_count": sum(1 for line in row.get("lines", []) if line.get("non_drug_action")),
+                    "reason": "no matched Druglist medication treatment line",
+                }
+                for row in pruned_regimens
+            ],
+            "complaints": pruned_complaints,
+        },
+    )
+    report_counts["runtime_regimen_count"] = len(runtime_regimens)
+    report_counts["runtime_complaint_count"] = len(runtime_complaints)
+    report_counts["runtime_pruned_regimen_count"] = len(pruned_regimens)
+    report_counts["runtime_pruned_complaint_count"] = len(pruned_complaints)
+
     diseases = read_json("data/core/disease_master.json", {"meta": {}, "diseases": []})
-    disease_by_id = {row.get("disease_id"): row for row in diseases.get("diseases", [])}
-    for regimen in imported["regimens"]:
+    disease_by_id = {row.get("disease_id"): row for row in diseases.get("diseases", []) if row.get("import_source") != "guideline_patch_20260516"}
+    for regimen in runtime_regimens:
         disease_id = regimen["disease_id"]
         current = disease_by_id.get(disease_id, {})
         aliases = set(current.get("aliases") or [])
@@ -429,7 +467,7 @@ def overlay_runtime(imported: dict[str, list[dict[str, Any]]], report_counts: di
             "manual_review": True,
             "import_source": "guideline_patch_20260516",
         }
-    for complaint in imported["complaints"]:
+    for complaint in runtime_complaints:
         disease_id = complaint["disease_id"]
         if disease_id not in disease_by_id:
             disease_by_id[disease_id] = {
@@ -447,21 +485,21 @@ def overlay_runtime(imported: dict[str, list[dict[str, Any]]], report_counts: di
             aliases.add(complaint["complaint"])
             disease_by_id[disease_id]["aliases"] = sorted(aliases)
     diseases["diseases"] = sorted(disease_by_id.values(), key=lambda row: row.get("disease_id", ""))
-    diseases["meta"] = {**diseases.get("meta", {}), "guideline_patch_disease_count": len(imported["regimens"])}
+    diseases["meta"] = {**diseases.get("meta", {}), "guideline_patch_disease_count": len(runtime_regimens)}
     write_json("data/core/disease_master.json", diseases)
 
     complaints = read_json("data/core/complaint_index.json", {"meta": {}, "items": []})
-    by_id = {row.get("complaint_id"): row for row in complaints.get("items", [])}
-    by_id.update({row["complaint_id"]: row for row in imported["complaints"]})
+    by_id = {row.get("complaint_id"): row for row in complaints.get("items", []) if row.get("import_source") != "guideline_patch_20260516"}
+    by_id.update({row["complaint_id"]: row for row in runtime_complaints})
     complaints["items"] = sorted(by_id.values(), key=lambda row: (row.get("disease_id", ""), maybe_int(row.get("priority"))))
-    complaints["meta"] = {**complaints.get("meta", {}), "guideline_patch_complaint_count": len(imported["complaints"])}
+    complaints["meta"] = {**complaints.get("meta", {}), "guideline_patch_complaint_count": len(runtime_complaints)}
     write_json("data/core/complaint_index.json", complaints)
 
     regimens = read_json("data/core/fast_regimen_master.json", {"meta": {}, "regimens": []})
-    by_regimen = {row.get("regimen_id"): row for row in regimens.get("regimens", [])}
-    by_regimen.update({row["regimen_id"]: row for row in imported["regimens"]})
+    by_regimen = {row.get("regimen_id"): row for row in regimens.get("regimens", []) if row.get("import_source") != "guideline_patch_20260516"}
+    by_regimen.update({row["regimen_id"]: row for row in runtime_regimens})
     regimens["regimens"] = sorted(by_regimen.values(), key=lambda row: row.get("regimen_id", ""))
-    regimens["meta"] = {**regimens.get("meta", {}), "guideline_patch_regimen_count": len(imported["regimens"])}
+    regimens["meta"] = {**regimens.get("meta", {}), "guideline_patch_regimen_count": len(runtime_regimens)}
     write_json("data/core/fast_regimen_master.json", regimens)
 
     opd = read_json("data/core/opd_fast_index.json", {"meta": {}, "index": [], "layer_links": {}})
@@ -591,8 +629,8 @@ def main() -> int:
     }
     write_json("data/imported_guideline_patch/duplicate_rows.json", {"meta": {"generated_at": now_iso(), "count": len(duplicates)}, "items": duplicates})
     write_json("data/imported_guideline_patch/skipped_rows.json", {"meta": {"generated_at": now_iso(), "count": len(skipped)}, "items": skipped})
-    write_json("data/imported_guideline_patch/import_manifest.json", report_counts)
     overlay_runtime(imported, report_counts)
+    write_json("data/imported_guideline_patch/import_manifest.json", report_counts)
 
     write_report(
         "reports/guideline_patch_import_report.md",
@@ -603,6 +641,7 @@ def main() -> int:
             ("Skipped Rows", f"Skipped rows: {len(skipped)}\n\nSee `data/imported_guideline_patch/skipped_rows.json`."),
             ("Duplicate IDs", f"Duplicate ID groups: {len(duplicates)}\n\nSee `data/imported_guideline_patch/duplicate_rows.json`."),
             ("Disease Keys", f"Disease key count: {report_counts['disease_key_count']}"),
+            ("Runtime Overlay", f"Runtime regimens exposed: {report_counts['runtime_regimen_count']}\n\nRuntime complaints exposed: {report_counts['runtime_complaint_count']}\n\nPruned protocols without matched Druglist medication lines: {report_counts['runtime_pruned_regimen_count']}"),
             ("Safety Counts", "\n".join(f"- {key}: {report_counts[key]}" for key in ["active_rows", "manual_review_required_rows", "blocked_non_drug_rows", "not_in_workbook_rows", "bds_review_rows"])),
         ],
     )
@@ -619,14 +658,17 @@ def main() -> int:
             ("Counts", "\n".join(f"- {key}: {report_counts[key]}" for key in ["manual_review_required_rows", "not_in_workbook_rows", "bds_review_rows", "blocked_non_drug_rows"])),
         ],
     )
-    disease_ids = {row["disease_id"] for row in regimens} | {row["disease_id"] for row in complaints}
+    runtime_regimens = [row for row in regimens if runtime_eligible_regimen(row)]
+    runtime_diseases = {row["disease_id"] for row in runtime_regimens}
+    runtime_complaints = [row for row in complaints if row.get("disease_id") in runtime_diseases]
+    disease_ids = runtime_diseases | {row["disease_id"] for row in runtime_complaints}
     covered = sorted(key for key in REQUIRED_DISEASE_KEYS if key in disease_ids or any(key in item for item in disease_ids))
     missing = sorted(REQUIRED_DISEASE_KEYS - set(covered))
     write_report(
         "reports/guideline_patch_runtime_coverage.md",
         "Guideline Patch Runtime Coverage",
         [
-            ("Runtime Overlay", f"Regimens: {len(regimens)}\n\nComplaints: {len(complaints)}"),
+            ("Runtime Overlay", f"Regimens: {len(runtime_regimens)}\n\nComplaints: {len(runtime_complaints)}\n\nPruned imported protocols: {len(regimens) - len(runtime_regimens)}"),
             ("Representative Disease Keys Covered", "\n".join(f"- {key}" for key in covered) or "None"),
             ("Representative Disease Keys Not Found Exactly", "\n".join(f"- {key}" for key in missing) or "None"),
         ],

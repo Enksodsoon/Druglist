@@ -100,7 +100,7 @@ def build() -> dict[str, int]:
     antibiotic = read_json("data/safety/antibiotic_stewardship.json", {"rules": []})
     peds_output = read_json("data/pediatric/peds_product_dose_output.json", {"items": []})
 
-    legacy_complaints = seed.get("cp") or []
+    legacy_complaints = [row for row in seed.get("cp") or [] if row.get("src") != "guideline_patch_20260516"]
     complaint_index: list[dict[str, object]] = []
     disease_master: dict[str, dict[str, object]] = {}
     fast_regimens: dict[str, dict[str, object]] = {}
