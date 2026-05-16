@@ -1,0 +1,14 @@
+{
+  "source_id": "40014",
+  "task_id": "T05329",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Amsel%20Nature%20C&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/40014/T05329_40014.json",
+  "sha256": "647c08695f39a45106db439a640577704b863c0e2514efbadc9081b21924e91b",
+  "downloaded_at": "2026-05-16T03:46:38.651789+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:624:40014",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

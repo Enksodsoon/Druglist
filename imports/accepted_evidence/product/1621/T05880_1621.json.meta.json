@@ -1,0 +1,14 @@
+{
+  "source_id": "1621",
+  "task_id": "T05880",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Prednicarbate%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1621/T05880_1621.json",
+  "sha256": "d1e500dfd35c37c5828ffdda9a98f8cbfb34b13528415b660fa884b38a8f2203",
+  "downloaded_at": "2026-05-16T03:48:02.645726+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:691:1621",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

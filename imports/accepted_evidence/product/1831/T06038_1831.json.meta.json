@@ -1,0 +1,14 @@
+{
+  "source_id": "1831",
+  "task_id": "T06038",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Topicort%20Skin%20Cream&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1831/T06038_1831.json",
+  "sha256": "e1c011e2123f43b363175e02f199e6e653f9f7e7b1107e522b8910ac6234f127",
+  "downloaded_at": "2026-05-16T03:48:26.950456+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:712:1831",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

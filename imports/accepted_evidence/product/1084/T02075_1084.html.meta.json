@@ -1,0 +1,14 @@
+{
+  "source_id": "1084",
+  "task_id": "T02075",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Azith+Oral+Suspension",
+  "local_path": "imports/accepted_evidence/product/1084/T02075_1084.html",
+  "sha256": "c817a05abfc880caa5de39acc7279a922656546441f8bbced3f464df2ba10876",
+  "downloaded_at": "2026-05-16T03:38:31.603812+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:175:1084",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

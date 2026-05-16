@@ -1,0 +1,14 @@
+{
+  "source_id": "3574",
+  "task_id": "T03488",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Strepsils+Citrus+Lemon+SF+HHR+%E0%B8%8B%E0%B8%AD%E0%B8%87+6s",
+  "local_path": "imports/accepted_evidence/product/3574/T03488_3574.html",
+  "sha256": "91dc649d7e2249cc5838598626f74ed4697f1aa5e1aba5b21e47aacb15ab7457",
+  "downloaded_at": "2026-05-16T03:42:02.607103+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:368:3574",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

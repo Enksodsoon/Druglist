@@ -1,0 +1,14 @@
+{
+  "source_id": "44321",
+  "task_id": "T05395",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Klean+%26+Kare+Saline+%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+  "local_path": "imports/accepted_evidence/product/44321/T05395_44321.html",
+  "sha256": "c68ccaef78713e8887bd25ba558c48d6a1069ec79358ffa052724037fb96f6b2",
+  "downloaded_at": "2026-05-16T03:46:47.740545+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:631:44321",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

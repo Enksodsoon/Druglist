@@ -1,0 +1,14 @@
+{
+  "source_id": "1248",
+  "task_id": "T02659",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Lyophilized+Saccharomyces+boulardii",
+  "local_path": "imports/accepted_evidence/product/1248/T02659_1248.cfm",
+  "sha256": "de0d102032f347750417df8c87c00f15d44cf7b61ed56573699bda05bbcd49a3",
+  "downloaded_at": "2026-05-16T03:39:58.453065+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:262:1248|Product_Label_Links:263:1233",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

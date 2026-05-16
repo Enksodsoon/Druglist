@@ -1,0 +1,14 @@
+{
+  "source_id": "47738",
+  "task_id": "T07110",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Salicylic%20acid%20%2BTitanium%20dioxide%2BLiquid%20paraffin%2BPolyvinyl%20alkyl%20ethers%2B%E0%B8%AD%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%86&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/47738/T07110_47738.json",
+  "sha256": "f0c33b6c7aadb33784998e7f60fe0b1e966541a66df0ae44950fc1e44185e38b",
+  "downloaded_at": "2026-05-16T03:51:12.988200+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:844:47738",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

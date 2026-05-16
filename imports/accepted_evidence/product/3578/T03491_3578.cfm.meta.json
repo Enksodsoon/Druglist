@@ -1,0 +1,14 @@
+{
+  "source_id": "3578",
+  "task_id": "T03491",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Strepsils+Citrus+Lemon+Sugar+Free+%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87+16s",
+  "local_path": "imports/accepted_evidence/product/3578/T03491_3578.cfm",
+  "sha256": "970ab8b4967ee46a816b0165cc96995b8e7c8dba5368fea0f4c26df6348064cd",
+  "downloaded_at": "2026-05-16T03:42:03.685932+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:369:3578",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

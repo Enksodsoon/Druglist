@@ -1,0 +1,14 @@
+{
+  "source_id": "2522",
+  "task_id": "T04675",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Loranta%2050%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2522/T04675_2522.json",
+  "sha256": "8d9a44ced47d9a06f71e9d96c15a13017701b28d9ac00209568805abf999b980",
+  "downloaded_at": "2026-05-16T03:45:03.105560+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:531:2522",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

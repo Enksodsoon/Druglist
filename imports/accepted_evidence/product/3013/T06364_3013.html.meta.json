@@ -1,0 +1,14 @@
+{
+  "source_id": "3013",
+  "task_id": "T06364",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Opsil-A",
+  "local_path": "imports/accepted_evidence/product/3013/T06364_3013.html",
+  "sha256": "01685a1566a94574e156fb029fc51051402e4b5dfb6324b2900cbbe2154276b4",
+  "downloaded_at": "2026-05-16T03:49:16.186434+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:752:3013",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

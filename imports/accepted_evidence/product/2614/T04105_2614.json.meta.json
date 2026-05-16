@@ -1,0 +1,14 @@
+{
+  "source_id": "2614",
+  "task_id": "T04105",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Meliane%20ED%2028&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2614/T04105_2614.json",
+  "sha256": "65a81a38bebe13ac8eb5d3f9f42a58c2a2fbefd4a3da9d97955edb285cf25616",
+  "downloaded_at": "2026-05-16T03:43:38.354016+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:450:2614",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

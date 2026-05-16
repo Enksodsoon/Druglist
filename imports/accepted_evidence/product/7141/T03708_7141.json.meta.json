@@ -1,0 +1,14 @@
+{
+  "source_id": "7141",
+  "task_id": "T03708",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dimenhydrinate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7141/T03708_7141.json",
+  "sha256": "40ca744abad67fd4d81e1d297849bcffe9399434c6162a3619d4631c9a82dd22",
+  "downloaded_at": "2026-05-16T03:42:37.470960+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:399:7141|Product_Label_Links:400:1663|Product_Label_Links:486:45662",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

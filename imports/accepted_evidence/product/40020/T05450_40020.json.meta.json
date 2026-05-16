@@ -1,0 +1,14 @@
+{
+  "source_id": "40020",
+  "task_id": "T05450",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Capsicum%20Tincture%200%2005%20w/v%20%2BMethyl%20Salicylate%20%2B%20Menthol%20%2BClove%20Oil%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/40020/T05450_40020.json",
+  "sha256": "e04b8ded5f4e2e27d99b78efaf1dd58952e3b19a4d1a67d74e06d0782b22b382",
+  "downloaded_at": "2026-05-16T03:46:56.604110+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:640:40020",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

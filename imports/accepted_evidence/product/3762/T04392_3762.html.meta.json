@@ -1,0 +1,14 @@
+{
+  "source_id": "3762",
+  "task_id": "T04392",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Tylenol+500+mg+strip+10s",
+  "local_path": "imports/accepted_evidence/product/3762/T04392_3762.html",
+  "sha256": "aa465ff21c29db7d9570d0f8c94e4641f36f8288075113eb9c35d33ed7fdfe9e",
+  "downloaded_at": "2026-05-16T03:44:23.396181+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:493:3762",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

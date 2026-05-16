@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_42",
+  "task_id": "T00425",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=nystatin%20oral&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds045631/T00425_Drug_Label_Links_42.json",
+  "sha256": "97aee5d8b44b93696493452742f07b5954c847e94c8335d5fa130210e7298473",
+  "downloaded_at": "2026-05-16T03:34:35.883635+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:42:Drug_Label_Links_42",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

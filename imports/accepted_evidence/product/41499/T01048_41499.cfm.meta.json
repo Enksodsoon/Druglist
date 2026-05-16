@@ -1,0 +1,14 @@
+{
+  "source_id": "41499",
+  "task_id": "T01048",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clarityne",
+  "local_path": "imports/accepted_evidence/product/41499/T01048_41499.cfm",
+  "sha256": "061d0d5512796d91f0158dbf40a4ca9d5f0c41d8ec54d8346cc7bea0d88536d9",
+  "downloaded_at": "2026-05-16T03:36:01.442160+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:41:41499",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

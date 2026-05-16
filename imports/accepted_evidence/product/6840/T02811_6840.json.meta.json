@@ -1,0 +1,14 @@
+{
+  "source_id": "6840",
+  "task_id": "T02811",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Eletriptan&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/6840/T02811_6840.json",
+  "sha256": "8b64044343948b39a4a2e9d69fe990bece78696ead40076964be3d349954e24a",
+  "downloaded_at": "2026-05-16T03:40:21.367414+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:279:6840",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

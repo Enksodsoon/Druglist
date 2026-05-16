@@ -1,0 +1,14 @@
+{
+  "source_id": "6801",
+  "task_id": "T05034",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=GPO+-+HCTZ+50",
+  "local_path": "imports/accepted_evidence/product/6801/T05034_6801.cfm",
+  "sha256": "7baf8c7f2b4633fc99d0a1da64a4997da0481057caf51ec8eefd31a9ac96ddb3",
+  "downloaded_at": "2026-05-16T03:45:57.041514+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:585:6801",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

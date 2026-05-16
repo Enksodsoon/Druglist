@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_74",
+  "task_id": "T00702",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=vaginal%20mixed%20anti-infective&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds008491/T00702_Drug_Label_Links_74.xml",
+  "sha256": "fe74b9c46f0eae0398a180c985ab73c012a122cf747753c42b8c396caeb4c4b4",
+  "downloaded_at": "2026-05-16T03:35:16.704291+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:74:Drug_Label_Links_74",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

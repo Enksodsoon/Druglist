@@ -1,0 +1,14 @@
+{
+  "source_id": "44106",
+  "task_id": "T06763",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Povidone-Iodine&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/44106/T06763_44106.json",
+  "sha256": "6ff439a256c4b0e72c1d8b7acc824f8ffb99eea90e2537c5b21d1957fb898e1b",
+  "downloaded_at": "2026-05-16T03:50:19.279149+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:798:44106",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

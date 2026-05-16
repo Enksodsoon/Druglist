@@ -1,0 +1,14 @@
+{
+  "source_id": "46200",
+  "task_id": "T03656",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Oral-VP+tabslet",
+  "local_path": "imports/accepted_evidence/product/46200/T03656_46200.cfm",
+  "sha256": "f2933a37740c0247c9a150129b403ade9f46702f3a981ff685ead595e67d1b04",
+  "downloaded_at": "2026-05-16T03:42:29.448692+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:394:46200",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

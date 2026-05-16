@@ -1,0 +1,14 @@
+{
+  "source_id": "7951",
+  "task_id": "T03205",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Ziga+Gel",
+  "local_path": "imports/accepted_evidence/product/7951/T03205_7951.html",
+  "sha256": "6722b4be3b10777d5e35570843b25f61535b53f48bd5842b79666009f0f4f8d7",
+  "downloaded_at": "2026-05-16T03:41:21.711989+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:330:7951",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

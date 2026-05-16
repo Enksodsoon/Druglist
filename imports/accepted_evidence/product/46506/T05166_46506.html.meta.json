@@ -1,0 +1,14 @@
+{
+  "source_id": "46506",
+  "task_id": "T05166",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Pyroid",
+  "local_path": "imports/accepted_evidence/product/46506/T05166_46506.html",
+  "sha256": "558db870f8686d0cf628e5d9a22d80a5e9930e9cd566a5a15db3b63102b060a6",
+  "downloaded_at": "2026-05-16T03:46:16.566524+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:603:46506",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

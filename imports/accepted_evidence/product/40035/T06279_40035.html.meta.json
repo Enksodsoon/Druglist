@@ -1,0 +1,14 @@
+{
+  "source_id": "40035",
+  "task_id": "T06279",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Antazallerge",
+  "local_path": "imports/accepted_evidence/product/40035/T06279_40035.html",
+  "sha256": "cb07e0d429101d0bb6075513481e3b44c6dfe0c15aef3acd969231271048c99b",
+  "downloaded_at": "2026-05-16T03:49:02.521997+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:743:40035",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

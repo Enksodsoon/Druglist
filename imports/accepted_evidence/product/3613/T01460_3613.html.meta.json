@@ -1,0 +1,14 @@
+{
+  "source_id": "3613",
+  "task_id": "T01460",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Senolax",
+  "local_path": "imports/accepted_evidence/product/3613/T01460_3613.html",
+  "sha256": "7c9c20aedbcf8075f811ad7dc3e02fb5d04bf6a94df6bd02e0e06ff07d90b6ca",
+  "downloaded_at": "2026-05-16T03:37:00.319429+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:99:3613",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

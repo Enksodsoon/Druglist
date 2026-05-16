@@ -1,0 +1,14 @@
+{
+  "source_id": "47738",
+  "task_id": "T07109",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=SOS%20Plus%20Corn%20Plaster%20Removal&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/47738/T07109_47738.json",
+  "sha256": "5b033ae62fc108c75a5d80e45b722e56a02c79131f56f0601db9c0d162cd52b5",
+  "downloaded_at": "2026-05-16T03:51:12.909006+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:844:47738",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

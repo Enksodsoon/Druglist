@@ -1,0 +1,14 @@
+{
+  "source_id": "1031",
+  "task_id": "T05442",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ammeltz+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/1031/T05442_1031.cfm",
+  "sha256": "2c098c1a32a903e543ff8ebf38e169d53853dadc8ff72331f3d15e6b43bd7bfb",
+  "downloaded_at": "2026-05-16T03:46:55.531995+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:639:1031",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

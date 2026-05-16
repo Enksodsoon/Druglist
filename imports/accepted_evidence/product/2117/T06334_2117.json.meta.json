@@ -1,0 +1,14 @@
+{
+  "source_id": "2117",
+  "task_id": "T06334",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Hista-Oph&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2117/T06334_2117.json",
+  "sha256": "4fe733ca4cc0201819e8cbc0099e9981285a0f74c28e809b0f2ba81c8c0b7c4f",
+  "downloaded_at": "2026-05-16T03:49:11.664949+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:749:2117",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3407",
+  "task_id": "T02958",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Reparil+Dragees",
+  "local_path": "imports/accepted_evidence/product/3407/T02958_3407.cfm",
+  "sha256": "0cbec74e3be77d610c9ab89a1f009bbf68d306c2144fb97ea1afa5d7fe7e5dd8",
+  "downloaded_at": "2026-05-16T03:40:43.193688+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:299:3407",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

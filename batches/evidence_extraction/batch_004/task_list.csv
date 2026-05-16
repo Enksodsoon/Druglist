@@ -1,0 +1,144 @@
+task_id,row_type,sheet,row_number,record_id,name,priority_score,source_hint
+DISEASE_0072,disease,Disease_Download_Map,72,foreign_body_irritation_followup_adult,,29,"foreign_body_irritation_followup_adult | Foreign-body irritation follow-up | Eye | adult | H57.8 | N | EYE_DRY_IRRITATION | GUIDE_US_AAO_DRY_EYE, GUIDE_INT_TFOS_DEWS2, GUIDE_US_CDC_CONJUNCTIVITIS, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAO_DRY_EYE: https://www.guidelinecentral.com/guideline/10114/
+GUIDE_INT_TFOS_DEWS2: https://www.tfosdewsreport.org/report-management_and_therapy/147_36/en/
+GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAO_DRY_EYE: https://www.guidelinecentral.com/guideline/10114/
+GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html | GUIDE_INT_TFOS_DEWS2: https://www.tfosdewsreport.org/report-management_and_therapy/147_36/en/ |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_N"
+DISEASE_0073,disease,Disease_Download_Map,73,eye_irritation_peds,,29,"eye_irritation_peds | Pediatric eye irritation support | Eye | peds | H57.8 | N | EYE_DRY_IRRITATION | GUIDE_US_AAO_DRY_EYE, GUIDE_INT_TFOS_DEWS2, GUIDE_US_CDC_CONJUNCTIVITIS, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAO_DRY_EYE: https://www.guidelinecentral.com/guideline/10114/
+GUIDE_INT_TFOS_DEWS2: https://www.tfosdewsreport.org/report-management_and_therapy/147_36/en/
+GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAO_DRY_EYE: https://www.guidelinecentral.com/guideline/10114/
+GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html | GUIDE_INT_TFOS_DEWS2: https://www.tfosdewsreport.org/report-management_and_therapy/147_36/en/ |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.m"
+DISEASE_0093,disease,Disease_Download_Map,93,bacterial_conjunctivitis_adult,,29,"bacterial_conjunctivitis_adult | Acute bacterial conjunctivitis | Eye | adult | H10.9 | Y | EYE_CONJUNCTIVITIS | GUIDE_US_CDC_CONJUNCTIVITIS, GUIDE_US_AAO_CONJUNCTIVITIS, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+GUIDE_US_AAO_CONJUNCTIVITIS: https://www.guidelinecentral.com/guideline/10107/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+GUIDE_US_AAO_CONJUNCTIVITIS: https://www.guidelinecentral.com/guideline/10107/ |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fd"
+DISEASE_0094,disease,Disease_Download_Map,94,bacterial_conjunctivitis_peds,,29,"bacterial_conjunctivitis_peds | Pediatric bacterial conjunctivitis | Eye | peds | H10.9 | Y | EYE_CONJUNCTIVITIS | GUIDE_US_CDC_CONJUNCTIVITIS, GUIDE_US_AAO_CONJUNCTIVITIS, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+GUIDE_US_AAO_CONJUNCTIVITIS: https://www.guidelinecentral.com/guideline/10107/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+GUIDE_US_AAO_CONJUNCTIVITIS: https://www.guidelinecentral.com/guideline/10107/ |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi."
+DISEASE_0095,disease,Disease_Download_Map,95,bacterial_eyelid_infection_adult,,29,"bacterial_eyelid_infection_adult | Bacterial eyelid infection / stye support | Eye | adult | H00.0 | Y | EYE_CONJUNCTIVITIS | GUIDE_US_CDC_CONJUNCTIVITIS, GUIDE_US_AAO_CONJUNCTIVITIS, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+GUIDE_US_AAO_CONJUNCTIVITIS: https://www.guidelinecentral.com/guideline/10107/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+GUIDE_US_AAO_CONJUNCTIVITIS: https://www.guidelinecentral.com/guideline/10107/ |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: h"
+DISEASE_0096,disease,Disease_Download_Map,96,bacterial_eyelid_infection_peds,,29,"bacterial_eyelid_infection_peds | Pediatric bacterial eyelid infection / stye support | Eye | peds | H00.0 | Y | EYE_CONJUNCTIVITIS | GUIDE_US_CDC_CONJUNCTIVITIS, GUIDE_US_AAO_CONJUNCTIVITIS, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+GUIDE_US_AAO_CONJUNCTIVITIS: https://www.guidelinecentral.com/guideline/10107/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+GUIDE_US_AAO_CONJUNCTIVITIS: https://www.guidelinecentral.com/guideline/10107/ |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFD"
+DISEASE_0059,disease,Disease_Download_Map,59,tinea_corporis_localized_adult,,31,"tinea_corporis_localized_adult | Localized tinea corporis / fungal rash | Skin | adult | B35.4 | N | SKIN_TINEA_FUNGAL | GUIDE_US_CDC_RINGWORM, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_UK_EMC, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/tinea_corporis_localized_adult/ | TODO_DOWN"
+DISEASE_0124,disease,Disease_Download_Map,124,tinea_pedis_adult,,31,"tinea_pedis_adult | Tinea pedis / fungal foot rash | Skin | adult | B35.3 | N | SKIN_TINEA_FUNGAL | GUIDE_US_CDC_RINGWORM, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_UK_EMC, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/tinea_pedis_adult/ | TODO_DOWNLOAD | Extract: first-line regimen"
+DISEASE_0125,disease,Disease_Download_Map,125,tinea_corporis_clotrimazole_adult,,31,"tinea_corporis_clotrimazole_adult | Tinea corporis (clotrimazole-first row) | Skin | adult | B35.4 | N | SKIN_TINEA_FUNGAL | GUIDE_US_CDC_RINGWORM, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_UK_EMC, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/tinea_corporis_clotrimazole_adult/ | TO"
+DISEASE_0126,disease,Disease_Download_Map,126,fungal_intertrigo_adult,,31,"fungal_intertrigo_adult | Fungal intertrigo | Skin | adult | B37.2 | N | SKIN_TINEA_FUNGAL | GUIDE_US_CDC_RINGWORM, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_UK_EMC, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/fungal_intertrigo_adult/ | TODO_DOWNLOAD | Extract: first-line regimen,"
+DISEASE_0127,disease,Disease_Download_Map,127,pityriasis_versicolor_adult,,31,"pityriasis_versicolor_adult | Pityriasis versicolor | Skin | adult | B36.0 | N | SKIN_TINEA_FUNGAL | GUIDE_US_CDC_RINGWORM, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_UK_EMC, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/pityriasis_versicolor_adult/ | TODO_DOWNLOAD | Extract: first-l"
+DISEASE_0128,disease,Disease_Download_Map,128,cutaneous_candidiasis_adult,,31,"cutaneous_candidiasis_adult | Cutaneous candidiasis | Skin | adult | B37.2 | N | SKIN_TINEA_FUNGAL | GUIDE_US_CDC_RINGWORM, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_UK_EMC, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/cutaneous_candidiasis_adult/ | TODO_DOWNLOAD | Extract: first-l"
+DRUG_0008,drug,Drug_Label_Links,8,Mucolid,Mucolid,31,DRUG_BDS002655 | Mucolid | Ambroxol HCl 30 mg. | ambroxol | Cough medicines / mucolytics / expectorants | ยาละลายเสมหะ | tablet | 30 mg | mucolytic_expectorant | N | Adult/older child only - verify | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ambroxol | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=ambroxol&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=ambroxol&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/ambroxol/human/spls.json | https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=ambroxol&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/{SETID}.xml | https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22ambroxol%22&limit=10 | https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm | https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files | https://www.fda.gov/d
+DRUG_0022,drug,Drug_Label_Links,22,Icolid (ควบคุมจำนวน),Icolid (ควบคุมจำนวน),31,"DRUG_BDS002211 | Icolid (ควบคุมจำนวน) | Dextromethorphan HBr 15 mg. | dextromethorphan | Cough medicines / mucolytics / expectorants | ยาแก้ไอแห้ง, คันคอ (D) | tablet | 15 mg | antitussive | N | Adult/older child only - verify | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=dextromethorphan | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=dextromethorphan&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=dextromethorphan&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/dextromethorphan/human/spls.json | https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=dextromethorphan&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/{SETID}.xml | https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22dextromethorphan%22&limit=10 | https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm | https://www.fda.gov/d"
+DRUG_0023,drug,Drug_Label_Links,23,Fartussin (ควบคุมจำนวน),Fartussin (ควบคุมจำนวน),31,DRUG_BDS007973 | Fartussin (ควบคุมจำนวน) | Dextromethorphan HBr 15 mg.+Glyceryl Guaiacolate 100 mg.+Terpin Hydrate 130 mg. | cough combo | Cough medicines / mucolytics / expectorants | ยาแก้ไอสูตรผสม (D) | tablet | 15 mg | antitussive | N | Adult/older child only - verify | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=cough+combo | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=cough%20combo&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=cough%20combo&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/cough%20combo/human/spls.json | https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=cough%20combo&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/{SETID}.xml | https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22cough%20combo%22&limit=10 | https://www.accessdata.fda.gov/scripts/cder/daf/index.c
+DRUG_0048,drug,Drug_Label_Links,48,Bisolvon,Bisolvon,31,DRUG_BDS001255 | Bisolvon | Bromhexine HCl 8 mg. | bromhexine | Cough medicines / mucolytics / expectorants | ยาละลายเสมหะ | tablet | 8 mg | mucolytic_expectorant | N | Adult/older child only - verify | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=bromhexine | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=bromhexine&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=bromhexine&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/bromhexine/human/spls.json | https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=bromhexine&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/{SETID}.xml | https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22bromhexine%22&limit=10 | https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm | https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files | https:
+DRUG_0055,drug,Drug_Label_Links,55,Bisolvon EX Syrup เล็ก,Bisolvon EX Syrup เล็ก,31,DRUG_BDS001257 | Bisolvon EX Syrup เล็ก | Bromhexine HCl 4 mg.+K guaiacolsulphonate 100 mg./5 ml. | bromhexine syrup | Cough medicines / mucolytics / expectorants | ยาละลายเสมหะ ชนิดน้ำ | syrup | 4 mg | mucolytic_expectorant | N | Y - verify age/weight | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=bromhexine+syrup | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=bromhexine%20syrup&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=bromhexine%20syrup&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/bromhexine%20syrup/human/spls.json | https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=bromhexine%20syrup&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/{SETID}.xml | https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22bromhexine%20syrup%22&limit=10 | https://www.accessdata.fda.gov/scripts/cder/d
+DRUG_0056,drug,Drug_Label_Links,56,Mucolid Junior บลูเบอร์รี่,Mucolid Junior บลูเบอร์รี่,31,DRUG_BDS002691 | Mucolid Junior บลูเบอร์รี่ | Ambroxol HCl 15 mg./5 ml. | ambroxol syrup | Cough medicines / mucolytics / expectorants | ยาละลายเสมหะ ชนิดน้ำ | other | 15 mg | mucolytic_expectorant | N | Y - verify age/weight | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ambroxol+syrup | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=ambroxol%20syrup&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=ambroxol%20syrup&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/ambroxol%20syrup/human/spls.json | https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=ambroxol%20syrup&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/{SETID}.xml | https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22ambroxol%20syrup%22&limit=10 | https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm | https://www.fda.gov/drug
+PRODUCT_0691,product,Product_Label_Links,691,1621,Dermatop Cream เล็ก,32,"690 | 1621 | Dermatop Cream เล็ก | Prednicarbate 2.5 mg/1 g (0.25%) | Dermatop Cream เล็ก (5 g.) | ยาทาแก้แพ้, แก้คัน (D) | หลอด 5 g. |  | Prednicarbate / | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dermatop+Cream+%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81 | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Prednicarbate+%2F | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dermatop%20Cream%20%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81&name_type=brand&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Prednicarbate%20/&name_type=both&pagesize=100 | https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22Dermatop%20Cream%20%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%22&limit=10 | https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Prednicarbate%20/%22&limit=10 | https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm | https://www.ema.europa.eu/en/medicines?search_api_fulltext=Prednicarbate+%2F | https://www"
+DISEASE_0012,disease,Disease_Download_Map,12,musculoskeletal_pain_adult,,35,"musculoskeletal_pain_adult | Musculoskeletal pain / strain | Pain | adult | M79.1 | N | PAIN_MSK | GUIDE_EU_NICE_LOW_BACK, GUIDE_US_ACP_LOW_BACK, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_EU_NICE_LOW_BACK: https://www.nice.org.uk/guidance/ng59/resources
+GUIDE_US_ACP_LOW_BACK: https://www.acpjournals.org/doi/10.7326/M16-2367
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_ACP_LOW_BACK: https://www.acpjournals.org/doi/10.7326/M16-2367 | GUIDE_EU_NICE_LOW_BACK: https://www.nice.org.uk/guidance/ng59/resources |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/musculoskeletal_pain_adult/ | TO"
+DISEASE_0021,disease,Disease_Download_Map,21,muscle_spasm_adult,,35,"muscle_spasm_adult | Muscle spasm | Pain | adult | M62.838 | N | PAIN_MSK | GUIDE_EU_NICE_LOW_BACK, GUIDE_US_ACP_LOW_BACK, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_EU_NICE_LOW_BACK: https://www.nice.org.uk/guidance/ng59/resources
+GUIDE_US_ACP_LOW_BACK: https://www.acpjournals.org/doi/10.7326/M16-2367
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_ACP_LOW_BACK: https://www.acpjournals.org/doi/10.7326/M16-2367 | GUIDE_EU_NICE_LOW_BACK: https://www.nice.org.uk/guidance/ng59/resources |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/muscle_spasm_adult/ | TODO_DOWNLOAD | Extract: first-li"
+DISEASE_0023,disease,Disease_Download_Map,23,inflammatory_pain_adult,,35,"inflammatory_pain_adult | Inflammatory pain / joint flare | Pain | adult | M25.50 | N | PAIN_MSK | GUIDE_EU_NICE_LOW_BACK, GUIDE_US_ACP_LOW_BACK, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_EU_NICE_LOW_BACK: https://www.nice.org.uk/guidance/ng59/resources
+GUIDE_US_ACP_LOW_BACK: https://www.acpjournals.org/doi/10.7326/M16-2367
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_ACP_LOW_BACK: https://www.acpjournals.org/doi/10.7326/M16-2367 | GUIDE_EU_NICE_LOW_BACK: https://www.nice.org.uk/guidance/ng59/resources |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/inflammatory_pain_adult/ | TODO_"
+DISEASE_0052,disease,Disease_Download_Map,52,neck_shoulder_strain_adult,,35,"neck_shoulder_strain_adult | Neck / shoulder strain | Pain | adult | M54.2 | N | PAIN_MSK | GUIDE_EU_NICE_LOW_BACK, GUIDE_US_ACP_LOW_BACK, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_EU_NICE_LOW_BACK: https://www.nice.org.uk/guidance/ng59/resources
+GUIDE_US_ACP_LOW_BACK: https://www.acpjournals.org/doi/10.7326/M16-2367
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_ACP_LOW_BACK: https://www.acpjournals.org/doi/10.7326/M16-2367 | GUIDE_EU_NICE_LOW_BACK: https://www.nice.org.uk/guidance/ng59/resources |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/neck_shoulder_strain_adult/ | TODO_DOWN"
+DISEASE_0053,disease,Disease_Download_Map,53,low_back_pain_simple_adult,,35,"low_back_pain_simple_adult | Simple low back pain | Pain | adult | M54.5 | N | PAIN_MSK | GUIDE_EU_NICE_LOW_BACK, GUIDE_US_ACP_LOW_BACK, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_EU_NICE_LOW_BACK: https://www.nice.org.uk/guidance/ng59/resources
+GUIDE_US_ACP_LOW_BACK: https://www.acpjournals.org/doi/10.7326/M16-2367
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_ACP_LOW_BACK: https://www.acpjournals.org/doi/10.7326/M16-2367 | GUIDE_EU_NICE_LOW_BACK: https://www.nice.org.uk/guidance/ng59/resources |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/low_back_pain_simple_adult/ | TODO_DOWNLO"
+DISEASE_0054,disease,Disease_Download_Map,54,sprain_strain_mild_adult,,35,"sprain_strain_mild_adult | Mild sprain / strain | Pain | adult | T14.8 | N | PAIN_MSK | GUIDE_EU_NICE_LOW_BACK, GUIDE_US_ACP_LOW_BACK, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_EU_NICE_LOW_BACK: https://www.nice.org.uk/guidance/ng59/resources
+GUIDE_US_ACP_LOW_BACK: https://www.acpjournals.org/doi/10.7326/M16-2367
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_ACP_LOW_BACK: https://www.acpjournals.org/doi/10.7326/M16-2367 | GUIDE_EU_NICE_LOW_BACK: https://www.nice.org.uk/guidance/ng59/resources |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/sprain_strain_mild_adult/ | TODO_DOWNLOAD |"

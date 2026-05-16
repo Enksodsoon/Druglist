@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_59",
+  "task_id": "T00575",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=dicyclomine%2Bsimethicone%20syrup&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds008034/T00575_Drug_Label_Links_59.json",
+  "sha256": "67c805b3f656b058953d0d4779873441c36e4eb063e5362b68c97609502e0d5f",
+  "downloaded_at": "2026-05-16T03:34:56.659894+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:59:Drug_Label_Links_59",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

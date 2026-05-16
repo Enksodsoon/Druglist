@@ -1,0 +1,14 @@
+{
+  "source_id": "3637",
+  "task_id": "T07037",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tobradex+Ophthalmic+Ointment",
+  "local_path": "imports/accepted_evidence/product/3637/T07037_3637.cfm",
+  "sha256": "954ff143f57591b585d2622066c9fd7c1416b116af09892b2c15ba1e62e2cd88",
+  "downloaded_at": "2026-05-16T03:51:01.178420+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:837:3637",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

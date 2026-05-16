@@ -1,0 +1,14 @@
+{
+  "source_id": "42823",
+  "task_id": "T05151",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Euthyrox+100+mcg+%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87",
+  "local_path": "imports/accepted_evidence/product/42823/T05151_42823.html",
+  "sha256": "860e690bb7ad2f73217f6211481191b2243c3f3a52167395a82b5d34b7c6f3c5",
+  "downloaded_at": "2026-05-16T03:46:16.270226+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:601:42823",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

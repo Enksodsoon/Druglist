@@ -1,0 +1,14 @@
+{
+  "source_id": "1943",
+  "task_id": "T00866",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Floctil+250",
+  "local_path": "imports/accepted_evidence/product/1943/T00866_1943.html",
+  "sha256": "bba33caf28ec5914ac5b1633d1cf543041ace85b2378c2e8fead39af7d3d86ec",
+  "downloaded_at": "2026-05-16T03:35:37.426446+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:14:1943",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

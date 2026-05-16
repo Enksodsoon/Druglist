@@ -1,0 +1,14 @@
+{
+  "source_id": "44922",
+  "task_id": "T03471",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Mybacin+OTC+Mint",
+  "local_path": "imports/accepted_evidence/product/44922/T03471_44922.cfm",
+  "sha256": "7911ddbacf0e32c137a91a76f929309fd950ce469c37de466da53a92b6dde8f7",
+  "downloaded_at": "2026-05-16T03:42:00.707933+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:367:44922",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_50",
+  "task_id": "T00497",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=povidone%20iodine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001238/T00497_Drug_Label_Links_50.json",
+  "sha256": "f739a30e4b02155a3f8538ad547a54b7c1bf3cf1525cf2e1eb152926b01d8691",
+  "downloaded_at": "2026-05-16T03:34:46.008302+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:50:Drug_Label_Links_50",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

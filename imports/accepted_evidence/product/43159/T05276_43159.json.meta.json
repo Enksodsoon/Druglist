@@ -1,0 +1,14 @@
+{
+  "source_id": "43159",
+  "task_id": "T05276",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ferli-6&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/43159/T05276_43159.json",
+  "sha256": "a8cd74e4521d88a95376c6c04dd7a8a4eabae2290ddbd8440f5ef6b5f4634f4c",
+  "downloaded_at": "2026-05-16T03:46:30.659166+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:618:43159",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "42321",
+  "task_id": "T02935",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Daflon%201000%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/42321/T02935_42321.json",
+  "sha256": "66ef3b4808d09323fcebc10a5c6fc059bda4040943a89dff45433fca239f6bce",
+  "downloaded_at": "2026-05-16T03:40:39.345575+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:295:42321",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

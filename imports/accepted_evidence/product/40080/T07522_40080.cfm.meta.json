@@ -1,0 +1,14 @@
+{
+  "source_id": "40080",
+  "task_id": "T07522",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Actavia",
+  "local_path": "imports/accepted_evidence/product/40080/T07522_40080.cfm",
+  "sha256": "260318f23ae86e793f5cfe48439d6162e5dc994fde18c8e575831fcd8afe927b",
+  "downloaded_at": "2026-05-16T03:52:15.434056+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:891:40080",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

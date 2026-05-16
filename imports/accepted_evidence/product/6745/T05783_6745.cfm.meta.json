@@ -1,0 +1,14 @@
+{
+  "source_id": "6745",
+  "task_id": "T05783",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Hydrocortisone+Acetate+%2BMepyramine+Maleate+%2F",
+  "local_path": "imports/accepted_evidence/product/6745/T05783_6745.cfm",
+  "sha256": "70088f92c8c759e203231d2ff90bf426761b3744de3a5858ad84db30be5b8b58",
+  "downloaded_at": "2026-05-16T03:47:47.614318+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:680:6745",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

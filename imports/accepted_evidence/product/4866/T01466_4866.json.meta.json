@@ -1,0 +1,14 @@
+{
+  "source_id": "4866",
+  "task_id": "T01466",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Saccharin%20%2BAmyl%20Acetate%20%2BAlcohol%20%2BCastor%20Oil/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/4866/T01466_4866.json",
+  "sha256": "e6e18ec9f203ceac483dd9a6c4c1699dbb2e7cdf6eb37927a83fb55d8d34d375",
+  "downloaded_at": "2026-05-16T03:37:01.161025+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:100:4866",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

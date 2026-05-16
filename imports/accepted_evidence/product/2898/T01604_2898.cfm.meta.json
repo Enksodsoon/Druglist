@@ -1,0 +1,14 @@
+{
+  "source_id": "2898",
+  "task_id": "T01604",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Esomeprazole",
+  "local_path": "imports/accepted_evidence/product/2898/T01604_2898.cfm",
+  "sha256": "6b9aacc42936142723755b22a009a5935695710cb8291dd4d14abe7e87545b59",
+  "downloaded_at": "2026-05-16T03:37:21.499069+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:115:2898|Product_Label_Links:116:2903",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

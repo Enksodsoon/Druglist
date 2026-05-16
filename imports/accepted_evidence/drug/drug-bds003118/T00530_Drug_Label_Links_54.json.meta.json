@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_54",
+  "task_id": "T00530",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=topical%20pain%20rub&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds003118/T00530_Drug_Label_Links_54.json",
+  "sha256": "af8b1b9dfe80a52277aeb788b4b692406b194a4976d46a52d8bafd45ca1ba1c1",
+  "downloaded_at": "2026-05-16T03:34:50.435484+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:54:Drug_Label_Links_54",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

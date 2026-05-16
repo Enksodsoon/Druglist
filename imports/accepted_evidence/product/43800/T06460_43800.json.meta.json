@@ -1,0 +1,14 @@
+{
+  "source_id": "43800",
+  "task_id": "T06460",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Hyaluronate%200%201%20%2B6-Aminocaproic%20Acid/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/43800/T06460_43800.json",
+  "sha256": "1ed211e722219f292c05a2ef3fa64bb8e2ec332ffcdebd42b01b0385c7506cf9",
+  "downloaded_at": "2026-05-16T03:49:31.558648+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:762:43800",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

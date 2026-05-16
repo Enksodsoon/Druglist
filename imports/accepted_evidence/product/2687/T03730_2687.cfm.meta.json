@@ -1,0 +1,14 @@
+{
+  "source_id": "2687",
+  "task_id": "T03730",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Mecobalamin",
+  "local_path": "imports/accepted_evidence/product/2687/T03730_2687.cfm",
+  "sha256": "122a0502dce7e0eaed3a4e88d145dc52c5290eb91578460c6201ffaa1f103595",
+  "downloaded_at": "2026-05-16T03:42:41.041933+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:402:2687|Product_Label_Links:404:2625",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

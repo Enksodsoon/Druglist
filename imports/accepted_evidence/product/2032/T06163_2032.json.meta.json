@@ -1,0 +1,14 @@
+{
+  "source_id": "2032",
+  "task_id": "T06163",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Glycerin%20Suppositories%20For%20Infants&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2032/T06163_2032.json",
+  "sha256": "f67459d144c4581704b3182f988044996b706de3626794c2b914b2411bb1ab9e",
+  "downloaded_at": "2026-05-16T03:48:45.795082+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:729:2032",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

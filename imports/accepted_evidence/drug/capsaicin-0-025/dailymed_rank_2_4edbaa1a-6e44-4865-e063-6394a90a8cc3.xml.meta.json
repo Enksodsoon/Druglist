@@ -1,0 +1,17 @@
+{
+  "source_id": "1541",
+  "task_id": "DAILYMED_2_4edbaa1a-6e44-4865-e063-6394a90a8cc3",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/4edbaa1a-6e44-4865-e063-6394a90a8cc3.xml",
+  "local_path": "imports/accepted_evidence/drug/capsaicin-0-025/dailymed_rank_2_4edbaa1a-6e44-4865-e063-6394a90a8cc3.xml",
+  "sha256": "f8470cc0822373b52ab4d3d7a87d85a4a4ad0e5bda23d3858a3dd3b2ddda6b50",
+  "downloaded_at": "2026-05-16T03:55:52.579217+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Capsaicin 0.025%",
+  "rank": 2,
+  "setid": "4edbaa1a-6e44-4865-e063-6394a90a8cc3",
+  "title": "RAPID RELIEF (0.025% CAPSAICIN PAIN PATCH) PATCH [RAPID AID VIET NAM COMPANY LIMITED]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

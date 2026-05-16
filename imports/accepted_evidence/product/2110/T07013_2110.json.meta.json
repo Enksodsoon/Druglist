@@ -1,0 +1,14 @@
+{
+  "source_id": "2110",
+  "task_id": "T07013",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Hirudoid%20Cream%20%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2110/T07013_2110.json",
+  "sha256": "1f04e71894e685395f5c912bf1ad59e1450b024b7d51ff4fc179bc044716b3c8",
+  "downloaded_at": "2026-05-16T03:50:56.939851+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:833:2110",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "40000",
+  "task_id": "T07634",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Aerobidol+Inhaler",
+  "local_path": "imports/accepted_evidence/product/40000/T07634_40000.html",
+  "sha256": "9d78741fcd675c605df47381b33df87793c5cb25eb0fdb492b43a6d4e09f58d0",
+  "downloaded_at": "2026-05-16T03:52:33.845340+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:905:40000",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

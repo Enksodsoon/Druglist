@@ -1,0 +1,14 @@
+{
+  "source_id": "3007",
+  "task_id": "T03771",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=One-Six-Twelve",
+  "local_path": "imports/accepted_evidence/product/3007/T03771_3007.html",
+  "sha256": "776d9e775783b516e1e28a44dea99b9f105b5418ddb6097471417f75c1037577",
+  "downloaded_at": "2026-05-16T03:42:47.867214+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:406:3007",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

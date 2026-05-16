@@ -1,0 +1,14 @@
+{
+  "source_id": "44943",
+  "task_id": "T03842",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Alverine%20Citrate%20%2BSimethicone&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/44943/T03842_44943.json",
+  "sha256": "527f2aad1843bad883a1420b71ddb81e535eff75b78a86a7c1d6b2326eefc096",
+  "downloaded_at": "2026-05-16T03:42:57.560648+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:415:44943",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

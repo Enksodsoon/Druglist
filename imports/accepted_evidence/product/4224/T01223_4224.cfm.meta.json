@@ -1,0 +1,14 @@
+{
+  "source_id": "4224",
+  "task_id": "T01223",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Zensil",
+  "local_path": "imports/accepted_evidence/product/4224/T01223_4224.cfm",
+  "sha256": "07391bcf32db76093909c685eec92bf601ef4b82ce99c17882bc9fd1ff0e1899",
+  "downloaded_at": "2026-05-16T03:36:25.753517+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:66:4224",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

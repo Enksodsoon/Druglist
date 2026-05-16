@@ -1,0 +1,14 @@
+{
+  "source_id": "2806",
+  "task_id": "T07449",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Nappy-Hippo&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2806/T07449_2806.json",
+  "sha256": "785cd943020ba7588ee8c9061b33b2ab3bc88ff41c1b1c3ecd7d9774fea11973",
+  "downloaded_at": "2026-05-16T03:52:04.313361+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:883:2806",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

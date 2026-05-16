@@ -1,0 +1,14 @@
+{
+  "source_id": "45641",
+  "task_id": "T07490",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Naphazoline%20%2BChlorpheniramine%20Maleate%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/45641/T07490_45641.json",
+  "sha256": "003140f929b392c499f9c2cd42588d16e2e2bbb38ec4457bb98bf340ee4bb5bc",
+  "downloaded_at": "2026-05-16T03:52:09.830806+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:887:45641",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

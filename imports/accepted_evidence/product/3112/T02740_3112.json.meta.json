@@ -1,0 +1,14 @@
+{
+  "source_id": "3112",
+  "task_id": "T02740",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Patar-Cap%20%28%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%29&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3112/T02740_3112.json",
+  "sha256": "2c9e592e52f36e778723e5dd010cefa730968a6301634e62398c6ec7cde991a1",
+  "downloaded_at": "2026-05-16T03:40:10.127076+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:271:3112",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

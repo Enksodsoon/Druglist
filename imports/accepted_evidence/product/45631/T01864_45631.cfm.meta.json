@@ -1,0 +1,14 @@
+{
+  "source_id": "45631",
+  "task_id": "T01864",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Nystatin+%2F",
+  "local_path": "imports/accepted_evidence/product/45631/T01864_45631.cfm",
+  "sha256": "d051daffc2d0d3f56561f949901e5750102611abd54c874274c3715bba5aeb4c",
+  "downloaded_at": "2026-05-16T03:38:01.403738+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:148:45631",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

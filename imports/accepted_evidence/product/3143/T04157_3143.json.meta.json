@@ -1,0 +1,14 @@
+{
+  "source_id": "3143",
+  "task_id": "T04157",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Cyproterone%20Acetate%20%2BEthinylestradiol&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3143/T04157_3143.json",
+  "sha256": "035348e629e19cf01dfce392adcacf52b4d9b4de60d77d302b39bb20b1ce68da",
+  "downloaded_at": "2026-05-16T03:43:46.556405+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:459:3143|Product_Label_Links:460:46511|Product_Label_Links:462:3731|Product_Label_Links:463:3699",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

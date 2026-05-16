@@ -1,0 +1,14 @@
+{
+  "source_id": "40602",
+  "task_id": "T01833",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Biozole+150+mg",
+  "local_path": "imports/accepted_evidence/product/40602/T01833_40602.cfm",
+  "sha256": "202d17b88f4cd484bb9f3897e244d42d982896d01a6bdc54890e1c06bb6d9f2d",
+  "downloaded_at": "2026-05-16T03:37:56.489786+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:144:40602",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

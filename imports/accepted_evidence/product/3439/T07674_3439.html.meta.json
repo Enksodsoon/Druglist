@@ -1,0 +1,14 @@
+{
+  "source_id": "3439",
+  "task_id": "T07674",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Reparil-Gel+N+%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+  "local_path": "imports/accepted_evidence/product/3439/T07674_3439.html",
+  "sha256": "4ee664a4a9753376bf628a57f2b2cdb4dbdec2970e47c22a713805aa105ad6b8",
+  "downloaded_at": "2026-05-16T03:52:42.252106+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:910:3439",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

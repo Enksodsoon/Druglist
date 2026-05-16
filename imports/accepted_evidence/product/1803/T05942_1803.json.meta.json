@@ -1,0 +1,14 @@
+{
+  "source_id": "1803",
+  "task_id": "T05942",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Mometasone%20Furoate%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1803/T05942_1803.json",
+  "sha256": "ce9e6a5579f4377ee51e03757889721728062d06b572171407e5455cc6a584d0",
+  "downloaded_at": "2026-05-16T03:48:13.090839+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:699:1803|Product_Label_Links:700:1807",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

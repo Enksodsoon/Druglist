@@ -1,0 +1,14 @@
+{
+  "source_id": "41408",
+  "task_id": "T05848",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betamethasone+Valerate+Betamethasone+%2F",
+  "local_path": "imports/accepted_evidence/product/41408/T05848_41408.cfm",
+  "sha256": "a28194523ab13c061e723776128e8910c8f81aa90429fbba645ce26e4b55d647",
+  "downloaded_at": "2026-05-16T03:47:57.577775+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:687:41408",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

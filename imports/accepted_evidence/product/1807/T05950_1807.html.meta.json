@@ -1,0 +1,14 @@
+{
+  "source_id": "1807",
+  "task_id": "T05950",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Elomet+0.1%25",
+  "local_path": "imports/accepted_evidence/product/1807/T05950_1807.html",
+  "sha256": "be32efb9d03433900509769d78f258ff4e6c835f6eb918d8cb0441349d7e5f79",
+  "downloaded_at": "2026-05-16T03:48:13.813665+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:700:1807",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

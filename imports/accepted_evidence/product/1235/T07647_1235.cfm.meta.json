@@ -1,0 +1,14 @@
+{
+  "source_id": "1235",
+  "task_id": "T07647",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Berodual+Metered+Doses",
+  "local_path": "imports/accepted_evidence/product/1235/T07647_1235.cfm",
+  "sha256": "41fc02e0027681d87b30157e8ee6a89eabb080accf63aab649c3ea6b12444a98",
+  "downloaded_at": "2026-05-16T03:52:35.142729+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:907:1235",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1807",
+  "task_id": "T05947",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Elomet+0.1%25",
+  "local_path": "imports/accepted_evidence/product/1807/T05947_1807.cfm",
+  "sha256": "1dfd208ac21bb70f4d1012ab936fabdf46b1e9476bfba78043f087731e5c418d",
+  "downloaded_at": "2026-05-16T03:48:13.039008+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:700:1807",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

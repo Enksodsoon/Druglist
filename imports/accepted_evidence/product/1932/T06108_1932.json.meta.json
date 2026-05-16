@@ -1,0 +1,14 @@
+{
+  "source_id": "1932",
+  "task_id": "T06108",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Fungiderm-B&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1932/T06108_1932.json",
+  "sha256": "25bc754ed1c460e3ab89a431569365142169ca55960749c8a5c022e476921fde",
+  "downloaded_at": "2026-05-16T03:48:37.335547+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:722:1932",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "45624",
+  "task_id": "T02590",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Naprofazt",
+  "local_path": "imports/accepted_evidence/product/45624/T02590_45624.html",
+  "sha256": "e7255d65328dc2c5f3e576bc6bd87cf03c9f2bcd0c9aad5fdcd73a5e37cbfde7",
+  "downloaded_at": "2026-05-16T03:39:47.941644+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:249:45624",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3661",
+  "task_id": "T03503",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Strepsils+Cool+%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87+24s",
+  "local_path": "imports/accepted_evidence/product/3661/T03503_3661.html",
+  "sha256": "9060135de29989b10abb4fa804d8ed41aa92dfa3dc1ce952f9f30909bf0b976c",
+  "downloaded_at": "2026-05-16T03:42:06.729270+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:370:3661",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "8703",
+  "task_id": "T01486",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Tedium",
+  "local_path": "imports/accepted_evidence/product/8703/T01486_8703.html",
+  "sha256": "5e96636afccd30fc52f8f08fe5618c85599b25a387d4c35a548f8586072b38e6",
+  "downloaded_at": "2026-05-16T03:37:06.752815+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:102:8703",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

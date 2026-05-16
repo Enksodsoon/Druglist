@@ -1,0 +1,14 @@
+{
+  "source_id": "1621",
+  "task_id": "T05877",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dermatop+Cream+%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+  "local_path": "imports/accepted_evidence/product/1621/T05877_1621.cfm",
+  "sha256": "c29fcd3da38202646c504299a4c2bf1fb8ee99b2efb6eb4bc0b300594a6c1247",
+  "downloaded_at": "2026-05-16T03:48:02.279510+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:691:1621",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

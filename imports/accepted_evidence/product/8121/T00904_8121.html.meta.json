@@ -1,0 +1,14 @@
+{
+  "source_id": "8121",
+  "task_id": "T00904",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=Erythromycin+stearate",
+  "local_path": "imports/accepted_evidence/product/8121/T00904_8121.html",
+  "sha256": "72b44a81b24d4c9fd756dbf44d8c73d6152713cb8dee045c80d4cf806091169f",
+  "downloaded_at": "2026-05-16T03:35:42.275294+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:19:8121",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

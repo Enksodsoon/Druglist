@@ -1,0 +1,14 @@
+{
+  "source_id": "7572",
+  "task_id": "T01850",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=J.V.Nazole&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7572/T01850_7572.json",
+  "sha256": "609110b6add20c0dab0ef3ecb2003ceaabfec1eca4f11085c2533358a16eff7d",
+  "downloaded_at": "2026-05-16T03:37:59.241830+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:146:7572",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

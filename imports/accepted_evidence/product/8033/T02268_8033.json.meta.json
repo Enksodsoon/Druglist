@@ -1,0 +1,14 @@
+{
+  "source_id": "8033",
+  "task_id": "T02268",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Chlorpheniramine%20Maleate%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/8033/T02268_8033.json",
+  "sha256": "fc888ccb6a0b9a86bc088883a966c1afb85a4cc923d44f5b2fb6e133716a34b0",
+  "downloaded_at": "2026-05-16T03:38:59.426706+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:205:8033|Product_Label_Links:208:7271",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

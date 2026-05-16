@@ -1,0 +1,14 @@
+{
+  "source_id": "2228",
+  "task_id": "T07549",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Iliadin+0.025%25+%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%AB%E0%B8%A2%E0%B8%94",
+  "local_path": "imports/accepted_evidence/product/2228/T07549_2228.html",
+  "sha256": "cdcc0a76865eb4f2a804a0eb3ef2b13f3d63d9c74df7964deb33d3619667e8fc",
+  "downloaded_at": "2026-05-16T03:52:20.106265+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:893:2228",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

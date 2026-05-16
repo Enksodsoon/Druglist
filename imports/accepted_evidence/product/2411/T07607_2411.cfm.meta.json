@@ -1,0 +1,14 @@
+{
+  "source_id": "2411",
+  "task_id": "T07607",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Kamillosan-M+Spray",
+  "local_path": "imports/accepted_evidence/product/2411/T07607_2411.cfm",
+  "sha256": "73f92d241cd22f63d826be49e01f2a8699ada45729aaa0eaeaad967a454c9dc8",
+  "downloaded_at": "2026-05-16T03:52:28.814847+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:903:2411",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

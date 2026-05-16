@@ -1,0 +1,14 @@
+{
+  "source_id": "LABEL_EU_EMA_DATA",
+  "task_id": "T00016",
+  "source_url": "https://www.ema.europa.eu/en/about-us/about-website/download-website-data-json-data-format",
+  "local_path": "imports/accepted_evidence/bulk/T00016_LABEL_EU_EMA_DATA.html",
+  "sha256": "878e6ba1fd9c55399ad8a248f4ee989eac6933232f15bd96598fa9a99bfd8c91",
+  "downloaded_at": "2026-05-16T03:33:45.492461+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:6:LABEL_EU_EMA_DATA|Source_Download_Links:7:LABEL_EU_EMA_JSON|Bulk_Source_Tasks:9:Bulk_Source_Tasks_9",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

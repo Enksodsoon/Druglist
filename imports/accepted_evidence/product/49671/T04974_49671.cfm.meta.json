@@ -1,0 +1,14 @@
+{
+  "source_id": "49671",
+  "task_id": "T04974",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Xarator+20+mg.",
+  "local_path": "imports/accepted_evidence/product/49671/T04974_49671.cfm",
+  "sha256": "8a843e842c5aa422b7b9c0d56e2ea1cb69b380681b87d0477493a0295b405eb3",
+  "downloaded_at": "2026-05-16T03:45:48.054672+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:576:49671",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

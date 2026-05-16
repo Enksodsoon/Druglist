@@ -1,0 +1,14 @@
+{
+  "source_id": "8033",
+  "task_id": "T02263",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Chlophen+Syrup+%28%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%29",
+  "local_path": "imports/accepted_evidence/product/8033/T02263_8033.cfm",
+  "sha256": "8e4691383f9f0bc4b8523724ad19988e8d52894c250bdd98033891b6b2b7bcf7",
+  "downloaded_at": "2026-05-16T03:38:58.460077+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:205:8033",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

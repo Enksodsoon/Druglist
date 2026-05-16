@@ -1,0 +1,14 @@
+{
+  "source_id": "1475",
+  "task_id": "T05484",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Counterpain+Cool+%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+  "local_path": "imports/accepted_evidence/product/1475/T05484_1475.html",
+  "sha256": "4676f52bcc2bbecd61f6d5698e3930a914dbde5d9bc9907af3f7022738836c54",
+  "downloaded_at": "2026-05-16T03:47:01.899001+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:643:1475",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

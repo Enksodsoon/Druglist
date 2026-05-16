@@ -1,0 +1,14 @@
+{
+  "source_id": "2618",
+  "task_id": "T02768",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Meptin+%E0%B8%99%E0%B9%89%E0%B8%B3+%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87",
+  "local_path": "imports/accepted_evidence/product/2618/T02768_2618.cfm",
+  "sha256": "92c793c547de74984267bf325fe33e1cd890d8bbf59a48039a43272fa1f65e34",
+  "downloaded_at": "2026-05-16T03:40:15.044656+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:274:2618",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

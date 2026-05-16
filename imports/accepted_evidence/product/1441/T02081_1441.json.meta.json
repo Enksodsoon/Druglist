@@ -1,0 +1,14 @@
+{
+  "source_id": "1441",
+  "task_id": "T02081",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Cefixime%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1441/T02081_1441.json",
+  "sha256": "40d42c1628405e5633c374f59b42769c1cde1c9ef71ade869f372170971158a9",
+  "downloaded_at": "2026-05-16T03:38:32.454996+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:176:1441",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

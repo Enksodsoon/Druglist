@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_57",
+  "task_id": "T00563",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=racecadotril+paeds",
+  "local_path": "imports/accepted_evidence/drug/drug-bds002108/T00563_Drug_Label_Links_57.html",
+  "sha256": "cfc20e0f1864ebbf36813d75710aa2390dcf5bfae399e441d692082e85941b74",
+  "downloaded_at": "2026-05-16T03:34:57.685243+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:57:Drug_Label_Links_57",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "40033",
+  "task_id": "T01009",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Loratadine",
+  "local_path": "imports/accepted_evidence/product/40033/T01009_40033.cfm",
+  "sha256": "fe232f767b338cbd1a6b735640f24e059c73950673e58746b9414be75e0318cd",
+  "downloaded_at": "2026-05-16T03:35:57.049009+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:36:40033|Product_Label_Links:40:41510|Product_Label_Links:48:6046",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

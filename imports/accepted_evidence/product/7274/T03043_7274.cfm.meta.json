@@ -1,0 +1,14 @@
+{
+  "source_id": "7274",
+  "task_id": "T03043",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Spasuri",
+  "local_path": "imports/accepted_evidence/product/7274/T03043_7274.cfm",
+  "sha256": "0cab33ee799936e1b0770ff1c30f8136963a5a188669f9af11e4a5d8f3981366",
+  "downloaded_at": "2026-05-16T03:40:56.260838+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:310:7274",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

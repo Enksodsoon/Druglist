@@ -1,0 +1,14 @@
+{
+  "source_id": "1102",
+  "task_id": "T07323",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Imiquimod+5+w%2Fw",
+  "local_path": "imports/accepted_evidence/product/1102/T07323_1102.cfm",
+  "sha256": "5c59fc46f43912387a6ef33087c24acb0025482dce1f1c5a39a1143deee3e0e9",
+  "downloaded_at": "2026-05-16T03:51:44.678369+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:868:1102",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

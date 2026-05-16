@@ -1,0 +1,14 @@
+{
+  "source_id": "1015",
+  "task_id": "T02245",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Aerius+Syrup",
+  "local_path": "imports/accepted_evidence/product/1015/T02245_1015.html",
+  "sha256": "94b8e9340bbc58ed5cb5431c301fe952e589b986e7469b2325a34a119db252e6",
+  "downloaded_at": "2026-05-16T03:38:56.807962+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:202:1015",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

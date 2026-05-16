@@ -1,0 +1,14 @@
+{
+  "source_id": "2613",
+  "task_id": "T04102",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Meliane+21",
+  "local_path": "imports/accepted_evidence/product/2613/T04102_2613.html",
+  "sha256": "98d4bd1255fd5b4e5aad3473e7bafed2814a65863e1d17a2fb675cccf9daee8b",
+  "downloaded_at": "2026-05-16T03:43:40.795117+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:449:2613",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

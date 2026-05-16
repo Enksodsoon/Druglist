@@ -1,0 +1,14 @@
+{
+  "source_id": "2637",
+  "task_id": "T03332",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Domperidone+%2F",
+  "local_path": "imports/accepted_evidence/product/2637/T03332_2637.cfm",
+  "sha256": "f5f889c534904ba8339efb93e12ed23adaa6fa725efb3fd17c3521c1e1af62ab",
+  "downloaded_at": "2026-05-16T03:41:39.592059+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:349:2637|Product_Label_Links:350:46503",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

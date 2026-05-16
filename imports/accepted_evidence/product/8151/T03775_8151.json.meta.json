@@ -1,0 +1,14 @@
+{
+  "source_id": "8151",
+  "task_id": "T03775",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Sambee&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8151/T03775_8151.json",
+  "sha256": "ac55f2aef8afaa5eb8f3f93f9e403cd63da6e1bfb7e128e2be3b84f5632df793",
+  "downloaded_at": "2026-05-16T03:42:47.261090+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:407:8151",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

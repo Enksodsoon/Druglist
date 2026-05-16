@@ -1,0 +1,14 @@
+{
+  "source_id": "1960",
+  "task_id": "T04890",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Atorvastatin+Calcium",
+  "local_path": "imports/accepted_evidence/product/1960/T04890_1960.cfm",
+  "sha256": "4fb8adf47de16006a571a9f7fba8d2e898246ed666d01f4d3d656c9d5c126961",
+  "downloaded_at": "2026-05-16T03:45:35.703229+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:564:1960|Product_Label_Links:565:1945|Product_Label_Links:566:1918|Product_Label_Links:570:41432",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

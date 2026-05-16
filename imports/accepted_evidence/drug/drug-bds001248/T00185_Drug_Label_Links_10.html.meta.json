@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_10",
+  "task_id": "T00185",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=saccharomyces+boulardii",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001248/T00185_Drug_Label_Links_10.html",
+  "sha256": "b5c2f783f33422005f6dae7e66af4c0587a88e72cf48c9e4bba11c9006af1855",
+  "downloaded_at": "2026-05-16T03:34:05.736453+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:10:Drug_Label_Links_10",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

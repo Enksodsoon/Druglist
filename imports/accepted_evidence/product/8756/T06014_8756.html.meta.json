@@ -1,0 +1,14 @@
+{
+  "source_id": "8756",
+  "task_id": "T06014",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Tacinol+0.02+%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+  "local_path": "imports/accepted_evidence/product/8756/T06014_8756.html",
+  "sha256": "49cb6c8e3c322d9286fb5f0cbdf7d1e9fae8ef281240ed338e55b8119b019062",
+  "downloaded_at": "2026-05-16T03:48:23.557159+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:708:8756",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

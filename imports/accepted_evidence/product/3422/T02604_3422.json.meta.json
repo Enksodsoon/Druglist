@@ -1,0 +1,14 @@
+{
+  "source_id": "3422",
+  "task_id": "T02604",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Pircam%2020%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3422/T02604_3422.json",
+  "sha256": "1aa49a0b18e49e025828be63481040bdb96f9e4aec3c8a9c685fc2c778323f67",
+  "downloaded_at": "2026-05-16T03:39:49.832837+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:252:3422",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

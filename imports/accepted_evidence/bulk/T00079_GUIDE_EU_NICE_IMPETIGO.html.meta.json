@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_EU_NICE_IMPETIGO",
+  "task_id": "T00079",
+  "source_url": "https://www.nice.org.uk/guidance/ng153/evidence",
+  "local_path": "imports/accepted_evidence/bulk/T00079_GUIDE_EU_NICE_IMPETIGO.html",
+  "sha256": "424e84128f0d5f02dfd8d31ee531c5828842948b46ee459a2b1c184d114502b3",
+  "downloaded_at": "2026-05-16T03:33:50.556776+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:37:GUIDE_EU_NICE_IMPETIGO",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

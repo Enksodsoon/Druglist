@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 3
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "JBA Joint Revive Glucosamine Sulfate Potassium Chloride,White Willow Bark Extract,Eggshell Membrane Collagen,Chondroitin Sulfate,Turmeric Root Extract,Bromelain,Soy Lecithin STARCH, CORN MICROCRYSTALLINE CELLULOSE MAGNESIUM STEARATE SALIX ALBA BARK SALIX ALBA BARK GLUCOSAMINE SULFATE POTASSIUM CHLORIDE GLUCOSAMINE EGG SHELL MEMBRANE EGG SHELL MEMBRANE CHONDROITIN SULFATE (BOVINE) CONDOLIASE TURMERIC TURMERIC STEM BROMELAIN STEM BROMELAIN SOYBEAN LECITHIN LECITHIN, SOYBEAN"
+      ],
+      "statement_of_identity": [
+        "Identity Dietary supplement"
+      ],
+      "dosage_and_administration": [
+        "Direction Take 2-3 capsules daily, preferably with a meal."
+      ],
+      "safe_handling_warning": [
+        "Safe handling warning Shows Improved Joint Comfort Within 3 Days* Clinically Proven to Support Joint Health* This proprietary blend of Glucosamine, Chondroitin, Eggshell Membrane Collagen and other natural extracts helps: Comfort joints and muscles* Promote durability and flexibility of the joints* Support healthy joint functions* * These statements have not been evaluated by the Food & Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease."
+      ],
+      "health_claim": [
+        ""
+      ],
+      "precautions": [
+        "If you are pregnant, may become pregnant or are breast feeding, consult your healthcare professional before using this product. Do not use if tamper-evident seal is broken or missing. Keep Out of The Reach of Children. Store in a cool, dry place (59°F-86°F), avoid moisture and light."
+      ],
+      "warnings": [
+        "Other Ingredients Maize starch, Microcrystalline Cellulose, Magnesium Stearate."
+      ],
+      "active_ingredient": [
+        ""
+      ],
+      "purpose": [
+        ""
+      ],
+      "inactive_ingredient": [
+        ""
+      ],
+      "keep_out_of_reach_of_children": [
+        ""
+      ],
+      "indications_and_usage": [
+        ""
+      ],
+      "package_label_principal_display_panel": [
+        "Product label image description"
+      ],
+      "set_id": "27f5acf3-04f6-49d7-bbf5-f1c3ad6200cc",
+      "id": "31a5f8ac-00b3-b780-e063-6294a90ac75e",
+      "effective_time": "20250331",
+      "version": "2",
+      "openfda": {
+        "brand_name": [
+          "JBA Joint Revive"
+        ],
+        "generic_name": [
+          "GLUCOSAMINE SULFATE POTASSIUM CHLORIDE,WHITE WILLOW BARK EXTRACT,EGGSHELL MEMBRANE COLLAGEN,CHONDROITIN SULFATE,TURMERIC ROOT EXTRACT,BROMELAIN,SOY LECITHIN"
+        ],
+        "manufacturer_name": [
+          "Advanced Pharmaceutical Services, Inc. Dba Affordable Quality Pharmaceuticals"
+        ],
+        "product_ndc": [
+          "13411-856"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CHONDROITIN SULFATE (BOVINE)",
+          "EGG SHELL MEMBRANE",
+          "GLUCOSAMINE SULFATE POTASSIUM CHLORIDE",
+          "SALIX ALBA BARK",
+          "SOYBEAN LECITHIN",
+          "STEM BROMELAIN",
+          "TURMERIC"
+        ],
+        "spl_id": [
+          "31a5f8ac-00b3-b780-e063-6294a90ac75e"
+        ],
+        "spl_set_id": [
+          "27f5acf3-04f6-49d7-bbf5-f1c3ad6200cc"
+        ],
+        "package_ndc": [
+          "13411-856-15",
+          "13411-856-30",
+          "13411-856-60"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "6IC1M3OG5Z",
+          "N7QBR4212V",
+          "15VQ11I66N",
+          "205MXS71H7",
+          "1DI56QDM62",
+          "ZLM4P8929R",
+          "856YO1Z64F"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "JBA Joint Revive The Legend I Glucosamine Sulfate Potassium Chloride,Fucoidan Extract,Eggshell Membrane Collagen STARCH, CORN MICROCRYSTALLINE CELLULOSE MAGNESIUM STEARATE LAMINARIA JAPONICA LAMINARIA JAPONICA EGG SHELL MEMBRANE EGG SHELL MEMBRANE GLUCOSAMINE SULFATE POTASSIUM CHLORIDE GLUCOSAMINE"
+      ],
+      "statement_of_identity": [
+        "Identity Dietary supplement"
+      ],
+      "dosage_and_administration": [
+        "Direction Take one or two capsules daily with water, preferably with a meal, or as directed by your healthcare professional."
+      ],
+      "safe_handling_warning": [
+        "Safe handling warning JOINT REVIVE™ THE LEGEND I - Triple Anti-Inflammation Action* - Clinically Proven to Support Joint Health* - Enhanced Mobility and Flexibility* Experience unparalleled joint support and inflammation relief with JOINT REVIVE™, a cutting-edge supplement formulated by JBA Brands™. Proudly made in the USA, these capsules harness the powerful synergy of Glucosamine, Fucoidan, and Egg Shell Membrane to deliver comprehensive joint health benefits. Designed for those seeking natural, effective relief, JOINT REVIVE™ offers a triple anti-inflammation formula to support your active lifestyle. THE TRIPLE ANTI-INFLAMMATION FORMULA Glucosamine Maintaining healthy cartilage and joint function. Glucosamine helps reduce inflammation, cushion joints, and alleviate discomfort, making it essential for supporting joint mobility and flexibility .* Fucoidan is known for its potent anti- inflammatory and immune-supporting properties. It helps reduce systemic inflammation, promoting joint comfort and overall well-being .* Egg Shell Membrane A natural source of essential nutrients including collagen, elastin, hyaluronic acid, and glycosaminoglycans. Egg Shell Membrane supports joint health by providing the building blocks for cartilage repair and maintenance. It also has natural anti-inflammatory properties, helping to reduce joint pain and stiffness .* Comprehensive Joint Support* Enhanced Mobility and Flexibility* Natural and Effective Relief* Revitalize your joints and embrace a life of comfort and mobility with JOINT REVIVE by JBA Brands™. * These statements have not been evaluated by the Food & Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease."
+      ],
+      "health_claim": [
+        ""
+      ],
+      "precautions": [
+        "If you are pregnant, may become pregnant or are breast feeding, consult your healthcare professional before using this product. Do not use if tamper-evident seal is broken or missing. Keep Out of The Reach of Children. Store in a cool, dry place (59oF-86oF), avoid moisture and light."
+      ],
+      "warnings": [
+        "Other Ingredients Maize Starch, Microcrystalline Cellulose, Magnesium Stearate"
+      ],
+      "active_ingredient": [
+        ""
+      ],
+      "purpose": [
+        ""
+      ],
+      "inactive_ingredient": [
+        ""
+      ],
+      "keep_out_of_reach_of_children": [
+        ""
+      ],
+      "indications_and_usage": [
+        ""
+      ],
+      "package_label_principal_display_panel": [
+        "Product label image description image description"
+      ],
+      "set_id": "f338dafe-d97e-4e00-88da-7cdaa39f8d2f",
+      "id": "44a8681f-7665-b95a-e063-6394a90a61c6",
+      "effective_time": "20251128",
+      "version": "2",
+      "openfda": {
+        "brand_name": [
+          "JBA Joint Revive The Legend I"
+        ],
+        "generic_name": [
+          "GLUCOSAMINE SULFATE POTASSIUM CHLORIDE,FUCOIDAN EXTRACT,EGGSHELL MEMBRANE COLLAGEN"
+        ],
+        "manufacturer_name": [
+          "Advanced Pharmaceutical Services, Inc. Dba Affordable Quality Pharmaceuticals"
+        ],
+        "product_ndc": [
+          "13411-859"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EGG SHELL MEMBRANE",
+          "GLUCOSAMINE SULFATE POTASSIUM CHLORIDE",
+          "LAMINARIA JAPONICA"
+        ],
+        "spl_id": [
+          "44a8681f-7665-b95a-e063-6394a90a61c6"
+        ],
+        "spl_set_id": [
+          "f338dafe-d97e-4e00-88da-7cdaa39f8d2f"
+        ],
+        "package_ndc": [
+          "13411-859-15",
+          "13411-859-30",
+          "13411-859-60"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "N7QBR4212V",
+          "15VQ11I66N",
+          "WE98HW412B"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "JBA Joint Revive TM The Legend Caffe Latte Glucosamine Sulfate Potassium Chloride,Chondroitin Sulfate,Fucoidan Extract COFFEE BEAN MALTODEXTRIN MANNITOL SKIM MILK STEVIOSIDE SUCROSE LAMINARIA JAPONICA LAMINARIA JAPONICA CHONDROITIN SULFATE (BOVINE) CONDOLIASE GLUCOSAMINE SULFATE POTASSIUM CHLORIDE GLUCOSAMINE"
+      ],
+      "statement_of_identity": [
+        "Identity Dietary supplement"
+      ],
+      "dosage_and_administration": [
+        "Direction Take one or two packets per day with or without meal in the morning."
+      ],
+      "safe_handling_warning": [
+        "Safe handling warning JOINT REVIVE™ THE LEGEND CAFFE LATTE Glucosamine – Chondroitin - Fucoidan The Perfect Blend of Coffee and Joint Health Glucosamine Plays a crucial role in maintaining the integrity and repair of cartilage, which is essential for joint function* Chondroitin Helps retain water in the cartilage, providing it with elasticity and preventing from breaking down.* Fucoidan Helps reduce systemic inflammation, promoting joint comfort and overall well-being.* Coffee Improves blood flow and circulation. Enhance the delivery of nutrients through-out the body including the joints.* Has anti-inflammatory properties.* Helps combat oxidative stress and inflammation in the body, which are linked to joint degeneration and aging.* Boosts energy levels, enhances focus, and improves mental alertness.* Start your morning with Joint ReviveTM The Legend Caffe Latte. The blend of taste and wellness. Sip, savor and support your every delicious cup. * These statements have not been evaluated by the Food & Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease."
+      ],
+      "health_claim": [
+        ""
+      ],
+      "precautions": [
+        "This coffee may increase energy levels. Consume in moderation and do not exceed the recommended suggested use. Keep Out of The Reach of Children. Store in a cool, dry place (59°F-86°F), avoid moisture and light."
+      ],
+      "warnings": [
+        "Other Ingredients Green Coffee Bean Extract, Maltodextrin, Mannitol, Milk Powder, Stevia, Sucrose"
+      ],
+      "active_ingredient": [
+        ""
+      ],
+      "purpose": [
+        ""
+      ],
+      "inactive_ingredient": [
+        ""
+      ],
+      "keep_out_of_reach_of_children": [
+        ""
+      ],
+      "indications_and_usage": [
+        ""
+      ],
+      "package_label_principal_display_panel": [
+        "Product label image description image description"
+      ],
+      "set_id": "fd397678-084e-4cde-8785-d96325634cdd",
+      "id": "44a86e5f-f79b-d5aa-e063-6294a90af830",
+      "effective_time": "20251128",
+      "version": "2",
+      "openfda": {
+        "brand_name": [
+          "JBA Joint Revive TM The Legend Caffe Latte"
+        ],
+        "generic_name": [
+          "GLUCOSAMINE SULFATE POTASSIUM CHLORIDE,CHONDROITIN SULFATE,FUCOIDAN EXTRACT"
+        ],
+        "manufacturer_name": [
+          "Advanced Pharmaceutical Services, Inc. Dba Affordable Quality Pharmaceuticals"
+        ],
+        "product_ndc": [
+          "13411-858"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CHONDROITIN SULFATE (BOVINE)",
+          "GLUCOSAMINE SULFATE POTASSIUM CHLORIDE",
+          "LAMINARIA JAPONICA"
+        ],
+        "spl_id": [
+          "44a86e5f-f79b-d5aa-e063-6294a90af830"
+        ],
+        "spl_set_id": [
+          "fd397678-084e-4cde-8785-d96325634cdd"
+        ],
+        "package_ndc": [
+          "13411-858-15",
+          "13411-858-30"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "6IC1M3OG5Z",
+          "15VQ11I66N",
+          "WE98HW412B"
+        ]
+      }
+    }
+  ]
+}

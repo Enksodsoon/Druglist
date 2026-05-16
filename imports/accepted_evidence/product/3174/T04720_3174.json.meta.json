@@ -1,0 +1,14 @@
+{
+  "source_id": "3174",
+  "task_id": "T04720",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Plendil%205%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3174/T04720_3174.json",
+  "sha256": "efc863dce58531968ac81d20ecdcf61b68169c5d0643c79e616302dc10608ea2",
+  "downloaded_at": "2026-05-16T03:45:09.934009+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:538:3174",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

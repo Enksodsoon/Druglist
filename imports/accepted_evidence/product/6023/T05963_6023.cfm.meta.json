@@ -1,0 +1,14 @@
+{
+  "source_id": "6023",
+  "task_id": "T05963",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betamethasone+Dipropionate+%2BSalicylic+acid+%2F",
+  "local_path": "imports/accepted_evidence/product/6023/T05963_6023.cfm",
+  "sha256": "74956847e45c6cb503d2984f6e7b80acdf596c337bcbc8631fbbb206f93b84a0",
+  "downloaded_at": "2026-05-16T03:48:15.806812+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:702:6023",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

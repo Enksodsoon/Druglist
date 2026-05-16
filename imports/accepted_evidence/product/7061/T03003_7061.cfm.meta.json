@@ -1,0 +1,14 @@
+{
+  "source_id": "7061",
+  "task_id": "T03003",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cencopan-S",
+  "local_path": "imports/accepted_evidence/product/7061/T03003_7061.cfm",
+  "sha256": "1bdc377d256cf23c6169575920173cc9ae932d3f9058c2c59579d3fb3de1572a",
+  "downloaded_at": "2026-05-16T03:40:50.645202+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:304:7061",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

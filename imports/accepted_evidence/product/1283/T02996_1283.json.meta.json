@@ -1,0 +1,14 @@
+{
+  "source_id": "1283",
+  "task_id": "T02996",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Hyoscine-N-butylbromide&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1283/T02996_1283.json",
+  "sha256": "4aa477fd017430d33a184c9bd40de27db72e7bf1ac726eb8adf0658d6ff31c72",
+  "downloaded_at": "2026-05-16T03:40:49.278476+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:303:1283|Product_Label_Links:304:7061|Product_Label_Links:307:7284",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "4046",
+  "task_id": "T06680",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Vilerm+Cream+5+g",
+  "local_path": "imports/accepted_evidence/product/4046/T06680_4046.html",
+  "sha256": "d2ada45de0cb76da6b93b8fe7ce7451c3fd3fa4365be2c3a923323ed2a90dccb",
+  "downloaded_at": "2026-05-16T03:50:07.624310+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:786:4046",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

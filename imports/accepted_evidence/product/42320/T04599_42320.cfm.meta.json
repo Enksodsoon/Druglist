@@ -1,0 +1,14 @@
+{
+  "source_id": "42320",
+  "task_id": "T04599",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Diovan+160+mg",
+  "local_path": "imports/accepted_evidence/product/42320/T04599_42320.cfm",
+  "sha256": "3b22960d9cca39fdff3a2b7be6e0b63b6f2382e54e92c36183e94874418c3795",
+  "downloaded_at": "2026-05-16T03:44:52.372000+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:521:42320",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

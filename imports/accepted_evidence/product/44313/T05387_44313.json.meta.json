@@ -1,0 +1,14 @@
+{
+  "source_id": "44313",
+  "task_id": "T05387",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Chloride%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/44313/T05387_44313.json",
+  "sha256": "8f28df9e3bd03c4c9ba41b3484cbbbd1d5b543ba6fc7732fa41dc0f66c60ba07",
+  "downloaded_at": "2026-05-16T03:46:47.825478+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:630:44313|Product_Label_Links:631:44321|Product_Label_Links:632:44320|Product_Label_Links:633:44322|Product_Label_Links:634:4868|Product_Label_Links:635:45626|Product_Label_Links:637:4870|Product_Label_Links:732:3906|Product_Label_Links:733:3907|Product_Label_Links:734:3905",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

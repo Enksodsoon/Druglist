@@ -1,0 +1,14 @@
+{
+  "source_id": "3118",
+  "task_id": "T05558",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Menthol+1+5+%2BPine+Needle+Oil+1+35+%2BWintergreen+Oil+0+35+%2BOrange+Oil+0+4",
+  "local_path": "imports/accepted_evidence/product/3118/T05558_3118.cfm",
+  "sha256": "cbf3f8bbc406d2423594a236d5abab3eddc3c42479aadd1357eb30cb86cdb27c",
+  "downloaded_at": "2026-05-16T03:47:14.054722+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:653:3118",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

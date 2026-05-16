@@ -1,0 +1,14 @@
+{
+  "source_id": "1232",
+  "task_id": "T03984",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Belara",
+  "local_path": "imports/accepted_evidence/product/1232/T03984_1232.cfm",
+  "sha256": "dd2579f9d65200fc06c98625d08b284ba3dc4c23aa89d9d4712b3b6adc1980b6",
+  "downloaded_at": "2026-05-16T03:43:19.390219+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:434:1232",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_13",
+  "task_id": "T00206",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=hydrocortisone%2Bmepyramine%20cream&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds006745/T00206_Drug_Label_Links_13.json",
+  "sha256": "401897ab36e47aebcbe62c68f4254aa55e1ff425e41bb3dbfcb4ca03f5d033e2",
+  "downloaded_at": "2026-05-16T03:34:05.633487+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:13:Drug_Label_Links_13",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

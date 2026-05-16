@@ -1,0 +1,14 @@
+{
+  "source_id": "3065",
+  "task_id": "T01626",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Ocid",
+  "local_path": "imports/accepted_evidence/product/3065/T01626_3065.html",
+  "sha256": "729881e775837c73f525b8657445406403c37d48078089f8dca893c938526f3f",
+  "downloaded_at": "2026-05-16T03:37:27.794183+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:118:3065",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

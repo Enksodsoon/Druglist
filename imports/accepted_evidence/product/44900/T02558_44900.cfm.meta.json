@@ -1,0 +1,14 @@
+{
+  "source_id": "44900",
+  "task_id": "T02558",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Mefamed+500",
+  "local_path": "imports/accepted_evidence/product/44900/T02558_44900.cfm",
+  "sha256": "29a0bb344161d1e5ee6a4dd9c1b2fc03f2f13b1f46843b63aadb30f51ad93823",
+  "downloaded_at": "2026-05-16T03:39:43.631634+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:245:44900",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

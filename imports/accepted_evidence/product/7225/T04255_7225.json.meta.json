@@ -1,0 +1,14 @@
+{
+  "source_id": "7225",
+  "task_id": "T04255",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Osteotin%20500&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7225/T04255_7225.json",
+  "sha256": "c691baa75260967bf42163377ff6a7941953f39036db68b68cc27d9c174f2c8b",
+  "downloaded_at": "2026-05-16T03:44:01.509818+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:473:7225",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

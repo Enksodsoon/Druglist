@@ -1,0 +1,14 @@
+{
+  "source_id": "1072",
+  "task_id": "T03357",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Moxifloxacin",
+  "local_path": "imports/accepted_evidence/product/1072/T03357_1072.cfm",
+  "sha256": "093d1f9e71319e0175c8f29a675496a6399dff9dd679adf96420aba4f6569585",
+  "downloaded_at": "2026-05-16T03:41:43.081896+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:352:1072",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

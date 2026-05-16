@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_53",
+  "task_id": "T00525",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22celecoxib%22&limit=10",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001509/T00525_Drug_Label_Links_53.json",
+  "sha256": "f5956984faf3b23f60b3b1e3065e94f56dba8cdc8411538e3f0545cfe13d7dde",
+  "downloaded_at": "2026-05-16T03:34:50.981697+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:53:Drug_Label_Links_53",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

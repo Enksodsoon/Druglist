@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_EU_NICE_SORE_THROAT",
+  "task_id": "T00036",
+  "source_url": "https://www.nice.org.uk/guidance/ng84/documents",
+  "local_path": "imports/accepted_evidence/bulk/T00036_GUIDE_EU_NICE_SORE_THROAT.html",
+  "sha256": "84a1e5eb51f2c96ccbd090ed8ca606d98ab1e563d9b69442a5feae77692a2d37",
+  "downloaded_at": "2026-05-16T03:33:47.296721+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:15:GUIDE_EU_NICE_SORE_THROAT",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

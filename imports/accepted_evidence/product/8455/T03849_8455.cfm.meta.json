@@ -1,0 +1,14 @@
+{
+  "source_id": "8455",
+  "task_id": "T03849",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=CB-400",
+  "local_path": "imports/accepted_evidence/product/8455/T03849_8455.cfm",
+  "sha256": "3dc04be192dc6a47ad7883070069cd5659c28bb43a2962425335ab89f481ba04",
+  "downloaded_at": "2026-05-16T03:42:58.532566+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:416:8455",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

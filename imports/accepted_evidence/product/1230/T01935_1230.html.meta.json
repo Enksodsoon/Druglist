@@ -1,0 +1,14 @@
+{
+  "source_id": "1230",
+  "task_id": "T01935",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Benda+500",
+  "local_path": "imports/accepted_evidence/product/1230/T01935_1230.html",
+  "sha256": "bcea2c28e64e80000c51ea9a81b05cdd94bb65e27cb1b3c3bf9c39cd52b82f35",
+  "downloaded_at": "2026-05-16T03:38:11.882683+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:158:1230",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

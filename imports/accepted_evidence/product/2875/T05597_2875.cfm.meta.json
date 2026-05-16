@@ -1,0 +1,14 @@
+{
+  "source_id": "2875",
+  "task_id": "T05597",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Reparil+Ice+Spray",
+  "local_path": "imports/accepted_evidence/product/2875/T05597_2875.cfm",
+  "sha256": "c62cf35db46a091050114eb965162921349f1f25e460e4fe4c4119cfe81e9788",
+  "downloaded_at": "2026-05-16T03:47:20.223978+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:657:2875",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

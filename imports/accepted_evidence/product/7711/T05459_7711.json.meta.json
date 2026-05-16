@@ -1,0 +1,14 @@
+{
+  "source_id": "7711",
+  "task_id": "T05459",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Capsika%20Gel&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7711/T05459_7711.json",
+  "sha256": "c02d46179e396a715974b05b431408d65d65e1fe2c2453e0d94862a7ccebf882",
+  "downloaded_at": "2026-05-16T03:46:58.569595+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:641:7711",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "44519",
+  "task_id": "T02283",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Lorius+Syrup",
+  "local_path": "imports/accepted_evidence/product/44519/T02283_44519.cfm",
+  "sha256": "bee82d9e6d82af72247352d5995ad5b08e6978973a131b968b16eb20bc4443e6",
+  "downloaded_at": "2026-05-16T03:39:01.541301+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:207:44519",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

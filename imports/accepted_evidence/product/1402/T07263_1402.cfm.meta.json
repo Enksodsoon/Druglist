@@ -1,0 +1,14 @@
+{
+  "source_id": "1402",
+  "task_id": "T07263",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Diphenhydramine+%2BCalamine+%2BZinc+oxide+%2BCamphor+%2F",
+  "local_path": "imports/accepted_evidence/product/1402/T07263_1402.cfm",
+  "sha256": "43df836036bb1cf4598e9fac809da1f139a850b453edc4a16d2cb3ecfe9c1c1e",
+  "downloaded_at": "2026-05-16T03:51:35.199958+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:861:1402|Product_Label_Links:862:1403",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

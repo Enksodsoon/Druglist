@@ -1,0 +1,14 @@
+{
+  "source_id": "45624",
+  "task_id": "T02584",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Naproxen",
+  "local_path": "imports/accepted_evidence/product/45624/T02584_45624.cfm",
+  "sha256": "09d3116d77d9f396278f3f456b20455d15ebe5cc8597545a39890a6f4ce12f7e",
+  "downloaded_at": "2026-05-16T03:39:47.105269+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:249:45624|Product_Label_Links:250:7214|Product_Label_Links:251:7576|Product_Label_Links:254:47654|Product_Label_Links:257:3568",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

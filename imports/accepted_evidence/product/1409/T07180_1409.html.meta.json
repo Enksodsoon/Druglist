@@ -1,0 +1,14 @@
+{
+  "source_id": "1409",
+  "task_id": "T07180",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=C-20+Original+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/1409/T07180_1409.html",
+  "sha256": "d32c49f4791dd10797b6f526cdee15265ed0b840cf19020646d89c375433adc9",
+  "downloaded_at": "2026-05-16T03:51:22.407621+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:852:1409",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

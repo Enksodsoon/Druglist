@@ -1,0 +1,14 @@
+{
+  "source_id": "2591",
+  "task_id": "T05122",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Lyrica+75+mg",
+  "local_path": "imports/accepted_evidence/product/2591/T05122_2591.html",
+  "sha256": "0c4237b58e94a851bcbeca27324ef70106e986f6a3149e6a0498abdcef471ce6",
+  "downloaded_at": "2026-05-16T03:46:10.333237+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:596:2591",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

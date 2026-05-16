@@ -1,0 +1,14 @@
+{
+  "source_id": "7576",
+  "task_id": "T02599",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Naprosian&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7576/T02599_7576.json",
+  "sha256": "7cd14f37604f2c52b03e9a29adf8b64aebe3857d4c6f3f7aa75ec9e8b2a7b333",
+  "downloaded_at": "2026-05-16T03:39:49.229300+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:251:7576",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

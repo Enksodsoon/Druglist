@@ -1,0 +1,14 @@
+{
+  "source_id": "1071",
+  "task_id": "T02793",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Avamigran",
+  "local_path": "imports/accepted_evidence/product/1071/T02793_1071.cfm",
+  "sha256": "464659057d0c9e52be951c0f287904ca661c082f023c5cf52301eb0b08cc4f85",
+  "downloaded_at": "2026-05-16T03:40:18.808769+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:277:1071",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

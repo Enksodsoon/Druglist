@@ -1,0 +1,14 @@
+{
+  "source_id": "1824",
+  "task_id": "T02524",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dosanac%2050&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1824/T02524_1824.json",
+  "sha256": "3d1edef66db5e78d1943fcef6b039acf4d6aa1fdaa35f0a9a00087dbfb79b0f8",
+  "downloaded_at": "2026-05-16T03:39:38.573010+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:240:1824",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

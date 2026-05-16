@@ -1,0 +1,14 @@
+{
+  "source_id": "40634",
+  "task_id": "T04525",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Candesartan+Cilexetil",
+  "local_path": "imports/accepted_evidence/product/40634/T04525_40634.cfm",
+  "sha256": "06bd21d116a022aec9e225b3ed7a6ca8f04c7f55ebcf48af0034a9eb517c6381",
+  "downloaded_at": "2026-05-16T03:44:42.455031+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:513:40634",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

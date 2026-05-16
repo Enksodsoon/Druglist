@@ -1,0 +1,14 @@
+{
+  "source_id": "47647",
+  "task_id": "T06542",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Sof+Tear+Eye+Drops",
+  "local_path": "imports/accepted_evidence/product/47647/T06542_47647.cfm",
+  "sha256": "1b933f9ee386f0fe203f78e7a486f4ce995ef2941080af165ff8de5d44fb2d3f",
+  "downloaded_at": "2026-05-16T03:49:45.018709+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:771:47647",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

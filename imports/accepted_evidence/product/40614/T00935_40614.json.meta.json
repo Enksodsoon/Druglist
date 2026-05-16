@@ -1,0 +1,14 @@
+{
+  "source_id": "40614",
+  "task_id": "T00935",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bakamol%20500%20mg%20bottle%20100s&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/40614/T00935_40614.json",
+  "sha256": "1b13f36859d54ff02fd4fd7d8b2b6e6cd1c81f228f3a4218f7e035d177c38aee",
+  "downloaded_at": "2026-05-16T03:35:46.400921+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:25:40614",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

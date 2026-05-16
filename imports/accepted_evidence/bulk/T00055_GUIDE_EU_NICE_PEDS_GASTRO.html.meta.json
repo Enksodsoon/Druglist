@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_EU_NICE_PEDS_GASTRO",
+  "task_id": "T00055",
+  "source_url": "https://www.nice.org.uk/guidance/cg84/resources",
+  "local_path": "imports/accepted_evidence/bulk/T00055_GUIDE_EU_NICE_PEDS_GASTRO.html",
+  "sha256": "d166bda958ee89a6f1eeabfc7bc4ae711a597d21b387ad5a886c7791d588455b",
+  "downloaded_at": "2026-05-16T03:33:48.479487+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:24:GUIDE_EU_NICE_PEDS_GASTRO|Disease_Download_Map:5:acute_watery_diarrhea_adult|Disease_Download_Map:9:acute_watery_diarrhea_peds|Disease_Download_Map:48:gastroenteritis_mild_adult|Disease_Download_Map:49:traveler_diarrhea_support_adult|Disease_Download_Map:85:acute_gastroenteritis_peds_mild|Disease_Download_Map:86:acute_watery_diarrhea_peds_rehydration",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

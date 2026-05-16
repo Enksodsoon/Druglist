@@ -1,0 +1,14 @@
+{
+  "source_id": "2214",
+  "task_id": "T01473",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Imodium",
+  "local_path": "imports/accepted_evidence/product/2214/T01473_2214.cfm",
+  "sha256": "1e9e734faa51378a606c6a842658563d6889b7773efa18373cc70d7cc683a758",
+  "downloaded_at": "2026-05-16T03:37:02.496704+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:101:2214",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

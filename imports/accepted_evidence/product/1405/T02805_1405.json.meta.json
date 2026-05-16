@@ -1,0 +1,14 @@
+{
+  "source_id": "1405",
+  "task_id": "T02805",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22Cafergot%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1405/T02805_1405.json",
+  "sha256": "1d6ae3a0acccba8109e6acac8b35117a25e7ae35f8f699727563b96c5f5877a7",
+  "downloaded_at": "2026-05-16T03:40:20.074945+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:278:1405",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

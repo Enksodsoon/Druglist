@@ -1,0 +1,14 @@
+{
+  "source_id": "6840",
+  "task_id": "T02815",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Relpax+40+mg",
+  "local_path": "imports/accepted_evidence/product/6840/T02815_6840.html",
+  "sha256": "8f9830b56424f6d2a1aec22b80cf1266a5446f0b6caee08e0799e377e27840f2",
+  "downloaded_at": "2026-05-16T03:40:22.666906+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:279:6840",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

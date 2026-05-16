@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 2
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Maximum Strength Senna Laxative Sennoside 25 mg SENNOSIDES SENNOSIDES MICROCRYSTALLINE CELLULOSE ANHYDROUS DIBASIC CALCIUM PHOSPHATE CROSCARMELLOSE SODIUM SODIUM LAURYL SULFATE SILICON DIOXIDE CROSPOVIDONE, UNSPECIFIED STEARIC ACID MAGNESIUM STEARATE FD&C BLUE NO. 1 INDIGOTINDISULFONATE SODIUM POLYVINYL ALCOHOL POLYETHYLENE GLYCOL, UNSPECIFIED TITANIUM DIOXIDE TALC S3 Light Blue Biconvex"
+      ],
+      "active_ingredient": [
+        "Active Ingredient (in each tablet) Sennosides 25 mg"
+      ],
+      "purpose": [
+        "Purpose Stimulant Laxative"
+      ],
+      "indications_and_usage": [
+        "Uses: relieves occasional constipation (irregularity). generally prodcues a bowel movement in 6-12 hours"
+      ],
+      "warnings": [
+        "Warnings: Do not use laxative products when abdominal pain, nausea, or vomiting are present unless directed by a doctor"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have noticed a sudden change in bowel habits that persists over a period of 2 weeks. Ask a doctor or pharmacist before use if you are taking any other drug. Laxatives may affect how other drugs work. Take this product 2 or more hours before or after other drugs."
+      ],
+      "when_using": [
+        "When using this product do not use for a period longer than 1 week"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if rectal bleeding or failure to have a bowel movement occur after use of a laxative. These may be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "KEEP OUT OF REACH OF CHILDREN . In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+      ],
+      "dosage_and_administration": [
+        "DIRECTIONS swallow tablet (s) with a glass of water. swallow tablet (s) whole, do not crush, break or chew. adults and children 12 years of age and older: 2 tablets once or twice daily children 6 to under 12 years of age: 1 tablet once or twice daily children under 6 years of age: ask a doctor"
+      ],
+      "other_safety_information": [
+        "OTHER INFORMATION each tablet contains: Calcium 27 mg, Magnesium 0.16 mg, Sodium 0.81 mg store at controlled room temperature 20-25°C (68-77°F)"
+      ],
+      "inactive_ingredient": [
+        "INACTIVE INGREDIENTS Microcrystalline Cellulose, Dicalcium Phosphate/Dibasic Calcium Phosphate, Croscarmellose Sodium, Sodium Lauryl sulphate, Colloidal Silicon Dioxide, Crospovidone, Stearic acid powder, Magnesium Stearate, Brilliant Blue Lake, Indigo Carmine Lake, Polyvinly Alcohol, Polyethylene Glycol, Titanium Dioxide, Talc"
+      ],
+      "questions": [
+        "QUESTIONS OR COMMENTS? Call 1-732-698 -5070 Monday through Friday 9 am to 5 pm EST or visit: www.gencare.health"
+      ],
+      "package_label_principal_display_panel": [
+        "NDC 72090-016-01 (100ct Bottle) PL0153-02 - GenCare Generic Laxative 100ct-Elysium"
+      ],
+      "set_id": "9317d326-fafe-4137-a3e5-62133a8cb63f",
+      "id": "61daccce-e9b6-44ee-8efa-e847b96e5b64",
+      "effective_time": "20250310",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "505G(a)(3)"
+        ],
+        "brand_name": [
+          "Maximum Strength Senna Laxative"
+        ],
+        "generic_name": [
+          "SENNOSIDE 25 MG"
+        ],
+        "manufacturer_name": [
+          "Pioneer Life Sciences, LLC"
+        ],
+        "product_ndc": [
+          "72090-016"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SENNOSIDES"
+        ],
+        "rxcui": [
+          "251292"
+        ],
+        "spl_id": [
+          "61daccce-e9b6-44ee-8efa-e847b96e5b64"
+        ],
+        "spl_set_id": [
+          "9317d326-fafe-4137-a3e5-62133a8cb63f"
+        ],
+        "package_ndc": [
+          "72090-016-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "3FYP5M0IJX"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Maximum Strength Senna Laxative Sennoside 25 mg SENNOSIDES SENNOSIDES MICROCRYSTALLINE CELLULOSE ANHYDROUS DIBASIC CALCIUM PHOSPHATE CROSCARMELLOSE SODIUM SODIUM LAURYL SULFATE SILICON DIOXIDE CROSPOVIDONE, UNSPECIFIED STEARIC ACID MAGNESIUM STEARATE FD&C BLUE NO. 1 INDIGOTINDISULFONATE SODIUM POLYVINYL ALCOHOL POLYETHYLENE GLYCOL, UNSPECIFIED TITANIUM DIOXIDE TALC S3 Light Blue Biconvex"
+      ],
+      "active_ingredient": [
+        "Active Ingredient (in each tablet) Sennosides 25 mg"
+      ],
+      "purpose": [
+        "Purpose Stimulant Laxative"
+      ],
+      "indications_and_usage": [
+        "Uses: relieves occasional constipation (irregularity). generally prodcues a bowel movement in 6-12 hours"
+      ],
+      "warnings": [
+        "Warnings: Do not use laxative products when abdominal pain, nausea, or vomiting are present unless directed by a doctor"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have noticed a sudden change in bowel habits that persists over a period of 2 weeks. Ask a doctor or pharmacist before use if you are taking other drug. Laxatives may affect how other drugs work. Take this product 2 or more hours before or after other drugs."
+      ],
+      "when_using": [
+        "When using this product do not use for a period longer than 1 week"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if rectal bleeding or failure to have a bowel movement occur after use of a laxative. These may be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "KEEP OUT OF REACH OF CHILDREN . In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+      ],
+      "dosage_and_administration": [
+        "DIRECTIONS swallow tablet (s) with a glass of water. swallow tablet (s) whole, do not crush, break or chew. adults and children 12 years of age and older: 2 tablets once or twice daily children 6 to under 12 years of age: 1 tablet once or twice daily children under 6 years of age: ask a doctor"
+      ],
+      "other_safety_information": [
+        "OTHER INFORMATION each tablet contains: Calcium 27 mg, Magnesium 0.16 mg, Sodium 0.81 mg store at controlled room temperature 20-25°C (68-77°F)"
+      ],
+      "inactive_ingredient": [
+        "INACTIVE INGREDIENTS Microcrystalline Cellulose, Dicalcium Phosphate/Dibasic Calcium Phosphate, Croscarmellose Sodium, Sodium Lauryl sulphate, Colloidal Silicon Dioxide, Crospovidone, Stearic acid powder, Magnesium Stearate, Brilliant Blue Lake, Indigo Carmine Lake, Polyvinly Alcohol, Polyethylene Glycol, Titanium Dioxide, Talc"
+      ],
+      "questions": [
+        "QUESTIONS OR COMMENTS? Call 1 (718) 337-8733 or email: support@nuvicare.com"
+      ],
+      "package_label_principal_display_panel": [
+        "PL0285-00-NC-Senna 60ct-signed"
+      ],
+      "set_id": "a2a3b83f-2d49-4bc4-90d7-1f2a7f4ea45f",
+      "id": "caaad95a-c75a-4269-9d46-55a55d9353e6",
+      "effective_time": "20260122",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "505G(a)(3)"
+        ],
+        "brand_name": [
+          "Maximum Strength Senna Laxative"
+        ],
+        "generic_name": [
+          "SENNOSIDE 25 MG"
+        ],
+        "manufacturer_name": [
+          "NUVICARE LLC"
+        ],
+        "product_ndc": [
+          "84324-033"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SENNOSIDES"
+        ],
+        "rxcui": [
+          "251292"
+        ],
+        "spl_id": [
+          "caaad95a-c75a-4269-9d46-55a55d9353e6"
+        ],
+        "spl_set_id": [
+          "a2a3b83f-2d49-4bc4-90d7-1f2a7f4ea45f"
+        ],
+        "package_ndc": [
+          "84324-033-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "3FYP5M0IJX"
+        ]
+      }
+    }
+  ]
+}

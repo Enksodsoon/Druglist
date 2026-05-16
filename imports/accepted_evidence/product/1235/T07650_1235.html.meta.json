@@ -1,0 +1,14 @@
+{
+  "source_id": "1235",
+  "task_id": "T07650",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Berodual+Metered+Doses",
+  "local_path": "imports/accepted_evidence/product/1235/T07650_1235.html",
+  "sha256": "891aefe16b63dc67ee6da0e2dee1d656dd032f539e365fb03021c5fd86c98f72",
+  "downloaded_at": "2026-05-16T03:52:37.884686+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:907:1235",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

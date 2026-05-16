@@ -1,0 +1,14 @@
+{
+  "source_id": "2697",
+  "task_id": "T01428",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Mucilin+Orange+Flavour",
+  "local_path": "imports/accepted_evidence/product/2697/T01428_2697.cfm",
+  "sha256": "4b151fd58893eacaf0b4ef31130663222969d09e5d8185e83f2e405c3e3d47b2",
+  "downloaded_at": "2026-05-16T03:36:55.659523+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:96:2697",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

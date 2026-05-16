@@ -1,0 +1,17 @@
+{
+  "source_id": "44553",
+  "task_id": "DAILYMED_2_feabf140-e283-dcd5-e053-6394a90a2917",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/feabf140-e283-dcd5-e053-6394a90a2917.xml",
+  "local_path": "imports/accepted_evidence/drug/levocetirizine-dihydrochloride-5-mg/dailymed_rank_2_feabf140-e283-dcd5-e053-6394a90a2917.xml",
+  "sha256": "b2c9461cf79c3662ab717f58696cebadc0cb3a12a7b7ca0e5ad80d0814d38aed",
+  "downloaded_at": "2026-05-16T03:53:35.779242+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Levocetirizine dihydrochloride 5 mg.",
+  "rank": 2,
+  "setid": "feabf140-e283-dcd5-e053-6394a90a2917",
+  "title": "CURIST ALLERGY RELIEF (LEVOCETIRIZINE DIHYDROCHLORIDE 5 MG) TABLET [LITTLE PHARMA, INC.]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

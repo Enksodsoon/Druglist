@@ -1,0 +1,14 @@
+{
+  "source_id": "2605",
+  "task_id": "T07565",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dexpanthenol%20%2B%20Chloride%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2605/T07565_2605.json",
+  "sha256": "1fd748eb6a8a13fdd719c1a99874c8fb36b2206391c296cf3f292d176d60e7c0",
+  "downloaded_at": "2026-05-16T03:52:22.244036+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:896:2605|Product_Label_Links:898:2813",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

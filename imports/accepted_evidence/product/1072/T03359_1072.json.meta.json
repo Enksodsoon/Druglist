@@ -1,0 +1,14 @@
+{
+  "source_id": "1072",
+  "task_id": "T03359",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Moxifloxacin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1072/T03359_1072.json",
+  "sha256": "abfd6131637d5b6c4ec7c3bc7bbcd493ef1d7227bd67c8a53cdaca43b2446e93",
+  "downloaded_at": "2026-05-16T03:41:43.684812+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:352:1072",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

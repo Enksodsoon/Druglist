@@ -1,0 +1,14 @@
+{
+  "source_id": "1715",
+  "task_id": "T01378",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Lactulose%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1715/T01378_1715.json",
+  "sha256": "dcd78a7a2936bab4505297edd5481349666049e40097b644e9526e713439677c",
+  "downloaded_at": "2026-05-16T03:36:48.360673+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:90:1715|Product_Label_Links:481:7554",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

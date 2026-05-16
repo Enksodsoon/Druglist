@@ -1,0 +1,14 @@
+{
+  "source_id": "3739",
+  "task_id": "T02990",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Tramal",
+  "local_path": "imports/accepted_evidence/product/3739/T02990_3739.html",
+  "sha256": "7425efb2e50b130b6bc4f66c2f1777665e2391ca72964b6dea3e94cffa5e084f",
+  "downloaded_at": "2026-05-16T03:40:47.978169+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:302:3739",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

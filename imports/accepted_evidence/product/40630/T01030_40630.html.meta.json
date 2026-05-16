@@ -1,0 +1,14 @@
+{
+  "source_id": "40630",
+  "task_id": "T01030",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Bilaxten",
+  "local_path": "imports/accepted_evidence/product/40630/T01030_40630.html",
+  "sha256": "4a48e55833bdc9e929777b8a16b49a26aae02da749351b95d3d5c1b89b3f6f5e",
+  "downloaded_at": "2026-05-16T03:35:59.516404+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:38:40630",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3410",
+  "task_id": "T03276",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=M-Calm+tabslet",
+  "local_path": "imports/accepted_evidence/product/3410/T03276_3410.cfm",
+  "sha256": "37cdb71f773d01d738c6ba76f1005488894e8afe7aedfe6df75433fc95f04e8d",
+  "downloaded_at": "2026-05-16T03:41:31.942346+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:339:3410",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

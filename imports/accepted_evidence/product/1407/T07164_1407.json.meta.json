@@ -1,0 +1,14 @@
+{
+  "source_id": "1407",
+  "task_id": "T07164",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=C-20%20Blue%20Sally&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1407/T07164_1407.json",
+  "sha256": "368adfd5bd148ad30760f49192d1570f4355c9dfaab32554b12f5afef3ac7683",
+  "downloaded_at": "2026-05-16T03:51:20.800763+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:850:1407",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

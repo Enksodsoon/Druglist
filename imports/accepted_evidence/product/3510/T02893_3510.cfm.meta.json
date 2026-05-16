@@ -1,0 +1,14 @@
+{
+  "source_id": "3510",
+  "task_id": "T02893",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Serc+16+mg",
+  "local_path": "imports/accepted_evidence/product/3510/T02893_3510.cfm",
+  "sha256": "6ba3f1923eacfa3fde53a9a1146c10c10e31f87b8bc412135f63cbfe9b2805b7",
+  "downloaded_at": "2026-05-16T03:40:33.478135+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:289:3510",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1070",
+  "task_id": "T05236",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Asa-tabs&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1070/T05236_1070.json",
+  "sha256": "5c5e8fe4a939f7593d9f623a743bb2813d21bfd3d85ab146cfa4df9afb2a54ea",
+  "downloaded_at": "2026-05-16T03:46:25.686573+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:613:1070",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

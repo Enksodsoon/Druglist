@@ -1,0 +1,14 @@
+{
+  "source_id": "2649",
+  "task_id": "T07030",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dexamethasone%200%201%20%2BNeomycin%20Sulfate%203%20500%20I%20U%20/g%20%2BPolymyxin%20B%20Sulfate%206%20000%20I%20U%20/g%20%2BPreservative%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2649/T07030_2649.json",
+  "sha256": "063ff52e1146ac2fb09a6f342c4ac5d1b12d387788cf72f28153136fcb065458",
+  "downloaded_at": "2026-05-16T03:50:59.657135+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:836:2649",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3575",
+  "task_id": "T01166",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Sinufen",
+  "local_path": "imports/accepted_evidence/product/3575/T01166_3575.html",
+  "sha256": "fc60900a527d93e063819319b54b33e3bac0562a2f9fecb8f5d28d1fbe44fe28",
+  "downloaded_at": "2026-05-16T03:36:17.390948+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:57:3575",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

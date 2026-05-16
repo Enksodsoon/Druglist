@@ -1,0 +1,14 @@
+{
+  "source_id": "2117",
+  "task_id": "T06339",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Hista-Oph",
+  "local_path": "imports/accepted_evidence/product/2117/T06339_2117.html",
+  "sha256": "d397185b0ac637f66f45657375e88f43181f857eeef5386f4876443d689ef9af",
+  "downloaded_at": "2026-05-16T03:49:12.334937+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:749:2117",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

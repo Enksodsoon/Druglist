@@ -1,0 +1,14 @@
+{
+  "source_id": "44922",
+  "task_id": "T03473",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Mybacin%20OTC%20Mint&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/44922/T03473_44922.json",
+  "sha256": "ae9bd65726cb3d556ad2424434ce4f68e8742142e1ff74f21a13d4e967c59089",
+  "downloaded_at": "2026-05-16T03:42:00.477340+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:367:44922",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

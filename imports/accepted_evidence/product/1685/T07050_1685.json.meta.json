@@ -1,0 +1,14 @@
+{
+  "source_id": "1685",
+  "task_id": "T07050",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Hydrocortisone%20Acetate%20%2BZinc%20Oxide%20%2BBenzocaine%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1685/T07050_1685.json",
+  "sha256": "2f03706ee2b5344ec995da6618cc44d916da07969ec4dee0907311815d0cafb2",
+  "downloaded_at": "2026-05-16T03:51:02.668343+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:838:1685",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

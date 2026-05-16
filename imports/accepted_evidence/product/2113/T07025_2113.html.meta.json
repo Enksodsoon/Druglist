@@ -1,0 +1,14 @@
+{
+  "source_id": "2113",
+  "task_id": "T07025",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Hirudoid+Forte+Cream+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/2113/T07025_2113.html",
+  "sha256": "abbfd1e209fce01002a5eef960b2f1640183ebdae6db3741b75a451711a9fc8e",
+  "downloaded_at": "2026-05-16T03:51:01.664426+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:835:2113",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

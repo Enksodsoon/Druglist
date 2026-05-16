@@ -1,0 +1,14 @@
+{
+  "source_id": "2628",
+  "task_id": "T04870",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Minidiab&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2628/T04870_2628.json",
+  "sha256": "9729fc07caeade40df337056f2082622b5b7c41700799ad505bd19709c1b1f93",
+  "downloaded_at": "2026-05-16T03:45:32.498833+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:560:2628",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "7542",
+  "task_id": "T05717",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Ketoconazole%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/7542/T05717_7542.json",
+  "sha256": "0651b00d8896cfa832bbc4b11aa5c59ef61844ac8419673b64ef2fd5c7ddfb65",
+  "downloaded_at": "2026-05-16T03:47:37.793071+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:671:7542|Product_Label_Links:672:7543|Product_Label_Links:678:2829",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

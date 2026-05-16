@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_31",
+  "task_id": "T00356",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=simethicone",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001079/T00356_Drug_Label_Links_31.html",
+  "sha256": "f822deb7ffd53590a7d5e3ad45ddcc3cde68c4676bd668f12ebb585d52ba7e4c",
+  "downloaded_at": "2026-05-16T03:34:27.233828+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:31:Drug_Label_Links_31|Drug_Label_Links:32:Drug_Label_Links_32",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "43612",
+  "task_id": "T04804",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Galvus+50+mg",
+  "local_path": "imports/accepted_evidence/product/43612/T04804_43612.cfm",
+  "sha256": "8396feb8573cc4709adbae0af4fb3e7c2e9b1a4d51e40de03cb6b421fafa3b50",
+  "downloaded_at": "2026-05-16T03:45:22.441835+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:550:43612",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

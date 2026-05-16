@@ -1,0 +1,14 @@
+{
+  "source_id": "42321",
+  "task_id": "T02933",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Daflon+1000+mg",
+  "local_path": "imports/accepted_evidence/product/42321/T02933_42321.cfm",
+  "sha256": "2d8c9670e636469525d7d13c84167454c47c6c57b2882175bcd2f4d02f74ca7e",
+  "downloaded_at": "2026-05-16T03:40:39.491440+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:295:42321",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

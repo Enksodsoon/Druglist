@@ -1,0 +1,14 @@
+{
+  "source_id": "8151",
+  "task_id": "T03777",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Sambee",
+  "local_path": "imports/accepted_evidence/product/8151/T03777_8151.html",
+  "sha256": "4f67b99809e8fb40c23595de1ae3b79bf725ed6d8e161c68ae8a81ea97c32fbf",
+  "downloaded_at": "2026-05-16T03:42:48.103151+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:407:8151",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_47",
+  "task_id": "T00466",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=beta-sitosterol+burn+cream",
+  "local_path": "imports/accepted_evidence/drug/drug-bds002801/T00466_Drug_Label_Links_47.cfm",
+  "sha256": "9f6d03602b978fe7a31534f9d07cf0d91548f58f05bfa187722806c811572b34",
+  "downloaded_at": "2026-05-16T03:34:42.229826+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:47:Drug_Label_Links_47",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

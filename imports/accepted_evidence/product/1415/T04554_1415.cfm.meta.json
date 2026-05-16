@@ -1,0 +1,14 @@
+{
+  "source_id": "1415",
+  "task_id": "T04554",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cardeloc",
+  "local_path": "imports/accepted_evidence/product/1415/T04554_1415.cfm",
+  "sha256": "dbb4ca4074f60ef18516f92cb89f34254674fd75ed8c0e766306e3a954aea8ad",
+  "downloaded_at": "2026-05-16T03:44:46.397960+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:516:1415",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

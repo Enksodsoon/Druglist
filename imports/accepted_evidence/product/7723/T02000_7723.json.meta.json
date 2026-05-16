@@ -1,0 +1,14 @@
+{
+  "source_id": "7723",
+  "task_id": "T02000",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Doxylcap&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7723/T02000_7723.json",
+  "sha256": "e7ddf683ca4281f0a13da5dcd0d909108fb9ba9cf95d161a6c3ab42df30fe805",
+  "downloaded_at": "2026-05-16T03:38:20.470552+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:166:7723",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

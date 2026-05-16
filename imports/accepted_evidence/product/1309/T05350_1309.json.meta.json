@@ -1,0 +1,14 @@
+{
+  "source_id": "1309",
+  "task_id": "T05350",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ascorbic%20acid%20%2B%20ascorbate%20%2BCalcium%20ascorbate%20%2BBioflavonoids&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1309/T05350_1309.json",
+  "sha256": "2026f30dfaade2d513aa0caa827b2601fd05d1d4cad5dd576d5e4169b40bcd00",
+  "downloaded_at": "2026-05-16T03:46:41.862264+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:626:1309|Product_Label_Links:627:1308",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3764",
+  "task_id": "T00968",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tylenol+500+mg+bottle+100s",
+  "local_path": "imports/accepted_evidence/product/3764/T00968_3764.cfm",
+  "sha256": "b946f93ef2c2840187088cc2ccda9fbf83a1467f4843b9ae380c091528f947bd",
+  "downloaded_at": "2026-05-16T03:35:51.178502+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:31:3764",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

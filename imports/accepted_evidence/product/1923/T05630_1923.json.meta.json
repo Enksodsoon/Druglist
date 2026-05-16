@@ -1,0 +1,14 @@
+{
+  "source_id": "1923",
+  "task_id": "T05630",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=fusidate%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1923/T05630_1923.json",
+  "sha256": "c573c61cf111964b58d4beac8b2cb43da6ad25d69df3dacff4d5b590e58dd3f5",
+  "downloaded_at": "2026-05-16T03:47:25.077563+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:660:1923",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

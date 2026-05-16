@@ -1,0 +1,14 @@
+{
+  "source_id": "40078",
+  "task_id": "T00765",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=A.M.Mox%20500&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/40078/T00765_40078.json",
+  "sha256": "a84b6b336f87d5a3aac42f0d9bba04982b304bd1b40e5c816cc4328cd8f7a125",
+  "downloaded_at": "2026-05-16T03:35:24.527410+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:2:40078",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

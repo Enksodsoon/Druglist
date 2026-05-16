@@ -1,0 +1,14 @@
+{
+  "source_id": "7682",
+  "task_id": "T02139",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cloxacillin+%2F",
+  "local_path": "imports/accepted_evidence/product/7682/T02139_7682.cfm",
+  "sha256": "a7efc934530aa2e3e2d516c2951259f98e916d82af8f3783799d169b025a8df8",
+  "downloaded_at": "2026-05-16T03:38:40.893280+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:184:7682",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

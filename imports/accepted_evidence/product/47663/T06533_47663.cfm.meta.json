@@ -1,0 +1,14 @@
+{
+  "source_id": "47663",
+  "task_id": "T06533",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Hypromellose+%2F",
+  "local_path": "imports/accepted_evidence/product/47663/T06533_47663.cfm",
+  "sha256": "94d9d8432be291d814ca4e0724e4ffb3b3c8988cb2f55b84a01fa201cd483fcb",
+  "downloaded_at": "2026-05-16T03:49:43.961722+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:770:47663",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1013",
+  "task_id": "T03213",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Simethicone%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1013/T03213_1013.json",
+  "sha256": "d01b62486c5c509e35a72ec39b252acd61166159849a57018565b2726e1819ec",
+  "downloaded_at": "2026-05-16T03:41:21.879798+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:331:1013",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

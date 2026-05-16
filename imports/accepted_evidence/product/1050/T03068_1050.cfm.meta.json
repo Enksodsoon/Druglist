@@ -1,0 +1,14 @@
+{
+  "source_id": "1050",
+  "task_id": "T03068",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Antacil+Gel+%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+  "local_path": "imports/accepted_evidence/product/1050/T03068_1050.cfm",
+  "sha256": "cbbb39c5fe7a7b8ad9bf28e852fe650dfd09ab3874d514be63a52ad7a5d3fc48",
+  "downloaded_at": "2026-05-16T03:40:59.685952+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:313:1050",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

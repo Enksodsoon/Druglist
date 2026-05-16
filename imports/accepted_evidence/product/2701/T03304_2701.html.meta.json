@@ -1,0 +1,14 @@
+{
+  "source_id": "2701",
+  "task_id": "T03304",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Myonal+50+mg",
+  "local_path": "imports/accepted_evidence/product/2701/T03304_2701.html",
+  "sha256": "9b5b662714335557b39ba5601437ce009d3b8548e862d87d41ad4b049a092adb",
+  "downloaded_at": "2026-05-16T03:41:35.391659+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:343:2701",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

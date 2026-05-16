@@ -1,0 +1,14 @@
+{
+  "source_id": "8321",
+  "task_id": "T05339",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bio-C-Vitamin&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8321/T05339_8321.json",
+  "sha256": "d1ea07c53254f6fd983c9d9f29e1e1123e0502dea65e139986e72487e9b9804e",
+  "downloaded_at": "2026-05-16T03:46:39.849788+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:625:8321",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

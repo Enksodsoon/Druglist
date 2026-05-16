@@ -1,0 +1,14 @@
+{
+  "source_id": "7033",
+  "task_id": "T02375",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bocytin%20Syrup&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7033/T02375_7033.json",
+  "sha256": "d88d82fbcc98f875bd651fd566ecf62c675ced10a381be519e9e517f71dc5988",
+  "downloaded_at": "2026-05-16T03:39:14.724514+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:218:7033",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

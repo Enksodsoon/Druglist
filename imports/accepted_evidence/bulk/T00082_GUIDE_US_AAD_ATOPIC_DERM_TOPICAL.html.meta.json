@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_US_AAD_ATOPIC_DERM_TOPICAL",
+  "task_id": "T00082",
+  "source_url": "https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies",
+  "local_path": "imports/accepted_evidence/bulk/T00082_GUIDE_US_AAD_ATOPIC_DERM_TOPICAL.html",
+  "sha256": "0eb58671d4bae67250a97f804f5585155da3de75e94382aa695b299e9164ead7",
+  "downloaded_at": "2026-05-16T03:33:50.172368+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:39:GUIDE_US_AAD_ATOPIC_DERM_TOPICAL|Disease_Download_Map:25:itchy_dermatitis_adult|Disease_Download_Map:26:insect_bite_reaction_adult|Disease_Download_Map:41:itchy_localized_rash_adult|Disease_Download_Map:56:contact_dermatitis_adult|Disease_Download_Map:57:urticaria_mild_adult|Disease_Download_Map:58:pruritus_localized_adult|Disease_Download_Map:67:eczema_dry_pruritic_adult|Disease_Download_Map:77:insect_bite_swelling_adult|Disease_Download_Map:78:localized_eczema_sensitive_area_adult|Disease_Download_Map:79:insect_bite_peds|Disease_Download_Map:80:localized_eczema_peds",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

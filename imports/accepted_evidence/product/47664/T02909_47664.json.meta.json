@@ -1,0 +1,14 @@
+{
+  "source_id": "47664",
+  "task_id": "T02909",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Sobelin&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/47664/T02909_47664.json",
+  "sha256": "95a68ba692567b6b63d00cd2432824e064e4050e5aaa71cb85e02bda6ae1762d",
+  "downloaded_at": "2026-05-16T03:40:35.406734+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:291:47664",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

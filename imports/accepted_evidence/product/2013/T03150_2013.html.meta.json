@@ -1,0 +1,14 @@
+{
+  "source_id": "2013",
+  "task_id": "T03150",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Gaviscon+Suspension+sachet+10+ml",
+  "local_path": "imports/accepted_evidence/product/2013/T03150_2013.html",
+  "sha256": "ca6a8d3400336102aaf3d3a7a99854a7060d6d08d309f76e157e56679e721127",
+  "downloaded_at": "2026-05-16T03:41:13.111287+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:323:2013",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

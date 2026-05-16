@@ -1,0 +1,17 @@
+{
+  "source_id": "DRUG_BDS002211",
+  "task_id": "DAILYMED_1_4e5772ee-586c-6191-e063-6294a90a132d",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/4e5772ee-586c-6191-e063-6294a90a132d.xml",
+  "local_path": "imports/accepted_evidence/drug/dextromethorphan-hbr-15-mg/dailymed_rank_1_4e5772ee-586c-6191-e063-6294a90a132d.xml",
+  "sha256": "24a5752ba662d79f20e0c6f5ebc7d22f60f07c0c492cfdd88ae2696622f0f8a9",
+  "downloaded_at": "2026-05-16T03:52:56.833281+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Drug_Label_Links",
+  "query_name": "Dextromethorphan HBr 15 mg.",
+  "rank": 1,
+  "setid": "4e5772ee-586c-6191-e063-6294a90a132d",
+  "title": "DR. SIMI NIGHTTIME COLD AND FLU (ACETAMINOPHEN 325 MG, DEXTROMETHORPHAN HBR 15 MG, DOXYLAMINE SUCCINATE 6.25 MG) CAPSULE, LIQUID FILLED [FARMACIAS DE SIMILARES TX LLC]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

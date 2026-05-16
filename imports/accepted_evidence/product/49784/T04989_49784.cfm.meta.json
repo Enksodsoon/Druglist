@@ -1,0 +1,14 @@
+{
+  "source_id": "49784",
+  "task_id": "T04989",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Zimmex+40+mg",
+  "local_path": "imports/accepted_evidence/product/49784/T04989_49784.cfm",
+  "sha256": "4046eded851fe748d74300415d84873e24a04d1e517044cda30d5ed4809e38e6",
+  "downloaded_at": "2026-05-16T03:45:50.357398+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:579:49784",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3651",
+  "task_id": "T05256",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Sermion+10+mg",
+  "local_path": "imports/accepted_evidence/product/3651/T05256_3651.html",
+  "sha256": "6ff5c39264b723da0976b378563c6e3fe00450626c2133b085b9c111d85cdb79",
+  "downloaded_at": "2026-05-16T03:46:27.665369+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:615:3651",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

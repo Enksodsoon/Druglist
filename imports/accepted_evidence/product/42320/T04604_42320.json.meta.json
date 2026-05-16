@@ -1,0 +1,14 @@
+{
+  "source_id": "42320",
+  "task_id": "T04604",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Valsartan%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/42320/T04604_42320.json",
+  "sha256": "86469a7f4ffbecb5d7cedda700777a0dc3c5becbfd7a9ca0e462ff8f6bb1e207",
+  "downloaded_at": "2026-05-16T03:44:53.807542+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:521:42320|Product_Label_Links:522:42319",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "44921",
+  "task_id": "T01774",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Mirax-M&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/44921/T01774_44921.json",
+  "sha256": "c512d30c61fa7521c07866434d0327ab79f7ed410ba7539a01f70182233ae360",
+  "downloaded_at": "2026-05-16T03:37:47.529575+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:135:44921",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

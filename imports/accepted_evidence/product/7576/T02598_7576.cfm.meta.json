@@ -1,0 +1,14 @@
+{
+  "source_id": "7576",
+  "task_id": "T02598",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Naprosian",
+  "local_path": "imports/accepted_evidence/product/7576/T02598_7576.cfm",
+  "sha256": "b21c4597de59927f1363039809c5022c087aed1084fe57624b8ce30aa442aabe",
+  "downloaded_at": "2026-05-16T03:39:49.373572+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:251:7576",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1623",
+  "task_id": "T05897",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dermovate+Cream+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/1623/T05897_1623.cfm",
+  "sha256": "292d9ac2535178355c26721dfb79ef84d49c776e0f629744fee930f96afa0ad9",
+  "downloaded_at": "2026-05-16T03:48:05.299567+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:693:1623",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

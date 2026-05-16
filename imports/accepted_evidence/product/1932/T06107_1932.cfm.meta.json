@@ -1,0 +1,14 @@
+{
+  "source_id": "1932",
+  "task_id": "T06107",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Fungiderm-B",
+  "local_path": "imports/accepted_evidence/product/1932/T06107_1932.cfm",
+  "sha256": "af2780900ebb2a3ffc92801513287cc5cf132299bad613c0d30fa0498b48cfa7",
+  "downloaded_at": "2026-05-16T03:48:37.187166+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:722:1932",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

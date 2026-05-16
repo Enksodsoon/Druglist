@@ -1,0 +1,14 @@
+{
+  "source_id": "1664",
+  "task_id": "T01366",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bisacodyl&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1664/T01366_1664.json",
+  "sha256": "1e2fded1f060d3b78c987b12b38f29fd03605a303888d6aa0229d73f41377e93",
+  "downloaded_at": "2026-05-16T03:36:47.032550+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:89:1664|Product_Label_Links:91:1837|Product_Label_Links:480:8201",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "6718",
+  "task_id": "T07412",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dertec+Cream+%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+  "local_path": "imports/accepted_evidence/product/6718/T07412_6718.cfm",
+  "sha256": "95c782ba677e584156059d183219f688468f9fcd55da4321d44f32c9d804a4a4",
+  "downloaded_at": "2026-05-16T03:51:58.940102+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:878:6718",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

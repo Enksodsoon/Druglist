@@ -1,0 +1,14 @@
+{
+  "source_id": "1618",
+  "task_id": "T03614",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Duran",
+  "local_path": "imports/accepted_evidence/product/1618/T03614_1618.html",
+  "sha256": "d01b0de0919a3cc9a26e529a8e6124932c7c1ed04931e739076259d319761845",
+  "downloaded_at": "2026-05-16T03:42:23.512449+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:386:1618",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

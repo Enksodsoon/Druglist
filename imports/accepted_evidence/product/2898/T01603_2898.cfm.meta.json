@@ -1,0 +1,14 @@
+{
+  "source_id": "2898",
+  "task_id": "T01603",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Nexium+20+mg",
+  "local_path": "imports/accepted_evidence/product/2898/T01603_2898.cfm",
+  "sha256": "726e006b2eecb1d0af0564b2225b76747f1fd80ef725044ea2bad93d339da0ff",
+  "downloaded_at": "2026-05-16T03:37:21.362557+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:115:2898",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "41442",
+  "task_id": "T04545",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Carvedilol",
+  "local_path": "imports/accepted_evidence/product/41442/T04545_41442.cfm",
+  "sha256": "ec40d9b9cdf7b6658a31fe6488fbc0431efc92b2b45e4e647d673e406d0e4681",
+  "downloaded_at": "2026-05-16T03:44:45.162343+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:515:41442",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

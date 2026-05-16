@@ -1,0 +1,14 @@
+{
+  "source_id": "42824",
+  "task_id": "T05155",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Euthyrox%2050%20mcg%20%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/42824/T05155_42824.json",
+  "sha256": "eac9d02469f87e2fa7cb93fafb396f08fc864a358aa24faa06877ed611579bd3",
+  "downloaded_at": "2026-05-16T03:46:13.794712+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:602:42824",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

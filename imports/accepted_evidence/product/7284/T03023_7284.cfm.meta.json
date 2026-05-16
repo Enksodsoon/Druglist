@@ -1,0 +1,14 @@
+{
+  "source_id": "7284",
+  "task_id": "T03023",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Scopas+S%2FC+tabslets",
+  "local_path": "imports/accepted_evidence/product/7284/T03023_7284.cfm",
+  "sha256": "8d6bcb31b184c137b18a7e405ea9f5bbb457b4fe1bf685045f8fdbb06055081d",
+  "downloaded_at": "2026-05-16T03:40:53.012880+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:307:7284",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

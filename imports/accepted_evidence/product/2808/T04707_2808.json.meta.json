@@ -1,0 +1,14 @@
+{
+  "source_id": "2808",
+  "task_id": "T04707",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Nifedipine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2808/T04707_2808.json",
+  "sha256": "8eb947f7d3419f53ad1378da5210618e382f65c609f296a222ceb6c97fa0733b",
+  "downloaded_at": "2026-05-16T03:45:08.367661+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:536:2808",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

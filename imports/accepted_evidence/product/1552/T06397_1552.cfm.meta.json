@@ -1,0 +1,14 @@
+{
+  "source_id": "1552",
+  "task_id": "T06397",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cellufresh",
+  "local_path": "imports/accepted_evidence/product/1552/T06397_1552.cfm",
+  "sha256": "1e4f5ad5dc499aa224f72605bfe09849aaa628557f3387ff3809b727d7580888",
+  "downloaded_at": "2026-05-16T03:49:21.244356+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:756:1552",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

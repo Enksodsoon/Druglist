@@ -1,0 +1,14 @@
+{
+  "source_id": "2563",
+  "task_id": "T05749",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Lamisil+Cream",
+  "local_path": "imports/accepted_evidence/product/2563/T05749_2563.html",
+  "sha256": "f4801756ddddaf8b760bd55add459cd0707b7e2cc31ff2c6fe49f316a5d2a9b7",
+  "downloaded_at": "2026-05-16T03:47:43.264229+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:675:2563",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3167",
+  "task_id": "T07068",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Hydrocortisone+BP+%2BCinchocaine+BP+%2BAesculin+%2F",
+  "local_path": "imports/accepted_evidence/product/3167/T07068_3167.cfm",
+  "sha256": "611f05c076f51960bf6b0499aaca5870a64a44f12e75ae84373a757d4750f54a",
+  "downloaded_at": "2026-05-16T03:51:05.516079+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:840:3167",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

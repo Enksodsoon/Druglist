@@ -1,0 +1,14 @@
+{
+  "source_id": "1071",
+  "task_id": "T02794",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ergotamine+tartrate+%2BCaffeine",
+  "local_path": "imports/accepted_evidence/product/1071/T02794_1071.cfm",
+  "sha256": "4cc0e50b7173f82e0ae453bae96f24fac4e7220d1d753d842775de5df5c07874",
+  "downloaded_at": "2026-05-16T03:40:18.963617+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:277:1071|Product_Label_Links:278:1405|Product_Label_Links:281:1404",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1003",
+  "task_id": "T04260",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Glucosamine+Sulfate+Chloride",
+  "local_path": "imports/accepted_evidence/product/1003/T04260_1003.cfm",
+  "sha256": "7e2bfa20eacd95e5cae624a5a287476b46c6e0b0982b38139d94939438ec24da",
+  "downloaded_at": "2026-05-16T03:44:02.445125+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:474:1003",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

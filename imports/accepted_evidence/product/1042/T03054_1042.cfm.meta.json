@@ -1,0 +1,14 @@
+{
+  "source_id": "1042",
+  "task_id": "T03054",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Aluminium+Hydroxide+%2BMagnesium+Hydroxide+%2BDimethylpolysiloxane",
+  "local_path": "imports/accepted_evidence/product/1042/T03054_1042.cfm",
+  "sha256": "ca0c0675e4e4d7fe4e3967687d3b68d530f602eba9fa1bffe02a06e53c313cc7",
+  "downloaded_at": "2026-05-16T03:40:57.816957+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:311:1042|Product_Label_Links:312:1095",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

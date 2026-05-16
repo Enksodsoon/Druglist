@@ -1,0 +1,14 @@
+{
+  "source_id": "8461",
+  "task_id": "T01421",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Magnesium%20Hydroxide%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8461/T01421_8461.json",
+  "sha256": "0e7d614046d59ae175bb4d0cb56695500eab5697a1b63044801b52b36a20817b",
+  "downloaded_at": "2026-05-16T03:36:54.517743+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:95:8461",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

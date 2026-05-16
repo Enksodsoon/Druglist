@@ -1,0 +1,14 @@
+{
+  "source_id": "1113",
+  "task_id": "T04500",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Anapril%205%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1113/T04500_1113.json",
+  "sha256": "7ec72df221721b08aa8aa7e9074dd4b413a9da67f8db66f9d5dcebd716ea41ca",
+  "downloaded_at": "2026-05-16T03:44:38.190531+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:509:1113",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

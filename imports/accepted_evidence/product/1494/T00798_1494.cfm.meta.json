@@ -1,0 +1,14 @@
+{
+  "source_id": "1494",
+  "task_id": "T00798",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Azithro+250+mg",
+  "local_path": "imports/accepted_evidence/product/1494/T00798_1494.cfm",
+  "sha256": "7f6e15a8a12070c600b7d11415342edce91fe0cf01385f3e1bc3c0f51389875c",
+  "downloaded_at": "2026-05-16T03:35:28.523673+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:6:1494",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

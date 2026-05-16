@@ -1,0 +1,14 @@
+{
+  "source_id": "7971",
+  "task_id": "T03426",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Ofloxacin%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/7971/T03426_7971.json",
+  "sha256": "003ef5555a1a938f555b162081a8fd33b563d56954b115c6c1f2d0e6d7c964a2",
+  "downloaded_at": "2026-05-16T03:41:54.037419+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:361:7971",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "40617",
+  "task_id": "T07605",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Betadine+Throat+Spray+25+ml",
+  "local_path": "imports/accepted_evidence/product/40617/T07605_40617.html",
+  "sha256": "2e2277e3c139b911214a3af908ea0a4152573038b7c639416d146009cec5d434",
+  "downloaded_at": "2026-05-16T03:52:27.618030+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:902:40617",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

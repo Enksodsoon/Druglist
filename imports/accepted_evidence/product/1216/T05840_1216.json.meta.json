@@ -1,0 +1,14 @@
+{
+  "source_id": "1216",
+  "task_id": "T05840",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Betamethasone%2017-Valerate%200%20122%20w/w&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1216/T05840_1216.json",
+  "sha256": "0d9b0dcdf6132018c0faf92ad65f0f51674b8a809d5ec5baf01df042e9108585",
+  "downloaded_at": "2026-05-16T03:47:55.984631+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:686:1216",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

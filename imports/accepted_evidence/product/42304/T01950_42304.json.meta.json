@@ -1,0 +1,14 @@
+{
+  "source_id": "42304",
+  "task_id": "T01950",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dehecta&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/42304/T01950_42304.json",
+  "sha256": "e74158a1b609b7d39a522ab3c80477888eada6dc993435407a65aa2fae330077",
+  "downloaded_at": "2026-05-16T03:38:13.075607+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:161:42304",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

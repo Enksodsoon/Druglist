@@ -1,0 +1,14 @@
+{
+  "source_id": "1959",
+  "task_id": "T04844",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Glucophage+XR+750+mg",
+  "local_path": "imports/accepted_evidence/product/1959/T04844_1959.cfm",
+  "sha256": "54c2f3ec831071e9b4ed75e40ca0e05d6bd40a452100661edcd6cb18f9f00098",
+  "downloaded_at": "2026-05-16T03:45:28.762239+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:555:1959",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

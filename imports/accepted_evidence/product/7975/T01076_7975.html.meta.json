@@ -1,0 +1,14 @@
+{
+  "source_id": "7975",
+  "task_id": "T01076",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Fexotine",
+  "local_path": "imports/accepted_evidence/product/7975/T01076_7975.html",
+  "sha256": "51398eec28235b75bbdc911f649c49367e973935d57008ddf5a8f861b65b8c48",
+  "downloaded_at": "2026-05-16T03:36:06.319202+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:44:7975",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

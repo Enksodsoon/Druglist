@@ -1,0 +1,14 @@
+{
+  "source_id": "2637",
+  "task_id": "T03333",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Motilium%20Oral%20Suspension&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2637/T03333_2637.json",
+  "sha256": "380cdf6bbe6a61c9adc99e7a4320d903a9aba914ecc4eecacde0c4221ee5e661",
+  "downloaded_at": "2026-05-16T03:41:39.437817+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:349:2637",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

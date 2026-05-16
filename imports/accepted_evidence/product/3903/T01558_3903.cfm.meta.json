@@ -1,0 +1,14 @@
+{
+  "source_id": "3903",
+  "task_id": "T01558",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ulcefate+tabslet+strip+10s",
+  "local_path": "imports/accepted_evidence/product/3903/T01558_3903.cfm",
+  "sha256": "456a73045f50f205687f12499399038a6952feacfe5ca6ce4c572ccb52cb6a74",
+  "downloaded_at": "2026-05-16T03:37:15.573342+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:110:3903",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

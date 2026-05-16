@@ -1,0 +1,14 @@
+{
+  "source_id": "3573",
+  "task_id": "T02296",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Acetaminophen%20%2BChlorpheniramine%20maleate%20%2BPhenylephrine%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3573/T02296_3573.json",
+  "sha256": "0109caf540389baa89ff99099cf4c8fefa41f1fb4bdc45e3a9afce8ac359441d",
+  "downloaded_at": "2026-05-16T03:39:03.688630+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:209:3573",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

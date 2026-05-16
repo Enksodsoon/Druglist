@@ -1,0 +1,14 @@
+{
+  "source_id": "Bulk_Source_Tasks_4",
+  "task_id": "T00101",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/{SETID}.xml\"",
+  "local_path": "imports/accepted_evidence/bulk/dailymed-api/T00101_Bulk_Source_Tasks_4.xml\"",
+  "sha256": "b97bda2e51dd9e4bea04d0bd348340b3d8b0dd4b3f1fee7d873e0c8553b8355a",
+  "downloaded_at": "2026-05-16T03:33:53.979304+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Bulk_Source_Tasks",
+  "linked_rows": "Bulk_Source_Tasks:4:Bulk_Source_Tasks_4",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "7106",
+  "task_id": "T01748",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Domperdone",
+  "local_path": "imports/accepted_evidence/product/7106/T01748_7106.cfm",
+  "sha256": "f30600b3b300cc7d25730d840e7e86efce565703bec5857df6050263c325f4f7",
+  "downloaded_at": "2026-05-16T03:37:43.458691+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:132:7106",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

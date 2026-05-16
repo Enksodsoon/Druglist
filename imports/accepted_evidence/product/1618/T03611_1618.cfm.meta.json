@@ -1,0 +1,14 @@
+{
+  "source_id": "1618",
+  "task_id": "T03611",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Duran",
+  "local_path": "imports/accepted_evidence/product/1618/T03611_1618.cfm",
+  "sha256": "6a15b208466165f3e2187de3915b1b20c5b620009d8dc0d6ed8f8b4dd4525848",
+  "downloaded_at": "2026-05-16T03:42:22.365187+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:386:1618",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

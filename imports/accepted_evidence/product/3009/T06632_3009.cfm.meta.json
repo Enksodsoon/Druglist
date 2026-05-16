@@ -1,0 +1,14 @@
+{
+  "source_id": "3009",
+  "task_id": "T06632",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Opsar+%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+  "local_path": "imports/accepted_evidence/product/3009/T06632_3009.cfm",
+  "sha256": "af058995568d86a476ea5322f30b4b7908a9448df45cc23c119375dba5595714",
+  "downloaded_at": "2026-05-16T03:49:59.995860+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:781:3009",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

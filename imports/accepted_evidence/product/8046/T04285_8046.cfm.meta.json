@@ -1,0 +1,14 @@
+{
+  "source_id": "8046",
+  "task_id": "T04285",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bromhexine+%2BGuaifenesin",
+  "local_path": "imports/accepted_evidence/product/8046/T04285_8046.cfm",
+  "sha256": "07d39d9e1cf2bcbc48c2bfe69cb25e6e9aa35d25e0a8368c34e5ae93f9813a1c",
+  "downloaded_at": "2026-05-16T03:44:06.360128+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:477:8046",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

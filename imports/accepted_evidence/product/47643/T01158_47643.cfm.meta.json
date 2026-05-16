@@ -1,0 +1,14 @@
+{
+  "source_id": "47643",
+  "task_id": "T01158",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Singulair+Granules+4+mg",
+  "local_path": "imports/accepted_evidence/product/47643/T01158_47643.cfm",
+  "sha256": "33a96acaabc889450b6f061eb79fb7d3520c21d3f6ae564985ae595a3b0260fd",
+  "downloaded_at": "2026-05-16T03:36:16.942401+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:56:47643",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

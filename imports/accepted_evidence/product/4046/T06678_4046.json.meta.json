@@ -1,0 +1,14 @@
+{
+  "source_id": "4046",
+  "task_id": "T06678",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Vilerm%20Cream%205%20g&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/4046/T06678_4046.json",
+  "sha256": "f18ba22a2cae101219b627c3fb1614e7cb7a0de6d9696ef2344f932b89f3ba3b",
+  "downloaded_at": "2026-05-16T03:50:06.930738+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:786:4046",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

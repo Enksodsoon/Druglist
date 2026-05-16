@@ -1,0 +1,14 @@
+{
+  "source_id": "6639",
+  "task_id": "T01781",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Molax-M",
+  "local_path": "imports/accepted_evidence/product/6639/T01781_6639.html",
+  "sha256": "1f540ea177749237c251ab542f65c34db4bcc12288684b695738a15570e03fa4",
+  "downloaded_at": "2026-05-16T03:37:49.772196+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:136:6639",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "42304",
+  "task_id": "T01949",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dioctahedral+Smectite+%2F",
+  "local_path": "imports/accepted_evidence/product/42304/T01949_42304.cfm",
+  "sha256": "eb8c74dd5d3d5c36af438c3972c7c94a825a00c4eccc4e4f9655e9bfcd79aee1",
+  "downloaded_at": "2026-05-16T03:38:13.103990+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:161:42304",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

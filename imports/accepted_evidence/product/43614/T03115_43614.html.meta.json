@@ -1,0 +1,14 @@
+{
+  "source_id": "43614",
+  "task_id": "T03115",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Gaviscon+Advance+bottle+150+ml",
+  "local_path": "imports/accepted_evidence/product/43614/T03115_43614.html",
+  "sha256": "527d675d318c313802f5c87e04040f958944e56ffd5e47257fbaf31f8c4f2c22",
+  "downloaded_at": "2026-05-16T03:41:07.872939+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:318:43614",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

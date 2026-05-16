@@ -1,0 +1,14 @@
+{
+  "source_id": "1705",
+  "task_id": "T04276",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Viartril-S",
+  "local_path": "imports/accepted_evidence/product/1705/T04276_1705.html",
+  "sha256": "af3faa7ba37b57e1f5772bb5a963255eab1ec8cbc9f5496375a476543d295118",
+  "downloaded_at": "2026-05-16T03:44:04.791611+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:475:1705",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

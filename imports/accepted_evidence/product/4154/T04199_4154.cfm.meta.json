@@ -1,0 +1,14 @@
+{
+  "source_id": "4154",
+  "task_id": "T04199",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Yaz",
+  "local_path": "imports/accepted_evidence/product/4154/T04199_4154.cfm",
+  "sha256": "c4169d4e7dcf54940debe98c585c97309e62a39de46ff0934f1d49703e6c99d4",
+  "downloaded_at": "2026-05-16T03:43:53.635201+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:466:4154",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

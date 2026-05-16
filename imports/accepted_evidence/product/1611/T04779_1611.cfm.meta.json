@@ -1,0 +1,14 @@
+{
+  "source_id": "1611",
+  "task_id": "T04779",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Daonil+5+mg",
+  "local_path": "imports/accepted_evidence/product/1611/T04779_1611.cfm",
+  "sha256": "a52c4dba716da90fb61bcc6e9d8957b088b3a93cd0dea5d3bba1cc9720004781",
+  "downloaded_at": "2026-05-16T03:45:18.771359+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:547:1611",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "43603",
+  "task_id": "T04814",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Glizide",
+  "local_path": "imports/accepted_evidence/product/43603/T04814_43603.cfm",
+  "sha256": "0430f280e28fa26556f8364a8b6718e4a23b18519d6b80fde8113b00647df2db",
+  "downloaded_at": "2026-05-16T03:45:24.175845+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:551:43603",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1649",
+  "task_id": "T04799",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Glipizide%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1649/T04799_1649.json",
+  "sha256": "2beb1ed9e33fa468d849ed52f4eb765fc3dca5902dfe70e2ba0e4020f4752bcf",
+  "downloaded_at": "2026-05-16T03:45:22.483597+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:549:1649|Product_Label_Links:551:43603|Product_Label_Links:556:43611|Product_Label_Links:560:2628",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

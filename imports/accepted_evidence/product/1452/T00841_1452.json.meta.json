@@ -1,0 +1,14 @@
+{
+  "source_id": "1452",
+  "task_id": "T00841",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Clarithromycin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1452/T00841_1452.json",
+  "sha256": "efc02d5e8ee85c977d8f3449eeffef511a2c81c6435509597ac7d589a541e6a7",
+  "downloaded_at": "2026-05-16T03:35:34.127250+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:11:1452|Product_Label_Links:16:2447",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

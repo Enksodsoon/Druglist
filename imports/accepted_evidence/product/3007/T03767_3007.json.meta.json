@@ -1,0 +1,14 @@
+{
+  "source_id": "3007",
+  "task_id": "T03767",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Thiamine%20Mononitrate%20%2BPyridoxine%20%2BCyanocobalamin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3007/T03767_3007.json",
+  "sha256": "8689cc0908459784058e0690606d698653f4c97bac9f5cd02956de7550d27a5d",
+  "downloaded_at": "2026-05-16T03:42:46.605358+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:406:3007|Product_Label_Links:407:8151|Product_Label_Links:408:8708|Product_Label_Links:409:7809",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

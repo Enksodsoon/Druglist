@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_57",
+  "task_id": "T00556",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=racecadotril+paeds",
+  "local_path": "imports/accepted_evidence/drug/drug-bds002108/T00556_Drug_Label_Links_57.cfm",
+  "sha256": "b37994751f55712288d9ba94ae7b0ac052832599f37979943347e593d8f799e9",
+  "downloaded_at": "2026-05-16T03:34:53.728935+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:57:Drug_Label_Links_57",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

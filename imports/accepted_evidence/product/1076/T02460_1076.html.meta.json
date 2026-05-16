@@ -1,0 +1,14 @@
+{
+  "source_id": "1076",
+  "task_id": "T02460",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Arcoxia+120+mg",
+  "local_path": "imports/accepted_evidence/product/1076/T02460_1076.html",
+  "sha256": "a53de023d4c948ff826b70892845716c24f9e0e069ee12a47e47cf3c997b654f",
+  "downloaded_at": "2026-05-16T03:39:32.769542+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:230:1076",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

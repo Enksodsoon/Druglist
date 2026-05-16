@@ -1,0 +1,14 @@
+{
+  "source_id": "2648",
+  "task_id": "T05759",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Mycoderm-C+1%25",
+  "local_path": "imports/accepted_evidence/product/2648/T05759_2648.html",
+  "sha256": "82ea4bcf357bdbd43231be8d6f8224ee4c9e10c279e7701978d8e7fc6d64e9d4",
+  "downloaded_at": "2026-05-16T03:47:43.549024+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:676:2648",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

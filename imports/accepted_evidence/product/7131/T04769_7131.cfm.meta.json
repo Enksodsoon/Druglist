@@ -1,0 +1,14 @@
+{
+  "source_id": "7131",
+  "task_id": "T04769",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Benclamide",
+  "local_path": "imports/accepted_evidence/product/7131/T04769_7131.cfm",
+  "sha256": "2844edbf6a9e3d3ad73e6743f6270fafb8ad7693a4689bab194e8d9ddd1c7872",
+  "downloaded_at": "2026-05-16T03:45:17.089469+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:546:7131",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

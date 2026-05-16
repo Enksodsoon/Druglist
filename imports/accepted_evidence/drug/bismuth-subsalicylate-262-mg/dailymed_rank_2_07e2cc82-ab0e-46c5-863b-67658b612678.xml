@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="3eab8dc9-d54c-4921-864f-a944cbb43a7c"/>
+   <code code="34390-5" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN OTC DRUG LABEL"/>
+   <title>Gencare-Upset Stomach Relief-Bismuth Subsalicylate 262 mg</title>
+   <effectiveTime value="20250627"/>
+   <setId root="07e2cc82-ab0e-46c5-863b-67658b612678"/>
+   <versionNumber value="1"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id root="1.3.6.1.4.1.519.1" extension="014092742"/>
+            <name>Pioneer Life Sciences, LLC</name>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="97a4f787-39bd-4408-84fa-62bd3bb82c83"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <title/>
+               <text/>
+               <effectiveTime value="20250627"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="72090-053" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Upset Stomach Relief-Bismuth Subsalicylate 262 mg</name>
+                        <formCode code="C42954" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CAPSULE, LIQUID FILLED"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Bismuth Subsalicylate 262 mg</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="262" unit="mg"/>
+                              <denominator value="1" unit="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="62TEY51RR1" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>BISMUTH SUBSALICYLATE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="O414PZ4LPZ" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>SALICYLIC ACID</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="B697894SGQ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POLYETHYLENE GLYCOL 400</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="6OZP39ZG8H" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POLYSORBATE 80</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="1DI56QDM62" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SOYBEAN LECITHIN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="U725QWY32X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POVIDONE K30</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="2G86QN327L" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Gelatin</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="PDC6A3C0OX" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Glycerin</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="8KW3E207O2" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SORBITOL SOLUTION</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="6O92ICV9RU" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SORBITAN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="9DBA0SBB0L" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>D&amp;C RED NO. 33</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="15FIX9V2JP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Titanium Dioxide</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="48" unit="1"/>
+                              <denominator value="1" unit="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="72090-053-01" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" displayName="BOTTLE" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20250627"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" displayName="Type 0: Not a Combination Product" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20250627"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <approval>
+                           <id extension="M008" root="2.16.840.1.113883.3.9421"/>
+                           <code code="C200263" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="OTC Monograph Drug"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic>
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48328" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="pink" xsi:type="CE">
+                              <originalText>Opaque baby pink</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic>
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48345" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="OVAL" xsi:type="CE">
+                              <originalText>Oblong</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic>
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="20" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic>
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic>
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">SD30</value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="L866a378f-266c-4751-b203-c926612bb451">
+               <id root="c6e47be4-2853-43b7-be30-8ad6ae36ecb7"/>
+               <code code="55106-9" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - ACTIVE INGREDIENT SECTION"/>
+               <title>
+                  <content styleCode="bold">Active Ingredient (in each softgel)</content>
+               </title>
+               <text>
+                  <paragraph>Bismuth subsalicylate 262 mg</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Leeb3deed-781e-4c53-a899-0a7c17119c1e">
+               <id root="51fd4c7f-c388-41df-a5a8-a907aba0415f"/>
+               <code code="55105-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - PURPOSE SECTION"/>
+               <title>Purpose</title>
+               <text>
+                  <paragraph>Upset stomach reliever and antidiarrheal</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Lfe667cf2-ba52-4ee2-995b-b4ec26ee177f">
+               <id root="95e9014c-bde2-4b2f-b893-f6a428bc92a1"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>
+                  <content styleCode="bold">Uses</content>
+               </title>
+               <text>
+                  <paragraph>relieves:<br/>■ travelers' diarrhea <content>■ diarrhea </content>
+                     <content>■ upset stomach due </content>
+                     <content>to overindulgence in food and drink, including </content>
+                     <content>■ heartburn ■ indigestion ■ nausea ■ gas ■ belching </content>
+                     <content>■ fullness</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="L541b25e7-b474-4d34-bd72-cb792031e768">
+               <id root="badcb7a2-7eec-4465-a71d-5d6e4104e11b"/>
+               <code code="34071-1" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS SECTION"/>
+               <title>
+                  <content styleCode="bold">Warnings</content>
+               </title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Reye's syndrome:</content>
+                     <br/>Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness.</paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <content styleCode="bold">Allergy alert: Contains salicylate.Do not take if you are</content> ■ allergic to salicylates (including aspirin) ■ taking other salicylate products</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Le4ca5e08-5962-47fd-8045-d8cd9d4c6e75">
+               <id root="c68d9622-c0d4-4a1d-a115-f8bb6681bda2"/>
+               <code code="50570-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - DO NOT USE SECTION"/>
+               <title/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Do not use if you have</content> ■ an ulcer ■ a bleeding problem ■ bloody or black stool</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="L1ec7b1ed-c7b6-42d2-8759-286810b90837">
+               <id root="2b2d3808-6b43-4ae9-b117-7c016a83fdfb"/>
+               <code code="50569-3" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - ASK DOCTOR SECTION"/>
+               <title/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Ask a doctor before use if you have</content> ■ fever ■ mucus in the stool</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Lc5248d58-70b2-4769-8842-dcde3594b569">
+               <id root="efc9dcf4-5bcf-47a7-a5b9-e694693d752f"/>
+               <code code="50568-5" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - ASK DOCTOR/PHARMACIST SECTION"/>
+               <title/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Ask a doctor or pharmacist before use if you are taking any drug for</content> ■ anticoagulation (thinning the blood) ■ diabetes ■ gout ■ arthritis</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="L53296b63-7831-41b5-83b8-d5c7fe3b7122">
+               <id root="c21aeaef-d33d-4365-8561-94a357b0562e"/>
+               <code code="50567-7" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - WHEN USING SECTION"/>
+               <title/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">When using this product</content> a temporary, but harmless, darkening of the stool and/or tongue may occur</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Le9e9d0bb-59a2-4acb-9c84-dc53735fd8e8">
+               <id root="ad17eda4-5fdc-42b4-87b1-d02404d036f5"/>
+               <code code="50566-9" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - STOP USE SECTION"/>
+               <title/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Stop use and ask a doctor if</content> ■ symptoms get worse or last more than 2 days ■ ringing in the ears or loss of hearing occurs ■ diarrhea lasts more than 2 days</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Lbe6a38d0-bba7-46dc-90a4-c898c560084d">
+               <id root="bf747627-323d-484f-b91d-fe307dcece55"/>
+               <code code="53414-9" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - PREGNANCY OR BREAST FEEDING SECTION"/>
+               <title/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">If pregnant or breast feeding,</content> ask a health professional before use.</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="L3663f06e-1b84-41ed-b277-b4497debc040">
+               <id root="9d444c3a-159a-43ec-9b2c-c6f455b68810"/>
+               <code code="50565-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - KEEP OUT OF REACH OF CHILDREN SECTION"/>
+               <title/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">KEEP OUT OF REACH OF CHILDREN</content> In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Lcf5a97ef-095c-41c2-aef9-30879a32e2ee">
+               <id root="02496e17-4e5a-4ac2-ab98-9d24bcb26caf"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>
+                  <content styleCode="bold">Directions</content>
+               </title>
+               <text>
+                  <paragraph>■ swallow with water, do not chew<br/>■ adults and children 12 years and over:<br/>■ 2 softgels every ½ hour or 4 softgels every hour as needed for diarrhea<br/>■ 2 softgels every ½ hour to 1 hour as needed for overindulgence (upset stomach, heartburn, indigestion, nausea)<br/>■ do not exceed 8 doses (16 softgels) in 24 hours<br/>■ use until diarrhea stops but not more than 2 days<br/>■ children under 12 years: ask a doctor<br/>■ drink plenty of clear fluids to help prevent dehydration caused by diarrhea</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="L5c52b16e-f4c4-4895-a534-5c500f6f3d6b">
+               <id root="1375a06a-b4db-40c2-a2df-cfc01035dc32"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <title>
+                  <content styleCode="bold">Other information</content>
+               </title>
+               <text>
+                  <paragraph>■ each softgel contains:<br/>■ salicylate 99 mg<br/>■ low sodium<br/>■ do not exceed 25°C</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Lf2d0d1ca-9bd9-4e9f-bc06-f72aab970fb9">
+               <id root="4f5cd188-672f-4c04-b45d-d574853fddce"/>
+               <code code="51727-6" codeSystem="2.16.840.1.113883.6.1" displayName="INACTIVE INGREDIENT SECTION"/>
+               <title>
+                  <content styleCode="bold">Inactive ingredients</content>
+               </title>
+               <text>
+                  <paragraph>Polyethylene Glycol-400, Polysorbate 80, Soya Lecithin, Povidone (PVPK 30), Gelatin, Glycerin, Sorbitol Sorbitan Solution, D &amp; C Red 33 , Titanium Dioxide, Purified Water</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Lbc92d34d-125e-4c7f-a7c4-3d1d5b0ee8ee">
+               <id root="b4db5b2f-8e49-4797-8e48-b494458738a8"/>
+               <code code="53413-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - QUESTIONS SECTION"/>
+               <title>
+                  <content styleCode="bold">Questions or Comments?</content>
+               </title>
+               <text>
+                  <paragraph>Call +1 (732) 994-2808 or email support@gencare.health</paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Ld10b1e4a-cfbd-4ce5-8261-253ad8f3266a">
+               <id root="538a8ada-608a-49a8-ab09-f12c8a9d73cf"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title/>
+               <text>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="L1841ff0e-2551-446a-b9fa-092455921c37"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20250627"/>
+               <component>
+                  <observationMedia ID="L1841ff0e-2551-446a-b9fa-092455921c37">
+                     <text>PL0275-00 GC Bismuth Subsalicylate Softgels 48ct</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="PL0275-00 GC Bismuth Subsalicylate Softgels 48ct.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

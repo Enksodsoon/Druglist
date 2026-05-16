@@ -1,0 +1,14 @@
+{
+  "source_id": "2630",
+  "task_id": "T04111",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Melodia&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2630/T04111_2630.json",
+  "sha256": "20a0a9637c000733cd86ee51c1ae4efaf04d76c83b1d49505ff5452014b99515",
+  "downloaded_at": "2026-05-16T03:43:39.585830+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:451:2630",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

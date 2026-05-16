@@ -1,0 +1,14 @@
+{
+  "source_id": "1665",
+  "task_id": "T03939",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Ibuprofen%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1665/T03939_1665.json",
+  "sha256": "208e7d401bd7ebe976dd544e67f5d1583283e9fd88c223031438070fd6d714ac",
+  "downloaded_at": "2026-05-16T03:43:13.124269+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:427:1665|Product_Label_Links:428:7151|Product_Label_Links:429:2845",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

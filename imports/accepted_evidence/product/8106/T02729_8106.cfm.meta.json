@@ -1,0 +1,14 @@
+{
+  "source_id": "8106",
+  "task_id": "T02729",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dextromethorphan+HBr+%2BChlorpheniramine+maleate+%2BTerpine+hydrate",
+  "local_path": "imports/accepted_evidence/product/8106/T02729_8106.cfm",
+  "sha256": "2d322a5a73b7fc4444478a21ae7115b8b2532f255d7a42e2982ca5684838f6d6",
+  "downloaded_at": "2026-05-16T03:40:09.096527+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:270:8106",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

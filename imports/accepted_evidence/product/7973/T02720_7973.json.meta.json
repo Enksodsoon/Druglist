@@ -1,0 +1,14 @@
+{
+  "source_id": "7973",
+  "task_id": "T02720",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Fartussin%20%28%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%29&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7973/T02720_7973.json",
+  "sha256": "3c6fdc6667c9dd862cbab062a1fe83427401a0d0a27530629033a89e651d13ab",
+  "downloaded_at": "2026-05-16T03:40:07.431366+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:269:7973",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

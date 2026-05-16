@@ -1,0 +1,14 @@
+{
+  "source_id": "44320",
+  "task_id": "T05397",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Klean+%26+Kare+Saline+%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+  "local_path": "imports/accepted_evidence/product/44320/T05397_44320.cfm",
+  "sha256": "92dd12f4525fae03f7e315b78e40f2df9a3ca483af9e42695f685b62b4db60ea",
+  "downloaded_at": "2026-05-16T03:46:48.834940+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:632:44320",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

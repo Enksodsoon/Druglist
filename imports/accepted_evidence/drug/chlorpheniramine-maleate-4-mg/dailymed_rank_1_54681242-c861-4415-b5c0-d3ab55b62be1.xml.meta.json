@@ -1,0 +1,17 @@
+{
+  "source_id": "7145",
+  "task_id": "DAILYMED_1_54681242-c861-4415-b5c0-d3ab55b62be1",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/54681242-c861-4415-b5c0-d3ab55b62be1.xml",
+  "local_path": "imports/accepted_evidence/drug/chlorpheniramine-maleate-4-mg/dailymed_rank_1_54681242-c861-4415-b5c0-d3ab55b62be1.xml",
+  "sha256": "acd56fc73ab6fc37ac06230729eb4ff93957db98146f0947be0884e1e13bc08e",
+  "downloaded_at": "2026-05-16T03:53:33.613257+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Chlorpheniramine Maleate 4 mg.",
+  "rank": 1,
+  "setid": "54681242-c861-4415-b5c0-d3ab55b62be1",
+  "title": "CHLORPHENIRAMINE MALEATE 4 MG (CHLORPHENIRAMINE MALEATE) TABLET [BRYANT RANCH PREPACK]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

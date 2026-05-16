@@ -1,0 +1,14 @@
+{
+  "source_id": "3551",
+  "task_id": "T03549",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Strepsils+Original+HHR+%28%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%94%E0%B9%81%E0%B8%94%E0%B8%87%29+%E0%B8%8B%E0%B8%AD%E0%B8%87+8s",
+  "local_path": "imports/accepted_evidence/product/3551/T03549_3551.html",
+  "sha256": "c1302f557506805649cdc55d4fc21725806c8c8ea863735f549d1e3f759acc37",
+  "downloaded_at": "2026-05-16T03:42:15.910001+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:377:3551",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3611",
+  "task_id": "T01443",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Senokot",
+  "local_path": "imports/accepted_evidence/product/3611/T01443_3611.cfm",
+  "sha256": "c9b566179aae82d26fb8b462a48d6988bfdfb7260adbbffe56417a7f086a8c24",
+  "downloaded_at": "2026-05-16T03:36:58.329659+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:98:3611",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

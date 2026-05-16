@@ -1,0 +1,14 @@
+{
+  "source_id": "8061",
+  "task_id": "T02535",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Felcam&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8061/T02535_8061.json",
+  "sha256": "98a45029d65c8950c15601cd0d028c5e747cf1c32311e5161a3265a03e44a4ae",
+  "downloaded_at": "2026-05-16T03:39:39.854469+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:242:8061",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

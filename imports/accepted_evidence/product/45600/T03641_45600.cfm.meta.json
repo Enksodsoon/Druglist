@@ -1,0 +1,14 @@
+{
+  "source_id": "45600",
+  "task_id": "T03641",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Nurofen+Zavance",
+  "local_path": "imports/accepted_evidence/product/45600/T03641_45600.cfm",
+  "sha256": "276f4d2b1155688aa70f7c0141e2a5691ec75cef6efadfedd7bd156d1f437cfe",
+  "downloaded_at": "2026-05-16T03:42:27.271210+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:391:45600",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "8609",
+  "task_id": "T02154",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Paracetamol+%2F",
+  "local_path": "imports/accepted_evidence/product/8609/T02154_8609.cfm",
+  "sha256": "d8f4fbaac00ae98587ad199aeefa7c804565e4a1d711132abaee8dffe682d677",
+  "downloaded_at": "2026-05-16T03:38:42.844690+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:186:8609|Product_Label_Links:187:2407|Product_Label_Links:188:7583|Product_Label_Links:189:2861|Product_Label_Links:190:2847|Product_Label_Links:191:8137|Product_Label_Links:192:3597|Product_Label_Links:193:3596|Product_Label_Links:194:3504|Product_Label_Links:195:3600|Product_Label_Links:196:3711|Product_Label_Links:197:3712|Product_Label_Links:198:48670|Product_Label_Links:199:3713|Product_Label_Links:200:3737|Product_Label_Links:201:3763",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

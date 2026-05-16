@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_43",
+  "task_id": "T00432",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=amoxicillin-clavulanate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001103/T00432_Drug_Label_Links_43.xml",
+  "sha256": "39945b7a628cdbe0eaad0bc8829241c9309a8a3af53b7d9b0e59b919af008c76",
+  "downloaded_at": "2026-05-16T03:34:36.806028+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:43:Drug_Label_Links_43",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

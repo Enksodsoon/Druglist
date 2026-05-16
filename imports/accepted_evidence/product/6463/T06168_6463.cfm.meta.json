@@ -1,0 +1,14 @@
+{
+  "source_id": "6463",
+  "task_id": "T06168",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Glycerin",
+  "local_path": "imports/accepted_evidence/product/6463/T06168_6463.cfm",
+  "sha256": "dde04683e6ffe7e351f2c7c9430bb25bb1c8dae1ab7a63dfacd892d3bd5793b9",
+  "downloaded_at": "2026-05-16T03:48:46.961092+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:730:6463|Product_Label_Links:731:6743",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

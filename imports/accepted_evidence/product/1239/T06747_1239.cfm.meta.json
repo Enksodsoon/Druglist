@@ -1,0 +1,14 @@
+{
+  "source_id": "1239",
+  "task_id": "T06747",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betadine+Solution+30+ml",
+  "local_path": "imports/accepted_evidence/product/1239/T06747_1239.cfm",
+  "sha256": "1edcde76721b59944f5158bc4aa7d0560e37cd4b3ce958c4fb04b744b852783b",
+  "downloaded_at": "2026-05-16T03:50:16.429228+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:796:1239",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

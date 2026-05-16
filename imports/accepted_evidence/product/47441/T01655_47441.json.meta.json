@@ -1,0 +1,14 @@
+{
+  "source_id": "47441",
+  "task_id": "T01655",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Rabeprazole%20Sandoz%2020%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/47441/T01655_47441.json",
+  "sha256": "8341d852628c0106f43b0d2454782aa330711df8cd8cd0a628f53ca209f5735f",
+  "downloaded_at": "2026-05-16T03:37:29.227275+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:122:47441",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

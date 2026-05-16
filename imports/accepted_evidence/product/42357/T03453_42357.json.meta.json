@@ -1,0 +1,14 @@
+{
+  "source_id": "42357",
+  "task_id": "T03453",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Difflam%20%E0%B8%A3%E0%B8%AA%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87%E0%B8%A1%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%AA%E0%B8%A1%E0%B9%82%E0%B8%9E%E0%B8%A3%E0%B9%82%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%AA&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/42357/T03453_42357.json",
+  "sha256": "f610dc8ec68e8a7b3088fc1e94bc9e32c84cfdc9a2621fc4cdef242efc47186d",
+  "downloaded_at": "2026-05-16T03:41:57.721664+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:365:42357",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

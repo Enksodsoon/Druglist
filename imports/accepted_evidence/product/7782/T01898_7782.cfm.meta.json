@@ -1,0 +1,14 @@
+{
+  "source_id": "7782",
+  "task_id": "T01898",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clinovir+200+mg",
+  "local_path": "imports/accepted_evidence/product/7782/T01898_7782.cfm",
+  "sha256": "21fb91610184c4b378934ac746e21334e11df040ba3f9a4dbb92bc535c442d09",
+  "downloaded_at": "2026-05-16T03:38:05.496558+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:152:7782",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

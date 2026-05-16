@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_26",
+  "task_id": "T00315",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=betahistine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds006571/T00315_Drug_Label_Links_26.xml",
+  "sha256": "52e267f2e43135a658f7b0c2a935dd7e8a84cdda9f01202238cba5de96f149b5",
+  "downloaded_at": "2026-05-16T03:34:21.028088+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:26:Drug_Label_Links_26",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

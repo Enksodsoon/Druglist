@@ -1,0 +1,14 @@
+{
+  "source_id": "45616",
+  "task_id": "T03316",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Norpa+tabslets",
+  "local_path": "imports/accepted_evidence/product/45616/T03316_45616.cfm",
+  "sha256": "c40ac0033c65205fa9f5078eac72865de1ebe8b9b11b9e820b56c26771300df5",
+  "downloaded_at": "2026-05-16T03:41:37.515879+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:346:45616",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

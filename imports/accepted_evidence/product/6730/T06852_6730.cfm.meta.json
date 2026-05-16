@@ -1,0 +1,14 @@
+{
+  "source_id": "6730",
+  "task_id": "T06852",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=N-Zen+Gel+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/6730/T06852_6730.cfm",
+  "sha256": "cf90eee7491bdb872a87f3a33f6c44307e8283bca156b7a7e4822ddb5dcb736a",
+  "downloaded_at": "2026-05-16T03:50:32.238538+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:810:6730",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

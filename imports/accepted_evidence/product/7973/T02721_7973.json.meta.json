@@ -1,0 +1,14 @@
+{
+  "source_id": "7973",
+  "task_id": "T02721",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dextromethorphan%20HBr%20%2BGlyceryl%20Guaiacolate%20%2BTerpin%20Hydrate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7973/T02721_7973.json",
+  "sha256": "d3ced8d2ac68873cd9ec542ef463e5f4d2b0eb3a856b389ebe659b109701f318",
+  "downloaded_at": "2026-05-16T03:40:07.731432+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:269:7973",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

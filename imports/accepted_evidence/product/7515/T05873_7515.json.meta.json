@@ -1,0 +1,14 @@
+{
+  "source_id": "7515",
+  "task_id": "T05873",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Clobevate%20Cream%20%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7515/T05873_7515.json",
+  "sha256": "4f4161f93070890c2b2842af120ad829ed1a30394616306a95c54934032af4ea",
+  "downloaded_at": "2026-05-16T03:48:01.568139+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:690:7515",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

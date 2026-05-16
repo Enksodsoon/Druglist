@@ -1,0 +1,14 @@
+{
+  "source_id": "2117",
+  "task_id": "T06332",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Hista-Oph",
+  "local_path": "imports/accepted_evidence/product/2117/T06332_2117.cfm",
+  "sha256": "78382eb6276db25c7702744de6550b360985230c6efdaffe9462f2e5e7574d64",
+  "downloaded_at": "2026-05-16T03:49:11.897606+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:749:2117",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

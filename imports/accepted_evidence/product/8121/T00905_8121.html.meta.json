@@ -1,0 +1,14 @@
+{
+  "source_id": "8121",
+  "task_id": "T00905",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Rintacin",
+  "local_path": "imports/accepted_evidence/product/8121/T00905_8121.html",
+  "sha256": "6f58f8910b313aaa17c2396f331b9335746ef369a838791a27740c75338a0fb8",
+  "downloaded_at": "2026-05-16T03:35:42.114206+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:19:8121",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

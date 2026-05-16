@@ -1,0 +1,14 @@
+{
+  "source_id": "3423",
+  "task_id": "T00908",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Rothricin+150+mg",
+  "local_path": "imports/accepted_evidence/product/3423/T00908_3423.cfm",
+  "sha256": "ebe5ffeb0a92cf5ca28cdc37aca65d4ee176e545ff17b08319161f9b496b4fa7",
+  "downloaded_at": "2026-05-16T03:35:43.024218+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:20:3423",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

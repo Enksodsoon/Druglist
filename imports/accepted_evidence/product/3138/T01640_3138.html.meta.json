@@ -1,0 +1,14 @@
+{
+  "source_id": "3138",
+  "task_id": "T01640",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Pariet+20+mg",
+  "local_path": "imports/accepted_evidence/product/3138/T01640_3138.html",
+  "sha256": "aadb7499cb85e993878f26c9acc3ac5aa79d828f2cf570d97c754d537e28bd4e",
+  "downloaded_at": "2026-05-16T03:37:28.148417+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:120:3138",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

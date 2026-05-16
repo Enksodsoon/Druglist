@@ -1,0 +1,14 @@
+{
+  "source_id": "2826",
+  "task_id": "T01861",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Ninazol+T.O.",
+  "local_path": "imports/accepted_evidence/product/2826/T01861_2826.html",
+  "sha256": "4e2f0e40f50d35c21cbd86d90e421e6e31c2cdd6464b0b1d5b222d4469e32223",
+  "downloaded_at": "2026-05-16T03:38:00.417903+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:147:2826",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

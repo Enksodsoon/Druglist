@@ -1,0 +1,14 @@
+{
+  "source_id": "3510",
+  "task_id": "T02894",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betahistine+dihydrochloride",
+  "local_path": "imports/accepted_evidence/product/3510/T02894_3510.cfm",
+  "sha256": "cdf58c90097b734a10e01c49fa45a68155d221c505117974e2c6048722d9a6dc",
+  "downloaded_at": "2026-05-16T03:40:33.701493+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:289:3510|Product_Label_Links:290:6571|Product_Label_Links:292:7272",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

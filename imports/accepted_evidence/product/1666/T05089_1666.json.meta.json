@@ -1,0 +1,14 @@
+{
+  "source_id": "1666",
+  "task_id": "T05089",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Phenytoin%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1666/T05089_1666.json",
+  "sha256": "2711f088e6954b6a01fa7c3e8ace5a6811b817dfaf7c169388e49a08b1bd85b4",
+  "downloaded_at": "2026-05-16T03:46:05.598021+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:592:1666",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

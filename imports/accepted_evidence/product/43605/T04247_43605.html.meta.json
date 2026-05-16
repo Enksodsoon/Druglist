@@ -1,0 +1,14 @@
+{
+  "source_id": "43605",
+  "task_id": "T04247",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Glucosa+1500+%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9C%E0%B8%87+%28%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%A7%29",
+  "local_path": "imports/accepted_evidence/product/43605/T04247_43605.html",
+  "sha256": "7f606d9a1a11de910ddda9e6fdc9388bee51eee43d2afa2939597ef4eda9875c",
+  "downloaded_at": "2026-05-16T03:43:59.715787+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:471:43605",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

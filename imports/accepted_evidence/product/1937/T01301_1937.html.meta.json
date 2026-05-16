@@ -1,0 +1,14 @@
+{
+  "source_id": "1937",
+  "task_id": "T01301",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Flemex+Foil",
+  "local_path": "imports/accepted_evidence/product/1937/T01301_1937.html",
+  "sha256": "163a2e7da4e32be50a4e5439066d6ab3465dfd92f0fc69645bac802141530ffd",
+  "downloaded_at": "2026-05-16T03:36:39.522461+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:77:1937",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

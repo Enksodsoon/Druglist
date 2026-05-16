@@ -1,0 +1,14 @@
+{
+  "source_id": "1509",
+  "task_id": "T02508",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Celecoxib%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1509/T02508_1509.json",
+  "sha256": "f5956984faf3b23f60b3b1e3065e94f56dba8cdc8411538e3f0545cfe13d7dde",
+  "downloaded_at": "2026-05-16T03:39:37.155851+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:237:1509|Product_Label_Links:238:1507|Product_Label_Links:261:49777",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

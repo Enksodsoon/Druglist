@@ -1,0 +1,14 @@
+{
+  "source_id": "1636",
+  "task_id": "T03884",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Diasgest",
+  "local_path": "imports/accepted_evidence/product/1636/T03884_1636.cfm",
+  "sha256": "62f6b18dbe7d7e119fdd2cf93954a2dd861e55dfa8960685e4fbf435ac8d37f6",
+  "downloaded_at": "2026-05-16T03:43:03.990016+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:420:1636",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

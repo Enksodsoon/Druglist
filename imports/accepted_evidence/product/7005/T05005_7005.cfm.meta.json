@@ -1,0 +1,14 @@
+{
+  "source_id": "7005",
+  "task_id": "T05005",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Spironolactone",
+  "local_path": "imports/accepted_evidence/product/7005/T05005_7005.cfm",
+  "sha256": "90539ab05d88515a13cc83a6bbbe634267f5b8d1b60141b9edcbd48487e97a79",
+  "downloaded_at": "2026-05-16T03:45:53.071266+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:582:7005",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

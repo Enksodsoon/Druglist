@@ -1,0 +1,14 @@
+{
+  "source_id": "3739",
+  "task_id": "T02988",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Tramadol%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/3739/T02988_3739.json",
+  "sha256": "b5edd5ab73b6dcd5ab9d5f76ac8b1c94c5ad4c3303adcb24a76cdc6c448680fb",
+  "downloaded_at": "2026-05-16T03:40:49.294562+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:302:3739",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

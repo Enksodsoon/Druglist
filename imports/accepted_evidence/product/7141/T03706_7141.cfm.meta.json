@@ -1,0 +1,14 @@
+{
+  "source_id": "7141",
+  "task_id": "T03706",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dimenhydrinate",
+  "local_path": "imports/accepted_evidence/product/7141/T03706_7141.cfm",
+  "sha256": "ac78884a145b20d6673eaaf7ba2ccd4860b50ba47c0c5deaba1bf7c82f59eb4f",
+  "downloaded_at": "2026-05-16T03:42:37.466113+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:399:7141|Product_Label_Links:400:1663|Product_Label_Links:486:45662",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

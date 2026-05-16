@@ -1,0 +1,14 @@
+{
+  "source_id": "46503",
+  "task_id": "T03344",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Patilum+Oral+Suspension",
+  "local_path": "imports/accepted_evidence/product/46503/T03344_46503.html",
+  "sha256": "26278ce3aec002c49aff7c83ddafbd1b6a1dd956bb6f8943d3c19a963572af28",
+  "downloaded_at": "2026-05-16T03:41:41.504986+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:350:46503",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3019",
+  "task_id": "T07585",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Otrivin+0.1%25",
+  "local_path": "imports/accepted_evidence/product/3019/T07585_3019.html",
+  "sha256": "86e1f54145d4f8247c2dce238758055d0616f1f08f18b28815230d9358c926b3",
+  "downloaded_at": "2026-05-16T03:52:24.615363+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:899:3019",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

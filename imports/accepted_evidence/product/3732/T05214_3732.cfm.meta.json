@@ -1,0 +1,14 @@
+{
+  "source_id": "3732",
+  "task_id": "T05214",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tolchicine+T.O.",
+  "local_path": "imports/accepted_evidence/product/3732/T05214_3732.cfm",
+  "sha256": "a23e9cd2f108e3bd224a17e85105105d3d298e4678f4073b145f0b9d4f17641d",
+  "downloaded_at": "2026-05-16T03:46:21.990983+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:610:3732",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

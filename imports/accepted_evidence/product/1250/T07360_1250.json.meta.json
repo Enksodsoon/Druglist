@@ -1,0 +1,14 @@
+{
+  "source_id": "1250",
+  "task_id": "T07360",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Betamethasone%2017-Valerate%200%201%20w/w%20%2B%20Neomycin%20Sulphate%200%205%20w/w&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1250/T07360_1250.json",
+  "sha256": "82449faaed1be79854b9028f0518c08f2b2bcdc56570ab6d27564183cc5a911b",
+  "downloaded_at": "2026-05-16T03:51:50.077690+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:872:1250",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

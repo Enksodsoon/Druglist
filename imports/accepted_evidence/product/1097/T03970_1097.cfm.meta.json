@@ -1,0 +1,14 @@
+{
+  "source_id": "1097",
+  "task_id": "T03970",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Gestodene+%2BEthinylestradiol",
+  "local_path": "imports/accepted_evidence/product/1097/T03970_1097.cfm",
+  "sha256": "ad3756d055771bb364bdc1818c072e5253d1d02b1bbb902ccbcd33f510ff9242",
+  "downloaded_at": "2026-05-16T03:43:17.497632+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:432:1097|Product_Label_Links:433:1098|Product_Label_Links:436:41443|Product_Label_Links:438:41401|Product_Label_Links:449:2613|Product_Label_Links:450:2614|Product_Label_Links:454:2695|Product_Label_Links:457:44910",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

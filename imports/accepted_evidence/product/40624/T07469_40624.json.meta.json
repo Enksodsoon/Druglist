@@ -1,0 +1,14 @@
+{
+  "source_id": "40624",
+  "task_id": "T07469",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Busonase&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/40624/T07469_40624.json",
+  "sha256": "59656772d9614f3f6a857d61b3f6d88495d0767df186bf167f1f3361fa30c019",
+  "downloaded_at": "2026-05-16T03:52:07.103449+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:885:40624",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

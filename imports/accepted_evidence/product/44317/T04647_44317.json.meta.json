@@ -1,0 +1,14 @@
+{
+  "source_id": "44317",
+  "task_id": "T04647",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Manidipine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/44317/T04647_44317.json",
+  "sha256": "49061cdfcfcf93d93e312784df7b35bdbf0ea1e28a984738aac70bfb30dfcae4",
+  "downloaded_at": "2026-05-16T03:44:58.968592+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:527:44317|Product_Label_Links:534:3146|Product_Label_Links:535:2638",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

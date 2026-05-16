@@ -1,0 +1,14 @@
+{
+  "source_id": "1630",
+  "task_id": "T05902",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dermovate+Ointment",
+  "local_path": "imports/accepted_evidence/product/1630/T05902_1630.cfm",
+  "sha256": "9b659299711de21fadc4b1fd14679c4ccb1c2e532007652f639e449b099fb113",
+  "downloaded_at": "2026-05-16T03:48:06.106152+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:694:1630",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

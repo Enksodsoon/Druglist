@@ -1,0 +1,14 @@
+{
+  "source_id": "1803",
+  "task_id": "T05938",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Mometasone+Furoate+%2F",
+  "local_path": "imports/accepted_evidence/product/1803/T05938_1803.cfm",
+  "sha256": "8ff3c834d282d773200fe107f19bc8d76f3b48d4fd12d78a8f1c158141ea70d5",
+  "downloaded_at": "2026-05-16T03:48:11.570482+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:699:1803|Product_Label_Links:700:1807",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

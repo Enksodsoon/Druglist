@@ -1,0 +1,14 @@
+{
+  "source_id": "7033",
+  "task_id": "T02374",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Carbocysteine+%2F",
+  "local_path": "imports/accepted_evidence/product/7033/T02374_7033.cfm",
+  "sha256": "a28ec90d7ba8194c82ed920e9ab01bfa999515283c7e0791f93377f77872771d",
+  "downloaded_at": "2026-05-16T03:39:14.962551+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:218:7033|Product_Label_Links:219:41506|Product_Label_Links:220:1495|Product_Label_Links:221:1919|Product_Label_Links:222:1920|Product_Label_Links:227:3697|Product_Label_Links:228:3782",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

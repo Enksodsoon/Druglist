@@ -1,0 +1,14 @@
+{
+  "source_id": "1685",
+  "task_id": "T07049",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Doproct%20Ointment&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1685/T07049_1685.json",
+  "sha256": "6309d90c7f1fd4db89fdfc93789ca6dad1793cc3570cf32cd0e19918b0ad172a",
+  "downloaded_at": "2026-05-16T03:51:02.421888+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:838:1685",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "46500",
+  "task_id": "T06368",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Olopatadine+%2BPovidone%2BDibasic+Phosphate%2B+Chloride%2BHydrochloric+Acid+%2F+Hydroxide%2BPreservative+%2F",
+  "local_path": "imports/accepted_evidence/product/46500/T06368_46500.cfm",
+  "sha256": "e863457c9a4c79cbdedb7756f7f64cb764cfb5ce8691aa3dde5dccab4cbcbce7",
+  "downloaded_at": "2026-05-16T03:49:17.239450+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:753:46500",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

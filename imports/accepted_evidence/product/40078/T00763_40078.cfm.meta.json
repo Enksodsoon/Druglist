@@ -1,0 +1,14 @@
+{
+  "source_id": "40078",
+  "task_id": "T00763",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=A.M.Mox+500",
+  "local_path": "imports/accepted_evidence/product/40078/T00763_40078.cfm",
+  "sha256": "6b7142f62ecff849956b1f42fe0117e0d89a47dc3db8324fc04c7bb49141f946",
+  "downloaded_at": "2026-05-16T03:35:24.132987+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:2:40078",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

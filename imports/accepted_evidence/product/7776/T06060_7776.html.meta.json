@@ -1,0 +1,14 @@
+{
+  "source_id": "7776",
+  "task_id": "T06060",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Zyno+0.1%25",
+  "local_path": "imports/accepted_evidence/product/7776/T06060_7776.html",
+  "sha256": "6a67f5e785679cf4600828bd1668df481f5dd4943beaf041864778b76a74dd31",
+  "downloaded_at": "2026-05-16T03:48:29.664254+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:715:7776",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

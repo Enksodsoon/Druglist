@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 2
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Digestive Enzyme Drops 2018 Digestive Enzyme Drops SUS SCROFA PARASYMPATHETIC NERVE SUS SCROFA PARASYMPATHETIC NERVE BOS TAURUS GALLBLADDER BOS TAURUS GALLBLADDER BOS TAURUS LARGE INTESTINE BOS TAURUS LARGE INTESTINE BEEF LIVER BEEF LIVER BOS TAURUS PANCREAS BOS TAURUS PANCREAS HISTATIN 3 HISTATIN 3 TRIPE TRIPE SECRETIN, UNSPECIFIED SECRETIN, UNSPECIFIED ALCOHOL WATER"
+      ],
+      "active_ingredient": [
+        "ACTIVE INGREDIENTS Vagus nerve 6X Gallbladder 6X, 12X, 30X Large intestine 6X, 12X, 30X Liver 6X, 12X, 30X Pancreas 6X, 12X, 30X Parotid 6X, 12X, 30X Small intestine 6X, 12X, 30X Stomach 6X, 12X, 30X Secretin 12X, 30X"
+      ],
+      "questions": [
+        "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+      ],
+      "indications_and_usage": [
+        "INDICATIONS For the temporary relief of indigestion, heartburn, or abdominal discomfort or bloating.*"
+      ],
+      "purpose": [
+        "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+      ],
+      "warnings": [
+        "WARNINGS In case of overdose, get medical help or contact a poison control center right away. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of the reach of children."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breastfeeding, ask a healthcare professional before use."
+      ],
+      "dosage_and_administration": [
+        "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age."
+      ],
+      "other_safety_information": [
+        "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+      ],
+      "inactive_ingredient": [
+        "INACTIVE INGREDIENTS 20% ethanol, purified water."
+      ],
+      "package_label_principal_display_panel": [
+        "LABEL Est 1985 Professional Formulas Complementary Health Digestive Enzyme Drops Homeopathic Remedy 2 FL. OZ. (59 mL) Label image"
+      ],
+      "set_id": "4ee2a3f5-94c7-4a45-8abb-67010f53362a",
+      "id": "5ee24a17-2827-4c0c-b3bc-9f168ac23be2",
+      "effective_time": "20260108",
+      "version": "2",
+      "openfda": {
+        "brand_name": [
+          "Digestive Enzyme Drops 2018"
+        ],
+        "generic_name": [
+          "DIGESTIVE ENZYME DROPS"
+        ],
+        "manufacturer_name": [
+          "Professional Complementary Health Formulas"
+        ],
+        "product_ndc": [
+          "63083-2018"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BEEF LIVER",
+          "BOS TAURUS GALLBLADDER",
+          "BOS TAURUS LARGE INTESTINE",
+          "BOS TAURUS PANCREAS",
+          "HISTATIN 3",
+          "SECRETIN, UNSPECIFIED",
+          "SUS SCROFA PARASYMPATHETIC NERVE",
+          "TRIPE"
+        ],
+        "spl_id": [
+          "5ee24a17-2827-4c0c-b3bc-9f168ac23be2"
+        ],
+        "spl_set_id": [
+          "4ee2a3f5-94c7-4a45-8abb-67010f53362a"
+        ],
+        "package_ndc": [
+          "63083-2018-2"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000185371",
+          "N0000175629",
+          "N0000184306",
+          "M0000728",
+          "M0006342",
+          "N0000185017"
+        ],
+        "pharm_class_epc": [
+          "Non-Standardized Food Allergenic Extract [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Increased Histamine Release [PE]",
+          "Cell-mediated Immunity [PE]"
+        ],
+        "pharm_class_cs": [
+          "Allergens [CS]",
+          "Dietary Proteins [CS]"
+        ],
+        "unii": [
+          "W8N8R55022",
+          "9901V1E867",
+          "D176AZC57O",
+          "1M529TNT1D",
+          "1HNW9806AY",
+          "88C55N56UU",
+          "5AZZ2GHR69",
+          "C46FS57S0X"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Digestive Enzyme Liquescence 3007 Digestive Enzyme Liquescence CORIANDER OIL CORIANDER OIL BERBERIS VULGARIS ROOT BARK BERBERIS VULGARIS ROOT BARK BROMELAINS BROMELAINS ARTEMISIA ANNUA FLOWERING TOP ARTEMISIA ANNUA FLOWERING TOP CINNAMON CINNAMON GENTIANA LUTEA ROOT GENTIANA LUTEA ROOT STAR ANISE STAR ANISE MARRUBIUM VULGARE WHOLE MARRUBIUM VULGARE WHOLE PAPAIN PAPAIN SYZYGIUM CUMINI SEED SYZYGIUM CUMINI SEED GINGER GINGER GOLDENSEAL GOLDENSEAL BOS TAURUS BILE BOS TAURUS BILE BOS TAURUS GALLBLADDER BOS TAURUS GALLBLADDER BEEF LIVER BEEF LIVER BOS TAURUS PANCREAS BOS TAURUS PANCREAS PANCRELIPASE AMYLASE PANCRELIPASE AMYLASE HISTATIN 3 HISTATIN 3 TRIPE TRIPE ALCOHOL WATER"
+      ],
+      "active_ingredient": [
+        "ACTIVE INGREDIENTS Coriandrum sativum 2X Berberis vulgaris 3X Bromelain 3X Chamomilla 3X Cinnamomum 3X Gentiana lutea 3X Illicium anisatum 3X Marrubium vulgare 3X Papain 3X Syzygium jambolanum 3X Zingiber officinale 3X Hydrastis canadensis 5X Fel tauri 6X Gallbladder 6X Liver 6X Pancreas 6X Pancreatinum 6X Parotid 6X Stomach 6X"
+      ],
+      "questions": [
+        "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+      ],
+      "indications_and_usage": [
+        "INDICATIONS For the temporary relief of minor abdominal pain or cramps, gas or bloating, mild constipation, heartburn, or periodic nausea.*"
+      ],
+      "purpose": [
+        "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+      ],
+      "warnings": [
+        "WARNINGS In case of overdose, get medical help or contact a poison control center right away. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of the reach of children."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breastfeeding, ask a healthcare professional before use."
+      ],
+      "dosage_and_administration": [
+        "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take one full dropper up to 2 times per day. Consult a physician for use in children under 12 years of age."
+      ],
+      "other_safety_information": [
+        "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+      ],
+      "inactive_ingredient": [
+        "INACTIVE INGREDIENTS 20% ethanol, purified water."
+      ],
+      "package_label_principal_display_panel": [
+        "LABEL Est 1985 Professional Formulas Complementary Health Digestive Enzyme Liquescence Homeopathic Remedy 4 FL. OZ. (118 mL) Label image"
+      ],
+      "set_id": "74ce6879-ca7f-4664-949b-94abca92bc67",
+      "id": "74c92b34-129a-40d3-b0f7-8f8c6f068da0",
+      "effective_time": "20260108",
+      "version": "2",
+      "openfda": {
+        "brand_name": [
+          "Digestive Enzyme Liquescence 3007"
+        ],
+        "generic_name": [
+          "DIGESTIVE ENZYME LIQUESCENCE"
+        ],
+        "manufacturer_name": [
+          "Professional Complementary Health Formulas"
+        ],
+        "product_ndc": [
+          "63083-3007"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ARTEMISIA ANNUA FLOWERING TOP",
+          "BEEF LIVER",
+          "BERBERIS VULGARIS ROOT BARK",
+          "BOS TAURUS BILE",
+          "BOS TAURUS GALLBLADDER",
+          "BOS TAURUS PANCREAS",
+          "BROMELAINS",
+          "CINNAMON",
+          "CORIANDER OIL",
+          "GENTIANA LUTEA ROOT",
+          "GINGER",
+          "GOLDENSEAL",
+          "HISTATIN 3",
+          "MARRUBIUM VULGARE WHOLE",
+          "PANCRELIPASE AMYLASE",
+          "PAPAIN",
+          "STAR ANISE",
+          "SYZYGIUM CUMINI SEED",
+          "TRIPE"
+        ],
+        "spl_id": [
+          "74c92b34-129a-40d3-b0f7-8f8c6f068da0"
+        ],
+        "spl_set_id": [
+          "74ce6879-ca7f-4664-949b-94abca92bc67"
+        ],
+        "package_ndc": [
+          "63083-3007-4"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000185371",
+          "N0000175629",
+          "N0000184306",
+          "M0000728",
+          "M0006342",
+          "N0000185017",
+          "M0008672",
+          "N0000185375",
+          "M0016962"
+        ],
+        "pharm_class_epc": [
+          "Non-Standardized Food Allergenic Extract [EPC]",
+          "Non-Standardized Plant Allergenic Extract [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Increased Histamine Release [PE]",
+          "Cell-mediated Immunity [PE]"
+        ],
+        "pharm_class_cs": [
+          "Allergens [CS]",
+          "Dietary Proteins [CS]",
+          "Food Additives [CS]",
+          "Plant Proteins [CS]"
+        ],
+        "unii": [
+          "0UQK6O82OW",
+          "W8N8R55022",
+          "1TH8Q20J0U",
+          "ET3651ZLOU",
+          "9901V1E867",
+          "1M529TNT1D",
+          "U182GP2CF3",
+          "5S29HWU6QB",
+          "7626GC95E5",
+          "S72O3284MS",
+          "C5529G5JPQ",
+          "ZW3Z11D0JV",
+          "1HNW9806AY",
+          "7A72MUN24Z",
+          "YOJ58O116E",
+          "A236A06Y32",
+          "XKC1657P78",
+          "820LSF646I",
+          "C46FS57S0X"
+        ]
+      }
+    }
+  ]
+}

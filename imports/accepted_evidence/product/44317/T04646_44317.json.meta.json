@@ -1,0 +1,14 @@
+{
+  "source_id": "44317",
+  "task_id": "T04646",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Kerdica%2020%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/44317/T04646_44317.json",
+  "sha256": "98f7446b9f4086f23aaa11559ed54bdea5a71c286d6db6a418989eebf4d4c4bb",
+  "downloaded_at": "2026-05-16T03:44:58.723577+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:527:44317",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3025",
+  "task_id": "T06643",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Opsar%20%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3025/T06643_3025.json",
+  "sha256": "4fb5f7eda9470498d37698274bb544dd0b0d77fb8766329dc7bd610a5dde5647",
+  "downloaded_at": "2026-05-16T03:50:01.668009+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:782:3025",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2648",
+  "task_id": "T05755",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Clotrimazole%20BP%201%20w/w&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2648/T05755_2648.json",
+  "sha256": "787ed90b496f8f7c831f440e7709412b0f9fd23cf11ebc7e3fe7654eb0ab2aac",
+  "downloaded_at": "2026-05-16T03:47:43.418866+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:676:2648",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

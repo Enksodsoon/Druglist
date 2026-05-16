@@ -1,0 +1,14 @@
+{
+  "source_id": "1103",
+  "task_id": "T00779",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=Amoxicillin+%2BClavulanic+Acid",
+  "local_path": "imports/accepted_evidence/product/1103/T00779_1103.html",
+  "sha256": "bf5d3149b3c332ea8601c9367e50ddae56a6933f71d7624cc09f1a02248f21be",
+  "downloaded_at": "2026-05-16T03:35:25.868149+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:3:1103|Product_Label_Links:4:1035|Product_Label_Links:9:1545",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

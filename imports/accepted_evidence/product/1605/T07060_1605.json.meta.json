@@ -1,0 +1,14 @@
+{
+  "source_id": "1605",
+  "task_id": "T07060",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Hydrocortisone%20Acetate%20%2BZinc%20Oxide%20%2BBenzocaine%20/1%20Suppository&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1605/T07060_1605.json",
+  "sha256": "e8a2ede2c49debe225b3dc7d01c8a48aeb1b7e0e6ca9a5e15f7f28ebbcd82644",
+  "downloaded_at": "2026-05-16T03:51:03.849853+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:839:1605",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2101",
+  "task_id": "T05309",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Haemo-Vit%20%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B3%E0%B8%A3%E0%B8%B8%E0%B8%87&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2101/T05309_2101.json",
+  "sha256": "e80bc92387ac1f27b388a95a645c3eea346dcc5dc6d46b0da2f80c350b0447f1",
+  "downloaded_at": "2026-05-16T03:46:35.159797+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:622:2101",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

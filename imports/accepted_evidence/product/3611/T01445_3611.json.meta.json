@@ -1,0 +1,14 @@
+{
+  "source_id": "3611",
+  "task_id": "T01445",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Senokot&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3611/T01445_3611.json",
+  "sha256": "e0faafc5828701c36ba1913f677b89d7adfb5ee142515302ee03e79fb7a4ed75",
+  "downloaded_at": "2026-05-16T03:36:58.662373+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:98:3611",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

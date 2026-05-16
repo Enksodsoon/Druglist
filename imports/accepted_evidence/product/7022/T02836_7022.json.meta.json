@@ -1,0 +1,14 @@
+{
+  "source_id": "7022",
+  "task_id": "T02836",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Betahistine%20Mesylate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7022/T02836_7022.json",
+  "sha256": "81c69b6206953a0dba8ded49e7edb01cb453e73a63da4cc849333cb3b4581d67",
+  "downloaded_at": "2026-05-16T03:40:24.663551+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:282:7022",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

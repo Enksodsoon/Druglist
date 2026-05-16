@@ -1,0 +1,14 @@
+{
+  "source_id": "1070",
+  "task_id": "T05234",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Asa-tabs",
+  "local_path": "imports/accepted_evidence/product/1070/T05234_1070.cfm",
+  "sha256": "3fe31b4d715adeb8a17e7925b8c4e3e435a54775dee667f85a729187dc3d9a6d",
+  "downloaded_at": "2026-05-16T03:46:25.130979+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:613:1070",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

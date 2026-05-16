@@ -1,0 +1,14 @@
+{
+  "source_id": "2449",
+  "task_id": "T03799",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Kremil-S+tabslet",
+  "local_path": "imports/accepted_evidence/product/2449/T03799_2449.cfm",
+  "sha256": "d572a1557e83f221048aa45f82e1fdc9d84f0893026c64fbd4b8852c70fd837a",
+  "downloaded_at": "2026-05-16T03:42:50.956755+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:411:2449",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

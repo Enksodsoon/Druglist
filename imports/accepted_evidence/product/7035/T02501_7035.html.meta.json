@@ -1,0 +1,14 @@
+{
+  "source_id": "7035",
+  "task_id": "T02501",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Catanac+50+mg",
+  "local_path": "imports/accepted_evidence/product/7035/T02501_7035.html",
+  "sha256": "ed80531889b50f344144f8357af5840fcbef1ade21eca4eb1a0f33c10bfa89df",
+  "downloaded_at": "2026-05-16T03:39:37.902653+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:236:7035",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

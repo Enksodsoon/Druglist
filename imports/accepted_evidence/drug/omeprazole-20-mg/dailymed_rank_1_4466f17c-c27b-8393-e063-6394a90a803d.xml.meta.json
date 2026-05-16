@@ -1,0 +1,17 @@
+{
+  "source_id": "7108",
+  "task_id": "DAILYMED_1_4466f17c-c27b-8393-e063-6394a90a803d",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/4466f17c-c27b-8393-e063-6394a90a803d.xml",
+  "local_path": "imports/accepted_evidence/drug/omeprazole-20-mg/dailymed_rank_1_4466f17c-c27b-8393-e063-6394a90a803d.xml",
+  "sha256": "cf98a32abf1a8964d8e256f91fa657d31eeb0d5e5e2f3d66cf81ecce0c49ac72",
+  "downloaded_at": "2026-05-16T03:53:50.182150+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Omeprazole 20 mg.",
+  "rank": 1,
+  "setid": "4466f17c-c27b-8393-e063-6394a90a803d",
+  "title": "24 HOUR OMEPRAZOLE (OMEPRAZOLE 20 MG) TABLET, DELAYED RELEASE [GROCERY OUTLET, INC.]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

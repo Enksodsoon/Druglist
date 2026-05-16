@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_EU_EAU_UTI",
+  "task_id": "T00061",
+  "source_url": "https://uroweb.org/guidelines/urological-infections",
+  "local_path": "imports/accepted_evidence/bulk/T00061_GUIDE_EU_EAU_UTI.html",
+  "sha256": "1c236aeaf2501a33bd54ea5e3e61f9b25c72af156841626a5b4fd0997390a81e",
+  "downloaded_at": "2026-05-16T03:33:50.494915+00:00",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:27:GUIDE_EU_EAU_UTI|Disease_Download_Map:108:uncomplicated_uti_adult|Disease_Download_Map:120:uncomplicated_uti_alt_cipro_adult|Disease_Download_Map:121:dysuria_lower_uti_adult|Disease_Download_Map:122:frequency_urgency_uti_adult",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

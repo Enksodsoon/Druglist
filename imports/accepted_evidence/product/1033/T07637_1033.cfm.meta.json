@@ -1,0 +1,14 @@
+{
+  "source_id": "1033",
+  "task_id": "T07637",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Aerotamol+100+mcg",
+  "local_path": "imports/accepted_evidence/product/1033/T07637_1033.cfm",
+  "sha256": "93f64204420b4eb6d336503661a12c34f1a1fa35983eea9a31e2689e6fab3be5",
+  "downloaded_at": "2026-05-16T03:52:33.528426+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:906:1033",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

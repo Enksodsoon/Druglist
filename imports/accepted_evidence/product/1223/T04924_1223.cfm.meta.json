@@ -1,0 +1,14 @@
+{
+  "source_id": "1223",
+  "task_id": "T04924",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bestatin+40+mg",
+  "local_path": "imports/accepted_evidence/product/1223/T04924_1223.cfm",
+  "sha256": "93f43de9665de782b28b2677b7b61426c9cf2142e9ac7fcdf590f50a30f9f9bb",
+  "downloaded_at": "2026-05-16T03:45:40.707082+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:569:1223",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1271",
+  "task_id": "T03252",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tolperisone",
+  "local_path": "imports/accepted_evidence/product/1271/T03252_1271.cfm",
+  "sha256": "3fb5c3885b83be616bd0ab24421ae0a727bcbf750430a2dcf01ae99cf6154c28",
+  "downloaded_at": "2026-05-16T03:41:28.429470+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:336:1271|Product_Label_Links:339:3410|Product_Label_Links:342:2652|Product_Label_Links:347:3571",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

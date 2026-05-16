@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_27",
+  "task_id": "T00323",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=eletriptan&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds006840/T00323_Drug_Label_Links_27.json",
+  "sha256": "4ee35582b3031e808660cf79b1403e62c8782de78eb670e4800d12eeb342dd1f",
+  "downloaded_at": "2026-05-16T03:34:21.903916+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:27:Drug_Label_Links_27",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

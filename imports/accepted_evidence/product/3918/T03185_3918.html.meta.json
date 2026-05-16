@@ -1,0 +1,14 @@
+{
+  "source_id": "3918",
+  "task_id": "T03185",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Ulcefate+Suspension+bottle+240+ml",
+  "local_path": "imports/accepted_evidence/product/3918/T03185_3918.html",
+  "sha256": "1cea5396f4cc4a4670399dfd2d2c8e175c07d6e01f924e35a713f108fa390a36",
+  "downloaded_at": "2026-05-16T03:41:17.578193+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:327:3918",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

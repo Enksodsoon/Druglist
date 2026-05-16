@@ -1,0 +1,14 @@
+{
+  "source_id": "8766",
+  "task_id": "T03816",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Sulcain",
+  "local_path": "imports/accepted_evidence/product/8766/T03816_8766.html",
+  "sha256": "35d5cf01add42eb4daf54adcd21015bdd97348cc021f613438566096abe7e285",
+  "downloaded_at": "2026-05-16T03:42:54.413784+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:412:8766",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

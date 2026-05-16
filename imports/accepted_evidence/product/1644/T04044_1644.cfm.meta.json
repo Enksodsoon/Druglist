@@ -1,0 +1,14 @@
+{
+  "source_id": "1644",
+  "task_id": "T04044",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Diora-28",
+  "local_path": "imports/accepted_evidence/product/1644/T04044_1644.cfm",
+  "sha256": "4ddf898027a7c15e4a4e9598d38365b73bf9f543c442e614b8a34efaa37029db",
+  "downloaded_at": "2026-05-16T03:43:29.382648+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:442:1644",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

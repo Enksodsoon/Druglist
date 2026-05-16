@@ -1,0 +1,14 @@
+{
+  "source_id": "7145",
+  "task_id": "T01085",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Histatabs",
+  "local_path": "imports/accepted_evidence/product/7145/T01085_7145.html",
+  "sha256": "fd269fd7a5857a157247bc4f29cc16ddaf6359dc9f0b3c9b8617975a05fca066",
+  "downloaded_at": "2026-05-16T03:36:10.420486+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:45:7145",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

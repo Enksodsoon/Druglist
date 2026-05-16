@@ -1,0 +1,14 @@
+{
+  "source_id": "45626",
+  "task_id": "T05412",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Normal+Saline+%28Thai+Nakorn+Patana%29",
+  "local_path": "imports/accepted_evidence/product/45626/T05412_45626.cfm",
+  "sha256": "ed7e78e5176c47a1f936c76bd4424cae9b0993dd576c6bd7e2b90b2ec383de5c",
+  "downloaded_at": "2026-05-16T03:46:50.964192+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:635:45626",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

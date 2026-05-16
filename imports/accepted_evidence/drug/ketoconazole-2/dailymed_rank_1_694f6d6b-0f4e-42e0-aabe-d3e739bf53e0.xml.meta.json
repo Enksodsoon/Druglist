@@ -1,0 +1,17 @@
+{
+  "source_id": "DRUG_BDS008451",
+  "task_id": "DAILYMED_1_694f6d6b-0f4e-42e0-aabe-d3e739bf53e0",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/694f6d6b-0f4e-42e0-aabe-d3e739bf53e0.xml",
+  "local_path": "imports/accepted_evidence/drug/ketoconazole-2/dailymed_rank_1_694f6d6b-0f4e-42e0-aabe-d3e739bf53e0.xml",
+  "sha256": "9caef570ecd2f37a9cf57fca8db69d150eac2b5abc49f2ec426f0945741f5bf5",
+  "downloaded_at": "2026-05-16T03:53:24.046460+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Drug_Label_Links",
+  "query_name": "Ketoconazole 2%",
+  "rank": 1,
+  "setid": "694f6d6b-0f4e-42e0-aabe-d3e739bf53e0",
+  "title": "KETOCONAZOLE (KETOCONAZOLE CREAM, 2%) CREAM [A-S MEDICATION SOLUTIONS]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

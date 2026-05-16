@@ -1,0 +1,14 @@
+{
+  "source_id": "1507",
+  "task_id": "T02514",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Celebrex%20400%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1507/T02514_1507.json",
+  "sha256": "86e65952c8a497d1b9fcf124a7f61fa06f13b31d43efa64247d40b1bf945627d",
+  "downloaded_at": "2026-05-16T03:39:36.734936+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:238:1507",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

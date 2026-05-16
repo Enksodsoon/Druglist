@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_EU_EAACI_URTICARIA",
+  "task_id": "T00088",
+  "source_url": "https://eaaci.org/guidelines-position-papers/the-international-eaaci-ga%C2%B2len-euroguiderm-apaaaci-guideline-for-the-definition-classification-diagnosis-and-management-of-urticaria/",
+  "local_path": "imports/accepted_evidence/bulk/T00088_GUIDE_EU_EAACI_URTICARIA.html",
+  "sha256": "33513ead657a24a9517a8e34c5601c9a68d43a7c01a8e791e643c53ec224fcde",
+  "downloaded_at": "2026-05-16T03:33:51.976086+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:41:GUIDE_EU_EAACI_URTICARIA|Disease_Download_Map:25:itchy_dermatitis_adult|Disease_Download_Map:26:insect_bite_reaction_adult|Disease_Download_Map:41:itchy_localized_rash_adult|Disease_Download_Map:56:contact_dermatitis_adult|Disease_Download_Map:57:urticaria_mild_adult|Disease_Download_Map:58:pruritus_localized_adult|Disease_Download_Map:67:eczema_dry_pruritic_adult|Disease_Download_Map:77:insect_bite_swelling_adult|Disease_Download_Map:78:localized_eczema_sensitive_area_adult|Disease_Download_Map:79:insect_bite_peds|Disease_Download_Map:80:localized_eczema_peds",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

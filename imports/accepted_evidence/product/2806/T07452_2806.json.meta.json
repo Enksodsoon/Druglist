@@ -1,0 +1,14 @@
+{
+  "source_id": "2806",
+  "task_id": "T07452",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Zinc%20Oxide%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/2806/T07452_2806.json",
+  "sha256": "27f31f5c16e4ebab1508498c0054105c5decf04dab631a49b9d7280ce43af2f2",
+  "downloaded_at": "2026-05-16T03:52:04.428413+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:883:2806",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

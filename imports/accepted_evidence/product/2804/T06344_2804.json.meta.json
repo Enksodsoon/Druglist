@@ -1,0 +1,14 @@
+{
+  "source_id": "2804",
+  "task_id": "T06344",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Naphcon-A&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2804/T06344_2804.json",
+  "sha256": "1fc0884d12b9010c09ac69e305bc4fcba8a7bd7f11f4a8b8a22a239a93c202a3",
+  "downloaded_at": "2026-05-16T03:49:13.346972+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:750:2804",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

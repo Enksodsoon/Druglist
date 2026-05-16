@@ -1,0 +1,14 @@
+{
+  "source_id": "41410",
+  "task_id": "T06212",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cogetine+Ointment",
+  "local_path": "imports/accepted_evidence/product/41410/T06212_41410.cfm",
+  "sha256": "0af8a1964ef0938964b5cf8d0d8d5205206327754d070d0ff5d6a0cfabc29b5e",
+  "downloaded_at": "2026-05-16T03:48:52.719467+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:737:41410",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

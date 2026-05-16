@@ -1,0 +1,14 @@
+{
+  "source_id": "1097",
+  "task_id": "T03971",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Annylyn%2021&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1097/T03971_1097.json",
+  "sha256": "0d5816edadb4b4934305d81683aded7a71bb98e8df3de2071b32525994935ad9",
+  "downloaded_at": "2026-05-16T03:43:17.240122+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:432:1097",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

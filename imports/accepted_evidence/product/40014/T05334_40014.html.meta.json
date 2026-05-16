@@ -1,0 +1,14 @@
+{
+  "source_id": "40014",
+  "task_id": "T05334",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Amsel+Nature+C",
+  "local_path": "imports/accepted_evidence/product/40014/T05334_40014.html",
+  "sha256": "690ee1942fc56e6f0c292d2a1abc457a4f1e225426e5273b208aabc79bb0f6ea",
+  "downloaded_at": "2026-05-16T03:46:40.071417+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:624:40014",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

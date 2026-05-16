@@ -1,0 +1,14 @@
+{
+  "source_id": "2042",
+  "task_id": "T03616",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Gofen+400",
+  "local_path": "imports/accepted_evidence/product/2042/T03616_2042.cfm",
+  "sha256": "2122183c56634c8412ff44864157460890d6e0b3dea44281289eec803f1dd40d",
+  "downloaded_at": "2026-05-16T03:42:23.246676+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:387:2042",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

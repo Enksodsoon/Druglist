@@ -1,0 +1,14 @@
+{
+  "source_id": "7752",
+  "task_id": "T03306",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Noraphen",
+  "local_path": "imports/accepted_evidence/product/7752/T03306_7752.cfm",
+  "sha256": "7f2a7875313365d4688d29f8416f2a0b2abf34ed26be1cebf2b396a82eac4408",
+  "downloaded_at": "2026-05-16T03:41:36.412081+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:344:7752",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

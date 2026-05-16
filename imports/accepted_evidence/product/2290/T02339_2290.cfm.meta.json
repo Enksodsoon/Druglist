@@ -1,0 +1,14 @@
+{
+  "source_id": "2290",
+  "task_id": "T02339",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Levodropropizine+%2F",
+  "local_path": "imports/accepted_evidence/product/2290/T02339_2290.cfm",
+  "sha256": "ca62be478aad54a0310760bc24d041e23138cce1f612a373844ae0eb580cb06f",
+  "downloaded_at": "2026-05-16T03:39:09.362533+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:214:2290",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

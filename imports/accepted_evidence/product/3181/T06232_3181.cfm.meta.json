@@ -1,0 +1,14 @@
+{
+  "source_id": "3181",
+  "task_id": "T06232",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Poly-Oph+Eye+Drops",
+  "local_path": "imports/accepted_evidence/product/3181/T06232_3181.cfm",
+  "sha256": "25067013a0dfa65235c0ec0cdcc6d65c7ceb7850e339ae7967a60d935d5bb0c9",
+  "downloaded_at": "2026-05-16T03:48:55.706636+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:739:3181",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

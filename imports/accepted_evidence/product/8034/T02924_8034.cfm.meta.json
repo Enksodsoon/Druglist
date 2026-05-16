@@ -1,0 +1,14 @@
+{
+  "source_id": "8034",
+  "task_id": "T02924",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dicyclomine+%2BSimethicone+%2F",
+  "local_path": "imports/accepted_evidence/product/8034/T02924_8034.cfm",
+  "sha256": "e06094ca2ce170c9a085e7149796dc0f8482029c7b45667f1fa1b373fc97efca",
+  "downloaded_at": "2026-05-16T03:40:38.014148+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:294:8034",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1715",
+  "task_id": "T01373",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Duphalac+100",
+  "local_path": "imports/accepted_evidence/product/1715/T01373_1715.cfm",
+  "sha256": "f3449fc1df44286fa3d1a9bc862ad98ef998037214c610d65f56edad5fcb3e56",
+  "downloaded_at": "2026-05-16T03:36:47.920134+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:90:1715",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

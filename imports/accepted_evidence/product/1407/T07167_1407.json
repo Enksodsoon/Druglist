@@ -1,0 +1,1055 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 152
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Chlorhexidine Gluconate Solution 0.75% Antiseptic Chlorhexidine Gluconate Solution 0.75% Antiseptic COCO DIETHANOLAMIDE HYDROXYETHYL CELLULOSE (140 CPS AT 5%) ISOPROPYL ALCOHOL LAURAMINE OXIDE RICINOLEAMIDOPROPYLTRIMONIUM CHLORIDE WATER CITRIC ACID MONOHYDRATE FD&C YELLOW NO. 5 FD&C RED NO. 4 CHLORHEXIDINE GLUCONATE CHLORHEXIDINE"
+      ],
+      "active_ingredient": [
+        "Active ingredient Chlorhexidine gluconate solution, 0.75%"
+      ],
+      "purpose": [
+        "Purpose Antiseptic"
+      ],
+      "indications_and_usage": [
+        "Use healthcare personnel handwash: helps reduce bacteria that potentially can cause disease"
+      ],
+      "warnings": [
+        "Warnings For external use only Allergy alert: This product may cause a severe allergic reaction. Symptoms may include: wheezing/difficulty breathing shock facial swelling hives rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use if you are allergic to chlorhexidine gluconate or any other ingredient in this product When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums. if solution should contact these areas, rinse out promptly and thoroughly with water do not use routinely if you have wounds which involve more than the superficial layers of the skin Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "do_not_use": [
+        "Do not use if you are allergic to chlorhexidine gluconate or any other ingredient in this product"
+      ],
+      "when_using": [
+        "When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums. if solution should contact these areas, rinse out promptly and thoroughly with water do not use routinely if you have wounds which involve more than the superficial layers of the skin"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions use with care in premature infants and infants under 2 months of age. These products may cause irritation or chemical burns. Healthcare personnel handwash: wet hands with water dispense about 5 mL of product into cupped hands and wash in a vigorous manner for 30 seconds rinse and dry thoroughly",
+        "Healthcare personnel handwash: wet hands with water dispense about 5 mL of product into cupped hands and wash in a vigorous manner for 30 seconds rinse and dry thoroughly"
+      ],
+      "storage_and_handling": [
+        "Other information store at 20-25°C (68-77°F) avoid excessive heat above 40°C (104°F)",
+        "Keep from freezing."
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients citric acid, cocamide DEA, FD&C yellow #5, FD&C red #4, fragrance, hydroxyethylcellulose, isopropyl alcohol, lauramine oxide, purified water, ricinoleamidopropyl trimethyl ammonium chloride"
+      ],
+      "questions": [
+        "Questions or comments? call 1-800-581-2528 , 24 hours a day, 7 days a week"
+      ],
+      "package_label_principal_display_panel": [
+        "Package/Label Principal Display Panel Chlorhexidine Gluconate Solution 0.75% ANTISEPTIC FOR EXTERNAL USE ONLY Bajaj Medical Chicago IL 60609 4 fl oz (118 mL) NDC 61037-414-01 MADE IN THE USA FDA APPROVED Chlorhexidine Gluconate Solution 0.75% ANTISEPTIC FOR EXTERNAL USE ONLY Bajaj Medical Chicago IL 60609 8 fl oz (236 mL) NDC 61037-414-02 MADE IN THE USA FDA APPROVED Chlorhexidine Gluconate Solution 0.75% ANTISEPTIC FOR EXTERNAL USE ONLY Bajaj Medical Chicago IL 60609 16 fl oz (473 mL) NDC 61037-414-05 MADE IN THE USA FDA APPROVED Chlorhexidine Gluconate Solution 0.75% ANTISEPTIC FOR EXTERNAL USE ONLY Bajaj Medical Chicago IL 60609 32 fl oz (946 mL) NDC 61037-414-06 MADE IN THE USA FDA APPROVED Chlorhexidine Gluconate Solution 0.75% ANTISEPTIC FOR EXTERNAL USE ONLY Bajaj Medical Chicago IL 60609 128 fl oz (3785 mL) NDC 61037-414-07 MADE IN THE USA FDA APPROVED Chlorhexidine Gluconate Solution 0.75% ANTISEPTIC FOR EXTERNAL USE ONLY Bajaj Medical Chicago IL 60609 8 fl oz (236 mL) NDC 61037-414-03 MADE IN THE USA FDA APPROVED Chlorhexidine Gluconate Solution 0.75% ANTISEPTIC FOR EXTERNAL USE ONLY Bajaj Medical Chicago IL 60609 8 fl oz (236 mL) NDC 61037-414-04 MADE IN THE USA FDA APPROVED Chlorhexidine Gluconate Solution 0.75% ANTISEPTIC FOR EXTERNAL USE ONLY Bajaj Medical Chicago IL 60609 40.6 fl oz (1.2 L) NDC 61037-414-08 MADE IN THE USA FDA APPROVED 4ozlbl 8ozlbl 16ozlbl 32ozlbl 128ozlbl 8ozlblclr 8ozlblwht 1200mllbl Keep from freezing."
+      ],
+      "set_id": "014a5f36-0396-498b-901f-9a86df4e11fe",
+      "id": "f0b7b337-be39-2e5f-e053-2995a90a3c8c",
+      "effective_time": "20221226",
+      "version": "15",
+      "openfda": {
+        "application_number": [
+          "NDA020111"
+        ],
+        "brand_name": [
+          "Chlorhexidine Gluconate Solution 0.75% Antiseptic"
+        ],
+        "generic_name": [
+          "CHLORHEXIDINE GLUCONATE SOLUTION 0.75% ANTISEPTIC"
+        ],
+        "manufacturer_name": [
+          "Bajaj Medical, LLC"
+        ],
+        "product_ndc": [
+          "61037-414"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "CHLORHEXIDINE GLUCONATE"
+        ],
+        "spl_id": [
+          "f0b7b337-be39-2e5f-e053-2995a90a3c8c"
+        ],
+        "spl_set_id": [
+          "014a5f36-0396-498b-901f-9a86df4e11fe"
+        ],
+        "package_ndc": [
+          "61037-414-01",
+          "61037-414-02",
+          "61037-414-05",
+          "61037-414-06",
+          "61037-414-07",
+          "61037-414-03",
+          "61037-414-04",
+          "61037-414-08"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0361037414070",
+          "0361037414087",
+          "0361037414063",
+          "0361037414032",
+          "0361037414049",
+          "0361037414025"
+        ],
+        "unii": [
+          "MOR84MUD8E"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "DASH Chlorhexidine Gluconate 0.12% Oral Rinse Chlorhexidine Gluconate 0.12% Oral Rinse CHLORHEXIDINE GLUCONATE CHLORHEXIDINE WATER ALCOHOL GLYCERIN PEG-40 SORBITAN DIISOSTEARATE PEPPERMINT OIL SACCHARIN SODIUM FD&C BLUE NO. 1 HYDROCHLORIC ACID SODIUM HYDROXIDE"
+      ],
+      "description": [
+        "DESCRIPTION This product is an oral rinse containing 0.12% chlorhexidine gluconate (1,1'-hexamethylene bis [5-(p-chlorophenyl) biguanide]di-0-gluconate) in a base containing water, 11.6% alcohol, glycerin, PEG-40 sorbitan diisostearate, peppermint oil, saccharin sodium, and FD&C Blue #1. The pH may be adjusted with hydrochloric acid or sodium hydroxide. The solution is near-neutral (pH range 5-7). Chlorhexidine gluconate is a salt of chlorhexidine and gluconic acid. Its molecular formula is C 22 H 30 Cl 2 N 10 •2C 6 H 12 0 7 , molecular weight 897.77 and its structural formula is: chemical structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Chlorhexidine gluconate provides antimicrobial activity during oral rinsing. The clinical significance of chlorhexidine gluconate's antimicrobial activities is not clear. Microbiological sampling of plaque has shown a general reduction of counts of certain assayed bacteria, both aerobic and anaerobic, ranging from 54-97% through six months' use. Use of chlorhexidine gluconate oral rinse in a six-month clinical study did not result in any significant changes in bacterial resistance, overgrowth of potentially opportunistic organisms or other adverse changes in the oral microbial ecosystem. Three months after chlorhexidine gluconate use was discontinued, the number of bacteria in plaque had returned to baseline levels and resistance of plaque bacteria to chlorhexidine gluconate was equal to that at baseline."
+      ],
+      "pharmacokinetics": [
+        "Pharmacokinetics: Pharmacokinetic studies with 0.12% chlorhexidine gluconate oral rinse indicate approximately 30% of the active ingredient, chlorhexidine gluconate, is retained in the oral cavity following rinsing. This retained drug is slowly released into the oral fluids. Studies conducted on human subjects and animals demonstrate chlorhexidine gluconate is poorly absorbed from the gastrointestinal tract. The mean plasma level of chlorhexidine gluconate reached a peak of 0.206 mcg/g in humans 30 minutes after they ingested a 300-mg dose of the drug. Detectable levels of chlorhexidine gluconate were not present in the plasma of these subjects 12 hours after the compound was administered. Excretion of chlorhexidine gluconate occurred primarily through the feces (~90%). Less than 1% of the chlorhexidine gluconate ingested by these subjects was excreted in the urine."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Chlorhexidine Gluconate Oral Rinse is indicated for use between dental visits as part of a professional program for the treatment of gingivitis as characterized by redness and swelling of the gingivae, including gingival bleeding upon probing. Chlorhexidine gluconate has not been tested among patients with acute necrotizing ulcerative gingivitis (ANUG). For patients having coexisting gingivitis and periodontitis, see PRECAUTIONS ."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS: This product should not be used by persons who are known to be hypersensitive to chlorhexidine gluconate or other formula ingredients."
+      ],
+      "warnings": [
+        "WARNINGS The effect of chlorhexidine gluconate oral rinse on periodontitis has not been determined. An increase in supragingival calculus was noted in clinical testing in chlorhexidine gluconate oral rinse users compared with control users. It is not known if chlorhexidine gluconate oral rinse use results in an increase in subgingival calculus. Calculus deposits should be removed by a dental prophylaxis at intervals not greater than six months. Anaphylaxis, as well as serious allergic reactions, have been reported during postmarketing use with dental products containing chlorhexidine. See CONTRAINDICATIONS ."
+      ],
+      "precautions": [
+        "PRECAUTIONS General: 1. For patients having coexisting gingivitis and periodontitis, the presence or absence of gingival inflammation following treatment with chlorhexidine gluconate should not be used as a major indicator of underlying periodontitis. 2. Chlorhexidine gluconate oral rinse can cause staining of oral surfaces, such as tooth surfaces, restorations, and the dorsum of the tongue. Not all patients will experience a visually significant increase in toothstaining. In clinical testing, 56% of chlorhexidine gluconate oral rinse users exhibited a measurable increase in facial anterior stain, compared to 35% of control users after six months; 15% of chlorhexidine gluconate users developed what was judged to be heavy stain, compared to 1% of control users after six months. Stain will be more pronounced in patients who have heavier accumulations of unremoved plaque. Stain resulting from use of chlorhexidine gluconate oral rinse does not adversely affect health of the gingivae or other oral tissues. Stain can be removed from most tooth surfaces by conventional professional prophylactic techniques. Additional time may be required to complete the prophylaxis. Discretion should be used when prescribing to patients with anterior facial restorations with rough surfaces or margins. If natural stain cannot be removed from these surfaces by a dental prophylaxis, patients should be excluded from chlorhexidine gluconate treatment if permanent discoloration is unacceptable. Stain in these areas may be difficult to remove by dental prophylaxis and on rare occasions may necessitate replacement of these restorations. 3. Some patients may experience an alteration in taste perception while undergoing treatment with chlorhexidine gluconate oral rinse. Rare instances of permanent taste alteration following use of chlorhexidine gluconate oral rinse have been reported via postmarketing product surveillance."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy category B. Reproduction studies have been performed in rats and rabbits at chlorhexidine gluconate doses up to 300 mg/kg/day and 40 mg/kg/day, respectively, and have not revealed evidence of harm to the fetus. However, adequate and well-controlled studies in pregnant women have not been done. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed."
+      ],
+      "teratogenic_effects": [
+        "Teratogenic Effects Pregnancy category B. Reproduction studies have been performed in rats and rabbits at chlorhexidine gluconate doses up to 300 mg/kg/day and 40 mg/kg/day, respectively, and have not revealed evidence of harm to the fetus. However, adequate and well-controlled studies in pregnant women have not been done. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when chlorhexidine gluconate is administered to a nursing woman. In parturition and lactation studies with rats, no evidence of impaired parturition or of toxic effects to suckling pups was observed when chlorhexidine gluconate was administered to dams at doses that were over 100 times greater than that which would result from a person's ingesting 30ml (2 capfuls) of chlorhexidine gluconate oral rinse per day."
+      ],
+      "pediatric_use": [
+        "Pediatric Use Clinical effectiveness and safety of chlorhexidine gluconate have not been established in children under the age of 18."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility In a drinking water study in rats, carcinogenic effects were not observed at doses up to 38 mg/kg/day. Mutagenic effects were not observed in two mammalian in vivo mutagenesis studies with chlorhexidine gluconate. The highest doses of chlorhexidine used in a mouse dominant-lethal assay and a hamster cytogenetics test were 1000 mg/kg/day and 250 mg/kg/day, respectively. No evidence of impaired fertility was observed in rats at doses up to 100 mg/kg/day."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common side effects associated with chlorhexidine gluconate oral rinses are (1) an increase in staining of teeth and other oral surfaces, (2) an increase in calculus formation, and (3) an alteration in taste perception; see WARNINGS and PRECAUTIONS . Oral irritation and local allergy-type symptoms have been spontaneously reported as side effects associated with the use of chlorhexidine gluconate rinse. The following oral mucosal side effects were reported during placebo-controlled adult clinical trials: aphthous ulcer, grossly obvious gingivitis, trauma, ulceration, erythema, desquamation, coated tongue, keratinization, geographic tongue, mucocele, and short frenum. Each occurred at a frequency of less than 1.0%. Among postmarketing reports, the most frequently reported oral mucosal symptoms associated with chlorhexidine gluconate are stomatitis, gingivitis, glossitis, ulcer, dry mouth, hypesthesia, glossal edema, and paresthesia. Minor irritation and superficial desquamation of the oral mucosa have been noted in patients using chlorhexidine gluconate oral rinse. There have been cases of parotid gland swelling and inflammation of the salivary glands (sialadenitis) reported in patients using chlorhexidine gluconate oral rinse."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Ingestion of 1 or 2 ounces of chlorhexidine gluconate oral rinse by a small child (~10 kg body weight) might result in gastric distress, including nausea, or signs of alcohol intoxication. Medical attention should be sought if more than 4 ounces of chlorhexidine gluconate oral rinse is ingested by a small child or if signs of alcohol intoxication develop."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Chlorhexidine Gluconate Oral Rinse therapy should be initiated directly following a dental prophylaxis. Patients using chlorhexidine gluconate should be reevaluated and given a thorough prophylaxis at intervals no longer than six months. Recommended use is twice daily oral rinsing for 30 seconds, morning and evening after toothbrushing. Usual dosage is 15ml (marked in cap) of undiluted chlorhexidine gluconate oral rinse. Patients should be instructed to not rinse with water, or other mouthwashes, brush teeth, or eat immediately after using chlorhexidine gluconate oral rinse. Chlorhexidine Gluconate Oral Rinse is not intended for ingestion and should be expectorated after rinsing."
+      ],
+      "how_supplied": [
+        "Chlorhexidine Gluconate Oral Rinse USP 0.12% is supplied as a blue liquid in the following sizes: Overbagged with 5 x 15 mL amber plastic unit-dose cups in each bag, NDC 55154-1980-5 WARNING: This Unit Dose package is not child resistant and is Intended for Institutional Use Only. Keep this and all drugs out of the reach of children. Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [See USP Controlled Room Temperature]. Dispense in original container or in amber glass bottles."
+      ],
+      "other_safety_information": [
+        "What to expect when using Chlorhexidine Gluconate Oral Rinse Your dentist has prescribed Chlorhexidine Gluconate Oral Rinse to treat your gingivitis, to help reduce the redness and swelling of your gums, and also to help you control any gum bleeding. Use Chlorhexidine Gluconate Oral Rinse regularly, as directed by your dentist, in addition to daily brushing. Spit out after use. Chlorhexidine Gluconate Oral Rinse should not be swallowed. If you develop allergic symptoms such as skin rash, itch, generalized swelling, breathing difficulties, light headedness, rapid heart rate, upset stomach or diarrhea, seek medical attention immediately. Chlorhexidine Gluconate Oral Rinse should not be used by persons who have a sensitivity to it or its components. Chlorhexidine Gluconate Oral Rinse may cause some tooth discoloration, or increases in tartar (calculus) formation, particularly in areas where stain and tartar usually form. It is important to see your dentist for removal of any stain or tartar at least every six months, or more frequently if your dentist advises. • Both stain and tartar can be removed by your dentist or hygienist. Chlorhexidine Gluconate Oral Rinse may cause permanent discoloration of some front-tooth fillings. • To minimize discoloration, you should brush and floss daily, emphasizing areas which begin to discolor. • Chlorhexidine Gluconate Oral Rinse may taste bitter to some patients and can affect how foods and beverages taste. This will become less noticeable in most cases with continued use of Chlorhexidine Gluconate Oral Rinse. • To avoid taste interference, rinse with Chlorhexidine Gluconate Oral Rinse after meals. Do not rinse with water or other mouthwashes immediately after rinsing with Chlorhexidine Gluconate Oral Rinse. If you have any questions or comments about Chlorhexidine Gluconate Oral Rinse, contact your dentist or pharmacist. Call your health care provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. Keep this and all drugs out of the reach of children. Manufactured for: DASH Pharmaceuticals LLC Upper Saddle River, NJ 07458 Manufactured by: Lyne Laboratories, Inc. Brockton, MA 02301 Distributed By: Cardinal Health Dublin, OH 43017 L56460540124 R0-09/17"
+      ],
+      "package_label_principal_display_panel": [
+        "Package/Label Display Panel NDC 55154-1980-5 CHLORHEXIDINE GLUCONATE ORAL RINSE USP 0.12% 5 CUPS 0.12% bag label"
+      ],
+      "set_id": "0253513c-148c-4be7-a6d5-5528f40806fa",
+      "id": "a76946eb-abac-4bea-b7b1-275e5fd3d3cc",
+      "effective_time": "20260416",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "ANDA074291"
+        ],
+        "brand_name": [
+          "DASH Chlorhexidine Gluconate 0.12% Oral Rinse"
+        ],
+        "generic_name": [
+          "CHLORHEXIDINE GLUCONATE 0.12% ORAL RINSE"
+        ],
+        "manufacturer_name": [
+          "Cardinal Health 107, LLC"
+        ],
+        "product_ndc": [
+          "55154-1980"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CHLORHEXIDINE GLUCONATE"
+        ],
+        "rxcui": [
+          "834127"
+        ],
+        "spl_id": [
+          "a76946eb-abac-4bea-b7b1-275e5fd3d3cc"
+        ],
+        "spl_set_id": [
+          "0253513c-148c-4be7-a6d5-5528f40806fa"
+        ],
+        "package_ndc": [
+          "55154-1980-5"
+        ],
+        "original_packager_product_ndc": [
+          "69339-138"
+        ],
+        "unii": [
+          "MOR84MUD8E"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Medicated Foaming Feminine LACTIC ACID, BORIC ACID, CHLORHEXIDINE GLUCONATE, CNIDIUM MONNIERI FRUIT, LEVOMENOL WATER COCAMIDOPROPYL BETAINE SODIUM LAURYL GLYCOL CARBOXYLATE LAURYL GLUCOSIDE XANTHAN GUM SODIUM BENZOATE CITRIC ACID ALLANTOIN PANTHENOL ALOE VERA LEAF TOCOPHEROL ETHYLHEXYLGLYCERIN GLYCERIN LACTIC ACID LACTIC ACID BORIC ACID BORIC ACID CHLORHEXIDINE GLUCONATE CHLORHEXIDINE CNIDIUM MONNIERI FRUIT OIL CNIDIUM MONNIERI FRUIT OIL LEVOMENOL BISABOLOL"
+      ],
+      "active_ingredient": [
+        "Active Ingredient Purpose ● Lactic Acid 0.5%: Maintains natural pH levels, fostering a healthy environment to prevent irritation and infections. ● Boric Acid 0.5%: Restores and stabilizes acidic pH levels, effectively preventing yeast infections. ● Chlorhexidine Digluconate 1%: Offers potent antibacterial protection, reducing the risk of bacterial infections without disrupting the vaginal flora. ● Cnidium Monnieri Fruit Extract 0.5%: Provides anti-inflammatory properties, soothing the skin and reducing any potential irritation. ● Bisabolol 0.3%: Calms and soothes the skin, reducing redness and providing a gentle, comforting effect upon application."
+      ],
+      "purpose": [
+        ""
+      ],
+      "indications_and_usage": [
+        "Uses ● Antimicrobial action: Effectively targets and eliminates harmful bacteria to maintain natural balance. ● UTI Defense: Actively helps to prevent urinary tract infections. ● Odor Control: Neutralizes odors, leaving you feeling fresh and clean."
+      ],
+      "warnings": [
+        "Warnings ● For external use only. ● Do not use: ○ On broken or punctured wounds. ○ On animal bites. ○ On serious burns. ● When using this product: ○ Avoid contact with eyes. If contact occurs, rinse thoroughly with water. ○ Do not apply large amounts to the body. ● Stop use and ask a doctor if: ○ Irritation or redness develops. ○ Condition worsens or does not improve within 7 days."
+      ],
+      "keep_out_of_reach_of_children": [
+        ""
+      ],
+      "dosage_and_administration": [
+        "Directions ● Wet the area: Begin by splashing water on the external vaginal area or take this step while in the shower or bath to ensure the area is moist. ● Apply the wash: Pump a small amount of the foam onto your hand. The foam should be rich and airy. Typically, two pumps are sufficient. ● Gentle Cleansing: Gently apply foam to the delicate areas. Use your hand to spread the foam, covering the entire area with gentle, circular motions. Avoid using sponges or washcloths, as they can be too abrasive. ● Rinse thoroughly: After cleansing, rinse thoroughly with warm water. Ensure all traces of the wash are removed to avoid irritation. ● Pat dry: Gently pat the area with a clean towel. Avoid rubbing, as this may cause irritation. It's important to ensure the area is completely dry before dressing to prevent moisture buildup, which can lead to irritation or infections."
+      ],
+      "spl_unclassified_section": [
+        "Other Information ● Lot number and expiration date: See packaging for details. ● Keep out of reach of children. If swallowed, call a poison control center right away. ● Store at room temperature. Keep the bottle tightly closed. Avoid direct sunlight and excessive heat to maintain product integrity."
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients Water (Aqua), Glycerin, Cocamidopropyl Betaine, Sodium Lauryl Glucose Carboxylate, Lauryl Glucoside, Xanthan Gum, Sodium Benzoate Citric Acid, Allantoin, Panthenol, Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Ethylhexylglycerin"
+      ],
+      "package_label_principal_display_panel": [
+        "Product label image description"
+      ],
+      "set_id": "02b3d683-05b0-4075-bbf9-e6d97c61765c",
+      "id": "2fae9a9c-1b17-5954-e063-6394a90ac2ed",
+      "effective_time": "20250306",
+      "version": "1",
+      "openfda": {
+        "brand_name": [
+          "Medicated Foaming Feminine"
+        ],
+        "generic_name": [
+          "LACTIC ACID, BORIC ACID, CHLORHEXIDINE GLUCONATE, CNIDIUM MONNIERI FRUIT, LEVOMENOL"
+        ],
+        "manufacturer_name": [
+          "Rida LLC"
+        ],
+        "product_ndc": [
+          "83004-015"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "BORIC ACID",
+          "CHLORHEXIDINE GLUCONATE",
+          "CNIDIUM MONNIERI FRUIT OIL",
+          "LACTIC ACID",
+          "LEVOMENOL"
+        ],
+        "spl_id": [
+          "2fae9a9c-1b17-5954-e063-6394a90ac2ed"
+        ],
+        "spl_set_id": [
+          "02b3d683-05b0-4075-bbf9-e6d97c61765c"
+        ],
+        "package_ndc": [
+          "83004-015-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "R57ZHV85D4",
+          "MOR84MUD8E",
+          "JK0MS9P8YL",
+          "33X04XA5AT",
+          "24WE03BX2T"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "CHLORHEXIDINE GLUCONATE chlorhexidine gluconate WATER ALCOHOL GLYCERIN PEG-40 SORBITAN DIISOSTEARATE PEPPERMINT OIL SACCHARIN SODIUM FD&C BLUE NO. 1 HYDROCHLORIC ACID SODIUM HYDROXIDE CHLORHEXIDINE GLUCONATE CHLORHEXIDINE"
+      ],
+      "spl_unclassified_section": [
+        "",
+        "",
+        "Rx Only"
+      ],
+      "description": [
+        "DESCRIPTION This product is an oral rinse containing 0.12% chlorhexidine gluconate (1,1'-hexamethylene bis [5-(p-chlorophenyl) biguanide]di-D-gluconate) in a base containing water, 11.6% alcohol, glycerin, PEG-40 sorbitan diisostearate, peppermint oil, saccharin sodium, and FD&C Blue #1. The pH may be adjusted with hydrochloric acid or sodium hydroxide. The solution is near-neutral (pH range 5–7). Chlorhexidine gluconate is a salt of chlorhexidine and gluconic acid. Its molecular formula is C 22 H 30 Cl 2 N 10 •2C 6 H 12 O 7 , molecular weight 897.77 and its structural formula is: Chemical Structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Chlorhexidine gluconate provides antimicrobial activity during oral rinsing. The clinical significance of chlorhexidine gluconate’s antimicrobial activities is not clear. Microbiological sampling of plaque has shown a general reduction of counts of certain assayed bacteria, both aerobic and anaerobic, ranging from 54–97% through six months’ use. Use of chlorhexidine gluconate oral rinse in a six-month clinical study did not result in any significant changes in bacterial resistance, overgrowth of potentially opportunistic organisms or other adverse changes in the oral microbial ecosystem. Three months after chlorhexidine gluconate use was discontinued, the number of bacteria in plaque had returned to baseline levels and resistance of plaque bacteria to chlorhexidine gluconate was equal to that at baseline. Pharmacokinetics: Pharmacokinetic studies with 0.12% chlorhexidine gluconate oral rinse indicate approximately 30% of the active ingredient, chlorhexidine gluconate, is retained in the oral cavity following rinsing. This retained drug is slowly released into the oral fluids. Studies conducted on human subjects and animals demonstrate chlorhexidine gluconate is poorly absorbed from the gastrointestinal tract. The mean plasma level of chlorhexidine gluconate reached a peak of 0.206 mcg/g in humans 30 minutes after they ingested a 300-mg dose of the drug. Detectable levels of chlorhexidine gluconate were not present in the plasma of these subjects 12 hours after the compound was administered. Excretion of chlorhexidine gluconate occurred primarily through the feces (~90%). Less than 1% of the chlorhexidine gluconate ingested by these subjects was excreted in the urine."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Chlorhexidine Gluconate Oral Rinse is indicated for use between dental visits as part of a professional program for the treatment of gingivitis as characterized by redness and swelling of the gingivae, including gingival bleeding upon probing. Chlorhexidine gluconate has not been tested among patients with acute necrotizing ulcerative gingivitis (ANUG). For patients having coexisting gingivitis and periodontitis, see PRECAUTIONS ."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS This product should not be used by persons who are known to be hypersensitive to chlorhexidine gluconate or other formula ingredients."
+      ],
+      "warnings": [
+        "WARNINGS The effect of chlorhexidine gluconate on periodontitis has not been determined. An increase in supragingival calculus was noted in clinical testing in chlorhexidine gluconate oral rinse users compared with control users. It is not known if chlorhexidine gluconate use results in an increase in subgingival calculus. Calculus deposits should be removed by a dental prophylaxis at intervals not greater than six months. Anaphylaxis, as well as serious allergic reactions, have been reported during postmarketing use with dental products containing chlorhexidine. See CONTRAINDICATIONS."
+      ],
+      "precautions": [
+        "PRECAUTIONS General 1. For patients having coexisting gingivitis and periodontitis, the presence or absence of gingival inflammation following treatment with chlorhexidine gluconate should not be used as a major indicator of underlying periodontitis. 2. Chlorhexidine gluconate oral rinse can cause staining of oral surfaces, such as tooth surfaces, restorations, and the dorsum of the tongue. Not all patients will experience a visually significant increase in toothstaining. In clinical testing, 56% of chlorhexidine gluconate oral rinse users exhibited a measurable increase in facial anterior stain, compared to 35% of control users after six months; 15% of chlorhexidine gluconate users developed what was judged to be heavy stain, compared to 1% of control users after six months. Stain will be more pronounced in patients who have heavier accumulations of unremoved plaque. Stain resulting from use of chlorhexidine gluconate oral rinse does not adversely affect health of the gingivae or other oral tissues. Stain can be removed from most tooth surfaces by conventional professional prophylactic techniques. Additional time may be required to complete the prophylaxis. Discretion should be used when prescribing to patients with anterior facial restorations with rough surfaces or margins. If natural stain cannot be removed from these surfaces by a dental prophylaxis, patients should be excluded from chlorhexidine gluconate treatment if permanent discoloration is unacceptable. Stain in these areas may be difficult to remove by dental prophylaxis and on rare occasions may necessitate replacement of these restorations. 3. Some patients may experience an alteration in taste perception while undergoing treatment with chlorhexidine gluconate oral rinse. Rare instances of permanent taste alteration following use of chlorhexidine gluconate oral rinse have been reported via postmarketing product surveillance."
+      ],
+      "general_precautions": [
+        "General 1. For patients having coexisting gingivitis and periodontitis, the presence or absence of gingival inflammation following treatment with chlorhexidine gluconate should not be used as a major indicator of underlying periodontitis. 2. Chlorhexidine gluconate oral rinse can cause staining of oral surfaces, such as tooth surfaces, restorations, and the dorsum of the tongue. Not all patients will experience a visually significant increase in toothstaining. In clinical testing, 56% of chlorhexidine gluconate oral rinse users exhibited a measurable increase in facial anterior stain, compared to 35% of control users after six months; 15% of chlorhexidine gluconate users developed what was judged to be heavy stain, compared to 1% of control users after six months. Stain will be more pronounced in patients who have heavier accumulations of unremoved plaque. Stain resulting from use of chlorhexidine gluconate oral rinse does not adversely affect health of the gingivae or other oral tissues. Stain can be removed from most tooth surfaces by conventional professional prophylactic techniques. Additional time may be required to complete the prophylaxis. Discretion should be used when prescribing to patients with anterior facial restorations with rough surfaces or margins. If natural stain cannot be removed from these surfaces by a dental prophylaxis, patients should be excluded from chlorhexidine gluconate treatment if permanent discoloration is unacceptable. Stain in these areas may be difficult to remove by dental prophylaxis and on rare occasions may necessitate replacement of these restorations. 3. Some patients may experience an alteration in taste perception while undergoing treatment with chlorhexidine gluconate oral rinse. Rare instances of permanent taste alteration following use of chlorhexidine gluconate oral rinse have been reported via postmarketing product surveillance."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy category B . Reproduction studies have been performed in rats and rabbits at chlorhexidine gluconate doses up to 300 mg/kg/day and 40 mg/kg/day, respectively, and have not revealed evidence of harm to the fetus. However, adequate and well-controlled studies in pregnant women have not been done. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when chlorhexidine gluconate is administered to a nursing woman. In parturition and lactation studies with rats, no evidence of impaired parturition or of toxic effects to suckling pups was observed when chlorhexidine gluconate was administered to dams at doses that were over 100 times greater than that which would result from a person's ingesting 30mL (2 capfuls) of chlorhexidine gluconate oral rinse per day."
+      ],
+      "pediatric_use": [
+        "Pediatric Use Clinical effectiveness and safety of chlorhexidine gluconate have not been established in children under the age of 18."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility In a drinking water study in rats, carcinogenic effects were not observed at doses up to 38 mg/kg/day. Mutagenic effects were not observed in two mammalian in vivo mutagenesis studies with chlorhexidine gluconate. The highest doses of chlorhexidine used in a mouse dominant-lethal assay and a hamster cytogenetics test were 1000 mg/kg/day and 250 mg/kg/day, respectively. No evidence of impaired fertility was observed in rats at doses up to 100 mg/kg/day."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common side effects associated with chlorhexidine gluconate oral rinses are (1) an increase in staining of teeth and other oral surfaces, (2) an increase in calculus formation, and (3) an alteration in taste perception; see WARNINGS and PRECAUTIONS . Oral irritation and local allergy-type symptoms have been spontaneously reported as side effects associated with the use of chlorhexidine gluconate rinse. The following oral mucosal side effects were reported during placebo-controlled adult clinical trials: aphthous ulcer, grossly obvious gingivitis, trauma, ulceration, erythema, desquamation, coated tongue, keratinization, geographic tongue, mucocele, and short frenum. Each occurred at a frequency of less than 1.0%. Among postmarketing reports, the most frequently reported oral mucosal symptoms associated with chlorhexidine gluconate are stomatitis, gingivitis, glossitis, ulcer, dry mouth, hypesthesia, glossal edema, and paresthesia. Minor irritation and superficial desquamation of the oral mucosa have been noted in patients using chlorhexidine gluconate oral rinse. There have been cases of parotid gland swelling and inflammation of the salivary glands (sialadenitis) reported in patients using chlorhexidine gluconate oral rinse."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Ingestion of 1 or 2 ounces of chlorhexidine gluconate oral rinse by a small child (~10 kg body weight) might result in gastric distress, including nausea, or signs of alcohol intoxication. Medical attention should be sought if more than 4 ounces of chlorhexidine gluconate oral rinse is ingested by a small child or if signs of alcohol intoxication develop."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Chlorhexidine Gluconate Oral Rinse therapy should be initiated directly following a dental prophylaxis. Patients using chlorhexidine gluconate should be reevaluated and given a thorough prophylaxis at intervals no longer than six months. Recommended use is twice daily oral rinsing for 30 seconds, morning and evening after toothbrushing. Usual dosage is 15 mL (marked in cap) of undiluted chlorhexidine gluconate oral rinse. Patients should be instructed to not rinse with water, or other mouthwashes, brush teeth, or eat immediately after using chlorhexidine gluconate oral rinse. Chlorhexidine Gluconate Oral Rinse is not intended for ingestion and should be expectorated after rinsing."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Chlorhexidine Gluconate Oral Rinse USP 0.12% is supplied as a blue liquid in the following sizes: 16 fluid ounce or 1 pint (473 mL) (NDC 0374-5080-02) amber plastic bottles with child-resistant dispensing closures. 1/2 fluid ounce (15 mL) (NDC 0374-5080-01) amber plastic unit-dose cups. Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [See USP Controlled Room Termperature]. Dispense in original container or in amber glass bottles. ​What to expect when using Chlorhexidine Gluconate Oral Rinse ​Your dentist has prescribed Chlorhexidine Gluconate Oral Rinse to treat your gingivitis, to help reduce the redness and swelling of your gums, and also to help you control any gum bleeding. Use Chlorhexidine Gluconate Oral Rinse regularly, as directed by your dentist, in addition to daily brushing. Spit out after use. Chlorhexidine Gluconate Oral Rinse should not be swallowed. If you develop allergic symptoms such as skin rash, itch, generalized swelling, breathing difficulties, light headedness, rapid heart rate, upset stomach or diarrhea, seek medical attention immediately. Chlorhexidine Gluconate Oral Rinse should not be used by persons who have a sensitivity to it or its components. Chlorhexidine Gluconate Oral Rinse may cause some tooth discoloration, or increases in tartar (calculus) formation, particularly in areas where stain and tartar usually form. It is important to see your dentist for removal of any stain or tartar at least every six months, or more frequently if your dentist advises. Both stain and tartar can be removed by your dentist or hygienist. Chlorhexidine Gluconate Oral Rinse may cause permanent discoloration of some front-tooth fillings. To minimize discoloration, you should brush and floss daily, emphasizing areas which begin to discolor. Chlorhexidine Gluconate Oral Rinse may taste bitter to some patients and can affect how foods and beverages taste. This will become less noticeable in most cases with continued use of Chlorhexidine Gluconate Oral Rinse. To avoid taste interference, rinse with Chlorhexidine Gluconate Oral Rinse ​after ​meals. Do not rinse with water or other mouthwashes immediately after rinsing with Chlorhexidine Gluconate Oral Rinse. If you have any questions or comments about Chlorhexidine Gluconate Oral Rinse, contact your dentist or Pharmacist. Call your health care provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. ​Keep this and all drugs out of the reach of children. ​Manufactured by: ​Lyne Laboratories, Inc. Brockton, MA 02301 R2-07/15"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel Lyne Laboratories, Inc. NDC 0374-5080-02 Chlorhexidine Gluconate Oral Rinse USP 0.12% Rx only One Pint (473mL) Lyne Laboratories, Inc. NDC 0374-5080-01 Chlorhexidine Gluconate Oral Rinse USP 0.12% Rx only Unit Dose 15mL Chlorhexidine 16oz. Bottle Label Unit Dose Label"
+      ],
+      "set_id": "0348006f-b818-4465-a896-bc0d42294cf4",
+      "id": "7e7b458d-c301-5055-e053-2a91aa0aa93b",
+      "effective_time": "20190102",
+      "version": "4",
+      "openfda": {
+        "application_number": [
+          "ANDA074291"
+        ],
+        "brand_name": [
+          "CHLORHEXIDINE GLUCONATE"
+        ],
+        "generic_name": [
+          "CHLORHEXIDINE GLUCONATE"
+        ],
+        "manufacturer_name": [
+          "Lyne Laboratories, Inc."
+        ],
+        "product_ndc": [
+          "0374-5080"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CHLORHEXIDINE GLUCONATE"
+        ],
+        "rxcui": [
+          "834127"
+        ],
+        "spl_id": [
+          "7e7b458d-c301-5055-e053-2a91aa0aa93b"
+        ],
+        "spl_set_id": [
+          "0348006f-b818-4465-a896-bc0d42294cf4"
+        ],
+        "package_ndc": [
+          "0374-5080-01",
+          "0374-5080-02"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "MOR84MUD8E"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Acclean Chlorhexidine Gluconate 0.12% Oral Rinse Chlorhexidine Gluconate 0.12% Oral Rinse GLYCERIN PEG-40 SORBITAN DIISOSTEARATE ALCOHOL SACCHARIN SODIUM FD&C BLUE NO. 1 WATER CHLORHEXIDINE GLUCONATE CHLORHEXIDINE"
+      ],
+      "description": [
+        "0.12% chlorhexidine gluconate (1,1’-hexamethylene bis [5-(p-chlorphenyl) biguanide]di-D-gluconate) in a base containing water, 11.6% alcohol, glycerin, PEG-40 sorbitan diisostearate, flavor, sodium saccharin and FD&C Blue No. 1. Chlorhexidine gluconate product is a near neutral solution (pH range 5-7). Chlorhexidine gluconate is a salt of chlorhexidine and gluconic acid. Its chemical structure is: HS Page 4"
+      ],
+      "clinical_pharmacology": [
+        "Chlorhexidine gluconate oral rinse provides antimicrobial activity during oral rinsing. The clinical significance of chlorhexidine gluconate oral rinse’s antimicrobial activities is not clear. Microbiological sampling of plaque has shown a general reduction of counts of certain assayed bacteria, both aerobic and anaerobic, ranging from 54–97% through six months of use. Use of chlorhexidine gluconate oral rinse in a six month clinical study did not result in any significant changes in bacterial resistance, overgrowth of potentially opportunistic organisms or other adverse changes in the oral microbial ecosystem. Three months after chlorhexidine gluconate oral rinse use was discontinued, the number of bacteria in plaque had returned to baseline levels and resistance of plaque bacteria to chlorhexidine gluconate was equal to that at baseline. Pharmacokinetics: Pharmacokinetic studies with chlorhexidine gluconate oral rinse indicate approximately 30% of the active ingredient, chlorhexidine gluconate, is retained in the oral cavity following rinsing. This retained drug is slowly released into the oral fluids. Studies conducted on human subjects and animals demonstrate chlorhexidine gluconate is poorly absorbed from the gastrointestinal tract. The mean plasma level of chlorhexidine gluconate reached a peak of 0 . 206 mcg/g in humans 30 minutes after they ingested a 300-mg dose of the drug. Detectable levels of chlorhexidine gluconate were not present in the plasma of these subjects 12 hours after the compound was administered. Excretion of chlorhexidine gluconate occurred primarily through the feces (~90%). Less than 1% of the chlorhexidine gluconate ingested by these subjects was excreted in the urine."
+      ],
+      "indications_and_usage": [
+        "Chlorhexidine gluconate oral rinse is indicated for use between dental visits as part of a professional program for the treatment of gingivitis as characterized by redness and swelling of the gingivae, including gingival bleeding upon probing. Chlorhexidine gluconate oral rinse has not been tested among patients with acute necrotizing ulcerative gingivitis (ANUG). For patients having coexisting gingivitis and periodontitis, see PRECAUTIONS."
+      ],
+      "contraindications": [
+        "Chlorhexidine gluconate oral rinse should not be used by persons who are known to be hypersensitive to chlorhexidine gluconate or other formula ingredients."
+      ],
+      "warnings": [
+        "The effect of chlorhexidine gluconate oral rinse on periodontitis has not been determined. An increase in supragingival calculus was noted in clinical testing in chlorhexidine gluconate oral rinse users compared with control users. It is not known if chlorhexidine gluconate oral rinse use results in an increase in subgingival calculus. Calculus deposits should be removed by a dental prophylaxis at intervals not greater than six months. Anaphylaxis, as well as serious allergic reactions, have been reported during postmarketing use with dental products containing chlorhexidine. SEE CONTRAINDICATIONS."
+      ],
+      "precautions": [
+        "General: 1. For patients having coexisting gingivitis and periodontitis, the presence or absence of gingival inflammation following treatment with chlorhexidine gluconate oral rinse should not be used as a major indicator of underlying periodontitis. 2. Chlorhexidine gluconate oral rinse can cause staining of oral surfaces, such as tooth surfaces, restorations, and the dorsum of the tongue. Not all patients will experience a visually significant increase in tooth staining. In clinical testing, 56% of chlorhexidine gluconate oral rinse users exhibited a measurable increase in facial anterior stain, compared to 35% of control users after six months; 15% of chlorhexidine gluconate oral rinse users developed what was judged to be heavy stain, compared to 1% of control users after six months. Stain will be more pronounced in patients who have heavier accumulations of unremoved plaque. Stain resulting from use of chlorhexidine gluconate oral rinse does not adversely affect health of the gingivae or other oral tissues. Stain can be removed from most tooth surfaces by conventional professional prophylactic techniques. Additional time may be required to complete the prophylaxis. Discretion should be used when prescribing to patients with anterior facial restorations with rough surfaces or margins. If natural stain cannot be removed from these surfaces by a dental prophylaxis, patients should be excluded from chlorhexidine gluconate oral rinse treatment if permanent discoloration is unacceptable. Stain in these areas may be difficult to remove by dental prophylaxis and on rare occasions may necessitate replacement of these restorations. 3. Some patients may experience an alteration in taste perception while undergoing treatment with chlorhexidine gluconate oral rinse. Rare instances of permanent taste alteration following chlorhexidine gluconate oral rinse use have been reported via post-marketing product surveillance."
+      ],
+      "pregnancy": [
+        "Pregnancy: Teratogenic Effects Reproduction studies have been performed in rats and rabbits at chlorhexidine gluconate doses up to 300 mg/kg/day and 40 mg/kg/day, respectively, and have not revealed evidence of harm to the fetus. However, adequate and well-controlled studies in pregnant women have not been done. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when chlorhexidine gluconate oral rinse is administered to nursing women. In parturition and lactation studies with rats, no evidence of impaired parturition or of toxic effects to suckling pups was observed when chlorhexidine gluconate was administered to dams at doses that were over 100 times greater than that which would result from a person's ingesting 30 ml (2 capfuls) of chlorhexidine gluconate oral rinse per day."
+      ],
+      "pediatric_use": [
+        "Clinical effectiveness and safety of chlorhexidine gluconate oral rinse have not been established in children under the age of 18."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "In a drinking water study in rats, carcinogenic effects were not observed at doses up to 38 mg/kg/day. Mutagenic effects were not observed in two mammalian in vivo mutagenesis studies with chlorhexidine gluconate. The highest doses of chlorhexidine used in a mouse dominant-lethal assay and a hamster cytogenetics test were 1000 mg/kg/day and 250 mg/kg/day, respectively. No evidence of impaired fertility was observed in rats at doses up to 100 mg/kg/day."
+      ],
+      "adverse_reactions": [
+        "The most common side effects associated with chlorhexidine gluconate oral rinses are: 1) an increase in staining of teeth and other oral surfaces; 2) an increase in calculus formation; and 3) an alteration in taste perception; see WARNINGS and PRECAUTIONS. Oral irritation and local allergy-type symptoms have been spontaneously reported as side effects associated with the use of chlorhexidine gluconate rinse. The following oral mucosal side effects were reported during placebo-controlled adult clinical trials: aphthous ulcer, grossly obvious gingivitis, trauma, ulceration, erythema, desquamation, coated tongue, keratinization, geographic tongue, mucocele, and short frenum. Each occurred at a frequency of less than 1%. Among post marketing reports, the most frequently reported oral mucosal symptoms associated with chlorhexidine gluconate oral rinse are stomatitis, gingivitis, glossitis, ulcer, dry mouth, hypesthesia, glossal edema, and paresthesia. Minor irritation and superficial desquamation of the oral mucosa have been noted in patients using chlorhexidine gluconate oral rinse. There have been cases of parotid gland swelling and inflammation of the salivary glands (sialadenitis) reported in patients using chlorhexidine gluconate oral rinse."
+      ],
+      "overdosage": [
+        "Ingestion of 1 or 2 ounces of chlorhexidine gluconate oral rinse by a small child (~10 kg body weight) might result in gastric distress, including nausea, or signs of alcohol intoxication. Medical attention should be sought if more than 4 ounces of chlorhexidine gluconate oral rinse is ingested by a small child or if signs of alcohol intoxication develop."
+      ],
+      "dosage_and_administration": [
+        "Chlorhexidine gluconate oral rinse therapy should be initiated directly following a dental prophylaxis. Patients using chlorhexidine gluconate oral rinse should be reevaluated and given a thorough prophylaxis at intervals no longer than six months. Recommended use is twice daily rinsing for 30 seconds, morning and evening after tooth brushing. Usual dosage is 15 ml (marked in cap) of undiluted chlorhexidine gluconate oral rinse. Patients should be instructed to not rinse with water, or other mouthwashes, brush teeth, or eat immediately after using chlorhexidine gluconate oral rinse. Chlorhexidine gluconate oral rinse is not intended for ingestion and should be expectorated after rinsing."
+      ],
+      "how_supplied": [
+        "Chlorhexidine gluconate oral rinse is supplied as a blue liquid in 4-ounce (118 ml) and 1-pint (473 ml) amber plastic bottles with child-resistant closures. Store at 20°C to 25°C (68°F-77°F), excursions permitted to 15°C to 30°C (59°F-86°F) [See USP controlled Room Temperature]. Rx Only Distributed by: Henry Schein Inc. 135 Duryea Road Melville, NY 11747 USA Made in USA Revised: 2022/03"
+      ],
+      "other_safety_information": [
+        "WHAT TO EXPECT WHEN USING CHLORHEXIDINE GLOCUNATE ORAL RINSE Your dentist has prescribed ACCLEAN chlorhexidine gluconate oral rinse to treat your gingivitis, to help reduce the redness and swelling of your gums, and also to help you control any gum bleeding. Use chlorhexidine gluconate oral rinse regularly, as directed by your dentist, in addition to daily brushing. Spit out after use, chlorhexidine gluconate oral rinse should not be swallowed. If you develop allergic symptoms such as skin rash, itch, generalized swelling, breathing difficulties, light headedness, rapid heart rate, upset stomach or diarrhea, seek medical attention immediately. Chlorhexidine gluconate oral rinse should not be used by persons who have a sensitivity to it or its components. Chlorhexidine gluconate oral rinse may cause some tooth discoloration, or increase in tartar (calculus) formation, particularly in areas where stain and tartar usually form. It is important to see your dentist for removal of any stain or tartar at least every six months or more frequently if your dentist advises. Both stain and tartar can be removed by your dentist or hygienist. Chlorhexidine gluconate oral rinse may cause permanent discoloration of some front-tooth fillings. To minimize discoloration, you should brush and floss daily, emphasizing areas which begin to discolor. Chlorhexidine gluconate oral rinse may taste bitter to some patients and can affect how food and beverages taste. This will become less noticeable in most cases with continued use of chlorhexidine gluconate oral rinse. To avoid taste interference, rinse with chlorhexidine gluconate oral rinse after meals. Do not rinse with water or other mouthwashes immediately after rinsing with chlorhexidine gluconate oral rinse. If you have any questions or comments about chlorhexidine gluconate oral rinse, contact your dentist or pharmacist. Call your health care provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. STORE at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP controlled Room Temperature]. ACCLEAN® by HENRY SCHEIN"
+      ],
+      "package_label_principal_display_panel": [
+        "NDC 0404-4075-01 ACCLEAN® CHLORHEXIDINE GLUCONATE 0.12% ORAL RINSE, USP Anti-Microbial Rinse, Mint DIRECTIONS FOR USE: Fill cap to the \"fill line\" (15ml). Swish in mouth undiluted for 30 seconds, then spit out . Use after breakfast and before bedtime. Or, use as prescribed. NOTE: to minimize medicinal taste, do not rinse with water immediately after use. KEEP OUT OF REACH OF CHILDREN 1 PINT (473 ml) by HENRY SCHEIN ® INGREDIENTS: 0.12% chlorhexidine gluconate in a base containing water, 11.6% alcohol, glycerin, PEG-40 sorbitan diisostearate, flavor, sodium saccharin, and FD&C Blue No.1. To open, press in flat pannels while turning cap. To reseal, turn cap past \"clicks\" until tightly locked. Rx Only NDC 0404-4075-01 REF 900-4010 ACCLEAN® CHLORHEXIDINE GLUCONATE 0.12% ORAL RINSE, USP by HENRY SCHEIN ® 1999HS16EZCD Descrption: 0.12% chlorhexidine gluconate (1,1’-hexamethylene bis [5-(p-chlorphenyl) biguanide]di-D-gluconate) in a base containing water, 11.6% alcohol, glycerin, PEG-40 sorbitan diisostearate, flavor, sodium saccharin and FD&C Blue No. 1. Chlorhexidine gluconate product is a near neutral solution (pH range 5-7). Chlorhexidine gluconate is a salt of chlorhexidine and gluconic acid. Its chemical structure is: CAUTION, CONSULT ACCOMPANYING DOCUMENTS Rx Only PHARMACIST: PLEASE OPEN LEAFLET AND REMOVE. acclean16-pdp"
+      ],
+      "set_id": "0829509a-1b9b-5d8a-e054-00144ff8d46c",
+      "id": "50b128ed-5377-d42f-e063-6394a90a5f9c",
+      "effective_time": "20260430",
+      "version": "12",
+      "openfda": {
+        "application_number": [
+          "ANDA077789"
+        ],
+        "brand_name": [
+          "Acclean Chlorhexidine Gluconate 0.12% Oral Rinse"
+        ],
+        "generic_name": [
+          "CHLORHEXIDINE GLUCONATE 0.12% ORAL RINSE"
+        ],
+        "manufacturer_name": [
+          "Henry Schein, Inc."
+        ],
+        "product_ndc": [
+          "0404-4075"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CHLORHEXIDINE GLUCONATE"
+        ],
+        "rxcui": [
+          "834127"
+        ],
+        "spl_id": [
+          "50b128ed-5377-d42f-e063-6394a90a5f9c"
+        ],
+        "spl_set_id": [
+          "0829509a-1b9b-5d8a-e054-00144ff8d46c"
+        ],
+        "package_ndc": [
+          "0404-4075-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "MOR84MUD8E"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "3M SoluPrep S Chlorhexidine Gluconate and Isopropyl Alcohol Chlorhexidine Gluconate Chlorhexidine Isopropyl Alcohol Isopropyl Alcohol Acetyltributyl Citrate FD&C BLUE NO. 1 FD&C YELLOW NO. 5 Water Trisodium Hedta 3M SoluPrep S Chlorhexidine Gluconate and Isopropyl Alcohol Chlorhexidine Gluconate Chlorhexidine Isopropyl Alcohol Isopropyl Alcohol Acetyltributyl Citrate Water Trisodium Hedta"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts",
+        "3M SoluPrep™ S 10.5mL Brite Green Applicator Drug Facts",
+        "3M SoluPrep™ S 10.5mL Clear Applicator Drug Facts"
+      ],
+      "active_ingredient": [
+        "Active ingredients Chlorhexidine gluconate 2% w/v Isopropyl alcohol 70% v/v",
+        "Active ingredients Chlorhexidine gluconate 2% w/v Isopropyl alcohol 70% v/v",
+        "Active ingredients Chlorhexidine gluconate 2% w/v Isopropyl alcohol 70% v/v"
+      ],
+      "purpose": [
+        "Purpose Antiseptic Antiseptic",
+        "Purpose Antiseptic Antiseptic",
+        "Purpose Antiseptic Antiseptic"
+      ],
+      "indications_and_usage": [
+        "Uses patient preoperative skin preparation: for preparation of the skin prior to surgery helps reduce bacteria that potentially can cause skin infection",
+        "Uses patient preoperative skin preparation: for preparation of the skin prior to surgery helps reduce bacteria that potentially can cause skin infection",
+        "Uses patient preoperative skin preparation: for preparation of the skin prior to surgery helps reduce bacteria that potentially can cause skin infection"
+      ],
+      "warnings": [
+        "Warnings For external use only. Flammable, keep away from fire or flame. To reduce risk of fire, PREP CAREFULLY: do not use 26-mL applicator for head and neck surgery do not use on an area smaller than 8.4 in. x 15.6 in. Use a smaller applicator instead. solution contains alcohol and gives off flammable vapors avoid getting solution into hairy areas. Wet hair is flammable . Hair may take up to 1 hour to dry. do not drape or use ignition source (e.g., cautery, laser) until solution is completely dry (minimum of 3 minutes on hairless skin; up to 1 hour in hair) do not allow solution to pool remove wet materials from prep area Allergy Alert: This product may cause a severe allergic reaction. Symptoms may include: wheezing/difficulty breathing shock facial swelling hives rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use on patients with known allergies to chlorhexidine gluconate or any other ingredient in this product for lumbar puncture or in contact with the meninges on open skin wounds or as a general skin cleanser When using this product keep out of eyes, ears, and mouth. May cause serious or permanent injury if permitted to enter and remain. If contact occurs, rinse with cold water right away and contact a doctor. to avoid skin injury, care should be taken when removing drapes, tapes, etc. Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+        "Warnings For external use only. Flammable, keep away from fire or flame. To reduce risk of fire, PREP CAREFULLY: solution contains alcohol and gives off flammable vapors avoid getting solution into hairy areas. Wet hair is flammable . Hair may take up to 1 hour to dry. do not drape or use ignition source (e.g., cautery, laser) until solution is completely dry (minimum of 3 minutes on hairless skin; up to 1 hour in hair) do not allow solution to pool remove wet materials from prep area Allergy Alert: This product may cause a severe allergic reaction. Symptoms may include: wheezing/difficulty breathing shock facial swelling hives rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use on patients with known allergies to chlorhexidine gluconate or any other ingredient in this product for lumbar puncture or in contact with the meninges on open skin wounds or as a general skin cleanser When using this product keep out of eyes, ears, and mouth. May cause serious or permanent injury if permitted to enter and remain. If contact occurs, rinse with cold water right away and contact a doctor. to avoid skin injury, care should be taken when removing drapes, tapes, etc. Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+        "Warnings For external use only. Flammable, keep away from fire or flame. To reduce risk of fire, PREP CAREFULLY: solution contains alcohol and gives off flammable vapors avoid getting solution into hairy areas. Wet hair is flammable . Hair may take up to 1 hour to dry. do not drape or use ignition source (e.g., cautery, laser) until solution is completely dry (minimum of 3 minutes on hairless skin; up to 1 hour in hair) do not allow solution to pool remove wet materials from prep area Allergy Alert: This product may cause a severe allergic reaction. Symptoms may include: wheezing/difficulty breathing shock facial swelling hives rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use on patients with known allergies to chlorhexidine gluconate or any other ingredient in this product for lumbar puncture or in contact with the meninges on open skin wounds or as a general skin cleanser When using this product keep out of eyes, ears, and mouth. May cause serious or permanent injury if permitted to enter and remain. If contact occurs, rinse with cold water right away and contact a doctor. to avoid skin injury, care should be taken when removing drapes, tapes, etc. Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "do_not_use": [
+        "Do not use on patients with known allergies to chlorhexidine gluconate or any other ingredient in this product for lumbar puncture or in contact with the meninges on open skin wounds or as a general skin cleanser",
+        "Do not use on patients with known allergies to chlorhexidine gluconate or any other ingredient in this product for lumbar puncture or in contact with the meninges on open skin wounds or as a general skin cleanser",
+        "Do not use on patients with known allergies to chlorhexidine gluconate or any other ingredient in this product for lumbar puncture or in contact with the meninges on open skin wounds or as a general skin cleanser"
+      ],
+      "when_using": [
+        "When using this product keep out of eyes, ears, and mouth. May cause serious or permanent injury if permitted to enter and remain. If contact occurs, rinse with cold water right away and contact a doctor. to avoid skin injury, care should be taken when removing drapes, tapes, etc. Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+        "When using this product keep out of eyes, ears, and mouth. May cause serious or permanent injury if permitted to enter and remain. If contact occurs, rinse with cold water right away and contact a doctor. to avoid skin injury, care should be taken when removing drapes, tapes, etc. Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+        "When using this product keep out of eyes, ears, and mouth. May cause serious or permanent injury if permitted to enter and remain. If contact occurs, rinse with cold water right away and contact a doctor. to avoid skin injury, care should be taken when removing drapes, tapes, etc. Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition.",
+        "Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition.",
+        "Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+        "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+        "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions (follow all directions for use) use with care in premature infants or infants under 2 months of age. These products may cause irritation or chemical burns. discard the applicator after a single use along with any portion of the solution not required to cover the prepped area. It is not necessary to use the entire amount available. Getting Patient Ready for Solution: use in well-ventilated area do not microwave or heat the solution applicator apply to clean, completely dry, residue-free, intact skin when hair removal is necessary, use a surgical clipper on the morning of the surgery. If a wet shave is used, thoroughly remove all soap residues. Activating the Applicator: remove applicator from package; do not touch sponge with sponge face parallel to the floor, press the cap end of the applicator. Solution will begin to flow into sponge. When Applying Solution: completely wet the treatment area with antiseptic dry surgical sites (e.g., abdomen or arm): use repeated back-and-forth strokes for 30 seconds moist surgical sites (e.g., inguinal fold): use repeated back-and-forth strokes for 2 minutes maximal treatment area for one applicator is approximately 13.2 in. x 21.6 in. (285.2 in 2 ). do not allow solution to pool ; tuck prep towels to absorb solution, and then remove clean umbilicus with enclosed swabs when applicable. (Moisten swabs by pressing against solution-soaked sponge applicator.) avoid getting solution into hairy areas. Wet hair is flammable . Hair may take up to 1 hour to dry. when prepping skin folds, toes, or fingers, use a sterile-gloved hand to hold skin apart until completely dry. After Applying Solution: to reduce the risk of fire, wait until solution is completely dry (minimum of 3 minutes on hairless skin; up to 1 hour in hair) While Waiting for Solution to Completely Dry: do not drape or use ignition source (e.g., cautery, laser) check for pooled solution. Use sterile gauze to soak up pooled solution. Do not blot because it may remove solution from skin. remove wet materials from prep area. Replace if necessary. After Solution is Completely Dry: to reduce the risk of fire, begin draping and/or using cautery only after solution is completely dry and all wet materials are removed if incise drapes are used, apply directly to dry prep apply dressing following standard practices",
+        "Directions (follow all directions for use) use with care in premature infants or infants under 2 months of age. These products may cause irritation or chemical burns. discard the applicator after a single use along with any portion of the solution not required to cover the prepped area. It is not necessary to use the entire amount available. Getting Patient Ready for Solution: use in well-ventilated area do not microwave or heat the solution applicator apply to clean, completely dry, residue-free, intact skin when hair removal is necessary, use a surgical clipper on the morning of the surgery. If a wet shave is used, thoroughly remove all soap residues. Activating the Applicator: remove applicator from package; do not touch sponge grasp products by wrapping hand and fingers around the labeled portion of the applicator. Place thumb on the lever with sponge face parallel to the floor, snap lever to allow fluid to flow into sponge. When Applying Solution: completely wet the treatment area with antiseptic dry surgical sites (e.g., abdomen or arm): use repeated back-and-forth strokes for 30 seconds moist surgical sites (e.g., inguinal fold): use repeated back-and-forth strokes for 2 minutes maximal treatment area for one applicator is approximately 8.4 in. x 15.6 in. (131.4 in 2 ). do not allow solution to pool ; tuck prep towels to absorb solution, and then remove avoid getting solution into hairy areas. Wet hair is flammable . Hair may take up to 1 hour to dry. when prepping skin folds, toes, or fingers, use a sterile-gloved hand to hold skin apart until completely dry. After Applying Solution: to reduce the risk of fire, wait until solution is completely dry (minimum of 3 minutes on hairless skin; up to 1 hour in hair) While Waiting for Solution to Completely Dry: do not drape or use ignition source (e.g., cautery, laser) check for pooled solution. Use sterile gauze to soak up pooled solution. Do not blot because it may remove solution from skin. remove wet materials from prep area. Replace if necessary. After Solution is Completely Dry: to reduce the risk of fire, begin draping and/or using cautery only after solution is completely dry and all wet materials are removed if incise drapes are used, apply directly to dry prep apply dressing following standard practices",
+        "Directions (follow all directions for use) use with care in premature infants or infants under 2 months of age. These products may cause irritation or chemical burns. discard the applicator after a single use along with any portion of the solution not required to cover the prepped area. It is not necessary to use the entire amount available. Getting Patient Ready for Solution: use in well-ventilated area do not microwave or heat the solution applicator apply to clean, completely dry, residue-free, intact skin when hair removal is necessary, use a surgical clipper on the morning of the surgery. If a wet shave is used, thoroughly remove all soap residues. Activating the Applicator: remove applicator from package; do not touch sponge grasp product by wrapping hand and fingers around the labeled portion of the applicator. Place thumb on the lever with sponge face parallel to the floor, snap lever to allow fluid to flow into sponge. When Applying Solution: completely wet the treatment area with antiseptic dry surgical sites (e.g., abdomen or arm): use repeated back-and-forth strokes for 30 seconds moist surgical sites (e.g., inguinal fold): use repeated back-and-forth strokes for 2 minutes maximal treatment area for one applicator is approximately 8.4 in. x 15.6 in. (131.4 in 2 ) do not allow solution to pool ; tuck prep towels to absorb solution, and then remove avoid getting solution into hairy areas. Wet hair is flammable . Hair may take up to 1 hour to dry. when prepping skin folds, toes, or fingers, use a sterile-gloved hand to hold skin apart until completely dry. After Applying Solution: to reduce the risk of fire, wait until solution is completely dry (minimum of 3 minutes on hairless skin; up to 1 hour in hair) While Waiting for Solution to Completely Dry: do not drape or use ignition source (e.g., cautery, laser) check for pooled solution. Use sterile gauze to soak up pooled solution. Do not blot because it may remove solution from skin. remove wet materials from prep area. Replace if necessary. After Solution is Completely Dry: to reduce the risk of fire, begin draping and/or using cautery only after solution is completely dry and all wet materials are removed if incise drapes are used, apply directly to dry prep apply dressing following standard practices"
+      ],
+      "other_safety_information": [
+        "Other information store between 15-30 °C (59-86 °F) avoid freezing and excessive heat above 40 °C (104 °F) The tint will slowly fade from the skin. For early removal of surgical prep use soap and water or 70% Isopropyl Alcohol.",
+        "Other information store between 15-30 °C (59-86 °F) avoid freezing and excessive heat above 40 °C (104 °F) The tint will slowly fade from the skin. For early removal of surgical prep use soap and water or 70% Isopropyl Alcohol.",
+        "Other information store between 15-30 °C (59-86 °F) avoid freezing and excessive heat above 40 °C (104 °F)"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients acetyltri-n-butyl citrate, FD&C blue #1, FD&C yellow #5, purified water USP, Trisodium HEDTA",
+        "Inactive ingredients acetyltri-n-butyl citrate, FD&C blue #1, FD&C yellow #5, purified water USP, Trisodium HEDTA",
+        "Inactive ingredients acetyltri-n-butyl citrate, purified water USP, Trisodium HEDTA"
+      ],
+      "questions": [
+        "Questions? call 1-800-228-3957 (Monday-Friday 7AM-6PM CST). www.3M.com/Medical 34-8727-1905-8",
+        "Questions? call 1-800-228-3957 (Monday-Friday 7AM-6PM CST). www.3M.com/Medical 34-8727-1906-6",
+        "Questions? call 1-800-228-3957 (Monday-Friday 7AM-6PM CST). www.3M.com/Medical 34-8727-1907-4"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel - 26mL Brite Green Applicator Label 3M NDC 17518-082-01 STERILE EO SoluPrep™ S chlorhexidine gluconate (2% w/v) and isopropyl alcohol (70% v/v) Patient Preoperative Skin Preparation REF 67130 for large prep areas below the neck Sterile Antiseptic Solution Applicator is sterile if package is intact Brite Green 0.9 fl oz • 26 mL Single Use Only PRESS CAP DOWN BACK AND FORTH APPLICATION External use only Professional use only Read Drug Facts information before use 34-8727-1931-4 3M and SoluPrep are trademarks of 3M. Principal Display Panel - 26mL Brite Green Applicator Label",
+        "Principal Display Panel - 26mL Brite Green Applicator Insert Label 3M STERILE EO NDC 17518-082-01 SoluPrep™ S chlorhexidine gluconate (2% w/v) and isopropyl alcohol (70% v/v) Patient Preoperative Skin Preparation for large prep areas below the neck Sterile Antiseptic Solution Applicator is sterile if package is intact Brite Green SoluPrep™ S Sterile Antiseptic Solution is a sterile patient preoperative skin preparation. Each unit dose applicator contains 0.9 fl oz (26 mL) of solution which covers a 13.2 in. x 21.6 in. area (approximate from shoulder to groin in an average full size adult). For procedures requiring less coverage, a smaller applicator is available (67133 - Tinted or 67134 - Clear). The smaller applicator size contains 0.36 fl oz (10.5 mL) of solution which covers an approximate 8.4 in. x 15.6 in. area. Do not use more than required for the area. 3M recommends all users participate in product in-service training prior to use. In-servicing is available on video, from your 3M sales representative or at the 3M website (www.3m.com). SoluPrep™ S Sterile Antiseptic Solution is an antimicrobial skin preparation. It is recommended that the prep remain on the skin after the procedure for continued protection. The prep will gradually wear away. If however early removal is desired, use soap and water or 70% isopropyl alcohol. REF 67130 0.9 fl oz • 26 mL Made in USA with Globally Sourced Materials 3M Company 2510 Conway Ave. St. Paul, MN 55144 USA 1-800-228-3957 www.3M.com/Medical Single Use Only 3M and SoluPrep are trademarks of 3M. @ 2022, 3M. All rights reserved. Not Made With Natural Rubber Latex 34-8727-1932-2 Principal Display Panel - 26mL Brite Green Applicator Insert Label",
+        "Principal Display Panel – 3M SoluPrep™ S 26mL Brite Green Applicator Pouch Label 3M REF 67130 NDC 17518-082-01 Single Use Only SoluPrep™ S chlorhexidine gluconate (2% w/v) and isopropyl alcohol (70% v/v) Patient Preoperative Skin Preparation for large prep areas below the neck Sterile Antiseptic Solution Applicator is sterile if package is intact 0.9 fl oz • 26 mL Brite Green Principal Display Panel – 3M SoluPrep™ S 26mL Brite Green Applicator Pouch Label",
+        "Principal Display Panel – 10.5mL Brite Green Applicator Label 3M NDC 17518-082-02 STERILE EO SoluPrep™ S chlorhexidine gluconate (2% w/v) and isopropyl alcohol (70% v/v) Patient Preoperative Skin Preparation REF 67133 for head, neck, and small prep areas Sterile Antiseptic Solution Applicator is sterile if package is intact Brite Green 0.36 fl oz • 10.5 mL Single Use Only 3M and SoluPrep are trademarks of 3M. SNAP BACK AND FORTH APPLICATION External use only Professional use only Read Drug Facts information before use 34-8727-1930-6 Principal Display Panel – 10.5mL Brite Green Applicator Label",
+        "Principal Display Panel – 10.5mL Brite Green Applicator Insert Label 3M STERILE EO NDC 17518-082-02 SoluPrep™ S chlorhexidine gluconate (2% w/v) and isopropyl alcohol (70% v/v) Patient Preoperative Skin Preparation for head, neck, and small prep areas Sterile Antiseptic Solution Applicator is sterile if package is intact Brite Green SoluPrep™ S Sterile Antiseptic Solution is a sterile patient preoperative skin preparation. Each unit dose applicator contains 0.36 fl oz (10.5 mL) of solution which covers a 8.4 in. x 15.6 in. area. 3M recommends all users participate in product in-service training prior to use. In-servicing is available on video, from your 3M sales representative or at the 3M website (www.3m.com). SoluPrep™ S Sterile Antiseptic Solution is an antimicrobial skin preparation. It is recommended that the prep remain on the skin after the procedure for continued protection. The prep will gradually wear away. If however early removal is desired, use soap and water or 70% isopropyl alcohol. REF 67133 0.36 fl oz • 10.5 mL Made in USA with Globally Sourced Materials 3M Company 2510 Conway Ave. St. Paul, MN 55144 USA 1-800-228-3957 www.3M.com/Medical 3M and SoluPrep are trademarks of 3M. @ 2022, 3M. All rights reserved. 34-8727-1933-0 Principal Display Panel – 10.5mL Brite Green Applicator Insert Label",
+        "Principal Display Panel – 3M SoluPrep™ S 10.5mL Brite Green Applicator Pouch Label 3M REF 67133 NDC 17518-082-02 Single Use Only SoluPrep™ S chlorhexidine gluconate (2% w/v) and isopropyl alcohol (70% v/v) Patient Preoperative Skin Preparation for head, neck, and small prep areas Sterile Antiseptic Solution Applicator is sterile if package is intact 0.36 fl oz • 10.5 mL Brite Green Principal Display Panel – 3M SoluPrep™ S 10.5mL Brite Green Applicator Pouch Label",
+        "Principal Display Panel – 10.5 mL Clear Applicator Label 3M NDC 17518-083-02 STERILE EO SoluPrep™ S chlorhexidine gluconate (2% w/v) and isopropyl alcohol (70% v/v) Patient Preoperative Skin Preparation REF 67134 for head, neck, and small prep areas Sterile Antiseptic Solution Applicator is sterile if package is intact Clear 0.36 fl oz • 10.5 mL SNAP BACK AND FORTH APPLICATION External use only Professional use only Read Drug Facts information before use Single Use Only 3M and SoluPrep are trademarks of 3M. 34-8727-1929-8 Principal Display Panel – 10.5 mL Clear Applicator Label",
+        "Principal Display Panel – 10.5mL Clear Insert Label 3M STERILE EO NDC 17518-083-02 SoluPrep™ S chlorhexidine gluconate (2% w/v) and isopropyl alcohol (70% v/v) Patient Preoperative Skin Preparation for head, neck, and small prep areas Sterile Antiseptic Solution Applicator is sterile if package is intact Clear Not Made With Natural Rubber Latex Single Use Only SoluPrep™ S Sterile Antiseptic Solution is a sterile patient preoperative skin preparation. Each unit dose applicator contains 0.36 fl oz (10.5 mL) of solution which covers a 8.4 in. x 15.6 in. area. 3M recommends all users participate in product in-service training prior to use. In-servicing is available on video, from your 3M sales representative or at the 3M website (www.3m.com). SoluPrep™ S Sterile Antiseptic Solution is an antimicrobial skin preparation. It is recommended that the prep remain on the skin after the procedure for continued protection. The prep will gradually wear away. If however early removal is desired, use soap and water or 70% isopropyl alcohol. REF 67134 0.36 fl oz • 10.5 mL Made in USA with Globally Sourced Materials 3M Company 2510 Conway Ave. St. Paul, MN 55144 USA 1-800-228-3957 www.3M.com/Medical 3M and SoluPrep are trademarks of 3M. @ 2022, 3M. All rights reserved. 34-8727-1934-8 Principal Display Panel – 10.5mL Clear Insert Label",
+        "Principal Display Panel – 3M SoluPrep™ S 10.5mL Clear Applicator Pouch Label 3M REF 67134 NDC 17518-083-02 Single Use Only SoluPrep™ S chlorhexidine gluconate (2% w/v) and isopropyl alcohol (70% v/v) Patient Preoperative Skin Preparation for head, neck, and small prep areas Sterile Antiseptic Solution Applicator is sterile if package is intact 0.36 fl oz • 10.5 mL Clear Principal Display Panel – 3M SoluPrep™ S 10.5mL Clear Applicator Pouch Label"
+      ],
+      "set_id": "084aa305-5863-441a-a94d-36bc1b05195a",
+      "id": "dc639f31-0e60-42dc-ab1c-e1f114c28a7a",
+      "effective_time": "20260423",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "NDA208288"
+        ],
+        "brand_name": [
+          "3M SoluPrep S"
+        ],
+        "generic_name": [
+          "CHLORHEXIDINE GLUCONATE AND ISOPROPYL ALCOHOL"
+        ],
+        "manufacturer_name": [
+          "Solventum US LLC"
+        ],
+        "product_ndc": [
+          "17518-082",
+          "17518-083"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "CHLORHEXIDINE GLUCONATE",
+          "ISOPROPYL ALCOHOL"
+        ],
+        "rxcui": [
+          "858726",
+          "2629724"
+        ],
+        "spl_id": [
+          "dc639f31-0e60-42dc-ab1c-e1f114c28a7a"
+        ],
+        "spl_set_id": [
+          "084aa305-5863-441a-a94d-36bc1b05195a"
+        ],
+        "package_ndc": [
+          "17518-082-01",
+          "17518-082-02",
+          "17518-083-02"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "ND2M416302",
+          "MOR84MUD8E"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Foster and Thrive Chlorhexidine Gluconate 4% WATER CHLORHEXIDINE GLUCONATE CHLORHEXIDINE ISOPROPYL ALCOHOL LAURAMINE OXIDE TRIDECYL ALCOHOL GLUCONOLACTONE PEG-75 LANOLIN COCO DIETHANOLAMIDE HYDROXYETHYL CELLULOSE (2000 CPS AT 1%)"
+      ],
+      "active_ingredient": [
+        "Active Ingredient Chlorhexidine Gluconate 4%"
+      ],
+      "purpose": [
+        "Purpose Antiseptic"
+      ],
+      "indications_and_usage": [
+        "Uses healthcare personnel handwash : helps reduce bacteria that potentially can cause disease skin wound and general skin cleansing"
+      ],
+      "warnings": [
+        "Warnings For external use only Allergy alert: This product may casue a severe allergic reaction. Symptoms may include: wheezing/difficulty breathing shock facial swelling hives rash If an allergic reaction occurs, stop use and seek medical help right away Do not use if you or the patient is allergic to chlorhexidine gluconate or any other ingredient in this product in contact with meninges in the gential area When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums. is solution should contact these areas, rinse out promptly and throughly with water wounds which involve more than the superfical layers of the skin should not be routinely treated repeated general skin cleansing of large body areas should not be done expect when advised by health care provider Stop use and ask a doctor if Stop use and ask a doctor if irritation , sensitization, or allergic reaction occurs. There may be signs of a serious condition Keep out of reach of children. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+      ],
+      "do_not_use": [
+        "Do not use if you or the patient is allergic to chlorhexidine gluconate or any other ingredient in this product in contact with meninges in the gential area"
+      ],
+      "when_using": [
+        "When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums. is solution should contact these areas, rinse out promptly and throughly with water wounds which involve more than the superfical layers of the skin should not be routinely treated repeated general skin cleansing of large body areas should not be done expect when advised by health care provider"
+      ],
+      "ask_doctor": [
+        "Stop use and ask a doctor if Stop use and ask a doctor if irritation , sensitization, or allergic reaction occurs. There may be signs of a serious condition"
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away"
+      ],
+      "dosage_and_administration": [
+        "Directions use with care in premature infants or infants under 2 months of age. These products may cause irritation or chemical burns. Healthcare personnel handwash: wet hands with water dispense about 5 mL of product into cupped hands and wash in vigorous manner for about 15 seconds rinse and dry throughly Skin wound and general skin cleansing: throughly rinse the area to be cleaned with water apply the minimum amount of product necessary to cover the skin or wound area and wash gently rinse again throughly"
+      ],
+      "storage_and_handling": [
+        "Other information store at 20-25ºC (68-77ºF) avoid excessive heat about 40ºC (104ºF)"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients cocamide DEA, fragrance, glucono-delta-lactone, hydroxyethylcellulose, isopropyl alcohol, lauramine oxide, PEG-75 lanolin, purified water, tridecyl alcohol"
+      ],
+      "questions": [
+        "Questions? 833-358-6431"
+      ],
+      "cleaning": [
+        "Laundering/Cleaning Instructions Chlorhexidine gluconate skin cleanser will cause stains if used with chlorine releasing products, such as chlorine bleach."
+      ],
+      "how_supplied": [
+        "Distribution Statement *This product is not manufactured or distributed by Molnlycke Healthcare, owner of Hibiclens® REV. 10/23 4FT08BTLLBL",
+        "Distribution Block + Claim ©2023 McKesson Corporation Distributed by : McKesson Corp., via SSSL, Memphis, TN 38141 Money Back Guarantee www.fosterandthrive.com"
+      ],
+      "warnings_and_cautions": [
+        "Prop 65 statement WARNING: Cancer - www.P65Warnings.co.giv"
+      ],
+      "package_label_principal_display_panel": [
+        "Principle Display Panel NDC 70677-1221-1 Compared to the Active Ingredient in Hibiclens® Foster & Thrive™ Antiseptic Skin Cleanser Chlorhexidine Gluconate 4% Solution Antiseptic Skin Cleanser Dye Free For External Use Only 8 FL OZ (237 mL) Foster & Thrive 8oz Label"
+      ],
+      "set_id": "08b60f82-01db-3451-e063-6294a90a2bdc",
+      "id": "46148b72-fd4d-a7f2-e063-6294a90a1934",
+      "effective_time": "20251216",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "NDA019125"
+        ],
+        "brand_name": [
+          "Foster and Thrive"
+        ],
+        "generic_name": [
+          "CHLORHEXIDINE GLUCONATE 4%"
+        ],
+        "manufacturer_name": [
+          "McKesson Corporation"
+        ],
+        "product_ndc": [
+          "70677-1221"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "CHLORHEXIDINE GLUCONATE"
+        ],
+        "rxcui": [
+          "211365"
+        ],
+        "spl_id": [
+          "46148b72-fd4d-a7f2-e063-6294a90a1934"
+        ],
+        "spl_set_id": [
+          "08b60f82-01db-3451-e063-6294a90a2bdc"
+        ],
+        "package_ndc": [
+          "70677-1221-1"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "MOR84MUD8E"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Acclean Chlorhexidine Gluconate 0.12% Oral Rinse Chlorhexidine Gluconate 0.12% Oral Rinse GLYCERIN PEG-40 SORBITAN DIISOSTEARATE ALCOHOL SACCHARIN SODIUM FD&C BLUE NO. 1 WATER CHLORHEXIDINE GLUCONATE CHLORHEXIDINE"
+      ],
+      "description": [
+        "ACCLEAN is an oral rinse containing 0.12% chlorhexidine gluconate (1,1’-hexamethylene bis [5-(p-chlorphenyl) biguanide]di-D-gluconate) in a base containing water, 11.6% alcohol, glycerin, PEG-40 sorbitan diisostearate, flavor, sodium saccharin and FD&C Blue No. 1. Chlorhexidine gluconate product is a near neutral solution (pH range 5-7). Chlorhexidine gluconate is a salt of chlorhexidine and gluconic acid. Its chemical structure is:"
+      ],
+      "clinical_pharmacology": [
+        "ACCLEAN chlorhexidine gluconate oral rinse provides antimicrobial activity during oral rinsing. The clinical significance of chlorhexidine gluconate oral rinse’s antimicrobial activities is not clear. Microbiological sampling of plaque has shown a general reduction of counts of certain assayed bacteria, both aerobic and anaerobic, ranging from 54–97% through six months use. Use of chlorhexidine gluconate oral rinse in a six month clinical study did not result in any significant changes in bacterial resistance, overgrowth of potentially opportunistic organisms or other adverse changes in the oral microbial ecosystem. Three months after chlorhexidine gluconate oral rinse use was discontinued, the number of bacteria in plaque had returned to baseline levels and resistance of plaque bacteria to chlorhexidine gluconate was equal to that at baseline. Pharmacokinetics: Pharmacokinetic studies with chlorhexidine gluconate oral rinse indicate approximately 30% of the active ingredient, chlorhexidine gluconate, is retained in the oral cavity following rinsing. This retained drug is slowly released into the oral fluids. Studies conducted on human subjects and animals demonstrate chlorhexidine gluconate is poorly absorbed from the gastrointestinal tract. The mean plasma level of chlorhexidine gluconate reached a peak of 0 . 206 mcg/g in humans 30 minutes after they ingested a 300-mg dose of the drug. Detectable levels of chlorhexidine gluconate were not present in the plasma of these subjects 12 hours after the compound was administered. Excretion of chlorhexidine gluconate occurred primarily through the feces (~90%). Less than 1% of the chlorhexidine gluconate ingested by these subjects was excreted in the urine."
+      ],
+      "indications_and_usage": [
+        "Chlorhexidine gluconate oral rinse is indicated for use between dental visits as part of a professional program for the treatment of gingivitis as characterized by redness and swelling of the gingivae, including gingival bleeding upon probing. Chlorhexidine gluconate oral rinse has not been tested among patients with acute necrotizing ulcerative gingivitis (ANUG). For patients having coexisting gingivitis and periodontitis, see PRECAUTIONS."
+      ],
+      "contraindications": [
+        "Chlorhexidine gluconate oral rinse should not be used by persons who are known to be hypersensitive to chlorhexidine gluconate or other formula ingredients."
+      ],
+      "warnings": [
+        "The effect of chlorhexidine gluconate oral rinse on periodontitis has not been determined. An increase in supragingival calculus was noted in clinical testing in chlorhexidine gluconate oral rinse users compared with control users. It is not known if chlorhexidine gluconate oral rinse use results in an increase in subgingival calculus. Calculus deposits should be removed by a dental prophylaxis at intervals not greater than six months. Anaphylaxis, as well as serious allergic reactions, have been reported during postmarketing use with dental products containing chlorhexidine. SEE CONTRAINDICATIONS."
+      ],
+      "precautions": [
+        "General: 1. For patients having coexisting gingivitis and periodontitis, the presence or absence of gingival inflammation following treatment with chlorhexidine gluconate oral rinse should not be used as a major indicator of underlying periodontitis. 2. Chlorhexidine gluconate oral rinse can cause staining of oral surfaces, such as tooth surfaces, restorations, and the dorsum of the tongue. Not all patients will experience a visually significant increase in toothstaining. In clinical testing, 56% of chlorhexidine gluconate oral rinse users exhibited a measurable increase in facial anterior stain, compared to 35% of control users after six months; 15% of chlorhexidine gluconate oral rinse users developed what was judged to be heavy stain, compared to 1% of control users after six months. Stain will be more pronounced in patients who have heavier accumulations of unremoved plaque. Stain resulting from use of chlorhexidine gluconate oral rinse does not adversely affect health of the gingivae or other oral tissues. Stain can be removed from most tooth surfaces by conventional professional prophylactic techniques. Additional time may be required to complete the prophylaxis. Discretion should be used when prescribing to patients with anterior facial restorations with rough surfaces or margins. If natural stain cannot be removed from these surfaces by a dental prophylaxis, patients should be excluded from chlorhexidine gluconate oral rinse treatment if permanent discoloration is unacceptable. Stain in these areas may be difficult to remove by dental prophylaxis and on rare occasions may necessitate replacement of these restorations. 3. Some patients may experience an alteration in taste perception while undergoing treatment with chlorhexidine gluconate oral rinse. Rare instances of permanent taste alteration following chlorhexidine gluconate oral rinse use have been reported via post-marketing product surveillance."
+      ],
+      "pregnancy": [
+        "Pregnancy: Teratogenic Effects Pregnancy Category B Reproduction studies have been performed in rats and rabbits at chlorhexidine gluconate doses up to 300 mg/kg/day and 40 mg/kg/day, respectively, and have not revealed evidence of harm to the fetus. However, adequate and well-controlled studies in pregnant women have not been done. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when chlorhexidine gluconate oral rinse is administered to nursing women. In parturition and lactation studies with rats, no evidence of impaired parturition or of toxic effects to suckling pups was observed when chlorhexidine gluconate was administered to dams at doses that were over 100 times greater than that which would result from a person's ingesting 30 ml of chlorhexidine gluconate oral rinse per day."
+      ],
+      "pediatric_use": [
+        "Clinical effectiveness and safety of chlorhexidine gluconate oral rinse have not been established in children under the age of 18."
+      ],
+      "adverse_reactions": [
+        "The most common side effects associated with chlorhexidine gluconate oral rinses are: 1) an increase in staining of teeth and other oral surfaces; 2) an increase in calculus formation; and 3) an alteration in taste perception; see WARNINGS and PRECAUTIONS. Oral irritation and local allergy-type symptoms have been spontaneously reported as side effects associated with the use of chlorhexidine gluconate rinse. The following oral mucosal side effects were reported during placebo-controlled adult clinical trials: aphthous ulcer, grossly obvious gingivitis, trauma, ulceration, erythema, desquamation, coated tongue, keratinization, geographic tongue, mucocele, and short frenum. Each occurred at a frequency of less than 1%. Among post marketing reports, the most frequently reported oral mucosal symptoms associated with chlorhexidine gluconate oral rinse are stomatitis, gingivitis, glossitis, ulcer, dry mouth, hypesthesia, glossal edema, and paresthesia. Minor irritation and superficial desquamation of the oral mucosa have been noted in patients using chlorhexidine gluconate oral rinse. There have been cases of parotid gland swelling and inflammation of the salivary glands (sialadenitis) reported in patients using chlorhexidine gluconate oral rinse."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "In a drinking water study in rats, carcinogenic effects were not observed at doses up to 38 mg/kg/day. Mutagenic effects were not observed in two mammalian in vivo mutagenesis studies with chlorhexidine gluconate. The highest doses of chlorhexidine used in a mouse dominant-lethal assay and a hamster cytogenetics test were 1000 mg/kg/day and 250 mg/kg/day, respectively. No evidence of impaired fertility was observed in rats at doses up to 100 mg/kg/day."
+      ],
+      "overdosage": [
+        "Ingestion of 1 or 2 ounces of chlorhexidine gluconate oral rinse by a small child (~10 kg body weight) might result in gastric distress, including nausea, or signs of alcohol intoxication. Medical attention should be sought if more than 4 ounces of chlorhexidine gluconate oral rinse is ingested by a small child or if signs of alcohol intoxication develop."
+      ],
+      "dosage_and_administration": [
+        "Chlorhexidine gluconate oral rinse therapy should be initiated directly following a dental prophylaxis. Patients using chlorhexidine gluconate oral rinse should be reevaluated and given a thorough prophylaxis at intervals no longer than six months. Recommended use is twice daily oral rinsing for 30 seconds, morning and evening after tooth brushing. Usual dosage is 15 ml (1 tablespoon) of undiluted chlorhexidine gluconate oral rinse. Patients should be instructed to not rinse with water, or other mouthwashes, brush teeth, or eat immediately after using chlorhexidine gluconate oral rinse. Chlorhexidine gluconate oral rinse is not intended for ingestion and should be expectorated after rinsing."
+      ],
+      "how_supplied": [
+        "Chlorhexidine gluconate oral rinse is supplied as a blue liquid in 4-ounce (118 ml) and 1-pint (473 ml) amber plastic bottles with child-resistant dispensing closures. Store at 20°C to 25°C (68°F-77°F), excursions permitted to 15°C to 30°C (59°F-86°F) [See USP controlled Room Temperature]. Rx Only Revised: December 2015 Distributed by (in US only): HENRY SCHEIN, INC 135 Duryea Road Melville, NY 11747 USA"
+      ],
+      "other_safety_information": [
+        "WHAT TO EXPECT WHEN USING CHLORHEXIDINE GLUCONATE ORAL RINSE Your dentist has prescribed ACCLEAN chlorhexidine gluconate oral rinse to treat your gingivitis, to help reduce the redness and swelling of your gums, and also to help you control any gum bleeding. Use chlorhexidine gluconate oral rinse regularly, as directed by your dentist, in addition to daily brushing. Spit out after use, chlorhexidine gluconate oral rinse should not be swallowed. If you develop allergic symptoms such as skin rash, itch, generalized swelling, breathing difficulties, light headedness, rapid heart rate, upset stomach or diarrhea, seek medical attention immediately. Chlorhexidine gluconate oral rinse should not be used by persons who have a sensitivity to it or its components. Chlorhexidine gluconate oral rinse may cause some tooth discoloration, or increase in tartar (calculus) formation, particularly in areas where stain and tartar usually form. It is important to see your dentist for removal of any stain or tartar at least every six months or more frequently if your dentist advises. Both stain and tartar can be removed by your dentist or hygienist. Chlorhexidine gluconate oral rinse may cause permanent discoloration of some front-tooth fillings. To minimize discoloration, you should brush and floss daily, emphasizing areas which begin to discolor. Chlorhexidine gluconate oral rinse may taste bitter to some patients and can affect how food and beverages taste. This will become less noticeable in most cases with continued use of chlorhexidine gluconate oral rinse. To avoid taste interference, rinse with chlorhexidine gluconate oral rinse after meals. Do not rinse with water or other mouthwashes immediately after rinsing with chlorhexidine gluconate oral rinse. If you have any questions or comments about chlorhexidine gluconate oral rinse, contact your dentist or pharmacist. Call your health care provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. STORE at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP controlled Room Temperature]."
+      ],
+      "package_label_principal_display_panel": [
+        "NDC 0404-6720-04 HENRY SCHEIN ® ACCLEAN® CHLORHEXIDINE GLUCONATE 0.12% ORAL RINSE, USP Mint Flavored REF 112-6720 DIRECTIONS FOR USE: Swish one tablespoon (15ml) in mouth undiluted for 30 seconds, then spit out. Use after breakfast and before bedtime. Or, use as prescribed. NOTE: to minimize medicinal taste, do not rinse with water immediately after use. KEEP OUT OF REACH OF CHILDREN Made in the US Rx Only 4 oz. (118 ml) INGREDIENTS: 0.12% chlorhexidine gluconate in a base containing water, 11.6% alcohol, glycerin, PEG-40 sorbitan diisostearate, flavor, sodium saccharin, and FD&C Blue No.1. To open, press down while turning cap. To reseal, turn cap past \"clicks\" until tightly locked. HS04 PDP HS04 p1 HS04 p2 HS04 p3 HS04 p4 HS04 p5 HS04 p6 HS04 p7"
+      ],
+      "set_id": "08c9d3dd-717b-0148-e054-00144ff8d46c",
+      "id": "509feb05-3fb5-e988-e063-6294a90a9b7b",
+      "effective_time": "20260429",
+      "version": "14",
+      "openfda": {
+        "application_number": [
+          "ANDA077789"
+        ],
+        "brand_name": [
+          "Acclean Chlorhexidine Gluconate 0.12% Oral Rinse"
+        ],
+        "generic_name": [
+          "CHLORHEXIDINE GLUCONATE 0.12% ORAL RINSE"
+        ],
+        "manufacturer_name": [
+          "Henry Schein, Inc."
+        ],
+        "product_ndc": [
+          "0404-6720"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CHLORHEXIDINE GLUCONATE"
+        ],
+        "rxcui": [
+          "834127"
+        ],
+        "spl_id": [
+          "509feb05-3fb5-e988-e063-6294a90a9b7b"
+        ],
+        "spl_set_id": [
+          "08c9d3dd-717b-0148-e054-00144ff8d46c"
+        ],
+        "package_ndc": [
+          "0404-6720-04"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "MOR84MUD8E"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Dyna-Hex 4 Chlorhexidine Gluconate PEG-75 LANOLIN ISOPROPYL ALCOHOL GLUCONOLACTONE WATER CHLORHEXIDINE GLUCONATE CHLORHEXIDINE LAURAMINE OXIDE TRIDECYL ALCOHOL COCO DIETHANOLAMIDE"
+      ],
+      "active_ingredient": [
+        "Active ingredient Chlorhexidine gluconate 4% solution"
+      ],
+      "purpose": [
+        "Purpose Antiseptic"
+      ],
+      "indications_and_usage": [
+        "Uses  surgical hand scrub: significantly reduces the number of microorganisms on the hands and forearms prior to surgery or patient care  healthcare personnel handwash: helps reduce bacteria that potentially can cause disease"
+      ],
+      "warnings": [
+        "Warnings For external use only Allergy alert: This product may cause a severe allergic reaction. Symptoms may include:  wheezing/difficulty breathing  shock  facial swelling  hives  rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use if you or the patient are allergic to chlorhexidine gluconate or any other ingredient in this product When using this product  keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums.  if solution should contact these areas, rinse out promptly and thoroughly with water  wounds which involve more than the superficial layers of the skin should not be routinely treated Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "do_not_use": [
+        "Do not use if you or the patient are allergic to chlorhexidine gluconate or any other ingredient in this product"
+      ],
+      "when_using": [
+        "When using this product  keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums.  if solution should contact these areas, rinse out promptly and thoroughly with water  wounds which involve more than the superficial layers of the skin should not be routinely treated"
+      ],
+      "ask_doctor": [
+        "Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions  use with care in premature infants or infants under 2 months of age. These products may cause irritation or chemical burns. Surgical hand scrub:  wet hands and forearms with water  scrub for 3 minutes with about 2.0 cubic inches of product and a wet brush, paying close attention to the nails, cuticles, and interdigital spaces  a separate nail cleaner may be used  rinse thoroughly  scrub for an additional 3 minutes with 2.0 cubic inches of product and rinse under running water  dry thoroughly Healthcare personnel handwash:  wet hands with water  dispense about 1.5 cubic inches of product into cupped hands and wash in a vigorous manner for 15 seconds  rinse and dry thoroughly"
+      ],
+      "storage_and_handling": [
+        "Other Information  store at 20-25°C (68-77°F)  avoid excessive heat above 40°C (104°F)"
+      ],
+      "inactive_ingredient": [
+        "cocamide DEA, fragrance, glucono-delta-lactone, isopropyl alcohol, lauramine oxide, PEG-75 lanolin, purified water, tridecyl alcohol."
+      ],
+      "questions": [
+        "Questions or comments? call 1-800-587-3721 Monday through Friday 8:00 AM to 4:30 PM CST"
+      ],
+      "other_safety_information": [
+        "To Install: Remove bottle cap and apply dispensing cap. Slide dispenser into bracket, inserting the open air inlet onto proper receptacle Container is single use only. Discard when empty."
+      ],
+      "cleaning": [
+        "Laundering/Cleaning Instructions: Chlorhexidine gluconate skin cleansers will cause stains if used with chlorine releasing products, such as chlorine bleach. Rinse completely and use only non-chlorine detergents."
+      ],
+      "package_label_principal_display_panel": [
+        "Principle Display Panel NDC 0116-1060-32 DYNA-HEX 4® Chlorhexidine Gluconate 4% Solution Antiseptic Contains: 4% Chlorhexidine Gluconate Distributed By: Xttrium Laboratories, Inc. Mount Prospect, IL 60056 CHLORHEXIDINE GLUCONATE Net Contents: 32 fl oz (1 qt) (946 mL) 4DYN32RNDLBL NDC 0116-1060-33 DYNA-HEX 4® Chlorhexidine Gluconate 4% Solution Antiseptic Contains: 4% Chlorhexidine Gluconate Distributed By: Xttrium Laboratories, Inc. Mount Prospect, IL 60056 CHLORHEXIDINE GLUCONATE Net Contents: 32 fl oz (1 qt) (946 mL) 4DYN32SQLBL Dyna-Hex 32oz RND 32oz Dyna-Hex 4 SQ"
+      ],
+      "set_id": "0a32c299-f7ca-d15c-e063-6294a90af2c1",
+      "id": "50b0c122-cb50-3a71-e063-6294a90a5497",
+      "effective_time": "20260430",
+      "version": "4",
+      "openfda": {
+        "application_number": [
+          "NDA019127"
+        ],
+        "brand_name": [
+          "Dyna-Hex 4"
+        ],
+        "generic_name": [
+          "CHLORHEXIDINE GLUCONATE"
+        ],
+        "manufacturer_name": [
+          "Xttrium Laboratories, Inc."
+        ],
+        "product_ndc": [
+          "0116-1060"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "CHLORHEXIDINE GLUCONATE"
+        ],
+        "rxcui": [
+          "211365",
+          "834162"
+        ],
+        "spl_id": [
+          "50b0c122-cb50-3a71-e063-6294a90a5497"
+        ],
+        "spl_set_id": [
+          "0a32c299-f7ca-d15c-e063-6294a90af2c1"
+        ],
+        "package_ndc": [
+          "0116-1060-32",
+          "0116-1060-33"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0301161060330"
+        ],
+        "unii": [
+          "MOR84MUD8E"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Dyna-Hex 2 Chlorhexidine Gluconate 2% CITRIC ACID MONOHYDRATE HYDROXYETHYL CELLULOSE (2000 MPA.S AT 1%) CHLORHEXIDINE GLUCONATE CHLORHEXIDINE COCO DIETHANOLAMIDE ISOPROPYL ALCOHOL WATER LAURAMINE OXIDE"
+      ],
+      "active_ingredient": [
+        "Active Ingredient Chlorhexidine gluconate 2% solution"
+      ],
+      "purpose": [
+        "Purpose Antiseptic"
+      ],
+      "indications_and_usage": [
+        "Uses surgical hand scrub: significantly reduces the number of microorganisms on the hands and forearms prior to surgery or patient care healthcare personnel handwash: helps reduce bacteria that potentially can cause disease"
+      ],
+      "warnings": [
+        "For external use only Allergy alert: This product may cause a severe allergic reaction. Symptoms may include:  wheezing/difficulty breathing  shock  facial swelling  hives  rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use if you or the patient are allergic to chlorhexidine gluconate or any other ingredient in this product When using this product  keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums.  if solution should contact these areas, rinse out promptly and thoroughly with water  wounds which involve more than the superficial layers of the skin should not be routinely treated Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "do_not_use": [
+        "Do not use if you or the patient are allergic to chlorhexidine gluconate or any other ingredient in this product"
+      ],
+      "when_using": [
+        "When using this product  keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums.  if solution should contact these areas, rinse out promptly and thoroughly with water  wounds which involve more than the superficial layers of the skin should not be routinely treated"
+      ],
+      "ask_doctor": [
+        "Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions use with care in premature infants or infants under 2 months of age. These products may cause irritation or chemical burns. Surgical hand scrub:  wet hands and forearms with water  scrub for 3 minutes with 5 mL of solution (4 full strokes) and a wet brush, paying close attention to the nails, cuticles and interdigital spaces  a separate nail cleaner may be used  rinse thoroughly  wash for an additional 3 minutes with 5 mL of solution (4 full strokes) and rinse under running water  dry thoroughly Healthcare personnel handwash:  wet hands with water  dispense 5 mL of solution (4 full strokes) into cupped hands and wash in a vigorous manner for 15 seconds  rinse and dry thoroughly"
+      ],
+      "other_safety_information": [
+        "Other information  store at 20-25°C (68-77°F)  avoid excessive heat above 40°C (104°F)"
+      ],
+      "inactive_ingredient": [
+        "citric acid, cocamide DEA, hydroxyethylcellulose, isopropyl alcohol, lauramine oxide, purified water"
+      ],
+      "questions": [
+        "Questions or comments? Questions or comments? call 1-800-587-3721 Monday through Friday 8:00 AM to 4:30 PM CST"
+      ],
+      "cleaning": [
+        "Laundering/Cleaning Instructions: Chlorhexidine gluconate skin cleansers will cause stains if used with chlorine releasing products, such as chlorine bleach. Rinse completely and use only non-chlorine detergents."
+      ],
+      "package_label_principal_display_panel": [
+        "NDC 0116-1022-32 DYNA-HEX 2® Chlorhexidine Gluconate 2% Solution Antiseptic Contains: 2% Chlorhexidine Gluconate Distributed By: Xttrium Laboratories, Inc. Mount Prospect, IL 60056 CHLORHEXIDINE GLUCONATE Net Contents: 32 fl oz (1 qt) (946 mL) 2DYN32SQLBL Dyna-Hex 2 Square Bottle"
+      ],
+      "set_id": "0c808ebd-1bf7-175d-e063-6294a90ae7df",
+      "id": "3400ba9f-d027-b3f7-e063-6394a90ac53a",
+      "effective_time": "20250430",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "NDA019422"
+        ],
+        "brand_name": [
+          "Dyna-Hex 2"
+        ],
+        "generic_name": [
+          "CHLORHEXIDINE GLUCONATE 2%"
+        ],
+        "manufacturer_name": [
+          "Xttrium Laboratories, Inc."
+        ],
+        "product_ndc": [
+          "0116-1022"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "CHLORHEXIDINE GLUCONATE"
+        ],
+        "rxcui": [
+          "834160",
+          "1245230"
+        ],
+        "spl_id": [
+          "3400ba9f-d027-b3f7-e063-6394a90ac53a"
+        ],
+        "spl_set_id": [
+          "0c808ebd-1bf7-175d-e063-6294a90ae7df"
+        ],
+        "package_ndc": [
+          "0116-1022-32"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "MOR84MUD8E"
+        ]
+      }
+    }
+  ]
+}

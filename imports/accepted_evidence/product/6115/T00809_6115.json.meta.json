@@ -1,0 +1,14 @@
+{
+  "source_id": "6115",
+  "task_id": "T00809",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Azycin%20250%20mg%20%28GPO%29&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/6115/T00809_6115.json",
+  "sha256": "a31b4e5bd731bbbcf167b6cdb4c51135986d06792df3703083c4316b8827e9a8",
+  "downloaded_at": "2026-05-16T03:35:29.923617+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:7:6115",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

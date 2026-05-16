@@ -1,0 +1,14 @@
+{
+  "source_id": "8031",
+  "task_id": "T07253",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Diphenhydramine+%2BCalamine+%2BZinc+Oxide+%2F",
+  "local_path": "imports/accepted_evidence/product/8031/T07253_8031.cfm",
+  "sha256": "7646202c712e4950a6cc7230b36801e1be83639c8b2bd40152e1c3d2234eb4e3",
+  "downloaded_at": "2026-05-16T03:51:33.734276+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:860:8031",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

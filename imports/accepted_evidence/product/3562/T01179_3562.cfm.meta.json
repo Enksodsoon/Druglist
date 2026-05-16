@@ -1,0 +1,14 @@
+{
+  "source_id": "3562",
+  "task_id": "T01179",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Chlorpheniramine+maleate+%2BPhenylephrine",
+  "local_path": "imports/accepted_evidence/product/3562/T01179_3562.cfm",
+  "sha256": "409014eea033555099639512cbb44fce7bd9eb37d3d37330f2e58505c260953d",
+  "downloaded_at": "2026-05-16T03:36:19.363366+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:59:3562",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

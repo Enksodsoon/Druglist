@@ -1,0 +1,14 @@
+{
+  "source_id": "3645",
+  "task_id": "T02781",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Salbutamol%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3645/T02781_3645.json",
+  "sha256": "9297834a92ce6f723d39ca70f45aae76074746470ed323ec02f984bcd0fbc7ec",
+  "downloaded_at": "2026-05-16T03:40:16.319671+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:275:3645|Product_Label_Links:276:3589",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

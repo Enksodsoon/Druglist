@@ -1,0 +1,14 @@
+{
+  "source_id": "8241",
+  "task_id": "T01111",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Cyproheptadine%20HCI&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8241/T01111_8241.json",
+  "sha256": "4e9c33f47e8240c2c476083227d4ebbdc8fc5ceb37bf37c458928ec9787c1db4",
+  "downloaded_at": "2026-05-16T03:36:10.308121+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:49:8241",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

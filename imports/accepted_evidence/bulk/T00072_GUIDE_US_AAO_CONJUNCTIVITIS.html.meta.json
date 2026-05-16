@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_US_AAO_CONJUNCTIVITIS",
+  "task_id": "T00072",
+  "source_url": "https://www.guidelinecentral.com/guideline/10107/",
+  "local_path": "imports/accepted_evidence/bulk/T00072_GUIDE_US_AAO_CONJUNCTIVITIS.html",
+  "sha256": "484c80cf4872b8b0f6b007ac9ead0fe970dbf7ba912a54a1c9eb83489a09d733",
+  "downloaded_at": "2026-05-16T03:33:52.623179+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:33:GUIDE_US_AAO_CONJUNCTIVITIS|Disease_Download_Map:33:allergic_conjunctivitis_adult|Disease_Download_Map:93:bacterial_conjunctivitis_adult|Disease_Download_Map:94:bacterial_conjunctivitis_peds|Disease_Download_Map:95:bacterial_eyelid_infection_adult|Disease_Download_Map:96:bacterial_eyelid_infection_peds|Disease_Download_Map:109:topical_eye_antibiotic_support_adult",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

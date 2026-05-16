@@ -1,0 +1,14 @@
+{
+  "source_id": "3777",
+  "task_id": "T03553",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Throatsil%20%E0%B8%A3%E0%B8%AA%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87%E0%B8%A1%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%A7%20%E0%B8%8B%E0%B8%AD%E0%B8%87%208s&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3777/T03553_3777.json",
+  "sha256": "22e04aae923d9388c6665ea276bd4a2767737549ca89d43ecdc1d66783b7f0a8",
+  "downloaded_at": "2026-05-16T03:42:13.181510+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:378:3777",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

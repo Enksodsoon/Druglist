@@ -1,0 +1,14 @@
+{
+  "source_id": "1103",
+  "task_id": "T00776",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Amoxicillin%20%2BClavulanic%20Acid&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1103/T00776_1103.json",
+  "sha256": "1baf28e3c07325f621be6ecd9a7cff0f99848ac5a514df603d6b464d09e1de2e",
+  "downloaded_at": "2026-05-16T03:35:25.912172+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:3:1103|Product_Label_Links:4:1035|Product_Label_Links:9:1545",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

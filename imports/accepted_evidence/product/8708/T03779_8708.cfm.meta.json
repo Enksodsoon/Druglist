@@ -1,0 +1,14 @@
+{
+  "source_id": "8708",
+  "task_id": "T03779",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tri-Be-Sian",
+  "local_path": "imports/accepted_evidence/product/8708/T03779_8708.cfm",
+  "sha256": "1b6919db746b549a76b249761a4e377c2512646432bca4b5be257f18db20cc10",
+  "downloaded_at": "2026-05-16T03:42:48.073220+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:408:8708",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3029",
+  "task_id": "T06355",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Opsa-His",
+  "local_path": "imports/accepted_evidence/product/3029/T06355_3029.html",
+  "sha256": "74bdb24ae2c29fda4a2a460f22f18cb249dbaad0fec700933548fcd363d234f3",
+  "downloaded_at": "2026-05-16T03:49:17.993726+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:751:3029",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

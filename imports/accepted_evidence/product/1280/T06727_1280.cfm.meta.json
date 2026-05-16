@@ -1,0 +1,14 @@
+{
+  "source_id": "1280",
+  "task_id": "T06727",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betadine+Ointment",
+  "local_path": "imports/accepted_evidence/product/1280/T06727_1280.cfm",
+  "sha256": "265f300ef21a5521f32c23c4b2ffae0b91983ac8561dd99476868ece965437fe",
+  "downloaded_at": "2026-05-16T03:50:14.559833+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:794:1280",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

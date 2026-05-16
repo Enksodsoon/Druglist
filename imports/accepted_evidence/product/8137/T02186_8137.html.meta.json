@@ -1,0 +1,14 @@
+{
+  "source_id": "8137",
+  "task_id": "T02186",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Poro+Suspension",
+  "local_path": "imports/accepted_evidence/product/8137/T02186_8137.html",
+  "sha256": "f1a9d15bf376fb6b548e532d24cc0c5a53adcea7bec1cdf1d379f4563ea66883",
+  "downloaded_at": "2026-05-16T03:38:47.908904+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:191:8137",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

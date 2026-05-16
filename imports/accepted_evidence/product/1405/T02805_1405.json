@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Cafergot ergotamine tartrate and caffeine CELLULOSE, MICROCRYSTALLINE CROSPOVIDONE FD&C BLUE NO. 2 FD&C RED NO. 40 FD&C YELLOW NO. 5 MAGNESIUM STEARATE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL SILICON DIOXIDE TALC TITANIUM DIOXIDE WATER ERGOTAMINE TARTRATE ERGOTAMINE CAFFEINE CAFFEINE BEIGE 123;MH"
+      ],
+      "boxed_warning": [
+        "WARNING Serious and/or life-threatening peripheral ischemia has been associated with the coadministration of ergotamine tartrate and caffeine tablets with potent CYP 3A4 inhibitors including protease inhibitors and macrolide antibiotics. Because CYP 3A4 inhibition elevates the serum levels of ergotamine tartrate and caffeine tablets, the risk for vasospasm leading to cerebral ischemia and/or ischemia of the extremities is increased. Hence, concomitant use of these medications is contraindicated (see also CONTRAINDICATIONS and WARNINGS sections)."
+      ],
+      "description": [
+        "DESCRIPTION Each tablet for oral administration contains 1 mg ergotamine tartrate, USP, and 100 mg caffeine, USP. ERGOTAMINE TARTRATE: (C 33 H 35 N 5 O 5 ) 2 • C 4 H 6 O 6 M.W. 1313.41 Ergotaman-3’,6’,18-trione, 12’-hydroxy-2’-methyl-5’-(phenyl-methyl)-, (5’α), [R-(R*, R*)]-2,3-dihydroxy-butanedioate (2:1) (salt) CAFFEINE: C 8 H 10 N 4 O 2 (anhydrous) M.W. 194.19 1 H -Purine-2,6-dione, 3,7-dihydro-1,3,7-trimethyl- Inactive ingredients include colloidal silicon dioxide, crospovidone, magnesium stearate, and microcrystalline cellulose. Film coating includes the following ingredients: macrogol/PEG 3350, polyvinyl alcohol, purified water, talc, titanium dioxide, FD&C blue #2 aluminum lake, FD&C red #40 aluminum lake, and FD&C yellow #5 tartrazine aluminum lake. structure1 structure2"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Ergotamine is an alpha adrenergic blocking agent with a direct stimulating effect on the smooth muscle of peripheral and cranial blood vessels and produces depression of central vasomotor centers. The compound also has the properties of serotonin antagonism. In comparison to hydrogenated ergotamine, the adrenergic blocking actions are less pronounced and vasoconstrictive actions are greater. Caffeine, also a cranial vasoconstrictor, is added to further enhance the vasoconstrictive effect without the necessity of increasing ergotamine dosage. Many migraine patients experience excessive nausea and vomiting during attacks, making it impossible for them to retain any oral medication. In such cases, therefore, the only practical means of medication is through the rectal route where medication may reach the cranial vessels directly, evading the splanchnic vasculature and the liver. Pharmacokinetics Interactions : Pharmacokinetic interactions (increased blood levels of ergotamine) have been reported in patients treated orally with ergotamine and macrolide antibiotics (e.g., troleandomycin, clarithromycin, erythromycin), and in patients treated orally with ergotamine and protease inhibitors (e.g. ritonavir) presumably due to inhibition of cytochrome P450 3A metabolism of ergotamine (see CONTRAINDICATIONS ). Ergotamine has also been shown to be an inhibitor of cytochrome P450 3A catalyzed reactions. No pharmacokinetic interactions involving other cytochrome P450 isoenzymes are known."
+      ],
+      "pharmacokinetics": [
+        "Pharmacokinetics Interactions : Pharmacokinetic interactions (increased blood levels of ergotamine) have been reported in patients treated orally with ergotamine and macrolide antibiotics (e.g., troleandomycin, clarithromycin, erythromycin), and in patients treated orally with ergotamine and protease inhibitors (e.g. ritonavir) presumably due to inhibition of cytochrome P450 3A metabolism of ergotamine (see CONTRAINDICATIONS ). Ergotamine has also been shown to be an inhibitor of cytochrome P450 3A catalyzed reactions. No pharmacokinetic interactions involving other cytochrome P450 isoenzymes are known."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Ergotamine tartrate and caffeine tablets are indicated as therapy to abort or prevent vascular headache; e.g., migraine, migraine variants or so-called “histaminic cephalalgia.”"
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Coadministration of ergotamine with potent CYP 3A4 inhibitors (ritonavir, nelfinavir, indinavir, erythromycin, clarithromycin, and troleandomycin) has been associated with acute ergot toxicity (ergotism) characterized by vasospasm and ischemia of the extremities (see PRECAUTIONS : Drug Interactions ), with some cases resulting in amputation. There have been rare reports of cerebral ischemia in patients on protease inhibitor therapy when ergotamine tartrate and caffeine tablets was coadministered, at least one resulting in death. Because of the increased risk of ergotism and other serious vasospastic adverse events, ergotamine use is contraindicated with these drugs and other potent inhibitors of CYP 3A4 (e.g., ketoconazole, itraconazole) (see WARNINGS : CYP 3A4 Inhibitors ). Ergotamine tartrate and caffeine tablets may cause fetal harm when administered to pregnant women. Ergotamine tartrate and caffeine tablets is contraindicated in women who are or may become pregnant. If this drug is used during pregnancy or if the patient becomes pregnant while taking this product, the patient should be apprised of the potential hazard to the fetus. Peripheral vascular disease, coronary heart disease, hypertension, impaired hepatic or renal function and sepsis. Hypersensitivity to any of the components."
+      ],
+      "warnings": [
+        "WARNINGS - CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors) Coadministration of ergotamine with potent CYP 3A4 inhibitors such as protease inhibitors or macrolide antibiotics has been associated with serious adverse events; for this reason, these drugs should not be given concomitantly with ergotamine (See CONTRAINDICATIONS ) . While these reactions have not been reported with less potent CYP 3A4 inhibitors, there is a potential risk for serious toxicity including vasospasm when these drugs are used with ergotamine. Examples of less potent CYP 3A4 inhibitors include: saquinavir, nefazodone, fluconazole, fluoxetine, grapefruit juice, fluvoxamine, zileuton, metronidazole, and clotrimazole. These lists are not exhaustive, and the prescriber should consider the effects on CYP 3A4 of other agents being considered for concomitant use with ergotamine. Fibrotic Complications There have been a few reports of patients on ergotamine tartrate and caffeine therapy developing retroperitoneal and/or pleuropulmonary fibrosis. There have also been rare reports of fibrotic thickening of the aortic, mitral, tricuspid, and/or pulmonary valves with long-term continuous use of ergotamine tartrate and caffeine. Ergotamine tartrate and caffeine tablets should not be used for chronic daily administration (see DOSAGE AND ADMINISTRATION )."
+      ],
+      "precautions": [
+        "PRECAUTIONS This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons. Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity. General Although signs and symptoms of ergotism rarely develop even after long-term intermittent use of the orally administered drug, care should be exercised to remain within the limits of recommended dosage. Ergotism is manifested by intense arterial vasoconstriction, producing signs and symptoms of peripheral vascular ischemia. Ergotamine induces vasoconstriction by a direct action on vascular smooth muscle. In chronic intoxication with ergot derivatives, headache, intermittent claudication, muscle pains, numbness, coldness, and pallor of the digits may occur. If the condition is allowed to progress untreated, gangrene can result. While most cases of ergotism associated with ergotamine treatment result from frank overdosage, some cases have involved apparent hypersensitivity. There are few reports of ergotism among patients taking doses within the recommended limits or for brief periods of time. In rare instances, patients, particularly those who have used the medication indiscriminately over long periods of time, may display withdrawal symptoms consisting of rebound headache upon discontinuation of the drug. Information for Patients Patients should be advised that two tablets of ergotamine tartrate and caffeine tablets should be taken at the first sign of a migraine headache. No more than 6 tablets should be taken for any single migraine attack. No more than 10 tablets should be taken during any 7-day period. Administration of ergotamine tartrate and caffeine tablets should not exceed the dosing guidelines and should not be used for chronic daily administration (see DOSAGE AND ADMINISTRATION ). Ergotamine tartrate and caffeine tablets should be used only for migraine headaches. It is not effective for other types of headaches and it lacks analgesic properties. Patients should be advised to report to the physician immediately any of the following: numbness or tingling in the fingers and toes, muscle pain in the arms and legs, weakness in the legs, pain in the chest or temporary speeding or slowing of the heart rate, swelling or itching. Drug Interactions - CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors) See CONTRAINDICATIONS and WARNINGS . Ergotamine tartrate and caffeine tablets should not be administered with other vasoconstrictors. Use with sympathomimetics (pressor agents) may cause extreme elevation of blood pressure. The beta-blocker Inderal (propranolol) has been reported to potentiate the vasoconstrictive action of ergotamine tartrate and caffeine tablets by blocking the vasodilating property of epinephrine. Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy. The blood levels of ergotamine-containing drugs are reported to be elevated by the concomitant administration of macrolide antibiotics and vasospastic reactions have been reported with therapeutic doses of the ergotamine-containing drugs when coadministered with these antibiotics. Pregnancy - Teratogenic Effects - Pregnancy Category X There are no studies on the placental transfer or teratogenicity of the combined products of ergotamine tartrate and caffeine tablets. Caffeine is known to cross the placenta and has been shown to be teratogenic in animals. Ergotamine crosses the placenta in small amounts, although it does not appear to be embryotoxic in this quantity. However, prolonged vasoconstriction of the uterine vessels and/or increased myometrial tone leading to reduced myometrial and placental blood flow may have contributed to fetal growth retardation observed in animals (see CONTRAINDICATIONS ). Nonteratogenic Effects Ergotamine tartrate and caffeine tablets is contraindicated in pregnancy due to the oxytocic effects of ergotamine (see CONTRAINDICATIONS ). Labor and Delivery Ergotamine tartrate and caffeine tablets is contraindicated in labor and delivery due to its oxytocic effect which is maximal in the third trimester (see CONTRAINDICATIONS ) Nursing Mothers Ergot drugs are known to inhibit prolactin but there are no reports of decreased lactation with ergotamine tartrate and caffeine. Ergotamine is excreted in breast milk and may cause symptoms of vomiting, diarrhea, weak pulse and unstable blood pressure in nursing infants. Because of the potential for serious adverse reactions in nursing infants from ergotamine tartrate and caffeine tablets, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother. Pediatric Use Safety and effectiveness in pediatric patients have not been established."
+      ],
+      "general_precautions": [
+        "General Although signs and symptoms of ergotism rarely develop even after long-term intermittent use of the orally administered drug, care should be exercised to remain within the limits of recommended dosage. Ergotism is manifested by intense arterial vasoconstriction, producing signs and symptoms of peripheral vascular ischemia. Ergotamine induces vasoconstriction by a direct action on vascular smooth muscle. In chronic intoxication with ergot derivatives, headache, intermittent claudication, muscle pains, numbness, coldness, and pallor of the digits may occur. If the condition is allowed to progress untreated, gangrene can result. While most cases of ergotism associated with ergotamine treatment result from frank overdosage, some cases have involved apparent hypersensitivity. There are few reports of ergotism among patients taking doses within the recommended limits or for brief periods of time. In rare instances, patients, particularly those who have used the medication indiscriminately over long periods of time, may display withdrawal symptoms consisting of rebound headache upon discontinuation of the drug."
+      ],
+      "information_for_patients": [
+        "Information for Patients Patients should be advised that two tablets of ergotamine tartrate and caffeine tablets should be taken at the first sign of a migraine headache. No more than 6 tablets should be taken for any single migraine attack. No more than 10 tablets should be taken during any 7-day period. Administration of ergotamine tartrate and caffeine tablets should not exceed the dosing guidelines and should not be used for chronic daily administration (see DOSAGE AND ADMINISTRATION ). Ergotamine tartrate and caffeine tablets should be used only for migraine headaches. It is not effective for other types of headaches and it lacks analgesic properties. Patients should be advised to report to the physician immediately any of the following: numbness or tingling in the fingers and toes, muscle pain in the arms and legs, weakness in the legs, pain in the chest or temporary speeding or slowing of the heart rate, swelling or itching."
+      ],
+      "drug_interactions": [
+        "Drug Interactions - CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors) See CONTRAINDICATIONS and WARNINGS . Ergotamine tartrate and caffeine tablets should not be administered with other vasoconstrictors. Use with sympathomimetics (pressor agents) may cause extreme elevation of blood pressure. The beta-blocker Inderal (propranolol) has been reported to potentiate the vasoconstrictive action of ergotamine tartrate and caffeine tablets by blocking the vasodilating property of epinephrine. Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy. The blood levels of ergotamine-containing drugs are reported to be elevated by the concomitant administration of macrolide antibiotics and vasospastic reactions have been reported with therapeutic doses of the ergotamine-containing drugs when coadministered with these antibiotics."
+      ],
+      "pregnancy": [
+        "Pregnancy - Teratogenic Effects - Pregnancy Category X There are no studies on the placental transfer or teratogenicity of the combined products of ergotamine tartrate and caffeine tablets. Caffeine is known to cross the placenta and has been shown to be teratogenic in animals. Ergotamine crosses the placenta in small amounts, although it does not appear to be embryotoxic in this quantity. However, prolonged vasoconstriction of the uterine vessels and/or increased myometrial tone leading to reduced myometrial and placental blood flow may have contributed to fetal growth retardation observed in animals (see CONTRAINDICATIONS ). Nonteratogenic Effects Ergotamine tartrate and caffeine tablets is contraindicated in pregnancy due to the oxytocic effects of ergotamine (see CONTRAINDICATIONS )."
+      ],
+      "teratogenic_effects": [
+        "Teratogenic Effects - Pregnancy Category X There are no studies on the placental transfer or teratogenicity of the combined products of ergotamine tartrate and caffeine tablets. Caffeine is known to cross the placenta and has been shown to be teratogenic in animals. Ergotamine crosses the placenta in small amounts, although it does not appear to be embryotoxic in this quantity. However, prolonged vasoconstriction of the uterine vessels and/or increased myometrial tone leading to reduced myometrial and placental blood flow may have contributed to fetal growth retardation observed in animals (see CONTRAINDICATIONS )."
+      ],
+      "nonteratogenic_effects": [
+        "Nonteratogenic Effects Ergotamine tartrate and caffeine tablets is contraindicated in pregnancy due to the oxytocic effects of ergotamine (see CONTRAINDICATIONS )."
+      ],
+      "labor_and_delivery": [
+        "Labor and Delivery Ergotamine tartrate and caffeine tablets is contraindicated in labor and delivery due to its oxytocic effect which is maximal in the third trimester (see CONTRAINDICATIONS )"
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Ergot drugs are known to inhibit prolactin but there are no reports of decreased lactation with ergotamine tartrate and caffeine. Ergotamine is excreted in breast milk and may cause symptoms of vomiting, diarrhea, weak pulse and unstable blood pressure in nursing infants. Because of the potential for serious adverse reactions in nursing infants from ergotamine tartrate and caffeine tablets, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother."
+      ],
+      "pediatric_use": [
+        "Pediatric Use Safety and effectiveness in pediatric patients have not been established."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Vasoconstrictive complications of a serious nature may occur at times. These include ischemia, cyanosis, absence of pulse, cold extremities, gangrene, precordial distress and pain, EKG changes and muscle pains. Although these effects occur most commonly with long-term therapy at relatively high doses, they have also been reported with short-term or normal doses. Other cardiovascular adverse effects include transient tachycardia or bradycardia and hypertension. Gastrointestinal: Nausea and vomiting Neurological: Paresthesias, numbness, weakness, and vertigo Allergic: Localized edema and itching. Fibrotic Complications: (see WARNINGS ). To report SUSPECTED ADVERSE REACTIONS, contact Trifluent Pharma at 1-888-927-5191, or contact FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      ],
+      "drug_abuse_and_dependence": [
+        "DRUG ABUSE AND DEPENDENCE There have been reports of drug abuse and psychological dependence in patients on ergotamine tartrate and caffeine tablets therapy. Due to the chronicity of vascular headaches, it is imperative that patients be advised not to exceed recommended dosages with long-term use to avoid ergotism (see PRECAUTIONS )."
+      ],
+      "overdosage": [
+        "OVERDOSAGE The toxic effects of an acute overdosage of ergotamine tartrate and caffeine tablets are due primarily to the ergotamine component. The amount of caffeine is such that its toxic effects will be overshadowed by those of ergotamine. Symptoms include vomiting; numbness, tingling, pain and cyanosis of the extremities associated with diminished or absent peripheral pulses; hypertension or hypotension; drowsiness, stupor, coma, convulsions and shock. A case has been reported of reversible bilateral papillitis with ring scotomata in a patient who received five times the recommended daily adult dose over a period of 14 days. Treatment consists of removal of the offending drug by induction of emesis, gastric lavage, and catharsis. Maintenance of adequate pulmonary ventilation, correction of hypotension, and control of convulsions and blood pressure are important considerations. Treatment of peripheral vasospasm should consist of warmth, but not heat, and protection of the ischemic limbs. Vasodilators may be beneficial but caution must be exercised to avoid aggravating an already existent hypotension."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Procedure: For the best results, dosage should start at the first sign of an attack. Adults: Take 2 tablets at the start of attack; 1 additional tablet every ½ hour, if needed for full relief (maximum 6 tablets per attack, 10 per week). Maximum Adult Dosage: Total daily dose for any one attack should not exceed 6 tablets. Total weekly dosage should not exceed 10 tablets. Ergotamine tartrate and caffeine tablets should not be used for chronic daily administration. In carefully selected patients, with due consideration of maximum dosage recommendations, administration of the drug at bedtime may be an appropriate short-term preventive measure."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Cafergot® (ergotamine tartrate and caffeine) tablets, USP for oral administration are available as: 1 mg/100 mg: beige (film coated), round, convex face tablets, debossed “123” on one side and “MH” on the other side. Bottles of 40 .......NDC 73352-917-40 Store at 20° to 25°C (68° to 77°F) (see USP Controlled Room Temperature). Dispense in a tight, light-resistant container. KEEP OUT OF THE REACH OF CHILDREN. Distributed by Trifluent Pharma, LLC San Antonio, TX 78213 Rev. 01 01/2026"
+      ],
+      "package_label_principal_display_panel": [
+        "Cafergot (ergotamine tartrate and caffeine) Tablets, USP 1mg/100 mg NDC 73352-917-40 Label-CT"
+      ],
+      "set_id": "4db7eece-2eef-bc1b-e063-6394a90a98cb",
+      "id": "4db7f801-0dea-0ec8-e063-6294a90a2636",
+      "effective_time": "20260323",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "ANDA040590"
+        ],
+        "brand_name": [
+          "Cafergot"
+        ],
+        "generic_name": [
+          "ERGOTAMINE TARTRATE AND CAFFEINE"
+        ],
+        "manufacturer_name": [
+          "Trifluent Pharma, LLC"
+        ],
+        "product_ndc": [
+          "73352-917"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CAFFEINE",
+          "ERGOTAMINE TARTRATE"
+        ],
+        "rxcui": [
+          "1293504",
+          "1293506"
+        ],
+        "spl_id": [
+          "4db7f801-0dea-0ec8-e063-6294a90a2636"
+        ],
+        "spl_set_id": [
+          "4db7eece-2eef-bc1b-e063-6394a90a98cb"
+        ],
+        "package_ndc": [
+          "73352-917-40"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0373352917402"
+        ],
+        "nui": [
+          "N0000175739",
+          "N0000175729",
+          "N0000175790",
+          "M0023046"
+        ],
+        "pharm_class_epc": [
+          "Central Nervous System Stimulant [EPC]",
+          "Methylxanthine [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "pharm_class_cs": [
+          "Xanthines [CS]"
+        ],
+        "unii": [
+          "3G6A5W338E",
+          "MRU5XH3B48"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2011",
+  "task_id": "T01518",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Gaviscon+Dual+Action+tabslet+16s",
+  "local_path": "imports/accepted_evidence/product/2011/T01518_2011.cfm",
+  "sha256": "758c942e699b346902214a9083da08b7955d4cfa6c02031bdeb4c19e760dc236",
+  "downloaded_at": "2026-05-16T03:37:08.392888+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:106:2011",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

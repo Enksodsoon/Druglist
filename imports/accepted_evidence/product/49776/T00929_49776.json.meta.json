@@ -1,0 +1,14 @@
+{
+  "source_id": "49776",
+  "task_id": "T00929",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Zithromax%20tabslet%20250%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/49776/T00929_49776.json",
+  "sha256": "d6b76a0d0ac30f7d7fe76a7a623ed5f5e792ae9898624b50fbc651f8351ed898",
+  "downloaded_at": "2026-05-16T03:35:45.090072+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:24:49776",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

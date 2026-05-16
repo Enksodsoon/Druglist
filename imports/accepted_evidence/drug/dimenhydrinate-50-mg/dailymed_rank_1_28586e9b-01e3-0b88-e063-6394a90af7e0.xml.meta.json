@@ -1,0 +1,17 @@
+{
+  "source_id": "45662",
+  "task_id": "DAILYMED_1_28586e9b-01e3-0b88-e063-6394a90af7e0",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/28586e9b-01e3-0b88-e063-6394a90af7e0.xml",
+  "local_path": "imports/accepted_evidence/drug/dimenhydrinate-50-mg/dailymed_rank_1_28586e9b-01e3-0b88-e063-6394a90af7e0.xml",
+  "sha256": "fac63215054fc5d45f569f66d2ca6170b21779157076bdea7ccc67c3bc846e65",
+  "downloaded_at": "2026-05-16T03:55:09.250201+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Dimenhydrinate 50 mg",
+  "rank": 1,
+  "setid": "28586e9b-01e3-0b88-e063-6394a90af7e0",
+  "title": "MOTION SICKNESS RELIEF (DIMENHYDRINATE 50 MG) TABLET [TARGET CORPORATION]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

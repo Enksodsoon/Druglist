@@ -1,0 +1,384 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 4
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Herz Plus Arsenicum Album, Cistus Canadensis, Clematis Erecta, Comocladia Dentata, Croton Tiglium, Dolichos Pruriens, Graphites, Iris Versicolor, Kali Bichromicum, Kalmia Latifolia, Lachesis Mutus, Mercurius Solubilis, Mezereum, Prunus Spinosa, Ranunculus Bulbosus, Rhus Tox, Zincum Phosphoratum ARSENIC TRIOXIDE ARSENIC CATION (3+) HELIANTHEMUM CANADENSE HELIANTHEMUM CANADENSE CLEMATIS RECTA FLOWERING TOP CLEMATIS RECTA FLOWERING TOP COMOCLADIA DENTATA BARK/LEAF COMOCLADIA DENTATA BARK/LEAF CROTON TIGLIUM SEED CROTON TIGLIUM SEED MUCUNA PRURIENS FRUIT TRICHOME MUCUNA PRURIENS FRUIT TRICHOME GRAPHITE GRAPHITE IRIS VERSICOLOR ROOT IRIS VERSICOLOR ROOT POTASSIUM DICHROMATE DICHROMATE ION KALMIA LATIFOLIA LEAF KALMIA LATIFOLIA LEAF LACHESIS MUTA VENOM LACHESIS MUTA VENOM MERCURIUS SOLUBILIS MERCURIUS SOLUBILIS DAPHNE MEZEREUM BARK DAPHNE MEZEREUM BARK PRUNUS SPINOSA FLOWER BUD PRUNUS SPINOSA FLOWER BUD RANUNCULUS BULBOSUS WHOLE RANUNCULUS BULBOSUS TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF ZINC PHOSPHIDE ZINC PHOSPHIDE WATER ALCOHOL"
+      ],
+      "active_ingredient": [
+        "ACTIVE INGREDIENTS: Arsenicum Album 12X, Cistus Canadensis 6X, Clematis Erecta 6X, Comocladia Dentata 12X, Croton Tiglium 12X, Dolichos Pruriens 6X, Graphites 12X, Iris Versicolor 6X, Kali Bichromicum 8X, Kalmia Latifolia 12X, Lachesis Mutus 12X, Mercurius Solubilis 12X, Mezereum 12X, Prunus Spinosa 6X, Ranunculus Bulbosus 6X, Rhus Tox 12X, Zincum Phosphoratum 8X."
+      ],
+      "purpose": [
+        "PURPOSE: Arsenicum Album – Burning Pain, Tickling, Numbness, Swelling, Tenderness, Sensitivity to Touch, Cistus Canadensis – Burning Pain, Clematis Erecta - Tickling, Comocladia Dentata - Numbness, Croton Tiglium - Swelling, Dolichos Pruriens – Tenderness, Graphites – Sensitivity to Touch, Iris Versicolor - Burning Pain, Tickling, Numbness, Swelling, Tenderness, Sensitivity to Touch, Kali Bichromicum – Burning Pain, Kalmia Latifolia - Tickling, Lachesis Mutus - Numbness, Mercurius Solubilis - Numbness, Mezereum - Swelling, Prunus Spinosa - Tenderness, Ranunculus Bulbosus – Sensitivity to Touch, Rhus Tox - Burning Pain, Tickling, Numbness, Swelling, Tenderness, Sensitivity to Touch, Zincum Phosphoratum - Tickling"
+      ],
+      "indications_and_usage": [
+        "USES: • For the temporary relief of symptoms including: • burning pain • tickling • numbness • swelling • tenderness • sensitivity to touch These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration."
+      ],
+      "warnings": [
+        "WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. Tamper Evident: Sealed for your protection. Do not use if seal is broken or missing."
+      ],
+      "keep_out_of_reach_of_children": [
+        "KEEP OUT OF REACH OF CHILDREN: In case of overdose, contact a physician or Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age."
+      ],
+      "inactive_ingredient": [
+        "INACTIVE INGREDIENTS: Demineralized water, 25% ethanol"
+      ],
+      "questions": [
+        "QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com 800-827-8204"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL DISPLAY: DesBio HERZ:Plus Homeopathic NDC 43742-2204-1 1 FL OZ (30 ml) HERZ:Plus"
+      ],
+      "set_id": "12a7c820-1e40-4024-9feb-fa657bd616cf",
+      "id": "b52b8ee0-0a40-4ea4-8df5-a5a30f20c6fd",
+      "effective_time": "20240926",
+      "version": "1",
+      "openfda": {
+        "brand_name": [
+          "Herz Plus"
+        ],
+        "generic_name": [
+          "ARSENICUM ALBUM, CISTUS CANADENSIS, CLEMATIS ERECTA, COMOCLADIA DENTATA, CROTON TIGLIUM, DOLICHOS PRURIENS, GRAPHITES, IRIS VERSICOLOR, KALI BICHROMICUM, KALMIA LATIFOLIA, LACHESIS MUTUS, MERCURIUS SOLUBILIS, MEZEREUM, PRUNUS SPINOSA, RANUNCULUS BULBOSUS, RHUS TOX, ZINCUM PHOSPHORATUM"
+        ],
+        "manufacturer_name": [
+          "Deseret Biologicals, Inc."
+        ],
+        "product_ndc": [
+          "43742-2204"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ARSENIC TRIOXIDE",
+          "CLEMATIS RECTA FLOWERING TOP",
+          "COMOCLADIA DENTATA BARK/LEAF",
+          "CROTON TIGLIUM SEED",
+          "DAPHNE MEZEREUM BARK",
+          "GRAPHITE",
+          "HELIANTHEMUM CANADENSE",
+          "IRIS VERSICOLOR ROOT",
+          "KALMIA LATIFOLIA LEAF",
+          "LACHESIS MUTA VENOM",
+          "MERCURIUS SOLUBILIS",
+          "MUCUNA PRURIENS FRUIT TRICHOME",
+          "POTASSIUM DICHROMATE",
+          "PRUNUS SPINOSA FLOWER BUD",
+          "RANUNCULUS BULBOSUS WHOLE",
+          "TOXICODENDRON PUBESCENS LEAF",
+          "ZINC PHOSPHIDE"
+        ],
+        "spl_id": [
+          "b52b8ee0-0a40-4ea4-8df5-a5a30f20c6fd"
+        ],
+        "spl_set_id": [
+          "12a7c820-1e40-4024-9feb-fa657bd616cf"
+        ],
+        "package_ndc": [
+          "43742-2204-1"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0810151882154"
+        ],
+        "unii": [
+          "S7V92P67HO",
+          "396421SP9F",
+          "VQQ72V371Q",
+          "0HK2GZK66E",
+          "X2N6E405GV",
+          "4QQN74LH4O",
+          "46G3W789Q3",
+          "X43D4L3DQC",
+          "79N6542N18",
+          "VSW71SS07I",
+          "324Y4038G2",
+          "3E271BSI0C",
+          "T4423S18FM",
+          "53Y84VPS2W",
+          "AEQ8NXJ0MB",
+          "6IO182RP7A",
+          "813396S1PC"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Herz Homo Herpes Zoster Nosode HUMAN HERPESVIRUS 3 HUMAN HERPESVIRUS 3 WATER ALCOHOL"
+      ],
+      "active_ingredient": [
+        "ACTIVE INGREDIENTS: Herpes Zoster Nosode 15X, 20X, 30X, 60X, 90X, 120X, 150X, 200X, 500X, 1000X."
+      ],
+      "purpose": [
+        "PURPOSE: Herpes Zoster Nosode - Itching, Tingling, Painful Rash of Body, Rash on Side of Face, Painful Rash on Face"
+      ],
+      "indications_and_usage": [
+        "USES: • For the temporary relief of symptoms including: • itching • tingling • painful rash of body • rash on side of face • painful rash on face These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration."
+      ],
+      "warnings": [
+        "WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. Tamper Evident: Sealed for your protection. Do not use if seal is broken or missing."
+      ],
+      "keep_out_of_reach_of_children": [
+        "KEEP OUT OF REACH OF CHILDREN: In case of overdose, contact a physician or Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age."
+      ],
+      "inactive_ingredient": [
+        "INACTIVE INGREDIENTS: Demineralized water, 25% ethanol"
+      ],
+      "questions": [
+        "QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com 800-827-8204"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL DISPLAY: Des Bio HERZ:HOMO Homeopathic NDC 43742-1889-1 1 FL OZ (30 ml) HERZ:HOMO"
+      ],
+      "set_id": "6a3d4375-dcfd-4f60-a9d1-1cb3ef12f666",
+      "id": "4cb5e14e-bf52-4fab-88c2-51972fb7f3c2",
+      "effective_time": "20240509",
+      "version": "5",
+      "openfda": {
+        "brand_name": [
+          "Herz Homo"
+        ],
+        "generic_name": [
+          "HERPES ZOSTER NOSODE"
+        ],
+        "manufacturer_name": [
+          "Deseret Biologicals, Inc."
+        ],
+        "product_ndc": [
+          "43742-1889"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HUMAN HERPESVIRUS 3"
+        ],
+        "spl_id": [
+          "4cb5e14e-bf52-4fab-88c2-51972fb7f3c2"
+        ],
+        "spl_set_id": [
+          "6a3d4375-dcfd-4f60-a9d1-1cb3ef12f666"
+        ],
+        "package_ndc": [
+          "43742-1889-1"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0810151883076"
+        ],
+        "unii": [
+          "9885M7D6JP"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Herz Homo Herpes Zoster Nosode HUMAN HERPESVIRUS 3 HUMAN HERPESVIRUS 3 WATER ALCOHOL"
+      ],
+      "active_ingredient": [
+        "ACTIVE INGREDIENTS: Herpes Zoster Nosode 17X, 20X, 30X, 60X, 90X, 120X, 150X, 200X, 500X, 1000X."
+      ],
+      "purpose": [
+        "PURPOSE: Herpes Zoster Nosode - Itching, Tingling, Painful Rash of Body, Rash on Side of Face, Painful Rash on Face"
+      ],
+      "indications_and_usage": [
+        "USES: • For the temporary relief of symptoms including: • itching • tingling • painful rash of body • rash on side of face • painful rash on face These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration."
+      ],
+      "warnings": [
+        "WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. Tamper Evident: Sealed for your protection. Do not use if seal is broken or missing."
+      ],
+      "keep_out_of_reach_of_children": [
+        "KEEP OUT OF REACH OF CHILDREN: In case of overdose, contact a physician or Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age."
+      ],
+      "inactive_ingredient": [
+        "INACTIVE INGREDIENTS: Demineralized water, 25% ethanol"
+      ],
+      "questions": [
+        "QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com 800-827-8204"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL DISPLAY: DesBio HERZ:HOMO Homeopathic NDC 43742-2186-1 1 FL OZ (30 ml) HERZ:HOMO"
+      ],
+      "set_id": "9bf87427-dc94-4191-b6ec-2759f7e03fef",
+      "id": "cd9b3ccf-a5d9-484d-bee7-3ba37e6b87b9",
+      "effective_time": "20240515",
+      "version": "1",
+      "openfda": {
+        "brand_name": [
+          "Herz Homo"
+        ],
+        "generic_name": [
+          "HERPES ZOSTER NOSODE"
+        ],
+        "manufacturer_name": [
+          "Deseret Biologicals, Inc."
+        ],
+        "product_ndc": [
+          "43742-2186"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HUMAN HERPESVIRUS 3"
+        ],
+        "spl_id": [
+          "cd9b3ccf-a5d9-484d-bee7-3ba37e6b87b9"
+        ],
+        "spl_set_id": [
+          "9bf87427-dc94-4191-b6ec-2759f7e03fef"
+        ],
+        "package_ndc": [
+          "43742-2186-1"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0810151883076"
+        ],
+        "unii": [
+          "9885M7D6JP"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Herz Plus Cistus Canadensis, Clematis Erecta, Croton Tiglium, Dolichos Pruriens, Iris Versicolor, Prunus Spinosa, Ranunculus Bulbosus, Kali Bichromicum, Zincum Phosphoratum, Arsenicum Album, Comocladia Dentata, Graphites, Kalmia Latifolia, Lachesis Mutus, Mezereum, Rhus Tox, Thallium Metallicum HELIANTHEMUM CANADENSE HELIANTHEMUM CANADENSE CLEMATIS RECTA FLOWERING TOP CLEMATIS RECTA FLOWERING TOP CROTON TIGLIUM SEED CROTON TIGLIUM SEED MUCUNA PRURIENS FRUIT TRICHOME MUCUNA PRURIENS FRUIT TRICHOME IRIS VERSICOLOR ROOT IRIS VERSICOLOR ROOT PRUNUS SPINOSA FLOWER BUD PRUNUS SPINOSA FLOWER BUD RANUNCULUS BULBOSUS WHOLE RANUNCULUS BULBOSUS POTASSIUM DICHROMATE DICHROMATE ION ZINC PHOSPHIDE ZINC PHOSPHIDE ARSENIC TRIOXIDE ARSENIC CATION (3+) COMOCLADIA DENTATA BARK/LEAF COMOCLADIA DENTATA BARK/LEAF GRAPHITE GRAPHITE KALMIA LATIFOLIA LEAF KALMIA LATIFOLIA LEAF LACHESIS MUTA VENOM LACHESIS MUTA VENOM DAPHNE MEZEREUM BARK DAPHNE MEZEREUM BARK TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF THALLIUM THALLIUM WATER ALCOHOL"
+      ],
+      "active_ingredient": [
+        "ACTIVE INGREDIENTS: Cistus Canadensis 6X, Clematis Erecta 6X, Croton Tiglium 6X, Dolichos Pruriens 6X, Iris Versicolor 6X, Prunus Spinosa 6X, Ranunculus Bulbosus 6X, Kali Bichromicum 8X, Zincum Phosphoratum 8X, Arsenicum Album 12X, Comocladia Dentata 12X, Graphites 12X, Kalmia Latifolia 12X, Lachesis Mutus 12X, Mezereum 12X, Rhus Tox 12X, Thallium Metallicum 12X."
+      ],
+      "purpose": [
+        "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms of Herpes Zoster such as burning pain, tickling, numbness, swelling and tenderness and extreme sensitivity to touch.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration."
+      ],
+      "warnings": [
+        "WARNINGS: Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use. Tamper seal: \"Sealed for Your Protection.\" Do not use if seal is broken or missing."
+      ],
+      "keep_out_of_reach_of_children": [
+        "KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "DIRECTIONS: 1-10 drops under the tongue, 2 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age."
+      ],
+      "indications_and_usage": [
+        "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms of Herpes Zoster such as burning pain, tickling, numbness, swelling and tenderness and extreme sensitivity to touch.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration."
+      ],
+      "inactive_ingredient": [
+        "INACTIVE INGREDIENTS: Demineralized Water, 25% Ethanol"
+      ],
+      "questions": [
+        "QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL DISPLAY: DES BIO NDC 43742-1890-1 HOMEOPATHIC HERZ:PLUS 1 FL OZ (30 ml) Herz Plus"
+      ],
+      "set_id": "aa893170-df1b-4490-ae33-8ef3160c9c1d",
+      "id": "98b2924a-55cb-42d8-ad52-3bc7b4b13add",
+      "effective_time": "20240911",
+      "version": "5",
+      "openfda": {
+        "brand_name": [
+          "Herz Plus"
+        ],
+        "generic_name": [
+          "CISTUS CANADENSIS, CLEMATIS ERECTA, CROTON TIGLIUM, DOLICHOS PRURIENS, IRIS VERSICOLOR, PRUNUS SPINOSA, RANUNCULUS BULBOSUS, KALI BICHROMICUM, ZINCUM PHOSPHORATUM, ARSENICUM ALBUM, COMOCLADIA DENTATA, GRAPHITES, KALMIA LATIFOLIA, LACHESIS MUTUS, MEZEREUM, RHUS TOX, THALLIUM METALLICUM"
+        ],
+        "manufacturer_name": [
+          "Deseret Biologicals, Inc."
+        ],
+        "product_ndc": [
+          "43742-1890"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ARSENIC TRIOXIDE",
+          "CLEMATIS RECTA FLOWERING TOP",
+          "COMOCLADIA DENTATA BARK/LEAF",
+          "CROTON TIGLIUM SEED",
+          "DAPHNE MEZEREUM BARK",
+          "GRAPHITE",
+          "HELIANTHEMUM CANADENSE",
+          "IRIS VERSICOLOR ROOT",
+          "KALMIA LATIFOLIA LEAF",
+          "LACHESIS MUTA VENOM",
+          "MUCUNA PRURIENS FRUIT TRICHOME",
+          "POTASSIUM DICHROMATE",
+          "PRUNUS SPINOSA FLOWER BUD",
+          "RANUNCULUS BULBOSUS WHOLE",
+          "THALLIUM",
+          "TOXICODENDRON PUBESCENS LEAF",
+          "ZINC PHOSPHIDE"
+        ],
+        "spl_id": [
+          "98b2924a-55cb-42d8-ad52-3bc7b4b13add"
+        ],
+        "spl_set_id": [
+          "aa893170-df1b-4490-ae33-8ef3160c9c1d"
+        ],
+        "package_ndc": [
+          "43742-1890-1"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "S7V92P67HO",
+          "396421SP9F",
+          "VQQ72V371Q",
+          "0HK2GZK66E",
+          "X2N6E405GV",
+          "4QQN74LH4O",
+          "46G3W789Q3",
+          "X43D4L3DQC",
+          "79N6542N18",
+          "VSW71SS07I",
+          "3E271BSI0C",
+          "T4423S18FM",
+          "53Y84VPS2W",
+          "AEQ8NXJ0MB",
+          "AD84R52XLF",
+          "6IO182RP7A",
+          "813396S1PC"
+        ]
+      }
+    }
+  ]
+}

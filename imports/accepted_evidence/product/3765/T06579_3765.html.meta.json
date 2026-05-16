@@ -1,0 +1,14 @@
+{
+  "source_id": "3765",
+  "task_id": "T06579",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Tear+Mac+Eye+Drops",
+  "local_path": "imports/accepted_evidence/product/3765/T06579_3765.html",
+  "sha256": "3b2f64bd23e9c5595e3da30d214b1d1baf7692cd1a25c92f10efa632dcdaf288",
+  "downloaded_at": "2026-05-16T03:49:50.800361+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:774:3765",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

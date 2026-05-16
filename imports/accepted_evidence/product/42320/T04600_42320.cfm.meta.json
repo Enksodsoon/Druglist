@@ -1,0 +1,14 @@
+{
+  "source_id": "42320",
+  "task_id": "T04600",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Valsartan",
+  "local_path": "imports/accepted_evidence/product/42320/T04600_42320.cfm",
+  "sha256": "35b466f567a534b3302efd7f13e5c528bd3a206576d162412bc2ff818454b43a",
+  "downloaded_at": "2026-05-16T03:44:52.458040+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:521:42320|Product_Label_Links:522:42319",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

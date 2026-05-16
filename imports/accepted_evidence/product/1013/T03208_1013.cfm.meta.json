@@ -1,0 +1,14 @@
+{
+  "source_id": "1013",
+  "task_id": "T03208",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Air-X+Drops",
+  "local_path": "imports/accepted_evidence/product/1013/T03208_1013.cfm",
+  "sha256": "61a391c47976a45b57e440d6bdd91e12f1c8c9dd1fea4d7f77b23cff75761422",
+  "downloaded_at": "2026-05-16T03:41:21.348074+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:331:1013",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

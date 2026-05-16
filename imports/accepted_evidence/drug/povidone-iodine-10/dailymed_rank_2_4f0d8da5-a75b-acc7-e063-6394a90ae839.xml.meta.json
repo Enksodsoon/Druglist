@@ -1,0 +1,17 @@
+{
+  "source_id": "1280",
+  "task_id": "DAILYMED_2_4f0d8da5-a75b-acc7-e063-6394a90ae839",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/4f0d8da5-a75b-acc7-e063-6394a90ae839.xml",
+  "local_path": "imports/accepted_evidence/drug/povidone-iodine-10/dailymed_rank_2_4f0d8da5-a75b-acc7-e063-6394a90ae839.xml",
+  "sha256": "80b8b3d9988dbadbfc774ff11dacc1b79f07da8c9118c77a198a0a381d705136",
+  "downloaded_at": "2026-05-16T03:56:35.597415+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Povidone Iodine 10 %",
+  "rank": 2,
+  "setid": "4f0d8da5-a75b-acc7-e063-6394a90ae839",
+  "title": "LEADER POVIDONE IODINE (POVIDONE IODINE 10%) LIQUID [CARDINAL HEALTH]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

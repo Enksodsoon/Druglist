@@ -1,0 +1,14 @@
+{
+  "source_id": "1606",
+  "task_id": "T07203",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Gentamicin+w%2Fv%2BPreservative",
+  "local_path": "imports/accepted_evidence/product/1606/T07203_1606.cfm",
+  "sha256": "457741eb0ff0ff85f1eac9a17167a2131a42d45c8a12cd21b5678c3675223ad2",
+  "downloaded_at": "2026-05-16T03:51:26.673600+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:855:1606",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

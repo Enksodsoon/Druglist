@@ -1,0 +1,14 @@
+{
+  "source_id": "7548",
+  "task_id": "T06927",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Kenalone+Oral+Paste+sachet+1+g",
+  "local_path": "imports/accepted_evidence/product/7548/T06927_7548.cfm",
+  "sha256": "dfc1f62cc4db5caab0e936c992b5584da242e9bb94158b411b13372ad7f29cc2",
+  "downloaded_at": "2026-05-16T03:50:44.177040+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:821:7548",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

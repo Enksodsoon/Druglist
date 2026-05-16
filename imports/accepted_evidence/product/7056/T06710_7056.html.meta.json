@@ -1,0 +1,14 @@
+{
+  "source_id": "7056",
+  "task_id": "T06710",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Clomaz-Forte",
+  "local_path": "imports/accepted_evidence/product/7056/T06710_7056.html",
+  "sha256": "5d3043502f46e8100858a14628229b882ec95cae38a53057de8ce7311ed61f84",
+  "downloaded_at": "2026-05-16T03:50:12.596718+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:791:7056",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

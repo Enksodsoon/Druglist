@@ -1,0 +1,14 @@
+{
+  "source_id": "44313",
+  "task_id": "T05389",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Klean+%26+Kare+Saline+%28ANB%29",
+  "local_path": "imports/accepted_evidence/product/44313/T05389_44313.html",
+  "sha256": "7080234e1e527fb3fb0c039dda1a336626caeef03253da742019c1f3c7fe2d93",
+  "downloaded_at": "2026-05-16T03:46:47.340313+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:630:44313",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "6462",
+  "task_id": "T07658",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Benzydamine+%2BEthanol%2BSaccharin+%2BMethyl+Hydroxybenzoate%2BGlycerol%2BPEG-40+Hydrogenated+castor+oil%2Fml",
+  "local_path": "imports/accepted_evidence/product/6462/T07658_6462.cfm",
+  "sha256": "0e37a8661f191bc86b98c027ee933a25cc838ab1ae03d1c515b1af372fcdb0e2",
+  "downloaded_at": "2026-05-16T03:52:36.932671+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:909:6462",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

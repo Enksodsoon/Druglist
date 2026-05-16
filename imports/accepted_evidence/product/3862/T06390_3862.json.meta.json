@@ -1,0 +1,14 @@
+{
+  "source_id": "3862",
+  "task_id": "T06390",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Tobramycin%20%2BDexamethasone%20%2BTyloxapol%2B%20Chloride%2BHydroxyethylcellulose%2B%20Sulfate%2BSulfuric%20Acid%2B%20Hydroxide%2BPreservative%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3862/T06390_3862.json",
+  "sha256": "8c6e083d9adb9a4eebcd79a58ade30196083f476e79eb2d505f0afdb92ac3f2e",
+  "downloaded_at": "2026-05-16T03:49:19.768075+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:755:3862",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

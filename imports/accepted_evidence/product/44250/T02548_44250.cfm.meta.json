@@ -1,0 +1,14 @@
+{
+  "source_id": "44250",
+  "task_id": "T02548",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Japrolox+tabslets",
+  "local_path": "imports/accepted_evidence/product/44250/T02548_44250.cfm",
+  "sha256": "f2d718c4900bf7257a088eadc9659835ba97c5b33274774e15f3af78785eeac2",
+  "downloaded_at": "2026-05-16T03:39:42.169004+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:244:44250",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

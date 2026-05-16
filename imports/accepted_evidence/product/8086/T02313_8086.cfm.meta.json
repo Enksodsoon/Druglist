@@ -1,0 +1,14 @@
+{
+  "source_id": "8086",
+  "task_id": "T02313",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Zermed+Syrup",
+  "local_path": "imports/accepted_evidence/product/8086/T02313_8086.cfm",
+  "sha256": "ac61ed7507dfd4be5fad2f32ef301698d76c3caa21a9b822f2fcd467704b8d3f",
+  "downloaded_at": "2026-05-16T03:39:05.626688+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:211:8086",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

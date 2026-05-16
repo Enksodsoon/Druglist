@@ -1,0 +1,14 @@
+{
+  "source_id": "1460",
+  "task_id": "T05190",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Colchicine",
+  "local_path": "imports/accepted_evidence/product/1460/T05190_1460.cfm",
+  "sha256": "7d86c5da50dfa561e2f7ec74cf034e4af520895b6e391d55cacc17cab29c93cb",
+  "downloaded_at": "2026-05-16T03:46:19.326539+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:606:1460|Product_Label_Links:607:8731|Product_Label_Links:610:3732",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

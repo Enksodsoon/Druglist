@@ -1,0 +1,14 @@
+{
+  "source_id": "3611",
+  "task_id": "T01448",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Sennoside%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/3611/T01448_3611.json",
+  "sha256": "e7f4a8bbc15e17a31bd48707a5648740e99e996d85059bce63f2ed931c721c23",
+  "downloaded_at": "2026-05-16T03:36:58.807296+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:98:3611",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

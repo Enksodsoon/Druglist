@@ -1,0 +1,14 @@
+{
+  "source_id": "1032",
+  "task_id": "T05435",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=L-Menthol%2BDL-Campher%2BMethyl%20Salicylate%2BVanillylamide&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1032/T05435_1032.json",
+  "sha256": "ab789bc87fa34e3e3b84f5dacce94e77b87a7cd0d7ea2e9ce3cc5052099e781a",
+  "downloaded_at": "2026-05-16T03:46:54.494034+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:638:1032|Product_Label_Links:639:1031",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "41454",
+  "task_id": "T01034",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Micronized+Loratadine",
+  "local_path": "imports/accepted_evidence/product/41454/T01034_41454.cfm",
+  "sha256": "e95cbfef55467c094c89b4d5b09a310f0ad5802553fda92a4de69df5141b23b1",
+  "downloaded_at": "2026-05-16T03:35:59.734579+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:39:41454",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

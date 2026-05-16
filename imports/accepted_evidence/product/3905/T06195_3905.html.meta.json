@@ -1,0 +1,14 @@
+{
+  "source_id": "3905",
+  "task_id": "T06195",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Unison+Enema+%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/3905/T06195_3905.html",
+  "sha256": "e13925b78f3703daaf15c1f16c5ea27578d9f8127574b860cf5d091f88e56043",
+  "downloaded_at": "2026-05-16T03:48:49.924532+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:734:3905",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

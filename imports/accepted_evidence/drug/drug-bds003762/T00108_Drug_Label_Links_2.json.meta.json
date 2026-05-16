@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_2",
+  "task_id": "T00108",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/paracetamol/human/spls.json",
+  "local_path": "imports/accepted_evidence/drug/drug-bds003762/T00108_Drug_Label_Links_2.json",
+  "sha256": "d4d88fce4f9b303422106d2b99baa8a5a850efe99970d64c116bbbe2ddf479b7",
+  "downloaded_at": "2026-05-16T03:33:53.535900+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "direct_download",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:2:Drug_Label_Links_2",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1705",
+  "task_id": "T04270",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Glucosamine+Sulphate",
+  "local_path": "imports/accepted_evidence/product/1705/T04270_1705.cfm",
+  "sha256": "e431ad4a053a0b7be55fabdcee4973158dc0f3b0cacadfbc463435e52511ebbc",
+  "downloaded_at": "2026-05-16T03:44:03.686285+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:475:1705",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

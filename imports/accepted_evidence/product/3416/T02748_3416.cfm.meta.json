@@ -1,0 +1,14 @@
+{
+  "source_id": "3416",
+  "task_id": "T02748",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Robitussin+DM+%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81+%28%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%29",
+  "local_path": "imports/accepted_evidence/product/3416/T02748_3416.cfm",
+  "sha256": "f9b5097560b188d6a313072378c1e21f252935ef849c5157bbe8296cd019e059",
+  "downloaded_at": "2026-05-16T03:40:11.875981+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:272:3416",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

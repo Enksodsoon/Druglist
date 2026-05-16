@@ -1,0 +1,1173 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 2174
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Daytime Cold and Flu Acetaminophen, Dextromethorphan HBr, Phenylephrine HCl ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE ACESULFAME POTASSIUM ALCOHOL ANHYDROUS CITRIC ACID EDETATE DISODIUM FD&C BLUE NO. 1 FD&C RED NO. 40 GLYCERIN MALTITOL PROPYLENE GLYCOL WATER SODIUM BENZOATE TRISODIUM CITRATE DIHYDRATE"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each 30 mL) Acetaminophen 650 mg Dextromethorphan HBr 20 mg Phenylephrine HCl 10 mg"
+      ],
+      "purpose": [
+        "Purposes Pain reliever/fever reducer Cough suppressant Nasal decongestant"
+      ],
+      "indications_and_usage": [
+        "Uses temporarily relieves these symptoms due to a cold minor aches and pains headache nasal and sinus congestion sore throat cough due to minor throat and bronchial irritation temporarily reduces fever"
+      ],
+      "warnings": [
+        "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take: more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may inclide: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease) or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. with any other drug containing acetaminophen (prescription or non-prescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. Ask a doctor before use if you have liver disease heart disease diabetes high blood pressure thyroid disease trouble urinating due to an enlarged prostate gland cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with smoking, asthma, or emphysema Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin. When using this product, do not exceed recommended dosage Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, cough, or nasal congestion gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with a rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "do_not_use": [
+        "Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease) or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. with any other drug containing acetaminophen (prescription or non-prescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have liver disease heart disease diabetes high blood pressure thyroid disease trouble urinating due to an enlarged prostate gland cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with smoking, asthma, or emphysema"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin."
+      ],
+      "when_using": [
+        "When using this product, do not exceed recommended dosage"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, cough, or nasal congestion gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with a rash or headache that lasts. These could be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "dosage_and_administration": [
+        "Directions do not take more than directed (see overdose warning ) do not take more than 6 doses (180 mL) in any 24-hour period measure only with dosing cup provided. Do not use any other dosing device. mL= milliliter keep dosing cup with product adults and children 12 years and over 30 mL every 4 hours chlldren under 12 years of age: do not use"
+      ],
+      "other_safety_information": [
+        "Other information each 30 mL contains : sodium 16 mg store between 20-25ºC (68-77ºF). Do not refrigerate."
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients acesulfame potassium, alcohol, citric acid, edetate disodium, FD&C blue #1, FD&C red #40, flavor, glycerin, maltitol, propylene glycol, purified water, sodium benzoate, sodium citrate"
+      ],
+      "questions": [
+        "Questions or comments? Call 1 -877-753-3935 Monday-Friday 9AM-5PM EST"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel COMPARE TO THE ACTIVE INGREDIENTS IN THERAFLU® EXPRESSMAX® DAYTIME SEVERE COLD & COUGH* ADULT DAYTIME SEVERE COLD & COUGH RELIEF Acetaminophen 650 mg Pain reliever; Fever reducer Dextromethorphan HBr 20 mg Cough suppressant Phenylephrine HCI 10 mg Nasal decongestion RELIEVES Cough Nasal congestion Sore throat Fever Body ache Headache Alcohol 10% For Ages 12 Years & Older BERRY FL OZ (mL) TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL AROUND OR UNDER CAP IS BROKEN OR MISSING. *This product is not manufactured or distributed by GSK Consumer Healthcare, distributor of Theraflu® ExpressMax® Daytime Severe Cold & Cough. DISTRIBUTED BY: MIDWOOD BRANDS, LLC 500 VOLVO PKWY, CHESAPEAKE, VA 23320",
+        "Product Label FAMILY WELLNESS Adult Daytime Severe Cold & Cough Relief Acetaminophen 650 mg, Dextromethorphan HBr 20 mg, Phenylephrine HCl 10 mg"
+      ],
+      "set_id": "0044c53c-11dd-41a9-a5d9-622dd8b1c144",
+      "id": "3aa48604-afd3-49a2-b0a8-ab15171c7913",
+      "effective_time": "20240327",
+      "version": "3",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "Daytime Cold and Flu"
+        ],
+        "generic_name": [
+          "ACETAMINOPHEN, DEXTROMETHORPHAN HBR, PHENYLEPHRINE HCL"
+        ],
+        "manufacturer_name": [
+          "Family Dollar (FAMILY WELLNESS)"
+        ],
+        "product_ndc": [
+          "55319-960"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ACETAMINOPHEN",
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "PHENYLEPHRINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1113705"
+        ],
+        "spl_id": [
+          "3aa48604-afd3-49a2-b0a8-ab15171c7913"
+        ],
+        "spl_set_id": [
+          "0044c53c-11dd-41a9-a5d9-622dd8b1c144"
+        ],
+        "package_ndc": [
+          "55319-960-08"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0032251921049"
+        ],
+        "unii": [
+          "362O9ITL9D",
+          "9D2RTI9KYH",
+          "04JA59TNSJ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Rompe Pechito DM for Kids Dextromethorphan HBr, Guaifenesin SUCRALOSE ANHYDROUS CITRIC ACID AMERICAN ELDERBERRY MALTODEXTRIN METHYLPARABEN HONEY POTASSIUM SORBATE PROPYLENE GLYCOL PROPYLPARABEN WATER SODIUM CHLORIDE ZINC SULFATE GLYCERIN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN"
+      ],
+      "active_ingredient": [
+        "Active Ingredients: (in each teaspoonful 2.5 ml.) Purpose Dextromethorphan Hydrobromide 5 mg ...................................... Cough Suppressant Guaifenesin 50 mg ................................................................... Expectorant"
+      ],
+      "purpose": [
+        "Purpose Cough Suppressant Expectorant"
+      ],
+      "indications_and_usage": [
+        "Uses Uses: temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes."
+      ],
+      "warnings": [
+        "Warnings Do not use in child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional condition, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child’s prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product."
+      ],
+      "do_not_use": [
+        "Do not use Do not use in child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional condition, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child’s prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions Do not give more than 6 doses in any 24 hours period  shake well before use  measure only with dosing cup provided  keep dosing cup with product  mL = milliliter Age Dose Children 6 to under 12 years of age 5 mL every 4 hours Children 4 to under 6 years of age 2.5 mL every 4 hours Children under 4 years of age Do not use"
+      ],
+      "inactive_ingredient": [
+        "Inactive Ingredients: Inactive Ingredients: citric acid, elderberry fruit extract, glycerin, honey, maltodextrin, methylparaben, flavor, potassium sorbate as a preservative, propylparaben, propylene glycol, purified water, sodium chloride, sucralose and zinc sulfate."
+      ],
+      "questions": [
+        "Questions or Comments? 305-805-3456 Monday - Friday 9AM to 5PM EST www.efficientlabs.com"
+      ],
+      "ask_doctor": [
+        "Stop use and ask a doctor if  cough that occurs with too much phlegm (mucus)  persistent or chronic cough, such as occurs with asthma or chronic bronchitis. These could be signs of a serious condition.",
+        "Ask a doctor before use if the child has cough that occurs with too much phlegm (mucus) persistent or chronic cough, such as occurs with asthma or chronic bronchitis"
+      ],
+      "other_safety_information": [
+        "Other Information store this product between 15 to 30 °C (59 to 86 °F ) do not refrigerate product color & flavor may vary due to natural honey Tamper-Evident Feature: do not use this product if printed security seal is torn, broken or missing."
+      ],
+      "package_label_principal_display_panel": [
+        "Rompe Pechito Pack"
+      ],
+      "set_id": "004d12e1-6e3d-84c8-e063-6394a90aa653",
+      "id": "411e99da-2482-40c7-e063-6394a90aaf80",
+      "effective_time": "20251014",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "Rompe Pechito DM for Kids"
+        ],
+        "generic_name": [
+          "DEXTROMETHORPHAN HBR, GUAIFENESIN"
+        ],
+        "manufacturer_name": [
+          "Efficient Laboratories Inc"
+        ],
+        "product_ndc": [
+          "58593-276"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "996520"
+        ],
+        "spl_id": [
+          "411e99da-2482-40c7-e063-6394a90aaf80"
+        ],
+        "spl_set_id": [
+          "004d12e1-6e3d-84c8-e063-6394a90aa653"
+        ],
+        "package_ndc": [
+          "58593-276-04"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "basic care daytime severe cold and flu acetaminophen, dextromethorphan hydrobromide, guaifenesin, phenylephrine hydrochloride ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE BUTYLATED HYDROXYANISOLE EDETATE DISODIUM FD&C YELLOW NO. 6 GLYCERIN MENTHOL, UNSPECIFIED FORM SODIUM PHOSPHATE, MONOBASIC, UNSPECIFIED FORM POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL WATER SACCHARIN SODIUM SUCROSE XANTHAN GUM clear"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each 15 mL) Acetaminophen 325 mg Dextromethorphan HBr 10 mg Guaifenesin 200 mg Phenylephrine HCl 5 mg"
+      ],
+      "purpose": [
+        "Purpose Pain reliever/fever reducer Cough suppressant Expectorant Nasal decongestant"
+      ],
+      "indications_and_usage": [
+        "Uses temporarily relieves common cold/flu symptoms: • nasal congestion • sinus congestion and pressure • cough due to minor throat and bronchial irritation • minor aches and pains • headache • fever • sore throat • reduces swelling of nasal passages • temporarily restores freer breathing through the nose • promotes nasal and/or sinus drainage • helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive"
+      ],
+      "warnings": [
+        "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if • adult takes more than 4,000 mg of acetaminophen in 24 hours • child takes more than 5 doses in 24 hours • taken with other drugs containing acetaminophen • adult has 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: • skin reddening • blisters • rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. • if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have • liver disease • heart disease • thyroid disease • diabetes • high blood pressure • trouble urinating due to an enlarged prostate gland • cough that occurs with too much phlegm (mucus) • persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not use more than directed Stop use and ask a doctor if • you get nervous, dizzy or sleepless • pain, nasal congestion, or cough gets worse or lasts more than 5 days (children) or 7 days (adults) • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "do_not_use": [
+        "Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. • if you have ever had an allergic reaction to this product or any of its ingredients"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have • liver disease • heart disease • thyroid disease • diabetes • high blood pressure • trouble urinating due to an enlarged prostate gland • cough that occurs with too much phlegm (mucus) • persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin"
+      ],
+      "when_using": [
+        "When using this product do not use more than directed"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if • you get nervous, dizzy or sleepless • pain, nasal congestion, or cough gets worse or lasts more than 5 days (children) or 7 days (adults) • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "dosage_and_administration": [
+        "Directions • take only as directed – see Overdose warning • only use the dose cup provided • do not exceed 4 doses per 24 hrs adults & children 12 yrs & over 30 mL every 4 hrs children 6 to under 12 yrs 15 mL every 4 hrs children 4 to under 6 yrs ask a doctor children under 4 yrs do not use Other information • each 15 mL contains: sodium 6 mg • store at 20-25 ° C (68-77 ° F). Do not refrigerate."
+      ],
+      "dosage_and_administration_table": [
+        "<table width=\"100%\"><col width=\"48%\"/><col width=\"44%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>adults &amp; children 12 yrs &amp; over</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>30 mL every 4 hrs</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>children 6 to under 12 yrs</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>15 mL every 4 hrs</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>children 4 to under 6 yrs</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>children under 4 yrs</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>do not use</paragraph></td></tr></tbody></table>"
+      ],
+      "storage_and_handling": [
+        "Other information • each 15 mL contains: sodium 6 mg • store at 20-25 ° C (68-77 ° F). Do not refrigerate."
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients butylated hydroxyanisole, edetate disodium, FD&C yellow #6, flavor, glycerin, menthol, monobasic sodium phosphate, polyethylene glycol, propylene glycol, purified water, saccharin sodium, sucrose, xanthan gum Questions? 1-800-719-9260"
+      ],
+      "questions": [
+        "Questions? 1-800-719-9260"
+      ],
+      "package_label_principal_display_panel": [
+        "Package/Label Principal Display Panel amazon basic care Multi-Symptom Relief Compare to Vicks ® DayQuil ® Severe active ingredients Non-Drowsy Daytime Severe Cold & Flu Acetaminophen Dextromethorphan HBr Guaifenesin Phenylephrine HCl Pain Reliever/Fever Reducer Nasal Decongestant Cough Suppressant Expectorant Original Flavor ALCOHOL FREE 12 FL OZ (355 mL) 603-bn-daytime-severe-cold-and-flu"
+      ],
+      "set_id": "0100f86e-257f-4197-9849-3c4429cdf0f2",
+      "id": "4215aa5e-a436-4ebe-bf6d-18301730b460",
+      "effective_time": "20241028",
+      "version": "4",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "basic care daytime severe cold and flu"
+        ],
+        "generic_name": [
+          "ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, PHENYLEPHRINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Amazon.com Services LLC"
+        ],
+        "product_ndc": [
+          "72288-603"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ACETAMINOPHEN",
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN",
+          "PHENYLEPHRINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1369842"
+        ],
+        "spl_id": [
+          "4215aa5e-a436-4ebe-bf6d-18301730b460"
+        ],
+        "spl_set_id": [
+          "0100f86e-257f-4197-9849-3c4429cdf0f2"
+        ],
+        "package_ndc": [
+          "72288-603-40",
+          "72288-603-34"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "362O9ITL9D",
+          "9D2RTI9KYH",
+          "495W7451VQ",
+          "04JA59TNSJ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Good Sense Daytime non drowsy cold and flu acetaminophen, dextromethorphan Hbr, Phenylephrine HCl ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE ANHYDROUS CITRIC ACID FD&C YELLOW NO. 6 GLYCERIN MENTHOL, UNSPECIFIED FORM POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL WATER SACCHARIN SODIUM SODIUM BENZOATE SODIUM CHLORIDE SODIUM CITRATE, UNSPECIFIED FORM SORBITOL SOLUTION SUCRALOSE XANTHAN GUM clear with fruit"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each 15 mL) Acetaminophen 325 mg Dextromethorphan HBr 10 mg Phenylephrine HCl 5 mg"
+      ],
+      "purpose": [
+        "Purpose Pain reliever/fever reducer Cough suppressant Nasal decongestant"
+      ],
+      "indications_and_usage": [
+        "Uses • temporarily relieves common cold/flu symptoms: • cough due to minor throat and bronchial irritation • nasal congestion • minor aches and pains • sore throat • headache • fever"
+      ],
+      "warnings": [
+        "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if • adult takes more than 4,000 mg of acetaminophen in 24 hours • child takes more than 5 doses in 24 hours • taken with other drugs containing acetaminophen • adult has 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: • skin reddening • blisters • rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. • if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have • liver disease • heart disease • high blood pressure • thyroid disease • diabetes • trouble urinating due to an enlarged prostate gland • cough that occurs with too much phlegm (mucus) • persistent or chronic cough such as occurs with smoking, asthma, or emphysema Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not use more than directed Stop use and ask a doctor if • you get nervous, dizzy or sleepless • pain, nasal congestion or cough gets worse or lasts more than 5 days (children) or 7 days (adults) • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children."
+      ],
+      "do_not_use": [
+        "Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. • if you have ever had an allergic reaction to this product or any of its ingredients"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have • liver disease • heart disease • high blood pressure • thyroid disease • diabetes • trouble urinating due to an enlarged prostate gland • cough that occurs with too much phlegm (mucus) • persistent or chronic cough such as occurs with smoking, asthma, or emphysema"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin"
+      ],
+      "when_using": [
+        "When using this product do not use more than directed"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if • you get nervous, dizzy or sleepless • pain, nasal congestion or cough gets worse or lasts more than 5 days (children) or 7 days (adults) • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children."
+      ],
+      "dosage_and_administration": [
+        "Directions • take only as directed – see Overdose warning • only use the dose cup provided • do not exceed 4 doses per 24 hrs adults & children 12 yrs & over 30 mL every 4 hrs children 6 to under 12 yrs 15 mL every 4 hrs children 4 to under 6 yrs ask a doctor children under 4 yrs do not use"
+      ],
+      "dosage_and_administration_table": [
+        "<table width=\"100%\"><col width=\"38%\"/><col width=\"36%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>adults &amp; children 12 yrs &amp; over</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>30 mL every 4 hrs</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>children 6 to under 12 yrs</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>15 mL every 4 hrs</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>children 4 to under 6 yrs</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>children under 4 yrs</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>do not use</paragraph></td></tr></tbody></table>"
+      ],
+      "storage_and_handling": [
+        "Other information • each 15 mL contains: sodium 15 mg • store at 20-25 ° C (68-77 ° F)"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients anhydrous citric acid, FD&C yellow no. 6, flavor, glycerin, menthol, polyethylene glycol, propylene glycol, purified water, saccharin sodium, sodium benzoate, sodium chloride, sodium citrate, sorbitol solution, sucralose, xanthan gum"
+      ],
+      "questions": [
+        "Questions? 1-800-719-9260"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel GOODSENSE ® Multi-Symptom Relief Non-Drowsy Pain Reliever, Fever Reducer Cough Suppressant Nasal Decongestant DayTime Cold & Flu Acetaminophen Dextromethorphan HBr Phenylephrine HCl • Headache, Fever, Sore Throat, Minor Aches & Pains • Nasal Congestion • Cough Compare to active ingredients of Vicks ® DayQuil ® Cold & Flu 12 FL OZ (354mL) Alcohol Free goodsense-daytime-container-image.jpg"
+      ],
+      "set_id": "0122cd34-5817-4af5-a51a-8d176dee0a30",
+      "id": "75408f6e-080d-4d5c-9c1d-00ab36d46082",
+      "effective_time": "20260504",
+      "version": "10",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "Good Sense Daytime non drowsy cold and flu"
+        ],
+        "generic_name": [
+          "ACETAMINOPHEN, DEXTROMETHORPHAN HBR, PHENYLEPHRINE HCL"
+        ],
+        "manufacturer_name": [
+          "L. Perrigo Company"
+        ],
+        "product_ndc": [
+          "0113-0656"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ACETAMINOPHEN",
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "PHENYLEPHRINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1113705"
+        ],
+        "spl_id": [
+          "75408f6e-080d-4d5c-9c1d-00ab36d46082"
+        ],
+        "spl_set_id": [
+          "0122cd34-5817-4af5-a51a-8d176dee0a30"
+        ],
+        "package_ndc": [
+          "0113-0656-30",
+          "0113-0656-38",
+          "0113-0656-34",
+          "0113-0656-40"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "362O9ITL9D",
+          "9D2RTI9KYH",
+          "04JA59TNSJ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Maximum Strength Severe Congestion and Cough Dextromethorphan HBr, Guaifenesin, and Phenylephrine HCl ANHYDROUS CITRIC ACID EDETATE DISODIUM FD&C BLUE NO. 1 FD&C RED NO. 40 POTASSIUM CITRATE PROPYLENE GLYCOL PROPYL GALLATE WATER SODIUM BENZOATE SORBITOL SUCRALOSE XANTHAN GUM DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each 20 mL) Purposes Dextromethorphan HBr 20 mg Cough suppressant Guaifenesin 400 mg Expectorant Phenylephrine HCl 10 mg Nasal decongestant"
+      ],
+      "active_ingredient_table": [
+        "<table width=\"75%\"><col width=\"39%\"/><col width=\"37%\"/><thead><tr><th align=\"left\" styleCode=\"Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\"><content styleCode=\"italics\">Active ingredients</content></content> <content styleCode=\"bold\"><content styleCode=\"italics\">(in each 20 mL)</content></content></th><th align=\"left\" styleCode=\"Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\"><content styleCode=\"italics\">Purposes</content></content></th></tr></thead><tbody><tr><td styleCode=\"Toprule \" valign=\"top\"><paragraph>Dextromethorphan HBr 20 mg</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>Cough suppressant</paragraph></td></tr><tr><td valign=\"top\"><paragraph>Guaifenesin 400 mg</paragraph></td><td valign=\"top\"><paragraph>Expectorant</paragraph></td></tr><tr><td styleCode=\"Botrule \" valign=\"top\"><paragraph>Phenylephrine HCl 10 mg</paragraph></td><td styleCode=\"Botrule \" valign=\"top\"><paragraph>Nasal decongestant</paragraph></td></tr></tbody></table>"
+      ],
+      "purpose": [
+        "Active ingredients (in each 20 mL) Purposes Dextromethorphan HBr 20 mg Cough suppressant Guaifenesin 400 mg Expectorant Phenylephrine HCl 10 mg Nasal decongestant"
+      ],
+      "purpose_table": [
+        "<table width=\"75%\"><col width=\"39%\"/><col width=\"37%\"/><thead><tr><th align=\"left\" styleCode=\"Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\"><content styleCode=\"italics\">Active ingredients</content></content> <content styleCode=\"bold\"><content styleCode=\"italics\">(in each 20 mL)</content></content></th><th align=\"left\" styleCode=\"Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\"><content styleCode=\"italics\">Purposes</content></content></th></tr></thead><tbody><tr><td styleCode=\"Toprule \" valign=\"top\"><paragraph>Dextromethorphan HBr 20 mg</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>Cough suppressant</paragraph></td></tr><tr><td valign=\"top\"><paragraph>Guaifenesin 400 mg</paragraph></td><td valign=\"top\"><paragraph>Expectorant</paragraph></td></tr><tr><td styleCode=\"Botrule \" valign=\"top\"><paragraph>Phenylephrine HCl 10 mg</paragraph></td><td styleCode=\"Botrule \" valign=\"top\"><paragraph>Nasal decongestant</paragraph></td></tr></tbody></table>"
+      ],
+      "indications_and_usage": [
+        "Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves: cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing the impulse to cough to help you get to sleep nasal congestion due to a cold"
+      ],
+      "warnings": [
+        "Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis or emphysema cough that occurs with too much phlegm (mucus) When using this product do not use more than directed Stop use and ask a doctor if nervousness, dizziness or sleeplessness occur symptoms do not get better within 7 days or occur with fever cough comes back, or occurs with rash or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+      ],
+      "do_not_use": [
+        "Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis or emphysema cough that occurs with too much phlegm (mucus)"
+      ],
+      "when_using": [
+        "When using this product do not use more than directed"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if nervousness, dizziness or sleeplessness occur symptoms do not get better within 7 days or occur with fever cough comes back, or occurs with rash or persistent headache. These could be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+      ],
+      "dosage_and_administration": [
+        "Directions do not take more than 6 doses in any 24-hour period measure only with dosing cup provided do not use dosing cup with other products dose as follows or as directed by a doctor mL = milliliter adults and children 12 years of age and older: 20 mL in dosing cup provided every 4 hours. children under 12 years of age: Do not use."
+      ],
+      "storage_and_handling": [
+        "Other information each 20 mL contains: sodium 8 mg low sodium store at room temperature do not refrigerate"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients anhydrous citric acid, edetate disodium, FD&C Blue No. 1, FD&C Red No. 40, flavors, potassium citrate, propylene glycol, propyl gallate, purified water, sodium benzoate, sorbitol, sucralose, xanthan gum"
+      ],
+      "questions": [
+        "Questions or comments? 1-866-467-2748"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL NDC 21130-738-06 Compare to Mucinex® Fast- Max® Maximum Strength Severe Congestion & Cough Active Ingredients* Maximum Strength Severe Congestion & Cough Dextromethorphan HBr - Cough Suppressant Guaifenesin - Expectorant Phenylephrine HCl - Nasal Decongestant Control Cough Relieves Nasal and Chest Congestion Thins & loosens mucus For Ages 12+ 6 FL OZ (180 mL) Tamper evident: do not use if printed seal under cap is broken or missing. *This product is not manufactured or distributed by RB Health (US) LLC, the distributor of Mucinex ® and Fast-Max ® Maximum Strength Severe Congestion & Cough. DISTRIBUTED BY BETTER LIVING BRANDS LLC P.O. BOX 99, PLEASANTON, CA 94566-0009 1-888-723-3929 www.betterlivingbrandsLLC.com OUR PROMISE, QUALITY & SATISFACTION 100% GUARANTEED OR YOUR MONEY BACK Severe Congestion and Cough Max Strength"
+      ],
+      "set_id": "013b94a1-26c7-4371-981a-d1b9d7fd1c98",
+      "id": "424a8ef2-038a-06ed-e063-6394a90a640d",
+      "effective_time": "20251029",
+      "version": "7",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "Maximum Strength Severe Congestion and Cough"
+        ],
+        "generic_name": [
+          "DEXTROMETHORPHAN HBR, GUAIFENESIN, AND PHENYLEPHRINE HCL"
+        ],
+        "manufacturer_name": [
+          "SAFEWAY"
+        ],
+        "product_ndc": [
+          "21130-738"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN",
+          "PHENYLEPHRINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1043543"
+        ],
+        "spl_id": [
+          "424a8ef2-038a-06ed-e063-6394a90a640d"
+        ],
+        "spl_set_id": [
+          "013b94a1-26c7-4371-981a-d1b9d7fd1c98"
+        ],
+        "package_ndc": [
+          "21130-738-06"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ",
+          "04JA59TNSJ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Night Time Cold and Flu Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN DOXYLAMINE SUCCINATE DOXYLAMINE D&C YELLOW NO. 10 PROPYLENE GLYCOL WATER ACESULFAME POTASSIUM ALCOHOL ANHYDROUS CITRIC ACID FD&C GREEN NO. 3 FD&C YELLOW NO. 6 HIGH FRUCTOSE CORN SYRUP POLYETHYLENE GLYCOL, UNSPECIFIED SACCHARIN SODIUM TRISODIUM CITRATE DIHYDRATE"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each 30 mL) Acetaminophen 650 mg Dextromethorphan HBr 30 mg Doxylamine succinate 12.5 mg"
+      ],
+      "purpose": [
+        "Purpose Pain reliever/fever reducer Cough suppressant Antihistamine"
+      ],
+      "indications_and_usage": [
+        "Uses temporarily relieves these common cold/flu symptoms: minor aches and pains headache sore throat fever runny nose and sneezing cough due to minor throat and bronchial irritation"
+      ],
+      "warnings": [
+        "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash. If a skin reaction occurs, stop use and seek medical help right away Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or is followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. with any other drug containing acetaminophen (prescription or non-prescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist Ask a doctor before use if you have liver disease glaucoma cough that occurs with too much phlegm (mucus) a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis,or emphysema trouble urinating due to enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers the blood thinning drug warfarin When using this product excitability may occur, especially in children marked drowsiness may occur avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery alcohol, sedatives and tranquilizers may increase drowsiness Stop use and ask a doctor if pain or cough gets worse or lasts more than 7 days new symptoms occur fever gets worse or lasts more than 3 days redness or swelling is present cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning : Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "do_not_use": [
+        "Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. with any other drug containing acetaminophen (prescription or non-prescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have liver disease glaucoma cough that occurs with too much phlegm (mucus) a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis,or emphysema trouble urinating due to enlarged prostate gland"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers the blood thinning drug warfarin"
+      ],
+      "when_using": [
+        "When using this product excitability may occur, especially in children marked drowsiness may occur avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery alcohol, sedatives and tranquilizers may increase drowsiness"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if pain or cough gets worse or lasts more than 7 days new symptoms occur fever gets worse or lasts more than 3 days redness or swelling is present cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. Overdose warning : Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "dosage_and_administration": [
+        "Directions do not take more than directed (see overdose warning) do not take more than 4 doses in any 24-hours period measure only with dosing cup provided. Do not use any other dosing device. mL= milliliter keep dosing cup with product adults and children 12 years and over: 30 mL every 6 hours children under 12 years of age: do not use When using other Day Time or Night Time products, carefully read each label to insure correct dosing"
+      ],
+      "storage_and_handling": [
+        "Other information each 30 mL contains; potassium 5 mg each 30 mL contains: sodium 19 mg store between 20-25ºC (68-77F). Do not refrigerate."
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients acesulfame potassium, alcohol, citric acid, D&C yellow #10, FD&C green #3, FD&C yellow #6, flavor, high fructose corn syrup, polyethylene glycol, propylene glycol, purified water, saccharin sodium, sodium citrate"
+      ],
+      "questions": [
+        "Questions or comments? Call 1-800-632-6900"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel COMPARE TO the active ingredients of VICKS® NYQUIL® COLD & FLU * See back panel Cold & Flu NightTime Multi-Symptom Relief Acetaminophen Dextromethorphan HBr Doxylamine succinate Pain Reliever Fever Reducer Cough Suppressant Antihistamine For Ages 12 Years & Older ALCOHOL 10% FL OZ (mL) *Vicks® and NyQuil® are registered trademarks of The Procter & Gamble Company, Cincinnati, OH 45202.The Procter & Gamble Company is not affiliate with The Kroger Co. or this product. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL AROUND DOSAGE CUP OR UNDER CAP IS BROKEN OR MISSING . DISTRIBUTED BY THE KROGER CO. CINCINNATI,OHIO 45202 www.kroger.com",
+        "Product Label KROGER Nighttime Cold & Flu Relief Acetaminophen 650 mg, Dextromethorphan HBr 30 mg, Doxylamine Succinate 12.5 mg"
+      ],
+      "set_id": "015b47e1-4afe-48a3-86ff-06f404d48ad5",
+      "id": "6101d3fe-752a-4419-bf85-e92539c5d395",
+      "effective_time": "20260325",
+      "version": "3",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "Night Time Cold and Flu"
+        ],
+        "generic_name": [
+          "ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, DOXYLAMINE SUCCINATE"
+        ],
+        "manufacturer_name": [
+          "The Kroger Co."
+        ],
+        "product_ndc": [
+          "30142-634"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ACETAMINOPHEN",
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "DOXYLAMINE SUCCINATE"
+        ],
+        "rxcui": [
+          "1043400"
+        ],
+        "spl_id": [
+          "6101d3fe-752a-4419-bf85-e92539c5d395"
+        ],
+        "spl_set_id": [
+          "015b47e1-4afe-48a3-86ff-06f404d48ad5"
+        ],
+        "package_ndc": [
+          "30142-634-12"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "362O9ITL9D",
+          "9D2RTI9KYH",
+          "V9BI9B5YI2"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "ACTIDOM DMX DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, PHENYLEPHRINE HYDROCHLORIDE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE CITRIC ACID MONOHYDRATE FD&C RED NO. 40 FD&C BLUE NO. 1 GLYCERIN METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN WATER SODIUM CITRATE, UNSPECIFIED FORM SUCRALOSE Clear"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts",
+        "Contains the same active ingredients as Dometuss ® -DMX* SUGAR FREE ALCOHOL FREE Grape Flavor Manufactured in USA with imported ingredients for ActiPharma. San Juan, PR 00917. www.actipharma.net. * Dometuss® DMX is a registered trademark of Domel Laboratories. This product is not manufactured, distributed or marketed by Domel Laboratories."
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each 5 mL tsp) Dextromethorphan HBr, 30 mg Guaifenesin, 200 mg Phenylephrine HCl, 10 mg"
+      ],
+      "purpose": [
+        "Purposes Cough suppressant Expectorant Nasal decongestant"
+      ],
+      "indications_and_usage": [
+        "Uses • Helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes • Temporarily relieves these symptoms occurring with a cold: • nasal congestion • cough due to minor throat and bronchial irritation."
+      ],
+      "warnings": [
+        "Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • heart disease • high blood pressure • thyroid disease • diabetes • trouble urinating due to an enlarged prostate gland • cough that occurs with too much phlegm (mucus) • cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis or emphysema. Ask a doctor or pharmacist before use if you are taking any other oral nasal decongestant or stimulant. When using this product • do not exceed recommended dosage Stop use and ask a doctor if • you get nervous, dizzy or sleepless • symptoms do not get better within 7 days or are accompanied by fever • coughs lasts more than 7 days, comes back, or is accompanied by fever, rash, or a persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions • do not take more than 4 doses in any 24-hour period. AGE DOSE Adults and Children 12 years of age and over Take 1 teaspoonfuls (5 mL) every 6 hours Children under 12 years of age ask a doctor"
+      ],
+      "dosage_and_administration_table": [
+        "<table width=\"50%\"><tbody><tr><td styleCode=\"Botrule Lrule Rrule\" align=\"center\"><content styleCode=\"italics\"><content styleCode=\"bold\">AGE</content></content></td><td styleCode=\"Botrule Rrule\" align=\"center\"><content styleCode=\"italics\"><content styleCode=\"bold\">DOSE</content></content></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" align=\"center\"><paragraph>Adults and Children 12 years</paragraph><paragraph>of age and over </paragraph></td><td styleCode=\"Botrule Rrule\" align=\"center\"><paragraph> Take 1 teaspoonfuls</paragraph><paragraph>(5 mL) every 6 hours</paragraph></td></tr><tr><td styleCode=\"Lrule Rrule\" align=\"center\"><paragraph> Children under 12 years of</paragraph><paragraph> age</paragraph></td><td styleCode=\"Rrule\" align=\"center\">ask a doctor </td></tr></tbody></table>"
+      ],
+      "storage_and_handling": [
+        "Other information • Tamper Evident Feature: Do not use if safety seal is torn, cut or opened. • Store at controlled room temperature 15° - 30ºC (59º - 86ºF). • Avoid excessive heat or humidity."
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients Citric acid, D&C Red #40, FD&C Blue #1, flavor, glycerin, methylparaben, propylene glycol, propylparaben, purified water, sodium citrate, sucralose."
+      ],
+      "questions": [
+        "Questions or comments? call weekdays from 8AM to 4PM AST at 1.787.608.0882"
+      ],
+      "package_label_principal_display_panel": [
+        "Packaging Actidom DMX"
+      ],
+      "set_id": "0166322e-7dbb-4658-a5c5-1d0525bb7655",
+      "id": "07838a85-4ddc-470d-a344-001587f2d904",
+      "effective_time": "20240628",
+      "version": "4",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "ACTIDOM DMX"
+        ],
+        "generic_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, PHENYLEPHRINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "ACTIPHARMA, LLC"
+        ],
+        "product_ndc": [
+          "63102-110"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN",
+          "PHENYLEPHRINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1364914"
+        ],
+        "spl_id": [
+          "07838a85-4ddc-470d-a344-001587f2d904"
+        ],
+        "spl_set_id": [
+          "0166322e-7dbb-4658-a5c5-1d0525bb7655"
+        ],
+        "package_ndc": [
+          "63102-110-16"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ",
+          "04JA59TNSJ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "TOPCARE Multi Symptom Flu Relief Combo Pack Acetaminophen, Dextromethorphan HBr, and Acetaminophen, Chlorpheniramine maleate, Dextromethorphan HBr TOPCARE Flu Relief Max Strength Daytime Acetaminophen, Dextromethorphan HBr ANHYDROUS CITRIC ACID CARAMEL MALTODEXTRIN POTASSIUM CHLORIDE SILICON DIOXIDE SUCRALOSE SUCROSE ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN to off white, yellow, beige, and brown color Lemon TOPCARE Flu Relief Max Strength Nighttime Acetaminophen, Chlorpheniramine maleate, Dextromethorphan HBr MALTODEXTRIN POTASSIUM CHLORIDE ANHYDROUS CITRIC ACID CARAMEL SILICON DIOXIDE SUCRALOSE SUCROSE ACETAMINOPHEN ACETAMINOPHEN CHLORPHENIRAMINE MALEATE CHLORPHENIRAMINE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN white to off-white, yellow, beige, and brown color lemon"
+      ],
+      "spl_unclassified_section": [
+        "Flu Relief Max Strength** Daytime Powder",
+        "Other information each packet contains : potassium 6 mg store at room temperature. Protect from excessive heat and moisture.",
+        "Flu Relief Max Strength** Nighttime Powder",
+        "Drug Facts",
+        "Other information each packet contains : potassium 6 mg store at room temperature. Protect from excessive heat and moisture."
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each packet) Acetaminophen 1000 mg Dextromethorphan HBr 30 mg",
+        "Active ingredients (in each packet) Acetaminophen 1000 mg Chlorpheniramine maleate 4 mg Dextromethorphan HBr 30 mg"
+      ],
+      "purpose": [
+        "Purposes Pain reliever/Fever reducer Cough suppressant",
+        "Purposes Pain reliever/Fever reducer Antihistamine Cough suppressant"
+      ],
+      "indications_and_usage": [
+        "Uses temporarily relieves these symptoms due to a common cold or flu: headache minor aches and pains cough due to minor throat and bronchial irritation minor sore throat pain temporarily reduces fever",
+        "Uses temporarily relieves these symptoms due to a common cold or flu: headache minor aches and pains cough due to minor throat and bronchial irritation minor sore throat pain runny nose temporarily reduces fever"
+      ],
+      "warnings": [
+        "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting consult a doctor promptly. Do not use in a child under 12 years of age if you are allergic to acetaminophen with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease a breathing problem such as emphysema or chronic bronchitis cough that occurs with too much phlegm (mucus) cough that lasts or is chronic such as occurs with smoking, asthma, or emphysema Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not exceed recommended dosage. Stop use and ask a doctor if pain or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.",
+        "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting consult a doctor promptly. Do not use in a child under 12 years of age if you are allergic to acetaminophen with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains a MAO, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease glaucoma trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis cough that occurs with too much phlegm (mucus) cough that lasts or is chronic such as occurs with smoking, asthma, or emphysema Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers When using this product avoid alcoholic drinks marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children Stop use and ask a doctor if pain or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "do_not_use": [
+        "Do not use in a child under 12 years of age if you are allergic to acetaminophen with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.",
+        "Do not use in a child under 12 years of age if you are allergic to acetaminophen with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains a MAO, ask a doctor or pharmacist before taking this product."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have liver disease a breathing problem such as emphysema or chronic bronchitis cough that occurs with too much phlegm (mucus) cough that lasts or is chronic such as occurs with smoking, asthma, or emphysema",
+        "Ask a doctor before use if you have liver disease glaucoma trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis cough that occurs with too much phlegm (mucus) cough that lasts or is chronic such as occurs with smoking, asthma, or emphysema"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin",
+        "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers"
+      ],
+      "when_using": [
+        "When using this product do not exceed recommended dosage.",
+        "When using this product avoid alcoholic drinks marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if pain or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition.",
+        "Stop use and ask a doctor if pain or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use.",
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.",
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "dosage_and_administration": [
+        "Directions do not use more than directed take every 6 hours, while symptoms persist. Do not take more than 3 packets in 24 hours unless directed by a doctor. Age Dose adults and children 12 years of age and over one packet children under 12 years of age do not use dissolve contents of one packet into 8 oz. hot water; sip while hot. Consume the entire drink within 10-15 minutes. if using a microwave, add contents of one packet to 8 oz. of cool water; stir briskly before and after heating. Do not overheat.",
+        "Directions do not use more than directed take every 6 hours, while symptoms persist. Do not take more than 3 packets in 24 hours unless directed by a doctor. Age Dose adults and children 12 years of age and over one packet children under 12 years of age do not use dissolve contents of one packet into 8 oz. hot water; sip while hot. Consume entire drink within 10-15 minutes. if using a microwave, add contents of one packet to 8 oz. of cool water; stir briskly before and after heating. Do not overheat"
+      ],
+      "dosage_and_administration_table": [
+        "<table width=\"98.88%\"><col width=\"65%\"/><col width=\"34%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><list listType=\"ordered\"><item>Age</item></list></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><list listType=\"ordered\"><item>Dose</item></list></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><list listType=\"ordered\"><item>adults and children 12 years of age and over</item></list></td><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><list listType=\"ordered\"><item>one packet</item></list></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><list listType=\"ordered\"><item>children under 12 years of age</item></list></td><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><list listType=\"ordered\"><item>do not use</item></list></td></tr></tbody></table>",
+        "<table width=\"98.7%\"><col width=\"51%\"/><col width=\"48%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><list listType=\"ordered\"><item>Age</item></list></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><list listType=\"ordered\"><item>Dose</item></list></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><list listType=\"ordered\"><item>adults and children 12 years of age and over</item></list></td><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><list listType=\"ordered\"><item>one packet</item></list></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><list listType=\"ordered\"><item>children under 12 years of age</item></list></td><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><list listType=\"ordered\"><item>do not use</item></list></td></tr></tbody></table>"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients anhydrous citric acid, caramel, flavor, maltodextrin, potassium chloride, silica, sucralose, sucrose.",
+        "Inactive ingredients anhydrous citric acid, caramel, flavor, maltodextrin, potassium chloride, silica, sucralose, sucrose."
+      ],
+      "questions": [
+        "Questions or comments? 1-866-467-2748",
+        "Questions or comments? 1-866-467-2748"
+      ],
+      "other_safety_information": [
+        "Other Safety Information READ ALL WARNINGS AND DIRECTIONS ON CARTON BEFORE USE. KEEP CARTON FOR REFERENCE. DO NOT DISCARD. DO NOT TAKE BOTH PRODUCTS AT THE SAME TIME. DO NOT TAKE MORE THAN 3 DOSES IN TOTAL IN ANY 24 HOUR PERIOD. DO NOT TAKE A DOSE OF THE NIGHTTIME PRODUCT SOONER THAN 4 HOURS AFTER THE LAST DOSE OF THE DAYTIME PRODUCT UNLESS DIRECTED BY A DOCTOR. TAMPER-EVIDENT: DO NOT USE INNER SEALED PACKET IF TORN OR BROKEN. Distributed by:"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel *Compare to the active ingredients in Theraflu Multi-Symptom Flu Relief Max Strength** Daytime & Nighttime. NDC 76162-559-12 FLU RELIEF MAX STRENGTH** 6 x DAYTIME Acetaminophen Pain Reliever/Fever Reducer Dextromethorphan HBr Cough Suppressant 6 x NIGHTTIME Acetaminophen Pain Reliever/Fever Reducer Chlorpheniramine Maleate Antihistamine Dextromethorphan HBr Cough Suppressant Hot liquid therapy that relieves: Fever Body ache Headache Sore throat pain Cough Runny nose (Nighttime only) Free from synthetic dyes 6 DAYTIME PACKETS 6 NIGHTTIME PACKETS 12 TOTAL PACKETS Honey Lemon Natural & Artificial Flavored TOPCO Flu Relief DayTime and NightTime Powder 12ct"
+      ],
+      "set_id": "01c517e5-d693-4926-9eb5-4b894a2f6917",
+      "id": "434fa5bc-e527-b21b-e063-6394a90a1a54",
+      "effective_time": "20251111",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "TOPCARE Multi Symptom Flu Relief Combo Pack"
+        ],
+        "generic_name": [
+          "ACETAMINOPHEN, DEXTROMETHORPHAN HBR, AND ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, DEXTROMETHORPHAN HBR"
+        ],
+        "manufacturer_name": [
+          "Topco Associates, LLC"
+        ],
+        "product_ndc": [
+          "76162-559"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "rxcui": [
+          "2636656",
+          "2636658",
+          "2636659"
+        ],
+        "spl_id": [
+          "434fa5bc-e527-b21b-e063-6394a90a1a54"
+        ],
+        "spl_set_id": [
+          "01c517e5-d693-4926-9eb5-4b894a2f6917"
+        ],
+        "package_ndc": [
+          "76162-559-12",
+          "76162-539-06",
+          "76162-549-06"
+        ],
+        "is_original_packager": [
+          true
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Cold and Flu ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, and PHENYLEPHRINE HYDROCHLORIDE SILICON DIOXIDE CROSCARMELLOSE SODIUM CROSPOVIDONE FD&C RED NO. 40 ALUMINUM OXIDE FD&C YELLOW NO. 6 MAGNESIUM STEARATE MALTODEXTRIN CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED POVIDONE, UNSPECIFIED STARCH, CORN STEARIC ACID TALC TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE AAA;1165"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each caplet) Purpose Acetaminophen 325 mg Pain reliever/fever reducer Dextromethorphan HBr 10 mg Cough suppressant Guaifenesin 200 mg Expectorant Phenylephrine HCl 5 mg Nasal decongestant"
+      ],
+      "active_ingredient_table": [
+        "<table width=\"65%\"><col width=\"60%\" valign=\"top\" align=\"left\"/><col width=\"40%\" valign=\"top\" align=\"right\"/><thead><tr styleCode=\"First Last\"><th align=\"left\"><content styleCode=\"italics\">Active ingredients (in each caplet)</content></th><th align=\"right\"><content styleCode=\"italics\">Purpose</content></th></tr></thead><tbody><tr><td align=\"left\">Acetaminophen 325 mg</td><td align=\"right\">Pain reliever/fever reducer</td></tr><tr><td align=\"left\">Dextromethorphan HBr 10 mg</td><td align=\"right\">Cough suppressant</td></tr><tr><td align=\"left\">Guaifenesin 200 mg</td><td align=\"right\">Expectorant</td></tr><tr><td align=\"left\">Phenylephrine HCl 5 mg</td><td align=\"right\">Nasal decongestant</td></tr></tbody></table>"
+      ],
+      "purpose": [
+        "Active ingredients (in each caplet) Purpose Acetaminophen 325 mg Pain reliever/fever reducer Dextromethorphan HBr 10 mg Cough suppressant Guaifenesin 200 mg Expectorant Phenylephrine HCl 5 mg Nasal decongestant"
+      ],
+      "purpose_table": [
+        "<table width=\"65%\"><col width=\"60%\" valign=\"top\" align=\"left\"/><col width=\"40%\" valign=\"top\" align=\"right\"/><thead><tr styleCode=\"First Last\"><th align=\"left\"><content styleCode=\"italics\">Active ingredients (in each caplet)</content></th><th align=\"right\"><content styleCode=\"italics\">Purpose</content></th></tr></thead><tbody><tr><td align=\"left\">Acetaminophen 325 mg</td><td align=\"right\">Pain reliever/fever reducer</td></tr><tr><td align=\"left\">Dextromethorphan HBr 10 mg</td><td align=\"right\">Cough suppressant</td></tr><tr><td align=\"left\">Guaifenesin 200 mg</td><td align=\"right\">Expectorant</td></tr><tr><td align=\"left\">Phenylephrine HCl 5 mg</td><td align=\"right\">Nasal decongestant</td></tr></tbody></table>"
+      ],
+      "indications_and_usage": [
+        "Uses temporarily relieves these common cold and flu symptoms: nasal congestion headache cough minor aches and pains sore throat sinus congestion and pressure temporarily reduces fever helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive"
+      ],
+      "warnings": [
+        "Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take more than 12 caplets in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks daily while using this product Allergy alert Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease heart disease diabetes high blood pressure thyroid disease trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough that occurs with too much phlegm (mucus) Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not use more than directed Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion, or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "do_not_use": [
+        "Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have liver disease heart disease diabetes high blood pressure thyroid disease trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough that occurs with too much phlegm (mucus)"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin"
+      ],
+      "when_using": [
+        "When using this product do not use more than directed"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion, or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children."
+      ],
+      "overdosage": [
+        "Overdose warning Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "dosage_and_administration": [
+        "Directions do not take more than directed (see Overdose warning ) do not take more than 12 caplets in any 24-hour period adults and children 12 years of age and older: take 2 caplets every 4 hours children under 12 years of age: do not use"
+      ],
+      "storage_and_handling": [
+        "Other information store between 20-25°C (68-77°F) in a dry place"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients colloidal silicon dioxide, croscarmellose sodium, crospovidone, FD&C red #40 aluminum lake, FD&C yellow #6 aluminum lake, magnesium stearate, maltodextrin, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, povidone, pregelatinized starch, stearic acid, talc, titanium dioxide"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL NDC 56062-198-04 FOR AGES 12+ MAXIMUM STRENGTH cold&flu ALL IN ONE ACETAMINOPHEN – PAIN RELIEVER/FEVER REDUCER DEXTROMETHORPHAN HBr – COUGH SUPPRESSANT GUAIFENESIN – EXPECTORANT PHENYLEPHRINE HCl – NASAL DECONGESTANT MUCUS RELIEF ACTUAL SIZE For relief of • Headache, body pain, sore throat & fever • Cough, chest congestion • Nasal congesiton • Sinus congestion & sinus pressure 20 CAPLETS †Compare to the active ingredients in Mucinex® Fast-Max™ Cold & All in One image description"
+      ],
+      "set_id": "01e1ad15-0ef5-4d6a-a9c1-19a5f2b20148",
+      "id": "253de1a3-2642-2fa3-e063-6294a90a7bbd",
+      "effective_time": "20241024",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "Cold and Flu"
+        ],
+        "generic_name": [
+          "ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, AND PHENYLEPHRINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "PUBLIX SUPER MARKETS INC"
+        ],
+        "product_ndc": [
+          "56062-198"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ACETAMINOPHEN",
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN",
+          "PHENYLEPHRINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1110988"
+        ],
+        "spl_id": [
+          "253de1a3-2642-2fa3-e063-6294a90a7bbd"
+        ],
+        "spl_set_id": [
+          "01e1ad15-0ef5-4d6a-a9c1-19a5f2b20148"
+        ],
+        "package_ndc": [
+          "56062-198-02",
+          "56062-198-04"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "362O9ITL9D",
+          "9D2RTI9KYH",
+          "495W7451VQ",
+          "04JA59TNSJ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide Brompheniramine Maleate, Pseudoephedrine Hydrochloride, and Dextromethorphan Hydrobromide BROMPHENIRAMINE MALEATE BROMPHENIRAMINE PSEUDOEPHEDRINE HYDROCHLORIDE PSEUDOEPHEDRINE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN ANHYDROUS CITRIC ACID GLYCERIN METHYLPARABEN FD&C RED NO. 40 WATER SODIUM BENZOATE TRISODIUM CITRATE DIHYDRATE SUCROSE"
+      ],
+      "spl_unclassified_section": [
+        "Rx only",
+        "MANUFACTURED FOR PAI Pharma Greenville, SC 29605 R06/23"
+      ],
+      "description": [
+        "DESCRIPTION Brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup is a clear, sweet, unflavored, pink syrup. Each 5 mL (1 teaspoonful) contains: Brompheniramine Maleate, USP 2 mg Pseudoephedrine Hydrochloride, USP 30 mg Dextromethorphan Hydrobromide, USP 10 mg Inactive Ingredients: citric acid anhydrous, FD&C Red #40, glycerin, methylparaben, purified water, sodium benzoate, sodium citrate dihydrate, and sucrose. Antihistamine/Nasal Decongestant/Antitussive syrup for oral administration. Brompheniramine Maleate, USP chemical structure Pseudoephedrine Hydrochloride, USP chemical structure Dextromethorphan Hydrobromide, USP chemical structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Brompheniramine maleate is a histamine antagonist, specifically an H1-receptor-blocking agent belonging to the alkylamine class of antihistamines. Antihistamines appear to compete with histamine for receptor sites on effector cells. Brompheniramine also has anticholinergic (drying) and sedative effects. Among the antihistaminic effects, it antagonizes the allergic response (vasodilation, increased vascular permeability, increased mucus secretion) of nasal tissue. Brompheniramine is well absorbed from the gastrointestinal tract, with peak plasma concentration after single, oral dose of 4 mg reached in 5 hours; urinary excretion is the major route of elimination, mostly as products of biodegradation; the liver is assumed to be the main site of metabolic transformation. Pseudoephedrine acts on sympathetic nerve endings and also on smooth muscle, making it useful as a nasal decongestant. The nasal decongestant effect is mediated by the action of pseudoephedrine on α-sympathetic receptors, producing vasoconstriction of the dilated nasal arterioles. Following oral administration, effects are noted within 30 minutes with peak activity occurring at approximately one hour. Dextromethorphan acts centrally to elevate the threshold for coughing. It has no analgesic or addictive properties. The onset of antitussive action occurs in 15 to 30 minutes after administration and is of long duration."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup is indicated for relief of coughs and upper respiratory symptoms, including nasal congestion, associated with allergy or the common cold."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hypersensitivity to any of the ingredients. Do not use in the newborn, in premature infants, in nursing mothers, or in patients with severe hypertension or severe coronary artery disease. Do not use dextromethorphan in patients receiving monoamine oxidase inhibitors (MAOI) (see PRECAUTIONS - Drug Interactions ). Antihistamines should not be used to treat lower respiratory tract conditions including asthma."
+      ],
+      "warnings": [
+        "WARNINGS Especially in infants and small children, antihistamines in overdosage may cause hallucinations, convulsions, and death. Antihistamines may diminish mental alertness. In the young child, they may produce excitation."
+      ],
+      "precautions": [
+        "PRECAUTIONS General Because of its antihistamine component, brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup should be used with caution in patients with a history of bronchial asthma, narrow angle glaucoma, gastrointestinal obstruction, or urinary bladder neck obstruction. Because of its sympathomimetic component, brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup should be used with caution in patients with diabetes, hypertension, heart disease, or thyroid disease. Information for Patients Patients should be warned about engaging in activities requiring mental alertness, such as driving a car or operating dangerous machinery. Drug Interactions Monoamine oxidase inhibitors (MAOI) Hyperpyrexia, hypotension, and death have been reported coincident with the coadministration of MAOI and products containing dextromethorphan. In addition, MAOI prolong and intensify the anticholinergic (drying) effects of antihistamines and may enhance the effect of pseudoephedrine. Concomitant administration of brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup and MAOI should be avoided (see CONTRAINDICATIONS ). Central nervous system (CNS) depressants Antihistamines have additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, antianxiety agents, etc.). Antihypertensive drugs Sympathomimetic may reduce the effects of antihypertensive drugs. Carcinogenesis, Mutagenesis, Impairment of Fertility Animal studies of brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup to assess the carcinogenic and mutagenic potential or the effect on fertility have not been performed. Pregnancy Teratogenic Effects Animal reproduction studies have not been conducted with brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup. It is also not known whether brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. It should be given to a pregnant woman only if clearly needed. Reproduction studies of brompheniramine maleate (a component of brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup) in rats and mice at doses up to 16 times the maximum human doses have revealed no evidence of impaired fertility or harm to the fetus. Nursing Mothers Because of the higher risk of intolerance of antihistamines in small infants generally, and in newborns and prematures in particular, brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup is contraindicated in nursing mothers. Pediatric Use Safety and effectiveness in pediatric patients below the age of 6 months have not been established (see DOSAGE AND ADMINISTRATION ). Geriatric Use Clinical studies of brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. However, antihistamines are more likely to cause dizziness, sedation, and hypotension in elderly patients. The elderly are also more likely to experience adverse reactions to sympathomimetics. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+      ],
+      "general_precautions": [
+        "General Because of its antihistamine component, brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup should be used with caution in patients with a history of bronchial asthma, narrow angle glaucoma, gastrointestinal obstruction, or urinary bladder neck obstruction. Because of its sympathomimetic component, brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup should be used with caution in patients with diabetes, hypertension, heart disease, or thyroid disease."
+      ],
+      "information_for_patients": [
+        "Information for Patients Patients should be warned about engaging in activities requiring mental alertness, such as driving a car or operating dangerous machinery."
+      ],
+      "drug_interactions": [
+        "Drug Interactions Monoamine oxidase inhibitors (MAOI) Hyperpyrexia, hypotension, and death have been reported coincident with the coadministration of MAOI and products containing dextromethorphan. In addition, MAOI prolong and intensify the anticholinergic (drying) effects of antihistamines and may enhance the effect of pseudoephedrine. Concomitant administration of brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup and MAOI should be avoided (see CONTRAINDICATIONS ). Central nervous system (CNS) depressants Antihistamines have additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, antianxiety agents, etc.). Antihypertensive drugs Sympathomimetic may reduce the effects of antihypertensive drugs."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility Animal studies of brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup to assess the carcinogenic and mutagenic potential or the effect on fertility have not been performed."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Animal reproduction studies have not been conducted with brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup. It is also not known whether brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. It should be given to a pregnant woman only if clearly needed. Reproduction studies of brompheniramine maleate (a component of brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup) in rats and mice at doses up to 16 times the maximum human doses have revealed no evidence of impaired fertility or harm to the fetus."
+      ],
+      "teratogenic_effects": [
+        "Teratogenic Effects Animal reproduction studies have not been conducted with brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup. It is also not known whether brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. It should be given to a pregnant woman only if clearly needed. Reproduction studies of brompheniramine maleate (a component of brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup) in rats and mice at doses up to 16 times the maximum human doses have revealed no evidence of impaired fertility or harm to the fetus."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Because of the higher risk of intolerance of antihistamines in small infants generally, and in newborns and prematures in particular, brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup is contraindicated in nursing mothers."
+      ],
+      "pediatric_use": [
+        "Pediatric Use Safety and effectiveness in pediatric patients below the age of 6 months have not been established (see DOSAGE AND ADMINISTRATION )."
+      ],
+      "geriatric_use": [
+        "Geriatric Use Clinical studies of brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. However, antihistamines are more likely to cause dizziness, sedation, and hypotension in elderly patients. The elderly are also more likely to experience adverse reactions to sympathomimetics. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions to brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide syrup are: sedation; dryness of mouth, nose and throat; thickening of bronchial secretions; dizziness. Other adverse reactions may include: Dermatologic: Urticaria, drug rash, photosensitivity, pruritus. Cardiovascular System: Hypotension, hypertension, cardiac arrhythmias, palpitation. CNS: Disturbed coordination, tremor, irritability, insomnia, visual disturbances, weakness, nervousness, convulsions, headache, euphoria, and dysphoria. G.U. System: Urinary frequency, difficult urination. G.I. System: Epigastric discomfort, anorexia, nausea, vomiting, diarrhea, constipation. Respiratory System: Tightness of chest and wheezing, shortness of breath. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Respiratory System: Tightness of chest and wheezing, shortness of breath. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. To report SUSPECTED ADVERSE REACTIONS, contact PAI Pharma at 1-800-845-8210 or FDA at 1-800-FDA-1088 or HYPERLINK \"http://www.fda.gov/medwatch\" www.fda.gov/medwatch."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Signs and Symptoms Central nervous system effects from overdosage of brompheniramine may vary from depression to stimulation, especially in children. Anticholinergic effects may be noted. Toxic doses of pseudoephedrine may result in CNS stimulation, tachycardia, hypertension, and cardiac arrhythmias; signs of CNS depression may occasionally be seen. Dextromethorphan in toxic doses will cause drowsiness, ataxia, nystagmus, opisthotonos, and convulsive seizures. Toxic Doses Data suggest that individuals may respond in an unexpected manner to apparently small amounts of a particular drug. A 2½-year-old child survived the ingestion of 21 mg/kg of dextromethorphan exhibiting only ataxia, drowsiness, and fever, but seizures have been reported in 2 children following the ingestion of 13–17 mg/kg. Another 2½-year-old child survived a dose of 300–900 mg of brompheniramine. The toxic dose of pseudoephedrine should be less than that of ephedrine, which is estimated to be 50 mg/kg. Treatment Induce emesis if patient is alert and is seen prior to 6 hours following ingestion. Precautions against aspiration must be taken, especially in infants and small children. Gastric lavage may be carried out, although in some instances tracheostomy may be necessary prior to lavage. Naloxone hydrochloride 0.005 mg/kg intravenously may be of value in reversing the CNS depression that may occur from an overdose of dextromethorphan. CNS stimulants may counter CNS depression. Should CNS hyperactivity or convulsive seizures occur, intravenous short-acting barbiturates may be indicated. Hypertensive responses and/or tachycardia should be treated appropriately. Oxygen, intravenous fluids, and other supportive measures should be employed as indicated."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Adults and pediatric patients 12 years of age and over: 10 mL (2 teaspoonfuls) every 4 hours. Children 6 to under 12 years of age: 5 mL (1 teaspoonful) every 4 hours. Children 2 to under 6 years of age: 2.5 mL (½ teaspoonful) every 4 hours. Infants 6 months to under 2 years of age: Dosage to be established by a physician. Do not exceed 6 doses during a 24-hour period."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Brompheniramine Maleate, Pseudoephedrine Hydrochloride, and Dextromethorphan Hydrobromide Syrup is a clear, sweet, unflavored, pink syrup containing in each 5 mL (1 teaspoonful) brompheniramine maleate 2 mg, pseudoephedrine hydrochloride 30 mg and dextromethorphan hydrobromide 10 mg, available in the following sizes: NDC 0121-0933-04: 4 fl oz (118 mL) bottle NDC 0121-0933-16: 16 fl oz (473 mL) bottle RECOMMENDED STORAGE Store at 20° to 25°C (68 ° to 77 °F) [See USP Controlled Room Temperature] . KEEP TIGHTLY CLOSED Dispense in a tight, light-resistant container as defined in the USP."
+      ],
+      "storage_and_handling": [
+        "RECOMMENDED STORAGE Store at 20° to 25°C (68 ° to 77 °F) [See USP Controlled Room Temperature] . KEEP TIGHTLY CLOSED Dispense in a tight, light-resistant container as defined in the USP."
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL - 118 mL Bottle Label NDC 0121- 0933 -04 Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide Oral Solution (2 mg/30 mg/10 mg/ per 5 mL) Alcohol Free٠Sweet٠Unflavored Each 5 mL (teaspoonful) contains: Brompheniramine Maleate, USP ......................... 2 mg Pseudoephedrine Hydrochloride, USP ............... 30 mg Dextromethorphan Hydrobromide, USP............... 10 mg Rx only 4 FL OZ (118 mL) PAI Pharma Brompheniramine Maleate, Pseudoephedrine Hydrochloride, and Dextromethorphan Hydrobromide Syrup, 2 mg/30 mg/10 mg/ per 5 mL 4fl oz bottle",
+        "PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label NDC 0121- 0933 -16 Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide Oral Solution (2 mg/30 mg/10 mg/ per 5 mL) Alcohol Free٠Sweet٠Unflavored Each 5 mL (teaspoonful) contains: Brompheniramine Maleate, USP ......................... 2 mg Pseudoephedrine Hydrochloride, USP ............... 30 mg Dextromethorphan Hydrobromide, USP............... 10 mg Rx only 16 FL OZ (473 mL) PAI Pharma Brompheniramine Maleate, Pseudoephedrine Hydrochloride, and Dextromethorphan Hydrobromide Syrup, 2 mg/30 mg/10 mg per 5 mL 16 fl oz bottle"
+      ],
+      "set_id": "01ea6357-24dc-4056-9fd2-9e643650b91f",
+      "id": "44a05fe1-89fe-4252-b0b8-1ce678a4c6a7",
+      "effective_time": "20250904",
+      "version": "7",
+      "openfda": {
+        "application_number": [
+          "ANDA202940"
+        ],
+        "brand_name": [
+          "Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide"
+        ],
+        "generic_name": [
+          "BROMPHENIRAMINE MALEATE, PSEUDOEPHEDRINE HYDROCHLORIDE, AND DEXTROMETHORPHAN HYDROBROMIDE"
+        ],
+        "manufacturer_name": [
+          "PAI Holdings, LLC dba PAI Pharma"
+        ],
+        "product_ndc": [
+          "0121-0933"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BROMPHENIRAMINE MALEATE",
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "PSEUDOEPHEDRINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1357010"
+        ],
+        "spl_id": [
+          "44a05fe1-89fe-4252-b0b8-1ce678a4c6a7"
+        ],
+        "spl_set_id": [
+          "01ea6357-24dc-4056-9fd2-9e643650b91f"
+        ],
+        "package_ndc": [
+          "0121-0933-04",
+          "0121-0933-16"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "IXA7C9ZN03",
+          "9D2RTI9KYH",
+          "6V9V2RYJ8N"
+        ]
+      }
+    }
+  ]
+}

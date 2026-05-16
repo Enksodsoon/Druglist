@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_EU_NICE_ECZEMA_CHILD",
+  "task_id": "T00087",
+  "source_url": "https://www.nice.org.uk/guidance/cg57/documents",
+  "local_path": "imports/accepted_evidence/bulk/T00087_GUIDE_EU_NICE_ECZEMA_CHILD.html",
+  "sha256": "80f8717a8393b7e4a8d3a905350f2e6da6392f51b8197387b03b2191975fb784",
+  "downloaded_at": "2026-05-16T03:33:51.887873+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:40:GUIDE_EU_NICE_ECZEMA_CHILD",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

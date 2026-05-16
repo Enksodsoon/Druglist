@@ -1,0 +1,14 @@
+{
+  "source_id": "3140",
+  "task_id": "T04729",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Prenolol+25+mg",
+  "local_path": "imports/accepted_evidence/product/3140/T04729_3140.cfm",
+  "sha256": "340bb5fdd79b5ac904a4f0f75db39ca3da3f550640e735ac85a7a7d12bd47cf8",
+  "downloaded_at": "2026-05-16T03:45:11.288513+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:540:3140",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

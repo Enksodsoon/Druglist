@@ -1,0 +1,14 @@
+{
+  "source_id": "2840",
+  "task_id": "T03313",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22Norgesic%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/2840/T03313_2840.json",
+  "sha256": "11bc1ea4f2273eaaf6c9caebdfa760c9cc7c8e206c2202939cfa0f8ecee7678d",
+  "downloaded_at": "2026-05-16T03:41:36.843971+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:345:2840",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

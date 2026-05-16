@@ -1,0 +1,14 @@
+{
+  "source_id": "2861",
+  "task_id": "T02176",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Panadol+Orange+Suspension",
+  "local_path": "imports/accepted_evidence/product/2861/T02176_2861.html",
+  "sha256": "e3ef019566b1abc0ec2f64d8bdbd35e0bc49c02a3360c653ccbe68656d10e1fa",
+  "downloaded_at": "2026-05-16T03:38:45.417939+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:189:2861",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

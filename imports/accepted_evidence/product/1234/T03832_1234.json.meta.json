@@ -1,0 +1,14 @@
+{
+  "source_id": "1234",
+  "task_id": "T03832",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dicyclomine%20%2BSimethicone&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1234/T03832_1234.json",
+  "sha256": "254bfc4149ed9a226e454523c6c7ea6d2e68a2d6f7ee4f246546890c8c5fdbe1",
+  "downloaded_at": "2026-05-16T03:42:55.584117+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:414:1234",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

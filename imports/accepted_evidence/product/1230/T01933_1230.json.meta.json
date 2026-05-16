@@ -1,0 +1,14 @@
+{
+  "source_id": "1230",
+  "task_id": "T01933",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Mebendazole%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1230/T01933_1230.json",
+  "sha256": "d4eb0a2a643cf9664dfe4aaa37843f6d9b18e5d523162789c2241921d280d1f7",
+  "downloaded_at": "2026-05-16T03:38:10.192554+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:158:1230|Product_Label_Links:159:1227|Product_Label_Links:160:1927",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

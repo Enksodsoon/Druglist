@@ -1,0 +1,14 @@
+{
+  "source_id": "2649",
+  "task_id": "T07034",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Maxitrol+Ophthalmic+Ointment",
+  "local_path": "imports/accepted_evidence/product/2649/T07034_2649.html",
+  "sha256": "9180ed78558dde4f6428adb74f689375521e0e8467223c21fd4a1d6040962a17",
+  "downloaded_at": "2026-05-16T03:51:01.480706+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:836:2649",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

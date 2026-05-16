@@ -1,0 +1,14 @@
+{
+  "source_id": "1468",
+  "task_id": "T07097",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Con+Con",
+  "local_path": "imports/accepted_evidence/product/1468/T07097_1468.cfm",
+  "sha256": "9df7603c934d8cb38a546b1e4a7a82d74a4b21849ee15540688b4beaa116ac57",
+  "downloaded_at": "2026-05-16T03:51:10.604386+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:843:1468",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

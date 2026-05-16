@@ -1,0 +1,14 @@
+{
+  "source_id": "44250",
+  "task_id": "T02551",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Loxoprofen&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/44250/T02551_44250.json",
+  "sha256": "20dc63fa1d7ae9058cd031ba687dca0f459be1b7300b2acdbd98e57c3be7a1cc",
+  "downloaded_at": "2026-05-16T03:39:42.475536+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:244:44250",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

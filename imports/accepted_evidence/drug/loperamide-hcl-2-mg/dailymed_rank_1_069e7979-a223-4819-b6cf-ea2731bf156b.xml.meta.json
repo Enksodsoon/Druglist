@@ -1,0 +1,17 @@
+{
+  "source_id": "2214",
+  "task_id": "DAILYMED_1_069e7979-a223-4819-b6cf-ea2731bf156b",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/069e7979-a223-4819-b6cf-ea2731bf156b.xml",
+  "local_path": "imports/accepted_evidence/drug/loperamide-hcl-2-mg/dailymed_rank_1_069e7979-a223-4819-b6cf-ea2731bf156b.xml",
+  "sha256": "2323aad9a53e7b9d1207b033fdf4f703f4275baaf50ed70c0a09bd77bb1d737a",
+  "downloaded_at": "2026-05-16T03:53:45.544190+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Loperamide HCl 2 mg.",
+  "rank": 1,
+  "setid": "069e7979-a223-4819-b6cf-ea2731bf156b",
+  "title": "MEDIQUE DIAMODE (LOPERAMIDE HYDROCHLORIDE) TABLET PRIVATE LABEL DISTRIBUTOR (LOPERAMIDE HCL 2 MG) TABLET [UNIFIRST FIRST AID CORPORATION]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

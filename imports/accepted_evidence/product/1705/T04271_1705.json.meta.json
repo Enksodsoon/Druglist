@@ -1,0 +1,14 @@
+{
+  "source_id": "1705",
+  "task_id": "T04271",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Viartril-S&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1705/T04271_1705.json",
+  "sha256": "c91fc661070d8100c3ad20f0507494030f61a85acbc1533cc0fdd437c9295fec",
+  "downloaded_at": "2026-05-16T03:44:03.608603+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:475:1705",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

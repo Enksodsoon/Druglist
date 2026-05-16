@@ -1,0 +1,14 @@
+{
+  "source_id": "47729",
+  "task_id": "T06879",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Satogesic+Gel",
+  "local_path": "imports/accepted_evidence/product/47729/T06879_47729.html",
+  "sha256": "3a8bebdd2581a805e7183a85c660b3b60202f39e6c1985ccad6ebaaaadea416d",
+  "downloaded_at": "2026-05-16T03:50:39.428101+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:814:47729",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

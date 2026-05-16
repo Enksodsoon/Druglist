@@ -1,0 +1,14 @@
+{
+  "source_id": "2692",
+  "task_id": "T00881",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Cefditoren&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2692/T00881_2692.json",
+  "sha256": "3c8d1ab89abac9947176a84b65299a5d0cdc48bf9975f327158b746d639c201e",
+  "downloaded_at": "2026-05-16T03:35:38.874065+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:17:2692|Product_Label_Links:178:2693",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

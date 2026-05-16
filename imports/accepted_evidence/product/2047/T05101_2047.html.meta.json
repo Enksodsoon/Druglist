@@ -1,0 +1,14 @@
+{
+  "source_id": "2047",
+  "task_id": "T05101",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Gabutin+100+mg",
+  "local_path": "imports/accepted_evidence/product/2047/T05101_2047.html",
+  "sha256": "db06f6acd35f3bf8f40d3d6cd329ec4b756418ebb6bf864dd760f6ac0f2bdf5f",
+  "downloaded_at": "2026-05-16T03:46:09.643504+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:593:2047",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

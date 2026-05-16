@@ -1,0 +1,14 @@
+{
+  "source_id": "1036",
+  "task_id": "T01495",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Algycon",
+  "local_path": "imports/accepted_evidence/product/1036/T01495_1036.html",
+  "sha256": "c86d277d42e44618b0da8a3b24fed9fb157104d78d5662782e608bf846bf3050",
+  "downloaded_at": "2026-05-16T03:37:06.390736+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:103:1036",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

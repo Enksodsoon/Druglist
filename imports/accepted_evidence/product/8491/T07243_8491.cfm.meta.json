@@ -1,0 +1,14 @@
+{
+  "source_id": "8491",
+  "task_id": "T07243",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Nystatin+%2BChloramphenicol+%2BDiiodohydroxyguin",
+  "local_path": "imports/accepted_evidence/product/8491/T07243_8491.cfm",
+  "sha256": "a1fa4556cd2cce1f1cf2b5b11de4a8ff484b505810abc7acd5ae4b6ed6821a61",
+  "downloaded_at": "2026-05-16T03:51:32.484913+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:859:8491",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

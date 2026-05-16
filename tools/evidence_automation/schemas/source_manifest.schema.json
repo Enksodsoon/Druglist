@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DruglistSourceManifestRecord",
+  "type": "object",
+  "required": [
+    "source_id",
+    "local_path",
+    "sha256",
+    "downloaded_at",
+    "status"
+  ],
+  "properties": {
+    "source_id": {
+      "type": "string"
+    },
+    "source_type": {
+      "type": "string"
+    },
+    "region": {
+      "type": "string"
+    },
+    "source_url": {
+      "type": "string"
+    },
+    "local_path": {
+      "type": "string"
+    },
+    "sha256": {
+      "type": "string"
+    },
+    "downloaded_at": {
+      "type": "string"
+    },
+    "file_ext": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

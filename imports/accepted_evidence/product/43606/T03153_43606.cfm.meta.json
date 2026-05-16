@@ -1,0 +1,14 @@
+{
+  "source_id": "43606",
+  "task_id": "T03153",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Gaviscon+Suspension+%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87+4+%E0%B8%8B%E0%B8%AD%E0%B8%87",
+  "local_path": "imports/accepted_evidence/product/43606/T03153_43606.cfm",
+  "sha256": "b1a3280f9262fb640c27458592fca9ba8ecc2f81f48b398dcbbc303abb006d84",
+  "downloaded_at": "2026-05-16T03:41:13.195925+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:324:43606",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

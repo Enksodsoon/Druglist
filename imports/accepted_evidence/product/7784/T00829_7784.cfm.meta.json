@@ -1,0 +1,14 @@
+{
+  "source_id": "7784",
+  "task_id": "T00829",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cephalexin",
+  "local_path": "imports/accepted_evidence/product/7784/T00829_7784.cfm",
+  "sha256": "a87216e252d2ad9b3844b6d7f0b7a60279f8f18af0e5939bf4d2debe64c86224",
+  "downloaded_at": "2026-05-16T03:35:32.604214+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:10:7784",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

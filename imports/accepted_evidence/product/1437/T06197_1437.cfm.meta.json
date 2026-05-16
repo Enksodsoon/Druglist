@@ -1,0 +1,14 @@
+{
+  "source_id": "1437",
+  "task_id": "T06197",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ChlorOph+Eye+Drops",
+  "local_path": "imports/accepted_evidence/product/1437/T06197_1437.cfm",
+  "sha256": "c468c3470737149c601438a6ba1d29744a9ea5aaad196cd620633d84a2e1d089",
+  "downloaded_at": "2026-05-16T03:48:51.099624+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:735:1437",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

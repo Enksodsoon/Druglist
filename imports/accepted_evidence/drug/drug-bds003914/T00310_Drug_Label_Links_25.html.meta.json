@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_25",
+  "task_id": "T00310",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=diclofenac+topical",
+  "local_path": "imports/accepted_evidence/drug/drug-bds003914/T00310_Drug_Label_Links_25.html",
+  "sha256": "edb824a15792db58d46f3aa2acf1665743dcc70a60ab8f884982cfd9650a8041",
+  "downloaded_at": "2026-05-16T03:34:20.547820+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:25:Drug_Label_Links_25",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

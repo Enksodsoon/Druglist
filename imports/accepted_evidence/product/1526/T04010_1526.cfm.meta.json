@@ -1,0 +1,14 @@
+{
+  "source_id": "1526",
+  "task_id": "T04010",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Desogestrel",
+  "local_path": "imports/accepted_evidence/product/1526/T04010_1526.cfm",
+  "sha256": "fc1976a353f1a875d533439685036e4e4ebb148f4e6019a2596463b627139d74",
+  "downloaded_at": "2026-05-16T03:43:24.217092+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:437:1526",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

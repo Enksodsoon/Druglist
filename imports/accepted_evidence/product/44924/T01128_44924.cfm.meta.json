@@ -1,0 +1,14 @@
+{
+  "source_id": "44924",
+  "task_id": "T01128",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Montulair+10+mg",
+  "local_path": "imports/accepted_evidence/product/44924/T01128_44924.cfm",
+  "sha256": "18f575de5532df2247a5fbb62b81504e042907ca5a3a9690353ca54c0aa94b9e",
+  "downloaded_at": "2026-05-16T03:36:12.739088+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:51:44924",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

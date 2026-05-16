@@ -1,0 +1,14 @@
+{
+  "source_id": "2684",
+  "task_id": "T06827",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=M-Cin",
+  "local_path": "imports/accepted_evidence/product/2684/T06827_2684.cfm",
+  "sha256": "12ed7ba00f3eb53905c45523c5ee72f7ca35936b7668ce866ab81f57e926642f",
+  "downloaded_at": "2026-05-16T03:50:28.435362+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:806:2684",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

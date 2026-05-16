@@ -1,0 +1,14 @@
+{
+  "source_id": "1470",
+  "task_id": "T06768",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Piroxicam+0+5+%2BMethyl+salicylate+10+2+%2BMenthol+5+43+%2BEugenol+1+37",
+  "local_path": "imports/accepted_evidence/product/1470/T06768_1470.cfm",
+  "sha256": "21fd732c6fc81c77cb109ef7091070dcd55065cfcbe0a92af6ec2d1be227eeb0",
+  "downloaded_at": "2026-05-16T03:50:20.094008+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:799:1470",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

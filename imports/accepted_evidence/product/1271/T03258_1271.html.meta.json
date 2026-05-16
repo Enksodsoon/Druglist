@@ -1,0 +1,14 @@
+{
+  "source_id": "1271",
+  "task_id": "T03258",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Biocalm",
+  "local_path": "imports/accepted_evidence/product/1271/T03258_1271.html",
+  "sha256": "c40e164a08b6edce63be992e5f1d5e8482793ae16af4984142c7dff966151617",
+  "downloaded_at": "2026-05-16T03:41:29.763568+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:336:1271",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

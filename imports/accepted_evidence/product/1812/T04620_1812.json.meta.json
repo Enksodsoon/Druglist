@@ -1,0 +1,14 @@
+{
+  "source_id": "1812",
+  "task_id": "T04620",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Enaril%205%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1812/T04620_1812.json",
+  "sha256": "5b45fbbbb48ae8d563842297ef7f3041c36c7b86b9211baad4e0d6a71570059d",
+  "downloaded_at": "2026-05-16T03:44:55.147185+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:524:1812",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

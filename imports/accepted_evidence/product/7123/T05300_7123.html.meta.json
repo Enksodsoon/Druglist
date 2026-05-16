@@ -1,0 +1,14 @@
+{
+  "source_id": "7123",
+  "task_id": "T05300",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Folic+Acid",
+  "local_path": "imports/accepted_evidence/product/7123/T05300_7123.html",
+  "sha256": "2e4bd6a929ba49cae3f52a3205dafa8091e3273b01c2feaa0b98b526b051b8d1",
+  "downloaded_at": "2026-05-16T03:46:37.021864+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:620:7123",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

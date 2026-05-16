@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_65",
+  "task_id": "T00628",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=fusidic+acid+eye+drops",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001847/T00628_Drug_Label_Links_65.cfm",
+  "sha256": "2361c4d172792d1f1ef701929237cf1372e34ebc32b173aa3a489504418640f3",
+  "downloaded_at": "2026-05-16T03:35:05.257513+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:65:Drug_Label_Links_65",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2847",
+  "task_id": "T02179",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Panadol%20Strawberry%20Suspension&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2847/T02179_2847.json",
+  "sha256": "23c496d27a12a56a8bef3c4439fd682674ef618dc639f5ce16fccba8dad64c49",
+  "downloaded_at": "2026-05-16T03:38:46.676427+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:190:2847",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

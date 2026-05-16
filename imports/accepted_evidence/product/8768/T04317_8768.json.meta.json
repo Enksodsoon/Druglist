@@ -1,0 +1,14 @@
+{
+  "source_id": "8768",
+  "task_id": "T04317",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bisacodyl%20%2BDioctyl%20sulfosuccinate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8768/T04317_8768.json",
+  "sha256": "ca1f2dba79f4e26a488985d5fe270ca72f822e170a362b1f7606b60c209e8c6f",
+  "downloaded_at": "2026-05-16T03:44:11.677223+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:482:8768",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3065",
+  "task_id": "T01623",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ocid",
+  "local_path": "imports/accepted_evidence/product/3065/T01623_3065.cfm",
+  "sha256": "413ffde7b15bb9592962ccec27ea1bf11dadfc66e3478c34a3498e0f65cae296",
+  "downloaded_at": "2026-05-16T03:37:24.816666+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:118:3065",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

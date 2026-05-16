@@ -1,0 +1,14 @@
+{
+  "source_id": "1644",
+  "task_id": "T04045",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Diora-28&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1644/T04045_1644.json",
+  "sha256": "65a4ea77b1b7248666ee73945501cbdfa7802ed6f279d250f24d6383f9a574f9",
+  "downloaded_at": "2026-05-16T03:43:29.038538+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:442:1644",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

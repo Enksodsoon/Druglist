@@ -1,0 +1,14 @@
+{
+  "source_id": "41504",
+  "task_id": "T01248",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Chlorpheniramine+2+mg.",
+  "local_path": "imports/accepted_evidence/product/41504/T01248_41504.cfm",
+  "sha256": "8f94851ad829e2388c1c66acbd1635aef3998792f03f95624c17c7b7c58512db",
+  "downloaded_at": "2026-05-16T03:36:29.485656+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:71:41504",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

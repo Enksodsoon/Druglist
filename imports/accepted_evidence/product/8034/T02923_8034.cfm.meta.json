@@ -1,0 +1,14 @@
+{
+  "source_id": "8034",
+  "task_id": "T02923",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Berclomine+Syrup",
+  "local_path": "imports/accepted_evidence/product/8034/T02923_8034.cfm",
+  "sha256": "80cad929717dae304a8c6b6c49fdc8f6bf1439daf19530f012023e309c1315c2",
+  "downloaded_at": "2026-05-16T03:40:38.033999+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:294:8034",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

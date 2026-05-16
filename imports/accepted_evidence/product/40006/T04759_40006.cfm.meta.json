@@ -1,0 +1,14 @@
+{
+  "source_id": "40006",
+  "task_id": "T04759",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Amaryl+2+mg",
+  "local_path": "imports/accepted_evidence/product/40006/T04759_40006.cfm",
+  "sha256": "b34cddc2fb4aa5844ecd71e913778d8da0b2ce9bb90f142d8d7800a86dc55440",
+  "downloaded_at": "2026-05-16T03:45:15.607633+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:545:40006",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

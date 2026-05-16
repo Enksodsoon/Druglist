@@ -1,0 +1,14 @@
+{
+  "source_id": "6802",
+  "task_id": "T05027",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Hydrochlorothiazide&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/6802/T05027_6802.json",
+  "sha256": "d704cf038223d54a2bc8aabdb711c8faf8b5c28dd875c5fbc6eadfa81eecfb6e",
+  "downloaded_at": "2026-05-16T03:45:56.222547+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:584:6802|Product_Label_Links:585:6801|Product_Label_Links:586:1480",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

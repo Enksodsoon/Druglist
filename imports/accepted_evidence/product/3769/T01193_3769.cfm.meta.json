@@ -1,0 +1,14 @@
+{
+  "source_id": "3769",
+  "task_id": "T01193",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Telfast+60+mg",
+  "local_path": "imports/accepted_evidence/product/3769/T01193_3769.cfm",
+  "sha256": "88815e00e7e40826d4ea72bf833940ca14a3bb983bf0e65bf8156a3451d5f4b9",
+  "downloaded_at": "2026-05-16T03:36:21.421345+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:61:3769",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

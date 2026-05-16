@@ -1,0 +1,14 @@
+{
+  "source_id": "3651",
+  "task_id": "T05249",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Sermion+10+mg",
+  "local_path": "imports/accepted_evidence/product/3651/T05249_3651.cfm",
+  "sha256": "2183625b3f89ef6fa3a87165b5a6a792be1630f3bcde41c1c11a2f2b75bf0f13",
+  "downloaded_at": "2026-05-16T03:46:27.135366+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:615:3651",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

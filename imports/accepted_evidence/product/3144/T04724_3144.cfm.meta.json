@@ -1,0 +1,14 @@
+{
+  "source_id": "3144",
+  "task_id": "T04724",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Prenolol+100+mg",
+  "local_path": "imports/accepted_evidence/product/3144/T04724_3144.cfm",
+  "sha256": "8777b50bdc2f0a5e746f71a65c9489111e8710d5bca4fba5349e5dad5b05235b",
+  "downloaded_at": "2026-05-16T03:45:10.496201+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:539:3144",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

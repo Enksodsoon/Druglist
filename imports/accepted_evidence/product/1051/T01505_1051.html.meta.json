@@ -1,0 +1,14 @@
+{
+  "source_id": "1051",
+  "task_id": "T01505",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Antacil",
+  "local_path": "imports/accepted_evidence/product/1051/T01505_1051.html",
+  "sha256": "c328b70662bf29c00f0533c002757f68f59b0ae83ead93a482071aa9c343c9e5",
+  "downloaded_at": "2026-05-16T03:37:06.748894+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:104:1051",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

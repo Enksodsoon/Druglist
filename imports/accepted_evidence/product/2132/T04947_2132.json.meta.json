@@ -1,0 +1,14 @@
+{
+  "source_id": "2132",
+  "task_id": "T04947",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Gemfibrozil&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2132/T04947_2132.json",
+  "sha256": "bb1e7dc05b31ab6ed71bfd1338f92beeb6c60c946f9630989cc9ec6f36c7e37c",
+  "downloaded_at": "2026-05-16T03:45:44.236400+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:572:2132|Product_Label_Links:573:2133",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

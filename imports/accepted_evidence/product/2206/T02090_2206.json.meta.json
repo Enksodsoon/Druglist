@@ -1,0 +1,14 @@
+{
+  "source_id": "2206",
+  "task_id": "T02090",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ibilex%20Syrup&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2206/T02090_2206.json",
+  "sha256": "41d09c30e9fcf8eff111dffd3e697284e800128b792bfb9e09f2f4d96a44b658",
+  "downloaded_at": "2026-05-16T03:38:33.334881+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:177:2206",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

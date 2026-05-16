@@ -1,0 +1,14 @@
+{
+  "source_id": "7501",
+  "task_id": "T05819",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Betatone+Cream+%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+  "local_path": "imports/accepted_evidence/product/7501/T05819_7501.html",
+  "sha256": "09632ca22792909b094b3d25815232a21797690dfff75a811809c0d3c9984194",
+  "downloaded_at": "2026-05-16T03:47:56.131661+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:683:7501",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "46509",
+  "task_id": "T01683",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Proctase-P",
+  "local_path": "imports/accepted_evidence/product/46509/T01683_46509.cfm",
+  "sha256": "0b978680d458d9a03a7b2731c1c0e1822e1e1053aa6f818352d5c44af2ea2292",
+  "downloaded_at": "2026-05-16T03:37:33.647845+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:125:46509",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

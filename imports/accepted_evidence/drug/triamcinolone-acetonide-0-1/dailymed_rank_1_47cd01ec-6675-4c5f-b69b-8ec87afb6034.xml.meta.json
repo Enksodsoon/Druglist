@@ -1,0 +1,17 @@
+{
+  "source_id": "DRUG_BDS007549",
+  "task_id": "DAILYMED_1_47cd01ec-6675-4c5f-b69b-8ec87afb6034",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/47cd01ec-6675-4c5f-b69b-8ec87afb6034.xml",
+  "local_path": "imports/accepted_evidence/drug/triamcinolone-acetonide-0-1/dailymed_rank_1_47cd01ec-6675-4c5f-b69b-8ec87afb6034.xml",
+  "sha256": "f9a8a8ad12ccd22347353663691f658ebf3fb74b29fe129efa8d1f83705ecfc6",
+  "downloaded_at": "2026-05-16T03:53:11.673680+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Drug_Label_Links",
+  "query_name": "Triamcinolone Acetonide 0.1%",
+  "rank": 1,
+  "setid": "47cd01ec-6675-4c5f-b69b-8ec87afb6034",
+  "title": "DERMAVYX (TRIAMCINOLONE ACETONIDE CREAM 0.1%, TRANSPARENT DRESSING) KIT [V2 PHARMA, LLC]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

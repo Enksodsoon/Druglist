@@ -1,0 +1,14 @@
+{
+  "source_id": "8151",
+  "task_id": "T03774",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Sambee",
+  "local_path": "imports/accepted_evidence/product/8151/T03774_8151.cfm",
+  "sha256": "1f81ef63a4de44acda24438bb43e55cb652cb17f5de25c0f068a391cd7944f74",
+  "downloaded_at": "2026-05-16T03:42:47.611216+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:407:8151",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

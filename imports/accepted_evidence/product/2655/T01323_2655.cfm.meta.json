@@ -1,0 +1,14 @@
+{
+  "source_id": "2655",
+  "task_id": "T01323",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Mucolid",
+  "local_path": "imports/accepted_evidence/product/2655/T01323_2655.cfm",
+  "sha256": "e07c0efbea85aa968894a07d02865dbb9a47c0902ff9855c3cd673f0a90a6e52",
+  "downloaded_at": "2026-05-16T03:36:39.829314+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:82:2655",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

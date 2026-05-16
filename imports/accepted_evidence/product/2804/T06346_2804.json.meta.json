@@ -1,0 +1,14 @@
+{
+  "source_id": "2804",
+  "task_id": "T06346",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22Naphcon-A%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/2804/T06346_2804.json",
+  "sha256": "fb9d3f6d4c2d4e1ad01d13e5e6a46ebc2c8d70f483a7ff97b693014803651aeb",
+  "downloaded_at": "2026-05-16T03:49:13.385757+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:750:2804",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

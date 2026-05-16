@@ -1,0 +1,14 @@
+{
+  "source_id": "2886",
+  "task_id": "T06484",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Natear",
+  "local_path": "imports/accepted_evidence/product/2886/T06484_2886.html",
+  "sha256": "eca46a71e16e173d0b35395a6e4cc22c3c8e962018af43538688dad36b845027",
+  "downloaded_at": "2026-05-16T03:49:35.557355+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:764:2886",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

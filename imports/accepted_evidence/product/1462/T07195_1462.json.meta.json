@@ -1,0 +1,14 @@
+{
+  "source_id": "1462",
+  "task_id": "T07195",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Levofloxacin%200%205%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1462/T07195_1462.json",
+  "sha256": "097fd8a9d6aa573c8f16a091ed873019480afe3f398f65d46794230cd801087e",
+  "downloaded_at": "2026-05-16T03:51:25.378783+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:854:1462",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

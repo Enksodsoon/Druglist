@@ -1,0 +1,14 @@
+{
+  "source_id": "7038",
+  "task_id": "T02274",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cetirizine+2HCl+%2F",
+  "local_path": "imports/accepted_evidence/product/7038/T02274_7038.cfm",
+  "sha256": "fc6950e305952aa3d156adfb8e536e24983965ca89e44a882b9295912d890af5",
+  "downloaded_at": "2026-05-16T03:39:00.083630+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:206:7038|Product_Label_Links:211:8086",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

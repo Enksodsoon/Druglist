@@ -1,0 +1,14 @@
+{
+  "source_id": "2625",
+  "task_id": "T03749",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Methycobal+500",
+  "local_path": "imports/accepted_evidence/product/2625/T03749_2625.cfm",
+  "sha256": "08a87dc6f055dd2c4555cf7b7af2e72892c739033c51dc69fcd0d2284b26ac31",
+  "downloaded_at": "2026-05-16T03:42:43.610269+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:404:2625",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "45666",
+  "task_id": "T01973",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Activated%20Charcoal%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/45666/T01973_45666.json",
+  "sha256": "7bf1df79822085147b3e12ca218452f44ac5bfe9d382782d8448b0a6c750abe8",
+  "downloaded_at": "2026-05-16T03:38:16.846203+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:163:45666",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1806",
+  "task_id": "T06793",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Indomethacin+%2F",
+  "local_path": "imports/accepted_evidence/product/1806/T06793_1806.cfm",
+  "sha256": "f88cd7ef1ecd95ccfaea3166db87964768ecf30f82bb23b433ba4aa03debebb1",
+  "downloaded_at": "2026-05-16T03:50:23.423074+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:802:1806|Product_Label_Links:806:2684",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

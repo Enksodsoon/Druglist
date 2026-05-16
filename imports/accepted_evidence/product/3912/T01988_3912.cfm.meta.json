@@ -1,0 +1,14 @@
+{
+  "source_id": "3912",
+  "task_id": "T01988",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dacin-F+300",
+  "local_path": "imports/accepted_evidence/product/3912/T01988_3912.cfm",
+  "sha256": "fe3e0f4cea5a7bf58f6c51e65d0ca754b6233a9d89a255847c0b0159249b920a",
+  "downloaded_at": "2026-05-16T03:38:19.133468+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:165:3912",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

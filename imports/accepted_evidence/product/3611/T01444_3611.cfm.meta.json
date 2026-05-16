@@ -1,0 +1,14 @@
+{
+  "source_id": "3611",
+  "task_id": "T01444",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Sennoside",
+  "local_path": "imports/accepted_evidence/product/3611/T01444_3611.cfm",
+  "sha256": "33103e3c6fb513860f2fb4bf8b818550a0b29f295ba3cca8265e03004bc9188a",
+  "downloaded_at": "2026-05-16T03:36:58.401182+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:98:3611",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1607",
+  "task_id": "T05959",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Elomet+Lotion",
+  "local_path": "imports/accepted_evidence/product/1607/T05959_1607.html",
+  "sha256": "527120e551a26f80266a22116ba4c5b2d51b1913c2649f3c0e9b7a34fe0c529c",
+  "downloaded_at": "2026-05-16T03:48:15.565262+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:701:1607",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "4086",
+  "task_id": "T01921",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Vilerm+400+mg+5s",
+  "local_path": "imports/accepted_evidence/product/4086/T01921_4086.html",
+  "sha256": "77a2b33068751d3bb655e8ba3e620979a75feeafd8c621229d06c2b680308a3c",
+  "downloaded_at": "2026-05-16T03:38:11.692213+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:156:4086",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

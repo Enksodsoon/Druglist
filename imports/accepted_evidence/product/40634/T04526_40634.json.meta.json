@@ -1,0 +1,14 @@
+{
+  "source_id": "40634",
+  "task_id": "T04526",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Blopress%2016%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/40634/T04526_40634.json",
+  "sha256": "5bb4cc0a3b5fe10a60f77b772a5c558e2443c29d88c2df2c927f843b697ae6aa",
+  "downloaded_at": "2026-05-16T03:44:42.223686+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:513:40634",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

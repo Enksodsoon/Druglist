@@ -1,0 +1,14 @@
+{
+  "source_id": "2886",
+  "task_id": "T06477",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Natear",
+  "local_path": "imports/accepted_evidence/product/2886/T06477_2886.cfm",
+  "sha256": "2550f0c2e8106a872339a532a8dc5d386ef84256fad8937925c27b0a190692f7",
+  "downloaded_at": "2026-05-16T03:49:34.506895+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:764:2886",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

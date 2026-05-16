@@ -1,0 +1,14 @@
+{
+  "source_id": "6571",
+  "task_id": "T02903",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Serc+24+mg",
+  "local_path": "imports/accepted_evidence/product/6571/T02903_6571.cfm",
+  "sha256": "3537c4b283fcaaa68d8818dcd3361d5f1ca95b01cb1173f97d9e08473d849d06",
+  "downloaded_at": "2026-05-16T03:40:35.006341+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:290:6571",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

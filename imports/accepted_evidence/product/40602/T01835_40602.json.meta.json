@@ -1,0 +1,14 @@
+{
+  "source_id": "40602",
+  "task_id": "T01835",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Biozole%20150%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/40602/T01835_40602.json",
+  "sha256": "982602b11c86d45dbdf744e2fbdc42707ae8b496d67709faec2c7036ac56a6d4",
+  "downloaded_at": "2026-05-16T03:37:56.898591+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:144:40602",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

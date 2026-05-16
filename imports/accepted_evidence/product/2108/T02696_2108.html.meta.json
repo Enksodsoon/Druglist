@@ -1,0 +1,14 @@
+{
+  "source_id": "2108",
+  "task_id": "T02696",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Hidrasec+Paediatric+30+mg",
+  "local_path": "imports/accepted_evidence/product/2108/T02696_2108.html",
+  "sha256": "dafbdb9ca0e0517db930e1010c15654bad98a94b4fd5738c95655cea6bbe2e28",
+  "downloaded_at": "2026-05-16T03:40:06.733999+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:266:2108",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

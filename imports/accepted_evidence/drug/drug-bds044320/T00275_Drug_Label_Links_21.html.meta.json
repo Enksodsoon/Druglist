@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_21",
+  "task_id": "T00275",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=normal+saline",
+  "local_path": "imports/accepted_evidence/drug/drug-bds044320/T00275_Drug_Label_Links_21.html",
+  "sha256": "06629aefc029310d2df0f8715e893cf90769cd51d0291378f82ac1e1532fdf6e",
+  "downloaded_at": "2026-05-16T03:34:16.235489+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:21:Drug_Label_Links_21",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

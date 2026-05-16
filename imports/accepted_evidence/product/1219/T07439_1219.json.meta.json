@@ -1,0 +1,14 @@
+{
+  "source_id": "1219",
+  "task_id": "T07439",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bepanthen%20Ointment&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1219/T07439_1219.json",
+  "sha256": "0b760491749e09414c631cb600a318a9543542b942768e498eeba2a5df73c26c",
+  "downloaded_at": "2026-05-16T03:52:02.908969+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:882:1219",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

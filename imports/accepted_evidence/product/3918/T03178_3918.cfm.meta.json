@@ -1,0 +1,14 @@
+{
+  "source_id": "3918",
+  "task_id": "T03178",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ulcefate+Suspension+bottle+240+ml",
+  "local_path": "imports/accepted_evidence/product/3918/T03178_3918.cfm",
+  "sha256": "9c46328f610eb5dbc7437f6870625448a71a266bfb820a5f28a419b7d3bb5dd8",
+  "downloaded_at": "2026-05-16T03:41:16.926308+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:327:3918",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

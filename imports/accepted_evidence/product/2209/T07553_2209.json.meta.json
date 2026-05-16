@@ -1,0 +1,14 @@
+{
+  "source_id": "2209",
+  "task_id": "T07553",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Iliadin%200.05%25%20%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%AB%E0%B8%A2%E0%B8%94&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2209/T07553_2209.json",
+  "sha256": "226bba7996bb3ed200450e7df3873ece6f6b786ef1c3c4807ea8a79be7f44411",
+  "downloaded_at": "2026-05-16T03:52:19.638252+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:894:2209",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

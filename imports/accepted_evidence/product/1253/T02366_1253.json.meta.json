@@ -1,0 +1,14 @@
+{
+  "source_id": "1253",
+  "task_id": "T02366",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bromhexine%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1253/T02366_1253.json",
+  "sha256": "5acf1d9af990ca94beb57be8c0398c339d85311216fb75a0b4c9457ebe1eeb60",
+  "downloaded_at": "2026-05-16T03:39:13.652130+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:217:1253|Product_Label_Links:430:7031",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

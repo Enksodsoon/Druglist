@@ -1,0 +1,14 @@
+{
+  "source_id": "2290",
+  "task_id": "T02340",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ivorin%20Syrup&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2290/T02340_2290.json",
+  "sha256": "7ebe24e255727694271c2af40ef01cd3e72398faa91d6d55d7af0f3a1fe703ef",
+  "downloaded_at": "2026-05-16T03:39:09.204271+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:214:2290",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

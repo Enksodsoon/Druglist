@@ -1,0 +1,14 @@
+{
+  "source_id": "7145",
+  "task_id": "T01080",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Histatabs&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7145/T01080_7145.json",
+  "sha256": "7de42e07f909299c6eb7b9d2fef1cf28ac69ddc00770143ebf8d29f09701b6b6",
+  "downloaded_at": "2026-05-16T03:36:05.668059+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:45:7145",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

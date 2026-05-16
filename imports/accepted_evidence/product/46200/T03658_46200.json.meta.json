@@ -1,0 +1,14 @@
+{
+  "source_id": "46200",
+  "task_id": "T03658",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Oral-VP%20tabslet&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/46200/T03658_46200.json",
+  "sha256": "8a5d4c2e3566dd773fa7944eb912d286d78d303f8fc0a05805d716aba94968ab",
+  "downloaded_at": "2026-05-16T03:42:29.728288+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:394:46200",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

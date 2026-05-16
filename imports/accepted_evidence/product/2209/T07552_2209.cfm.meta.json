@@ -1,0 +1,14 @@
+{
+  "source_id": "2209",
+  "task_id": "T07552",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Iliadin+0.05%25+%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%AB%E0%B8%A2%E0%B8%94",
+  "local_path": "imports/accepted_evidence/product/2209/T07552_2209.cfm",
+  "sha256": "9fd8c0ec50527b23cf56f6f5d22d3a5e35aa8b8d6134db44ae957eb6053b0720",
+  "downloaded_at": "2026-05-16T03:52:19.770016+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:894:2209",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

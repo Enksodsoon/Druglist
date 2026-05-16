@@ -1,0 +1,14 @@
+{
+  "source_id": "7736",
+  "task_id": "T06093",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clotrimazole+%2BBetamethasone+Valerate+%2F",
+  "local_path": "imports/accepted_evidence/product/7736/T06093_7736.cfm",
+  "sha256": "cf6cea5ece59333411fba58bdc2776cddbce1abc471a1070d1beabeabbdb5e98",
+  "downloaded_at": "2026-05-16T03:48:35.672687+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:720:7736|Product_Label_Links:721:1956|Product_Label_Links:722:1932",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

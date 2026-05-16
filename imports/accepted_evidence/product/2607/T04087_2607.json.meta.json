@@ -1,0 +1,14 @@
+{
+  "source_id": "2607",
+  "task_id": "T04087",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Desogestrel%20%2BEthinylestradiol&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2607/T04087_2607.json",
+  "sha256": "83515ff84d6e483fa7316f51df5f616fe199b0e70d27220d5b85f4a3aefeaecf",
+  "downloaded_at": "2026-05-16T03:43:35.757982+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:447:2607|Product_Label_Links:448:2608|Product_Label_Links:452:2619|Product_Label_Links:453:2620|Product_Label_Links:455:2670|Product_Label_Links:456:2671",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

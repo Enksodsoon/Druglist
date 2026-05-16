@@ -1,0 +1,14 @@
+{
+  "source_id": "4212",
+  "task_id": "T02325",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Zyrtec+Syrup",
+  "local_path": "imports/accepted_evidence/product/4212/T02325_4212.html",
+  "sha256": "5fa5d37cea050151a591831111b71695821badb0d79db0c339135cc2c9380559",
+  "downloaded_at": "2026-05-16T03:39:07.979957+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:212:4212",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

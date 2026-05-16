@@ -1,0 +1,14 @@
+{
+  "source_id": "6250",
+  "task_id": "T01763",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Gasmotin+tabslets",
+  "local_path": "imports/accepted_evidence/product/6250/T01763_6250.cfm",
+  "sha256": "47cd442ee9345000023e2cc8158dca639b75c4f8f525e298fc2765a17704502f",
+  "downloaded_at": "2026-05-16T03:37:46.071270+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:134:6250",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

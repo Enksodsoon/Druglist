@@ -1,0 +1,14 @@
+{
+  "source_id": "2228",
+  "task_id": "T07543",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Oxymetazoline+0+025",
+  "local_path": "imports/accepted_evidence/product/2228/T07543_2228.cfm",
+  "sha256": "39f6559e1d1653959e08ea2bf82618cc335d35d26aac891e074f05d6c062b1be",
+  "downloaded_at": "2026-05-16T03:52:18.444775+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:893:2228",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

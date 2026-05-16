@@ -1,0 +1,14 @@
+{
+  "source_id": "1531",
+  "task_id": "T01274",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Acetylcysteine",
+  "local_path": "imports/accepted_evidence/product/1531/T01274_1531.cfm",
+  "sha256": "a661627fc14e789f90b387313af26d3f8b2b68e67d53b8dfc1912fe5559d87f8",
+  "downloaded_at": "2026-05-16T03:36:32.439606+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:74:1531|Product_Label_Links:78:43121|Product_Label_Links:80:1909|Product_Label_Links:81:2574|Product_Label_Links:87:2901",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

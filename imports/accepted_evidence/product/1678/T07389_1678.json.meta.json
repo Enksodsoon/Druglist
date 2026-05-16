@@ -1,0 +1,14 @@
+{
+  "source_id": "1678",
+  "task_id": "T07389",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dermacombin%20Cream&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1678/T07389_1678.json",
+  "sha256": "caedfa2d7c560497a6d722783debfe1fba182497c6c2707ff7f217e64070a61e",
+  "downloaded_at": "2026-05-16T03:51:54.367611+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:875:1678",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

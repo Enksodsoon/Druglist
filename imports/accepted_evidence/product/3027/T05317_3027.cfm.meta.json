@@ -1,0 +1,14 @@
+{
+  "source_id": "3027",
+  "task_id": "T05317",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Obimin-AZ",
+  "local_path": "imports/accepted_evidence/product/3027/T05317_3027.cfm",
+  "sha256": "1fa1f7512964ac2be92e9dc13b58438d65547798f03f8804e52d570bba9f62d8",
+  "downloaded_at": "2026-05-16T03:46:36.894300+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:623:3027",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

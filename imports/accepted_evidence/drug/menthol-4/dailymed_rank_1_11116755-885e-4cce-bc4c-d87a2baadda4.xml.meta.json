@@ -1,0 +1,17 @@
+{
+  "source_id": "1475",
+  "task_id": "DAILYMED_1_11116755-885e-4cce-bc4c-d87a2baadda4",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/11116755-885e-4cce-bc4c-d87a2baadda4.xml",
+  "local_path": "imports/accepted_evidence/drug/menthol-4/dailymed_rank_1_11116755-885e-4cce-bc4c-d87a2baadda4.xml",
+  "sha256": "0003fc54127aac68dd706280179ca59cdb188a52bfa9f7bf69bee9cd038f7492",
+  "downloaded_at": "2026-05-16T03:55:53.830044+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Menthol 4%",
+  "rank": 1,
+  "setid": "11116755-885e-4cce-bc4c-d87a2baadda4",
+  "title": "LIDOSYNC (LIDOCAINE 4%, MENTHOL 1%) PATCH [ION PHARMA, LLC]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

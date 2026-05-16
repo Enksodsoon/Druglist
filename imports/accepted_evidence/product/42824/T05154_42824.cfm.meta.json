@@ -1,0 +1,14 @@
+{
+  "source_id": "42824",
+  "task_id": "T05154",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Euthyrox+50+mcg+%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87",
+  "local_path": "imports/accepted_evidence/product/42824/T05154_42824.cfm",
+  "sha256": "3fbde78a0d7ace5931b62952dd6c296d09d9bfda5a49258763871cb443d17762",
+  "downloaded_at": "2026-05-16T03:46:14.055501+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:602:42824",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "40631",
+  "task_id": "T04279",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bromcolex",
+  "local_path": "imports/accepted_evidence/product/40631/T04279_40631.cfm",
+  "sha256": "b322c5bfc0d959c321dfcf414156ceb4cc6bdea36e689e0785293fd2cb9ea407",
+  "downloaded_at": "2026-05-16T03:44:05.155026+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:476:40631",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

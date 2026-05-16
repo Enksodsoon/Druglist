@@ -1,0 +1,14 @@
+{
+  "source_id": "41454",
+  "task_id": "T01036",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Micronized%20Loratadine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/41454/T01036_41454.json",
+  "sha256": "d9a10e8e6ecc7d3603ad23c007dfbf665eaa4113e30395eaeb088ca95e2e1390",
+  "downloaded_at": "2026-05-16T03:35:59.460237+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:39:41454",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

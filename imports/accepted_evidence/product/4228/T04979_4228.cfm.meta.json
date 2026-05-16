@@ -1,0 +1,14 @@
+{
+  "source_id": "4228",
+  "task_id": "T04979",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Zimmex+10+mg",
+  "local_path": "imports/accepted_evidence/product/4228/T04979_4228.cfm",
+  "sha256": "2e900e09573c9966992bbc3195aa18d5184b5eb61ae8ea1dc592161b2c930ac7",
+  "downloaded_at": "2026-05-16T03:45:49.162651+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:577:4228",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

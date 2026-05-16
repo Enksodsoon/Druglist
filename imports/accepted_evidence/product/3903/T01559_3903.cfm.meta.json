@@ -1,0 +1,14 @@
+{
+  "source_id": "3903",
+  "task_id": "T01559",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Sucralfate",
+  "local_path": "imports/accepted_evidence/product/3903/T01559_3903.cfm",
+  "sha256": "5dacc8a03dca081f8ca19e067f90401e2f976ca74c161b690e38199681566c97",
+  "downloaded_at": "2026-05-16T03:37:15.561640+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:110:3903|Product_Label_Links:329:3915",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

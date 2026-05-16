@@ -1,0 +1,14 @@
+{
+  "source_id": "4225",
+  "task_id": "T02151",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Zithromax+Dry+200+mg",
+  "local_path": "imports/accepted_evidence/product/4225/T02151_4225.html",
+  "sha256": "e5ccb0d81e48d122d541f818b4cd62447a4a3bdad69657c40ae98f5283377c3d",
+  "downloaded_at": "2026-05-16T03:38:41.364757+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:185:4225",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

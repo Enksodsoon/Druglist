@@ -1,0 +1,14 @@
+{
+  "source_id": "2642",
+  "task_id": "T02578",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Mobic+7.5+mg",
+  "local_path": "imports/accepted_evidence/product/2642/T02578_2642.cfm",
+  "sha256": "9d697e944f28b56734441394e8933e3c77c23845f06d90047a8dd10bfaafe52c",
+  "downloaded_at": "2026-05-16T03:39:46.358034+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:248:2642",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

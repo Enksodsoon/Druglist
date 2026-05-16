@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_70",
+  "task_id": "T00670",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=fusidic+acid+%2B+steroid+cream",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001908/T00670_Drug_Label_Links_70.html",
+  "sha256": "bd5329992b9af7f36d277ed56ed91afe00b21ee6d6fa18fb911df659de790596",
+  "downloaded_at": "2026-05-16T03:35:11.972497+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:70:Drug_Label_Links_70",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

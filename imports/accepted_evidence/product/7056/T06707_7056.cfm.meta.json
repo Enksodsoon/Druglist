@@ -1,0 +1,14 @@
+{
+  "source_id": "7056",
+  "task_id": "T06707",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clomaz-Forte",
+  "local_path": "imports/accepted_evidence/product/7056/T06707_7056.cfm",
+  "sha256": "33ffafbb77f4d7e7c973dd946260d7ab289f9afb5d2d2882e8f671412f74e91f",
+  "downloaded_at": "2026-05-16T03:50:11.233774+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:791:7056",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

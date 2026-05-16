@@ -1,0 +1,14 @@
+{
+  "source_id": "7951",
+  "task_id": "T03198",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ziga+Gel",
+  "local_path": "imports/accepted_evidence/product/7951/T03198_7951.cfm",
+  "sha256": "c65729d68cdc47336bebecabb4c54eeeeea6c1c1eb798b6a9130aeb1339b812f",
+  "downloaded_at": "2026-05-16T03:41:19.857599+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:330:7951",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

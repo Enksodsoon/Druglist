@@ -1,0 +1,14 @@
+{
+  "source_id": "1936",
+  "task_id": "T01308",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Fluimucil+A+200+mg",
+  "local_path": "imports/accepted_evidence/product/1936/T01308_1936.cfm",
+  "sha256": "28d7976cd7a2b836ad73ad113157f34f716e9fc0f5a5c5bf76376fb77c24aa91",
+  "downloaded_at": "2026-05-16T03:36:37.735222+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:79:1936",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

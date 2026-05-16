@@ -1,0 +1,14 @@
+{
+  "source_id": "1415",
+  "task_id": "T04557",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Metoprolol%20Tartrate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1415/T04557_1415.json",
+  "sha256": "1bfbf1d1bee6738293b992575ec094e7b603f3f94ea11a136b958bed7e606f75",
+  "downloaded_at": "2026-05-16T03:44:46.762756+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:516:1415",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

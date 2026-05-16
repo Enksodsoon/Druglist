@@ -1,0 +1,14 @@
+{
+  "source_id": "68420",
+  "task_id": "T07620",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=%E0%B9%82%E0%B8%87%E0%B9%89%E0%B8%A7%E0%B8%9B%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%B5%E0%B9%89%2B%E0%B8%8A%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%A8%2B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%2B%E0%B9%80%E0%B8%AE%E0%B9%89%E0%B8%87%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%87%2B%E0%B9%80%E0%B8%87%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%81%2B%E0%B9%81%E0%B8%9A%E0%B8%B0%E0%B8%95%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%86&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/68420/T07620_68420.json",
+  "sha256": "c6c24e2eaba82e3de47617dc3dee3ba7544b1fb0e276dac91a46ef040f9080b2",
+  "downloaded_at": "2026-05-16T03:52:30.281385+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:904:68420",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1113",
+  "task_id": "T04502",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Anapril+5+mg",
+  "local_path": "imports/accepted_evidence/product/1113/T04502_1113.html",
+  "sha256": "0b85bbc48061e1eb40e9266f770b6ddfad2d58dc20c14d62d86566c4aa0fb1d3",
+  "downloaded_at": "2026-05-16T03:44:39.699015+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:509:1113",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

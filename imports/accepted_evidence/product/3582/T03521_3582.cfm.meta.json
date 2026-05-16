@@ -1,0 +1,14 @@
+{
+  "source_id": "3582",
+  "task_id": "T03521",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Strepsils+Honey+%26+Lemon+%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87+24s",
+  "local_path": "imports/accepted_evidence/product/3582/T03521_3582.cfm",
+  "sha256": "30f8bb8ea10f436d09db845764717145b67dc5c92e03c298cca1db5963feb57a",
+  "downloaded_at": "2026-05-16T03:42:08.206252+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:373:3582",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

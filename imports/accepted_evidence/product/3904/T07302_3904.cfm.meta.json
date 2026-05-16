@@ -1,0 +1,14 @@
+{
+  "source_id": "3904",
+  "task_id": "T07302",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Vidisic+Gel",
+  "local_path": "imports/accepted_evidence/product/3904/T07302_3904.cfm",
+  "sha256": "a36f46319d71508cb55b7be559e83a24c24e1d343af83be3ab6f1bdfbc672566",
+  "downloaded_at": "2026-05-16T03:51:40.942051+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:866:3904",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

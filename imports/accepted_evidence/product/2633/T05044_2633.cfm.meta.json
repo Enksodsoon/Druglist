@@ -1,0 +1,14 @@
+{
+  "source_id": "2633",
+  "task_id": "T05044",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Moduretic",
+  "local_path": "imports/accepted_evidence/product/2633/T05044_2633.cfm",
+  "sha256": "2add34185fcee3ebeef73a91c315b5ded24a3c9cc5417402c0a6f074bf0f136b",
+  "downloaded_at": "2026-05-16T03:45:58.390044+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:587:2633",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

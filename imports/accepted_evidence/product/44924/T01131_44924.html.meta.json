@@ -1,0 +1,14 @@
+{
+  "source_id": "44924",
+  "task_id": "T01131",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Montulair+10+mg",
+  "local_path": "imports/accepted_evidence/product/44924/T01131_44924.html",
+  "sha256": "e02f615337334427e4b86b856c79ffcd9fdc0f3c91caad30db506720caeb71dc",
+  "downloaded_at": "2026-05-16T03:36:13.475032+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:51:44924",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

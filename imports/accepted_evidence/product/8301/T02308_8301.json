@@ -1,0 +1,977 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 208
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "hydroxyzine pamoate hydroxyzine pamoate HYDROXYZINE PAMOATE HYDROXYZINE HYDROXYZINE DIHYDROCHLORIDE SILICON DIOXIDE D&C YELLOW NO. 10 FD&C BLUE NO. 1 FD&C BLUE NO. 2 FD&C GREEN NO. 3 FD&C YELLOW NO. 6 FD&C RED NO. 40 FERROSOFERRIC OXIDE GELATIN, UNSPECIFIED HYDROXYPROPYL CELLULOSE (1200000 WAMW) LACTOSE MONOHYDRATE MAGNESIUM STEARATE PROPYLENE GLYCOL SHELLAC SODIUM LAURYL SULFATE SODIUM STARCH GLYCOLATE TYPE A POTATO TITANIUM DIOXIDE light green/dark green E613 Chemical Structure"
+      ],
+      "spl_unclassified_section": [
+        "25 mg and 50 mg Rx Only"
+      ],
+      "description": [
+        "DESCRIPTION Hydroxyzine pamoate is a light yellow, practically odorless powder practically insoluble in water and methanol and freely soluble in dimethylformamide. It is chemically designated as (±)-2-[2-[4-( p -Chloro-α-phenylbenzyl)-1-piperazinyl]ethoxy]ethanol 4,4’-methylenebis[3-hydroxy-2-naphthoate] (1:1) [10246-75-0] and can be structurally represented as follows: C 21 H 27 CIN 2 O 2 •C 23 H 16 O 6 M.W. 763.27 Each capsule, for oral administration, contains hydroxyzine pamoate equivalent to hydroxyzine hydrochloride 25 mg or 50 mg. In addition, each capsule contains the following inactive ingredients: colloidal silicon dioxide, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, sodium starch glycolate (potato), and sodium lauryl sulfate. The capsule shell contains the following ingredients: D&C Yellow #10, FD&C Green #3, FD&C Yellow #6, gelatin, and titanium dioxide. The edible imprinting ink contains the following ingredients: black iron oxide, D&C Yellow #10, FD&C Blue #1, FD&C Blue #2, FD&C Red #40, propylene glycol, and shellac glaze."
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Hydroxyzine pamoate is unrelated chemically to the phenothiazines, reserpine, meprobamate, or the benzodiazepines. Hydroxyzine pamoate is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally. Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically. An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated. Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity. Hydroxyzine is rapidly absorbed from the gastrointestinal tract and hydroxyzine pamoate clinical effects are usually noted within 15 to 30 minutes after oral administration."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested. Useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus. As a sedative when used as premedication and following general anesthesia, hydroxyzine may potentiate meperidine (Demerol ® ) and barbiturates, so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis. Atropine and other belladonna alkaloids are not affected by the drug. Hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent. The effectiveness of hydroxyzine as an antianxiety agent for long-term use, that is, more than 4 months, has not been assessed by systematic clinical studies. The physician should reassess periodically the usefulness of the drug for the individual patient."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit, induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range. Clinical data in human beings are inadequate to establish safety in early pregnancy. Until such data are available, hydroxyzine is contraindicated in early pregnancy. Hydroxyzine is contraindicated in patients with a prolonged QT interval. Hydroxyzine pamoate is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication. Hydroxyzine is contraindicated in patients with known hypersensitivity to hydroxyzine products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetirizine hydrochloride."
+      ],
+      "warnings": [
+        "WARNINGS Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "precautions": [
+        "PRECAUTIONS THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES. Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine, their dosage should be reduced. Since drowsiness may occur with use of the drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine pamoate. Patients should be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effect of alcohol may be increased. QT Prolongation/Torsade de Pointes (TdP) Cases of QT prolongation and Torsade de Pointes have been reported during post-marketing use of hydroxyzine. The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use). Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias. Caution is recommended during the concomitant use of drugs known to prolong the QT interval. These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol). Acute Generalized Exanthematous Pustulosis (AGEP) Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, non-follicular, sterile pustules, arising within large areas of edematous erythema. Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity. If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered. Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity. Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine pamoate has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine pamoate and observed closely."
+      ],
+      "geriatric_use": [
+        "Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine pamoate has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine pamoate and observed closely."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Side effects reported with the administration of hydroxyzine pamoate are usually mild and transitory in nature. Skin and Appendages Oral hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP) and fixed drug eruptions in post-marketing reports. Anticholinergic Dry mouth. Central Nervous System Drowsiness is usually transitory and may disappear in a few days of continued therapy or upon reduction of the dose. Involuntary motor activity, including rare instances of tremor and convulsions, has been reported, usually with doses considerably higher than those recommended. Clinically significant respiratory depression has not been reported at recommended doses. Cardiac System QT prolongation, Torsade de Pointes. In post-marketing experience, the following additional undesirable effects have been reported: Body as a Whole Allergic reaction Nervous System Headache Psychiatric Hallucination Skin and Appendages Pruritus, rash, urticaria"
+      ],
+      "overdosage": [
+        "OVERDOSAGE The most common manifestation of overdosage of hydroxyzine pamoate is hypersedation. Other reported signs and symptoms were convulsions, stupor, nausea and vomiting. As in the management of overdosage with any drug, it should be borne in mind that multiple agents may have been taken. If vomiting has not occurred spontaneously, it should be induced. Immediate gastric lavage is also recommended. General supportive care, including frequent monitoring of the vital signs and close observation of the patient, is indicated. Hypotension, though unlikely, may be controlled with intravenous fluids and vasopressors ( do not use epinephrine as hydroxyzine counteracts its pressor action ). Caffeine and Sodium Benzoate Injection, USP, may be used to counteract central nervous system depressant effects. Hydroxyzine overdose may cause QT prolongation and Torsade de Pointes. ECG monitoring is recommended in cases of hydroxyzine overdose. There is no specific antidote. It is doubtful that hemodialysis would be of any value in the treatment of overdosage with hydroxyzine. However, if other agents such as barbiturates have been ingested concomitantly, hemodialysis may be indicated. There is no practical method to quantitate hydroxyzine in body fluids or tissue after its ingestion or administration."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: in adults, 50 mg to 100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50 mg to 100 mg daily in divided doses. For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus: in adults, 25 mg t.i.d. or q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50 mg to 100 mg daily in divided doses. As a sedative when used as a premedication and following general anesthesia: 50 mg to 100 mg in adults, and 0.6 mg/kg in children. When treatment is initiated by the intramuscular route of administration, subsequent doses may be administered orally. As with all medications, the dosage should be adjusted according to the patient’s response to therapy."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Hydroxyzine Pamoate Capsules, USP, for oral administration, are available as 25 mg (equivalent to 25 mg hydroxyzine hydrochloride) are light green/dark green capsules imprinted “E 613” and supplied as: NDC: 63629-8874-1 bottles of 500 Storage Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Protect from moisture. Dispense contents in a tight, light-resistant container as defined in the USP, with a child-resistant closure, as required. KEEP TIGHTLY CLOSED. KEEP OUT OF THE REACH OF CHILDREN. Repackaged/Relabeled by: Bryant Ranch Prepack, Inc. Burbank, CA 91504"
+      ],
+      "package_label_principal_display_panel": [
+        "Hydroxyzine Pamoate 25 mg Caps #500 Label"
+      ],
+      "set_id": "02616eee-a1a4-4afc-b84e-69fd28755138",
+      "id": "638cf29d-9dc9-4a80-8937-ba3811482f08",
+      "effective_time": "20241216",
+      "version": "105",
+      "openfda": {
+        "application_number": [
+          "ANDA087479"
+        ],
+        "brand_name": [
+          "hydroxyzine pamoate"
+        ],
+        "generic_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "product_ndc": [
+          "63629-8874"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "rxcui": [
+          "995253"
+        ],
+        "spl_id": [
+          "638cf29d-9dc9-4a80-8937-ba3811482f08"
+        ],
+        "spl_set_id": [
+          "02616eee-a1a4-4afc-b84e-69fd28755138"
+        ],
+        "package_ndc": [
+          "63629-8874-1"
+        ],
+        "original_packager_product_ndc": [
+          "0185-0674"
+        ],
+        "unii": [
+          "M20215MUFR"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydroxyzine Pamoate Hydroxyzine Pamoate HYDROXYZINE PAMOATE HYDROXYZINE HYDROXYZINE DIHYDROCHLORIDE SILICON DIOXIDE D&C YELLOW NO. 10 FD&C BLUE NO. 1 GELATIN, UNSPECIFIED MAGNESIUM STEARATE SODIUM LAURYL SULFATE TITANIUM DIOXIDE FERROSOFERRIC OXIDE STARCH, CORN dark green opaque/light green opaque WATSON;800;25;mg"
+      ],
+      "description": [
+        "DESCRIPTION Hydroxyzine pamoate is a light yellow, practically odorless powder practically insoluble in water and methanol and freely soluble in dimethylformamide. It is chemically designated as 1-(p-chlorobenzhydryl) 4-[2-(2-hydroxyethoxy) ethyl] diethylenediamine salt of 1,1’-methylene bis (2hydroxy-3-naphthalene carboxylic acid) and can be structurally represented as follows: Molecular Weight: 763.29 Each capsule, for oral administration, contains hydroxyzine pamoate equivalent to 25 mg or 50 mg of hydroxyzine hydrochloride. In addition, each capsule contains the following inactive ingredients: colloidal silicon dioxide, D&C yellow #10, FD&C blue #1, gelatin, magnesium stearate, pregelatinized starch, sodium lauryl sulfate, and titanium dioxide. The imprinting ink on the capsules contains synthetic black iron oxide. chemical structure and chemical formula"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Hydroxyzine pamoate is unrelated chemically to the phenothiazines, reserpine, meprobamate, or the benzodiazepines. Hydroxyzine pamoate is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally. Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically. An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated. Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity. Hydroxyzine is rapidly absorbed from the gastrointestinal tract and hydroxyzine pamoate's clinical effects are usually noted within 15 to 30 minutes after oral administration."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested. Useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus. As a sedative when used as premedication and following general anesthesia, Hydroxyzine may potentiate meperidine (Demerol ® ) and barbiturates , so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis. Atropine and other belladonna alkaloids are not affected by the drug. Hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent. The effectiveness of hydroxyzine as an antianxiety agent for long-term use, that is, more than 4 months, has not been assessed by systematic clinical studies. The physician should reassess periodically the usefulness of the drug for the individual patient."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit, induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range. Clinical data in human beings are inadequate to establish safety in early pregnancy. Until such data are available, hydroxyzine is contraindicated in early pregnancy. Hydroxyzine is contraindicated in patients with a prolonged QT interval. Hydroxyzine pamoate is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication. Hydroxyzine is contraindicated in patients with known hypersensitivity to hydroxyzine products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetrizine hydrochloride."
+      ],
+      "warnings": [
+        "WARNINGS Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "precautions": [
+        "PRECAUTIONS THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES. Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine, their dosage should be reduced. Since drowsiness may occur with use of the drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine pamoate. Patients should be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effect of alcohol may be increased. QT Prolongation/Torsade de Pointes (TdP): Cases of QT prolongation and Torsade de Pointes have been reported during post-marketing use of hydroxyzine. The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use). Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias. Caution is recommended during the concomitant use of drugs known to prolong the QT interval. These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol). Acute Generalized Exanthematous Pustulosis (AGEP): Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, non-follicular, sterile pustules, arising within large areas of edematous erythema. Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity. If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered. Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity. Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine pamoate has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine pamoate and observed closely."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Side effects reported with the administration of hydroxyzine pamoate are usually mild and transitory in nature. Skin and Appendages: Oral hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP) and fixed drug eruptions in post-marketing reports. Anticholinergic: Dry mouth. Central Nervous System: Drowsiness is usually transitory and may disappear in a few days of continued therapy or upon reduction of the dose. Involuntary motor activity, including rare instances of tremor and convulsions, has been reported, usually with doses considerably higher than those recommended. Clinically significant respiratory depression has not been reported at recommended doses. Cardiac System: QT prolongation,Torsade de Pointes. In post-marketing experience, the following additional undesirable effects have been reported: Body as a Whole: allergic reaction, Nervous System: headache, Psychiatric: hallucination, Skin and Appendages: pruritus, rash, urticaria. To report SUSPECTED ADVERSE EVENTS, contact Impax Laboratories, Inc. at 1-800-934-6729 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions."
+      ],
+      "overdosage": [
+        "OVERDOSAGE The most common manifestation of overdosage of hydroxyzine pamoate is hypersedation. Other reported signs and symptoms were convulsions, stupor, nausea and vomiting. As in the management of overdosage with any drug, it should be borne in mind that multiple agents may have been taken. If vomiting has not occurred spontaneously, it should be induced. Immediate gastric lavage is also recommended. General supportive care, including frequent monitoring of the vital signs and close observation of the patient, is indicated. Hypotension, though unlikely, may be controlled with intravenous fluids and vasopressors ( do not use epinephrine as hydroxyzine counteracts its pressor action. ) Caffeine and Sodium Benzoate Injection, USP, may be used to counteract central nervous system depressant effects. Hydroxyzine overdose may cause QT prolongation and Torsade de Pointes. ECG monitoring is recommended in cases of hydroxyzine overdose. There is no specific antidote. It is doubtful that hemodialysis would be of any value in the treatment of overdosage with hydroxyzine. However, if other agents such as barbiturates have been ingested concomitantly, hemo-dialysis may be indicated. There is no practical method to quantitate hydroxyzine in body fluids or tissue after its ingestion or administration."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: in adults, 50 mg to 100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50 mg to 100 mg daily in divided doses. For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus: in adults, 25 mg t.i.d. or q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50 mg to 100 mg daily in divided doses. As a sedative when used as a premedication and following general anesthesia: 50 mg to 100 mg in adults, and 0.6 mg/kg in children. When treatment is initiated by the intramuscular route of administration, subsequent doses may be administered orally. As with all medications, the dosage should be adjusted according to the patient's response to therapy."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Hydroxyzine pamoate capsules USP (hydroxyzine pamoate equivalent to hydroxyzine hydrochloride) are supplied as follows: 25 mg capsules: Dark green opaque cap/light green opaque body filled with yellow powder. Imprinted in black ink WATSON over 800 on the cap and 25 mg on the body, in; Bottles of 15 (NDC 71205-087-15) Bottles of 20 (NDC 71205-087-20) Bottles of 30 (NDC 71205-087-30) Bottles of 60 (NDC 71205-087-60) Bottles of 90 (NDC 71205-087-90) Store below 30°C (86°F) [See USP]. Dispense in a tight, light resistant container as defined in USP/NF."
+      ],
+      "references": [
+        "BIBLIOGRAPHY Available on request. Brands listed are the trademarks of their respective owners. Manufactured by: Patheon Pharmaceuticals Inc. Cincinnati, OH 45237 USA Distributed by: Impax Generics Hayward, CA 94544 Revised: November, 2016 LA-1792-02 Repackaged By: Proficient Rx LP Thousand Oaks, CA 91320"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL NDC 71205-087-30 Hydroxyzine Pamoate Capsules, USP 25 mg* Tartrazine Dye-Free Rx Only 30 Capsules 71205-087-30"
+      ],
+      "set_id": "04657694-e8a8-4e52-a179-cfe752819760",
+      "id": "a4ff5eef-8452-42aa-8127-32e3c56c2b2b",
+      "effective_time": "20221101",
+      "version": "4",
+      "openfda": {
+        "application_number": [
+          "ANDA040156"
+        ],
+        "brand_name": [
+          "Hydroxyzine Pamoate"
+        ],
+        "generic_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "manufacturer_name": [
+          "Proficient Rx LP"
+        ],
+        "product_ndc": [
+          "71205-087"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "rxcui": [
+          "995253"
+        ],
+        "spl_id": [
+          "a4ff5eef-8452-42aa-8127-32e3c56c2b2b"
+        ],
+        "spl_set_id": [
+          "04657694-e8a8-4e52-a179-cfe752819760"
+        ],
+        "package_ndc": [
+          "71205-087-15",
+          "71205-087-20",
+          "71205-087-30",
+          "71205-087-60",
+          "71205-087-90"
+        ],
+        "original_packager_product_ndc": [
+          "0115-1670"
+        ],
+        "upc": [
+          "0371205087302"
+        ],
+        "unii": [
+          "M20215MUFR"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydroxyzine Pamoate Hydroxyzine Pamoate HYDROXYZINE PAMOATE HYDROXYZINE HYDROXYZINE DIHYDROCHLORIDE CROSCARMELLOSE SODIUM MAGNESIUM STEARATE STARCH, CORN ANHYDROUS LACTOSE D&C RED NO. 28 D&C YELLOW NO. 10 FD&C BLUE NO. 1 FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN TITANIUM DIOXIDE FERROSOFERRIC OXIDE FD&C BLUE NO. 2 INDIGOTINDISULFONATE SODIUM PROPYLENE GLYCOL SHELLAC light yellow barr;323;25 Hydroxyzine Pamoate Hydroxyzine Pamoate HYDROXYZINE PAMOATE HYDROXYZINE HYDROXYZINE DIHYDROCHLORIDE CROSCARMELLOSE SODIUM MAGNESIUM STEARATE STARCH, CORN LACTOSE MONOHYDRATE D&C RED NO. 33 D&C YELLOW NO. 10 FD&C YELLOW NO. 6 GELATIN TITANIUM DIOXIDE FERROSOFERRIC OXIDE FD&C BLUE NO. 1 FD&C BLUE NO. 2 INDIGOTINDISULFONATE SODIUM FD&C RED NO. 40 PROPYLENE GLYCOL SHELLAC light yellow maroon barr;302;50 Hydroxyzine Pamoate Hydroxyzine Pamoate HYDROXYZINE PAMOATE HYDROXYZINE HYDROXYZINE DIHYDROCHLORIDE CROSCARMELLOSE SODIUM MAGNESIUM STEARATE STARCH, CORN LACTOSE MONOHYDRATE D&C RED NO. 28 D&C RED NO. 33 D&C YELLOW NO. 10 FD&C BLUE NO. 1 FD&C RED NO. 40 GELATIN TITANIUM DIOXIDE FERROSOFERRIC OXIDE FD&C BLUE NO. 2 INDIGOTINDISULFONATE SODIUM PROPYLENE GLYCOL SHELLAC light yellow barr;324;100"
+      ],
+      "spl_unclassified_section": [
+        "Rx only"
+      ],
+      "description": [
+        "DESCRIPTION Hydroxyzine pamoate, USP is designated chemically as 1-(p-chlorobenzhydryl) 4-[2-(2-hydroxyethoxy) ethyl] diethylenediamine salt of 1,1′-methylene bis (2 hydroxy-3-naphthalene carboxylic acid). It has the following structural formula: C 21 H 27 ClN 2 O 2 •C 23 H 16 O 6 M.W. 763.27 Hydroxyzine pamoate capsules, USP are administered in doses equivalent to 25 mg, 50 mg or 100 mg of hydroxyzine hydrochloride. In addition, each capsule contains the following inactive ingredients: croscarmellose sodium, magnesium stearate, and pregelatinized corn starch. The 25 mg also contains anhydrous lactose. The 50 mg and 100 mg also contain lactose monohydrate. The capsule shell ingredients for the 25 mg capsule are D&C Red No. 28, D&C Yellow No. 10, FD&C Blue No. 1, FD&C Red No. 40, FD&C Yellow No. 6, gelatin, and titanium dioxide. The 50 mg capsule shell contains D&C Red No. 33, D&C Yellow No. 10, FD&C Yellow No. 6, gelatin, and titanium dioxide. The 100 mg capsule shell contains D&C Red No. 28, D&C Red No. 33, D&C Yellow No. 10, FD&C Blue No. 1, FD&C Red No. 40, gelatin, and titanium dioxide. The edible imprinting ink on the 25 mg, 50 mg and 100 mg capsules contains black iron oxide, D&C Yellow No. 10 aluminum lake, FD&C Blue No. 1 aluminum lake, FD&C Blue No. 2 aluminum lake, FD&C Red No. 40 aluminum lake, propylene glycol, and shellac glaze. Structural Formula"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Hydroxyzine pamoate is unrelated chemically to the phenothiazines, reserpine, meprobamate, or the benzodiazepines. Hydroxyzine pamoate is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally. Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically. An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated. Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity. Hydroxyzine is rapidly absorbed from the gastrointestinal tract and hydroxyzine pamoate's clinical effects are usually noted within 15 to 30 minutes after oral administration."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested. Useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus. As a sedative when used as premedication and following general anesthesia, hydroxyzine may potentiate meperidine (Demerol ® ) and barbiturates , so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis. Atropine and other belladonna alkaloids are not affected by the drug. Hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent. The effectiveness of hydroxyzine as an antianxiety agent for long-term use, that is, more than 4 months, has not been assessed by systematic clinical studies. The physician should reassess periodically the usefulness of the drug for the individual patient."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit, induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range. Clinical data in human beings are inadequate to establish safety in early pregnancy. Until such data are available, hydroxyzine is contraindicated in early pregnancy. Hydroxyzine is contraindicated in patients with a prolonged QT interval. Hydroxyzine pamoate is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication. Hydroxyzine is contraindicated in patients with known hypersensitivity to hydroxyzine products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetirizine hydrochloride."
+      ],
+      "warnings": [
+        "WARNINGS Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "precautions": [
+        "PRECAUTIONS THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES. Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine, their dosage should be reduced. Since drowsiness may occur with use of the drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine pamoate. Patients should be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effect of alcohol may be increased. QT Prolongation/Torsade de Pointes (TdP) Cases of QT prolongation and Torsade de Pointes have been reported during postmarketing use of hydroxyzine. The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use). Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias. Caution is recommended during the concomitant use of drugs known to prolong the QT interval. These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol). Acute Generalized Exanthematous Pustulosis (AGEP) Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, non-follicular, sterile pustules, arising within large areas of edematous erythema. Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity. If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered. Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity. Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine pamoate has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine pamoate and observed closely."
+      ],
+      "geriatric_use": [
+        "Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine pamoate has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine pamoate and observed closely."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Side effects reported with the administration of hydroxyzine pamoate are usually mild and transitory in nature. Skin and Appendages Oral hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP) and fixed drug eruptions in postmarketing reports. Anticholinergic Dry mouth. Central Nervous System Drowsiness is usually transitory and may disappear in a few days of continued therapy or upon reduction of the dose. Involuntary motor activity, including rare instances of tremor and convulsions, has been reported, usually with doses considerably higher than those recommended. Clinically significant respiratory depression has not been reported at recommended doses. Cardiac System QT prolongation, Torsade de Pointes. In postmarketing experience, the following additional undesirable effects have been reported: Body as a Whole allergic reaction. Nervous System headache. Psychiatric hallucination. Skin and Appendages pruritus, rash, urticaria. To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      ],
+      "overdosage": [
+        "OVERDOSAGE The most common manifestation of overdosage of hydroxyzine pamoate is hypersedation. Other reported signs and symptoms were convulsions, stupor, nausea and vomiting. As in the management of overdosage with any drug, it should be borne in mind that multiple agents may have been taken. If vomiting has not occurred spontaneously, it should be induced. Immediate gastric lavage is also recommended. General supportive care, including frequent monitoring of the vital signs and close observation of the patient, is indicated. Hypotension, though unlikely, may be controlled with intravenous fluids and vasopressors (do not use epinephrine as hydroxyzine counteracts its pressor action). Caffeine and Sodium Benzoate Injection, USP, may be used to counteract central nervous system depressant effects. Hydroxyzine overdose may cause QT prolongation and Torsade de Pointes. ECG monitoring is recommended in cases of hydroxyzine overdose. There is no specific antidote. It is doubtful that hemodialysis would be of any value in the treatment of overdosage with hydroxyzine. However, if other agents such as barbiturates have been ingested concomitantly, hemodialysis may be indicated. There is no practical method to quantitate hydroxyzine in body fluids or tissue after its ingestion or administration."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: in adults, 50 to 100 mg four times a day; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50 to 100 mg daily in divided doses. For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus: in adults, 25 mg three times a day or four times a day.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50 to 100 mg daily in divided doses. As a sedative when used as a premedication and following general anesthesia: 50 to 100 mg in adults, and 0.6 mg/kg in children. When treatment is initiated by the intramuscular route of administration, subsequent doses may be administered orally. As with all medications, the dosage should be adjusted according to the patient’s response to therapy."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Hydroxyzine pamoate capsules, USP (hydroxyzine pamoate, USP equivalent to hydroxyzine hydrochloride), 25 mg are available as light yellow opaque cap and pink opaque body filled with yellow powder, imprinted in black ink stylized “barr” over “323” on one piece and “25” on the other piece, packaged in bottles of 100 (NDC 0555-0323-02) and 500 (NDC 0555-0323-04) capsules. Hydroxyzine pamoate capsules, USP (hydroxyzine pamoate, USP equivalent to hydroxyzine hydrochloride), 50 mg are available as light yellow opaque cap and maroon opaque body filled with yellow powder, imprinted in black ink stylized “barr” over “302” on one piece and “50” on the other piece, packaged in bottles of 100 (NDC 0555-0302-02) and 500 (NDC 0555-0302-04) capsules. Hydroxyzine pamoate capsules, USP (hydroxyzine pamoate, USP equivalent to hydroxyzine hydrochloride), 100 mg are available as light yellow opaque cap and pink opaque body filled with yellow powder, imprinted in black ink stylized “barr” over “324” on one piece and “100” on the other piece, packaged in bottles of 100 (NDC 0555-0324-02) capsules. Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required). Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. Keep this and all medications out of the reach of children. Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054 Rev. F 10/2022"
+      ],
+      "package_label_principal_display_panel": [
+        "Package/Label Display Panel NDC 0555- 0323 -02 HydrOXYzine Pamoate Capsules, USP 25 mg Rx only 100 Capsules 1",
+        "Package/Label Display Panel NDC 0555- 0302 -02 HydrOXYzine Pamoate Capsules, USP 50 mg Rx only 100 Capsules 2",
+        "Package/Label Display Panel NDC 0555- 0324 -02 HydrOXYzine Pamoate Capsules, USP 100 mg Rx only 100 Capsules TEVA 3"
+      ],
+      "set_id": "06068fff-2e79-4721-bcc7-b0938aa20e7a",
+      "id": "c307ca43-d41f-401b-bd15-0c753eca86e5",
+      "effective_time": "20221001",
+      "version": "20",
+      "openfda": {
+        "application_number": [
+          "ANDA088487",
+          "ANDA088496",
+          "ANDA088488"
+        ],
+        "brand_name": [
+          "Hydroxyzine Pamoate"
+        ],
+        "generic_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0555-0302",
+          "0555-0323",
+          "0555-0324"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "rxcui": [
+          "995232",
+          "995253",
+          "995278"
+        ],
+        "spl_id": [
+          "c307ca43-d41f-401b-bd15-0c753eca86e5"
+        ],
+        "spl_set_id": [
+          "06068fff-2e79-4721-bcc7-b0938aa20e7a"
+        ],
+        "package_ndc": [
+          "0555-0323-02",
+          "0555-0323-04",
+          "0555-0302-02",
+          "0555-0302-04",
+          "0555-0324-02"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0305550302025",
+          "0305550323020"
+        ],
+        "unii": [
+          "M20215MUFR"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydroxyzine hydrochloride Hydroxyzine hydrochloride ANHYDROUS LACTOSE SILICON DIOXIDE HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 TITANIUM DIOXIDE CROSPOVIDONE HYDROXYZINE DIHYDROCHLORIDE HYDROXYZINE H;501"
+      ],
+      "description": [
+        "DESCRIPTION Hydroxyzine hydrochloride, USP has the chemical name of (±)-2-[2-[4-( p -Chloro-α-phenylbenzyl)-1-piperazinyl]ethoxy]ethanol dihydrochloride. Molecular Formula: C 21 H 27 ClN 2 O 2 · 2HCl Molecular Weight: 447.83 Hydroxyzine hydrochloride, USP occurs as a white, odorless powder which is very soluble in water. Each tablet for oral administration contains 10 mg, 25 mg, or 50 mg hydroxyzine hydrochloride, USP. Inactive ingredients include anhydrous lactose, colloidal silicon dioxide, crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate and titanium dioxide. stucture"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Hydroxyzine hydrochloride is unrelated chemically to the phenothiazines, reserpine, meprobamate or the benzodiazepines. Hydroxyzine is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally. Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically. An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated. Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity. Hydroxyzine is rapidly absorbed from the gastrointestinal tract and hydroxyzine's clinical effects are usually noted within 15 to 30 minutes after oral administration."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested. Useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses and in histamine-mediated pruritus. As a sedative when used as a premedication and following general anesthesia, hydroxyzine may potentiate meperidine and barbiturates, so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis. Atropine and other belladonna alkaloids are not affected by the drug. Hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent. The effectiveness of hydroxyzine as an antianxiety agent for long term use, that is more than 4 months, has not been assessed by systematic clinical studies. The physician should reassess periodically the usefulness of the drug for the individual patient."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Oral hydroxyzine hydrochloride is contraindicated in patients with known hypersensitivity to hydroxyzine hydrochloride products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetirizine hydrochloride. Hydroxyzine is contraindicated in patients with a prolonged QT interval. Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range. Clinical data in human beings are inadequate to establish safety in early pregnancy. Until such data are available, hydroxyzine is contraindicated in early pregnancy. Hydroxyzine is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication."
+      ],
+      "warnings": [
+        "WARNINGS Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "precautions": [
+        "PRECAUTIONS THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES. Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine their dosage should be reduced. QT Prolongation/Torsade de Pointes (TdP): Cases of QT prolongation and Torsade de Pointes have been reported during post-marketing use of hydroxyzine. The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use). Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias. Caution is recommended during the concomitant use of drugs known to prolong the QT interval. These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol). Since drowsiness may occur with use of this drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine. Patients should also be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effects of alcohol may be increased. Acute Generalized Exanthematous Pustulosis (AGEP) Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, non-follicular, sterile pustules, arising within large areas of edematous erythema. Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity. If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered. Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity. Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine and observed closely."
+      ],
+      "geriatric_use": [
+        "Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine and observed closely."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Skin and Appendages: Oral hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP) and fixed drug eruptions in post marketing reports. Side effects reported with the administration of hydroxyzine hydrochloride are usually mild and transitory in nature. Anticholinergic : Dry mouth. Central Nervous System : Drowsiness is usually transitory and may disappear in a few days of continued therapy or upon reduction of dose. Involuntary motor activity including rare instances of tremor and convulsions have been reported, usually with doses considerably higher than those recommended. Clinically significant respiratory depression has not been reported at recommended doses. In post-marketing experience, the following additional undesirable effects have been reported: Cardiac System: QT prolongation, Torsade de Pointes. Body as a Whole: Allergic reaction. Nervous System : Headache. Psychiatric : Hallucination. Skin and Appendages : Pruritus, rash, urticaria."
+      ],
+      "overdosage": [
+        "OVERDOSAGE The most common manifestation of hydroxyzine overdosage is hypersedation. Other reported signs and symptoms were convulsions, stupor, nausea and vomiting. As in the management of overdosage with any drug, it should be borne in mind that multiple agents may have been taken. If vomiting has not occurred spontaneously, it should be induced. Immediate gastric lavage is also recommended. General supportive care, including frequent monitoring of the vital signs and close observation of the patient, is indicated. Hypotension, though unlikely, may be controlled with intravenous fluids and levarterenol or metaraminol. Do not use epinephrine as hydroxyzine counteracts its pressor action. Hydroxyzine overdose may cause QT prolongation and Torsade de Pointes. ECG monitoring is recommended in cases of hydroxyzine overdose. There is no specific antidote. It is doubtful that hemodialysis would be of any value in the treatment of overdosage with hydroxyzine. However, if other agents such as barbiturates have been ingested concomitantly, hemodialysis may be indicated. There is no practical method to quantitate hydroxyzine in body fluids or tissue after its ingestion or administration."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: adults, 50 to 100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses; children over 6 years, 50 to 100 mg daily in divided doses. For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses and in histamine-mediated pruritus: adults, 25 mg t.i.d. or q.i.d.; children under 6 years, 50 mg daily in divided doses; children over 6 years, 50 to 100 mg daily in divided doses. As a sedative when used as a premedication and following general anesthesia: 50 to 100 mg for adults and 0.6 mg/kg of body weight in children. When treatment is initiated by the intramuscular route of administration, subsequent doses may be administered orally. As with all potent medication, the dosage should be adjusted according to the patient's response to therapy."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Hydroxyzine Hydrochloride Tablets, USP are available as follows: 25 mg tablets: round, film coated white tablets. Debossed H over 501 on one side and plain on the reverse side. They are available as follows: Bottles of 30 NDC: 80425-0365-01 Bottles of 60 NDC: 80425-0365-02 Bottles of 90 NDC: 80425-0365-03 Dispense in a tight container as defined in the USP, with a child-resistant closure (as required). Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. Distributed by: Avet Pharmaceuticals Inc. East Brunswick, NJ 08816 1.866.901.DRUG (3784) 51U000000193US08 Rev. 09/2021 Distributed by: Advanced Rx Pharmacy of Tennessee, LLC"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL PRINCIPAL DISPLAY PANEL - 25 MG(100 TABLETS) label 1 label 2 label 3"
+      ],
+      "set_id": "09092888-0c18-501d-e063-6294a90aad67",
+      "id": "2a994dc6-72f8-0559-e063-6394a90a0ecf",
+      "effective_time": "20241231",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "ANDA204279"
+        ],
+        "brand_name": [
+          "Hydroxyzine hydrochloride"
+        ],
+        "generic_name": [
+          "HYDROXYZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Advanced Rx of Tennessee, LLC"
+        ],
+        "product_ndc": [
+          "80425-0365"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDROXYZINE DIHYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "995258"
+        ],
+        "spl_id": [
+          "2a994dc6-72f8-0559-e063-6394a90a0ecf"
+        ],
+        "spl_set_id": [
+          "09092888-0c18-501d-e063-6294a90aad67"
+        ],
+        "package_ndc": [
+          "80425-0365-1",
+          "80425-0365-2",
+          "80425-0365-3"
+        ],
+        "original_packager_product_ndc": [
+          "23155-501"
+        ],
+        "unii": [
+          "76755771U3"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydroxyzine hydrochloride Hydroxyzine hydrochloride HYDROXYZINE DIHYDROCHLORIDE HYDROXYZINE ANHYDROUS LACTOSE SILICON DIOXIDE HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 TITANIUM DIOXIDE CROSPOVIDONE H;501 Hydroxyzine hydrochloride Hydroxyzine hydrochloride HYDROXYZINE DIHYDROCHLORIDE HYDROXYZINE ANHYDROUS LACTOSE SILICON DIOXIDE HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 TITANIUM DIOXIDE CROSPOVIDONE H;502 Hydroxyzine hydrochloride Hydroxyzine hydrochloride HYDROXYZINE DIHYDROCHLORIDE HYDROXYZINE ANHYDROUS LACTOSE SILICON DIOXIDE HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 TITANIUM DIOXIDE CROSPOVIDONE H;500"
+      ],
+      "description": [
+        "DESCRIPTION Hydroxyzine hydrochloride, USP has the chemical name of (±)-2-[2-[4-( p -Chloro-α-phenylbenzyl)-1-piperazinyl]ethoxy]ethanol dihydrochloride. Molecular Formula: C 21 H 27 ClN 2 O 2 · 2HCl Molecular Weight: 447.83 Hydroxyzine hydrochloride, USP occurs as a white, odorless powder which is very soluble in water. Each tablet for oral administration contains 10 mg, 25 mg, or 50 mg hydroxyzine hydrochloride, USP. Inactive ingredients include anhydrous lactose, colloidal silicon dioxide, crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate and titanium dioxide. stucture"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Hydroxyzine hydrochloride is unrelated chemically to the phenothiazines, reserpine, meprobamate or the benzodiazepines. Hydroxyzine is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally. Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically. An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated. Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity. Hydroxyzine is rapidly absorbed from the gastrointestinal tract and hydroxyzine's clinical effects are usually noted within 15 to 30 minutes after oral administration."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested. Useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses and in histamine-mediated pruritus. As a sedative when used as a premedication and following general anesthesia, hydroxyzine may potentiate meperidine and barbiturates, so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis. Atropine and other belladonna alkaloids are not affected by the drug. Hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent. The effectiveness of hydroxyzine as an antianxiety agent for long term use, that is more than 4 months, has not been assessed by systematic clinical studies. The physician should reassess periodically the usefulness of the drug for the individual patient."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Oral hydroxyzine hydrochloride is contraindicated in patients with known hypersensitivity to hydroxyzine hydrochloride products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetirizine hydrochloride. Hydroxyzine is contraindicated in patients with a prolonged QT interval. Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range. Clinical data in human beings are inadequate to establish safety in early pregnancy. Until such data are available, hydroxyzine is contraindicated in early pregnancy. Hydroxyzine is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication."
+      ],
+      "warnings": [
+        "WARNINGS Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "precautions": [
+        "PRECAUTIONS THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES. Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine their dosage should be reduced. QT Prolongation/Torsade de Pointes (TdP): Cases of QT prolongation and Torsade de Pointes have been reported during post-marketing use of hydroxyzine. The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use). Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias. Caution is recommended during the concomitant use of drugs known to prolong the QT interval. These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol). Since drowsiness may occur with use of this drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine. Patients should also be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effects of alcohol may be increased. Acute Generalized Exanthematous Pustulosis (AGEP) Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, non-follicular, sterile pustules, arising within large areas of edematous erythema. Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity. If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered. Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity. Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine and observed closely."
+      ],
+      "geriatric_use": [
+        "Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine and observed closely."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Skin and Appendages: Oral hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP) and fixed drug eruptions in post marketing reports. Side effects reported with the administration of hydroxyzine hydrochloride are usually mild and transitory in nature. Anticholinergic : Dry mouth. Central Nervous System : Drowsiness is usually transitory and may disappear in a few days of continued therapy or upon reduction of dose. Involuntary motor activity including rare instances of tremor and convulsions have been reported, usually with doses considerably higher than those recommended. Clinically significant respiratory depression has not been reported at recommended doses. In post-marketing experience, the following additional undesirable effects have been reported: Cardiac System: QT prolongation, Torsade de Pointes. Body as a Whole: Allergic reaction. Nervous System : Headache. Psychiatric : Hallucination. Skin and Appendages : Pruritus, rash, urticaria."
+      ],
+      "overdosage": [
+        "OVERDOSAGE The most common manifestation of hydroxyzine overdosage is hypersedation. Other reported signs and symptoms were convulsions, stupor, nausea and vomiting. As in the management of overdosage with any drug, it should be borne in mind that multiple agents may have been taken. If vomiting has not occurred spontaneously, it should be induced. Immediate gastric lavage is also recommended. General supportive care, including frequent monitoring of the vital signs and close observation of the patient, is indicated. Hypotension, though unlikely, may be controlled with intravenous fluids and levarterenol or metaraminol. Do not use epinephrine as hydroxyzine counteracts its pressor action. Hydroxyzine overdose may cause QT prolongation and Torsade de Pointes. ECG monitoring is recommended in cases of hydroxyzine overdose. There is no specific antidote. It is doubtful that hemodialysis would be of any value in the treatment of overdosage with hydroxyzine. However, if other agents such as barbiturates have been ingested concomitantly, hemodialysis may be indicated. There is no practical method to quantitate hydroxyzine in body fluids or tissue after its ingestion or administration."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: adults, 50 to 100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses; children over 6 years, 50 to 100 mg daily in divided doses. For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses and in histamine-mediated pruritus: adults, 25 mg t.i.d. or q.i.d.; children under 6 years, 50 mg daily in divided doses; children over 6 years, 50 to 100 mg daily in divided doses. As a sedative when used as a premedication and following general anesthesia: 50 to 100 mg for adults and 0.6 mg/kg of body weight in children. When treatment is initiated by the intramuscular route of administration, subsequent doses may be administered orally. As with all potent medication, the dosage should be adjusted according to the patient's response to therapy."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Hydroxyzine Hydrochloride Tablets, USP are available as follows: 10 mg tablets: round, film coated white tablets. Debossed H on one side and 500 on the reverse side. They are available as follows: Blistercards of 30: NDC 0615-8563-39 25 mg tablets: round, film coated white tablets. Debossed H over 501 on one side and plain on the reverse side. They are available as follows: Blistercards of 30: NDC 0615-8082-39 Blistercards of 28: NDC 0615-8082-28 Blistercards of 15: NDC 0615-8082-05 50 mg tablets: round, film coated white tablets. Debossed H over 502 on one side and plain on the reverse side. They are available as follows: Blistercards of 30: NDC 0615-8564-39 Dispense in a tight container as defined in the USP, with a child-resistant closure (as required). Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. Distributed by: Avet Pharmaceuticals Inc. East Brunswick, NJ 08816 1.866.901.DRUG (3784) 51U000000193US08 Rev. 09/2021 OR Manufactured by: Emcure Pharmaceuticals Ltd., Kadu, Surendranagar - 382775, India Manufactured for: Avet Pharmaceuticals Inc. East Brunswick, NJ 08816 1.866.901.DRUG (3784) 510490427US01 Revised: 06/2023 logo logo"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL PRINCIPAL DISPLAY PANEL - 10 MG PRINCIPAL DISPLAY PANEL",
+        "PACKAGE LABEL PRINCIPAL DISPLAY PANEL - 25 MG PRINCIPAL DISPLAY PANEL",
+        "PACKAGE LABEL PRINCIPAL DISPLAY PANEL - 50 MG PRINCIPAL DISPLAY PANEL"
+      ],
+      "set_id": "0c687cbe-ce40-4bc0-b880-5166b5be7a80",
+      "id": "1ab953e6-830e-4845-8cca-9864f8002cdf",
+      "effective_time": "20250320",
+      "version": "24",
+      "openfda": {
+        "application_number": [
+          "ANDA204279"
+        ],
+        "brand_name": [
+          "Hydroxyzine hydrochloride"
+        ],
+        "generic_name": [
+          "HYDROXYZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "NCS HealthCare of KY, LLC dba Vangard Labs"
+        ],
+        "product_ndc": [
+          "0615-8082",
+          "0615-8564",
+          "0615-8563"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDROXYZINE DIHYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "995218",
+          "995258",
+          "995281"
+        ],
+        "spl_id": [
+          "1ab953e6-830e-4845-8cca-9864f8002cdf"
+        ],
+        "spl_set_id": [
+          "0c687cbe-ce40-4bc0-b880-5166b5be7a80"
+        ],
+        "package_ndc": [
+          "0615-8082-39",
+          "0615-8082-05",
+          "0615-8082-28",
+          "0615-8564-39",
+          "0615-8563-39"
+        ],
+        "original_packager_product_ndc": [
+          "23155-501",
+          "23155-502",
+          "23155-500"
+        ],
+        "unii": [
+          "76755771U3"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydroxyzine pamoate Hydroxyzine Pamoate FD&C BLUE NO. 2 FD&C GREEN NO. 3 FD&C YELLOW NO. 6 D&C YELLOW NO. 10 FD&C RED NO. 40 FERROSOFERRIC OXIDE GELATIN, UNSPECIFIED LACTOSE MONOHYDRATE HYDROXYPROPYL CELLULOSE (1600000 WAMW) MAGNESIUM STEARATE PROPYLENE GLYCOL SHELLAC SILICON DIOXIDE SODIUM LAURYL SULFATE SODIUM STARCH GLYCOLATE TYPE A POTATO TITANIUM DIOXIDE HYDROXYZINE PAMOATE HYDROXYZINE HYDROXYZINE DIHYDROCHLORIDE FD&C BLUE NO. 1 E615"
+      ],
+      "spl_unclassified_section": [
+        "Rx Only"
+      ],
+      "description": [
+        "DESCRIPTION Hydroxyzine pamoate is a light yellow, practically odorless powder practically insoluble in water and methanol and freely soluble in dimethylformamide. It is chemically designated as (±)-2-[2-[4-(p-Chloro-α-phenylbenzyl)-1-piperazinyl]ethoxy]ethanol 4,4’-methylenebis[3-hydroxy-2-naphthoate] (1:1) [10246-75-0] and can be structurally represented as follows: C 21 H 27 CIN 2 O 2 •C 23 H 16 O 6 M.W. 763.27 Each capsule, for oral administration, contains hydroxyzine pamoate equivalent to hydroxyzine hydrochloride 25 mg or 50 mg. In addition, each capsule contains the following inactive ingredients: colloidal silicon dioxide, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, sodium starch glycolate (potato), and sodium lauryl sulfate. The capsule shell contains the following ingredients: D&C Yellow #10, FD&C Green #3, FD&C Yellow #6, gelatin, and titanium dioxide. The edible imprinting ink contains the following ingredients: black iron oxide, D&C Yellow #10, FD&C Blue #1, FD&C Blue #2, FD&C Red #40, propylene glycol, and shellac glaze. Chemical Structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Hydroxyzine pamoate is unrelated chemically to the phenothiazines, reserpine, meprobamate, or the benzodiazepines. Hydroxyzine pamoate is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally. Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically. An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated. Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity. Hydroxyzine is rapidly absorbed from the gastrointestinal tract and hydroxyzine pamoate clinical effects are usually noted within 15 to 30 minutes after oral administration."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested. Useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus. As a sedative when used as premedication and following general anesthesia, hydroxyzine may potentiate meperidine (Demerol ® ) and barbiturates, so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis. Atropine and other belladonna alkaloids are not affected by the drug. Hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent. The effectiveness of hydroxyzine as an antianxiety agent for long-term use, that is, more than 4 months, has not been assessed by systematic clinical studies. The physician should reassess periodically the usefulness of the drug for the individual patient."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit, induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range. Clinical data in human beings are inadequate to establish safety in early pregnancy. Until such data are available, hydroxyzine is contraindicated in early pregnancy. Hydroxyzine is contraindicated in patients with a prolonged QT interval. Hydroxyzine pamoate is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication. Hydroxyzine is contraindicated in patients with known hypersensitivity to hydroxyzine products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetirizine hydrochloride."
+      ],
+      "warnings": [
+        "WARNINGS Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "precautions": [
+        "PRECAUTIONS THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES. Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine, their dosage should be reduced. Since drowsiness may occur with use of the drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine pamoate. Patients should be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effect of alcohol may be increased. QT Prolongation/Torsade de Pointes (TdP) Cases of QT prolongation and Torsade de Pointes have been reported during post-marketing use of hydroxyzine. The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use). Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias. Caution is recommended during the concomitant use of drugs known to prolong the QT interval. These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol). Acute Generalized Exanthematous Pustulosis (AGEP) Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, non-follicular, sterile pustules, arising within large areas of edematous erythema. Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity. If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered. Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity. Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine pamoate has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine pamoate and observed closely."
+      ],
+      "geriatric_use": [
+        "Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine pamoate has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine pamoate and observed closely."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Side effects reported with the administration of hydroxyzine pamoate are usually mild and transitory in nature. Skin and Appendages Oral hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP) and fixed drug eruptions in post-marketing reports. Anticholinergic Dry mouth. Central Nervous System Drowsiness is usually transitory and may disappear in a few days of continued therapy or upon reduction of the dose. Involuntary motor activity, including rare instances of tremor and convulsions, has been reported, usually with doses considerably higher than those recommended. Clinically significant respiratory depression has not been reported at recommended doses. Cardiac System QT prolongation, Torsade de Pointes. In post-marketing experience, the following additional undesirable effects have been reported: Body as a Whole Allergic reaction Nervous System Headache Psychiatric Hallucination Skin and Appendages Pruritus, rash, urticaria To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      ],
+      "overdosage": [
+        "OVERDOSAGE The most common manifestation of overdosage of hydroxyzine pamoate is hypersedation. Other reported signs and symptoms were convulsions, stupor, nausea and vomiting. As in the management of overdosage with any drug, it should be borne in mind that multiple agents may have been taken. If vomiting has not occurred spontaneously, it should be induced. Immediate gastric lavage is also recommended. General supportive care, including frequent monitoring of the vital signs and close observation of the patient, is indicated. Hypotension, though unlikely, may be controlled with intravenous fluids and vasopressors ( do not use epinephrine as hydroxyzine counteracts its pressor action ). Caffeine and Sodium Benzoate Injection, USP, may be used to counteract central nervous system depressant effects. Hydroxyzine overdose may cause QT prolongation and Torsade de Pointes. ECG monitoring is recommended in cases of hydroxyzine overdose. There is no specific antidote. It is doubtful that hemodialysis would be of any value in the treatment of overdosage with hydroxyzine. However, if other agents such as barbiturates have been ingested concomitantly, hemodialysis may be indicated. There is no practical method to quantitate hydroxyzine in body fluids or tissue after its ingestion or administration."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: in adults, 50 mg to 100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50 mg to 100 mg daily in divided doses. For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus: in adults, 25 mg t.i.d. or q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50 mg to 100 mg daily in divided doses. As a sedative when used as a premedication and following general anesthesia: 50 mg to 100 mg in adults, and 0.6 mg/kg in children. When treatment is initiated by the intramuscular route of administration, subsequent doses may be administered orally. As with all medications, the dosage should be adjusted according to the patient’s response to therapy."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Hydroxyzine Pamoate Capsules, USP, for oral administration, are available as 50 mg (equivalent to 50 mg hydroxyzine hydrochloride) are dark green/white capsules imprinted “E 615” and supplied as: NDC: 70518-3232-00 NDC: 70518-3232-01 NDC: 70518-3232-02 NDC: 70518-3232-03 NDC: 70518-3232-04 NDC: 70518-3232-05 NDC: 70518-3232-06 NDC: 70518-3232-07 PACKAGING: 60 in 1 BOTTLE PLASTIC PACKAGING: 100 in 1 BOX PACKAGING: 1 in 1 POUCH PACKAGING: 30 in 1 BLISTER PACK PACKAGING: 100 in 1 BOX PACKAGING: 1 in 1 POUCH PACKAGING: 30 in 1 BLISTER PACK Storage Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Protect from moisture. Dispense contents in a tight, light-resistant container as defined in the USP, with a child-resistant closure, as required. KEEP TIGHTLY CLOSED. KEEP OUT OF THE REACH OF CHILDREN. Repackaged and Distributed By: Remedy Repack, Inc. 625 Kolter Dr. Suite #4 Indiana, PA 1-724-465-8762"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL DRUG: Hydroxyzine pamoate GENERIC: Hydroxyzine Pamoate DOSAGE: CAPSULE ADMINSTRATION: ORAL NDC: 70518-3232-0 NDC: 70518-3232-1 NDC: 70518-3232-2 NDC: 70518-3232-3 NDC: 70518-3232-4 NDC: 70518-3232-5 NDC: 70518-3232-6 NDC: 70518-3232-7 COLOR: green SHAPE: CAPSULE SCORE: No score SIZE: 16 mm IMPRINT: E615 PACKAGING: 60 in 1 BOTTLE, PLASTIC PACKAGING: 100 in 1 BOX PACKAGING: 1 in 1 POUCH PACKAGING: 30 in 1 BLISTER PACK PACKAGING: 100 in 1 BOX PACKAGING: 1 in 1 POUCH PACKAGING: 21 in 1 BLISTER PACK PACKAGING: 30 in 1 BLISTER PACK ACTIVE INGREDIENT(S): HYDROXYZINE PAMOATE 50mg in 1 INACTIVE INGREDIENT(S): TITANIUM DIOXIDE SODIUM LAURYL SULFATE SILICON DIOXIDE SHELLAC PROPYLENE GLYCOL MAGNESIUM STEARATE HYDROXYPROPYL CELLULOSE (1600000 WAMW) SODIUM STARCH GLYCOLATE TYPE A POTATO LACTOSE MONOHYDRATE FERROSOFERRIC OXIDE FD&C RED NO. 40 D&C YELLOW NO. 10 FD&C YELLOW NO. 6 FD&C GREEN NO. 3 FD&C BLUE NO. 2 GELATIN, UNSPECIFIED FD&C BLUE NO. 1 MM4 MM5 MM6 MM8"
+      ],
+      "set_id": "0c9101ee-0746-4833-83cf-d0d09e52c0a9",
+      "id": "4e3cc8ad-a873-32bd-e063-6294a90a2026",
+      "effective_time": "20260330",
+      "version": "10",
+      "openfda": {
+        "application_number": [
+          "ANDA086183"
+        ],
+        "brand_name": [
+          "Hydroxyzine pamoate"
+        ],
+        "generic_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "manufacturer_name": [
+          "REMEDYREPACK INC."
+        ],
+        "product_ndc": [
+          "70518-3232"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "rxcui": [
+          "995278"
+        ],
+        "spl_id": [
+          "4e3cc8ad-a873-32bd-e063-6294a90a2026"
+        ],
+        "spl_set_id": [
+          "0c9101ee-0746-4833-83cf-d0d09e52c0a9"
+        ],
+        "package_ndc": [
+          "70518-3232-0",
+          "70518-3232-2",
+          "70518-3232-1",
+          "70518-3232-3",
+          "70518-3232-5",
+          "70518-3232-4",
+          "70518-3232-6",
+          "70518-3232-7"
+        ],
+        "original_packager_product_ndc": [
+          "0185-0676"
+        ],
+        "unii": [
+          "M20215MUFR"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "HYDROXYZINE HYDROCHLORIDE HYDROXYZINE HYDROCHLORIDE WATER ALCOHOL PROPYLENE GLYCOL METHYLPARABEN PROPYLPARABEN ANHYDROUS CITRIC ACID TRISODIUM CITRATE DIHYDRATE SUCROSE HYDROXYZINE DIHYDROCHLORIDE HYDROXYZINE"
+      ],
+      "description": [
+        "DESCRIPTION Hydroxyzine hydrochloride is designated chemically as (±)-2-[2-[4-( p -Chloro-α-phenylbenzyl)-1-piperazinyl]ethoxy]ethanol dihydrochloride. Its structural formula is as follows: Inactive Ingredients for Hydroxyzine Hydrochloride Oral Solution, USP (Syrup) are: alcohol 0.5% (v/v); sucrose; methylparaben; peppermint flavor; propylene glycol; propylparaben; and purified water. It may also contain citric acid anhydrous or sodium citrate dihydrate for pH adjustment. The pH range is between 2.0 and 4.3. image description"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Hydroxyzine hydrochloride is unrelated chemically to the phenothiazines, reserpine, meprobamate, or the benzodiazepines. Hydroxyzine is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally. Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically. An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated. Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity. Hydroxyzine is rapidly absorbed from the gastrointestinal tract and its clinical effects are usually noted within 15 to 30 minutes after oral administration."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested. Useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus. As a sedative when used as premedication and following general anesthesia, hydroxyzine may potentiate meperidine and barbiturates , so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis. Atropine and other belladonna alkaloids are not affected by the drug. Hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent. The effectiveness of hydroxyzine as an antianxiety agent for long term use, that is more than 4 months, has not been assessed by systematic clinical studies. The physician should reassess periodically the usefulness of the drug for the individual patient"
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Oral hydroxyzine hydrochloride is contraindicated in patients with known hypersensitivity to hydroxyzine hydrochloride products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetirizine hydrochloride. Hydroxyzine is contraindicated in patients with a prolonged QT interval. Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit, induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range. Clinical data in human beings are inadequate to establish safety in early pregnancy. Until such data are available, hydroxyzine is contraindicated in early pregnancy. Hydroxyzine is contraindicated for patients who have shown a previous hypersensitivity to it."
+      ],
+      "warnings": [
+        "WARNINGS Keep out of the reach of children. Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "precautions": [
+        "PRECAUTIONS THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES. Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine, their dosage should be reduced. QT Prolongation/Torsade de Pointes (TdP) Cases of QT prolongation and Torsade de Pointes have been reported during post-marketing use of hydroxyzine. The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use). Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias. Caution is recommended during the concomitant use of drugs known to prolong the QT interval. These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol). Since drowsiness may occur with use of this drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine. Patients should be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effect of alcohol may be increased. Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and oversedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine and observed closely. Acute Generalized Exanthematous Pustulosis (AGEP) Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, nonfollicular, sterile pustules, arising within large areas of edematous erythema. Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity. If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered. Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Side effects reported with the administration of hydroxyzine hydrochloride are usually mild and transitory in nature. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. You may also report side effects to Chartwell Governmental & Specialty RX, LLC. at 1-845-232-1683. Skin and Appendages: Oral hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP), fixed drug eruptions, pruritis, rash and urticaria in postmarketing reports. Anticholinergic: Dry mouth. Central Nervous System: Drowsiness is usually transitory and may disappear in a few days of continued therapy or upon reduction of the dose. Involuntary motor activity including rare instances of tremor and convulsions have been reported, usually with doses considerably higher than those recommended. Clinically significant respiratory depression has not been reported at recommended doses. Cardiac System: QT prolongation, Torsade de Pointes."
+      ],
+      "overdosage": [
+        "OVERDOSAGE The most common manifestation of hydroxyzine overdosage is hypersedation. As in the management of overdosage with any drug, it should be borne in mind that multiple agents may have been taken. If vomiting has not occurred spontaneously, it should be induced. Immediate gastric lavage is also recommended. General supportive care, including frequent monitoring of the vital signs and close observation of the patient, is indicated. Hypotension, though unlikely, may be controlled with intravenous fluids and levarterenol, or metaraminol. Do not use epinephrine as hydroxyzine counteracts its pressor action. Hydroxyzine overdose may cause QT prolongation and Torsade de Pointes. ECG monitoring is recommended in cases of hydroxyzine overdose. There is no specific antidote. It is doubtful that hemodialysis would be of any value in the treatment of overdosage with hydroxyzine. However, if other agents such as barbiturates have been ingested concomitantly, hemodialysis may be indicated. There is no practical method to quantitate hydroxyzine in body fluids or tissue after its ingestion or administration."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: in adults, 50 to 100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses and over 6 years, 50 to 100 mg daily in divided doses. For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus: in adults, 25 mg t.i.d. or q.i.d.; children under 6 years, 50 mg daily in divided doses and over 6 years, 50 to 100 mg daily in divided doses. As a sedative when used as a premedication and following general anesthesia: 50 to 100 mg in adults, and 0.6 mg/kg in children. When treatment is initiated by the intramuscular route of administration, subsequent doses may be administered orally. As with all medications, the dosage should be adjusted according to the patient's response to therapy."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Hydroxyzine Hydrochloride Oral Solution, USP (Syrup) 10 mg per 5 mL (teaspoonful) is a slightly yellow liquid with characteristic mint flavor, supplied in unit dose cup of 25 mL (NDC 68999-050-52) and 20 unit dose cups of 25 mL each (NDC 68999-050-24). RECOMMENDED STORAGE Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. PROTECT FROM FREEZING PROTECT FROM LIGHT Rx Only Manufactured For: Chartwell Governmental & Specialty RX, LLC. Congers, NY 10920 L72776 Rev. 10/2025"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL HydrOXYzine Hydrochloride Oral Solution, USP - 50 mg/25 mL - NDC 68999-050-52 - Unit Dose Cup Label image description"
+      ],
+      "set_id": "0de7a377-7a8f-4119-b172-1eadb4b7e1be",
+      "id": "4356ec2d-ecb8-1aed-e063-6394a90ad74e",
+      "effective_time": "20251111",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "ANDA087294"
+        ],
+        "brand_name": [
+          "HYDROXYZINE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "HYDROXYZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Chartwell Governmental & Specialty RX, LLC."
+        ],
+        "product_ndc": [
+          "68999-050"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDROXYZINE DIHYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "995241"
+        ],
+        "spl_id": [
+          "4356ec2d-ecb8-1aed-e063-6394a90ad74e"
+        ],
+        "spl_set_id": [
+          "0de7a377-7a8f-4119-b172-1eadb4b7e1be"
+        ],
+        "package_ndc": [
+          "68999-050-52",
+          "68999-050-24"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "76755771U3"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydroxyzine pamoate Hydroxyzine Pamoate FD&C BLUE NO. 1 FD&C BLUE NO. 2 FD&C GREEN NO. 3 FD&C YELLOW NO. 6 D&C YELLOW NO. 10 FD&C RED NO. 40 FERROSOFERRIC OXIDE GELATIN, UNSPECIFIED LACTOSE MONOHYDRATE HYDROXYPROPYL CELLULOSE (1600000 WAMW) MAGNESIUM STEARATE PROPYLENE GLYCOL SHELLAC SILICON DIOXIDE SODIUM LAURYL SULFATE SODIUM STARCH GLYCOLATE TYPE A POTATO TITANIUM DIOXIDE HYDROXYZINE PAMOATE HYDROXYZINE HYDROXYZINE DIHYDROCHLORIDE E615"
+      ],
+      "spl_unclassified_section": [
+        "Rx Only"
+      ],
+      "description": [
+        "DESCRIPTION Hydroxyzine pamoate is a light yellow, practically odorless powder practically insoluble in water and methanol and freely soluble in dimethylformamide. It is chemically designated as (±)-2-[2-[4-(p-Chloro-α-phenylbenzyl)-1-piperazinyl]ethoxy]ethanol 4,4’-methylenebis[3-hydroxy-2-naphthoate] (1:1) [10246-75-0] and can be structurally represented as follows: C 21 H 27 CIN 2 O 2 •C 23 H 16 O 6 M.W. 763.27 Each capsule, for oral administration, contains hydroxyzine pamoate equivalent to hydroxyzine hydrochloride 25 mg or 50 mg. In addition, each capsule contains the following inactive ingredients: colloidal silicon dioxide, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, sodium starch glycolate (potato), and sodium lauryl sulfate. The capsule shell contains the following ingredients: D&C Yellow #10, FD&C Green #3, FD&C Yellow #6, gelatin, and titanium dioxide. The edible imprinting ink contains the following ingredients: black iron oxide, D&C Yellow #10, FD&C Blue #1, FD&C Blue #2, FD&C Red #40, propylene glycol, and shellac glaze. Chemical Structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Hydroxyzine pamoate is unrelated chemically to the phenothiazines, reserpine, meprobamate, or the benzodiazepines. Hydroxyzine pamoate is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally. Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically. An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated. Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity. Hydroxyzine is rapidly absorbed from the gastrointestinal tract and hydroxyzine pamoate clinical effects are usually noted within 15 to 30 minutes after oral administration."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested. Useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus. As a sedative when used as premedication and following general anesthesia, hydroxyzine may potentiate meperidine (Demerol ® ) and barbiturates, so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis. Atropine and other belladonna alkaloids are not affected by the drug. Hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent. The effectiveness of hydroxyzine as an antianxiety agent for long-term use, that is, more than 4 months, has not been assessed by systematic clinical studies. The physician should reassess periodically the usefulness of the drug for the individual patient."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit, induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range. Clinical data in human beings are inadequate to establish safety in early pregnancy. Until such data are available, hydroxyzine is contraindicated in early pregnancy. Hydroxyzine is contraindicated in patients with a prolonged QT interval. Hydroxyzine pamoate is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication. Hydroxyzine is contraindicated in patients with known hypersensitivity to hydroxyzine products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetirizine hydrochloride."
+      ],
+      "warnings": [
+        "WARNINGS Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "precautions": [
+        "PRECAUTIONS THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES. Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine, their dosage should be reduced. Since drowsiness may occur with use of the drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine pamoate. Patients should be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effect of alcohol may be increased. QT Prolongation/Torsade de Pointes (TdP) Cases of QT prolongation and Torsade de Pointes have been reported during post-marketing use of hydroxyzine. The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use). Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias. Caution is recommended during the concomitant use of drugs known to prolong the QT interval. These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol). Acute Generalized Exanthematous Pustulosis (AGEP) Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, non-follicular, sterile pustules, arising within large areas of edematous erythema. Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity. If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered. Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity. Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine pamoate has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine pamoate and observed closely."
+      ],
+      "geriatric_use": [
+        "Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine pamoate has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine pamoate and observed closely."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Side effects reported with the administration of hydroxyzine pamoate are usually mild and transitory in nature. Skin and Appendages Oral hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP) and fixed drug eruptions in post-marketing reports. Anticholinergic Dry mouth. Central Nervous System Drowsiness is usually transitory and may disappear in a few days of continued therapy or upon reduction of the dose. Involuntary motor activity, including rare instances of tremor and convulsions, has been reported, usually with doses considerably higher than those recommended. Clinically significant respiratory depression has not been reported at recommended doses. Cardiac System QT prolongation, Torsade de Pointes. In post-marketing experience, the following additional undesirable effects have been reported: Body as a Whole Allergic reaction Nervous System Headache Psychiatric Hallucination Skin and Appendages Pruritus, rash, urticaria To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      ],
+      "overdosage": [
+        "OVERDOSAGE The most common manifestation of overdosage of hydroxyzine pamoate is hypersedation. Other reported signs and symptoms were convulsions, stupor, nausea and vomiting. As in the management of overdosage with any drug, it should be borne in mind that multiple agents may have been taken. If vomiting has not occurred spontaneously, it should be induced. Immediate gastric lavage is also recommended. General supportive care, including frequent monitoring of the vital signs and close observation of the patient, is indicated. Hypotension, though unlikely, may be controlled with intravenous fluids and vasopressors ( do not use epinephrine as hydroxyzine counteracts its pressor action ). Caffeine and Sodium Benzoate Injection, USP, may be used to counteract central nervous system depressant effects. Hydroxyzine overdose may cause QT prolongation and Torsade de Pointes. ECG monitoring is recommended in cases of hydroxyzine overdose. There is no specific antidote. It is doubtful that hemodialysis would be of any value in the treatment of overdosage with hydroxyzine. However, if other agents such as barbiturates have been ingested concomitantly, hemodialysis may be indicated. There is no practical method to quantitate hydroxyzine in body fluids or tissue after its ingestion or administration."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: in adults, 50 mg to 100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50 mg to 100 mg daily in divided doses. For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus: in adults, 25 mg t.i.d. or q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50 mg to 100 mg daily in divided doses. As a sedative when used as a premedication and following general anesthesia: 50 mg to 100 mg in adults, and 0.6 mg/kg in children. When treatment is initiated by the intramuscular route of administration, subsequent doses may be administered orally. As with all medications, the dosage should be adjusted according to the patient’s response to therapy."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED"
+      ],
+      "package_label_principal_display_panel": [
+        "Package/Label Display Panel pdp"
+      ],
+      "set_id": "1136a291-2f2f-c025-e063-6294a90a76d7",
+      "id": "1136a031-633b-bf6f-e063-6294a90a8828",
+      "effective_time": "20240212",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "ANDA086183"
+        ],
+        "brand_name": [
+          "Hydroxyzine pamoate"
+        ],
+        "generic_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "manufacturer_name": [
+          "NuCare Pharmaceuticals,Inc."
+        ],
+        "product_ndc": [
+          "66267-556"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "rxcui": [
+          "995278"
+        ],
+        "spl_id": [
+          "1136a031-633b-bf6f-e063-6294a90a8828"
+        ],
+        "spl_set_id": [
+          "1136a291-2f2f-c025-e063-6294a90a76d7"
+        ],
+        "package_ndc": [
+          "66267-556-90"
+        ],
+        "original_packager_product_ndc": [
+          "0185-0676"
+        ],
+        "upc": [
+          "0366267556903"
+        ],
+        "unii": [
+          "M20215MUFR"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "hydroxyzine pamoate hydroxyzine pamoate MICROCRYSTALLINE CELLULOSE STARCH, CORN SODIUM LAURYL SULFATE SODIUM STARCH GLYCOLATE TYPE A POTATO MAGNESIUM STEARATE D&C YELLOW NO. 10 FD&C RED NO. 40 FD&C BLUE NO. 1 TITANIUM DIOXIDE GELATIN SHELLAC FERROSOFERRIC OXIDE BUTYL ALCOHOL ISOPROPYL ALCOHOL PROPYLENE GLYCOL AMMONIA HYDROXYZINE PAMOATE HYDROXYZINE HYDROXYZINE DIHYDROCHLORIDE EP;112;EP;112"
+      ],
+      "description": [
+        "DESCRIPTION Hydroxyzine pamoate is a light yellow odorless powder, practically insoluble in water and methanol and freely soluble in dimethylformamide. It is chemically designated as (±)-2-[2-[4-( p -Chloro-α-phenylbenzyl)-1-piperazinyl]ethoxy]ethanol 4,4 -methylenebis[3-hydroxy-2-naphthoate] (1:1) and can be structurally represented as follows: Chemical Formula: C 21 H 27 ClN 2 O 2 .C 23 H 16 O 6 Molecular Weight: 763.29 Inert ingredients for the capsule formulations are: hard gelatin capsules (which contain gelatin, titanium dioxide, FD&C Blue #1, FD&C Red #40, D&C Yellow #10), printing ink which contains shellac glaze ~45% (20% esterified) in Ethanol, iron oxide black, n-butyl alcohol, isopropyl alcohol, propylene glycol and ammonium hydroxide 28%); magnesium stearate, microcrystalline cellulose, pregelatinized starch, sodium lauryl sulfate, sodium starch glycolate. structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Hydroxyzine pamoate is unrelated chemically to the phenothiazines, reserpine, meprobamate, or the benzodiazepines. Hydroxyzine pamoate is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally. Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically. An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated. Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity. Hydroxyzine is rapidly absorbed from the gastrointestinal tract and hydroxyzine pamoate's clinical effects are usually noted within 15 to 30 minutes after oral administration."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested. Useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus. As a sedative when used as premedication and following general anesthesia, Hydroxyzine may potentiate meperidine (Demerol®) and barbiturates , so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis. Atropine and other belladonna alkaloids are not affected by the drug. Hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent. The effectiveness of hydroxyzine as an antianxiety agent for long-term use, that is, more than 4 months, has not been assessed by systematic clinical studies. The physician should reassess periodically the usefulness of the drug for the individual patient."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit, induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range. Clinical data in human beings are inadequate to establish safety in early pregnancy. Until such data are available, hydroxyzine is contraindicated in early pregnancy. Hydroxyzine is contraindicated in patients with a prolonged QT interval. Hydroxyzine pamoate is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication. Hydroxyzine is contraindicated in patients with known hypersensitivity to hydroxyzine products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetirizine hydrochloride."
+      ],
+      "warnings": [
+        "WARNINGS Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "precautions": [
+        "PRECAUTIONS THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES. Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine, their dosage should be reduced. Since drowsiness may occur with use of the drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine pamoate. Patients should be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effect of alcohol may be increased. QT Prolongation/Torsade de Pointes (TdP) Cases of QT prolongation and Torsade de Pointes have been reported during post-marketing use of hydroxyzine. The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use). Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias. Caution is recommended during the concomitant use of drugs known to prolong the QT interval. These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol). Acute Generalized Exanthematous Pustulosis (AGEP) Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, non-follicular, sterile pustules, arising within large areas of edematous erythema. Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity. If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered. Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity. Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine pamoate has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine pamoate and observed closely."
+      ],
+      "geriatric_use": [
+        "Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine pamoate has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine pamoate and observed closely."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Side effects reported with the administration of hydroxyzine pamoate are usually mild and transitory in nature. Skin and Appendages: Oral hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP) and fixed drug eruptions in post-marketing reports. Anticholinergic: Dry mouth. Central Nervous System: Drowsiness is usually transitory and may disappear in a few days of continued therapy or upon reduction of the dose. Involuntary motor activity, including rare instances of tremor and convulsions, has been reported, usually with doses considerably higher than those recommended. Clinically significant respiratory depression has not been reported at recommended doses. Cardiac System: QT prolongation, Torsade de Pointes. In post-marketing experience, the following additional undesirable effects have been reported: Body as a Whole: allergic reaction, Nervous System: headache, Psychiatric: hallucination, Skin and Appendages: pruritus, rash, urticaria. To report SUSPECTED ADVERSE REACTIONS, contact Avet Pharmaceuticals Inc. at 1-866-901-DRUG (3784) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      ],
+      "overdosage": [
+        "OVERDOSAGE The most common manifestation of overdosage of hydroxyzine pamoate is hypersedation. Other reported signs and symptoms were convulsions, stupor, nausea and vomiting. As in the management of overdosage with any drug, it should be borne in mind that multiple agents may have been taken. If vomiting has not occurred spontaneously, it should be induced. Immediate gastric lavage is also recommended. General supportive care, including frequent monitoring of the vital signs and close observation of the patient, is indicated. Hypotension, though unlikely, may be controlled with intravenous fluids and vasopressors ( do not use epinephrine as hydroxyzine counteracts its pressor action. ) Caffeine and Sodium Benzoate Injection, USP, may be used to counteract central nervous system depressant effects. Hydroxyzine overdose may cause QT prolongation and Torsade de Pointes. ECG monitoring is recommended in cases of hydroxyzine overdose. There is no specific antidote. It is doubtful that hemodialysis would be of any value in the treatment of overdosage with hydroxyzine. However, if other agents such as barbiturates have been ingested concomitantly, hemodialysis may be indicated. There is no practical method to quantitate hydroxyzine in body fluids or tissue after its ingestion or administration. DOSAGE For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: in adults, 50–100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50–100 mg daily in divided doses. For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus: in adults, 25 mg t.i.d. or q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50–100 mg daily in divided doses. As a sedative when used as a premedication and following general anesthesia: 50–100 mg in adults, and 0.6 mg/kg in children. When treatment is initiated by the intramuscular route of administration, subsequent doses may be administered orally. As with all medications, the dosage should be adjusted according to the patient's response to therapy."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Hydroxyzine Pamoate Capsules (hydroxyzine pamoate equivalent to hydroxyzine hydrochloride) are available as: 50 mg capsules: Hard gelatin capsules, white opaque cap, green opaque body, cap and body imprinted EP 112 in black ink. They are supplied as follows: Bottles of 30: NDC 82868-046-30 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Dispense in tight, light resistant containers (USP). Distributed by: Avet Pharmaceuticals Inc. East Brunswick, NJ 08816 1.866.901.DRUG (3784) 51U000000293US06 Revised: 06/2025 Image"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel NDC: 82868-046-30 Label"
+      ],
+      "set_id": "127617c2-9775-3859-e063-6394a90a77cd",
+      "id": "47a6efa2-c61a-654f-e063-6294a90af3d2",
+      "effective_time": "20260105",
+      "version": "3",
+      "openfda": {
+        "application_number": [
+          "ANDA201507"
+        ],
+        "brand_name": [
+          "hydroxyzine pamoate"
+        ],
+        "generic_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "manufacturer_name": [
+          "Northwind Health Company, LLC"
+        ],
+        "product_ndc": [
+          "82868-046"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "rxcui": [
+          "995278"
+        ],
+        "spl_id": [
+          "47a6efa2-c61a-654f-e063-6294a90af3d2"
+        ],
+        "spl_set_id": [
+          "127617c2-9775-3859-e063-6394a90a77cd"
+        ],
+        "package_ndc": [
+          "82868-046-30"
+        ],
+        "original_packager_product_ndc": [
+          "14539-675"
+        ],
+        "unii": [
+          "M20215MUFR"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "hydroxyzine pamoate hydroxyzine pamoate MICROCRYSTALLINE CELLULOSE STARCH, CORN SODIUM LAURYL SULFATE SODIUM STARCH GLYCOLATE TYPE A POTATO MAGNESIUM STEARATE D&C YELLOW NO. 10 FD&C RED NO. 40 FD&C BLUE NO. 1 TITANIUM DIOXIDE GELATIN SHELLAC FERROSOFERRIC OXIDE BUTYL ALCOHOL ISOPROPYL ALCOHOL PROPYLENE GLYCOL AMMONIA HYDROXYZINE PAMOATE HYDROXYZINE HYDROXYZINE DIHYDROCHLORIDE BLACK BLACK EP112"
+      ],
+      "description": [
+        "DESCRIPTION Hydroxyzine pamoate is a light yellow odorless powder, practically insoluble in water and methanol and freely soluble in dimethylformamide. It is chemically designated as (±)-2-[2-[4-( p -Chloro-α-phenylbenzyl)-1-piperazinyl]ethoxy]ethanol 4,4 -methylenebis[3-hydroxy-2-naphthoate] (1:1) and can be structurally represented as follows: Chemical Formula: C 21 H 27 ClN 2 O 2 .C 23 H 16 O 6 Molecular Weight: 763.29 Inert ingredients for the capsule formulations are: hard gelatin capsules (which contain gelatin, titanium dioxide, FD&C Blue #1, FD&C Red #40, D&C Yellow #10), printing ink which contains shellac glaze ~45% (20% esterified) in Ethanol, iron oxide black, n-butyl alcohol, isopropyl alcohol, propylene glycol and ammonium hydroxide 28%); magnesium stearate, microcrystalline cellulose, pregelatinized starch, sodium lauryl sulfate, sodium starch glycolate. structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Hydroxyzine pamoate is unrelated chemically to the phenothiazines, reserpine, meprobamate, or the benzodiazepines. Hydroxyzine pamoate is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally. Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically. An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated. Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity. Hydroxyzine is rapidly absorbed from the gastrointestinal tract and hydroxyzine pamoate's clinical effects are usually noted within 15 to 30 minutes after oral administration."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested. Useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus. As a sedative when used as premedication and following general anesthesia, Hydroxyzine may potentiate meperidine (Demerol®) and barbiturates , so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis. Atropine and other belladonna alkaloids are not affected by the drug. Hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent. The effectiveness of hydroxyzine as an antianxiety agent for long-term use, that is, more than 4 months, has not been assessed by systematic clinical studies. The physician should reassess periodically the usefulness of the drug for the individual patient."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit, induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range. Clinical data in human beings are inadequate to establish safety in early pregnancy. Until such data are available, hydroxyzine is contraindicated in early pregnancy. Hydroxyzine is contraindicated in patients with a prolonged QT interval. Hydroxyzine pamoate is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication. Hydroxyzine is contraindicated in patients with known hypersensitivity to hydroxyzine products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetirizine hydrochloride."
+      ],
+      "warnings": [
+        "WARNINGS Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+      ],
+      "precautions": [
+        "PRECAUTIONS THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES. Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine, their dosage should be reduced. Since drowsiness may occur with use of the drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine pamoate. Patients should be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effect of alcohol may be increased. QT Prolongation/Torsade de Pointes (TdP) Cases of QT prolongation and Torsade de Pointes have been reported during post-marketing use of hydroxyzine. The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use). Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias. Caution is recommended during the concomitant use of drugs known to prolong the QT interval. These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol). Acute Generalized Exanthematous Pustulosis (AGEP) Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, non-follicular, sterile pustules, arising within large areas of edematous erythema. Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity. If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered. Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity. Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine pamoate has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine pamoate and observed closely."
+      ],
+      "geriatric_use": [
+        "Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine pamoate has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine pamoate and observed closely."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Side effects reported with the administration of hydroxyzine pamoate are usually mild and transitory in nature. Skin and Appendages: Oral hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP) and fixed drug eruptions in post-marketing reports. Anticholinergic: Dry mouth. Central Nervous System: Drowsiness is usually transitory and may disappear in a few days of continued therapy or upon reduction of the dose. Involuntary motor activity, including rare instances of tremor and convulsions, has been reported, usually with doses considerably higher than those recommended. Clinically significant respiratory depression has not been reported at recommended doses. Cardiac System: QT prolongation, Torsade de Pointes. In post-marketing experience, the following additional undesirable effects have been reported: Body as a Whole: allergic reaction, Nervous System: headache, Psychiatric: hallucination, Skin and Appendages: pruritus, rash, urticaria. To report SUSPECTED ADVERSE REACTIONS, contact Avet Pharmaceuticals Inc. at 1-866-901-DRUG (3784) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      ],
+      "overdosage": [
+        "OVERDOSAGE The most common manifestation of overdosage of hydroxyzine pamoate is hypersedation. Other reported signs and symptoms were convulsions, stupor, nausea and vomiting. As in the management of overdosage with any drug, it should be borne in mind that multiple agents may have been taken. If vomiting has not occurred spontaneously, it should be induced. Immediate gastric lavage is also recommended. General supportive care, including frequent monitoring of the vital signs and close observation of the patient, is indicated. Hypotension, though unlikely, may be controlled with intravenous fluids and vasopressors ( do not use epinephrine as hydroxyzine counteracts its pressor action. ) Caffeine and Sodium Benzoate Injection, USP, may be used to counteract central nervous system depressant effects. Hydroxyzine overdose may cause QT prolongation and Torsade de Pointes. ECG monitoring is recommended in cases of hydroxyzine overdose. There is no specific antidote. It is doubtful that hemodialysis would be of any value in the treatment of overdosage with hydroxyzine. However, if other agents such as barbiturates have been ingested concomitantly, hemodialysis may be indicated. There is no practical method to quantitate hydroxyzine in body fluids or tissue after its ingestion or administration. DOSAGE For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: in adults, 50–100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50–100 mg daily in divided doses. For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus: in adults, 25 mg t.i.d. or q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50–100 mg daily in divided doses. As a sedative when used as a premedication and following general anesthesia: 50–100 mg in adults, and 0.6 mg/kg in children. When treatment is initiated by the intramuscular route of administration, subsequent doses may be administered orally. As with all medications, the dosage should be adjusted according to the patient's response to therapy."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED 50 mg capsules: Hard gelatin capsules, white opaque cap, green opaque body, cap and body imprinted EP112 in black ink. They are supplied as follows: NDC 68071-3583-9 BOTTLES OF 90 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Dispense in tight, light resistant containers (USP). Distributed by: Avet Pharmaceuticals Inc. East Brunswick, NJ 08816 1.866.901.DRUG (3784) 51U000000293US05 Revised: 08/2021 Image"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL 50 mg pdp"
+      ],
+      "set_id": "1302c511-eb25-5818-e063-6394a90a9225",
+      "id": "1302e0e1-cff5-2a38-e063-6294a90ae178",
+      "effective_time": "20240306",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "ANDA201507"
+        ],
+        "brand_name": [
+          "hydroxyzine pamoate"
+        ],
+        "generic_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "manufacturer_name": [
+          "NuCare Pharmaceuticals,Inc."
+        ],
+        "product_ndc": [
+          "68071-3583"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDROXYZINE PAMOATE"
+        ],
+        "rxcui": [
+          "995278"
+        ],
+        "spl_id": [
+          "1302e0e1-cff5-2a38-e063-6294a90ae178"
+        ],
+        "spl_set_id": [
+          "1302c511-eb25-5818-e063-6394a90a9225"
+        ],
+        "package_ndc": [
+          "68071-3583-9"
+        ],
+        "original_packager_product_ndc": [
+          "14539-675"
+        ],
+        "upc": [
+          "0368071358391"
+        ],
+        "unii": [
+          "M20215MUFR"
+        ]
+      }
+    }
+  ]
+}

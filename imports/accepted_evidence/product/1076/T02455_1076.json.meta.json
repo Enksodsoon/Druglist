@@ -1,0 +1,14 @@
+{
+  "source_id": "1076",
+  "task_id": "T02455",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Arcoxia%20120%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1076/T02455_1076.json",
+  "sha256": "87a01d96ba3c318cf0ce2034eecb0fda86888ccc332d15f8a71fbf4d51f44fca",
+  "downloaded_at": "2026-05-16T03:39:27.715201+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:230:1076",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2608",
+  "task_id": "T04094",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Marvelon+28",
+  "local_path": "imports/accepted_evidence/product/2608/T04094_2608.cfm",
+  "sha256": "83515834370a588043799c9ff061357c8eccda4b7cc4234d2aefd41728480956",
+  "downloaded_at": "2026-05-16T03:43:36.762700+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:448:2608",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

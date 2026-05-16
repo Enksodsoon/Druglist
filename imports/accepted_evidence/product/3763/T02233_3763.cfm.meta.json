@@ -1,0 +1,14 @@
+{
+  "source_id": "3763",
+  "task_id": "T02233",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tylenol+Suspension",
+  "local_path": "imports/accepted_evidence/product/3763/T02233_3763.cfm",
+  "sha256": "c8762a16bf5621404a87038ed441e0aaf2dce434583738730e8a3ce02a48c205",
+  "downloaded_at": "2026-05-16T03:38:54.611788+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:201:3763",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

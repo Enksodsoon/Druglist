@@ -1,0 +1,14 @@
+{
+  "source_id": "44553",
+  "task_id": "T01093",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Levocet",
+  "local_path": "imports/accepted_evidence/product/44553/T01093_44553.cfm",
+  "sha256": "7b4c5c8ca847f43c8fae9bd0b3ba01e722e10d4b2ccdafb0934e8cbb196a6539",
+  "downloaded_at": "2026-05-16T03:36:07.858118+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:47:44553",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

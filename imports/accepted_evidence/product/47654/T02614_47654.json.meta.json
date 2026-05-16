@@ -1,0 +1,14 @@
+{
+  "source_id": "47654",
+  "task_id": "T02614",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Soproxen&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/47654/T02614_47654.json",
+  "sha256": "df714282d908e09332bc2003308a543d975966072beab81692e7f0dcc79bacb0",
+  "downloaded_at": "2026-05-16T03:39:51.302797+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:254:47654",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

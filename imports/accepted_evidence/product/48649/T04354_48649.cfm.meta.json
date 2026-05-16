@@ -1,0 +1,14 @@
+{
+  "source_id": "48649",
+  "task_id": "T04354",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tavipec+cap",
+  "local_path": "imports/accepted_evidence/product/48649/T04354_48649.cfm",
+  "sha256": "27eebfbc5517698bd49abd838a7079dafee9b4586043c9ad19426e9d52e825eb",
+  "downloaded_at": "2026-05-16T03:44:16.921976+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:487:48649",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

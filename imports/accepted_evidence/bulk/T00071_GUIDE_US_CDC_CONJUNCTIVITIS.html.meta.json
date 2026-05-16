@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_US_CDC_CONJUNCTIVITIS",
+  "task_id": "T00071",
+  "source_url": "https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html",
+  "local_path": "imports/accepted_evidence/bulk/T00071_GUIDE_US_CDC_CONJUNCTIVITIS.html",
+  "sha256": "8bc005bdf2b677ee69a5216ac7ab081594f73d6164f35591f673343b16763268",
+  "downloaded_at": "2026-05-16T03:33:49.561159+00:00",
+  "http_status": 200,
+  "content_type": "text/html",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:32:GUIDE_US_CDC_CONJUNCTIVITIS|Disease_Download_Map:8:dry_eye_adult|Disease_Download_Map:11:eye_irritation_adult|Disease_Download_Map:33:allergic_conjunctivitis_adult|Disease_Download_Map:37:eye_lubrication_adult|Disease_Download_Map:62:screen_related_dry_eye_adult|Disease_Download_Map:69:watery_red_eye_nonpurulent_adult|Disease_Download_Map:70:contact_lens_dry_eye_support_adult|Disease_Download_Map:71:eye_wash_support_adult|Disease_Download_Map:72:foreign_body_irritation_followup_adult|Disease_Download_Map:73:eye_irritation_peds|Disease_Download_Map:74:dry_eye_peds_support|Disease_Download_Map:93:bacterial_conjunctivitis_adult|Disease_Download_Map:94:bacterial_conjunctivitis_peds|Disease_Download_Map:95:bacterial_eyelid_infection_adult|Disease_Download_Map:96:bacterial_eyelid_infection_peds|Disease_Download_Map:109:topical_eye_antibiotic_support_adult",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

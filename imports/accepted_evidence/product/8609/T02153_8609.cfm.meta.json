@@ -1,0 +1,14 @@
+{
+  "source_id": "8609",
+  "task_id": "T02153",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ampol+Suspension",
+  "local_path": "imports/accepted_evidence/product/8609/T02153_8609.cfm",
+  "sha256": "e94c7bed1a89ae3a3dcac0cf0bc896c571ffc6416eff10a9c400e1217b464375",
+  "downloaded_at": "2026-05-16T03:38:42.348233+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:186:8609",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

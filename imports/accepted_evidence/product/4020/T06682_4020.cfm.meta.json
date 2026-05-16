@@ -1,0 +1,14 @@
+{
+  "source_id": "4020",
+  "task_id": "T06682",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Vilerm+Cream+sachet+1+g",
+  "local_path": "imports/accepted_evidence/product/4020/T06682_4020.cfm",
+  "sha256": "a775fa98f5c4499b538bd356261e6cd37eff822a6440548b8e50d3d82e4af6b4",
+  "downloaded_at": "2026-05-16T03:50:07.337175+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:787:4020",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

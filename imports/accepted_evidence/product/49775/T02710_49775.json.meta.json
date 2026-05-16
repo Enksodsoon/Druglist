@@ -1,0 +1,14 @@
+{
+  "source_id": "49775",
+  "task_id": "T02710",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Zenzera-200%20Suspension&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/49775/T02710_49775.json",
+  "sha256": "3a9c8a61bf4a26228b17b3ff6d1cc9c4a797908a795e34f0a9c619e8257cec2b",
+  "downloaded_at": "2026-05-16T03:40:05.905237+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:268:49775",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

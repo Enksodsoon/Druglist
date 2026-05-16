@@ -1,0 +1,14 @@
+{
+  "source_id": "8064",
+  "task_id": "T01888",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Acyclovir%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/8064/T01888_8064.json",
+  "sha256": "41554fdbaf89a80c5683f2947bb1de0a6373317a1eb7ff56d68d17e99c28106d",
+  "downloaded_at": "2026-05-16T03:38:04.248593+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:150:8064|Product_Label_Links:151:8065|Product_Label_Links:152:7782|Product_Label_Links:153:7783|Product_Label_Links:154:7781|Product_Label_Links:155:4019|Product_Label_Links:156:4086|Product_Label_Links:157:4011",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

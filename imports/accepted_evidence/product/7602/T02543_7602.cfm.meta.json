@@ -1,0 +1,14 @@
+{
+  "source_id": "7602",
+  "task_id": "T02543",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Felcam+Capsule",
+  "local_path": "imports/accepted_evidence/product/7602/T02543_7602.cfm",
+  "sha256": "cd66f45f13972c0470cbdd42cfd62a272bfb05299fe74ed6a40d33f5f3683dff",
+  "downloaded_at": "2026-05-16T03:39:41.378930+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:243:7602",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

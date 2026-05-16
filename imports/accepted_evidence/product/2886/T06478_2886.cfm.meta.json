@@ -1,0 +1,14 @@
+{
+  "source_id": "2886",
+  "task_id": "T06478",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Hydroxypropyl+Methylcellulose+USP+0+3+%2BPreservative",
+  "local_path": "imports/accepted_evidence/product/2886/T06478_2886.cfm",
+  "sha256": "6de6488970f6aa362160e3d7db3fd6f98b05304adc5508ca9d715e0bf7099b38",
+  "downloaded_at": "2026-05-16T03:49:34.694557+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:764:2886|Product_Label_Links:767:3014",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

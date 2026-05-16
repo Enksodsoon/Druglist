@@ -1,0 +1,14 @@
+{
+  "source_id": "3750",
+  "task_id": "T06940",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Trinolone+Oral+Paste+sachet+1+g",
+  "local_path": "imports/accepted_evidence/product/3750/T06940_3750.html",
+  "sha256": "3dbeaa7e2751ad6073e9e4b1fba89fa12ebee9f9bead01be4743ea01dceba1a9",
+  "downloaded_at": "2026-05-16T03:50:45.497150+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:823:3750",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

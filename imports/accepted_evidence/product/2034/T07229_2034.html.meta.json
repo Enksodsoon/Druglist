@@ -1,0 +1,14 @@
+{
+  "source_id": "2034",
+  "task_id": "T07229",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Gynecon+%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%AD%E0%B8%94",
+  "local_path": "imports/accepted_evidence/product/2034/T07229_2034.html",
+  "sha256": "0bb15fde2b280cb8faa9bbad9284ec0990694372d4a665761e19ffd7d07a0bf8",
+  "downloaded_at": "2026-05-16T03:51:29.838332+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:857:2034",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

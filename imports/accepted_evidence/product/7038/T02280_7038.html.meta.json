@@ -1,0 +1,14 @@
+{
+  "source_id": "7038",
+  "task_id": "T02280",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Cistamine+Syrup",
+  "local_path": "imports/accepted_evidence/product/7038/T02280_7038.html",
+  "sha256": "19260d55b59052a8f9031443f2e3afb2665f11d4658bb2bd755ad20dfba63239",
+  "downloaded_at": "2026-05-16T03:39:01.598938+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:206:7038",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "43605",
+  "task_id": "T04245",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Glucosa%201500%20%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9C%E0%B8%87%20%28%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%A7%29&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/43605/T04245_43605.json",
+  "sha256": "011040038406fccc0785b75d1dae81bb9847fc636e2f5ec9adf8c1dc9190e9bd",
+  "downloaded_at": "2026-05-16T03:44:00.300868+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:471:43605",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

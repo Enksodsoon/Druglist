@@ -1,0 +1,14 @@
+{
+  "source_id": "1015",
+  "task_id": "T02240",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Aerius%20Syrup&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1015/T02240_1015.json",
+  "sha256": "ac281b2e4c80e13249f6c8eada1388895e9fdbea6628b59c31fcd4a1f51b126c",
+  "downloaded_at": "2026-05-16T03:38:55.265350+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:202:1015",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

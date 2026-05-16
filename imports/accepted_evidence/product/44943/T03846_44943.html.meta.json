@@ -1,0 +1,14 @@
+{
+  "source_id": "44943",
+  "task_id": "T03846",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Meteospasmyl",
+  "local_path": "imports/accepted_evidence/product/44943/T03846_44943.html",
+  "sha256": "3394180cfdd4f4929dd711bd72d7df1d902b1cc39fbc161cc85f5db4e9ee658b",
+  "downloaded_at": "2026-05-16T03:42:57.544877+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:415:44943",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

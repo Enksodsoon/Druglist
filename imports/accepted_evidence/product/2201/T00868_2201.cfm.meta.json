@@ -1,0 +1,14 @@
+{
+  "source_id": "2201",
+  "task_id": "T00868",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ibiamox+500+mg",
+  "local_path": "imports/accepted_evidence/product/2201/T00868_2201.cfm",
+  "sha256": "7c61f222a2b6a932d9f61ab8b80bb5eded49663cf6c122f928a99665943d174c",
+  "downloaded_at": "2026-05-16T03:35:37.291052+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:15:2201",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

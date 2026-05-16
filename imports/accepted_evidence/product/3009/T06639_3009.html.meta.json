@@ -1,0 +1,14 @@
+{
+  "source_id": "3009",
+  "task_id": "T06639",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Opsar+%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+  "local_path": "imports/accepted_evidence/product/3009/T06639_3009.html",
+  "sha256": "a58f65ba65801749c8e39e42fc9cd15abade6757d3ec049e576dcc96227ddea2",
+  "downloaded_at": "2026-05-16T03:50:01.714809+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:781:3009",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

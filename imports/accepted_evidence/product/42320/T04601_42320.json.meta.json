@@ -1,0 +1,14 @@
+{
+  "source_id": "42320",
+  "task_id": "T04601",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Diovan%20160%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/42320/T04601_42320.json",
+  "sha256": "968886ee6d384fa6bc9fafcf8b5547e06c4ba8459f6a6adf81bb9da30e00defd",
+  "downloaded_at": "2026-05-16T03:44:52.643341+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:521:42320",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

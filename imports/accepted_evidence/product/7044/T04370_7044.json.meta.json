@@ -1,0 +1,14 @@
+{
+  "source_id": "7044",
+  "task_id": "T04370",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Cemol%20500%20mg%20strip%2010s%20%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%94%E0%B8%A3%E0%B8%B5&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7044/T04370_7044.json",
+  "sha256": "0d94b8d0804d89c828e6181ac362e0e013048447eda35b52550b9be302cd4a7f",
+  "downloaded_at": "2026-05-16T03:44:18.356793+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:489:7044",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

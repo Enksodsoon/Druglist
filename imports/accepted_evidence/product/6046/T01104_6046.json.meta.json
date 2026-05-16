@@ -1,0 +1,14 @@
+{
+  "source_id": "6046",
+  "task_id": "T01104",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Loreze&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/6046/T01104_6046.json",
+  "sha256": "3e1b5d2737c3139bf1e88df63ebce639eaa9b2f9bae7890b3ae650e94f727e4b",
+  "downloaded_at": "2026-05-16T03:36:09.076637+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:48:6046",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

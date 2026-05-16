@@ -1,0 +1,14 @@
+{
+  "source_id": "42329",
+  "task_id": "T01741",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Itopride&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/42329/T01741_42329.json",
+  "sha256": "53166b310408dedf6db10896562df60b606d8f6e8ab5af4e254bcfd04681d8ab",
+  "downloaded_at": "2026-05-16T03:37:42.496806+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:131:42329|Product_Label_Links:133:2048",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

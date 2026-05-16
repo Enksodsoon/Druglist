@@ -1,0 +1,14 @@
+{
+  "source_id": "8321",
+  "task_id": "T05344",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Bio-C-Vitamin",
+  "local_path": "imports/accepted_evidence/product/8321/T05344_8321.html",
+  "sha256": "33633d57ff939b13beb1137b2678641bd0435d8419654615369cedc5ed357ba2",
+  "downloaded_at": "2026-05-16T03:46:41.895066+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:625:8321",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1491",
+  "task_id": "T06062",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Canasone+C.B.+Cream",
+  "local_path": "imports/accepted_evidence/product/1491/T06062_1491.cfm",
+  "sha256": "e1a7ada3c83dc6b5ad35ea7da35eae77390ad485b43fa70b3879593f7717bbca",
+  "downloaded_at": "2026-05-16T03:48:30.776391+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:716:1491",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

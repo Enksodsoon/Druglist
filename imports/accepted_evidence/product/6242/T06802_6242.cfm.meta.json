@@ -1,0 +1,14 @@
+{
+  "source_id": "6242",
+  "task_id": "T06802",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Fastum+Gel",
+  "local_path": "imports/accepted_evidence/product/6242/T06802_6242.cfm",
+  "sha256": "9c80e543b2dbfcdcf61314a06ea39b7bb7e87048b71624f1b546e91c4f069d6a",
+  "downloaded_at": "2026-05-16T03:50:24.885294+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:803:6242",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

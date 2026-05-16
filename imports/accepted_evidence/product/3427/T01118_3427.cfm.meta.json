@@ -1,0 +1,14 @@
+{
+  "source_id": "3427",
+  "task_id": "T01118",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Montek+10+mg",
+  "local_path": "imports/accepted_evidence/product/3427/T01118_3427.cfm",
+  "sha256": "f8b2a79c15fd5eda271b06973c2b46b28338c89f15edb330c0a8ce58e65ec0e8",
+  "downloaded_at": "2026-05-16T03:36:11.715599+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:50:3427",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

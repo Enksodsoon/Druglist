@@ -1,0 +1,14 @@
+{
+  "source_id": "Bulk_Source_Tasks_3",
+  "task_id": "T00100",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name={GENERIC}&name_type=both&pagesize=100\"",
+  "local_path": "imports/accepted_evidence/bulk/dailymed-api/T00100_Bulk_Source_Tasks_3.json",
+  "sha256": "fbb62966e9fe646f7171176f8e63ae0cfd0534d073e145be4ffc06c441ea4dbb",
+  "downloaded_at": "2026-05-16T03:33:53.513050+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Bulk_Source_Tasks",
+  "linked_rows": "Bulk_Source_Tasks:3:Bulk_Source_Tasks_3",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

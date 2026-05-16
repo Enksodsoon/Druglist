@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_71",
+  "task_id": "T00674",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=fusidic%20acid%20%2B%20hydrocortisone%20cream&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001910/T00674_Drug_Label_Links_71.json",
+  "sha256": "ce142a815d9848c2eb20a1507a108917ffe6a8e5636762285292222990992c97",
+  "downloaded_at": "2026-05-16T03:35:12.535396+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:71:Drug_Label_Links_71",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

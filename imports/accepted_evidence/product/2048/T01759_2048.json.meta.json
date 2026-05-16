@@ -1,0 +1,14 @@
+{
+  "source_id": "2048",
+  "task_id": "T01759",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ganaton&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2048/T01759_2048.json",
+  "sha256": "1a0dec3991754320e3117bb7a4f8159dbbf42bb934bca02e2ed0f4bc193bf594",
+  "downloaded_at": "2026-05-16T03:37:44.904107+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:133:2048",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

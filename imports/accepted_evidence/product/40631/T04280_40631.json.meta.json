@@ -1,0 +1,14 @@
+{
+  "source_id": "40631",
+  "task_id": "T04280",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bromcolex&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/40631/T04280_40631.json",
+  "sha256": "fc0e14e4ba470a912dac44a9f6e88927c93ca179dcfbd0f33bada9f61b4f60ae",
+  "downloaded_at": "2026-05-16T03:44:04.858329+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:476:40631",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

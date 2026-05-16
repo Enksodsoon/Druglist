@@ -1,0 +1,14 @@
+{
+  "source_id": "3427",
+  "task_id": "T01119",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Montelukast",
+  "local_path": "imports/accepted_evidence/product/3427/T01119_3427.cfm",
+  "sha256": "b1d724327cf5764bc7102eb5e27d0146faabc00afa02fdab37b2052ad01791de",
+  "downloaded_at": "2026-05-16T03:36:11.724741+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:50:3427|Product_Label_Links:51:44924|Product_Label_Links:54:3511|Product_Label_Links:55:47722|Product_Label_Links:56:47643",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

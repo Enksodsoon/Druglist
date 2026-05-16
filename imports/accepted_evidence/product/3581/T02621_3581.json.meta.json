@@ -1,0 +1,14 @@
+{
+  "source_id": "3581",
+  "task_id": "T02621",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ibuprofen&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3581/T02621_3581.json",
+  "sha256": "82b4ecb8a097eb60635717746420f0fe81821190624e763e72bd330f80f5919b",
+  "downloaded_at": "2026-05-16T03:39:53.242139+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:255:3581|Product_Label_Links:382:40016|Product_Label_Links:383:40623|Product_Label_Links:385:7040|Product_Label_Links:386:1618|Product_Label_Links:388:2036|Product_Label_Links:391:45600|Product_Label_Links:392:2846|Product_Label_Links:393:47673",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

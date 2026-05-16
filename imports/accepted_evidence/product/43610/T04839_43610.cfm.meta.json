@@ -1,0 +1,14 @@
+{
+  "source_id": "43610",
+  "task_id": "T04839",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Glucophage+XR+1000+mg",
+  "local_path": "imports/accepted_evidence/product/43610/T04839_43610.cfm",
+  "sha256": "7d18496bf094241ab6f9588879265d82991c48259325065fc6384377b985d815",
+  "downloaded_at": "2026-05-16T03:45:27.967249+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:554:43610",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

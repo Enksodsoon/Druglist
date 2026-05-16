@@ -1,0 +1,14 @@
+{
+  "source_id": "1649",
+  "task_id": "T04797",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Glipizide&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1649/T04797_1649.json",
+  "sha256": "21b0358c310ede7d4db35ae2ebac8bc822b408485319ca5ceb92b254cc2a3894",
+  "downloaded_at": "2026-05-16T03:45:21.344133+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:549:1649|Product_Label_Links:551:43603|Product_Label_Links:556:43611|Product_Label_Links:560:2628",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

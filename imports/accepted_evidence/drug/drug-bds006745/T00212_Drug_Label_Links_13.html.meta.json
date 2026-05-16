@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_13",
+  "task_id": "T00212",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=hydrocortisone%2Bmepyramine+cream",
+  "local_path": "imports/accepted_evidence/drug/drug-bds006745/T00212_Drug_Label_Links_13.html",
+  "sha256": "5837f0b64a512d579b6f0e37d66bf9175522ece849a0b38e87e6809e49dfc459",
+  "downloaded_at": "2026-05-16T03:34:09.734835+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:13:Drug_Label_Links_13",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

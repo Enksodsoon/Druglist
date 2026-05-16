@@ -1,0 +1,14 @@
+{
+  "source_id": "42806",
+  "task_id": "T02528",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Eberil+120",
+  "local_path": "imports/accepted_evidence/product/42806/T02528_42806.cfm",
+  "sha256": "c9e488e6e737b15f3700499c3d49be632d335aa0aa55d37621c835ec62d81437",
+  "downloaded_at": "2026-05-16T03:39:39.250977+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:241:42806",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

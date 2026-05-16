@@ -1,0 +1,14 @@
+{
+  "source_id": "1460",
+  "task_id": "T05189",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Colchicine+0.6+mg",
+  "local_path": "imports/accepted_evidence/product/1460/T05189_1460.cfm",
+  "sha256": "50ec2ce0bf3fd98692c483523644daa6d017491f98d2a0627957035dd5443f8f",
+  "downloaded_at": "2026-05-16T03:46:19.165590+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:606:1460",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

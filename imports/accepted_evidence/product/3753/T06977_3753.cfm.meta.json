@@ -1,0 +1,14 @@
+{
+  "source_id": "3753",
+  "task_id": "T06977",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Poro+Suppository",
+  "local_path": "imports/accepted_evidence/product/3753/T06977_3753.cfm",
+  "sha256": "bc7aaf19b812733fec14cc2e865b02e9fba226769a4663234af4a13ab782e005",
+  "downloaded_at": "2026-05-16T03:50:51.665175+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:829:3753",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

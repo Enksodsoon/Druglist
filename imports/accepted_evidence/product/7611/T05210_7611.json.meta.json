@@ -1,0 +1,14 @@
+{
+  "source_id": "7611",
+  "task_id": "T05210",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Puride%20300%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7611/T05210_7611.json",
+  "sha256": "c28d1c5e19ce9ed57d5490e14880971d8f72879e7dbfd25cf4a3321c5b6dfdf2",
+  "downloaded_at": "2026-05-16T03:46:21.468857+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:609:7611",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

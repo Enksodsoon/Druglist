@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_EU_NICE_SINUSITIS",
+  "task_id": "T00042",
+  "source_url": "https://www.nice.org.uk/guidance/ng79",
+  "local_path": "imports/accepted_evidence/bulk/T00042_GUIDE_EU_NICE_SINUSITIS.html",
+  "sha256": "8c1ba656fdf262733a98de506f3861a5e57781df8fb05b2afaa4968c136768f1",
+  "downloaded_at": "2026-05-16T03:33:47.196738+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:17:GUIDE_EU_NICE_SINUSITIS",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

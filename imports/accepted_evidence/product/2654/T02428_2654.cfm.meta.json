@@ -1,0 +1,14 @@
+{
+  "source_id": "2654",
+  "task_id": "T02428",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Mucolid+Syrup",
+  "local_path": "imports/accepted_evidence/product/2654/T02428_2654.cfm",
+  "sha256": "eabc4f2a562ca83f5619f5423e80b5355ed3af73927a5b842a02cb41d4fb2427",
+  "downloaded_at": "2026-05-16T03:39:23.639347+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:226:2654",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

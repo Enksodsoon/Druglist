@@ -1,0 +1,14 @@
+{
+  "source_id": "1682",
+  "task_id": "T07132",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Diabederm+Urea+Cream+10%25",
+  "local_path": "imports/accepted_evidence/product/1682/T07132_1682.cfm",
+  "sha256": "2f91a5b6560180dfca80f3e78f8fa7e1b4651be24c8cbaad0c7bc00790dce15e",
+  "downloaded_at": "2026-05-16T03:51:15.978191+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:847:1682",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

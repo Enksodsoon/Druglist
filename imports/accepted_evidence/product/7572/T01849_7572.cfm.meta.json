@@ -1,0 +1,14 @@
+{
+  "source_id": "7572",
+  "task_id": "T01849",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ketoconazole",
+  "local_path": "imports/accepted_evidence/product/7572/T01849_7572.cfm",
+  "sha256": "37d996ddef71b0119a4c3c96fe033d542649b235826b6b79c97973083ab0cb12",
+  "downloaded_at": "2026-05-16T03:37:59.423340+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:146:7572|Product_Label_Links:147:2826|Product_Label_Links:677:45665",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "7589",
+  "task_id": "T02113",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Newthrocin",
+  "local_path": "imports/accepted_evidence/product/7589/T02113_7589.cfm",
+  "sha256": "41df63976c6573c11954a17ca31c2b8767fb344343ca84cfd3bcdf418618f34a",
+  "downloaded_at": "2026-05-16T03:38:36.725841+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:180:7589",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

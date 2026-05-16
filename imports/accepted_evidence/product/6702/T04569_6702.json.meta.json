@@ -1,0 +1,14 @@
+{
+  "source_id": "6702",
+  "task_id": "T04569",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Atenolol%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/6702/T04569_6702.json",
+  "sha256": "5fd09c745c6c18d9622be324f89d7d4b1d7fa5d096d1fd408efe30b1b276fcd8",
+  "downloaded_at": "2026-05-16T03:44:49.411299+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:517:6702|Product_Label_Links:539:3144|Product_Label_Links:540:3140|Product_Label_Links:541:3145",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,789 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 7
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Akin Cough Formula DM DEXTROMETHORPHAN, GUAIFENESIN PROPYLENE GLYCOL GLYCERIN CITRIC ACID MONOHYDRATE SUCRALOSE SODIUM CITRATE POTASSIUM SORBATE METHYLPARABEN PROPYLPARABEN CHERRY MENTHOL FD&C RED NO. 40 WATER DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts"
+      ],
+      "active_ingredient": [
+        "(in each 5ml tsp.) Active ingredient Dextromethorphan HBr USP 10 mg Guaifenesin USP 100 mg"
+      ],
+      "purpose": [
+        "Purpose Cough suppressant Expectorant"
+      ],
+      "indications_and_usage": [
+        "Uses temporarily quiets cough associated with the common cold or inhaled irritants helps loosen phlegm (mucus) and thin bronchial secretions to make coughs more productive."
+      ],
+      "warnings": [
+        "Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if you are taking a prescription drug that contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "do_not_use": [
+        "Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if you are taking a prescription drug that contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have a cough that lasts or a chronic cough such as occurs with smoking, asthma, chronic bronchitis or emphysema cough occurs with too much phlegm (mucus)"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if Cough lasts for more than 7 days, comes back, or occurs with fever, rash, or headache that lasts. These could be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use. Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions Do not take more than 6 doses in any 24 hour period adults and children 12 years and over 10 ml (2 teaspoonfuls every 4 hours or as directed by doctor) Children under 12 years do not use"
+      ],
+      "dosage_and_administration_table": [
+        "<table width=\"50%\"><tbody><tr><td>adults and children 12 years and over</td><td>10 ml (2 teaspoonfuls every 4 hours or as directed by doctor)</td></tr><tr><td>Children under 12 years</td><td>do not use</td></tr></tbody></table>"
+      ],
+      "other_safety_information": [
+        "Other information store at room temperature 15°- 30°C (59°- 86°F) TAMPER-EVIDENT: Do not use if seal under cap is torn, broken or missing."
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients Propylene glycol, glycerine, citric acid, sucralose, sodium citrate, potassium sorbate, methylparaben, propylparaben, cherry flavor, menthol, FD&C Red#40, purified Water."
+      ],
+      "package_label_principal_display_panel": [
+        "Akin Cough Formula DM 118 ml Updated Label"
+      ],
+      "set_id": "1f2f9b4c-ecf0-4ff6-861a-063f8a9ef74a",
+      "id": "0b57eba9-b690-4dfa-e063-6294a90a06e2",
+      "effective_time": "20231129",
+      "version": "9",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "Akin Cough Formula DM"
+        ],
+        "generic_name": [
+          "DEXTROMETHORPHAN, GUAIFENESIN"
+        ],
+        "manufacturer_name": [
+          "Southern Sales & Service, Inc."
+        ],
+        "product_ndc": [
+          "69822-202"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "996520"
+        ],
+        "spl_id": [
+          "0b57eba9-b690-4dfa-e063-6294a90a06e2"
+        ],
+        "spl_set_id": [
+          "1f2f9b4c-ecf0-4ff6-861a-063f8a9ef74a"
+        ],
+        "package_ndc": [
+          "69822-202-04"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0850011557877"
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Bisolvine Aloe-Miel Dextromethorphan, Guaifenesin ALOE ASCORBIC ACID CAT'S CLAW CORN SYRUP ALCOHOL EUCALYPTUS OIL GARLIC GINGER ACACIA HONEY MENTHOL METHYLPARABEN ONION PEPPERMINT POLYSORBATE 80 POTASSIUM SORBATE PROPYLENE GLYCOL PROPYLPARABEN SODIUM BENZOATE SUCRALOSE SUNFLOWER OIL WATER DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL CARAMEL DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN"
+      ],
+      "active_ingredient": [
+        "Active Ingredients (in each 15 mL) Dextromethorphan HBr 10mg............................ Cough Suppressant Guaifenesin 100 mg ......................................... Expectorant"
+      ],
+      "purpose": [
+        "Purpose Cough Suppressant Expectorant"
+      ],
+      "indications_and_usage": [
+        "Uses temporarily relieves cough due to minor throat and bronchial irritation as may occur with the common cold and helps loosen phlegm (mucus) and thin bronchial secretions to make coughs more productive."
+      ],
+      "warnings": [
+        "Do not exceed recommended dosage. A persistant cough may be a sign of serious condition, if cough persist for more than one week, tends to recur, or is accompanied by fever, rash or persistent headache, consult a doctor."
+      ],
+      "do_not_use": [
+        "Do not use: * this product for persistent or chronic cough, such as occurs with smoking, asthma, chronic bronchitis, or emphysema or where cough is accompanied by excessive phlegm (mucus), unless directed by a doctor. * If you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's Disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "keep_out_of_reach_of_children": [
+        "In case of accidental overdose, get medical help or contact a Poison Control Center right away. Keep out of reach of children"
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "dosage_and_administration": [
+        "Directions Do not exceed 6 doses in 24 hours Age Dose Adults and children 12 years of age and more 2 teaspoonfuls (30 ml) every 4 hours Children under 12 years of age Consult your doctor"
+      ],
+      "dosage_and_administration_table": [
+        "<table width=\"100%\"><caption/><tbody><tr><td> Age</td><td> Dose</td></tr><tr><td> Adults and children 12 years of age and more</td><td> 2 teaspoonfuls (30 ml) every 4 hours</td></tr><tr><td> Children under 12 years of age</td><td> Consult your doctor</td></tr></tbody></table>"
+      ],
+      "inactive_ingredient": [
+        "Inactive Ingredients Aloe leaf extract, ascorbic acid, caramel color, cat's claw bark extract, corn syrup, DATEM, ethyl alcohol, eucalyptus oil, flavor, garlic bulb extract, ginger root extract, gum arabic, honey, menthol, methylparaben, onion bulb extract, peppermint leaf extract, polysorbate 80, potassium sorbate, propylene glycol, propylparaben, sodium benzoate, sucralose, sunflower oil, and water."
+      ],
+      "questions": [
+        "Questions or Coments? Call 1-800-560-5223 M-F 9 AM to 4 PM Eastern."
+      ],
+      "package_label_principal_display_panel": [
+        "label"
+      ],
+      "set_id": "34801c79-ce88-492f-808e-b639e8601607",
+      "id": "3a8afea2-5d9f-1392-e063-6294a90aca43",
+      "effective_time": "20250722",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "Bisolvine Aloe-Miel"
+        ],
+        "generic_name": [
+          "DEXTROMETHORPHAN, GUAIFENESIN"
+        ],
+        "manufacturer_name": [
+          "MENPER DISTRIBUTORS INC."
+        ],
+        "product_ndc": [
+          "53145-402"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "1298228"
+        ],
+        "spl_id": [
+          "3a8afea2-5d9f-1392-e063-6294a90aca43"
+        ],
+        "spl_set_id": [
+          "34801c79-ce88-492f-808e-b639e8601607"
+        ],
+        "package_ndc": [
+          "53145-402-06"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0042279383040"
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Guaifed DM Dextromethorphan, Guaifenesin MENTHOL METHYLPARABEN PROPYLENE GLYCOL WATER SODIUM CITRATE CITRIC ACID SUCRALOSE PROPYLPARABEN GUAIFENESIN GUAIFENESIN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN"
+      ],
+      "active_ingredient": [
+        "Active Ingredients: ( per 10ml= 2 teaspoonfuls) Purpose Guaifenesin 200 mg ................................................................... Expectorant Dextromethorphan 20mg............................................................ Cough Suppresant"
+      ],
+      "purpose": [
+        "Purpose Expectorant Cough Suppresant"
+      ],
+      "indications_and_usage": [
+        "Uses: Temporarily relieves coiugh due to minor throat and bronchial irritation Helps loosen phlegm (mucus) helps thin bronchial secretions to make coughs more productive."
+      ],
+      "warnings": [
+        "Warnings Do not use: if you are now takin a prescription monoamine oxidase inhibidor (MAOI) (certain drugs for deression, psychiatric or emotional conditions, or Parkinson's disease, or for two weeks after stoping the MAOI drug. If you do not know if nyour prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if cough lasts more than 7 days, comes back or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions do not exceed recommended dosage take every 4 hours as needed, or as directed by doctor do not take more than 6 doses in 24 hours Age Dose adults and children 12 years and over 10 mL (2 teaspoonfuls) children under 12 years Do not use"
+      ],
+      "dosage_and_administration_table": [
+        "<table border=\"1\" width=\"100%\"><tbody><tr><td>Age</td><td>Dose</td></tr><tr><td>adults and children 12 years and over</td><td>10 mL (2 teaspoonfuls)</td></tr><tr><td>children under 12 years</td><td>Do not use</td></tr></tbody></table>"
+      ],
+      "other_safety_information": [
+        "Other information each 10 mL contains: potassium 20 mg TAMPER - EVIDENT FEATURE:Do not use if foil seal over bottle opening is torn, broken or missing. store between 15° - 30°C (59° - 86°F). Protect from freezing protect from light"
+      ],
+      "inactive_ingredient": [
+        "Inactive Ingredients: Artificial and natural cherry flavor, citric acid, menthol, Methylparaben, Propylene glycol, Propylparaben, purified water, sodium citrate, sucralose"
+      ],
+      "questions": [
+        "Questions or Comments? 305-592-9216 or info@aldamapharm.com"
+      ],
+      "ask_doctor": [
+        "​Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) cough that last or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema"
+      ],
+      "package_label_principal_display_panel": [
+        "Guaifed DM label"
+      ],
+      "set_id": "396bf716-0f61-9563-e063-6394a90a171b",
+      "id": "412081b0-9c2a-5df8-e063-6294a90a05c1",
+      "effective_time": "20251014",
+      "version": "4",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "Guaifed DM"
+        ],
+        "generic_name": [
+          "DEXTROMETHORPHAN, GUAIFENESIN"
+        ],
+        "manufacturer_name": [
+          "Aldama Pharmaceuticals, Inc"
+        ],
+        "product_ndc": [
+          "73564-802"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "996520"
+        ],
+        "spl_id": [
+          "412081b0-9c2a-5df8-e063-6294a90a05c1"
+        ],
+        "spl_set_id": [
+          "396bf716-0f61-9563-e063-6394a90a171b"
+        ],
+        "package_ndc": [
+          "73564-802-16",
+          "73564-802-08",
+          "73564-802-04"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Curewell Tussin DM Dextromethorphan, Guaifenesin DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN ANHYDROUS CITRIC ACID MENTHOL METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN WATER SODIUM CITRATE SUCRALOSE GUAIFENESIN GUAIFENESIN"
+      ],
+      "active_ingredient": [
+        "Active Ingredients (per 10ml = 2 teaspoonfuls) Dextromethorphan HBr 20 mg Guaifenesin, USP 200mg"
+      ],
+      "purpose": [
+        "Purposes Cough Suppressant Expectoran"
+      ],
+      "indications_and_usage": [
+        "Uses • temporarily relieves cough due to minor throat and bronchial secretions to make coughs more productive"
+      ],
+      "warnings": [
+        "Warnings Do not use if you are taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs fir depression, psychiatric or emotional conditions, or Parkinson's disease, or for 2 weeks after stopping drug contains an MAOI, as a doctor or pharmacist before taking this product."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have • cough that occurs with too much phlegm (mucus) • cough that last or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if • cough lasts more that 7 days, comes back or is accompanied by fever, rash, or, persistent headache. These could be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away"
+      ],
+      "dosage_and_administration": [
+        "Directions do not exceed recommended dose take every 4 hours as needed, or as directed by a doctor do not take more than 6 doses in 24 hours adults and children 12 years and over 10mL (2 teaspoonfuls) children under 12 years Do not use"
+      ],
+      "dosage_and_administration_table": [
+        "<table width=\"100%\"><caption/><tbody><tr><td>adults and children 12 years and over</td><td>10mL (2 teaspoonfuls)</td></tr><tr><td>children under 12 years</td><td>Do not use</td></tr></tbody></table>"
+      ],
+      "other_safety_information": [
+        "Other information • each 10 ml contains: sodium 20 mg • TAMPER EVIDENT: Do not use if foil seal over bottle opening is torn, broken or missing. •store at room temperature between 15ºC-30ºC (59ºF-68ºF) •protect from freezing •protect from light"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients: artificial and natural cherry flavor, citric acid, FD&C red #40, menthol, methylparaben, propylene glycol, propylparaben, purified water, sodium citrate, sucralose"
+      ],
+      "questions": [
+        "Questions or comments? 1-845-367-0500 or info@mycurewell.com"
+      ],
+      "package_label_principal_display_panel": [
+        "label"
+      ],
+      "set_id": "4fe9ad93-cdc4-b4df-e063-6294a90a90ae",
+      "id": "4fe9b6db-2d92-d8a1-e063-6294a90a57d9",
+      "effective_time": "20260420",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "Curewell Tussin DM"
+        ],
+        "generic_name": [
+          "DEXTROMETHORPHAN, GUAIFENESIN"
+        ],
+        "manufacturer_name": [
+          "RMT HEALTH LLC"
+        ],
+        "product_ndc": [
+          "85111-802"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "996520"
+        ],
+        "spl_id": [
+          "4fe9b6db-2d92-d8a1-e063-6294a90a57d9"
+        ],
+        "spl_set_id": [
+          "4fe9ad93-cdc4-b4df-e063-6294a90a90ae"
+        ],
+        "package_ndc": [
+          "85111-802-16"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Tusnel Diabetic Dextromethorphan, Guaifenesin SUCRALOSE CITRIC ACID MONOHYDRATE METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN WATER SODIUM CITRATE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN grape flavor"
+      ],
+      "active_ingredient": [
+        "Active Ingredients ( in each 5 mL tsp.) Purpose Dextromethorphan HBr USP........ 10 mg ................................. Cough Suppressant Guaifenesin USP ............. 100 mg ......................................... Expectorant"
+      ],
+      "purpose": [
+        "Purpose Cough Suppressant Expectorant"
+      ],
+      "warnings": [
+        "Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or if 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product."
+      ],
+      "do_not_use": [
+        "Ask a doctor before use if you have a cough that occurs with too much phlegm (mucus) cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema Stop use and ask a doctor if cough last more than 7 days, comes back, or is accompanied by fever, rash or persistent headache. A persistent cough could b a sign of a serious condition."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Center right away."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "dosage_and_administration": [
+        "Directions Do not exceed more than 6 doses in any 24-hour period or as directed by a doctor. Age Dose Adults and children 12 years of age and over 2 teaspoonfuls (10 mL) every 4 hours Under 2 years of age Do not use"
+      ],
+      "dosage_and_administration_table": [
+        "<table ID=\"i626abfab-5c4f-42a3-8c8d-28db28d30957\" width=\"545\" border=\"1\"><tbody><tr><td> Age</td><td> Dose</td></tr><tr><td> Adults and children 12 years of age and over</td><td> 2 teaspoonfuls (10 mL) every 4 hours</td></tr><tr><td/><td/></tr><tr><td> Under 2 years of age</td><td> Do not use</td></tr></tbody></table>"
+      ],
+      "indications_and_usage": [
+        "Uses Temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold Helps loosen phlegm (mucus) and thin bronchial secretions to make coughs more productive"
+      ],
+      "inactive_ingredient": [
+        "Inactive Ingredients: anhydrous citric acid, flavor, methylparaben, propylene glycol, propylparaben, purified water, sodium citrate dihydrate and sucralose."
+      ],
+      "questions": [
+        "Questions or Comments? 1-866-595-5598 Distributed By: Llorens International Division, Miami FL 33165"
+      ],
+      "package_label_principal_display_panel": [
+        "TusnelDiag"
+      ],
+      "set_id": "66b3c094-809e-4d2c-bc15-46563de685cb",
+      "id": "471f18f8-553e-41f9-e063-6394a90ae51e",
+      "effective_time": "20251229",
+      "version": "7",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "Tusnel Diabetic"
+        ],
+        "generic_name": [
+          "DEXTROMETHORPHAN, GUAIFENESIN"
+        ],
+        "manufacturer_name": [
+          "LLORENS PHARMACEUTICALS INTERNATIONAL DIVISION"
+        ],
+        "product_ndc": [
+          "54859-505"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "996520"
+        ],
+        "spl_id": [
+          "471f18f8-553e-41f9-e063-6394a90ae51e"
+        ],
+        "spl_set_id": [
+          "66b3c094-809e-4d2c-bc15-46563de685cb"
+        ],
+        "package_ndc": [
+          "54859-505-04",
+          "54859-505-16"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0354859505163"
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "G-TUSICOF dextromethorphan, guaifenesin, and phenylephrine DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE CITRIC ACID MONOHYDRATE GLYCERIN MENTHOL, UNSPECIFIED FORM METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN WATER SODIUM CITRATE, UNSPECIFIED FORM SUCRALOSE Mint Flavor"
+      ],
+      "active_ingredient": [
+        "Drug Facts",
+        "Active ingredients (in each 5 mL, 1 teaspoon) Dextromethorphan HBr, 20 mg Guaifenesin, 400 mg Phenylephrine HCl, 10 mg"
+      ],
+      "purpose": [
+        "Purposes Cough suppressant Expectorant Nasal decongestant"
+      ],
+      "indications_and_usage": [
+        "Uses • helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes • temporarily relieves these symptoms occurring with a cold: • nasal congestion • cough due to minor throat and bronchial irritation"
+      ],
+      "warnings": [
+        "Warnings • Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • diabetes • heart disease • thyroid disease • high blood pressure • trouble urinating due to an enlarged prostate gland • cough that occurs with too much phlegm (mucus) • cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis or emphysema. When using this product, do not use more than directed. Stop use and ask a doctor if • you get nervous, dizzy, or sleepless ​• symptoms do not get better within 7 days or are accompanied by fever • cough lasts more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions • do not take more than 6 doses in any 24-hour period. • mL = milliliter age dose Adults and children 12 years of age and over 1 teaspoon (5 mL) every 4 hours Children under 12 years of age do not use"
+      ],
+      "dosage_and_administration_table": [
+        "<table width=\"50%\"><tbody><tr><td styleCode=\"Botrule Lrule Rrule\" align=\"center\">age</td><td styleCode=\"Botrule Rrule\" align=\"center\">dose</td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" align=\"center\">Adults and children 12 years of age and over</td><td styleCode=\"Botrule Rrule\" align=\"center\">1 teaspoon (5 mL) every 4 hours</td></tr><tr><td styleCode=\"Lrule Rrule\" align=\"center\">Children under 12 years of age</td><td styleCode=\"Rrule\" align=\"center\">do not use</td></tr></tbody></table>"
+      ],
+      "storage_and_handling": [
+        "Other information • Tamper evident feature: Do not use if printed security seal is torn, broken or missing • Store at controlled room temperature 15-30°C (59-86°F) • Avoid excessive heat or humidity"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients artificial flavor, citric acid, glycerin, menthol, methylparaben, propylene glycol, propylparaben, purified water, sodium citrate, sucralose"
+      ],
+      "questions": [
+        "Question or comments? 1-787-767-2072 You may also report serious side effects to this phone number. Call weekdays from 8AM to 4PM AST"
+      ],
+      "spl_unclassified_section": [
+        "G-TUSICOF ® Compare to tusicof ® Dextromethorphan HBr COUGH SUPPRESSANT Guaifenesin EXPECTORANT Phenylephrine HCl NASAL DECONGESTANT SUGAR & ALCOHOL FREE NO SACCHARIN - NO SROBITOL NO ASPARTAME - NO DYE NO PHENYLPROPANOLAMINE Kramer Novis Pharmaceuticals within reach of patients Manufactured in USA with imported ingredients for Kramer Novis. San Juan, PR 00917 www.kramernovis.com"
+      ],
+      "recent_major_changes": [
+        "Directions: (The following changes were made.) mL=milliliter A table was included with the dosage instructions according to age: age dose Adults and children 12 years of age and over 1 teaspoon (5mL) every 4 hours Children under 12 years of age do not use"
+      ],
+      "recent_major_changes_table": [
+        "<table width=\"100%\" border=\"1\"><tbody><tr><td>age</td><td>dose</td></tr><tr><td>Adults and children 12 years of age and over</td><td>1 teaspoon (5mL) every 4 hours</td></tr><tr><td>Children under 12 years of age</td><td>do not use</td></tr></tbody></table>"
+      ],
+      "package_label_principal_display_panel": [
+        "Packaging TUSICOF LABEL UPDATED"
+      ],
+      "set_id": "d169585f-b4f4-4831-8c71-e1533ae7e7c4",
+      "id": "8964ce40-2db3-43b6-9c4c-126dbe0425a2",
+      "effective_time": "20251107",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "G-TUSICOF"
+        ],
+        "generic_name": [
+          "DEXTROMETHORPHAN, GUAIFENESIN, AND PHENYLEPHRINE"
+        ],
+        "manufacturer_name": [
+          "Kramer Novis"
+        ],
+        "product_ndc": [
+          "52083-639"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN",
+          "PHENYLEPHRINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1091331"
+        ],
+        "spl_id": [
+          "8964ce40-2db3-43b6-9c4c-126dbe0425a2"
+        ],
+        "spl_set_id": [
+          "d169585f-b4f4-4831-8c71-e1533ae7e7c4"
+        ],
+        "package_ndc": [
+          "52083-639-16"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ",
+          "04JA59TNSJ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "TUSICOF dextromethorphan, guaifenesin, and phenylephrine DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE CITRIC ACID MONOHYDRATE GLYCERIN MENTHOL, UNSPECIFIED FORM METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN WATER SODIUM CITRATE, UNSPECIFIED FORM SUCRALOSE Mint Flavor"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts",
+        "Dextromethorphan HBr COUGH SUPPRESSANT Guaifenesin EXPECTORANT Phenylephrine HCl NASAL DECONGESTANT SUGAR & ALCOHOL FREE NO SACCHARIN - NO SORBITOL NO ASPARTAME - NO DYE NO PHENYLPROPANOLAMINE Manufactured in USA with imported ingredients for Kramer Novis, San Juan, PR 00917. www.kramernovis.com"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each 5 mL, 1 teaspoon) Dextromethorphan HBr, 20mg Guaifenesin, 400 mg Phenylephrine HCl, 10 mg"
+      ],
+      "purpose": [
+        "Purposes Cough suppressant Expectorant Nasal decongestant"
+      ],
+      "indications_and_usage": [
+        "Uses • helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes • temporarily relieves these symptoms occurring with a cold: • nasal congestion • cough due to minor throat and bronchial irritation"
+      ],
+      "warnings": [
+        "Warnings • Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • diabetes • heart disease • thyroid disease • high blood pressure • trouble urinating due to an enlarged prostate gland • cough that occurs with too much phlegm (mucus) • cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis or emphysema. When using this product, do not use more than directed. Stop use and ask a doctor if • you get nervous, dizzy, or sleepless • symptoms do not get better within 7 days or are accompanied by fever • cough lasts more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions • do not take more than 6 doses in any 24-hour period. • mL= milliliter age dose Adults and children 12 years of age and over 1 teaspoon (5 mL) every 4 hours Children under 12 years of age do not use"
+      ],
+      "dosage_and_administration_table": [
+        "<table width=\"60%\" border=\"2\" cellspacing=\"2\" cellpadding=\"2\"><tbody><tr><td styleCode=\"Botrule Rrule Toprule\" align=\"center\">age</td><td styleCode=\"Botrule Toprule\" align=\"center\"> dose</td></tr><tr><td styleCode=\"Botrule Rrule Toprule\" align=\"center\">Adults and children 12 years of age and over</td><td styleCode=\"Botrule Toprule\" align=\"center\"> 1 teaspoon (5 mL) every 4 hours</td></tr><tr><td styleCode=\"Botrule Rrule Toprule\" align=\"center\">Children under 12 years of age</td><td styleCode=\"Botrule Toprule\" align=\"center\"> do not use</td></tr></tbody></table>"
+      ],
+      "storage_and_handling": [
+        "Other information • Tamper evident feature: Do not use if printed security seal is torn, broken or missing • Store at controlled room temperature 15-30°C (59-86°F) • Avoid excessive heat or humidity."
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients artificial flavor, citric acid, glycerin, menthol, methylparaben, propylene glycol, propylparaben, purified water, sodium citrate, sucralose."
+      ],
+      "questions": [
+        "Questions or comments? 1-787-767-2072 You may also report serious side effects to this phone number. Call weekdays from 8AM to 4PM AST"
+      ],
+      "recent_major_changes": [
+        "Directions: (The following changes were made) mL=milliliter A table was included with the dosage instructions according to age: age dose Adults and children 12 years of age and over 1 teaspoon (5mL) every 4 hours Children under 12 years of age do not use"
+      ],
+      "recent_major_changes_table": [
+        "<table width=\"80%\"><caption/><tbody><tr><td>age</td><td>dose</td></tr><tr><td>Adults and children 12 years of age and over</td><td>1 teaspoon (5mL) every 4 hours</td></tr><tr><td>Children under 12 years of age</td><td><paragraph>do not use</paragraph></td></tr></tbody></table>"
+      ],
+      "package_label_principal_display_panel": [
+        "Packaging TUSICOF"
+      ],
+      "set_id": "e966b75c-4bb4-4216-8247-baada8f5d759",
+      "id": "e954ebb2-df25-40bf-b068-8ac861d6677b",
+      "effective_time": "20251112",
+      "version": "7",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "TUSICOF"
+        ],
+        "generic_name": [
+          "DEXTROMETHORPHAN, GUAIFENESIN, AND PHENYLEPHRINE"
+        ],
+        "manufacturer_name": [
+          "Kramer Novis"
+        ],
+        "product_ndc": [
+          "52083-239"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN",
+          "PHENYLEPHRINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1091331"
+        ],
+        "spl_id": [
+          "e954ebb2-df25-40bf-b068-8ac861d6677b"
+        ],
+        "spl_set_id": [
+          "e966b75c-4bb4-4216-8247-baada8f5d759"
+        ],
+        "package_ndc": [
+          "52083-239-01",
+          "52083-239-04",
+          "52083-239-16"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ",
+          "04JA59TNSJ"
+        ]
+      }
+    }
+  ]
+}

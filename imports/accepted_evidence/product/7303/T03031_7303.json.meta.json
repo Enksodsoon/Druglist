@@ -1,0 +1,14 @@
+{
+  "source_id": "7303",
+  "task_id": "T03031",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Drotaverine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7303/T03031_7303.json",
+  "sha256": "1f5c0fd1b14477694d4cf15da05ef88d184b26ee12305eb4fdabd41735835624",
+  "downloaded_at": "2026-05-16T03:40:54.182747+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:308:7303|Product_Label_Links:309:7107",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

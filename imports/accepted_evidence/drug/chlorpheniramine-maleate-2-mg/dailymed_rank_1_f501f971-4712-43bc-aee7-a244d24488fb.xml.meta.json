@@ -1,0 +1,17 @@
+{
+  "source_id": "1008",
+  "task_id": "DAILYMED_1_f501f971-4712-43bc-aee7-a244d24488fb",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/f501f971-4712-43bc-aee7-a244d24488fb.xml",
+  "local_path": "imports/accepted_evidence/drug/chlorpheniramine-maleate-2-mg/dailymed_rank_1_f501f971-4712-43bc-aee7-a244d24488fb.xml",
+  "sha256": "8a96769f7af5df444a26a4ac97809df4b22f7d3d41daf75247b33c0624916857",
+  "downloaded_at": "2026-05-16T03:53:39.110527+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Chlorpheniramine Maleate 2 mg.",
+  "rank": 1,
+  "setid": "f501f971-4712-43bc-aee7-a244d24488fb",
+  "title": "HYBRID CF (APAP 500 MG PHENYLEPHRINE HCL 5 MG CHLORPHENIRAMINE MALEATE 2 MG) TABLET, FILM COATED [HYBRID-RX LLC]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

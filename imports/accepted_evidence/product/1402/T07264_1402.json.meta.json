@@ -1,0 +1,14 @@
+{
+  "source_id": "1402",
+  "task_id": "T07264",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Cadramine-V%20%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1402/T07264_1402.json",
+  "sha256": "e4d7e0dc3ec922afcdf19291141c90c979c4fa77f26fe424d958a66921f51c4c",
+  "downloaded_at": "2026-05-16T03:51:34.926917+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:861:1402",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

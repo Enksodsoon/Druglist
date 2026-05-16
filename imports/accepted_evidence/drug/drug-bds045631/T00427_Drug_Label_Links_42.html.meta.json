@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_42",
+  "task_id": "T00427",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=nystatin+oral",
+  "local_path": "imports/accepted_evidence/drug/drug-bds045631/T00427_Drug_Label_Links_42.html",
+  "sha256": "9247d401f84d13db83e592230c991853849ad4d61c01efe3c5d6d534662bf2ca",
+  "downloaded_at": "2026-05-16T03:34:35.917448+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:42:Drug_Label_Links_42",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

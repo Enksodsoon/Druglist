@@ -1,0 +1,14 @@
+{
+  "source_id": "8652",
+  "task_id": "T00848",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dicloxilin-500",
+  "local_path": "imports/accepted_evidence/product/8652/T00848_8652.cfm",
+  "sha256": "fbb22be67536766b415d9f64d5e581e34ab6611a7be6345b6cc82dce0d94b0b8",
+  "downloaded_at": "2026-05-16T03:35:35.207937+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:12:8652",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

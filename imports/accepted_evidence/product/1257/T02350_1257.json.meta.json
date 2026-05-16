@@ -1,0 +1,14 @@
+{
+  "source_id": "1257",
+  "task_id": "T02350",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bisolvon%20EX%20Syrup%20%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1257/T02350_1257.json",
+  "sha256": "0158159717fa92afa43c5d7f7211ebcc359edcf5db3d398f2f463340c5a12a9a",
+  "downloaded_at": "2026-05-16T03:39:10.596259+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:215:1257",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

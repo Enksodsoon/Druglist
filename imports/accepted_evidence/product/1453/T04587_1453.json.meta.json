@@ -1,0 +1,14 @@
+{
+  "source_id": "1453",
+  "task_id": "T04587",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bisoprolol%20fumarate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1453/T04587_1453.json",
+  "sha256": "3c43e19bef2a1b20d70fab52ffbf6fccbbe388482f2f3f431f8fedce39fc8807",
+  "downloaded_at": "2026-05-16T03:44:50.937875+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:519:1453|Product_Label_Links:520:1454",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

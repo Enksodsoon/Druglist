@@ -1,0 +1,14 @@
+{
+  "source_id": "7133",
+  "task_id": "T03100",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Gaspec-S",
+  "local_path": "imports/accepted_evidence/product/7133/T03100_7133.html",
+  "sha256": "46fc5001a6d5286e79212677bb24dcb0f1eaa171d9e55934201fefd3fcd9eddf",
+  "downloaded_at": "2026-05-16T03:41:04.387434+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:316:7133",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

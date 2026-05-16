@@ -1,0 +1,14 @@
+{
+  "source_id": "6702",
+  "task_id": "T04571",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Catenol+50+mg",
+  "local_path": "imports/accepted_evidence/product/6702/T04571_6702.html",
+  "sha256": "2e93df9fb4bad70b2b502fd16864f3bb14a1ba47f83499449bbc221baba825d2",
+  "downloaded_at": "2026-05-16T03:44:49.504811+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:517:6702",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

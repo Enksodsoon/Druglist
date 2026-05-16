@@ -1,0 +1,14 @@
+{
+  "source_id": "1621",
+  "task_id": "T05878",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Prednicarbate+%2F",
+  "local_path": "imports/accepted_evidence/product/1621/T05878_1621.cfm",
+  "sha256": "19a17a377876a40d817b75a0717dc00f82d1c616c14c42f3ee4e6bd63c15b715",
+  "downloaded_at": "2026-05-16T03:48:02.787050+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:691:1621",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

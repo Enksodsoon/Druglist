@@ -1,0 +1,14 @@
+{
+  "source_id": "41434",
+  "task_id": "T05375",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Vit%20C&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/41434/T05375_41434.json",
+  "sha256": "5bf7ba3c304da7da31c67a086c20834d642493502f5450bebf7422aaa97aafeb",
+  "downloaded_at": "2026-05-16T03:46:45.360523+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:629:41434",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

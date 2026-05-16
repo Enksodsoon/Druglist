@@ -1,0 +1,14 @@
+{
+  "source_id": "2211",
+  "task_id": "T02034",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dextromethorphan+HBr",
+  "local_path": "imports/accepted_evidence/product/2211/T02034_2211.cfm",
+  "sha256": "e47e1f69fbfb642d794fe60aa27783854056f20b3edb5313e929793b3daf608e",
+  "downloaded_at": "2026-05-16T03:38:25.772704+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:170:2211",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

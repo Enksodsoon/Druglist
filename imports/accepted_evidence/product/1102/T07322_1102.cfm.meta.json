@@ -1,0 +1,14 @@
+{
+  "source_id": "1102",
+  "task_id": "T07322",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Aldara",
+  "local_path": "imports/accepted_evidence/product/1102/T07322_1102.cfm",
+  "sha256": "dc65739155e1d13b5790e2cfc36eb855681802ebea05ded850a3ed8aab807b2a",
+  "downloaded_at": "2026-05-16T03:51:44.643838+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:868:1102",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

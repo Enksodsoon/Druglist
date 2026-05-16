@@ -1,0 +1,14 @@
+{
+  "source_id": "40078",
+  "task_id": "T00769",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=Amoxicillin",
+  "local_path": "imports/accepted_evidence/product/40078/T00769_40078.html",
+  "sha256": "9f257ab36e137ba250c673b114d18bace035bd1dcf37298f81044ca181ccc517",
+  "downloaded_at": "2026-05-16T03:35:24.727890+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:2:40078|Product_Label_Links:15:2201|Product_Label_Links:23:7007",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

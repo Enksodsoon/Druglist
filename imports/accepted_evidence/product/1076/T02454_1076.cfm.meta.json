@@ -1,0 +1,14 @@
+{
+  "source_id": "1076",
+  "task_id": "T02454",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Etoricoxib",
+  "local_path": "imports/accepted_evidence/product/1076/T02454_1076.cfm",
+  "sha256": "52bf9f1ac7670cc85119b7df5c5283b3c18b883e0dfb81cb15f6488a92f36c67",
+  "downloaded_at": "2026-05-16T03:39:28.070052+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:230:1076|Product_Label_Links:231:1078|Product_Label_Links:232:1075|Product_Label_Links:233:40616|Product_Label_Links:241:42806",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_EU_NICE_COUGH",
+  "task_id": "T00041",
+  "source_url": "https://www.nice.org.uk/guidance/ng120/documents",
+  "local_path": "imports/accepted_evidence/bulk/T00041_GUIDE_EU_NICE_COUGH.html",
+  "sha256": "09c73e438f17c540bce1f53a41439b0f160ce5bc3fc30ad6de70cace92c070f2",
+  "downloaded_at": "2026-05-16T03:33:47.500474+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:16:GUIDE_EU_NICE_COUGH",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3527",
+  "task_id": "T01664",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cimetidine",
+  "local_path": "imports/accepted_evidence/product/3527/T01664_3527.cfm",
+  "sha256": "4620f64a5270e8e8c1024cf343be4e4850c3582272852497b18cb9063dbb9447",
+  "downloaded_at": "2026-05-16T03:37:30.768136+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:123:3527",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2681",
+  "task_id": "T03904",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Magesto-F+bottle+100s",
+  "local_path": "imports/accepted_evidence/product/2681/T03904_2681.cfm",
+  "sha256": "5c989a1545dc3f9ad0d844d32cbd178a9ff3fd1ae9167599315b711b496cc1cd",
+  "downloaded_at": "2026-05-16T03:43:07.173276+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:422:2681",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

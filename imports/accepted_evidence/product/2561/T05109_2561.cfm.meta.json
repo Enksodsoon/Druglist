@@ -1,0 +1,14 @@
+{
+  "source_id": "2561",
+  "task_id": "T05109",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Lyrica+25+mg",
+  "local_path": "imports/accepted_evidence/product/2561/T05109_2561.cfm",
+  "sha256": "d08b350127e239d8462eb535e0d66e86b69ed1c48f23c5273c51cdb6075b9880",
+  "downloaded_at": "2026-05-16T03:46:07.394163+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:595:2561",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

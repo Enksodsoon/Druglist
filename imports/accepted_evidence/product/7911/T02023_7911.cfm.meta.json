@@ -1,0 +1,14 @@
+{
+  "source_id": "7911",
+  "task_id": "T02023",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dibendryl",
+  "local_path": "imports/accepted_evidence/product/7911/T02023_7911.cfm",
+  "sha256": "5c11d0d05bed6e09f35b7db266b60619671a99391d35cfbf78d8f940e4bc5ee5",
+  "downloaded_at": "2026-05-16T03:38:24.274972+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:169:7911",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

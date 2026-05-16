@@ -1,0 +1,14 @@
+{
+  "source_id": "1032",
+  "task_id": "T05434",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ammeltz%20%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1032/T05434_1032.json",
+  "sha256": "1dba6605b14acd25d59fdaa006b69608240e4151c08d4e64e1b830c8a528f2b7",
+  "downloaded_at": "2026-05-16T03:46:54.470501+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:638:1032",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

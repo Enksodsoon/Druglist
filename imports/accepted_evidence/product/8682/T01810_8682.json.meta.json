@@ -1,0 +1,14 @@
+{
+  "source_id": "8682",
+  "task_id": "T01810",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Pudin%20Hara&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8682/T01810_8682.json",
+  "sha256": "55a80f0ba53ced1a1c3ce32d6a3941fb1ee3f86e14cf78b63e400e483d5ef73f",
+  "downloaded_at": "2026-05-16T03:37:52.828707+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:141:8682",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

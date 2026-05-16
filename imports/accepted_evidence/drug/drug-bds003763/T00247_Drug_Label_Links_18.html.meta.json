@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_18",
+  "task_id": "T00247",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=paracetamol+syrup",
+  "local_path": "imports/accepted_evidence/drug/drug-bds003763/T00247_Drug_Label_Links_18.html",
+  "sha256": "dea9710e3d5247024c85c9c86b187ac1bc3e51537ab6c4fe6749a412f2a49273",
+  "downloaded_at": "2026-05-16T03:34:12.257063+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:18:Drug_Label_Links_18",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

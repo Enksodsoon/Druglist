@@ -1,0 +1,14 @@
+{
+  "source_id": "3750",
+  "task_id": "T06937",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Trinolone+Oral+Paste+sachet+1+g",
+  "local_path": "imports/accepted_evidence/product/3750/T06937_3750.cfm",
+  "sha256": "adddb2ad45ac0aeeb0a5dead17bae935d1998c8c9d47426265326bcff2078bb1",
+  "downloaded_at": "2026-05-16T03:50:45.709162+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:823:3750",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

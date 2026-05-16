@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_39",
+  "task_id": "T00403",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=acyclovir",
+  "local_path": "imports/accepted_evidence/drug/drug-bds008064/T00403_Drug_Label_Links_39.cfm",
+  "sha256": "de4c61425563a4037e8883efc14a433c21a877a70822699a38a251ea97abd0de",
+  "downloaded_at": "2026-05-16T03:34:33.020106+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:39:Drug_Label_Links_39|Drug_Label_Links:40:Drug_Label_Links_40",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

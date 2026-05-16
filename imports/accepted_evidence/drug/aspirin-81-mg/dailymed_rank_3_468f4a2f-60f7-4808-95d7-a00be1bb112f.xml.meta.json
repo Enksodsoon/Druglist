@@ -1,0 +1,17 @@
+{
+  "source_id": "1070",
+  "task_id": "DAILYMED_3_468f4a2f-60f7-4808-95d7-a00be1bb112f",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/468f4a2f-60f7-4808-95d7-a00be1bb112f.xml",
+  "local_path": "imports/accepted_evidence/drug/aspirin-81-mg/dailymed_rank_3_468f4a2f-60f7-4808-95d7-a00be1bb112f.xml",
+  "sha256": "13b80285d41298d2048e586eada645c5acdf5b5fd34809299d8f5be6b6ed731e",
+  "downloaded_at": "2026-05-16T03:55:44.907975+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Aspirin 81 mg.",
+  "rank": 3,
+  "setid": "468f4a2f-60f7-4808-95d7-a00be1bb112f",
+  "title": "ASPIRIN 81 MG (ASPIRIN) TABLET, DELAYED RELEASE [LIDL US LLC]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

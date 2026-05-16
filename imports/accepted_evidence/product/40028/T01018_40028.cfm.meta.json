@@ -1,0 +1,14 @@
+{
+  "source_id": "40028",
+  "task_id": "T01018",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Allora+5+mg",
+  "local_path": "imports/accepted_evidence/product/40028/T01018_40028.cfm",
+  "sha256": "b5cb77c4f9cc113bf2db263235e79543da55cdb8d40a141fd280124089be4c9a",
+  "downloaded_at": "2026-05-16T03:35:57.692918+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:37:40028",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

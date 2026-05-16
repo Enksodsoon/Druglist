@@ -1,0 +1,14 @@
+{
+  "source_id": "1466",
+  "task_id": "T01573",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Pantoprazole%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1466/T01573_1466.json",
+  "sha256": "c7af99d58dcc6652c13c918f95b3af495fd65cf96e08ff58e8adfd2a450640ba",
+  "downloaded_at": "2026-05-16T03:37:18.591329+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:111:1466",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

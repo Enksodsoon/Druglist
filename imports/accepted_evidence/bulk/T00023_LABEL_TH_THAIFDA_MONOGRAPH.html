@@ -1,0 +1,1038 @@
+<!doctype html>
+<html lang="th" style="filter: grayscale(.5);">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+	
+	<title>กองยา</title>
+	<!-- bootstrap css -->
+	<link rel="stylesheet" href="https://drug.fda.moph.go.th/themes/fda_v1/assets/css/style.bootstrap.css?v=1.2" />
+
+	<!-- Owl Carousel css -->
+	<link rel="stylesheet" href="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/owlCarousel/assets/owl.carousel.min.css" />
+	<link rel="stylesheet" href="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/owlCarousel/assets/owl.theme.default.min.css" />
+
+	<!-- Bootstrap select css -->
+	<link rel="stylesheet" href="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/bootstap-select/bootstrap-select.min.css" />
+
+	<!-- Bootstrap datepicker css -->
+	<link rel="stylesheet" href="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css" />
+
+	<!-- Perfect-scrollbar css -->
+	<link rel="stylesheet" href="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/perfect-scrollbar/css/perfect-scrollbar.css?ver=1.5.5" />
+
+	<!-- Quill css -->
+
+	<link rel="stylesheet" href="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/quill/css/quill.snow.css">
+
+	<!-- sweetalert css -->
+	<link rel="stylesheet" href="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/sweetalert/src/sweetalert2.min.css">
+
+	<!-- lightbox css -->
+	<link rel="stylesheet" href="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/lightbox/magnific-popup.css">
+
+
+	<!-- custom css -->
+	<link rel="stylesheet" href="https://drug.fda.moph.go.th/themes/fda_v1/assets/css/style.css?v=1778902425" />
+
+	<link rel="stylesheet" href="https://drug.fda.moph.go.th/themes/fda_v1/assets/css/popup.css?v=1778902425" />
+
+	<link rel="stylesheet" href="https://drug.fda.moph.go.th/custom_form/assets/css/style.css"><link rel="stylesheet" href="https://drug.fda.moph.go.th/themes/fda_v1/custom_form/assets/css/style.css">
+	<!-- Plugin Jquery -->
+	<script type="text/javascript" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/jquery/jquery.min.js"></script>
+
+	<script type="text/javascript">
+		var home_path = 'https://drug.fda.moph.go.th';
+		var api_path_local = 'https://drug.fda.moph.go.th/services';
+		var path_url = 'https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/3d-flip-book/';
+		window.PDFJS_LOCALE = {
+			pdfJsWorker: path_url + 'js/pdf.worker.js',
+			pdfJsCMapUrl: 'cmaps'
+		};
+	</script>
+	<script type="text/javascript" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/markjs/dist/jquery.mark.min.js"></script> <!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-YGREWXD989"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag("js", new Date());
+
+			gtag("config", "G-YGREWXD989", { "anonymize_ip": true });
+		</script>
+	<style>
+	
+		#modal_subscriber{
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100vw;
+			height: 100vh;
+			z-index: 8;
+			pointer-events:none;
+			opacity: 0;
+		}
+		#modal_subscriber_inner{
+			width: calc(100vw - 30px);
+			max-width: 600px;
+			max-height: 80vh;
+			overflow-y: auto;
+			background-color: #fff;
+			padding: 2rem 3rem;
+			border-radius: 4px;
+			left: 50%;
+			top: 50%;
+			position: absolute;
+			transform: translate(-50%,-50%);
+		}
+		#modal_subscriber.active{
+			opacity: 1;
+			pointer-events:painted;
+			background: rgba(0,0,0,0.5);
+		}
+		#modal_subscriber .btn-close{
+			position: absolute;
+			top: 0.75rem;
+    		right: 1rem;
+			background: none;
+		}
+		#modal_subscriber .bi-x-lg::before {
+			font-size: 1.25rem;
+			color: #6C6C6C;
+			cursor: pointer;
+		}
+		#modal_subscriber .btn-subscriber {
+			margin-top:3.75rem;
+		}
+		#modal_subscriber .btn-subscriber .btn {
+			width:96px;
+		}
+		#modal_subscriber .btn-subscriber .btn-reset-subscriber {
+			background-color:#ECECEC;
+			border-color:#ECECEC;
+		}
+		#modal_subscriber .btn-subscriber .btn-reset-subscriber:hover {
+			color:#006EB6;
+		}
+		#modal_subscriber .btn-subscriber .btn {
+			width:96px;
+		}
+		#modal_subscriber .checkmark {
+			position: absolute;
+			top: 4px;
+			left: 10px;
+			height: 18px;
+			width: 18px;
+			border-radius: 0.25rem;
+  			border:1px solid #9A9A9A;
+			background-color: #FFF;
+		}
+		#modal_subscriber .checkmark:after {
+			content: '';
+			position: absolute;
+			display: none;
+		}
+		#modal_subscriber .container input:checked ~ .checkmark {
+			background-color: #3369BD;
+  			border:1px solid #3369BD;
+		}
+		#modal_subscriber .container .checkmark:after {
+			position: absolute;
+			top: 2px;
+    		left: 2px;
+			width: 12px;
+			height: 12px;
+			background-image: url(https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/checkbox.svg);
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-position: center;
+		}
+		#modal_subscriber .container input:checked ~ .checkmark:after {
+			display: block;
+		}
+		#modal_subscriber .item-check {
+			position: relative;
+			margin-bottom: 1rem;
+		}
+		#newsletter_group_list{
+			padding:0;
+		}
+		#newsletter_group_list li{
+			list-style-type:none;
+		}
+		#newsletter_group_list li input{
+			margin-right: 0.5rem;
+		}
+		
+	.watermark {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%) rotate(0deg);
+	opacity: 0.5;
+	font-size: 48px;
+	font-weight: bold;
+	color: gray;
+	width: 100%;
+	z-index: 10;
+	}
+	</style>
+
+	
+</head>
+
+<body>
+	
+	<div id="wrapper" class="wrapper">
+		<header class="header">
+			<div class="container">
+				<div class="d-flex">
+					<div class="header__logo">
+						<div class="logo">
+							<a href="https://drug.fda.moph.go.th">
+								<div class="logo__image ">
+									<img src="https://cms-media.fda.moph.go.th/461117580158050304/2023/03/HrGt2Pc4fDHSK7PfYtE98wWH.svg"  class="img-fluid" style="object-position:top"   alt="อย">								</div>
+																	<div class="logo__name website-461117580158050304">
+										<div class="logo__name--text1">กองยา</div>
+										<hr>
+										<div class="logo__name--text2">Medicines Regulation Division</div>
+									</div>
+															</a>
+						</div>
+					</div>
+					<div class="header__right">
+						<div class="header__links d-none d-xl-flex">
+							<ul class='nav-menu menu-location-th'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://www.fda.moph.go.th/web-link/" title="เว็บลิงก์" >เว็บลิงก์</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/contact-us" title="ติดต่อเรา" >ติดต่อเรา</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://privus.fda.moph.go.th/Frm_Response.aspx?Type=109" title="ร้องเรียน" target="_blank">ร้องเรียน</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/faqs" title="คำถามที่พบบ่อย" >คำถามที่พบบ่อย</a></div></li></ul>
+						</div>
+						<div class="header__btn">
+							<a href="https://drug.fda.moph.go.th?s" title="search"><span class="icon-search" aria-hidden="true"></span></a>
+						</div>
+						<div class="header__btn d-none d-xl-flex align-items-center justify-content-center ms-2">
+							<a href="https://en.fda.moph.go.th/" target="_blank" class="fs-6">
+								EN
+							</a>
+						</div>
+												<div class="hamburger d-xl-none" id="hamburger">
+							<span></span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<nav class="header__menu--desktop d-none d-xl-flex ">
+				<div class="container">
+					<div class="desktop-nav__menu">
+						<ul class='nav-menu menu-location-th'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/home/" title="หน้าแรก (Home)" >หน้าแรก (Home)</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/home-law-1/" title="กฎหมายยา (Laws&Regulations)" >กฎหมายยา (Laws&Regulations)</a></div></li><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="ผลิตภัณฑ์ยา (Products)" >ผลิตภัณฑ์ยา (Products)</a></div><ul class='nav-submenu'><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="ยาสำหรับมนุษย์" >ยาสำหรับมนุษย์</a></div><ul class='nav-submenu'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/generic-drugs-for-humans" title="ยาสามัญและยาเสริมการรักษา" >ยาสามัญและยาเสริมการรักษา</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/chemical-drugs-for-humans/" title="ยาใหม่และส่งเสริมการวิจัย" >ยาใหม่และส่งเสริมการวิจัย</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/biological-medicine-for-humans/" title="ยาชีววัตถุ" >ยาชีววัตถุ</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/atmp_main/" title="ผลิตภัณฑ์การแพทย์ขั้นสูง" >ผลิตภัณฑ์การแพทย์ขั้นสูง</a></div></li></ul></li><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="ยาสำหรับสัตว์" >ยาสำหรับสัตว์</a></div><ul class='nav-submenu'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/chemical-drugs-for-animals/" title="ยาเคมีสำหรับสัตว์" >ยาเคมีสำหรับสัตว์</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/biologic-drugs-for-animals/" title="ยาชีววัตถุสำหรับสัตว์" >ยาชีววัตถุสำหรับสัตว์</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/ traditional-drugs-for-animals" title="ยาแผนโบราณสำหรับสัตว์" >ยาแผนโบราณสำหรับสัตว์</a></div></li></ul></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/pharmaceutical-chemical/" title="เภสัชเคมีภัณฑ์" >เภสัชเคมีภัณฑ์</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/ossc/" title="OSSC" >OSSC</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/diagnostics-of-pharmaceutical-products/" title="การวินิจฉัยผลิตภัณฑ์ยา" >การวินิจฉัยผลิตภัณฑ์ยา</a></div></li></ul></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/drug-advertisement/" title="โฆษณายา (Ads)" >โฆษณายา (Ads)</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/drug-research/" title="วิจัยยา (Investigational Drug)" >วิจัยยา (Investigational Drug)</a></div></li><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="สถานประกอบการด้านยา (Drug Facilities)" >สถานประกอบการด้านยา (Drug Facilities)</a></div><ul class='nav-submenu'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/pharmaceutical-establishments/" title="หน้าหลัก" >หน้าหลัก</a></div></li><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="การตรวจประเมินมาตรฐานสถานที่" >การตรวจประเมินมาตรฐานสถานที่</a></div><ul class='nav-submenu'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/gmdp-audit/" title="การตรวจประเมินมาตรฐาน GMDP" >การตรวจประเมินมาตรฐาน GMDP</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/gmp-clearance-inspection" title="การตรวจประเมินมาตรฐาน GMP-Clearance" >การตรวจประเมินมาตรฐาน GMP-Clearance</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/gdp-audit" title="การตรวจประเมินมาตรฐาน GDP" >การตรวจประเมินมาตรฐาน GDP</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/gpp-audit/" title="การตรวจประเมินมาตรฐาน GPP" >การตรวจประเมินมาตรฐาน GPP</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/gcp-audit/ all-gcp" title="การตรวจตราการวิจัยทางคลินิก GCP" >การตรวจตราการวิจัยทางคลินิก GCP</a></div></li></ul></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/license-renewal" title="การต่ออายุใบอนุญาต" >การต่ออายุใบอนุญาต</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/information-licensing-lic/" title="แบบฟอร์มที่เกี่ยวข้อง" >แบบฟอร์มที่เกี่ยวข้อง</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/manual-establishment-lic" title="คู่มือสำหรับมาตรฐานสถานประกอบการ" >คู่มือสำหรับมาตรฐานสถานประกอบการ</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/manual-site-lic/" title="คู่มือสำหรับผู้ประกอบการ" >คู่มือสำหรับผู้ประกอบการ</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/manual-site-fdaprovincial-lic/" title="คู่มือสำหรับเจ้าหน้าที่" >คู่มือสำหรับเจ้าหน้าที่</a></div></li><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="ตรวจสอบสถานะใบอนุญาตประกอบการและมาตรฐานการรับรองสถานที่" >ตรวจสอบสถานะใบอนุญาตประกอบการและมาตรฐานการรับรองสถานที่</a></div><ul class='nav-submenu'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/?op=kwssl&lang=1&skin=s&db=Main&ww" title="ตรวจสอบสถานะใบอนุญาตสถานประกอบการ" >ตรวจสอบสถานะใบอนุญาตสถานประกอบการ</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/13_1/ locate" title="ตรวจสอบสถานะสถานที่ผลิตยา ตามมาตรา 13 แห่งพระราชบัญญัติยา พ.ศ. 2510" >ตรวจสอบสถานะสถานที่ผลิตยา ตามมาตรา 13 แห่งพระราชบัญญัติยา พ.ศ. 2510</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://docs.google.com/spreadsheets/d/1Pcc8B8oEj7BGmLtYkvGsOMHz7EgrFjwbnXDXUSVcjjg/edit?gid=652358974#gid=652358974" title="ตรวจสอบสถานะมาตรฐานการรับรองสถานที่ผลิตยา GMDP" >ตรวจสอบสถานะมาตรฐานการรับรองสถานที่ผลิตยา GMDP</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://pertento.fda.moph.go.th/FDA_INFORMATION_DRUG/Home/LIST_OF_CLEARANCE" title="ตรวจสอบสถานะมาตรฐานการรับรองสถานที่ผลิตยาในต่างประเทศ GMP-Clearance" >ตรวจสอบสถานะมาตรฐานการรับรองสถานที่ผลิตยาในต่างประเทศ GMP-Clearance</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://docs.google.com/spreadsheets/d/1Emd_APDu25VvulNylMkmu_eOShx3D6RfdQ-otVNAx6k/edit?gid=652358974#gid=652358974" title="ตรวจสอบสถานะมาตรฐานการรับรองสถานที่นำหรือสั่งยาแผนปัจจุบันเข้ามาในราชอาณาจักร GDP" >ตรวจสอบสถานะมาตรฐานการรับรองสถานที่นำหรือสั่งยาแผนปัจจุบันเข้ามาในราชอาณาจักร GDP</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://www.acc-pharm.com/Pharmacy" title="ตรวจสอบร้านยาคุณภาพ" >ตรวจสอบร้านยาคุณภาพ</a></div></li></ul></li></ul></li><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="การเฝ้าระวังและบังคับใช้กฎหมาย (Monitoring&Enforcement)" >การเฝ้าระวังและบังคับใช้กฎหมาย (Monitoring&Enforcement)</a></div><ul class='nav-submenu'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/surveillance" title="หน้าหลัก" >หน้าหลัก</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/prsur" title="ประชาสัมพันธ์" >ประชาสัมพันธ์</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://apres.fda.moph.go.th/FDA_POST_VIEW_CENTER/PUBLIC/DRUG_ALERT" title="แจ้งเตือนภัย" >แจ้งเตือนภัย</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/orders-food-drug-administration/category/suspend-license" title="คำสั่งพักใช้ใบอนุญาต" >คำสั่งพักใช้ใบอนุญาต</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/product-surveillance" title="แผนเก็บตัวอย่างเฝ้าระวัง" >แผนเก็บตัวอย่างเฝ้าระวัง</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/manual-surveillance" title="คู่มือและแบบฟอร์ม" >คู่มือและแบบฟอร์ม</a></div></li></ul></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/for-staff/" title="เฉพาะเจ้าหน้าที่" >เฉพาะเจ้าหน้าที่</a></div></li></ul>					</div>
+
+				</div>
+			</nav>
+			<nav class="header__menu--mobile d-xl-none ">
+			
+				<div class="container">
+			
+					<div class="mobile-nav__menu item">
+						<ul class='nav-menu menu-location-th'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/home/" title="หน้าแรก (Home)" >หน้าแรก (Home)</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/home-law-1/" title="กฎหมายยา (Laws&Regulations)" >กฎหมายยา (Laws&Regulations)</a></div></li><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="ผลิตภัณฑ์ยา (Products)" >ผลิตภัณฑ์ยา (Products)</a></div><ul class='nav-submenu'><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="ยาสำหรับมนุษย์" >ยาสำหรับมนุษย์</a></div><ul class='nav-submenu'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/generic-drugs-for-humans" title="ยาสามัญและยาเสริมการรักษา" >ยาสามัญและยาเสริมการรักษา</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/chemical-drugs-for-humans/" title="ยาใหม่และส่งเสริมการวิจัย" >ยาใหม่และส่งเสริมการวิจัย</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/biological-medicine-for-humans/" title="ยาชีววัตถุ" >ยาชีววัตถุ</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/atmp_main/" title="ผลิตภัณฑ์การแพทย์ขั้นสูง" >ผลิตภัณฑ์การแพทย์ขั้นสูง</a></div></li></ul></li><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="ยาสำหรับสัตว์" >ยาสำหรับสัตว์</a></div><ul class='nav-submenu'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/chemical-drugs-for-animals/" title="ยาเคมีสำหรับสัตว์" >ยาเคมีสำหรับสัตว์</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/biologic-drugs-for-animals/" title="ยาชีววัตถุสำหรับสัตว์" >ยาชีววัตถุสำหรับสัตว์</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/ traditional-drugs-for-animals" title="ยาแผนโบราณสำหรับสัตว์" >ยาแผนโบราณสำหรับสัตว์</a></div></li></ul></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/pharmaceutical-chemical/" title="เภสัชเคมีภัณฑ์" >เภสัชเคมีภัณฑ์</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/ossc/" title="OSSC" >OSSC</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/diagnostics-of-pharmaceutical-products/" title="การวินิจฉัยผลิตภัณฑ์ยา" >การวินิจฉัยผลิตภัณฑ์ยา</a></div></li></ul></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/drug-advertisement/" title="โฆษณายา (Ads)" >โฆษณายา (Ads)</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/drug-research/" title="วิจัยยา (Investigational Drug)" >วิจัยยา (Investigational Drug)</a></div></li><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="สถานประกอบการด้านยา (Drug Facilities)" >สถานประกอบการด้านยา (Drug Facilities)</a></div><ul class='nav-submenu'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/pharmaceutical-establishments/" title="หน้าหลัก" >หน้าหลัก</a></div></li><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="การตรวจประเมินมาตรฐานสถานที่" >การตรวจประเมินมาตรฐานสถานที่</a></div><ul class='nav-submenu'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/gmdp-audit/" title="การตรวจประเมินมาตรฐาน GMDP" >การตรวจประเมินมาตรฐาน GMDP</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/gmp-clearance-inspection" title="การตรวจประเมินมาตรฐาน GMP-Clearance" >การตรวจประเมินมาตรฐาน GMP-Clearance</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/gdp-audit" title="การตรวจประเมินมาตรฐาน GDP" >การตรวจประเมินมาตรฐาน GDP</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/gpp-audit/" title="การตรวจประเมินมาตรฐาน GPP" >การตรวจประเมินมาตรฐาน GPP</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/gcp-audit/ all-gcp" title="การตรวจตราการวิจัยทางคลินิก GCP" >การตรวจตราการวิจัยทางคลินิก GCP</a></div></li></ul></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/license-renewal" title="การต่ออายุใบอนุญาต" >การต่ออายุใบอนุญาต</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/information-licensing-lic/" title="แบบฟอร์มที่เกี่ยวข้อง" >แบบฟอร์มที่เกี่ยวข้อง</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/manual-establishment-lic" title="คู่มือสำหรับมาตรฐานสถานประกอบการ" >คู่มือสำหรับมาตรฐานสถานประกอบการ</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/manual-site-lic/" title="คู่มือสำหรับผู้ประกอบการ" >คู่มือสำหรับผู้ประกอบการ</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/manual-site-fdaprovincial-lic/" title="คู่มือสำหรับเจ้าหน้าที่" >คู่มือสำหรับเจ้าหน้าที่</a></div></li><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="ตรวจสอบสถานะใบอนุญาตประกอบการและมาตรฐานการรับรองสถานที่" >ตรวจสอบสถานะใบอนุญาตประกอบการและมาตรฐานการรับรองสถานที่</a></div><ul class='nav-submenu'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/?op=kwssl&lang=1&skin=s&db=Main&ww" title="ตรวจสอบสถานะใบอนุญาตสถานประกอบการ" >ตรวจสอบสถานะใบอนุญาตสถานประกอบการ</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/13_1/ locate" title="ตรวจสอบสถานะสถานที่ผลิตยา ตามมาตรา 13 แห่งพระราชบัญญัติยา พ.ศ. 2510" >ตรวจสอบสถานะสถานที่ผลิตยา ตามมาตรา 13 แห่งพระราชบัญญัติยา พ.ศ. 2510</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://docs.google.com/spreadsheets/d/1Pcc8B8oEj7BGmLtYkvGsOMHz7EgrFjwbnXDXUSVcjjg/edit?gid=652358974#gid=652358974" title="ตรวจสอบสถานะมาตรฐานการรับรองสถานที่ผลิตยา GMDP" >ตรวจสอบสถานะมาตรฐานการรับรองสถานที่ผลิตยา GMDP</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://pertento.fda.moph.go.th/FDA_INFORMATION_DRUG/Home/LIST_OF_CLEARANCE" title="ตรวจสอบสถานะมาตรฐานการรับรองสถานที่ผลิตยาในต่างประเทศ GMP-Clearance" >ตรวจสอบสถานะมาตรฐานการรับรองสถานที่ผลิตยาในต่างประเทศ GMP-Clearance</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://docs.google.com/spreadsheets/d/1Emd_APDu25VvulNylMkmu_eOShx3D6RfdQ-otVNAx6k/edit?gid=652358974#gid=652358974" title="ตรวจสอบสถานะมาตรฐานการรับรองสถานที่นำหรือสั่งยาแผนปัจจุบันเข้ามาในราชอาณาจักร GDP" >ตรวจสอบสถานะมาตรฐานการรับรองสถานที่นำหรือสั่งยาแผนปัจจุบันเข้ามาในราชอาณาจักร GDP</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://www.acc-pharm.com/Pharmacy" title="ตรวจสอบร้านยาคุณภาพ" >ตรวจสอบร้านยาคุณภาพ</a></div></li></ul></li></ul></li><li class="nav-menu-item is-parent"><div class="menu-item__link"><a href="" title="การเฝ้าระวังและบังคับใช้กฎหมาย (Monitoring&Enforcement)" >การเฝ้าระวังและบังคับใช้กฎหมาย (Monitoring&Enforcement)</a></div><ul class='nav-submenu'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/surveillance" title="หน้าหลัก" >หน้าหลัก</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/prsur" title="ประชาสัมพันธ์" >ประชาสัมพันธ์</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://apres.fda.moph.go.th/FDA_POST_VIEW_CENTER/PUBLIC/DRUG_ALERT" title="แจ้งเตือนภัย" >แจ้งเตือนภัย</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/orders-food-drug-administration/category/suspend-license" title="คำสั่งพักใช้ใบอนุญาต" >คำสั่งพักใช้ใบอนุญาต</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/product-surveillance" title="แผนเก็บตัวอย่างเฝ้าระวัง" >แผนเก็บตัวอย่างเฝ้าระวัง</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/manual-surveillance" title="คู่มือและแบบฟอร์ม" >คู่มือและแบบฟอร์ม</a></div></li></ul></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/for-staff/" title="เฉพาะเจ้าหน้าที่" >เฉพาะเจ้าหน้าที่</a></div></li></ul>					</div>
+
+					<div class="header__links item d-flex d-xl-none">
+						<ul class='nav-menu menu-location-th'><li class="nav-menu-item"><div class="menu-item__link"><a href="https://www.fda.moph.go.th/web-link/" title="เว็บลิงก์" >เว็บลิงก์</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/contact-us" title="ติดต่อเรา" >ติดต่อเรา</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://privus.fda.moph.go.th/Frm_Response.aspx?Type=109" title="ร้องเรียน" target="_blank">ร้องเรียน</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/faqs" title="คำถามที่พบบ่อย" >คำถามที่พบบ่อย</a></div></li></ul>					</div>
+					<div class="mobile-nav__setting item col-8 col-md-7 col-lg-5 mt-3">
+						<div class="title">ภาษา</div>
+						<div class="setting mt-3">
+							<div class="col-5 col-sm-3 px0">
+								<div class="setting__item setting__item--language">
+									<a href="https://en.fda.moph.go.th/" class=" d-block w-100 text-center" target="_blank">EN</a>
+								</div>
+							</div>
+
+						</div>
+					</div>
+										
+					
+				</div>
+			
+
+			</nav>
+			<button class="btn assembly__btn" data-js="openAssembly" type="button">
+				<img src="https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/icon-assembly.png" alt="image assembly">
+			</button>
+			<div class="box-assembly">
+				<div class="assembly-head">
+					<img src="https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/icon-assembly.png" alt="image assembly">
+					<h6>การเข้าถึง</h6>
+					<img data-js="closeAssembly" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/icon-close.png" alt="close assembly">
+				</div>
+				<div class="assembly-body">
+					<ul class="list-tool-setting">
+						<li>
+							<span>ขนาดตัวอักษร</span>
+							<ul>
+								<li data-js="sizeFont" data-size="14">ก</li>
+								<li data-js="sizeFont" data-size="16">ก</li>
+								<li data-js="sizeFont" data-size="18">ก</li>
+							</ul>
+						</li>
+						<li>
+							<span>การเว้นระยะห่าง</span>
+							<ul>
+								<li data-js="sizeSpace" data-size=""><img src="https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/icon-space-1.png" alt="icon space 1"></li>
+								<li data-js="sizeSpace" data-size="spaceplus"><img src="https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/icon-space-2.png" alt="icon space 2"></li>
+								<li data-js="sizeSpace" data-size="spaceplus-lg"><img src="https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/icon-space-2.png" alt="icon space 3"></li>
+							</ul>
+						</li>
+						<li>
+							<span>ความตัดกันของสี</span>
+							<ul>
+								<li data-js="themeColor" data-theme=""><img src="https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/icon-color-1.png" alt="icon color 1">สีปกติ</li>
+								<li data-js="themeColor" data-theme="theme-dark"><img src="https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/icon-color-2.png" alt="icon color 2">ขาวดำ</li>
+								<li data-js="themeColor" data-theme="theme-blindness"><img src="https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/icon-color-3.png" alt="icon color 3">ดำ-เหลือง</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</header><!--- Main Banner -->
+<div class="main-banner no-banner"  id="mainBanner">
+    </div>
+<!--- Main Content -->
+<div class="main-content overflow-visible">
+   <div class="container">
+  
+    
+    <div ">
+          <!--- Breadcrumb -->
+    <div class="breadcrumb">
+      <ul class="breadcrumb__ul">
+          <li class="breadcrumb__link"><a href="https://drug.fda.moph.go.th"><span> หน้าแรก</span></span></a></li>
+          <li class="breadcrumb__link"><a href="https://drug.fda.moph.go.th/lowrisk" title="ยาความเสี่ยงต่ำ"><span>ยาความเสี่ยงต่ำ</span></a></li>            <li class="breadcrumb__link active"><span>โมโนกราฟวิตามินตามบัญชียาหลักแห่งชาติ</span></li>
+                </ul>
+  </div>
+      </div>
+    <div class="template template-default">
+        
+        <!-- แสดงชื่ออย่างเดียว -->
+
+<div class="box-category flex-wrap">
+    
+    <ul class="list-category --top --hover " id="listCategory">
+                            <li data-js="selectCat" data-id="group-of-supplementary-medicines">
+                <a class=""  href="https://drug.fda.moph.go.th/lowrisk/category/group-of-supplementary-medicines">
+                                    กลุ่มยาเสริมการรักษา                </a>
+            </li>
+                    <li data-js="selectCat" data-id="non-group-of-supplementary-medicines">
+                <a class=""  href="https://drug.fda.moph.go.th/lowrisk/category/non-group-of-supplementary-medicines">
+                                    กลุ่มยาที่ไม่ใช่ยาเสริมการรักษา                </a>
+            </li>
+                    <li data-js="selectCat" data-id="complementary-medicines-monograph">
+                <a class=""  href="https://drug.fda.moph.go.th/lowrisk/category/complementary-medicines-monograph">
+                                    โมโนกราฟกลุ่มยาเสริมการรักษา                </a>
+            </li>
+                    <li data-js="selectCat" data-id="non-complementary-medicines-monograph">
+                <a class=""  href="https://drug.fda.moph.go.th/lowrisk/category/non-complementary-medicines-monograph">
+                                    โมโนกราฟกลุ่มยาที่ไม่ใช่ยาเสริมการรักษา                </a>
+            </li>
+                    <li data-js="selectCat" data-id="monograph-of-the-national-list-of-essential-medicines">
+                <a class="active"  href="https://drug.fda.moph.go.th/lowrisk/category/monograph-of-the-national-list-of-essential-medicines">
+                                    โมโนกราฟวิตามินตามบัญชียาหลักแห่งชาติ                </a>
+            </li>
+                    <li data-js="selectCat" data-id="vitamins-and-minerals-monograph">
+                <a class=""  href="https://drug.fda.moph.go.th/lowrisk/category/vitamins-and-minerals-monograph">
+                                    โมโนกราฟวิตามินและแร่ธาตุ                </a>
+            </li>
+                    <li data-js="selectCat" data-id="herbal-innovation-monograph">
+                <a class=""  href="https://drug.fda.moph.go.th/lowrisk/category/herbal-innovation-monograph">
+                                    โมโนกราฟนวัตกรรมสมุนไพร                </a>
+            </li>
+                    <li data-js="selectCat" data-id="microbial-innovation-monograph">
+                <a class=""  href="https://drug.fda.moph.go.th/lowrisk/category/microbial-innovation-monograph">
+                                    โมโนกราฟนวัตกรรมจุลินทรีย์                </a>
+            </li>
+                    <li data-js="selectCat" data-id="monograph-of-common-home-medicines">
+                <a class=""  href="https://drug.fda.moph.go.th/lowrisk/category/monograph-of-common-home-medicines">
+                                    โมโนกราฟที่อ้างอิงตามประกาศยาสามัญประจำบ้าน พ.ศ. 2568                </a>
+            </li>
+                    <li data-js="selectCat" data-id="lowrisk-supporting-documents">
+                <a class=""  href="https://drug.fda.moph.go.th/lowrisk/category/lowrisk-supporting-documents">
+                                    ประกาศ/คู่มือ/เอกสารประกอบ                </a>
+            </li>
+                    <li data-js="selectCat" data-id="contact-lowriskmedicine">
+                <a class=""  href="https://drug.fda.moph.go.th/lowrisk/category/contact-lowriskmedicine">
+                                    ช่องทางการติดต่อ                </a>
+            </li>
+            </ul>
+</div>
+
+        <div class="d-block d-md-none ">
+            
+       <!-- แสดงคำอธิบาย -->
+    <div class="template__detail  ql-editor h-auto mb-6"><div class="quill-better-table-wrapper"><table class="quill-better-table" style="width: 268px;"><colgroup><col width="42"><col width="78"><col width="71"><col width="77"></colgroup><tbody><tr data-row="1"><td data-row="1" rowspan="1" colspan="1"><p class="qlbt-cell-line" data-row="1" data-cell="1" data-rowspan="1" data-colspan="1">ลำดับที่</p></td><td data-row="1" rowspan="1" colspan="1"><p class="qlbt-cell-line" data-row="1" data-cell="2" data-rowspan="1" data-colspan="1">รหัสโมโนกราฟ</p></td><td data-row="1" rowspan="1" colspan="1"><p class="qlbt-cell-line" data-row="1" data-cell="3" data-rowspan="1" data-colspan="1">ชื่อโมโนกราฟ</p></td><td data-row="1" rowspan="1" colspan="1"><p class="qlbt-cell-line" data-row="1" data-cell="4" data-rowspan="1" data-colspan="1">ชื่อไฟล์ข้อมูล</p></td></tr><tr data-row="2"><td data-row="2" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="2" data-cell="1" data-rowspan="1" data-colspan="1">1</p></td><td data-row="2" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="2" data-cell="2" data-rowspan="1" data-colspan="1">C67/0004</p></td><td data-row="2" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="2" data-cell="3" data-rowspan="1" data-colspan="1">วิตามินรวม</p><p class="qlbt-cell-line ql-align-center" data-row="2" data-cell="3" data-rowspan="1" data-colspan="1">ตามบัญชียาหลักแห่งชาติ</p></td><td data-row="2" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="2" data-cell="4" data-rowspan="1" data-colspan="1"><a href="https://drug.fda.moph.go.th/media.php?id=692261607027384320&name=C670004 วิตามินรวม 29Oct24.pdf" rel="noopener noreferrer" target="_blank">PDF</a></p></td></tr><tr data-row="3"><td data-row="3" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="3" data-cell="1" data-rowspan="1" data-colspan="1">2</p></td><td data-row="3" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="3" data-cell="2" data-rowspan="1" data-colspan="1">C67/0005</p></td><td data-row="3" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="3" data-cell="3" data-rowspan="1" data-colspan="1">วิตามินบีรวม</p><p class="qlbt-cell-line ql-align-center" data-row="3" data-cell="3" data-rowspan="1" data-colspan="1">ตามบัญชียาหลักแห่งชาติ</p></td><td data-row="3" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="3" data-cell="4" data-rowspan="1" data-colspan="1"><a href="https://drug.fda.moph.go.th/media.php?id=692261606486319104&name=C670005 วิตามินบีรวม 30Oct24.pdf" rel="noopener noreferrer" target="_blank">PDF</a></p></td></tr></tbody></table></div><p><br></p></div>
+ 
+      <!-- แสดงกล่องค้นหา -->
+     <div class="template__title-search mb-md-5">
+                      </div>
+ 
+        </div>
+        <div class="row">
+                <div class="col-12 col-md-4 col-xl-3">
+        <div class="template__side">
+        <h2 class="template__title text-center text-md-start mb-5 mb-md-0">ยาความเสี่ยงต่ำ</h2>
+            <hr class="d-none d-md-block">
+            <div class="dropdown-category">
+                <input type="checkbox" name="ch-category" class="ch-category">
+                <div class="dropdown-selected">ยาความเสี่ยงต่ำ</div>
+                <ul class="side-menu">
+	<li>
+		<div class="menu-item   ">
+			<div class="link w-100">
+				<a href="https://drug.fda.moph.go.th/lowrisk/category/group-of-supplementary-medicines"  title="กลุ่มยาเสริมการรักษา" >
+					<span>กลุ่มยาเสริมการรักษา</span>
+				</a>
+			</div>
+			
+		</div>
+	</li>
+	<li>
+		<div class="menu-item   ">
+			<div class="link w-100">
+				<a href="https://drug.fda.moph.go.th/lowrisk/category/non-group-of-supplementary-medicines"  title="กลุ่มยาที่ไม่ใช่ยาเสริมการรักษา" >
+					<span>กลุ่มยาที่ไม่ใช่ยาเสริมการรักษา</span>
+				</a>
+			</div>
+			
+		</div>
+	</li>
+	<li>
+		<div class="menu-item   ">
+			<div class="link w-100">
+				<a href="https://drug.fda.moph.go.th/lowrisk/category/complementary-medicines-monograph"  title="โมโนกราฟกลุ่มยาเสริมการรักษา" >
+					<span>โมโนกราฟกลุ่มยาเสริมการรักษา</span>
+				</a>
+			</div>
+			
+		</div>
+	</li>
+	<li>
+		<div class="menu-item   ">
+			<div class="link w-100">
+				<a href="https://drug.fda.moph.go.th/lowrisk/category/non-complementary-medicines-monograph"  title="โมโนกราฟกลุ่มยาที่ไม่ใช่ยาเสริมการรักษา" >
+					<span>โมโนกราฟกลุ่มยาที่ไม่ใช่ยาเสริมการรักษา</span>
+				</a>
+			</div>
+			
+		</div>
+	</li>
+	<li>
+		<div class="menu-item    active ">
+			<div class="link w-100">
+				<a href="https://drug.fda.moph.go.th/lowrisk/category/monograph-of-the-national-list-of-essential-medicines"  title="โมโนกราฟวิตามินตามบัญชียาหลักแห่งชาติ" >
+					<span>โมโนกราฟวิตามินตามบัญชียาหลักแห่งชาติ</span>
+				</a>
+			</div>
+			
+		</div>
+	</li>
+	<li>
+		<div class="menu-item   ">
+			<div class="link w-100">
+				<a href="https://drug.fda.moph.go.th/lowrisk/category/vitamins-and-minerals-monograph"  title="โมโนกราฟวิตามินและแร่ธาตุ" >
+					<span>โมโนกราฟวิตามินและแร่ธาตุ</span>
+				</a>
+			</div>
+			
+		</div>
+	</li>
+	<li>
+		<div class="menu-item   ">
+			<div class="link w-100">
+				<a href="https://drug.fda.moph.go.th/lowrisk/category/herbal-innovation-monograph"  title="โมโนกราฟนวัตกรรมสมุนไพร" >
+					<span>โมโนกราฟนวัตกรรมสมุนไพร</span>
+				</a>
+			</div>
+			
+		</div>
+	</li>
+	<li>
+		<div class="menu-item   ">
+			<div class="link w-100">
+				<a href="https://drug.fda.moph.go.th/lowrisk/category/microbial-innovation-monograph"  title="โมโนกราฟนวัตกรรมจุลินทรีย์" >
+					<span>โมโนกราฟนวัตกรรมจุลินทรีย์</span>
+				</a>
+			</div>
+			
+		</div>
+	</li>
+	<li>
+		<div class="menu-item   ">
+			<div class="link w-100">
+				<a href="https://drug.fda.moph.go.th/lowrisk/category/monograph-of-common-home-medicines"  title="โมโนกราฟที่อ้างอิงตามประกาศยาสามัญประจำบ้าน พ.ศ. 2568" >
+					<span>โมโนกราฟที่อ้างอิงตามประกาศยาสามัญประจำบ้าน พ.ศ. 2568</span>
+				</a>
+			</div>
+			
+		</div>
+	</li>
+	<li>
+		<div class="menu-item   ">
+			<div class="link w-100">
+				<a href="https://drug.fda.moph.go.th/lowrisk/category/lowrisk-supporting-documents"  title="ประกาศ/คู่มือ/เอกสารประกอบ" >
+					<span>ประกาศ/คู่มือ/เอกสารประกอบ</span>
+				</a>
+			</div>
+			
+		</div>
+	</li>
+	<li>
+		<div class="menu-item   ">
+			<div class="link w-100">
+				<a href="https://drug.fda.moph.go.th/lowrisk/category/contact-lowriskmedicine"  title="ช่องทางการติดต่อ" >
+					<span>ช่องทางการติดต่อ</span>
+				</a>
+			</div>
+			
+		</div>
+	</li></ul>
+            </div>
+
+        </div>
+    </div>
+            <div class="col-12 col-md-8 col-xl-9">
+             
+              
+                        
+       <!-- แสดงคำอธิบาย -->
+    <div class="template__detail  ql-editor h-auto mb-6"><div class="quill-better-table-wrapper"><table class="quill-better-table" style="width: 268px;"><colgroup><col width="42"><col width="78"><col width="71"><col width="77"></colgroup><tbody><tr data-row="1"><td data-row="1" rowspan="1" colspan="1"><p class="qlbt-cell-line" data-row="1" data-cell="1" data-rowspan="1" data-colspan="1">ลำดับที่</p></td><td data-row="1" rowspan="1" colspan="1"><p class="qlbt-cell-line" data-row="1" data-cell="2" data-rowspan="1" data-colspan="1">รหัสโมโนกราฟ</p></td><td data-row="1" rowspan="1" colspan="1"><p class="qlbt-cell-line" data-row="1" data-cell="3" data-rowspan="1" data-colspan="1">ชื่อโมโนกราฟ</p></td><td data-row="1" rowspan="1" colspan="1"><p class="qlbt-cell-line" data-row="1" data-cell="4" data-rowspan="1" data-colspan="1">ชื่อไฟล์ข้อมูล</p></td></tr><tr data-row="2"><td data-row="2" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="2" data-cell="1" data-rowspan="1" data-colspan="1">1</p></td><td data-row="2" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="2" data-cell="2" data-rowspan="1" data-colspan="1">C67/0004</p></td><td data-row="2" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="2" data-cell="3" data-rowspan="1" data-colspan="1">วิตามินรวม</p><p class="qlbt-cell-line ql-align-center" data-row="2" data-cell="3" data-rowspan="1" data-colspan="1">ตามบัญชียาหลักแห่งชาติ</p></td><td data-row="2" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="2" data-cell="4" data-rowspan="1" data-colspan="1"><a href="https://drug.fda.moph.go.th/media.php?id=692261607027384320&name=C670004 วิตามินรวม 29Oct24.pdf" rel="noopener noreferrer" target="_blank">PDF</a></p></td></tr><tr data-row="3"><td data-row="3" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="3" data-cell="1" data-rowspan="1" data-colspan="1">2</p></td><td data-row="3" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="3" data-cell="2" data-rowspan="1" data-colspan="1">C67/0005</p></td><td data-row="3" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="3" data-cell="3" data-rowspan="1" data-colspan="1">วิตามินบีรวม</p><p class="qlbt-cell-line ql-align-center" data-row="3" data-cell="3" data-rowspan="1" data-colspan="1">ตามบัญชียาหลักแห่งชาติ</p></td><td data-row="3" rowspan="1" colspan="1"><p class="qlbt-cell-line ql-align-center" data-row="3" data-cell="4" data-rowspan="1" data-colspan="1"><a href="https://drug.fda.moph.go.th/media.php?id=692261606486319104&name=C670005 วิตามินบีรวม 30Oct24.pdf" rel="noopener noreferrer" target="_blank">PDF</a></p></td></tr></tbody></table></div><p><br></p></div>
+ 
+      <!-- แสดงกล่องค้นหา -->
+     <div class="template__title-search mb-md-5">
+                      </div>
+ 
+                    
+                
+            </div>
+        </div>
+    </div>
+  
+</div>
+
+</div> 
+
+
+
+		<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-10 col-md-7 ">
+					<div class="footer__logo">
+						<a href="https://goo.gl/maps/VDR74fX5wRuCdE2dA" title="Link To Google Map">
+							<div class="logo__image">
+								<img src="https://cms-media.fda.moph.go.th/461117580158050304/2023/03/HrGt2Pc4fDHSK7PfYtE98wWH.svg"  class="img-fluid" style="object-position:top"   alt="อย">							</div>
+							<div class="logo__name website-461117580158050304">
+								<div class="logo__name--text1">กองยา</div>
+								<hr>
+								<div class="logo__name--text2">Medicines Regulation Division</div>
+							</div>
+						</a>
+					</div>
+				</div>
+				<div class="col-10 col-md-7 mt-4 order-md-4">
+					<p class="footer__address">กองยา สำนักงานคณะกรรมการอาหารและยา กระทรวงสาธารณสุข <br>88/24 ถนนติวานนท์ อำเภอเมือง จังหวัดนนทบุรี 11000</p>
+					<div class="footer__link">
+						<ul class='nav-menu menu-location-th'><li class="nav-menu-item"><div class="menu-item__link"><a href="" title="Website Policy" >Website Policy</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="" title="Privacy Policy" >Privacy Policy</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="" title="Disclaimer" >Disclaimer</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="https://drug.fda.moph.go.th/contact-us/" title="ติดต่อเรา" >ติดต่อเรา</a></div></li></ul>						<p class="mb-md-0">รองรับการทำงานบน Internet Explorer v9+, Firefox v.20+, Safari v.5+, Chrome v.25+, Opera v.10+</p>
+					</div>
+				</div>
+								<div class="col-12 col-md-5 footer__sitemap order-md-2">
+											<div class="sitemap__btn mt-4 mt-md-0">
+							Sitemap
+						</div>
+									</div>
+
+									<div class="footer__sitemap mt-4 mt-md-6 order-md-3" id="footer__sitemap">
+
+						<div class="col-12 col-md-11 mx-auto">
+							<div class="row">
+
+								<div class="col-6 col-md-4 col-lg-3 sitemap__col mb-4">
+				<div class="sitemap__lists">
+					<div class="title"><a href="https://drug.fda.moph.go.th/home/"  title="หน้าแรก (Home)" >หน้าแรก (Home)</a></div>
+					<ul></ul>
+				</div>
+				
+			</div><div class="col-6 col-md-4 col-lg-3 sitemap__col mb-4">
+				<div class="sitemap__lists">
+					<div class="title"><a href="https://drug.fda.moph.go.th/home-law-1/"  title="กฎหมายยา (Laws&Regulations)" >กฎหมายยา (Laws&Regulations)</a></div>
+					<ul></ul>
+				</div>
+				
+			</div><div class="col-6 col-md-4 col-lg-3 sitemap__col mb-4">
+				<div class="sitemap__lists">
+					<div class="title"><a href=""  title="ผลิตภัณฑ์ยา (Products)" >ผลิตภัณฑ์ยา (Products)</a></div>
+					<ul><li><a href="" title="ยาสำหรับมนุษย์" >ยาสำหรับมนุษย์</a><ul><li><a href="https://drug.fda.moph.go.th/generic-drugs-for-humans" title="ยาสามัญและยาเสริมการรักษา" >ยาสามัญและยาเสริมการรักษา</a></li><li><a href="https://drug.fda.moph.go.th/chemical-drugs-for-humans/" title="ยาใหม่และส่งเสริมการวิจัย" >ยาใหม่และส่งเสริมการวิจัย</a></li><li><a href="https://drug.fda.moph.go.th/biological-medicine-for-humans/" title="ยาชีววัตถุ" >ยาชีววัตถุ</a></li><li><a href="https://drug.fda.moph.go.th/atmp_main/" title="ผลิตภัณฑ์การแพทย์ขั้นสูง" >ผลิตภัณฑ์การแพทย์ขั้นสูง</a></li></ul></li><li><a href="" title="ยาสำหรับสัตว์" >ยาสำหรับสัตว์</a><ul><li><a href="https://drug.fda.moph.go.th/chemical-drugs-for-animals/" title="ยาเคมีสำหรับสัตว์" >ยาเคมีสำหรับสัตว์</a></li><li><a href="https://drug.fda.moph.go.th/biologic-drugs-for-animals/" title="ยาชีววัตถุสำหรับสัตว์" >ยาชีววัตถุสำหรับสัตว์</a></li><li><a href="https://drug.fda.moph.go.th/ traditional-drugs-for-animals" title="ยาแผนโบราณสำหรับสัตว์" >ยาแผนโบราณสำหรับสัตว์</a></li></ul></li><li><a href="https://drug.fda.moph.go.th/pharmaceutical-chemical/" title="เภสัชเคมีภัณฑ์" >เภสัชเคมีภัณฑ์</a></li><li><a href="https://drug.fda.moph.go.th/ossc/" title="OSSC" >OSSC</a></li><li><a href="https://drug.fda.moph.go.th/diagnostics-of-pharmaceutical-products/" title="การวินิจฉัยผลิตภัณฑ์ยา" >การวินิจฉัยผลิตภัณฑ์ยา</a></li></ul>
+				</div>
+				
+			</div><div class="col-6 col-md-4 col-lg-3 sitemap__col mb-4">
+				<div class="sitemap__lists">
+					<div class="title"><a href="https://drug.fda.moph.go.th/drug-advertisement/"  title="โฆษณายา (Ads)" >โฆษณายา (Ads)</a></div>
+					<ul></ul>
+				</div>
+				
+			</div><div class="col-6 col-md-4 col-lg-3 sitemap__col mb-4">
+				<div class="sitemap__lists">
+					<div class="title"><a href="https://drug.fda.moph.go.th/drug-research/"  title="วิจัยยา (Investigational Drug)" >วิจัยยา (Investigational Drug)</a></div>
+					<ul></ul>
+				</div>
+				
+			</div><div class="col-6 col-md-4 col-lg-3 sitemap__col mb-4">
+				<div class="sitemap__lists">
+					<div class="title"><a href=""  title="สถานประกอบการด้านยา (Drug Facilities)" >สถานประกอบการด้านยา (Drug Facilities)</a></div>
+					<ul><li><a href="https://drug.fda.moph.go.th/pharmaceutical-establishments/" title="หน้าหลัก" >หน้าหลัก</a></li><li><a href="" title="การตรวจประเมินมาตรฐานสถานที่" >การตรวจประเมินมาตรฐานสถานที่</a><ul><li><a href="https://drug.fda.moph.go.th/gmdp-audit/" title="การตรวจประเมินมาตรฐาน GMDP" >การตรวจประเมินมาตรฐาน GMDP</a></li><li><a href="https://drug.fda.moph.go.th/gmp-clearance-inspection" title="การตรวจประเมินมาตรฐาน GMP-Clearance" >การตรวจประเมินมาตรฐาน GMP-Clearance</a></li><li><a href="https://drug.fda.moph.go.th/gdp-audit" title="การตรวจประเมินมาตรฐาน GDP" >การตรวจประเมินมาตรฐาน GDP</a></li><li><a href="https://drug.fda.moph.go.th/gpp-audit/" title="การตรวจประเมินมาตรฐาน GPP" >การตรวจประเมินมาตรฐาน GPP</a></li><li><a href="https://drug.fda.moph.go.th/gcp-audit/ all-gcp" title="การตรวจตราการวิจัยทางคลินิก GCP" >การตรวจตราการวิจัยทางคลินิก GCP</a></li></ul></li><li><a href="https://drug.fda.moph.go.th/license-renewal" title="การต่ออายุใบอนุญาต" >การต่ออายุใบอนุญาต</a></li><li><a href="https://drug.fda.moph.go.th/information-licensing-lic/" title="แบบฟอร์มที่เกี่ยวข้อง" >แบบฟอร์มที่เกี่ยวข้อง</a></li><li><a href="https://drug.fda.moph.go.th/manual-establishment-lic" title="คู่มือสำหรับมาตรฐานสถานประกอบการ" >คู่มือสำหรับมาตรฐานสถานประกอบการ</a></li><li><a href="https://drug.fda.moph.go.th/manual-site-lic/" title="คู่มือสำหรับผู้ประกอบการ" >คู่มือสำหรับผู้ประกอบการ</a></li><li><a href="https://drug.fda.moph.go.th/manual-site-fdaprovincial-lic/" title="คู่มือสำหรับเจ้าหน้าที่" >คู่มือสำหรับเจ้าหน้าที่</a></li><li><a href="" title="ตรวจสอบสถานะใบอนุญาตประกอบการและมาตรฐานการรับรองสถานที่" >ตรวจสอบสถานะใบอนุญาตประกอบการและมาตรฐานการรับรองสถานที่</a><ul><li><a href="https://drug.fda.moph.go.th/?op=kwssl&lang=1&skin=s&db=Main&ww" title="ตรวจสอบสถานะใบอนุญาตสถานประกอบการ" >ตรวจสอบสถานะใบอนุญาตสถานประกอบการ</a></li><li><a href="https://drug.fda.moph.go.th/13_1/ locate" title="ตรวจสอบสถานะสถานที่ผลิตยา ตามมาตรา 13 แห่งพระราชบัญญัติยา พ.ศ. 2510" >ตรวจสอบสถานะสถานที่ผลิตยา ตามมาตรา 13 แห่งพระราชบัญญัติยา พ.ศ. 2510</a></li><li><a href="https://docs.google.com/spreadsheets/d/1Pcc8B8oEj7BGmLtYkvGsOMHz7EgrFjwbnXDXUSVcjjg/edit?gid=652358974#gid=652358974" title="ตรวจสอบสถานะมาตรฐานการรับรองสถานที่ผลิตยา GMDP" >ตรวจสอบสถานะมาตรฐานการรับรองสถานที่ผลิตยา GMDP</a></li><li><a href="https://pertento.fda.moph.go.th/FDA_INFORMATION_DRUG/Home/LIST_OF_CLEARANCE" title="ตรวจสอบสถานะมาตรฐานการรับรองสถานที่ผลิตยาในต่างประเทศ GMP-Clearance" >ตรวจสอบสถานะมาตรฐานการรับรองสถานที่ผลิตยาในต่างประเทศ GMP-Clearance</a></li><li><a href="https://docs.google.com/spreadsheets/d/1Emd_APDu25VvulNylMkmu_eOShx3D6RfdQ-otVNAx6k/edit?gid=652358974#gid=652358974" title="ตรวจสอบสถานะมาตรฐานการรับรองสถานที่นำหรือสั่งยาแผนปัจจุบันเข้ามาในราชอาณาจักร GDP" >ตรวจสอบสถานะมาตรฐานการรับรองสถานที่นำหรือสั่งยาแผนปัจจุบันเข้ามาในราชอาณาจักร GDP</a></li><li><a href="https://www.acc-pharm.com/Pharmacy" title="ตรวจสอบร้านยาคุณภาพ" >ตรวจสอบร้านยาคุณภาพ</a></li></ul></li></ul>
+				</div>
+				
+			</div><div class="col-6 col-md-4 col-lg-3 sitemap__col mb-4">
+				<div class="sitemap__lists">
+					<div class="title"><a href=""  title="การเฝ้าระวังและบังคับใช้กฎหมาย (Monitoring&Enforcement)" >การเฝ้าระวังและบังคับใช้กฎหมาย (Monitoring&Enforcement)</a></div>
+					<ul><li><a href="https://drug.fda.moph.go.th/surveillance" title="หน้าหลัก" >หน้าหลัก</a></li><li><a href="https://drug.fda.moph.go.th/prsur" title="ประชาสัมพันธ์" >ประชาสัมพันธ์</a></li><li><a href="https://apres.fda.moph.go.th/FDA_POST_VIEW_CENTER/PUBLIC/DRUG_ALERT" title="แจ้งเตือนภัย" >แจ้งเตือนภัย</a></li><li><a href="https://drug.fda.moph.go.th/orders-food-drug-administration/category/suspend-license" title="คำสั่งพักใช้ใบอนุญาต" >คำสั่งพักใช้ใบอนุญาต</a></li><li><a href="https://drug.fda.moph.go.th/product-surveillance" title="แผนเก็บตัวอย่างเฝ้าระวัง" >แผนเก็บตัวอย่างเฝ้าระวัง</a></li><li><a href="https://drug.fda.moph.go.th/manual-surveillance" title="คู่มือและแบบฟอร์ม" >คู่มือและแบบฟอร์ม</a></li></ul>
+				</div>
+				
+			</div><div class="col-6 col-md-4 col-lg-3 sitemap__col mb-4">
+				<div class="sitemap__lists">
+					<div class="title"><a href="https://drug.fda.moph.go.th/for-staff/"  title="เฉพาะเจ้าหน้าที่" >เฉพาะเจ้าหน้าที่</a></div>
+					<ul></ul>
+				</div>
+				
+			</div>							</div>
+						</div>
+						<hr class="opacity-100">
+					</div>
+								<div class="col-12 col-md-5 order-5">
+											<div class="footer__subscribe mt-3 mt-lg-4 d-flex flex-row">
+							<button type="button" class="btn subscribe__btn ms-auto mt-2 mt-md-0" style="position:relative;" onClick='$("#modal_subscriber").addClass("active");'>Subscribe</button>
+						</div>
+										<div class="footer__followus  mt-4 mt-md-5">
+											</div>
+					<div class="footer__visitor mt-4">
+						<div class="visitor__tabel">ผู้ชมเว็บไซต์ :</div>
+						<div class="visitor__total" id="website_view">
+						</div>
+					</div>
+				</div>
+				<div class="col-12 order-6">
+					<hr class="opacity-100">
+				</div>
+				<div class="col-12 col-md-5 text-center text-md-start order-7 footer__cert">
+					<a href="https://drug.fda.moph.go.th/rss/?content=lowrisk&sort=date_manage&ord=desc&p=1&ppp=10" target="_blank"><img src="https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/rss.png" alt="rss image"></a>
+					<img src="https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/ipv6.png" class="ms-xl-3" alt="ipv6 image">
+					<img src="https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/w3c-html.png" class="ms-xl-3" alt="w3c html image">
+					<img src="https://drug.fda.moph.go.th/themes/fda_v1/assets/images/icon/w3c-css.png" class="ms-xl-3" alt="w3c css image">
+				</div>
+				<div class="col-12 col-md-7 mt-4 mt-md-1 order-8 d-flex justify-content-center justify-content-md-end">
+					<div class="footer__survey footer__link">
+						<ul class='nav-menu menu-location-th'><li class="nav-menu-item"><div class="menu-item__link"><a href="" title="แบบสำรวจการให้บริการด้านข้อมูลเว็บไซต์" >แบบสำรวจการให้บริการด้านข้อมูลเว็บไซต์</a></div></li><li class="nav-menu-item"><div class="menu-item__link"><a href="" title="แบบสำรวจความพีงพอใจต่อเว็บไซต์" >แบบสำรวจความพีงพอใจต่อเว็บไซต์</a></div></li></ul>					</div>
+				</div>
+			</div>
+		</div>
+		<!-- </div> -->
+
+	</footer>
+
+	<div class="copyright">Copyright 2020 | สำนักงานคณะกรรมการอาหารและยา</div>
+	</div><!-- wrapper -->
+
+	
+		<div id='modal_subscriber'>
+			<div id='modal_subscriber_inner'>
+				<div class='d-flex flex-column align-items-center mb-4'>
+					<h2>Subscribe</h2>
+					<p>เลือกหัวข้อที่ท่านต้องการ Subscribe</p>
+				</div>
+				<div class='btn-close' onClick='$("#modal_subscriber").removeClass("active");'>
+					<span class='bi bi-x-lg' aria-hidden='true'></span>
+				</div>
+				
+				<form id='frm_subscribe' name='frm_subscribe' autocomplete='off' method='post'>
+					<input type='hidden' name='csrf_token' value='EGowm0Z73W6y554h'/>
+					<label class='d-none' for='email'>email</label>
+					<input type='email' class='form-control' name='email' id='email' placeholder='Enter your E-mail' value='' required />
+					
+					<ul id='newsletter_group_list' class='d-flex flex-row flex-wrap my-3'>
+						<li class='col-12 col-md-4 item-check'><label class='container' for='497234623080833024'><input type='checkbox' name='newsletter_group_id[]' id='497234623080833024' checked value='497234623080833024'/><span class='checkmark'></span>ดาวรุ่ง</label></li>
+					</ul>
+
+					<div class='d-flex justify-content-center btn-subscriber'>
+						<label class='d-none' for='reset'>reset</label>
+						<input class='btn btn-outline-primary btn-reset-subscriber' type='reset' id='reset' name='reset'/>
+						<input class='btn btn-primary ms-2' type='submit' value='ยืนยัน'/>
+					</div>
+				</form>
+			</div>
+		</div>		<div class="gtranslate_wrapper"></div>
+		<script>window.gtranslateSettings = {"default_language":"th","languages":["th","en"],"wrapper_selector":".gtranslate_wrapper","switcher_horizontal_position":"right","switcher_vertical_position":"top"}</script>
+		<script src="https://cdn.gtranslate.net/widgets/latest/float.js" defer></script>
+	
+  
+  		<style>
+		#chatcone-widget{
+			bottom: 60px !important;
+		}
+		#cc-toggle svg{
+			height: 50px !important;
+		}
+	</style>
+	<script src="https://gppc-cookie-v3.pdpc.or.th//storage/cookie-banner/14f38ab8-564b-47fe-b5be-ad11fd49a2c7/publish.js" defer></script>
+	
+
+
+	<script type="text/javascript" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+
+	<!-- Plugin Bootstrap Select -->
+	<script type="text/javascript" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/bootstap-select/bootstrap-select.min.js"></script>
+	<!-- Plugin Bootstrap Datepicker -->
+	<script type="text/javascript" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
+	<script type="text/javascript" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.th.min.js"></script>
+
+	<!-- Plugin perfect-scrollbar -->
+	<script type="text/javascript" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/perfect-scrollbar/dist/perfect-scrollbar.min.js?ver=1.5.5"></script>
+
+	<!-- Plugin Owl Carousel -->
+	<script type="text/javascript" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/owlCarousel/owl.carousel.min.js"></script>
+
+	<script type="text/javascript" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/js/app.js?v=1778902425"></script>
+
+	<!-- Plugin sweetalert -->
+	<script type="text/javascript" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/sweetalert/src/sweetalert2.min.js"></script>
+
+	<!-- Plugin Lightbox -->
+	<script type="text/javascript" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/lightbox/jquery.magnific-popup.min.js"></script>
+
+	<!-- Plugin masonry -->
+	
+	<script type="text/javascript" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/masonry/masonry.pkgd.min.js"></script>
+	<script type="text/javascript" src="https://drug.fda.moph.go.th/themes/fda_v1/assets/plugins/masonry/imagesloaded.pkgd.min.js"></script>
+	
+	<script type="text/javascript">
+		$(function() {
+			$('.gallery-item').magnificPopup({
+				type: 'image',
+				gallery: {
+					enabled: true
+				}
+			});
+
+			
+
+			
+			updateView();
+
+
+
+			function beforePrint() {
+				// var watermark = document.createElement("div");
+				// watermark.classList.add("watermark");
+				// watermark.innerHTML = "Draft";
+				// document.body.appendChild(watermark);
+
+				var watermark = document.createElement("img");
+				watermark.src = "https://drug.fda.moph.go.th/themes/fda_v1/assets/images/watermark.png";
+				watermark.classList.add("watermark");
+				document.body.appendChild(watermark);
+
+				var elementsToHide = document.querySelectorAll(".no-print");
+				for (var i = 0; i < elementsToHide.length; i++) {
+					elementsToHide[i].style.display = "none";
+				}
+			}
+
+			function afterPrint() {
+				var watermark = document.querySelector(".watermark");
+				watermark.parentNode.removeChild(watermark);
+
+				var elementsToShow = document.querySelectorAll(".no-print");
+				for (var i = 0; i < elementsToShow.length; i++) {
+					elementsToShow[i].style.display = "";
+				}
+			}
+
+			window.onbeforeprint = beforePrint;
+			window.onafterprint = afterPrint;
+		});
+
+		function submitCookie(type) {
+			var data = {
+				cookie1: ($("#cookie1").is(':checked')) ? 1 : 0,
+				cookie2: ($("#cookie2").is(':checked')) ? 1 : 0,
+			};
+			if (type == 1) {
+				data.cookie1 = 1;
+				data.cookie2 = 1;
+			}
+			$("#btn_submit_cookie").addClass("active");
+			setCookie('AcceptCookies', true, '365');
+			$(".cookie-consent").removeClass("show");
+			if (type == 0) {
+				$("#modal_cookie").modal("hide");
+			}
+		}
+
+		function updateView() {
+
+			callAPILocal("POST", "/general/_view.php", {
+				slug: "monograph-of-the-national-list-of-essential-medicines",
+			}).then(function(res) {
+
+				if (res.status == "SUCCESS") {
+					if (res.result.status == "success") {
+
+						let sNumber = res.result.data.website_view_amt.toString();
+						let tpl_website = "";
+						for (var i = 0, len = sNumber.length; i < len; i += 1) {
+							//output.push(+sNumber.charAt(i));
+							tpl_website += "<div class='number'>" + sNumber.charAt(i) + "</div>";
+						}
+
+						$("#website_view").html(tpl_website);
+					}
+				}
+			});
+		}
+
+		$(function() {
+	$('#select_ppp').on('change', function (e) {
+		$('#page').val('1')
+		$('#ppp').val($(this).val())
+		$('#frm_search').submit()
+	});
+	$('#search_btn').on('click', function(e) {
+		$('#page').val('1')
+	})
+});
+
+$('#search_word').on('input', function (event) {
+    let keyword = $(this).val()
+    let options = {
+        "className": "match",
+        "separateWordSearch": false,
+        done: function(e) {
+            console.log();
+            if (e != 0) {
+                $('.single__content mark').first().addClass('highlighted')
+                $('[data-id=form-control-word--match]').text('1 of '+e)
+                $('[data-id=next_h]').prop( "disabled", false )
+                $('[data-id=previous_h]').prop( "disabled", false )
+                let scrollTopA = 0 
+                if ($("header.header").hasClass('fixed')) {
+                    scrollTopA =  $('.match.highlighted').offset().top - 210
+                } else {
+                    scrollTopA =  $('.match.highlighted').offset().top - 260
+                }
+                $("html, body").animate({
+                    scrollTop: scrollTopA
+                }, 300);
+            } else {
+                $('[data-id=form-control-word--match]').text('No matches.')
+            }
+        }
+    }
+    $('.single__content').unmark({
+        done: function() {
+            $('[data-id=next_h]').prop( "disabled", true )
+            $('[data-id=previous_h]').prop( "disabled", true )
+            $('.single__content').mark(keyword, options);
+        }
+    });
+});
+$('[data-id=next_h]').on('click', function () {
+    if($('.single__content .match').length > 0) {
+        $('.single__content .match').each(function(i,e) {
+            if ($(e).hasClass('highlighted')) {
+                $(e).removeClass('highlighted')
+                let m = 1;
+                m = m+i;
+                if (m >= $('.single__content .match').length) {
+                    m = 0;
+                }
+                $('[data-id=form-control-word--match]').text((m+1)+' of '+$('.match').length)
+                $('.single__content .match').eq(m).addClass('highlighted');
+                return false;
+            }
+        });
+        let scrollTopA = 0 
+        if ($("header.header").hasClass('fixed')) {
+            scrollTopA =  $('.match.highlighted').offset().top - 210
+        } else {
+            scrollTopA =  $('.match.highlighted').offset().top - 260
+        }
+        $("html, body").animate({
+            scrollTop: scrollTopA
+        }, 300);
+    }
+});
+$('[data-id=previous_h]').on('click', function () {
+    if($('.single__content .match').length > 0) {
+        $('.single__content .match').each(function(i,e) {
+            if ($(e).hasClass('highlighted')) {
+                $(e).removeClass('highlighted')
+                let m = $('.single__content .match').length;
+                m = m-i;
+                if (m == $('.single__content .match').length) {
+                    m = $('.single__content .match').length-1;
+                }
+                if (i == 1) {
+                    m = 0;
+                }
+                $('[data-id=form-control-word--match]').text((m+1)+' of '+$('.match').length)
+                $('.single__content .match').eq(m).addClass('highlighted');
+                return false;
+            }
+        });
+        let scrollTopA = 0 
+        if ($("header.header").hasClass('fixed')) {
+            scrollTopA =  $('.match.highlighted').offset().top - 210
+        } else {
+            scrollTopA =  $('.match.highlighted').offset().top - 260
+        }
+        $("html, body").animate({
+            scrollTop: scrollTopA
+        }, 300);
+    }
+});
+
+$(function(){
+			$("#frm_subscribe").on("submit",function(e){
+				e.preventDefault();
+				$.ajax({
+					type: "POST",
+					url: api_path_local+"/general/_subscribe.php",
+					data: $("#frm_subscribe").serialize()
+				}).done(function(result){
+					if(result.status=="success"){
+						Swal.fire({
+							title: "Success",
+							text: result.data+" subscribed.",
+							icon: "success",
+							confirmButtonText: "OK",
+							customClass: {
+								confirmButton: "btn-subscribed",
+								}
+						});
+						$("#frm_subscribe").find("[name=csrf_token]").val(result.csrf_token);
+						$("#frm_subscribe").find("[name=email]").val("");
+						$("#modal_subscriber").removeClass("active");
+					}else{
+						Swal.fire({
+							title: "Error",
+							text: "Error Occured."+result.code+": "+result.message,
+							icon: "error",
+							confirmButtonText: "OK",
+							customClass: {
+								confirmButton: "btn-subscribed-error",
+							}
+						});
+					}
+				}).fail(function(result){
+					Swal.fire({
+							title: "Error",
+							text: "Error Occured."+result.responseJSON.code+": "+result.responseJSON.message,
+							icon: "error",
+							confirmButtonText: "OK",
+							customClass: {
+								confirmButton: "btn-subscribed-error",
+							}
+						});
+				});
+			});
+			
+		});    $(document).ready(function(){
+
+        function renderOwlCarousel() {
+            $("#owl-carousel-popup").owlCarousel({
+                loop: false,
+                margin: 10,
+                nav: true,
+                center: true, // add this option
+                responsive:{
+                    0:{
+                        items:1,
+                        margin: 20
+                    },
+                    768: {
+                        items: 1,
+                        margin: 20
+                    },
+                    600:{
+                        items:1,
+                        margin: 30,
+                    },
+                    1000:{
+                        items:1
+                    }
+                },
+            });
+        }
+
+        setTimeout(function () {
+            let pop_c = getCookie("popup");
+
+            if (pop_c){
+                let arr = pop_c.split(",");
+                let count = 0;
+                $.each(arr, function (i, e) {
+                    if ($(".popup-content[data-id="+e+"]").length){
+                        $(".popup-content[data-id="+e+"]").remove();
+                        count++;
+                    }
+                });
+
+                let pop_qty = $("#main-content-popup").attr("popup-qty");
+                if ((count < pop_qty) && (count > 0)){
+                    renderOwlCarousel()
+                    $(".main-content-popup").removeClass("d-none");
+                    setTimeout(function () {
+                        $("#main-content-popup").removeClass("opacity-0");
+                    }, 500);
+                }
+            }else {
+
+                renderOwlCarousel();
+                $(".main-content-popup").removeClass("d-none");
+                setTimeout(function () {
+                    $("#main-content-popup").removeClass("opacity-0");
+                }, 500);
+            }
+        }, 500);
+
+    });
+
+    function closePopup() {
+
+        let ids = [];
+        $("#main-content-popup input:checked").each(function () {
+            ids.push($(this).val())
+        });
+
+        if (ids.length){
+            let pop_c = getCookie("popup");
+            if(pop_c){
+                ids.push(pop_c)
+            }
+            setCookie("popup", ids, 1);
+        }
+
+        $(".main-content-popup").addClass("d-none");
+        $("#main-content-popup").addClass("opacity-0");
+    }
+
+	</script>
+	</body>
+
+	</html>
+    <p class="d-none">no-popup</p>
+<script type="text/javascript">
+    document.addEventListener('click', function(event) {
+        var clickedElement = event.target;
+        var targetElement = document.getElementById('main-content-popup');
+
+        if (clickedElement.contains(targetElement)) {
+            // closePopup();
+        }
+    });
+</script>

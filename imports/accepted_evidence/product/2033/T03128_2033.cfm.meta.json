@@ -1,0 +1,14 @@
+{
+  "source_id": "2033",
+  "task_id": "T03128",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Gaviscon+Dual+Action+sachet+10+ml",
+  "local_path": "imports/accepted_evidence/product/2033/T03128_2033.cfm",
+  "sha256": "e15fee9263828ede96250f7408607d79675169dfc54edf0f3f637084caa74ff3",
+  "downloaded_at": "2026-05-16T03:41:09.198368+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:321:2033",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

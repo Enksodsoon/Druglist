@@ -1,0 +1,14 @@
+{
+  "source_id": "6181",
+  "task_id": "T06325",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Fluorometholone%200%201%20%2BPolyvinyl%20Alcohol%20%2B%20Chloride%2B%20Phosphste%20Monobasic%2B%20Phosphate%20Dibasic%2BPolysorbate%2080%2BPreservative%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/6181/T06325_6181.json",
+  "sha256": "3a572232721f34ed34a9bd9014205715d7540aad2ca9796402055dda2f254319",
+  "downloaded_at": "2026-05-16T03:49:10.529283+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:748:6181",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

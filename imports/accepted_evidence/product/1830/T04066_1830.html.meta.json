@@ -1,0 +1,14 @@
+{
+  "source_id": "1830",
+  "task_id": "T04066",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Exluton",
+  "local_path": "imports/accepted_evidence/product/1830/T04066_1830.html",
+  "sha256": "28dfec1f2b927090f50c1b10032d15a71de813a52d30df5348f2049eb9fde998",
+  "downloaded_at": "2026-05-16T03:43:33.328941+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:444:1830",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

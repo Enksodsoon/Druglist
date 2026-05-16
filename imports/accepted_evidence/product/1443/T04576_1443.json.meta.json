@@ -1,0 +1,14 @@
+{
+  "source_id": "1443",
+  "task_id": "T04576",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Cesoline%20W&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1443/T04576_1443.json",
+  "sha256": "3c970584fba468faea10ff4e4e7d4a4dff2d387cc8a587e61d64c042dec9fb12",
+  "downloaded_at": "2026-05-16T03:44:49.041044+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:518:1443",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

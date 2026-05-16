@@ -1,0 +1,14 @@
+{
+  "source_id": "3432",
+  "task_id": "T07519",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Rhinocort+Aqua",
+  "local_path": "imports/accepted_evidence/product/3432/T07519_3432.html",
+  "sha256": "4d8d3228eae7db781be358faa600daf9bb3eded0a0ce4e7982c3a870a32f7b87",
+  "downloaded_at": "2026-05-16T03:52:15.720622+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:890:3432",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

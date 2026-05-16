@@ -1,0 +1,14 @@
+{
+  "source_id": "1255",
+  "task_id": "T01254",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bromhexine",
+  "local_path": "imports/accepted_evidence/product/1255/T01254_1255.cfm",
+  "sha256": "e60760edcc1cc6848a015c7fed78a51b6fc58cb0305a83f3c5cc28e8ac374733",
+  "downloaded_at": "2026-05-16T03:36:29.522719+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:72:1255|Product_Label_Links:476:40631",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

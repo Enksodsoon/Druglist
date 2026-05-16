@@ -1,0 +1,14 @@
+{
+  "source_id": "2699",
+  "task_id": "T01441",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Mucilin+Orange+SF",
+  "local_path": "imports/accepted_evidence/product/2699/T01441_2699.html",
+  "sha256": "022421dd968efcb5e478f5afb592f2df47d51c0d466c6b6d48a2b0cde7ad6019",
+  "downloaded_at": "2026-05-16T03:37:00.850023+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:97:2699",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

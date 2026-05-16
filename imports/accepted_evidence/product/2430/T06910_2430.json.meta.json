@@ -1,0 +1,14 @@
+{
+  "source_id": "2430",
+  "task_id": "T06910",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Lidocaine%20%2BChamomile%20Flower%20Extract%20%2BEthanol%2050%20v/v%2BTromethamole%201%2037%20w/w%2BPreservative%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2430/T06910_2430.json",
+  "sha256": "3c8cedd7f2cdcc04bb22219cfa2c148cf00ec233b7cba4278c367bd6f68478b7",
+  "downloaded_at": "2026-05-16T03:50:41.761446+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:819:2430",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

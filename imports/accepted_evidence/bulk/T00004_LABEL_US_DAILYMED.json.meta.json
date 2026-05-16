@@ -1,0 +1,14 @@
+{
+  "source_id": "LABEL_US_DAILYMED",
+  "task_id": "T00004",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?pagesize=100&page=1",
+  "local_path": "imports/accepted_evidence/bulk/T00004_LABEL_US_DAILYMED.json",
+  "sha256": "fa92a381a50f630d30512a77b12e632aea9420894340ba002a744b973518afec",
+  "downloaded_at": "2026-05-16T03:33:46.301815+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:2:LABEL_US_DAILYMED|Source_Download_Links:3:LABEL_US_DAILYMED_ZIP",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

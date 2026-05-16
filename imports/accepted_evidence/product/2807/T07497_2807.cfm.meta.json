@@ -1,0 +1,14 @@
+{
+  "source_id": "2807",
+  "task_id": "T07497",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Nasonex+140+doses",
+  "local_path": "imports/accepted_evidence/product/2807/T07497_2807.cfm",
+  "sha256": "ac7f0caf1593d50d356f45bc2a0f59073255dc4bf95d129bd0cb211def3dfebf",
+  "downloaded_at": "2026-05-16T03:52:11.326234+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:888:2807",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

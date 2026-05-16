@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_35",
+  "task_id": "T00383",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=etoricoxib",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001078/T00383_Drug_Label_Links_35.html",
+  "sha256": "f77dc0bca70674728de0347e595b590a269bb1c36e7575bc951fee67f032eb3b",
+  "downloaded_at": "2026-05-16T03:34:30.725782+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:35:Drug_Label_Links_35",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

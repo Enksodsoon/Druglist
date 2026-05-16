@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:hl7-org:v3" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="4ef8be57-98e8-20a9-e063-6394a90ab779"/>
+   <code code="34390-5" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN OTC DRUG LABEL"/>
+   <title>Dr. Simi Fexofenadine HCl Tablets, 180 mg</title>
+   <effectiveTime value="20260408"/>
+   <setId root="49753406-729b-e48f-e063-6394a90a722a"/>
+   <versionNumber value="2"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id root="1.3.6.1.4.1.519.1" extension="119489934"/>
+            <name>Farmacias De Similares TX LLC</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id root="1.3.6.1.4.1.519.1" extension="918609236"/>
+                        <name>Granules India Limited</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" displayName="manufacture" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="85786-204" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id root="1.3.6.1.4.1.519.1" extension="181192162"/>
+                        <name>AAA Pharmaceutical, Inc.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84731" displayName="pack" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="85786-204" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="4f607a02-4f1b-5fa0-e063-6394a90a8210"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20260408"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="85786-204" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Fexofenadine HCl 180 mg</name>
+                        <formCode code="C42998" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TABLET"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Fexofenadine HCl</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="M28OL1HH48" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CROSCARMELLOSE SODIUM</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="EWQ57Q8I5X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>LACTOSE MONOHYDRATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="O8232NY3SJ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>STARCH, CORN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="30IQX730WE" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POLYETHYLENE GLYCOL 6000</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="EX438O2MRT" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERRIC OXIDE YELLOW</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="15FIX9V2JP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TITANIUM DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="ETJ7Z6XBU4" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SILICON DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="180"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="2S068B75ZU" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FEXOFENADINE HYDROCHLORIDE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="E6582LOH6V" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>FEXOFENADINE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="36SFW2JZ0W" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HYPROMELLOSE 2910 (15 MPA.S)</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="XM0M87F357" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERROSOFERRIC OXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="1K09F3G675" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERRIC OXIDE RED</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="OP1R32D61U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MICROCRYSTALLINE CELLULOSE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="30" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43173" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE, PLASTIC"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="85786-204-30" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20260408"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="ANDA211075" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73584" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20260408"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48336" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CAPSULE" xsi:type="CE">
+                              <originalText/>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="17" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">G6</value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48331" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="orange" xsi:type="CE">
+                              <originalText>Peach</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4ef92f63-a793-d629-e063-6394a90a7bdf">
+               <id root="4ef92f63-a792-d629-e063-6394a90a7bdf"/>
+               <code code="55106-9" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - ACTIVE INGREDIENT SECTION"/>
+               <title>
+                  <content styleCode="italics">
+                     <content styleCode="bold">Drug Facts 
+   <br/>
+                        <br/>
+                        <br/>
+Active ingredient (in each tablet)
+  </content>
+                  </content>
+               </title>
+               <text>
+                  <paragraph>Fexofenadine HCl 180 mg</paragraph>
+               </text>
+               <effectiveTime value="20260408"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4ef930d1-dbf9-f1a4-e063-6394a90a5dc6">
+               <id root="4ef930d1-dbf8-f1a4-e063-6394a90a5dc6"/>
+               <code code="55105-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - PURPOSE SECTION"/>
+               <title>
+                  <content styleCode="italics">
+                     <content styleCode="bold">Purpose</content>
+                  </content>
+               </title>
+               <text>
+                  <paragraph>Antihistamine</paragraph>
+               </text>
+               <effectiveTime value="20260408"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4ef92a87-c6aa-035f-e063-6294a90a0684">
+               <id root="4ef92a87-c6a9-035f-e063-6294a90a0684"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>
+                  <content styleCode="italics">
+                     <content styleCode="bold">Uses</content>
+                  </content>
+               </title>
+               <text>
+                  <paragraph>temporarily relieves these symptoms due to hay fever or other upper respiratory allergies:
+  <br/>
+■ runny nose
+  <br/>
+■ sneezing
+  <br/>
+■ itchy, watery eyes
+  <br/>
+■ itching of the nose or throat
+ </paragraph>
+               </text>
+               <effectiveTime value="20260408"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4ef93689-c3db-17be-e063-6294a90ac987">
+               <id root="4ef93689-c3da-17be-e063-6294a90ac987"/>
+               <code code="34071-1" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS SECTION"/>
+               <title>
+                  <content styleCode="italics">
+                     <content styleCode="bold">Warnings</content>
+                  </content>
+               </title>
+               <text>
+                  <paragraph>.</paragraph>
+               </text>
+               <effectiveTime value="20260408"/>
+               <component>
+                  <section ID="id_link_4ef93b0c-69f6-ebe8-e063-6294a90af328">
+                     <id root="4ef93b0c-69f5-ebe8-e063-6294a90af328"/>
+                     <code code="50570-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - DO NOT USE SECTION"/>
+                     <title>
+                        <content styleCode="bold">Do not use</content>
+                     </title>
+                     <text>
+                        <paragraph>if you have ever had an allergic reaction to this product or any of its ingredients.</paragraph>
+                     </text>
+                     <effectiveTime value="20260408"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="id_link_4ef9378e-7399-fd4e-e063-6394a90af8f9">
+                     <id root="4ef9378e-7398-fd4e-e063-6394a90af8f9"/>
+                     <code code="50569-3" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - ASK DOCTOR SECTION"/>
+                     <title>
+                        <content styleCode="bold">Ask a doctor before use if you have</content>
+                     </title>
+                     <text>
+                        <paragraph>kidney disease. Your doctor should determine if you need a different dose.</paragraph>
+                     </text>
+                     <effectiveTime value="20260408"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="id_link_4ef943da-2704-f741-e063-6394a90a9d3c">
+                     <id root="4ef943da-2703-f741-e063-6394a90a9d3c"/>
+                     <code code="50567-7" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - WHEN USING SECTION"/>
+                     <title>
+                        <content styleCode="bold">When using this product</content>
+                     </title>
+                     <text>
+                        <paragraph>■ do not take more than directed
+  <br/>
+■ do not take at the same time as aluminum or magnesium antacids
+  <br/>
+■ do not take with fruit juices (see Directions)
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20260408"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="id_link_4ef94673-c188-2f13-e063-6294a90a8cda">
+                     <id root="4ef94673-c187-2f13-e063-6294a90a8cda"/>
+                     <code code="50566-9" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - STOP USE SECTION"/>
+                     <title>
+                        <content styleCode="bold">Stop use and ask a doctor if</content>
+                     </title>
+                     <text>
+                        <paragraph>an allergic reaction to this product occurs. Seek medical help right away.</paragraph>
+                     </text>
+                     <effectiveTime value="20260408"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="id_link_4ef94b50-c9ca-07b8-e063-6394a90ad2cd">
+                     <id root="4ef94b50-c9c9-07b8-e063-6394a90ad2cd"/>
+                     <code code="53414-9" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - PREGNANCY OR BREAST FEEDING SECTION"/>
+                     <title>
+                        <content styleCode="bold">If pregnant or breast-feeding,</content>
+                     </title>
+                     <text>
+                        <paragraph>ask a health professional before use.</paragraph>
+                     </text>
+                     <effectiveTime value="20260408"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="id_link_4ef94b50-c9cc-07b8-e063-6394a90ad2cd">
+                     <id root="4ef94b50-c9cb-07b8-e063-6394a90ad2cd"/>
+                     <code code="50565-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - KEEP OUT OF REACH OF CHILDREN SECTION"/>
+                     <title>
+                        <content styleCode="bold">Keep out of reach of children.</content>
+                     </title>
+                     <text>
+                        <paragraph>In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).</paragraph>
+                     </text>
+                     <effectiveTime value="20260408"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4ef95787-7687-0e40-e063-6394a90a7af1">
+               <id root="4ef95787-7686-0e40-e063-6394a90a7af1"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>
+                  <content styleCode="italics">
+                     <content styleCode="bold">Directions</content>
+                  </content>
+               </title>
+               <text>
+                  <table border="0" width="40%">
+                     <tbody>
+                        <tr>
+                           <td>adults and children 12 years of age and over</td>
+                           <td>
+                              <paragraph>take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>children under 12 years of age</td>
+                           <td>
+                              <paragraph>do not use</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>adults 65 years of age and older</td>
+                           <td>ask a doctor</td>
+                        </tr>
+                        <tr>
+                           <td>consumers with kidney disease</td>
+                           <td>ask a doctor</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20260401"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4ef96018-8006-42d9-e063-6294a90a7d1a">
+               <id root="4ef96018-8005-42d9-e063-6294a90a7d1a"/>
+               <code code="60561-8" codeSystem="2.16.840.1.113883.6.1" displayName="OTHER SAFETY INFORMATION"/>
+               <title>
+                  <content styleCode="bold">
+                     <content styleCode="italics">Other information</content>
+                  </content>
+               </title>
+               <text>
+                  <paragraph>■ store between 20-25°C (68-77°F)
+  <br/>
+■ protect from excessive moisture
+  <br/>
+■ retain carton for complete product information and warnings
+ </paragraph>
+               </text>
+               <effectiveTime value="20260408"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4ef96255-083b-4b50-e063-6294a90a43ad">
+               <id root="4ef96255-083a-4b50-e063-6294a90a43ad"/>
+               <code code="51727-6" codeSystem="2.16.840.1.113883.6.1" displayName="INACTIVE INGREDIENT SECTION"/>
+               <title>
+                  <content styleCode="italics">
+                     <content styleCode="bold">Inactive ingredients</content>
+                  </content>
+               </title>
+               <text>
+                  <paragraph>colloidal silicon dioxide, croscarmellose sodium, hypromellose, iron oxide black, iron oxide red, iron oxide yellow, lactose monohydrate, macrogol, magnesium stearate, microcrystalline cellulose, pregelatinized starch, titanium dioxide</paragraph>
+               </text>
+               <effectiveTime value="20260408"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4ef960e0-9096-2267-e063-6394a90ae857">
+               <id root="4ef960e0-9095-2267-e063-6394a90ae857"/>
+               <code code="53413-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - QUESTIONS SECTION"/>
+               <title>
+                  <content styleCode="italics">
+                     <content styleCode="bold">Questions or comments?</content>
+                  </content>
+               </title>
+               <text>
+                  <paragraph>855-280-1079</paragraph>
+               </text>
+               <effectiveTime value="20260408"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4ef96255-083d-4b50-e063-6294a90a43ad">
+               <id root="4f6056d0-54d6-4112-e063-6294a90a2ed3"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <title>
+                  <content styleCode="bold">Principal Display Panel</content>
+               </title>
+               <text>
+                  <paragraph>NDC: 85786-204-30</paragraph>
+                  <paragraph>DR. SIMI</paragraph>
+                  <paragraph>Non-Drowsy
+  <br/>
+Allergy Relief
+ </paragraph>
+                  <paragraph>Fexofenadine HCl Tablets, 180 mg</paragraph>
+                  <paragraph>Antihistamine</paragraph>
+                  <paragraph>Indoor / Outdoor Allergy Relief ■ Sneezing ■ Runny Nose ■ Itchy, Watery Eyes ■ Itchy Nose or Throat</paragraph>
+                  <paragraph>24 Hour</paragraph>
+                  <paragraph>30 TABLETS</paragraph>
+                  <paragraph>†Compare to the active ingredient in Allegra® 24 Hour</paragraph>
+                  <paragraph>†This product is not manufactured or distributed by Chattem, Inc., distributor of Allegra® 24 Hour.</paragraph>
+                  <paragraph>Made in India</paragraph>
+                  <paragraph>Distributed by:
+  <br/>
+FARMACIAS DE SIMILARES TX LLC
+  <br/>
+800 Brazos St Ste 260, Austin, TX, 78701, USA
+  <br/>
+customerservice@drsimi.com
+  <br/>
+www.drsimi.com
+ </paragraph>
+               </text>
+               <effectiveTime value="20260408"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4ef97585-7fd8-1db8-e063-6294a90a4bad">
+               <id root="4ef96d17-1866-3749-e063-6394a90a76b9"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>
+                  <content styleCode="bold">Carton Labeling</content>
+               </title>
+               <text>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_4ef96255-083e-4b50-e063-6294a90a43ad"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20260408"/>
+               <component>
+                  <observationMedia ID="img_4ef96255-083e-4b50-e063-6294a90a43ad">
+                     <text>Outer</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Fexofenadine HCl - PDP .jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

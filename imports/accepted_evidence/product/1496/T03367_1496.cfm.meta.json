@@ -1,0 +1,14 @@
+{
+  "source_id": "1496",
+  "task_id": "T03367",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ciprofloxacin",
+  "local_path": "imports/accepted_evidence/product/1496/T03367_1496.cfm",
+  "sha256": "47bc175dfbe0f50b2eaa055a90e2f36d6d29a3451432c306ffdeb390678fe274",
+  "downloaded_at": "2026-05-16T03:41:44.898372+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:353:1496|Product_Label_Links:354:41409|Product_Label_Links:355:8114|Product_Label_Links:362:7238",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

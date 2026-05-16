@@ -1,0 +1,14 @@
+{
+  "source_id": "2822",
+  "task_id": "T03754",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Neurobion",
+  "local_path": "imports/accepted_evidence/product/2822/T03754_2822.cfm",
+  "sha256": "c4c032a552a3867342f65d1806e6354eb2a84bd5b5ce21551666ac1cf3e2ff9f",
+  "downloaded_at": "2026-05-16T03:42:43.877603+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:405:2822",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

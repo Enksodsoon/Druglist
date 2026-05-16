@@ -1,0 +1,14 @@
+{
+  "source_id": "1664",
+  "task_id": "T01368",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Bisacodyl%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1664/T01368_1664.json",
+  "sha256": "6fbd2f7fdcc0b554707145f8f616108445c2a7e3ee950478e53b5ae9830e40d2",
+  "downloaded_at": "2026-05-16T03:36:46.911394+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:89:1664|Product_Label_Links:91:1837|Product_Label_Links:480:8201",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

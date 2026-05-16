@@ -1,0 +1,14 @@
+{
+  "source_id": "3505",
+  "task_id": "T01400",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Fybogel%20Orange&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3505/T01400_3505.json",
+  "sha256": "2d034ac00b9136a4380e1ca739cc2687e48405c7c0f4301db4029f20b14f086c",
+  "downloaded_at": "2026-05-16T03:36:50.591254+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:93:3505",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

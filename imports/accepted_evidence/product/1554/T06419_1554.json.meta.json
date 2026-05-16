@@ -1,0 +1,14 @@
+{
+  "source_id": "1554",
+  "task_id": "T06419",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Cellufresh%20MD%20%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1554/T06419_1554.json",
+  "sha256": "dab116a4149e5e6356e2d0e9c6c7314ecdb85d9cd9cc6b2e4bb4d3a270899216",
+  "downloaded_at": "2026-05-16T03:49:25.103274+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:758:1554",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

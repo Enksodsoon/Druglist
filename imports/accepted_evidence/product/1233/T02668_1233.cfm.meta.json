@@ -1,0 +1,14 @@
+{
+  "source_id": "1233",
+  "task_id": "T02668",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bioflor+Capsule",
+  "local_path": "imports/accepted_evidence/product/1233/T02668_1233.cfm",
+  "sha256": "d98c4dd3fa4827bf650fb1d7118c1d68f2124464f339156aa789da4c922d6e02",
+  "downloaded_at": "2026-05-16T03:39:59.681108+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:263:1233",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

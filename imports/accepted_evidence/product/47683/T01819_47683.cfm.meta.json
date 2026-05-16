@@ -1,0 +1,14 @@
+{
+  "source_id": "47683",
+  "task_id": "T01819",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=bicarbonate+%2BPeppermint+Oil",
+  "local_path": "imports/accepted_evidence/product/47683/T01819_47683.cfm",
+  "sha256": "2952aec41a110c4213616dbdd52db4e84c7f8435c7189e604dbe41608197e4c6",
+  "downloaded_at": "2026-05-16T03:37:54.289304+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:142:47683",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

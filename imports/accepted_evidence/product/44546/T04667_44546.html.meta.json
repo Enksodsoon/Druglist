@@ -1,0 +1,14 @@
+{
+  "source_id": "44546",
+  "task_id": "T04667",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Lanzaar+50",
+  "local_path": "imports/accepted_evidence/product/44546/T04667_44546.html",
+  "sha256": "28d7fd7378765368e36c2bb40e2f9a36e4440e98c96088980c13dd6480e0f4ce",
+  "downloaded_at": "2026-05-16T03:45:02.357316+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:529:44546",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_62",
+  "task_id": "T00603",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=simethicone%2Bpancreatin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds002043/T00603_Drug_Label_Links_62.xml",
+  "sha256": "28a80522719013c96b8f8466842c4853821b4c96b039dd29391501bb848f1583",
+  "downloaded_at": "2026-05-16T03:35:01.445311+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:62:Drug_Label_Links_62",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

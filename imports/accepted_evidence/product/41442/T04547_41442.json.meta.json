@@ -1,0 +1,14 @@
+{
+  "source_id": "41442",
+  "task_id": "T04547",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Carvedilol&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/41442/T04547_41442.json",
+  "sha256": "5b58dc1a03196a48e06a55fea671c942837eca58f8dc1223d64df022bf0d57f4",
+  "downloaded_at": "2026-05-16T03:44:45.487563+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:515:41442",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

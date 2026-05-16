@@ -1,0 +1,14 @@
+{
+  "source_id": "49778",
+  "task_id": "T01228",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Zirin",
+  "local_path": "imports/accepted_evidence/product/49778/T01228_49778.cfm",
+  "sha256": "917117b1109b877796ffd06f1111ab7833a97e55756690d6694492c07e3e7c7b",
+  "downloaded_at": "2026-05-16T03:36:25.952486+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:67:49778",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

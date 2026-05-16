@@ -1,0 +1,14 @@
+{
+  "source_id": "2670",
+  "task_id": "T04134",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Minny-21",
+  "local_path": "imports/accepted_evidence/product/2670/T04134_2670.cfm",
+  "sha256": "7042755fbf93b042eb91c3c38361437b0b732ef1e10025494ca9dad09cab738f",
+  "downloaded_at": "2026-05-16T03:43:43.302526+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:455:2670",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

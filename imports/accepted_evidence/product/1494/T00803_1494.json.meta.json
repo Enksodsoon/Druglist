@@ -1,0 +1,14 @@
+{
+  "source_id": "1494",
+  "task_id": "T00803",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Azithromycin%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1494/T00803_1494.json",
+  "sha256": "fb11e8696c3b115b5cddc065228e84e4630ce5bc6c565990a873354a7a8648b5",
+  "downloaded_at": "2026-05-16T03:35:30.308654+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:6:1494|Product_Label_Links:7:6115|Product_Label_Links:14:1943|Product_Label_Links:24:49776",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

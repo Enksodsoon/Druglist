@@ -1,0 +1,14 @@
+{
+  "source_id": "43800",
+  "task_id": "T06457",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Hialid+0.1+Opthalmic+Solution",
+  "local_path": "imports/accepted_evidence/product/43800/T06457_43800.cfm",
+  "sha256": "a188ac34ef583eeacda8f8fe3bccc4dd7f7298ccba8278e6f56e1206fcccf430",
+  "downloaded_at": "2026-05-16T03:49:31.656372+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:762:43800",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3645",
+  "task_id": "T02778",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Salbulin+Syrup",
+  "local_path": "imports/accepted_evidence/product/3645/T02778_3645.cfm",
+  "sha256": "17b75e57bd8e1c15db443e2066d480f6a7c549527a1b349dc1da52b5a56949ad",
+  "downloaded_at": "2026-05-16T03:40:15.698832+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:275:3645",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

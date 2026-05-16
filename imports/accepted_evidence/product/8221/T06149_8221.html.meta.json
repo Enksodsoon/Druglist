@@ -1,0 +1,14 @@
+{
+  "source_id": "8221",
+  "task_id": "T06149",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Tara-Plus+Cream",
+  "local_path": "imports/accepted_evidence/product/8221/T06149_8221.html",
+  "sha256": "704b5f3f3edbb6f5c864d0e872f94dc268152342e3b493853de424c3e04f0fee",
+  "downloaded_at": "2026-05-16T03:48:43.549546+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:727:8221",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

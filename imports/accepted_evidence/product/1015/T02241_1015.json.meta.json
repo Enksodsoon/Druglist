@@ -1,0 +1,14 @@
+{
+  "source_id": "1015",
+  "task_id": "T02241",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Desloratadine%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1015/T02241_1015.json",
+  "sha256": "e7ca46e0d0396b93152c645f52be3bd14814649bdf333c0bb528d8d5911a7698",
+  "downloaded_at": "2026-05-16T03:38:55.403304+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:202:1015|Product_Label_Links:207:44519",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

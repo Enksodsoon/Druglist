@@ -1,0 +1,14 @@
+{
+  "source_id": "2643",
+  "task_id": "T01343",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Mucosolvan",
+  "local_path": "imports/accepted_evidence/product/2643/T01343_2643.cfm",
+  "sha256": "8fcc9d49c534f1cd4e667d3eed115ca5738be1e799c15becfdbb95e5bb1f0803",
+  "downloaded_at": "2026-05-16T03:36:42.753572+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:85:2643",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "4153",
+  "task_id": "T04195",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Yasmin-21&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/4153/T04195_4153.json",
+  "sha256": "792905face79b45c736f720937b7484bb0157e0e0412bc3e9d047f5a3d753bb2",
+  "downloaded_at": "2026-05-16T03:43:52.996777+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:465:4153",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

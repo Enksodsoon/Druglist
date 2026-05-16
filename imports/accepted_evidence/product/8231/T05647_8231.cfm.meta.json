@@ -1,0 +1,14 @@
+{
+  "source_id": "8231",
+  "task_id": "T05647",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Mulacin+Ointment",
+  "local_path": "imports/accepted_evidence/product/8231/T05647_8231.cfm",
+  "sha256": "d1c6fa10bc0d613bc08db1b08537f029f51a51719c2f2b008270d57664d0cbac",
+  "downloaded_at": "2026-05-16T03:47:27.972139+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:662:8231",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

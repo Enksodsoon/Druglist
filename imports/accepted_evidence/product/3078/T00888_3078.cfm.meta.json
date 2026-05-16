@@ -1,0 +1,14 @@
+{
+  "source_id": "3078",
+  "task_id": "T00888",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Omnicef+100+mg",
+  "local_path": "imports/accepted_evidence/product/3078/T00888_3078.cfm",
+  "sha256": "f7fb468a7b6249f16209eb0c7ac6db940a707f079a1df7484d5fc79eb6a08a2a",
+  "downloaded_at": "2026-05-16T03:35:40.003221+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:18:3078",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "44553",
+  "task_id": "T01098",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Levocetirizine%20dihydrochloride%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/44553/T01098_44553.json",
+  "sha256": "403da6041a97363d36af643bb41c0c314d819523b2be6e3606ddeca5279a1845",
+  "downloaded_at": "2026-05-16T03:36:09.128187+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:47:44553|Product_Label_Links:64:4130",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3032",
+  "task_id": "T04149",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=OC-35",
+  "local_path": "imports/accepted_evidence/product/3032/T04149_3032.cfm",
+  "sha256": "51b94128681d3e556c049c95b215780af82e98759445419c3bc22c18eed166e5",
+  "downloaded_at": "2026-05-16T03:43:46.226587+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:458:3032",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

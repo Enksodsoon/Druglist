@@ -1,0 +1,14 @@
+{
+  "source_id": "1420",
+  "task_id": "T06702",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Canesten+Vaginal+tabs.+6s",
+  "local_path": "imports/accepted_evidence/product/1420/T06702_1420.cfm",
+  "sha256": "f1b77e15249b08352892756567c7f55258ffe60598ea5dd0e2a837f6a6a43f6f",
+  "downloaded_at": "2026-05-16T03:50:10.842618+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:790:1420",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

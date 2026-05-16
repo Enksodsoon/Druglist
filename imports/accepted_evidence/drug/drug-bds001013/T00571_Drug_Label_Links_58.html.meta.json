@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_58",
+  "task_id": "T00571",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=simethicone+drops",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001013/T00571_Drug_Label_Links_58.html",
+  "sha256": "6c1b28cb497e281df355fa140de81442c7ba025091de6ac2abbff2e33331c0fe",
+  "downloaded_at": "2026-05-16T03:34:56.253873+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:58:Drug_Label_Links_58",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

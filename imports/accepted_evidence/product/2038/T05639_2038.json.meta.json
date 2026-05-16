@@ -1,0 +1,14 @@
+{
+  "source_id": "2038",
+  "task_id": "T05639",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Gentrex%20Cream&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2038/T05639_2038.json",
+  "sha256": "af5d45d20eb6ccf6f67b8c069f53da713263432b124135e8bae0993ce284c8cb",
+  "downloaded_at": "2026-05-16T03:47:26.262689+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:661:2038",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

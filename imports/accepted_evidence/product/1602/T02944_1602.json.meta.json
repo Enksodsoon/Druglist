@@ -1,0 +1,14 @@
+{
+  "source_id": "1602",
+  "task_id": "T02944",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Daflon%20500%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1602/T02944_1602.json",
+  "sha256": "814fb58d569d0f636a77a61f4a74a7c585cd1721a95459be5eba17c45096aae6",
+  "downloaded_at": "2026-05-16T03:40:40.933293+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:296:1602",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

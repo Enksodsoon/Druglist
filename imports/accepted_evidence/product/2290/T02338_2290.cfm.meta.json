@@ -1,0 +1,14 @@
+{
+  "source_id": "2290",
+  "task_id": "T02338",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ivorin+Syrup",
+  "local_path": "imports/accepted_evidence/product/2290/T02338_2290.cfm",
+  "sha256": "61bad1824f35cc3298331ddaa33110ceeff1861369d9985f3811d2007837c722",
+  "downloaded_at": "2026-05-16T03:39:09.362787+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:214:2290",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

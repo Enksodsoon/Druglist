@@ -1,0 +1,14 @@
+{
+  "source_id": "3110",
+  "task_id": "T01646",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Lansoprazole&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3110/T01646_3110.json",
+  "sha256": "adc70a5325da7b7a9965a6f3845d812f529c84b7551b00fe9454693ace646a79",
+  "downloaded_at": "2026-05-16T03:37:28.289004+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:121:3110",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

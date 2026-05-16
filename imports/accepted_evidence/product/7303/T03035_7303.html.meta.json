@@ -1,0 +1,14 @@
+{
+  "source_id": "7303",
+  "task_id": "T03035",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Spacovin+40",
+  "local_path": "imports/accepted_evidence/product/7303/T03035_7303.html",
+  "sha256": "5e630eaef294b98f19be786ad3d9565fdb2c1a7b647a5309469c3c1d08d31a53",
+  "downloaded_at": "2026-05-16T03:40:54.825662+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:308:7303",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

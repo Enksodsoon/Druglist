@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_US_AAO_RHINITIS",
+  "task_id": "T00048",
+  "source_url": "https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/allergic-rhinitis/",
+  "local_path": "imports/accepted_evidence/bulk/T00048_GUIDE_US_AAO_RHINITIS.html",
+  "sha256": "b2b3bc35ec042b2b2491251890231140f8b917fcc35ba852e01908cbf4553e90",
+  "downloaded_at": "2026-05-16T03:33:47.674232+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:19:GUIDE_US_AAO_RHINITIS|Disease_Download_Map:2:allergic_rhinitis_adult|Disease_Download_Map:42:allergic_rhinitis_congestion_adult|Disease_Download_Map:87:allergic_rhinitis_peds",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

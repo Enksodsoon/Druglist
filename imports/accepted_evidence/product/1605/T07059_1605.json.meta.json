@@ -1,0 +1,14 @@
+{
+  "source_id": "1605",
+  "task_id": "T07059",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Doproct%20Suppository&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1605/T07059_1605.json",
+  "sha256": "df6df88db273e9a85c7c73ad66a7a51b988afb7a22c51bc82e2006ab09934236",
+  "downloaded_at": "2026-05-16T03:51:03.776546+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:839:1605",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

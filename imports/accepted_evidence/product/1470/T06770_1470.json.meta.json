@@ -1,0 +1,14 @@
+{
+  "source_id": "1470",
+  "task_id": "T06770",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Piroxicam%200%205%20%2BMethyl%20salicylate%2010%202%20%2BMenthol%205%2043%20%2BEugenol%201%2037&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1470/T06770_1470.json",
+  "sha256": "5f749a60e5581ad29557b6f8fbdc256c5741bbaac50e2dad18a4446696168582",
+  "downloaded_at": "2026-05-16T03:50:20.351183+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:799:1470",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "44313",
+  "task_id": "T05384",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Klean%20%26%20Kare%20Saline%20%28ANB%29&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/44313/T05384_44313.json",
+  "sha256": "f56646e422d517eb988928fa09e1bd6de291e2589f6b7929e2c64d5d03060c3a",
+  "downloaded_at": "2026-05-16T03:46:46.653123+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:630:44313",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

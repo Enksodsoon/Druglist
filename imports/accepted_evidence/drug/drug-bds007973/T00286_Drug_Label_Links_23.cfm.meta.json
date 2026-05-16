@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_23",
+  "task_id": "T00286",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=cough+combo",
+  "local_path": "imports/accepted_evidence/drug/drug-bds007973/T00286_Drug_Label_Links_23.cfm",
+  "sha256": "5a66b7ae78ae3c2c5218a4d77cddf665d594711a52dda47566074d7481aad2fd",
+  "downloaded_at": "2026-05-16T03:34:17.751344+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:23:Drug_Label_Links_23",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

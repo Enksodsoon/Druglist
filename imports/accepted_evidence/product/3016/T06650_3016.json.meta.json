@@ -1,0 +1,14 @@
+{
+  "source_id": "3016",
+  "task_id": "T06650",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Distilled%20Witch%20Hazel%2013%200%20v/v%2BBenzalkonium%20Chloride%200%20005%20w/v%2BBorax%2BBoric%20Acid/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3016/T06650_3016.json",
+  "sha256": "2075cdb3c8dd9ea156aef48574ab4e6cb9d14d3a8d8965a2ab17bfd3439df9eb",
+  "downloaded_at": "2026-05-16T03:50:03.004183+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:783:3016",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

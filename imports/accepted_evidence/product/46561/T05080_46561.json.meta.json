@@ -1,0 +1,14 @@
+{
+  "source_id": "46561",
+  "task_id": "T05080",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Pencor%202&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/46561/T05080_46561.json",
+  "sha256": "9b49660cec8244bf87c9e3fe1f51ebbabffaabde20128c57d8b6875ca0785b3a",
+  "downloaded_at": "2026-05-16T03:46:03.160058+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:591:46561",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

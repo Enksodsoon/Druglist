@@ -1,0 +1,14 @@
+{
+  "source_id": "1666",
+  "task_id": "T05085",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Phenytoin",
+  "local_path": "imports/accepted_evidence/product/1666/T05085_1666.cfm",
+  "sha256": "fa35f3066b8f58b812ce8e04013b5a5a71299f3966f94f17c9a7bdc6ac3c766c",
+  "downloaded_at": "2026-05-16T03:46:04.421158+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:592:1666",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "4043",
+  "task_id": "T06893",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Voltaren%20Emulgel%20%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/4043/T06893_4043.json",
+  "sha256": "ca3db1702a22a4093af331d9662546d390615585135a95a03bf2893a1f91feee",
+  "downloaded_at": "2026-05-16T03:50:38.290394+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:816:4043",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

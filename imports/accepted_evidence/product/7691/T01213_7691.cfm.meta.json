@@ -1,0 +1,14 @@
+{
+  "source_id": "7691",
+  "task_id": "T01213",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Zatifen",
+  "local_path": "imports/accepted_evidence/product/7691/T01213_7691.cfm",
+  "sha256": "e383ff8ac283ed5b1bb76580baa91e813ca14b105e68c2ea1ee3e263d8755230",
+  "downloaded_at": "2026-05-16T03:36:24.366251+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:65:7691",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

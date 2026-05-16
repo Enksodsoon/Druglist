@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_35",
+  "task_id": "T00380",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=etoricoxib&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001078/T00380_Drug_Label_Links_35.json",
+  "sha256": "f7ceeafe6b987b911e8afb69e0a8766fb26c502ab7759cd4589ef80ad393c473",
+  "downloaded_at": "2026-05-16T03:34:29.352228+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:35:Drug_Label_Links_35",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

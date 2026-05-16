@@ -1,0 +1,14 @@
+{
+  "source_id": "7953",
+  "task_id": "T06712",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Gynosten-500",
+  "local_path": "imports/accepted_evidence/product/7953/T06712_7953.cfm",
+  "sha256": "e40d89df20ddeb772603d3bf7ad865369fb3019115ca736b5b6f2bf5b8bdeb0a",
+  "downloaded_at": "2026-05-16T03:50:12.441856+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:792:7953",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

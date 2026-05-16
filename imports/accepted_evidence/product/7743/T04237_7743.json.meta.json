@@ -1,0 +1,14 @@
+{
+  "source_id": "7743",
+  "task_id": "T04237",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Glucosamine%20sulfate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7743/T04237_7743.json",
+  "sha256": "1b0a04af210cc0c91cc24fd5d1142b5398ca01104c648939031f2a47f6420c4f",
+  "downloaded_at": "2026-05-16T03:43:59.123239+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:470:7743|Product_Label_Links:471:43605|Product_Label_Links:472:7739|Product_Label_Links:473:7225",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

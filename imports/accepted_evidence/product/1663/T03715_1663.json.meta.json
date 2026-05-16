@@ -1,0 +1,14 @@
+{
+  "source_id": "1663",
+  "task_id": "T03715",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dramamine&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1663/T03715_1663.json",
+  "sha256": "7dc70d9612631fc59f279dea4fc1aa3f42137f3cdef4255b480e7cfc247a383e",
+  "downloaded_at": "2026-05-16T03:42:38.781306+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:400:1663",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

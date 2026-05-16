@@ -1,0 +1,14 @@
+{
+  "source_id": "1494",
+  "task_id": "T00801",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Azithromycin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1494/T00801_1494.json",
+  "sha256": "b9260c3174394dda43518dab24bcffb68e02f5d2434f433fa8ff55908159871c",
+  "downloaded_at": "2026-05-16T03:35:29.050731+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:6:1494|Product_Label_Links:7:6115|Product_Label_Links:14:1943|Product_Label_Links:24:49776",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

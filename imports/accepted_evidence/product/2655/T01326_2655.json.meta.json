@@ -1,0 +1,14 @@
+{
+  "source_id": "2655",
+  "task_id": "T01326",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ambroxol&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2655/T01326_2655.json",
+  "sha256": "664b05cdaf6712b513d0ab6a33d4b1f5842251be36f1677833606af32616ea49",
+  "downloaded_at": "2026-05-16T03:36:40.796529+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:82:2655|Product_Label_Links:85:2643|Product_Label_Links:86:2639|Product_Label_Links:424:3591|Product_Label_Links:425:3642|Product_Label_Links:426:3641|Product_Label_Links:478:7196|Product_Label_Links:479:7601",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

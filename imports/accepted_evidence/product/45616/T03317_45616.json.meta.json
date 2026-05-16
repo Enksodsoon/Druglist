@@ -1,0 +1,14 @@
+{
+  "source_id": "45616",
+  "task_id": "T03317",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Norpa%20tabslets&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/45616/T03317_45616.json",
+  "sha256": "613708e6c5ea49d2f5f08f058ade19e59a83e3e6ebbac299de8fadd745d427f3",
+  "downloaded_at": "2026-05-16T03:41:37.566552+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:346:45616",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

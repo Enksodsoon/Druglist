@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 3
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Senokot standardized senna concentrate SENNOSIDES SENNOSIDES CROSCARMELLOSE SODIUM CALCIUM PHOSPHATE, DIBASIC, ANHYDROUS HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MALTODEXTRIN CELLULOSE, MICROCRYSTALLINE MINERAL OIL POLYETHYLENE GLYCOL, UNSPECIFIED TALC S 50 Tablets Label 50 Tablets Leaflet 50 Tablets Carton 100 Tablets Label 100 Tablets Leaflet 100 Tablets Carton"
+      ],
+      "active_ingredient": [
+        "Drug Facts Active ingredient (in each tablet) Sennosides 8.6mg"
+      ],
+      "purpose": [
+        "Purpose Laxative"
+      ],
+      "indications_and_usage": [
+        "Uses relieves occasional constipation (irregularity) generally produces a bowel movement in 6–12 hours"
+      ],
+      "warnings": [
+        "Warnings"
+      ],
+      "do_not_use": [
+        "Do not use laxative products for longer than 1 week unless directed by a doctor"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Aska doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that continues overa period of 2 weeks"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctorif you have rectal bleeding or fail to have a bowel movementafter use of a laxative. These may indicate a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison ControlCenter right away."
+      ],
+      "dosage_and_administration": [
+        "Directions take preferably at bedtime or as directed by a doctor age starting dosage maximum dosage adults and children 12 years of age and over 2 tablets oncea day 4 tablets twicea day children 6 to under12 years 1 tablet once aday 2 tablets twicea day children 2 to under6 years 1/2 tablet oncea day 1 tablet twicea day children under2 years ask a doctor ask a doctor"
+      ],
+      "dosage_and_administration_table": [
+        "<table ID=\"table1\" border=\"0\" width=\"50%\"><tbody><tr><td align=\"center\" styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\"><content styleCode=\"bold\">age</content></td><td align=\"center\" styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\"><content styleCode=\"bold\">starting dosage</content></td><td align=\"center\" styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\"><content styleCode=\"bold\">maximum dosage</content></td></tr><tr><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">adults and children 12 years of age and over</td><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">2 tablets oncea day</td><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">4 tablets twicea day</td></tr><tr><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">children 6 to under12 years</td><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">1 tablet once aday</td><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">2 tablets twicea day</td></tr><tr><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">children 2 to under6 years</td><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">1/2 tablet oncea day</td><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">1 tablet twicea day</td></tr><tr><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">children under2 years</td><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">ask a doctor</td><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">ask a doctor</td></tr></tbody></table>"
+      ],
+      "spl_unclassified_section": [
+        "Other Information each tablet contains : calcium 20 mg store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F)",
+        "©2020 Avrio Health L.P. 305616-0B"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients croscarmellose sodium, dicalciumphosphate, hypromellose, magnesium stearate, maltodextrin, microcrystallinecellulose, mineral oil, polyethylene glycol, talc"
+      ],
+      "package_label_principal_display_panel": [
+        "50 Tablets NDC 67618-300-50 100 Tablets NDC 67618-300-10"
+      ],
+      "set_id": "c18dd7fa-993b-440b-8cdd-f1551abb99ca",
+      "id": "fd1324ab-ef79-42ee-b960-9b032a3a4af2",
+      "effective_time": "20251229",
+      "version": "12",
+      "openfda": {
+        "application_number": [
+          "M007"
+        ],
+        "brand_name": [
+          "Senokot"
+        ],
+        "generic_name": [
+          "STANDARDIZED SENNA CONCENTRATE"
+        ],
+        "manufacturer_name": [
+          "Atlantis Consumer Healthcare, Inc."
+        ],
+        "product_ndc": [
+          "67618-300"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SENNOSIDES"
+        ],
+        "rxcui": [
+          "312935",
+          "404186"
+        ],
+        "spl_id": [
+          "fd1324ab-ef79-42ee-b960-9b032a3a4af2"
+        ],
+        "spl_set_id": [
+          "c18dd7fa-993b-440b-8cdd-f1551abb99ca"
+        ],
+        "package_ndc": [
+          "67618-300-20",
+          "67618-300-50",
+          "67618-300-10"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0367618300503"
+        ],
+        "unii": [
+          "3FYP5M0IJX"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Senokot-S standardized senna concentrate and docusate sodium SENNOSIDES SENNOSIDES DOCUSATE SODIUM DOCUSATE CROSCARMELLOSE SODIUM CALCIUM PHOSPHATE, DIBASIC, ANHYDROUS FD&C YELLOW NO. 5 FD&C YELLOW NO. 6 HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MALTODEXTRIN CELLULOSE, MICROCRYSTALLINE MINERAL OIL POLYETHYLENE GLYCOL, UNSPECIFIED SODIUM BENZOATE SODIUM LAURYL SULFATE STARCH, CORN STEARIC ACID TALC TITANIUM DIOXIDE TRIACETIN P 60 Tablets Label 60 Tablets Leaflet 10 Tablets Carton Front 10 Tablets Carton Back 60 Tablets Carton"
+      ],
+      "indications_and_usage": [
+        "Drug Facts"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each tablet) Docusate sodium 50mg Sennosides 8.6mg"
+      ],
+      "purpose": [
+        "Purpose Stool softener Laxative"
+      ],
+      "when_using": [
+        "Uses relieves occasional constipation (irregularity) generally produces a bowel movement in 6-12 hours"
+      ],
+      "warnings": [
+        "Warnings"
+      ],
+      "do_not_use": [
+        "Do not use if you are now taking mineral oil, unless directed by adoctor laxative products for longer than 1 week unless directedby a doctor"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that continues overa period of 2 weeks"
+      ],
+      "stop_use": [
+        "Stop using and ask a doctor if youhave rectal bleeding or fail to have a bowel movement after use ofa laxative. These may indicate a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reachof children. In case ofoverdose, get medical help or contact a Poison Control Center rightaway."
+      ],
+      "dosage_and_administration": [
+        "Directions take preferably at bedtime or as directed by a doctor age startingdosage maximumdosage adults and children 12 years of age and over 2 tablets oncea day 4 tablets twicea day children 6 to under 12 years 1 tablet once a day 2 tablets twice a day children 2 to under 6 years 1/2 tablet once a day 1 tablet twice a day children under 2 years ask a doctor ask a doctor"
+      ],
+      "dosage_and_administration_table": [
+        "<table ID=\"t1037622\" border=\"0\" width=\"50%\"><colgroup><col/><col/><col/></colgroup><tbody><tr><td align=\"center\" styleCode=\"Toprule Lrule Rrule Botrule\"><content styleCode=\"bold\">age</content></td><td align=\"center\" styleCode=\"Toprule Lrule Rrule Botrule\"><content styleCode=\"bold\">startingdosage</content></td><td align=\"center\" styleCode=\"Toprule Lrule Rrule Botrule\"><content styleCode=\"bold\">maximumdosage</content></td></tr><tr><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">adults and children 12 years of age and over</td><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">2 tablets oncea day</td><td styleCode=\"Toprule Lrule Rrule Botrule\" valign=\"top\">4 tablets twicea day</td></tr><tr><td styleCode=\"Toprule Lrule Rrule Botrule\">children 6 to under 12 years</td><td styleCode=\"Toprule Lrule Rrule Botrule\">1 tablet once a day</td><td styleCode=\"Toprule Lrule Rrule Botrule\">2 tablets twice a day</td></tr><tr><td styleCode=\"Toprule Lrule Rrule Botrule\">children 2 to under 6 years</td><td styleCode=\"Toprule Lrule Rrule Botrule\">1/2 tablet once a day</td><td styleCode=\"Toprule Lrule Rrule Botrule\">1 tablet twice a day</td></tr><tr><td styleCode=\"Toprule Lrule Rrule Botrule\">children under 2 years</td><td styleCode=\"Toprule Lrule Rrule Botrule\">ask a doctor</td><td styleCode=\"Toprule Lrule Rrule Botrule\">ask a doctor</td></tr></tbody></table>"
+      ],
+      "how_supplied": [
+        "Other information each tablet contains: calcium 7 mg, sodium 4 mg VERYLOW SODIUM store at 25°C (77°F); excursions permitted between 15°-30°C(59°-86°F)"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients Inactive ingredients croscarmellose sodium, dicalcium phosphate, FD&C Yellow#5 Lake*, FD&C Yellow #6 Lake, hypromellose, magnesium stearate,maltodextrin, microcrystalline cellulose, mineral oil, polyethyleneglycol, sodium benzoate, sodium lauryl sulfate, starch, stearic acid,talc, titanium dioxide, triacetin ©2020 Avrio Health L.P. A1023"
+      ],
+      "package_label_principal_display_panel": [
+        "Senokot-S 60 Tablets Label NDC: 67618-310-60 Senokot-S 60 Tablets Leaflet NDC: 67618-310-60 Senokot-S 60 Tablets Carton NDC: 67618-310-60 Senokot-S 10 Tablets Carton NDC: 67618-310-01"
+      ],
+      "set_id": "c24cdc5e-62e0-41a6-8afb-512202a569f4",
+      "id": "c7d88a4f-4a36-445a-8615-099c0fd6f1d0",
+      "effective_time": "20251229",
+      "version": "11",
+      "openfda": {
+        "application_number": [
+          "M007"
+        ],
+        "brand_name": [
+          "Senokot-S"
+        ],
+        "generic_name": [
+          "STANDARDIZED SENNA CONCENTRATE AND DOCUSATE SODIUM"
+        ],
+        "manufacturer_name": [
+          "Atlantis Consumer Healthcare, Inc."
+        ],
+        "product_ndc": [
+          "67618-310"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DOCUSATE SODIUM",
+          "SENNOSIDES"
+        ],
+        "rxcui": [
+          "998740",
+          "1248015"
+        ],
+        "spl_id": [
+          "c7d88a4f-4a36-445a-8615-099c0fd6f1d0"
+        ],
+        "spl_set_id": [
+          "c24cdc5e-62e0-41a6-8afb-512202a569f4"
+        ],
+        "package_ndc": [
+          "67618-310-01",
+          "67618-310-30",
+          "67618-310-60"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0367618310601"
+        ],
+        "unii": [
+          "F05Q2T2JA0",
+          "3FYP5M0IJX"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Senokot standardized senna concentrate SENNOSIDES SENNOSIDES CROSCARMELLOSE SODIUM HYPROMELLOSE, UNSPECIFIED LACTOSE, UNSPECIFIED FORM MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE TARTARIC ACID DIBASIC CALCIUM PHOSPHATE DIHYDRATE LIGHT MINERAL OIL TALC STEARIC ACID Light Brown X 36 Tablets Carton Carton 12 Tablets Label 36 72ct front 72ct rear"
+      ],
+      "active_ingredient": [
+        "Active ingredient (in each tablet) Sennosides 17.2 mg"
+      ],
+      "purpose": [
+        "Purpose Laxative"
+      ],
+      "indications_and_usage": [
+        "Uses relieves occasional constipation (irregularity) generally causes bowel movement in 6-12 hours"
+      ],
+      "warnings": [
+        "Warnings Do not use laxative products for longer than 1 week unless directed by a doctor"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel movements that continuesover a period of 2 weeks"
+      ],
+      "stop_use": [
+        "Stop Use Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "Pregnancy or Breast Feeding If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep Out of Reach of Children In case of overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions take preferably at bedtime or as directed by a doctor"
+      ],
+      "dosage_forms_and_strengths": [
+        "Dosage Forms & Strengths age startingdosage maximumdosage adults and children 12 yearsof age and over 1 tablet once a day 2 tablets twice aday children 6 to under 12 years ½ tablet once a day 1 tablet twice aday children under 6 ask a doctor ask a doctor"
+      ],
+      "dosage_forms_and_strengths_table": [
+        "<table ID=\"t18333882\" border=\"1\" width=\"70%\"><colgroup><col/><col/><col/></colgroup><tbody><tr><td align=\"center\" styleCode=\"Toprule Botrule Rrule Lrule\"><content styleCode=\"bold\">age</content></td><td align=\"center\" styleCode=\"Toprule Botrule Rrule Lrule\"><content styleCode=\"bold\">startingdosage</content></td><td align=\"center\" styleCode=\"Toprule Botrule Rrule Lrule\"><content styleCode=\"bold\">maximumdosage</content></td></tr><tr><td styleCode=\"Toprule Botrule Rrule Lrule\">adults and children 12 yearsof age and over</td><td styleCode=\"Toprule Botrule Rrule Lrule\">1 tablet once a day</td><td styleCode=\"Toprule Botrule Rrule Lrule\">2 tablets twice aday</td></tr><tr><td styleCode=\"Toprule Botrule Rrule Lrule\">children 6 to under 12 years</td><td styleCode=\"Toprule Botrule Rrule Lrule\">&#xBD; tablet once a day</td><td styleCode=\"Toprule Botrule Rrule Lrule\">1 tablet twice aday</td></tr><tr><td styleCode=\"Toprule Botrule Rrule Lrule\">children under 6 </td><td styleCode=\"Toprule Botrule Rrule Lrule\">ask a doctor</td><td styleCode=\"Toprule Botrule Rrule Lrule\">ask a doctor</td></tr></tbody></table>"
+      ],
+      "other_safety_information": [
+        "Other Information each tablet contains: calcium 20mg store at 25°C (75°F); excursions permitted between 15°-30°C (59°-86°F)."
+      ],
+      "inactive_ingredient": [
+        "Inactive Ingredients croscarmellose sodium, dicalcium phosphate, hypromellose, lactose, magnesium stearate, microcrystalline cellulose, mineral oil, stearic acid, talc, tartaric acid"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Senokot ® Extra Strength 36 Tablets Carton Senokot ® Extra Strength 12 Tablets Carton Senokot ® Extra Strength 36 Tablets Label Senokot ® Standardized Senna Concentrate, 17.2mg Extra Strength Natural vegetable l axative Ingredient 72 Tablets DO NOT USE IF SEAL UNDER CAP IS MISSING OR DAMAGED. A0725 LOT: EXP: R54038 Dist. by: Atlantis Consumer Healthcare Inc. Bridgewater, NJ 08807 USA Questions? 1-833-288-2684 www.senokot.com ©2025 Atlantis Consumer Healthcare Inc."
+      ],
+      "set_id": "d5bf67e5-82c6-edbf-e9ec-e027fdd47c84",
+      "id": "8319c8b6-8d3f-416d-a864-39cb879df2da",
+      "effective_time": "20250820",
+      "version": "11",
+      "openfda": {
+        "application_number": [
+          "M007"
+        ],
+        "brand_name": [
+          "Senokot"
+        ],
+        "generic_name": [
+          "STANDARDIZED SENNA CONCENTRATE"
+        ],
+        "manufacturer_name": [
+          "Atlantis Consumer Healthcare, Inc."
+        ],
+        "product_ndc": [
+          "67618-120"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SENNOSIDES"
+        ],
+        "rxcui": [
+          "602802",
+          "1039965"
+        ],
+        "spl_id": [
+          "8319c8b6-8d3f-416d-a864-39cb879df2da"
+        ],
+        "spl_set_id": [
+          "d5bf67e5-82c6-edbf-e9ec-e027fdd47c84"
+        ],
+        "package_ndc": [
+          "67618-120-12",
+          "67618-120-36",
+          "67618-120-06",
+          "67618-120-72",
+          "67618-120-73"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0367618120125",
+          "0367618120064"
+        ],
+        "unii": [
+          "3FYP5M0IJX"
+        ]
+      }
+    }
+  ]
+}

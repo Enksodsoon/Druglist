@@ -1,0 +1,14 @@
+{
+  "source_id": "8007",
+  "task_id": "T02846",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Diphenidol&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8007/T02846_8007.json",
+  "sha256": "a57e1e15bbe241dda0002a090ae106659b699fe0ed85a74f98916e9a283ede11",
+  "downloaded_at": "2026-05-16T03:40:25.551726+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:283:8007",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

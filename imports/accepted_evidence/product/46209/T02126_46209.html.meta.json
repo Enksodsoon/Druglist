@@ -1,0 +1,14 @@
+{
+  "source_id": "46209",
+  "task_id": "T02126",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Onzet+Oral+Suspension",
+  "local_path": "imports/accepted_evidence/product/46209/T02126_46209.html",
+  "sha256": "acccbddbf12aeb7affdda7d722d1a41fcdd5fcd47659b061ad826b18f05bf8fd",
+  "downloaded_at": "2026-05-16T03:38:37.984368+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:181:46209",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

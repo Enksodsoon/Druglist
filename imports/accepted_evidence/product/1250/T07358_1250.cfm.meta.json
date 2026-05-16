@@ -1,0 +1,14 @@
+{
+  "source_id": "1250",
+  "task_id": "T07358",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betamethasone+17-Valerate+0+1+w%2Fw+%2B+Neomycin+Sulphate+0+5+w%2Fw",
+  "local_path": "imports/accepted_evidence/product/1250/T07358_1250.cfm",
+  "sha256": "3b31e59ad2577f9e43fe8b2904696be8323d7f3532c9939a59275470c6f0a2ba",
+  "downloaded_at": "2026-05-16T03:51:50.287948+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:872:1250",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

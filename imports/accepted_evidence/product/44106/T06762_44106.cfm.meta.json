@@ -1,0 +1,14 @@
+{
+  "source_id": "44106",
+  "task_id": "T06762",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Povidone-Iodine",
+  "local_path": "imports/accepted_evidence/product/44106/T06762_44106.cfm",
+  "sha256": "158b17d227d0e557f2ac0e5008ac9e6a8663e0715b40a55e8a77a1fe92b3f2fb",
+  "downloaded_at": "2026-05-16T03:50:19.074983+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:798:44106",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

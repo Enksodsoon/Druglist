@@ -1,0 +1,14 @@
+{
+  "source_id": "3432",
+  "task_id": "T07513",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Budesonide+%2F",
+  "local_path": "imports/accepted_evidence/product/3432/T07513_3432.cfm",
+  "sha256": "48cb140f42e14b351abfdbdc80aa2d1136065159203af8ad66fd2af4e487a704",
+  "downloaded_at": "2026-05-16T03:52:13.909332+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:890:3432",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

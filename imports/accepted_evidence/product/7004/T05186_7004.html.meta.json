@@ -1,0 +1,14 @@
+{
+  "source_id": "7004",
+  "task_id": "T05186",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Alinol+100+mg",
+  "local_path": "imports/accepted_evidence/product/7004/T05186_7004.html",
+  "sha256": "b6efb7a6d641e50812f499764e3308c6b161184cfdc1a65e9e6d04907c843a95",
+  "downloaded_at": "2026-05-16T03:46:19.019871+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:605:7004",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

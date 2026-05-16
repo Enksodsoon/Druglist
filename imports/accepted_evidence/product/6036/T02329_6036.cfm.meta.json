@@ -1,0 +1,14 @@
+{
+  "source_id": "6036",
+  "task_id": "T02329",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Butamirate+Citrate+%2F",
+  "local_path": "imports/accepted_evidence/product/6036/T02329_6036.cfm",
+  "sha256": "f8bbc99ebf9a7abbec987c5fd61898e3cdbb721dccc472d132206049b49328df",
+  "downloaded_at": "2026-05-16T03:39:07.923870+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:213:6036",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

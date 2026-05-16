@@ -1,0 +1,14 @@
+{
+  "source_id": "2030",
+  "task_id": "T01511",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bismuth%20Subsalicylate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2030/T01511_2030.json",
+  "sha256": "cae440ae2864f43fb123a6903b3e2888c71581e2d271c7441b78b286cce982d4",
+  "downloaded_at": "2026-05-16T03:37:08.012605+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:105:2030|Product_Label_Links:317:2010",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

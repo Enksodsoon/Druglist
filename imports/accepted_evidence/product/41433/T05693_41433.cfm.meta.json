@@ -1,0 +1,14 @@
+{
+  "source_id": "41433",
+  "task_id": "T05693",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bifonazole+%2F",
+  "local_path": "imports/accepted_evidence/product/41433/T05693_41433.cfm",
+  "sha256": "0eeb6418886f74c97b9f6123283494620756755b5d9269c88b928e0921e446c3",
+  "downloaded_at": "2026-05-16T03:47:34.607000+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:668:41433",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

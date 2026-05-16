@@ -1,0 +1,14 @@
+{
+  "source_id": "7591",
+  "task_id": "T03408",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Noflox-400",
+  "local_path": "imports/accepted_evidence/product/7591/T03408_7591.html",
+  "sha256": "87ea8ec5255c805f02133f1f9a9e27e2e8e3c1f00de9c13edbdc4bf330cf283b",
+  "downloaded_at": "2026-05-16T03:41:52.097933+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:358:7591",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

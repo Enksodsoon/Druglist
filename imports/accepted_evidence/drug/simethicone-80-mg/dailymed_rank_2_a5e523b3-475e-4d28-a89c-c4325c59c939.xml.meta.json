@@ -1,0 +1,17 @@
+{
+  "source_id": "1014",
+  "task_id": "DAILYMED_2_a5e523b3-475e-4d28-a89c-c4325c59c939",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/a5e523b3-475e-4d28-a89c-c4325c59c939.xml",
+  "local_path": "imports/accepted_evidence/drug/simethicone-80-mg/dailymed_rank_2_a5e523b3-475e-4d28-a89c-c4325c59c939.xml",
+  "sha256": "23d2b37488093b6de869284233365607afdc80def213c115f2172147c7d9a59c",
+  "downloaded_at": "2026-05-16T03:55:10.775738+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Simethicone 80 mg.",
+  "rank": 2,
+  "setid": "a5e523b3-475e-4d28-a89c-c4325c59c939",
+  "title": "SIMETHICONE 80 MG (SIMETHICONE) TABLET, CHEWABLE [PROFICIENT RX LP]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

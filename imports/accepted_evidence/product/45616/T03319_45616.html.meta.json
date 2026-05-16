@@ -1,0 +1,14 @@
+{
+  "source_id": "45616",
+  "task_id": "T03319",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Norpa+tabslets",
+  "local_path": "imports/accepted_evidence/product/45616/T03319_45616.html",
+  "sha256": "7ae3ff940aeede0096477136687869c29daee81d3f75a1e58d0457ae66676022",
+  "downloaded_at": "2026-05-16T03:41:37.437523+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:346:45616",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1070",
+  "task_id": "T05237",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Aspirin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1070/T05237_1070.json",
+  "sha256": "bc3374c5012919720e44344edcb3892041bf52038bd2c1c6ff9da36fd32fc951",
+  "downloaded_at": "2026-05-16T03:46:26.077770+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:613:1070|Product_Label_Links:614:1077",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

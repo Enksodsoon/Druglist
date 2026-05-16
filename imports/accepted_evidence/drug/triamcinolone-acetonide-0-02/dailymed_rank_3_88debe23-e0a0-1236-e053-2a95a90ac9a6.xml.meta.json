@@ -1,0 +1,17 @@
+{
+  "source_id": "DRUG_BDS001057",
+  "task_id": "DAILYMED_3_88debe23-e0a0-1236-e053-2a95a90ac9a6",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/88debe23-e0a0-1236-e053-2a95a90ac9a6.xml",
+  "local_path": "imports/accepted_evidence/drug/triamcinolone-acetonide-0-02/dailymed_rank_3_88debe23-e0a0-1236-e053-2a95a90ac9a6.xml",
+  "sha256": "29e5a375d6d0a7908a42438fe00c04925ac65ba6fac954386e0832d47d37df96",
+  "downloaded_at": "2026-05-16T03:53:05.877074+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Drug_Label_Links",
+  "query_name": "Triamcinolone Acetonide 0.02%",
+  "rank": 3,
+  "setid": "88debe23-e0a0-1236-e053-2a95a90ac9a6",
+  "title": "LEVOCETIRIZINE DIHYDROCHLORIDE 2% / MUPIROCIN 2% / TRIAMCINOLONE ACETONIDE 0.025% CREAM [SINCERUS FLORIDA, LLC]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

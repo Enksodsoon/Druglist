@@ -1,0 +1,14 @@
+{
+  "source_id": "44902",
+  "task_id": "T04864",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Miformin+500+mg",
+  "local_path": "imports/accepted_evidence/product/44902/T04864_44902.cfm",
+  "sha256": "4d270a1fb9c45e47417d5cab600eabad2f40ad57b23a41ed677b1acce3890136",
+  "downloaded_at": "2026-05-16T03:45:31.802735+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:559:44902",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

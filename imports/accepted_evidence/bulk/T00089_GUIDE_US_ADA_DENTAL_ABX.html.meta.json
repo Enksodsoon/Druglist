@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_US_ADA_DENTAL_ABX",
+  "task_id": "T00089",
+  "source_url": "https://www.ada.org/resources/research/science/evidence-based-dental-research/antibiotics-for-dental-pain-and-swelling",
+  "local_path": "imports/accepted_evidence/bulk/T00089_GUIDE_US_ADA_DENTAL_ABX.html",
+  "sha256": "e26fbe151292449289bd5393c021469c3eade13407f599a62706477e7ff560d3",
+  "downloaded_at": "2026-05-16T03:33:52.282343+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:42:GUIDE_US_ADA_DENTAL_ABX|Disease_Download_Map:100:dental_infection_support_adult|Disease_Download_Map:131:dental_pain_support_adult|Disease_Download_Map:132:gingivitis_localized_adult|Disease_Download_Map:133:gum_inflammation_support_adult|Disease_Download_Map:134:dental_abscess_support_adult",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

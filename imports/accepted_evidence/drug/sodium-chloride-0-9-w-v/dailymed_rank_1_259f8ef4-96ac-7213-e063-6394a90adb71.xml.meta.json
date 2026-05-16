@@ -1,0 +1,17 @@
+{
+  "source_id": "47669",
+  "task_id": "DAILYMED_1_259f8ef4-96ac-7213-e063-6394a90adb71",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/259f8ef4-96ac-7213-e063-6394a90adb71.xml",
+  "local_path": "imports/accepted_evidence/drug/sodium-chloride-0-9-w-v/dailymed_rank_1_259f8ef4-96ac-7213-e063-6394a90adb71.xml",
+  "sha256": "1f4117cfede8552eb93f4dd02ffc919b7b05f77c9a30ab8ce3004a5fdab4d0fa",
+  "downloaded_at": "2026-05-16T03:55:50.474155+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Sodium Chloride 0.9 % w/v",
+  "rank": 1,
+  "setid": "259f8ef4-96ac-7213-e063-6394a90adb71",
+  "title": "0.9% SODIUM CHLORIDE INJECTION, 1000ML, BLUE PHARMA, TOTALCARE (SODIUM CHLORIDE 0.9% W/V FOR INTRAVENOUS INFUSION) INJECTION, SOLUTION 0.9% SODIUM CHLORIDE INJECTION, 1000ML, DRE BIOLAB, TOTALCARE (SODIUM CHLORIDE 0.9% W/V FOR INTRAVENOUS INFUSION) INJECTION, SOLUTION 0.9% SODIUM CHLORIDE INJECTION, 500ML, DRE BIOLAB, TOTALCARE (SODIUM CHLORIDE 0.9% W/V FOR INTRAVENOUS INFUSION) INJECTION, SOLUTION 0.9% SODIUM CHLORIDE INJECTION, 500ML, BLUE PHARMACEUTICALS, TOTALCARE (SODIUM CHLORIDE 0.9% W/V FOR INTRAVENOUS INFUSION) INJECTION, SOLUTION [AMCO INTERNATIONAL CORP]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3694",
+  "task_id": "T01361",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Solmax",
+  "local_path": "imports/accepted_evidence/product/3694/T01361_3694.html",
+  "sha256": "49ff5f77d332eb8f32b1409d74dfdfb9f589c544f295b4b66faa7adae3db42fa",
+  "downloaded_at": "2026-05-16T03:36:47.146047+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:88:3694",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

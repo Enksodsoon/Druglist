@@ -1,0 +1,14 @@
+{
+  "source_id": "46502",
+  "task_id": "T01791",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Patilum",
+  "local_path": "imports/accepted_evidence/product/46502/T01791_46502.html",
+  "sha256": "90e32141e035f6ede2c9543fb2314b8471e57c2fddc386e59c66fe4e9538485f",
+  "downloaded_at": "2026-05-16T03:37:49.594019+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:138:46502",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2538",
+  "task_id": "T06112",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Lymarin+Cream+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/2538/T06112_2538.cfm",
+  "sha256": "4fd0011feafa3101b58ec799e157092be1a1b22d84732e76dd0c5381700890cf",
+  "downloaded_at": "2026-05-16T03:48:38.445354+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:723:2538",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

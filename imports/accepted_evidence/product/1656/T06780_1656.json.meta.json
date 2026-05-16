@@ -1,0 +1,14 @@
+{
+  "source_id": "1656",
+  "task_id": "T06780",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Diclofenac%20diethylammonium%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1656/T06780_1656.json",
+  "sha256": "c45f51a2a339fa138ccdcf879a68daa87033c016d01eb1ff3d3b329e0da199c8",
+  "downloaded_at": "2026-05-16T03:50:21.541456+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:800:1656|Product_Label_Links:801:1654",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

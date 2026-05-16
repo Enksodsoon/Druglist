@@ -1,0 +1,14 @@
+{
+  "source_id": "40629",
+  "task_id": "T03596",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Brustan",
+  "local_path": "imports/accepted_evidence/product/40629/T03596_40629.cfm",
+  "sha256": "dceac33f5332a3fc9952af591e8d67558270dba5b34032cbee07157ca278e114",
+  "downloaded_at": "2026-05-16T03:42:20.086108+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:384:40629",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2874",
+  "task_id": "T07484",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Nasacort+AQ+Spray+Suspension",
+  "local_path": "imports/accepted_evidence/product/2874/T07484_2874.html",
+  "sha256": "41c30c629e9fc9b6eec3a2d32e1d0d673911494df6570e228240ca6bea9f2d47",
+  "downloaded_at": "2026-05-16T03:52:10.052170+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:886:2874",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

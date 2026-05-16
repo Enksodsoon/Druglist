@@ -1,0 +1,14 @@
+{
+  "source_id": "1474",
+  "task_id": "T05488",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Counterpain%20Cool%20%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1474/T05488_1474.json",
+  "sha256": "a23c6c6126c23e4410a6f60fd91a29239d5ebbfa6e78828b2a07fc06392befb7",
+  "downloaded_at": "2026-05-16T03:47:02.869409+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:644:1474",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

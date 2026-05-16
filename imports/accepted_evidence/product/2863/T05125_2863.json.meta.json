@@ -1,0 +1,14 @@
+{
+  "source_id": "2863",
+  "task_id": "T05125",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Neurontin%20100%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2863/T05125_2863.json",
+  "sha256": "8a812ad1a4f4f8108dee9a10c179e10ceb440f799463bc572fc3fa2dbe295e25",
+  "downloaded_at": "2026-05-16T03:46:09.509422+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:597:2863",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

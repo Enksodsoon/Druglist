@@ -1,0 +1,14 @@
+{
+  "source_id": "49251",
+  "task_id": "T02638",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Voltaren+SR+100+mg",
+  "local_path": "imports/accepted_evidence/product/49251/T02638_49251.cfm",
+  "sha256": "3c4d6741b327c6991247f83f52cf9f0149a41cf564422694c4e373d7092391d7",
+  "downloaded_at": "2026-05-16T03:39:55.516429+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:258:49251",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

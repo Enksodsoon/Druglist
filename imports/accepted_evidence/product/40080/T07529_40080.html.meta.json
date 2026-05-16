@@ -1,0 +1,14 @@
+{
+  "source_id": "40080",
+  "task_id": "T07529",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Actavia",
+  "local_path": "imports/accepted_evidence/product/40080/T07529_40080.html",
+  "sha256": "d63e3ed7496faf214a9f526f1e718e6a76907b764d519bcd74d549d94930ac02",
+  "downloaded_at": "2026-05-16T03:52:16.006868+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:891:40080",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}
