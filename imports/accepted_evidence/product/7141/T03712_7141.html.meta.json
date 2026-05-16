@@ -1,0 +1,14 @@
+{
+  "source_id": "7141",
+  "task_id": "T03712",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Dimenhydrinate",
+  "local_path": "imports/accepted_evidence/product/7141/T03712_7141.html",
+  "sha256": "e08eaa885506f5474ddaa195411f3229f67688aee9d943f926f13af3d8d27af2",
+  "downloaded_at": "2026-05-16T03:42:42.324541+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:399:7141",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

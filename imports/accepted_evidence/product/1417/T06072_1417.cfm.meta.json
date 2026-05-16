@@ -1,0 +1,14 @@
+{
+  "source_id": "1417",
+  "task_id": "T06072",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Canazol-Be+Cream+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/1417/T06072_1417.cfm",
+  "sha256": "b42c8d1f20cacdd05b38f78e17e4c81f80c061aadda6372b86016f96abbac438",
+  "downloaded_at": "2026-05-16T03:48:31.683840+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:717:1417",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

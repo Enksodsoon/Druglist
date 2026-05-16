@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_51",
+  "task_id": "T00504",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=naproxen&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds003568/T00504_Drug_Label_Links_51.xml",
+  "sha256": "925804d9dac6f83f1ce1495e00dde78daebd1b04e270fad9bfc0b4103e41d527",
+  "downloaded_at": "2026-05-16T03:34:47.759102+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:51:Drug_Label_Links_51",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

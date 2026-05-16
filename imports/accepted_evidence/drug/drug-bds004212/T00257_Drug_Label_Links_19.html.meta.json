@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_19",
+  "task_id": "T00257",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=cetirizine+syrup",
+  "local_path": "imports/accepted_evidence/drug/drug-bds004212/T00257_Drug_Label_Links_19.html",
+  "sha256": "198d0f2b95eb338f5a945a492fd8668aaddbe56c83f576fa568e86d17c1c7b08",
+  "downloaded_at": "2026-05-16T03:34:16.435951+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:19:Drug_Label_Links_19",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

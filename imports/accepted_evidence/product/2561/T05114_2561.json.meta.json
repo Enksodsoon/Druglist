@@ -1,0 +1,14 @@
+{
+  "source_id": "2561",
+  "task_id": "T05114",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Pregabalin%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/2561/T05114_2561.json",
+  "sha256": "09e72a376329a7984271c39665ede5f682717b917ce9ccd5fbfdf86d122a1f8c",
+  "downloaded_at": "2026-05-16T03:46:09.169476+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:595:2561|Product_Label_Links:596:2591|Product_Label_Links:599:46516|Product_Label_Links:600:46517",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

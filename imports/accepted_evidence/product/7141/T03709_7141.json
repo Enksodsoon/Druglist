@@ -1,0 +1,743 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 7
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Dimenhydrinate Dimenhydrinate MICROCRYSTALLINE CELLULOSE CROSCARMELLOSE SODIUM CROSCARMELLOSE CALCIUM PHOSPHATE, DIBASIC, DIHYDRATE MAGNESIUM STEARATE DIMENHYDRINATE CHLORTHEOPHYLLINE 1006;1006"
+      ],
+      "active_ingredient": [
+        "Drug Facts Active ingredient (in each tablet) Dimenhydrinate 50 mg"
+      ],
+      "purpose": [
+        "Antiemetic"
+      ],
+      "indications_and_usage": [
+        "Uses for the prevention and treatment of nausea, vomiting, or dizziness associated with motion sickness"
+      ],
+      "warnings": [
+        "Do not use for children under 2 years of age unless directed by a doctor. Ask a doctor before use if you have glaucoma a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to an enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness use caution when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+      ],
+      "do_not_use": [
+        "Do not use for children under 2 years of age unless directed by a doctor."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have glaucoma a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to an enlargement of the prostate gland"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers."
+      ],
+      "when_using": [
+        "When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness use caution when driving a motor vehicle or operating machinery"
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children."
+      ],
+      "overdosage": [
+        "In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+      ],
+      "dosage_and_administration": [
+        "Directions ■ to prevent motion sickness, the first dose should be taken one-half to one hour before starting activity ■ adults and children 12 years of age and over: 1 to 2 tablets every 4-6 hours; not to exceed 8 tablets in 24 hours, or as directed by a doctor ■ children 6 to under 12 years of age: 1/2 to 1 tablet every 6-8 hours; not to exceed 3 tablets in 24 hours, or as directed by a doctor ■ children 2 to under 6 years of age: 1/2 tablet every 6-8 hours; not to exceed 1 1/2 tablets in 24 hours, or as directed by a doctor"
+      ],
+      "other_safety_information": [
+        "Other Informations ■ each tablet contain s: calcium 30 mg ■ store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) ■ protect from moisture"
+      ],
+      "inactive_ingredient": [
+        "croscarmellose sodium, dicalcium phosphate, magnesium stearate, microcrystalline cellulose"
+      ],
+      "questions": [
+        "Questions or comments? 1-800-231-4670"
+      ],
+      "spl_unclassified_section": [
+        "KEEP OUTER PACKAGE FOR COMPLETE PRODUCT INFORMATION TAMPER EVIDENT: DO NOT USE IF PACKAGE IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING * This product is not manufactured or distributed by Medtech Products Inc., owner of the registered trademark Dramamine® Distributed by: CVS Pharmacy, Inc. One CVS Drive, Woonsocket, RI 02895 © 2021 CVS/pha rmacy CVS.com® 1-800-SHOP CVS V-30287"
+      ],
+      "package_label_principal_display_panel": [
+        "CVSHealth Compare to the active ingredient in Dramamine® Original Formula* Motion Sickness DIMENHYDRINATE TABLETS Antiemetic Original formula • Fast acting motion sickness relief • For children & adults 36 TABLETS (50 mg EACH) CVS Label"
+      ],
+      "set_id": "6dfc5cb4-af0c-56c9-e053-2a91aa0a5d56",
+      "id": "28512065-3533-f58a-e063-6394a90a7dfa",
+      "effective_time": "20241202",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "M009"
+        ],
+        "brand_name": [
+          "Dimenhydrinate"
+        ],
+        "generic_name": [
+          "DIMENHYDRINATE"
+        ],
+        "manufacturer_name": [
+          "CVS Pharmacy, Inc."
+        ],
+        "product_ndc": [
+          "69842-206"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DIMENHYDRINATE"
+        ],
+        "rxcui": [
+          "198603"
+        ],
+        "spl_id": [
+          "28512065-3533-f58a-e063-6394a90a7dfa"
+        ],
+        "spl_set_id": [
+          "6dfc5cb4-af0c-56c9-e053-2a91aa0a5d56"
+        ],
+        "package_ndc": [
+          "69842-206-12",
+          "69842-206-36"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0050428388884"
+        ],
+        "unii": [
+          "JB937PER5C"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Dimenhydrinate Dimenhydrinate DIMENHYDRINATE CHLORTHEOPHYLLINE CROSCARMELLOSE SODIUM CROSCARMELLOSE DIBASIC CALCIUM PHOSPHATE DIHYDRATE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE 1006;1006"
+      ],
+      "active_ingredient": [
+        "Drug Facts Active ingredient (in each tablet) Dimenhydrinate 50 mg"
+      ],
+      "purpose": [
+        "Purpose Antiemetic"
+      ],
+      "indications_and_usage": [
+        "Uses for the prevention and treatment of nausea, vomiting, or dizziness associated with motion sickness"
+      ],
+      "warnings": [
+        "Do not give to children under 2 years of age unless directed by a doctor Ask a doctor before use if you have ■ glaucoma ■ a breathing problem such as emphysema or chronic bronchitis ■ trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product ■ marked drowsiness may occur ■ avoid alcoholic drinks ■ alcohol, sedatives, and tranquilizers may increase drowsiness ■ use caution when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. . Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have ■ glaucoma ■ a breathing problem such as emphysema or chronic bronchitis ■ trouble urinating due to an enlarged prostate gland"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers"
+      ],
+      "when_using": [
+        "When using this product ■ marked drowsiness may occur ■ avoid alcoholic drinks ■ alcohol, sedatives, and tranquilizers may increase drowsiness ■ use caution when driving a motor vehicle or operating machinery"
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use. ."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children."
+      ],
+      "overdosage": [
+        "In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+      ],
+      "dosage_and_administration": [
+        "Directions ■ to prevent motion sickness, the rst dose should be taken one-half to one hour before starting activity ■ adults and children 12 years of age and over: 1 to 2 tablets every 4-6 hours; not to exceed 8 tablets in 24 hours, or as directed by a doctor ■ children 6 to under 12 years of age : 1/2 to 1 tablet every 6-8 hours; not to exceed 3 tablets in 24 hours, or as directed by a doctor ■ children 2 to under 6 years of age : 1/2 tablet every 6-8 hours; not to exceed 1 1/2 tablets in 24 hours, or as directed by a doctor"
+      ],
+      "other_safety_information": [
+        "Other information ■ each tablet contains: calcium 30 mg ■ store in a dry place at 15° – 30°C (59° – 86°F) ■ protect from moisture ■ see end -ap for expiration date and lot number ■ TAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER IS TORN OR BROKEN"
+      ],
+      "inactive_ingredient": [
+        "croscarmellose sodium, dicalcium phosphate, magnesium stearate, microcrystalline cellulose"
+      ],
+      "questions": [
+        "Questions or comments? 1-800-231-4670"
+      ],
+      "spl_unclassified_section": [
+        "KEEP OUTER PACKAGE FOR COMPLETE PRODUCT INFORMATION *This product is not manufactured or distributed by Medtech Products Inc., owner of the registered trademark Dramamine®. Distributed by: MAJOR® PHARMACEUTICALS Indianapolis, IN 46268 Questions or comments? Call (800) 616-2471 www.majorpharmaceuticals.com"
+      ],
+      "package_label_principal_display_panel": [
+        "MAJOR ® NDC 0904-6772-12 Compare to the Active Ingredient in DRAMAMINE ® Original Formula* Driminate TM Dimenhydrinate USP, Antiemetic For Nausea, Dizziness and Vomiting from Motion Sickness 12 Tablets 50mg Each Use as Directed Major Label"
+      ],
+      "set_id": "78d22836-a442-7c0c-e053-2991aa0a62f3",
+      "id": "3c44729b-0a55-8eaf-e063-6394a90a5ba4",
+      "effective_time": "20250813",
+      "version": "4",
+      "openfda": {
+        "application_number": [
+          "M009"
+        ],
+        "brand_name": [
+          "Dimenhydrinate"
+        ],
+        "generic_name": [
+          "DIMENHYDRINATE"
+        ],
+        "manufacturer_name": [
+          "Major Pharmaceuticals"
+        ],
+        "product_ndc": [
+          "0904-6772"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DIMENHYDRINATE"
+        ],
+        "rxcui": [
+          "198603"
+        ],
+        "spl_id": [
+          "3c44729b-0a55-8eaf-e063-6394a90a5ba4"
+        ],
+        "spl_set_id": [
+          "78d22836-a442-7c0c-e053-2991aa0a62f3"
+        ],
+        "package_ndc": [
+          "0904-6772-12"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0309046772125"
+        ],
+        "unii": [
+          "JB937PER5C"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Dramamine Chewable Dimenhydrinate DIMENHYDRINATE ANHYDROUS CITRIC ACID ASPARTAME FD&C YELLOW NO. 6 ALUMINUM LAKE MAGNESIUM STEARATE MALTODEXTRIN SORBITOL DIMENHYDRINATE 8-CHLOROTHEOPHYLLINE"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts"
+      ],
+      "active_ingredient": [
+        "Active ingredient (in each tablet) Dimenhydrinate 50 mg"
+      ],
+      "purpose": [
+        "Purpose Antiemetic"
+      ],
+      "indications_and_usage": [
+        "Use for prevention and treatment of these symptoms associated with motion sickness: nausea vomiting dizziness"
+      ],
+      "warnings": [
+        "Warnin gs Do not give to children under 12 years of age unless directed by a doctor. Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland Ask a d octor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery I f pregnant or breast-feeding, ask a doctor before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a d octor or pharmacist before use if you are taking sedatives or tranquilizers."
+      ],
+      "when_using": [
+        "When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery"
+      ],
+      "pregnancy_or_breast_feeding": [
+        "I f pregnant or breast-feeding, ask a doctor before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+      ],
+      "dosage_and_administration": [
+        "Directions to prevent motion sickness, the first dose should be taken ½ to 1 hour before starting activity to prevent or treat motion sickness, see below: Adults and children 12 years and over take 1 to 2 chewable tablets every 4-6 hours do not take more than 8 chewable tablets in 24 hours, or as directed by a doctor Children 6 to under 12 years give ½ to 1 chewable tablet every 6-8 hours do not give more than 3 chewable tablets in 24 hours, or as directed by a doctor Children 2 to under 6 years give ½ chewable tablet every 6-8 hours do not give more than 1 ½ chewable tablets in 24 hours, or as directed by a doctor"
+      ],
+      "dosage_and_administration_table": [
+        "<table><col width=\"139\"/><col width=\"318\"/><tbody><tr><td styleCode=\"Rrule\"><content styleCode=\"bold\">Adults and</content><content styleCode=\"bold\">  children 12 </content><content styleCode=\"bold\">  years and over </content></td><td styleCode=\"Lrule\"><list listType=\"unordered\"><item>take 1 to 2 chewable tablets every 4-6 hours</item><item>do not take more than 8 chewable tablets   in 24 hours, or as directed by a doctor </item></list></td></tr><tr><td styleCode=\"Rrule Toprule\"><content styleCode=\"bold\">Children 6 to</content><content styleCode=\"bold\">  under 12 years </content></td><td styleCode=\"Lrule Toprule\"><list listType=\"unordered\"><item>give &#xBD; to 1 chewable tablet every 6-8 hours</item><item>do not give more than 3 chewable tablets   in 24 hours, or as directed by a doctor </item></list></td></tr><tr><td styleCode=\"Rrule Toprule\"><content styleCode=\"bold\">Children 2 to</content><content styleCode=\"bold\">  under 6 years </content></td><td styleCode=\"Lrule Toprule\"><list listType=\"unordered\"><item>give &#xBD; chewable tablet every 6-8 hours</item><item>do not give more than 1 &#xBD; chewable tablets   in 24 hours, or as directed by a doctor </item></list></td></tr></tbody></table>"
+      ],
+      "other_safety_information": [
+        "Other information Phenylketonurics: contains phenylalanine 0.84 mg per tablet store at room temperature 20-25ºC (68-77ºF) see side panel for lot number and expiration date"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients anhydrous-citric-acid, aspartame, FD&C yellow no. 6 aluminum lake, flavors, magnesium stearate, maltodextrin, methacrylic acid copolymer, modified starch, sorbitol"
+      ],
+      "questions": [
+        "Questions? 1-800-382-7219 Dramamine.com"
+      ],
+      "package_label_principal_display_panel": [
+        "Package Labeling: Outer Package Inner Package"
+      ],
+      "set_id": "7a43a0bb-6b0c-440a-9216-9e2eba28a06d",
+      "id": "3de87801-a99e-cd57-e063-6394a90aca05",
+      "effective_time": "20250903",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "M009"
+        ],
+        "brand_name": [
+          "Dramamine Chewable Dimenhydrinate"
+        ],
+        "generic_name": [
+          "DIMENHYDRINATE"
+        ],
+        "manufacturer_name": [
+          "JC World Bell Wholesale Co., Inc."
+        ],
+        "product_ndc": [
+          "50269-525"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DIMENHYDRINATE"
+        ],
+        "rxcui": [
+          "309913",
+          "602223"
+        ],
+        "spl_id": [
+          "3de87801-a99e-cd57-e063-6394a90aca05"
+        ],
+        "spl_set_id": [
+          "7a43a0bb-6b0c-440a-9216-9e2eba28a06d"
+        ],
+        "package_ndc": [
+          "50269-525-00"
+        ],
+        "original_packager_product_ndc": [
+          "63029-902"
+        ],
+        "unii": [
+          "JB937PER5C"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Dimenhydrinate Dimenhydrinate CROSCARMELLOSE SODIUM CROSCARMELLOSE MAGNESIUM STEARATE DIBASIC CALCIUM PHOSPHATE DIHYDRATE DIMENHYDRINATE CHLORTHEOPHYLLINE MICROCRYSTALLINE CELLULOSE 1006;1006"
+      ],
+      "active_ingredient": [
+        "Drug Facts Active ingredient (in each tablet) Dimenhydrinate 50 mg"
+      ],
+      "purpose": [
+        "Purpose Antiemetic"
+      ],
+      "indications_and_usage": [
+        "Uses for the prevention and treatment of nausea, vomiting, or dizziness associated with motion sickness"
+      ],
+      "warnings": [
+        "Do not give to children under 2 years of age unless directed by a doctor Ask a doctor before use if you have ■ glaucoma ■ a breathing problem such as emphysema or chronic bronchitis ■ trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product ■ marked drowsiness may occur ■ avoid alcoholic drinks ■ alcohol, sedatives, and tranquilizers may increase drowsiness ■ use caution when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have ■ glaucoma ■ a breathing problem such as emphysema or chronic bronchitis ■ trouble urinating due to an enlarged prostate gland"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers"
+      ],
+      "when_using": [
+        "When using this product ■ marked drowsiness may occur ■ avoid alcoholic drinks ■ alcohol, sedatives, and tranquilizers may increase drowsiness ■ use caution when driving a motor vehicle or operating machinery"
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children."
+      ],
+      "overdosage": [
+        "In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+      ],
+      "dosage_and_administration": [
+        "Directions ■ to prevent motion sickness, the first dose should be taken one-half to one hour before starting activity ■ adults and children 12 years of age and over: 1 to 2 tablets every 4-6 hours; not to exceed 8 tablets in 24 hours, or as directed by a doctor ■ children 6 to under 12 years of age: 1/2 to 1 tablet every 6-8 hours; not to exceed 3 tablets in 24 hours, or as directed by a doctor ■ children 2 to under 6 years of age: 1/2 tablet every 6-8 hours; not to exceed 1 1/2 tablets in 24 hours, or as directed by a doctor"
+      ],
+      "other_safety_information": [
+        "Other information ■ each tablet contains : calcium 30 mg ■ store in a dry place at 15° – 30°C (59° – 86°F) ■ protect from moisture ■ see end flap for expiration date and lot number ■ TAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER IS TORN OR BROKEN"
+      ],
+      "inactive_ingredient": [
+        "croscarmellose sodium, dicalcium phosphate, magnesium stearate, microcrystalline cellulose"
+      ],
+      "questions": [
+        "Questions or comments? 1-800-231-4670"
+      ],
+      "spl_unclassified_section": [
+        "*This product is not manufactured or distributed by Medtech Products Inc., owner of the registered trademark Dramamine® KEEP OUTER PACKAGE FOR COMPLETE PRODUCT INFORMATION ©2021 Cardinal Health. All Rights Reserved. CARDINAL HEALTH, the Cardinal Health LOGO, LEADER, and the Leader LOGO are trademarks or registered trademarks of Cardinal Health. All other marks are the property of their respective owners DISTRIBUTED BY CARDINAL HEALTH DUBLIN, OHIO 43017 www.myleader.com 1-800-200-6313 Essential to Care™ since 1979 All LEADER™ Brand Products Have A 100% Money Back Guarantee"
+      ],
+      "package_label_principal_display_panel": [
+        "LEADER NDC 7000-0404-1 Original Formula Motion Sickness Relief Dimenhydrinate, 50 mg/ Antiemetic COMPARE TO DRAMAMINE® ORIGINAL FORMULA active ingredient* Fast Acting Motion Sickness Relief for Children & Adults 12 Tablets Cardinal Label"
+      ],
+      "set_id": "7c4adbdb-9bce-0c9c-e053-2a91aa0a8107",
+      "id": "4b4343e5-4d4d-6a4a-e063-6394a90ad2bc",
+      "effective_time": "20260220",
+      "version": "7",
+      "openfda": {
+        "application_number": [
+          "M009"
+        ],
+        "brand_name": [
+          "Dimenhydrinate"
+        ],
+        "generic_name": [
+          "DIMENHYDRINATE"
+        ],
+        "manufacturer_name": [
+          "LEADER/ Cardinal Health 110, Inc."
+        ],
+        "product_ndc": [
+          "70000-0404"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DIMENHYDRINATE"
+        ],
+        "rxcui": [
+          "198603"
+        ],
+        "spl_id": [
+          "4b4343e5-4d4d-6a4a-e063-6394a90ad2bc"
+        ],
+        "spl_set_id": [
+          "7c4adbdb-9bce-0c9c-e053-2a91aa0a8107"
+        ],
+        "package_ndc": [
+          "70000-0404-1"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0096295135183"
+        ],
+        "unii": [
+          "JB937PER5C"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Dimenhydrinate Dimenhydrinate BENZYL ALCOHOL PROPYLENE GLYCOL SODIUM HYDROXIDE HYDROCHLORIC ACID DIMENHYDRINATE CHLORTHEOPHYLLINE WATER"
+      ],
+      "spl_unclassified_section": [
+        "Rx only",
+        "45981C Revised: August 2024 dimen-img-01.jpg"
+      ],
+      "description": [
+        "DESCRIPTION Dimenhydrinate, an anti-nauseant/antiemetic, is the 8-chlorotheophylline salt of diphenhydramine. It contains not less than 53% and not more than 55.5% of diphenhydramine, and not less than 44% and not more than 47% of 8-chlorotheophylline, calculated on the dried basis. Chemically, it is 8-chlorotheophylline compound with 2(diphenylmethoxy)-N,N-dimethylethylamine (1:1), and the structural formula is: C 17 H 21 NO•C 7 H 7 ClN 4 O 2 M.W. 469.96 Dimenhydrinate Injection, USP contains a sterile solution of Dimenhydrinate 50 mg/mL; Propylene Glycol 50%; Benzyl Alcohol 5% as preservative; and Water for Injection q.s. Sodium Hydroxide and/or Hydrochloric Acid may have been used to adjust pH. structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY While the precise mode of action of dimenhydrinate is not known, it has a depressant action on hyperstimulated labyrinthine function."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Dimenhydrinate Injection, USP is indicated for the prevention and treatment of nausea, vomiting, or vertigo of motion sickness."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Neonates and patients with a history of hypersensitivity to dimenhydrinate or its components (diphenhydramine or 8-chlorotheophylline) should not be treated with dimenhydrinate. Note: This product contains Benzyl Alcohol. Benzyl Alcohol has been associated with a fatal “Gasping Syndrome” in premature infants and infants of low birth weight."
+      ],
+      "warnings": [
+        "WARNINGS Caution should be used when dimenhydrinate is given in conjunction with certain antibiotics that may cause ototoxicity, since dimenhydrinate is capable of masking ototoxic symptoms, and an irreversible state may be reached. This drug may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks, such as driving a vehicle or operating machinery. The concomitant use of alcohol or other central nervous system depressants may have an additive effect. Therefore, patients should be warned accordingly. Dimenhydrinate should be used with caution in patients having conditions which might be aggravated by anticholinergic therapy (i.e., prostatic hypertrophy, stenosing peptic ulcer, pyloroduodenal obstruction, bladder neck obstruction, narrow-angle glaucoma, bronchial asthma, or cardiac arrhythmias). The preparation should not be injected intra-arterially. Pediatric Patients For infants and children especially, antihistamines in overdosage may cause hallucinations, convulsions, or death. As in adults, antihistamines may diminish mental alertness in pediatric patients. In the young child, particularly, they may produce excitation (see CONTRAINDICATIONS ).",
+        "Pediatric Patients For infants and children especially, antihistamines in overdosage may cause hallucinations, convulsions, or death. As in adults, antihistamines may diminish mental alertness in pediatric patients. In the young child, particularly, they may produce excitation (see CONTRAINDICATIONS )."
+      ],
+      "precautions": [
+        "PRECAUTIONS General Drowsiness may be experienced by some patients, especially with high dosage. This effect frequently is not undesirable in conditions for which the drug is used. Information for Patients Because of the potential for drowsiness, patients taking dimenhydrinate should be cautioned against operating automobiles or dangerous machinery (see WARNINGS ). Carcinogenesis, Mutagenesis, Impairment of Fertility Mutagenicity screening tests performed with dimenhydrinate, diphenhydramine, and 8-chlorotheophylline produced positive results in the bacterial systems and negative results in the mammalian systems. There are no human data that indicate dimenhydrinate is a carcinogen or mutagen or that it impairs fertility. Pregnancy Pregnancy Category B. Reproduction studies have been performed in rats at doses up to 20 times the human dose, and in rabbits at doses up to 25 times the human dose (on a mg/kg basis), and have revealed no evidence of impaired fertility or harm to the fetus due to dimenhydrinate. There are no adequate and well-controlled studies in pregnant women. However, clinical studies in pregnant women have not indicated that dimenhydrinate increases the risk of abnormalities when administered in any trimester of pregnancy. It would appear that the possibility of fetal harm is remote when the drug is used during pregnancy. Nevertheless, because the studies in humans cannot rule out the possibility of harm, dimenhydrinate should be used during pregnancy only if clearly needed. Labor and Delivery The safety of dimenhydrinate given during labor and delivery has not been established. Reports have indicated dimenhydrinate may have an oxytocic effect. Caution is advised when this effect is unwanted or in situations where it may prove detrimental. Nursing Mothers Small amounts of dimenhydrinate are excreted in breast milk. Because of the potential for adverse reactions in nursing infants from dimenhydrinate, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.",
+        "General Drowsiness may be experienced by some patients, especially with high dosage. This effect frequently is not undesirable in conditions for which the drug is used.",
+        "Information for Patients Because of the potential for drowsiness, patients taking dimenhydrinate should be cautioned against operating automobiles or dangerous machinery (see WARNINGS ).",
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility Mutagenicity screening tests performed with dimenhydrinate, diphenhydramine, and 8-chlorotheophylline produced positive results in the bacterial systems and negative results in the mammalian systems. There are no human data that indicate dimenhydrinate is a carcinogen or mutagen or that it impairs fertility.",
+        "Labor and Delivery The safety of dimenhydrinate given during labor and delivery has not been established. Reports have indicated dimenhydrinate may have an oxytocic effect. Caution is advised when this effect is unwanted or in situations where it may prove detrimental.",
+        "Nursing Mothers Small amounts of dimenhydrinate are excreted in breast milk. Because of the potential for adverse reactions in nursing infants from dimenhydrinate, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother."
+      ],
+      "pregnancy": [
+        "Pregnancy Pregnancy Category B. Reproduction studies have been performed in rats at doses up to 20 times the human dose, and in rabbits at doses up to 25 times the human dose (on a mg/kg basis), and have revealed no evidence of impaired fertility or harm to the fetus due to dimenhydrinate. There are no adequate and well-controlled studies in pregnant women. However, clinical studies in pregnant women have not indicated that dimenhydrinate increases the risk of abnormalities when administered in any trimester of pregnancy. It would appear that the possibility of fetal harm is remote when the drug is used during pregnancy. Nevertheless, because the studies in humans cannot rule out the possibility of harm, dimenhydrinate should be used during pregnancy only if clearly needed."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. The most frequent adverse reaction to dimenhydrinate is drowsiness. Dizziness may also occur. Symptoms of dry mouth, nose and throat, blurred vision, difficult or painful urination, headache, anorexia, nervousness, restlessness or insomnia (especially in pediatric patients), skin rash, thickening of bronchial secretions, tachycardia, epigastric distress, lassitude, excitation, and nausea have been reported."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Drowsiness is the usual clinical side effect. Convulsions, coma, and respiratory depression may occur with massive overdosage. No specific antidote is known. If respiratory depression occurs, mechanically assisted respiration should be initiated and oxygen should be administered. Convulsions should be treated with appropriate doses of diazepam. Phenobarbital (5 to 6 mg/kg) may be given to control convulsions in pediatric patients. The oral LD 50 in mice and rats is 203 mg/kg and 1320 mg/kg, respectively. The intraperitoneal LD 50 in mice is 149 mg/kg."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Dimenhydrinate in the injectable form is indicated when the oral form is impractical. Adults Nausea or vomiting may be expected to be controlled for approximately 4 hours with 50 mg, and prevented by a similar dose every 4 hours. Its administration may be attended by some degree of drowsiness in some patients, and 100 mg every 4 hours may be given in conditions in which drowsiness is not objectionable or is even desirable. For intramuscular administration, each milliliter (50 mg) of solution is injected as needed, but for intravenous administration, each milliliter (50 mg) of solution must be diluted in 10 mL of 0.9% Sodium Chloride Injection, USP and injected over a period of 2 minutes. Pediatric For intramuscular administration, 1.25 mg/kg of body weight or 37.5 mg/m 2 of body surface area is administered four times daily. The maximum dose should not exceed 300 mg daily (see CONTRAINDICATIONS ). Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.",
+        "Adults Nausea or vomiting may be expected to be controlled for approximately 4 hours with 50 mg, and prevented by a similar dose every 4 hours. Its administration may be attended by some degree of drowsiness in some patients, and 100 mg every 4 hours may be given in conditions in which drowsiness is not objectionable or is even desirable. For intramuscular administration, each milliliter (50 mg) of solution is injected as needed, but for intravenous administration, each milliliter (50 mg) of solution must be diluted in 10 mL of 0.9% Sodium Chloride Injection, USP and injected over a period of 2 minutes.",
+        "Pediatric For intramuscular administration, 1.25 mg/kg of body weight or 37.5 mg/m 2 of body surface area is administered four times daily. The maximum dose should not exceed 300 mg daily (see CONTRAINDICATIONS ). Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED DimenhyDRINATE Injection, USP, 50 mg/mL is available in multiple dose amber vials, as follows: Product Code Unit of Sale Strength Each 361601 NDC 63323-366-01 Unit of 25 50 mg per mL NDC 63323-366-00 1 mL in a 2 mL multiple dose vial Protect from light. Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. The container closure is not made with natural rubber latex."
+      ],
+      "how_supplied_table": [
+        "<table width=\"100%\"><col width=\"14%\"/><col width=\"25%\"/><col width=\"22%\"/><col width=\"37%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Product Code</content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Unit of Sale</content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Strength</content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Each</content></paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>361601</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>NDC 63323-366-01 Unit of 25</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>50 mg per mL</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>NDC 63323-366-00 1 mL in a 2 mL multiple dose vial</paragraph></td></tr></tbody></table>"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL - PRINCIPAL DISPLAY - Dimenhydrinate 1 mL Vial Label NDC 63323-366-00 361601 DimenhyDRINATE INJECTION, USP 50 mg per mL For IM Use For IV Use: See package insert. Rx only 1 mL Multiple Dose Vial PACKAGE LABEL - PRINCIPAL DISPLAY - Dimenhydrinate 1 mL Vial Tray Label NDC 63323-366-01 361601 DimenhyDRINATE INJECTION, USP 50 mg per mL For IM Use *For IV Use Rx only 25 x 1 mL Multiple Dose Vials dimen-label-01.jpg dimen-label-02.jpg"
+      ],
+      "set_id": "bc71539e-1a33-4709-8a24-c2894e8dbc1c",
+      "id": "b3e3433d-c18b-4ed3-b2ba-1e550474ca33",
+      "effective_time": "20250115",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "ANDA040519"
+        ],
+        "brand_name": [
+          "Dimenhydrinate"
+        ],
+        "generic_name": [
+          "DIMENHYDRINATE"
+        ],
+        "manufacturer_name": [
+          "Fresenius Kabi USA, LLC"
+        ],
+        "product_ndc": [
+          "63323-366"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAMUSCULAR",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "DIMENHYDRINATE"
+        ],
+        "rxcui": [
+          "309914"
+        ],
+        "spl_id": [
+          "b3e3433d-c18b-4ed3-b2ba-1e550474ca33"
+        ],
+        "spl_set_id": [
+          "bc71539e-1a33-4709-8a24-c2894e8dbc1c"
+        ],
+        "package_ndc": [
+          "63323-366-00",
+          "63323-366-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0363323366001"
+        ],
+        "unii": [
+          "JB937PER5C"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Kids Gravol Chewables Motion Sickness Dimenhydrinate Dimenhydrinate DIMENHYDRINATE DIPHENHYDRAMINE DIACETYLATED MONOGLYCERIDES DIMETHYLAMINOETHYL METHACRYLATE - BUTYL METHACRYLATE - METHYL METHACRYLATE COPOLYMER ASPARTAME CITRIC ACID MONOHYDRATE STARCH, CORN ETHYLCELLULOSE, UNSPECIFIED MAGNESIUM STEARATE MANNITOL MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts"
+      ],
+      "active_ingredient": [
+        "Active ingredient Dimenhydrinate 15 mg"
+      ],
+      "purpose": [
+        "Purpose antiemetic"
+      ],
+      "indications_and_usage": [
+        "Uses For the prevention and treatment of the nausea, vomiting and dizziness associated with motion sickness"
+      ],
+      "warnings": [
+        "Warnings Do not use for children under 2 years of age unless directed by a doctor Ask a doctor before use if you or your child has a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland Ask a doctor before use if you or your child is taking a sedative or tranquilizer When using this product may cause marked drowsiness avoid alcoholic beverages alcohol, sedatives and tranquilizers may increase the drowsiness effect use caution when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+      ],
+      "do_not_use": [
+        "Do not use for children under 2 years of age unless directed by a doctor"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you or your child has a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland Ask a doctor before use if you or your child is taking a sedative or tranquilizer"
+      ],
+      "when_using": [
+        "When using this product may cause marked drowsiness avoid alcoholic beverages alcohol, sedatives and tranquilizers may increase the drowsiness effect use caution when driving a motor vehicle or operating machinery"
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+      ],
+      "dosage_and_administration": [
+        "Directions To prevent motion sickness, the first dose should be taken ½ to 1 hour before starting activity Adults and children 12 years of age and older: take 4 to 6 tablets every 4 to 6 hours. Do not exceed 24 tablets in 24 hours, or as directed by a doctor Children 6 to under 12 years of age: take 2 or 3 tablet every 6 to 8 hours. Do not exceed 10 tablets in 24 hours, or as directed by a doctor Children 2 to under 6 years of age: give 1 tablet every 6-8 hours. Do not give more than 5 tablets in 24 hours, or as directed by a doctor"
+      ],
+      "storage_and_handling": [
+        "Other information Phenylketonurics: contains phenylalanine 5 mg per tablet Store between 59° - 77°F"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients acetylated monoglycerides, amino methacrylate copolymer, aspartame, cherry flavor, citric acid, corn starch, ethylcellulose, magnesium stearate, mannitol, microcrystalline cellulose, polyethylene glycol"
+      ],
+      "questions": [
+        "Questions or comments? Call us at 1-888-334-5387 M-F 9am-5pm ET"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL - 15 mg Blister Pack Carton kids Gravol™ MOTION SICKNESS Dimenhydrinate tablets 15 mg 18 TABLETS CHERRY FLAVOR DYE FREE PRINCIPAL DISPLAY PANEL - 15 mg Blister Pack Carton"
+      ],
+      "set_id": "cf6de950-a157-4be2-a302-0dc19511d2f2",
+      "id": "3ded8e7f-8488-49bd-94bd-42d46b5729b6",
+      "effective_time": "20240301",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "M009"
+        ],
+        "brand_name": [
+          "Kids Gravol Chewables Motion Sickness Dimenhydrinate"
+        ],
+        "generic_name": [
+          "DIMENHYDRINATE"
+        ],
+        "manufacturer_name": [
+          "Church & Dwight Co., Inc."
+        ],
+        "product_ndc": [
+          "10237-944"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DIMENHYDRINATE"
+        ],
+        "rxcui": [
+          "245356",
+          "2686036"
+        ],
+        "spl_id": [
+          "3ded8e7f-8488-49bd-94bd-42d46b5729b6"
+        ],
+        "spl_set_id": [
+          "cf6de950-a157-4be2-a302-0dc19511d2f2"
+        ],
+        "package_ndc": [
+          "10237-944-18"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0022600002840"
+        ],
+        "unii": [
+          "JB937PER5C"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Gravol Chewables Motion Sickness Dimenhydrinate Dimenhydrinate DIMENHYDRINATE DIPHENHYDRAMINE DIACETYLATED MONOGLYCERIDES DIMETHYLAMINOETHYL METHACRYLATE - BUTYL METHACRYLATE - METHYL METHACRYLATE COPOLYMER ASPARTAME CITRIC ACID MONOHYDRATE STARCH, CORN ETHYLCELLULOSE (10 MPA.S) FD&C YELLOW NO. 6 MAGNESIUM STEARATE MANNITOL MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts"
+      ],
+      "active_ingredient": [
+        "Active ingredient Dimenhydrinate 50 mg"
+      ],
+      "purpose": [
+        "Purpose antiemetic"
+      ],
+      "indications_and_usage": [
+        "Uses For the prevention and treatment of the nausea, vomiting and dizziness associated with motion sickness"
+      ],
+      "warnings": [
+        "Warnings Do not use for children under 2 years of age unless directed by a doctor Ask a doctor before use if you or your child has a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland Ask a doctor before use if you or your child is taking a sedative or tranquilizer When using this product may cause marked drowsiness avoid alcoholic beverages alcohol, sedatives and tranquilizers may increase the drowsiness effect use caution when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison control Center (1-800-222-1222) right away."
+      ],
+      "do_not_use": [
+        "Do not use for children under 2 years of age unless directed by a doctor"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you or your child has a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland Ask a doctor before use if you or your child is taking a sedative or tranquilizer"
+      ],
+      "when_using": [
+        "When using this product may cause marked drowsiness avoid alcoholic beverages alcohol, sedatives and tranquilizers may increase the drowsiness effect use caution when driving a motor vehicle or operating machinery"
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison control Center (1-800-222-1222) right away."
+      ],
+      "dosage_and_administration": [
+        "Directions To prevent motion sickness, the first dose should be taken ½ to 1 hour before starting activity Adults and children 12 years of age and older: take 1 to 2 tablets every 4 to 6 hours. Do not exceed 8 tablets in 24 hours, or as directed by a doctor Children 6 to under 12 years of age: take ½ to 1 tablet every 6 to 8 hours. Do not exceed 3 tablets in 24 hours, or as directed by a doctor Children 2 to under 6 years of age: give ½ tablet every 6-8 hours. Do not give more than 1 ½ tablets in 24 hours, or as directed by a doctor"
+      ],
+      "storage_and_handling": [
+        "Other information Phenylketunurics: contains phenylalanine 15 mg per tablet Store between 59° - 77°F"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients acetylated monoglycendes, amino methacrylate copolymer, aspartame, citric acid, com starch, ethylcellulose, FD&C yellow 6 aluminum lake, magnesium stearate, mannitol, microcrystalline cellulose, orange flavor, polyethylene glycol"
+      ],
+      "questions": [
+        "Questions or comments? Call us at 1-888-334--5387 M-F 9am-5pm ET"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL - 50 mg Blister Pack Carton Prevents and Treats: Nausea, Vomiting & Dizziness* *Prevention and treatment of nausea, vomiting and dizziness due to motion sickness Gravol™ CHEWABLES Gravol™ MOTION SICKNESS Dimenhydrinate tablets 50 mg 8 TABLETS ORANGE FLAVOR PRINCIPAL DISPLAY PANEL - 50 mg Blister Pack Carton"
+      ],
+      "set_id": "de5249f7-79fc-4f3c-965a-1e8ec978a0b7",
+      "id": "a9e0cd6a-8998-4833-ada9-588ef9719542",
+      "effective_time": "20240301",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "M009"
+        ],
+        "brand_name": [
+          "Gravol Chewables Motion Sickness Dimenhydrinate"
+        ],
+        "generic_name": [
+          "DIMENHYDRINATE"
+        ],
+        "manufacturer_name": [
+          "Church & Dwight Co., Inc."
+        ],
+        "product_ndc": [
+          "10237-943"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DIMENHYDRINATE"
+        ],
+        "rxcui": [
+          "309913",
+          "2678106"
+        ],
+        "spl_id": [
+          "a9e0cd6a-8998-4833-ada9-588ef9719542"
+        ],
+        "spl_set_id": [
+          "de5249f7-79fc-4f3c-965a-1e8ec978a0b7"
+        ],
+        "package_ndc": [
+          "10237-943-08"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "JB937PER5C"
+        ]
+      }
+    }
+  ]
+}

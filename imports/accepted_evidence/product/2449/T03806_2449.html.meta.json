@@ -1,0 +1,14 @@
+{
+  "source_id": "2449",
+  "task_id": "T03806",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Kremil-S+tabslet",
+  "local_path": "imports/accepted_evidence/product/2449/T03806_2449.html",
+  "sha256": "2157e01dbc81bd1d3e9c022d35f4eb9e1b14949fe909aae767b8926a5d353694",
+  "downloaded_at": "2026-05-16T03:42:52.764743+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:411:2449",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

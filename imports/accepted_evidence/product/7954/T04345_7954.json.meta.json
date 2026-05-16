@@ -1,0 +1,14 @@
+{
+  "source_id": "7954",
+  "task_id": "T04345",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Gyno%20Gena-500&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7954/T04345_7954.json",
+  "sha256": "4c3deb7701c052b07cb263925dd5d5b07c97052df2b5da0d4d8f94ca87e58603",
+  "downloaded_at": "2026-05-16T03:44:15.028927+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:485:7954",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

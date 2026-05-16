@@ -1,0 +1,14 @@
+{
+  "source_id": "3906",
+  "task_id": "T06185",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=U-Enema",
+  "local_path": "imports/accepted_evidence/product/3906/T06185_3906.html",
+  "sha256": "5c02e0f9457a011c9076c4ad1c6e8c65fcb84b101fb74f1048422ce132988699",
+  "downloaded_at": "2026-05-16T03:48:50.638153+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:732:3906",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

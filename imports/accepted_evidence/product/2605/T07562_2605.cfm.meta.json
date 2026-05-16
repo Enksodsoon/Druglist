@@ -1,0 +1,14 @@
+{
+  "source_id": "2605",
+  "task_id": "T07562",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Mar+Plus+5%25+Nasal+Spray",
+  "local_path": "imports/accepted_evidence/product/2605/T07562_2605.cfm",
+  "sha256": "c8eceba96c59b19c6550e9826c589e1c65c6c0f2e91ab3292dacf1fff55f73aa",
+  "downloaded_at": "2026-05-16T03:52:21.697086+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:896:2605",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

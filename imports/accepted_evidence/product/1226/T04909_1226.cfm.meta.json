@@ -1,0 +1,14 @@
+{
+  "source_id": "1226",
+  "task_id": "T04909",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bestatin+10+mg",
+  "local_path": "imports/accepted_evidence/product/1226/T04909_1226.cfm",
+  "sha256": "26a3569786460013f007da66c0a7c28e4f9d7bb7b79ade90fe6a89bed5625b36",
+  "downloaded_at": "2026-05-16T03:45:38.490016+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:567:1226",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

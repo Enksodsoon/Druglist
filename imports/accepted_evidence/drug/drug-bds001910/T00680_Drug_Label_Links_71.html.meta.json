@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_71",
+  "task_id": "T00680",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=fusidic+acid+%2B+hydrocortisone+cream",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001910/T00680_Drug_Label_Links_71.html",
+  "sha256": "2e00fec043d042010899255a43aa19ea93b7a514b50ff739de2b9b29f02006ff",
+  "downloaded_at": "2026-05-16T03:35:14.484874+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:71:Drug_Label_Links_71",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

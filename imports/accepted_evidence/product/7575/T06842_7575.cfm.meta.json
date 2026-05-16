@@ -1,0 +1,14 @@
+{
+  "source_id": "7575",
+  "task_id": "T06842",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Neofenac+Gel+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/7575/T06842_7575.cfm",
+  "sha256": "170e239e0c5043a91099e50593c43491462ce3c3c60b8ceeb43c8fb0238c34b4",
+  "downloaded_at": "2026-05-16T03:50:30.878489+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:808:7575",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

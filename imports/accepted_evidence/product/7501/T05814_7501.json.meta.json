@@ -1,0 +1,14 @@
+{
+  "source_id": "7501",
+  "task_id": "T05814",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Betatone%20Cream%20%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7501/T05814_7501.json",
+  "sha256": "c43353bbc1a8cc9d80b5249aa8e7ef376ec3b73ad2c2ecf93e6d801c2d7c7638",
+  "downloaded_at": "2026-05-16T03:47:52.535178+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:683:7501",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

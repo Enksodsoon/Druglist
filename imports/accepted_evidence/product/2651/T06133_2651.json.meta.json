@@ -1,0 +1,14 @@
+{
+  "source_id": "2651",
+  "task_id": "T06133",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Myda-B%20Cream%20%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2651/T06133_2651.json",
+  "sha256": "b4f3f73d0bcdac0bbbc8db71294a3ace6611bd9c708b7f5512790c31e5cefe70",
+  "downloaded_at": "2026-05-16T03:48:41.088881+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:725:2651",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

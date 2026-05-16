@@ -1,0 +1,14 @@
+{
+  "source_id": "40029",
+  "task_id": "T00994",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=Cetirizine+dihydrochloride",
+  "local_path": "imports/accepted_evidence/product/40029/T00994_40029.html",
+  "sha256": "b513a6b2ffaf0e0a48a010339f78b3c9039ced6075c3d4ed5399e3abbd1069d0",
+  "downloaded_at": "2026-05-16T03:35:55.329615+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:34:40029|Product_Label_Links:66:4224|Product_Label_Links:67:49778|Product_Label_Links:68:4213|Product_Label_Links:69:8754",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

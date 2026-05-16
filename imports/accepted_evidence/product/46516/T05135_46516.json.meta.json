@@ -1,0 +1,14 @@
+{
+  "source_id": "46516",
+  "task_id": "T05135",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Pregabalin%20Sandoz%2025%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/46516/T05135_46516.json",
+  "sha256": "af8ab99ce67e56d427129fff9d4a5cf9471d3e48637b68e82a6052adbafd4f01",
+  "downloaded_at": "2026-05-16T03:46:10.780537+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:599:46516",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

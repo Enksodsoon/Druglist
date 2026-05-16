@@ -1,0 +1,14 @@
+{
+  "source_id": "3714",
+  "task_id": "T06592",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tears+Naturale+Free",
+  "local_path": "imports/accepted_evidence/product/3714/T06592_3714.cfm",
+  "sha256": "fa12cf2e0367ea9c21a947df2cdf4e19726f2ec021f12cc73ee68dc342ddf2d1",
+  "downloaded_at": "2026-05-16T03:49:53.796768+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:776:3714",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

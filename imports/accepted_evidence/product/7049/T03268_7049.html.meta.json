@@ -1,0 +1,14 @@
+{
+  "source_id": "7049",
+  "task_id": "T03268",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Cenasic",
+  "local_path": "imports/accepted_evidence/product/7049/T03268_7049.html",
+  "sha256": "4423e3514db0fdcf542fab502712b5527a44624e5bb3124fa957a186a4444a3c",
+  "downloaded_at": "2026-05-16T03:41:30.226437+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:337:7049",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

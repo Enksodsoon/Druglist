@@ -1,0 +1,14 @@
+{
+  "source_id": "41434",
+  "task_id": "T05374",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=C-Force%201000&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/41434/T05374_41434.json",
+  "sha256": "1df3861cbc5801564a091cdfaa4edf9cf9de85d8a6a8bc583391bf1bd6602017",
+  "downloaded_at": "2026-05-16T03:46:45.051425+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:629:41434",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

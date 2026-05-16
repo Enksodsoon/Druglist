@@ -1,0 +1,14 @@
+{
+  "source_id": "1660",
+  "task_id": "T05908",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dermovate%20Scalp&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1660/T05908_1660.json",
+  "sha256": "242fee0d8041d6a09a837c3a9b6a2353128664e28eea5e2cbcec26086c4462bf",
+  "downloaded_at": "2026-05-16T03:48:06.738275+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:695:1660",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

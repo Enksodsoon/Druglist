@@ -1,0 +1,14 @@
+{
+  "source_id": "43612",
+  "task_id": "T04805",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Vildagliptin",
+  "local_path": "imports/accepted_evidence/product/43612/T04805_43612.cfm",
+  "sha256": "786d0ab288c7bd0c88771873a74f3f518e0874245ff5ed95194a9690559065e7",
+  "downloaded_at": "2026-05-16T03:45:22.737162+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:550:43612",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

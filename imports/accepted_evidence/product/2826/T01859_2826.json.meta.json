@@ -1,0 +1,14 @@
+{
+  "source_id": "2826",
+  "task_id": "T01859",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ninazol%20T.O.&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2826/T01859_2826.json",
+  "sha256": "1f6dcd9254bf885fb9ad0e569863fe2963c12cc0ee038a7cad5114a062d78238",
+  "downloaded_at": "2026-05-16T03:38:00.591569+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:147:2826",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "40601",
+  "task_id": "T03994",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Beriz",
+  "local_path": "imports/accepted_evidence/product/40601/T03994_40601.cfm",
+  "sha256": "c688c0e51a11e318a56700096d3d35222c114ee1cff6eecbb533555ed9d9821f",
+  "downloaded_at": "2026-05-16T03:43:21.177591+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:435:40601",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

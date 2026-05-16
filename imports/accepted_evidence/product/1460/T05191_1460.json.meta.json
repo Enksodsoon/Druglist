@@ -1,0 +1,14 @@
+{
+  "source_id": "1460",
+  "task_id": "T05191",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Colchicine%200.6%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1460/T05191_1460.json",
+  "sha256": "cac6720d4516f1fd8ea867a27aca9147c1d8a2deb2bddbabc46fb49e082c601f",
+  "downloaded_at": "2026-05-16T03:46:19.145552+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:606:1460",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

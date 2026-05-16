@@ -1,0 +1,14 @@
+{
+  "source_id": "7572",
+  "task_id": "T01848",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=J.V.Nazole",
+  "local_path": "imports/accepted_evidence/product/7572/T01848_7572.cfm",
+  "sha256": "67f80c330ce21f44dd911237a226d635314da6f2537999e91bbde22cbcf49115",
+  "downloaded_at": "2026-05-16T03:37:59.398377+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:146:7572",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

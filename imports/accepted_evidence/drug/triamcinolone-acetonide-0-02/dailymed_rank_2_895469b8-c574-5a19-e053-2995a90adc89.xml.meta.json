@@ -1,0 +1,17 @@
+{
+  "source_id": "DRUG_BDS001057",
+  "task_id": "DAILYMED_2_895469b8-c574-5a19-e053-2995a90adc89",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/895469b8-c574-5a19-e053-2995a90adc89.xml",
+  "local_path": "imports/accepted_evidence/drug/triamcinolone-acetonide-0-02/dailymed_rank_2_895469b8-c574-5a19-e053-2995a90adc89.xml",
+  "sha256": "32267bcf987b17cf0ba0665f4168814dc0f567f74c4293fc4fec389151b2d96d",
+  "downloaded_at": "2026-05-16T03:53:05.555105+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Drug_Label_Links",
+  "query_name": "Triamcinolone Acetonide 0.02%",
+  "rank": 2,
+  "setid": "895469b8-c574-5a19-e053-2995a90adc89",
+  "title": "HYDROQUINONE 4% / TRETINOIN 0.025% / TRIAMCINOLONE ACETONIDE 0.025% EMULSION [SINCERUS FLORIDA, LLC]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

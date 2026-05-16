@@ -1,0 +1,14 @@
+{
+  "source_id": "6802",
+  "task_id": "T05031",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=GPO+-+HCTZ+25",
+  "local_path": "imports/accepted_evidence/product/6802/T05031_6802.html",
+  "sha256": "81a37d12f53126fc7e49ba575cfae6ff45f6ee62101ffd4cfe061b05f0447878",
+  "downloaded_at": "2026-05-16T03:45:56.952146+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:584:6802",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

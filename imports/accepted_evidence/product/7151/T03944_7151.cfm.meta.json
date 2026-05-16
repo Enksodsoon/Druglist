@@ -1,0 +1,14 @@
+{
+  "source_id": "7151",
+  "task_id": "T03944",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ibukids+Suspension",
+  "local_path": "imports/accepted_evidence/product/7151/T03944_7151.cfm",
+  "sha256": "92e41e8d38635b45e3de1b26ece0c9791a7c6b4939730460ef5a7e71c7a40f84",
+  "downloaded_at": "2026-05-16T03:43:13.977418+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:428:7151",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "43123",
+  "task_id": "T01286",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Acetylcysteine%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/43123/T01286_43123.json",
+  "sha256": "fde7df490df2d15cfe6022346a77f8f8496cfcba5ec34b689a8ce57d586cceb7",
+  "downloaded_at": "2026-05-16T03:36:34.877742+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:75:43123|Product_Label_Links:76:43124|Product_Label_Links:79:1936|Product_Label_Links:83:2640|Product_Label_Links:84:8135",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

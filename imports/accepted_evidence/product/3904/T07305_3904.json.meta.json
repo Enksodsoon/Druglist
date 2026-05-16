@@ -1,0 +1,14 @@
+{
+  "source_id": "3904",
+  "task_id": "T07305",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Carbomer%20%2BCetrimide%20%2BSorbitol%2B%20hydroxide%20%2BWater%20for%20injections/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3904/T07305_3904.json",
+  "sha256": "9ccc816bb11c4ed0afa7062a9455aaec07151566c6b0d1cb4f89cc38dd8cecbf",
+  "downloaded_at": "2026-05-16T03:51:41.843034+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:866:3904",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

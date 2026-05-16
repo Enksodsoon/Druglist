@@ -1,0 +1,14 @@
+{
+  "source_id": "3016",
+  "task_id": "T06648",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Distilled+Witch+Hazel+13+0+v%2Fv%2BBenzalkonium+Chloride+0+005+w%2Fv%2BBorax%2BBoric+Acid%2F",
+  "local_path": "imports/accepted_evidence/product/3016/T06648_3016.cfm",
+  "sha256": "2509d31efa89fa532c3297ab6ee96cfc715a139dad513d1847901aee0160d1ae",
+  "downloaded_at": "2026-05-16T03:50:03.133466+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:783:3016",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

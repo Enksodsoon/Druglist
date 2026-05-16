@@ -1,0 +1,14 @@
+{
+  "source_id": "3708",
+  "task_id": "T01728",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Terbuhim",
+  "local_path": "imports/accepted_evidence/product/3708/T01728_3708.cfm",
+  "sha256": "991e1751be07dc3ef0133ac10f3d498566bdec8083c9fa3f429d1e28bb7820e6",
+  "downloaded_at": "2026-05-16T03:37:41.013588+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:130:3708",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

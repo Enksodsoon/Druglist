@@ -1,0 +1,14 @@
+{
+  "source_id": "41499",
+  "task_id": "T01055",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Clarityne",
+  "local_path": "imports/accepted_evidence/product/41499/T01055_41499.html",
+  "sha256": "7d2b9d421aa167338805dc5daaf09c4d67ccd3478cff9db851baacc7491a6870",
+  "downloaded_at": "2026-05-16T03:36:05.611955+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:41:41499",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

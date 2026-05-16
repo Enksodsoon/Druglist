@@ -1,0 +1,14 @@
+{
+  "source_id": "40017",
+  "task_id": "T00788",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Augmentin+1+g.",
+  "local_path": "imports/accepted_evidence/product/40017/T00788_40017.cfm",
+  "sha256": "39b99da1ef24b8a4ad92da132c79a4e74df6150c741b4779683ac25a5e062a82",
+  "downloaded_at": "2026-05-16T03:35:27.287075+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:5:40017",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

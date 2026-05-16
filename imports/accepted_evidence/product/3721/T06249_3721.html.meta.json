@@ -1,0 +1,14 @@
+{
+  "source_id": "3721",
+  "task_id": "T06249",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Terramycin+Ophthalmic+Ointment",
+  "local_path": "imports/accepted_evidence/product/3721/T06249_3721.html",
+  "sha256": "36f78f158b039ca7499f862fab0d1fd0668d444dff5201e7d227f2d6918844d6",
+  "downloaded_at": "2026-05-16T03:48:59.329367+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:740:3721",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

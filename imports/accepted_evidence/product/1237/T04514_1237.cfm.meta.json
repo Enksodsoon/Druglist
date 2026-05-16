@@ -1,0 +1,14 @@
+{
+  "source_id": "1237",
+  "task_id": "T04514",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betalol+10+mg",
+  "local_path": "imports/accepted_evidence/product/1237/T04514_1237.cfm",
+  "sha256": "62f09e5125e575c568c49da336a44a0d53dc4c4205c95d176720ebead3d9820d",
+  "downloaded_at": "2026-05-16T03:44:41.039082+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:511:1237",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

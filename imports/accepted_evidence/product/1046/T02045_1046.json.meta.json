@@ -1,0 +1,14 @@
+{
+  "source_id": "1046",
+  "task_id": "T02045",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=AMK%20228&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1046/T02045_1046.json",
+  "sha256": "adabbc9a6c511594ead089e7d0cf8d9592de42114dee1a9818e27abd2f1d8454",
+  "downloaded_at": "2026-05-16T03:38:26.953943+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:171:1046",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

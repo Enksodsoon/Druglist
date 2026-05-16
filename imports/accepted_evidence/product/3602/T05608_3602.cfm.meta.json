@@ -1,0 +1,14 @@
+{
+  "source_id": "3602",
+  "task_id": "T05608",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Methyl+salicylate+%2BMenthol+%2F",
+  "local_path": "imports/accepted_evidence/product/3602/T05608_3602.cfm",
+  "sha256": "473371b8640250b063bf42265edc038d1e6ebf2e436b27dd40188285f26c312c",
+  "downloaded_at": "2026-05-16T03:47:21.810851+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:658:3602",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

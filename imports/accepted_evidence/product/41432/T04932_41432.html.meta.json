@@ -1,0 +1,14 @@
+{
+  "source_id": "41432",
+  "task_id": "T04932",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Chlovas-40+mg.",
+  "local_path": "imports/accepted_evidence/product/41432/T04932_41432.html",
+  "sha256": "45c0ab76eebf844beff262d7e6b553e3279b03168ad96b8eac9c5cb673e09f84",
+  "downloaded_at": "2026-05-16T03:45:42.689136+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:570:41432",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

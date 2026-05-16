@@ -1,0 +1,14 @@
+{
+  "source_id": "8652",
+  "task_id": "T00854",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=Dicloxacillin",
+  "local_path": "imports/accepted_evidence/product/8652/T00854_8652.html",
+  "sha256": "831a3bd3e3e5ddc7d584795a22502ad5d28b719db115865a7f0ab12356ffac4b",
+  "downloaded_at": "2026-05-16T03:35:35.573903+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:12:8652|Product_Label_Links:13:8702",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

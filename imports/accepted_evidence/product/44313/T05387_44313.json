@@ -1,0 +1,941 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 2199
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Moisturizing Antibacterial Benzalkonium chloride WATER LAURAMINE OXIDE COCAMIDOPROPYL BETAINE LAURAMIDOPROPYLAMINE OXIDE SODIUM CHLORIDE MYRISTAMIDOPROPYLAMINE OXIDE GLYCERIN DISTEARETH-75 ISOPHORONE DIISOCYANATE PEG-150 DISTEARATE CITRIC ACID MONOHYDRATE EDETATE SODIUM SULISOBENZONE SODIUM BENZOATE MANDARIN OIL GREEN TEA LEAF GINGER OIL FD&C BLUE NO. 1 FD&C YELLOW NO. 5 BENZALKONIUM CHLORIDE BENZALKONIUM"
+      ],
+      "active_ingredient": [
+        "Active ingredient Benzalkonium chloride 0.13%"
+      ],
+      "purpose": [
+        "Purpose Antibacterial"
+      ],
+      "indications_and_usage": [
+        "Use For handwashing to decrease bacteria on the skin"
+      ],
+      "warnings": [
+        "Warnings For external use only: hands only"
+      ],
+      "when_using": [
+        "When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours"
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions wet hands apply palmful to hands scrub thoroughly rinse thoroughly"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients water, lauramine oxide, cocamidopropyl betaine, lauramidopropylamine oxide, sodium chloride, myristamidopropylamine oxide, glycerin, fragrance, disteareth-75 IPDI, PEG-150 distearate, citric acid, tetrasodium EDTA, benzophenone-4, sodium benzoate, Citrus nobilis (mandarin orange) oil, Camellia sinensis leaf extract, Zingiber officinale (ginger) root oil, blue 1, yellow 5"
+      ],
+      "questions": [
+        "Questions? 1-888-287-1915"
+      ],
+      "spl_unclassified_section": [
+        "DISTRIBUTED BY: Walmart Inc., Bentonville, AR 72716 *This product is not manufactured or distributed by Colgate-Palmolive Company, owner of trademark Softsoap ® Antibacterial Hand Soap with Moisturizers Fresh Citrus* Satisfaction guaranteed - Or we'll replace it or give you your money back. For questions or comments or to report an undesired reaction or side effect, please call 1-888-287-1915. Made in the USA with domestic and imported ingredients Factory Certified Empty Before Recycling PLASTIC BOTTLE how2recycle.info"
+      ],
+      "package_label_principal_display_panel": [
+        "principal display panel NDC 79903-165-50 equate™ Compare to Softsoap ® Antibacterial Hand Soap with Moisturizers Fresh Citrus* active ingredient Citrus LIQUID HAND SOAP ANTIBACTERIAL With light moisturizers Helps kill harmful germs 50 FL OZ (1 QT 1 PT 2 FL OZ) 1.47 L image description image description"
+      ],
+      "set_id": "0001d1cf-f727-4875-a44f-5a51f7b617a4",
+      "id": "4bd51523-4ef1-19eb-e063-6294a90a84c8",
+      "effective_time": "20260227",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "505G(a)(3)"
+        ],
+        "brand_name": [
+          "Moisturizing Antibacterial"
+        ],
+        "generic_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Walmart Inc."
+        ],
+        "product_ndc": [
+          "79903-165"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "rxcui": [
+          "1046593"
+        ],
+        "spl_id": [
+          "4bd51523-4ef1-19eb-e063-6294a90a84c8"
+        ],
+        "spl_set_id": [
+          "0001d1cf-f727-4875-a44f-5a51f7b617a4"
+        ],
+        "package_ndc": [
+          "79903-165-50"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "F5UM2KM3W7"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Antibacterial 2X Benzalkonium Chloride WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE SODIUM CHLORIDE GLYCERIN DITETRACYCLINE TETRASODIUM EDETATE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FD&C YELLOW NO. 5 FD&C RED NO. 4 BENZALKONIUM CHLORIDE BENZALKONIUM"
+      ],
+      "active_ingredient": [
+        "Benzalkonium Chloride - 0.13%"
+      ],
+      "purpose": [
+        "Purpose: Antibacterial"
+      ],
+      "dosage_and_administration": [
+        "Direction wet hands apply palmful to hands scrub thoroughly rinse"
+      ],
+      "warnings": [
+        "For external use only"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if irritation or redness develops"
+      ],
+      "when_using": [
+        "When using this product do not get it into eyes. If contact occurs, rinse eye thoroughly with water"
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away"
+      ],
+      "inactive_ingredient": [
+        "Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Citric Acid, Glycerin, Fragrance, Tetrasodium EDTA, Methylchloroisothiazolinone, Methylisothiazolinone, Yellow# 5 (Cl 19140), Red# 4 (Cl 14700)"
+      ],
+      "indications_and_usage": [
+        "Uses for handwashing or decrease bacteria to the skin"
+      ],
+      "package_label_principal_display_panel": [
+        "16-16 2X"
+      ],
+      "set_id": "00179db3-5a76-4724-a848-28e71eb580a6",
+      "id": "2b2182c1-f5a7-a269-e063-6394a90afe0f",
+      "effective_time": "20250107",
+      "version": "6",
+      "openfda": {
+        "application_number": [
+          "505G(a)(3)"
+        ],
+        "brand_name": [
+          "Antibacterial 2X"
+        ],
+        "generic_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Sante Manufacturing Inc"
+        ],
+        "product_ndc": [
+          "71020-016"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "rxcui": [
+          "1046593"
+        ],
+        "spl_id": [
+          "2b2182c1-f5a7-a269-e063-6394a90afe0f"
+        ],
+        "spl_set_id": [
+          "00179db3-5a76-4724-a848-28e71eb580a6"
+        ],
+        "package_ndc": [
+          "71020-016-16",
+          "71020-016-20"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0852474166368"
+        ],
+        "unii": [
+          "F5UM2KM3W7"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Potassium Chloride Potassium Chloride HYDROGENATED COTTONSEED OIL HYDROXYPROPYL CELLULOSE, UNSPECIFIED SILICON DIOXIDE POLYVINYL ALCOHOL TITANIUM DIOXIDE POLYETHYLENE GLYCOL, UNSPECIFIED LECITHIN, SOYBEAN TALC POTASSIUM CHLORIDE POTASSIUM CATION white to off-white Biconvex YH;105;10 Potassium Chloride Potassium Chloride LECITHIN, SOYBEAN TALC HYDROGENATED COTTONSEED OIL HYDROXYPROPYL CELLULOSE, UNSPECIFIED SILICON DIOXIDE POLYVINYL ALCOHOL TITANIUM DIOXIDE POLYETHYLENE GLYCOL, UNSPECIFIED POTASSIUM CHLORIDE POTASSIUM CATION white to off-white Biconvex YH;106;8"
+      ],
+      "indications_and_usage": [
+        "1 INDICATIONS AND USAGE Potassium Chloride Extended-Release Tablets are indicated for the treatment and prophylaxis of hypokalemia with or without metabolic alkalosis, in patients for whom dietary management with potassium-rich foods or diuretic dose reduction is insufficient. Potassium Chloride Extended-Release Tablets are a potassium salt, indicated for the treatment and prophylaxis of hypokalemia with or without metabolic alkalosis in patients for whom dietary management with potassium-rich foods or diuretic dose reduction is insufficient. (1)"
+      ],
+      "dosage_and_administration": [
+        "2 DOSAGE AND ADMINISTRATION Monitor serum potassium and adjust dosages accordingly (2.1) If serum potassium is less than 2.5 mEq/L, use intravenous potassium instead of oral supplementation (2.1) Take with meals and with a glass of water or other liquid. Swallow tablets whole without crushing, chewing or sucking. (2.1) Treatment of hypokalemia : Doses range from 40 to 100 mEq/day in divided doses. Limit doses to 40 mEq per dose. (2.2) Prevention of hypokalemia : Typical dose is 20 mEq per day. (2.2) 2.1 Administration and Monitoring If serum potassium concentration is less than 2.5 mEq/L, use intravenous potassium instead of oral supplementation. Monitoring Monitor serum potassium and adjust dosages accordingly. Monitor serum potassium periodically during maintenance therapy to ensure potassium remains in desired range. The treatment of potassium depletion, particularly in the presence of cardiac disease, renal disease, or acidosis, requires careful attention to acid-base balance, volume status, electrolytes, including magnesium, sodium, chloride, phosphate, and calcium, electrocardiograms, and the clinical status of the patient. Correct volume status, acid-base balance, and electrolyte deficits as appropriate. Administration Take potassium chloride extended-release tablets with meals and with a glass of water or other liquid. Do not take potassium chloride extended-release tablets on an empty stomach because of its potential for gastric irritation [see Warnings and Precautions ( 5.1 )] . Swallow tablets whole without crushing, chewing or sucking. 2.2 Dosing Dosage must be adjusted to the individual needs of each patient. Dosages greater than 40 mEq per day should be divided such that no more than 40 mEq is given in a single dose. Treatment of Hypokalemia: Typical dose range is 40 to 100 mEq per day. Maintenance or Prophylaxis: Typical dose range is 20 mEq per day."
+      ],
+      "dosage_forms_and_strengths": [
+        "3 DOSAGE FORMS AND STRENGTHS Potassium Chloride Extended-Release Tablets, USP are supplied as: The 8 mEq (600 mg) tablets are white to off-white, round, biconvex, coated tablets, debossed with “YH” and “106” on one side, and “8” on the other side. The 10 mEq (750 mg) tablets are white to off-white, round, biconvex, coated tablets, debossed with “YH” and “105” on one side, and “10” on the other side. Tablets: 600 mg (8 mEq) and 750 mg (10 mEq) (3)"
+      ],
+      "contraindications": [
+        "4 CONTRAINDICATIONS Potassium chloride is contraindicated in patients on triamterene and amiloride. Concomitant use with triamterene and amiloride (4)"
+      ],
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Gastrointestinal Irritation: Take with meals (5.1) 5.1 Gastrointestinal Adverse Reactions Solid oral dosage forms of potassium chloride can produce ulcerative and/or stenotic lesions of the gastrointestinal tract, particularly if the drug maintains contact with the gastrointestinal mucosa for prolonged periods. Consider the use of liquid potassium in patients with dysphagia, swallowing disorders, or severe gastrointestinal motility disorders. If severe vomiting, abdominal pain, distention, or gastrointestinal bleeding occurs, discontinue potassium chloride extended-release tablets and consider possibility of ulceration, obstruction or perforation. Potassium chloride extended-release tablets should not be taken on an empty stomach because of its potential for gastric irritation [see Dosage and Administration (2.1) ] ."
+      ],
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The most common adverse reactions are nausea, vomiting, flatulence, abdominal pain/discomfort and diarrhea. (6) To report SUSPECTED ADVERSE REACTIONS, contact Epic Pharma, LLC at 1-888-374-2791 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch The following adverse reactions have been identified with use of oral potassium salts. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. There have been reports hyperkalemia and of upper and lower gastrointestinal condition including obstruction, bleeding, ulceration, perforation. Skin rash has been reported rarely."
+      ],
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Triamterene and amiloride: Concomitant use is contraindicated (7.1) Renin-angiotensin-aldosterone inhibitors: Monitor for hyperkalemia (7.2) Nonsteroidal anti-inflammatory drugs: Monitor for hyperkalemia (7.3) 7.1 Triamterene or amiloride Use with triamterene or amiloride can produce severe hyperkalemia. Concomitant use is contraindicated [see Contraindications (4) ]. 7.2 Renin-angiotensin-aldosterone Inhibitors Drugs that inhibit the renin-angiotensin-aldosterone system (RAAS) including angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), spironolactone, eplerenone, or aliskiren produce potassium retention by inhibiting aldosterone production. Closely monitor potassium in patients on concomitant RAAS inhibitors. 7.3 Nonsteroidal Anti-inflammatory Drugs (NSAIDs) NSAIDS may produce potassium retention by reducing renal synthesis of prostaglandin E and imparing the renin-angiotensin system. Closely monitor potassium in patients on concomitant NSAIDs."
+      ],
+      "use_in_specific_populations": [
+        "8 USE IN SPECIFIC POPULATIONS Cirrhosis: Initiate therapy at the low end of the dosing range (8.6) Renal Impairment: Initiate therapy at the low end of the dosing range (8.7) 8.1 Pregnancy Risk Summary There are no human data related to use of potassium chloride extended-release tablets during pregnancy, and animal reproduction studies have not been conducted. Potassium supplementation that does not lead to hyperkalemia is not expected to cause fetal harm. The background risk for major birth defects and miscarriage in the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. 8.2 Lactation Risk Summary The normal potassium ion content of human milk is about 13 mEq per liter. Since oral potassium becomes part of the body potassium pool, so long as body potassium is not excessive, the contribution of potassium chloride supplementation should have little or no effect on the level in human milk. 8.4 Pediatric Use Safety and effectiveness in the pediatric population have not been established. 8.5 Geriatric Use Clinical studies of potassium chloride extended-release tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy. This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function. 8.6 Cirrhotics Based on publish literature, the baseline corrected serum concentrations of potassium measured over 3 hours after administration in cirrhotic subjects who received an oral potassium load rose to approximately twice that of normal subjects who received the same load. Patients with cirrhosis should usually be started at the low end of the dosing range, and the serum potassium level should be monitored frequently [ see Clinical Pharmacology (12.3) ] . 8.7 Renal Impairment Patients with renal impairment have reduced urinary excretion of potassium and are at substantially increased risk of hyperkalemia. Patients with impaired renal function, particularly if the patient is on RAAS inhibitors or NSAIDs, should usually be started at the low end of the dosing range because of the potential for development of hyperkalemia [see Drug Interactions ( 7.2 , 7.3 )] . The serum potassium level should be monitored frequently. Renal function should be assessed periodically."
+      ],
+      "pregnancy": [
+        "8.1 Pregnancy Risk Summary There are no human data related to use of potassium chloride extended-release tablets during pregnancy, and animal reproduction studies have not been conducted. Potassium supplementation that does not lead to hyperkalemia is not expected to cause fetal harm. The background risk for major birth defects and miscarriage in the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively."
+      ],
+      "nursing_mothers": [
+        "8.2 Lactation Risk Summary The normal potassium ion content of human milk is about 13 mEq per liter. Since oral potassium becomes part of the body potassium pool, so long as body potassium is not excessive, the contribution of potassium chloride supplementation should have little or no effect on the level in human milk."
+      ],
+      "pediatric_use": [
+        "8.4 Pediatric Use Safety and effectiveness in the pediatric population have not been established."
+      ],
+      "geriatric_use": [
+        "8.5 Geriatric Use Clinical studies of potassium chloride extended-release tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy. This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function."
+      ],
+      "overdosage": [
+        "10 OVERDOSAGE 10.1 Symptoms The administration of oral potassium salts to persons with normal excretory mechanisms for potassium rarely causes serious hyperkalemia. However, if excretory mechanisms are impaired, potentially fatal hyperkalemia can result [see Contraindications and Warnings] . It is important to recognize that hyperkalemia is usually asymptomatic and may be manifested only by an increased serum potassium concentration (6.5 to 8.0 mEq/L) and characteristic electrocardiographic changes (peaking of T-waves, loss of P-wave, depression of S-T segment and prolongation of the QT interval). Late manifestations include muscle paralysis and cardiovascular collapse from cardiac arrest (9 to 12 mEq/L). 10.2 Treatment Treatment measures for hyperkalemia include the following: 1. Elimination of foods and medications containing potassium and of any agents with potassium-sparing properties. 2. Intravenous administration of 300 to 500 mL/hr of 10% dextrose solution containing 10 to 20 units of crystalline insulin per 1,000 mL. 3. Correction of acidosis, if present, with intravenous sodium bicarbonate. 4. Use of exchange resins, hemodialysis or peritoneal dialysis. In treating hyperkalemia, it should be recalled that in patients who have been stabilized on digitalis, too rapid a lowering of the serum potassium concentration can produce digitalis toxicity. The extended release feature means that absorption and toxic effects may be delayed for hours. Consider standard measures to remove any unabsorbed drug."
+      ],
+      "description": [
+        "11 DESCRIPTION Potassium Chloride Extended-Release Tablets, USP are a solid oral dosage form of potassium chloride. Each contains 600 mg or 750 mg of potassium chloride equivalent to 8 mEq or 10 mEq of potassium in a wax matrix tablet. Potassium Chloride Extended-Release Tablets, USP are an electrolyte replenisher. The chemical name is potassium chloride, and the structural formula is KCl. Potassium chloride, USP is a white, granular powder or colorless crystals. It is odorless and has a saline taste. Its solutions are neutral to litmus. It is freely soluble in water and insoluble in alcohol. Inactive Ingredients: colloidal silicon dioxide, hydroxypropyl cellulose and hydrogenated vegetable oil. The film coating contains lecithin, polyethylene glycol, polyvinyl alcohol, talc and titanium dioxide. FDA approved dissolution test specifications differ from USP."
+      ],
+      "clinical_pharmacology": [
+        "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action The potassium ion is the principal intracellular cation of most body tissues. Potassium ions participate in a number of essential physiological processes including the maintenance of intracellular tonicity, the transmission of nerve impulses, the contraction of cardiac, skeletal and smooth muscle and the maintenance of normal renal function. The intracellular concentration of potassium is approximately 150 to 160 mEq per liter. The normal adult plasma concentration is 3.5 to 5 mEq per liter. An active ion transport system maintains this gradient across the plasma membrane. Potassium is a normal dietary constituent and under steady state conditions the amount of potassium absorbed from the gastrointestinal tract is equal to the amount excreted in the urine. The usual dietary intake of potassium is 50 to 100 mEq per day. 12.3 Pharmacokinetics The potassium chloride in potassium chloride extended-release tablets is completely absorbed before it leaves the small intestine. The wax matrix is not absorbed and is excreted in the feces; in some instances the empty matrices may be noticeable in the stool. When the bioavailability of the potassium ion from the potassium chloride extended-release tablets is compared to that of a true solution the extent of absorption is similar. The extended-release properties of potassium chloride extended-release tablets are demonstrated by the finding that a significant increase in time is required for renal excretion of the first 50% of the potassium chloride extended-release tablets dose as compared to the solution. Increased urinary potassium excretion is first observed 1 hour after administration of potassium chloride extended-release tablets, reaches a peak at approximately 4 hours, and extends up to 8 hours. Mean daily steady-state plasma levels of potassium following daily administration of potassium chloride extended-release tablets cannot be distinguished from those following administration of potassium chloride solution or from control plasma levels of potassium ion. Specific Populations Cirrhotics Based on publish literature, the baseline corrected serum concentrations of potassium measured over 3 hours after administration in cirrhotic subjects who received an oral potassium load rose to approximately twice that of normal subjects who received the same load."
+      ],
+      "mechanism_of_action": [
+        "12.1 Mechanism of Action The potassium ion is the principal intracellular cation of most body tissues. Potassium ions participate in a number of essential physiological processes including the maintenance of intracellular tonicity, the transmission of nerve impulses, the contraction of cardiac, skeletal and smooth muscle and the maintenance of normal renal function. The intracellular concentration of potassium is approximately 150 to 160 mEq per liter. The normal adult plasma concentration is 3.5 to 5 mEq per liter. An active ion transport system maintains this gradient across the plasma membrane. Potassium is a normal dietary constituent and under steady state conditions the amount of potassium absorbed from the gastrointestinal tract is equal to the amount excreted in the urine. The usual dietary intake of potassium is 50 to 100 mEq per day."
+      ],
+      "pharmacokinetics": [
+        "12.3 Pharmacokinetics The potassium chloride in potassium chloride extended-release tablets is completely absorbed before it leaves the small intestine. The wax matrix is not absorbed and is excreted in the feces; in some instances the empty matrices may be noticeable in the stool. When the bioavailability of the potassium ion from the potassium chloride extended-release tablets is compared to that of a true solution the extent of absorption is similar. The extended-release properties of potassium chloride extended-release tablets are demonstrated by the finding that a significant increase in time is required for renal excretion of the first 50% of the potassium chloride extended-release tablets dose as compared to the solution. Increased urinary potassium excretion is first observed 1 hour after administration of potassium chloride extended-release tablets, reaches a peak at approximately 4 hours, and extends up to 8 hours. Mean daily steady-state plasma levels of potassium following daily administration of potassium chloride extended-release tablets cannot be distinguished from those following administration of potassium chloride solution or from control plasma levels of potassium ion. Specific Populations Cirrhotics Based on publish literature, the baseline corrected serum concentrations of potassium measured over 3 hours after administration in cirrhotic subjects who received an oral potassium load rose to approximately twice that of normal subjects who received the same load."
+      ],
+      "nonclinical_toxicology": [
+        "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility Carcinogenicity, mutagenicity and fertility studies in animals have not been performed. Potassium is a normal dietary constituent."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility Carcinogenicity, mutagenicity and fertility studies in animals have not been performed. Potassium is a normal dietary constituent."
+      ],
+      "how_supplied": [
+        "16 HOW SUPPLIED/STORAGE AND HANDLING Potassium Chloride Extended-Release Tablets, USP contain 600 mg or 750 mg of Potassium Chloride, USP (equivalent to 8 mEq and 10 mEq respectively), and are provided as extended release tablets. Table 1: How Supplied Dose Shape Color Debossment Bottle of 100 tablets Bottle of 500 tablets Bottle of 1000 tablets 600 mg (8 mEq) Round White to off-white “YH” and “106” on one side, and “8” on the other side 42806-422-01 42806-422-05 42806-422-10 750 mg (10 mEq) Round White to off-white “YH” and “105” on one side, and “10” on the other side 42806-423-01 42806-423-05 42806-423-10 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature.] Protect from light and moisture. Dispense in a tight container as defined in the USP with a child-resistant closure."
+      ],
+      "how_supplied_table": [
+        "<table width=\"100%\"><caption> Table 1: How Supplied</caption><tbody><tr><td rowspan=\"2\" align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\"><content styleCode=\"bold\">Dose</content></td><td rowspan=\"2\" align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\"><content styleCode=\"bold\">Shape</content></td><td rowspan=\"2\" align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\"><content styleCode=\"bold\">Color</content></td><td rowspan=\"2\" align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\"><content styleCode=\"bold\">Debossment</content></td><td align=\"center\" rowspan=\"2\" styleCode=\"Botrule Lrule Rrule Toprule\"><paragraph><content styleCode=\"bold\">Bottle of 100 tablets</content></paragraph><paragraph><content styleCode=\"bold\"/></paragraph></td><td align=\"center\" rowspan=\"2\" styleCode=\"Botrule Lrule Rrule Toprule\"><paragraph><content styleCode=\"bold\">Bottle of 500 tablets</content></paragraph><paragraph><content styleCode=\"bold\"/></paragraph></td><td align=\"center\" styleCode=\"Lrule Rrule Toprule\"><content styleCode=\"bold\">Bottle of 1000 tablets</content></td></tr><tr><td align=\"center\" styleCode=\"Lrule Rrule Botrule\"/></tr><tr><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\"> 600 mg (8 mEq)</td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\"> Round</td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\"> White to off-white</td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\"> &#x201C;YH&#x201D; and &#x201C;106&#x201D; on one side, and &#x201C;8&#x201D; on the other side</td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">42806-422-01</td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">42806-422-05</td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">42806-422-10</td></tr><tr><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\"> 750 mg (10 mEq)</td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\"> Round</td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\"> White to off-white</td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\"> &#x201C;YH&#x201D; and &#x201C;105&#x201D; on one side, and &#x201C;10&#x201D; on the other side</td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\"> 42806-423-01</td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">42806-423-05</td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">42806-423-10</td></tr></tbody></table>"
+      ],
+      "information_for_patients": [
+        "17 PATIENT COUNSELING INFORMATION Inform patients to take each dose with meals and with a full glass of water or other liquid, and to not crush, chew, or suck the tablets. Inform patients that the wax matrix is not absorbed and is excreted in the feces; in some instances the empty matrices may be noticeable in the stool. Advise patients seek medical attention if tarry stools or other evidence of gastrointestinal bleeding is noticed. Distributed by: Epic Pharma, LLC Laurelton, NY 11413 Product of Israel. Revised 06/2025 ZLN036"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL NDC 42806-422-01 Potassium Chloride Extended-release Tablets, USP 8 mEq (600 mg) 100 Tablets Rx only NDC 42806-422-05 Potassium Chloride Extended-release Tablets, USP 8 mEq (600 mg) 500 Tablets Rx only NDC 42806-422-10 Potassium Chloride Extended-release Tablets, USP 8 mEq (600 mg) 1000 Tablets Rx only NDC 42806-423-01 Potassium Chloride Extended-release Tablets, USP 10 mEq (750 mg 100 Tablets Rx only NDC 42806-423-05 Potassium Chloride Extended-release Tablets, USP 10 mEq (750 mg) 500 Tablets Rx only NDC 42806-423-10 Potassium Chloride Extended-release Tablets, USP 10 mEq (750 mg) 1000 Tablets Rx only 600mg-100ct-epic 600mg-500ct-epic 600mg-1000ct-epic 750mg-100ct-epic.jpg 750mg-500ct-epic.jpg 750mg-1000ct-epic"
+      ],
+      "set_id": "00615fad-ad3b-46e8-a89d-48290d937ae2",
+      "id": "3f74c669-3182-952f-e063-6294a90aad92",
+      "effective_time": "20250923",
+      "version": "6",
+      "openfda": {
+        "application_number": [
+          "ANDA209314"
+        ],
+        "brand_name": [
+          "Potassium Chloride"
+        ],
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Epic Pharma, LLC"
+        ],
+        "product_ndc": [
+          "42806-422",
+          "42806-423"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "POTASSIUM CHLORIDE"
+        ],
+        "rxcui": [
+          "312529",
+          "628953"
+        ],
+        "spl_id": [
+          "3f74c669-3182-952f-e063-6294a90aad92"
+        ],
+        "spl_set_id": [
+          "00615fad-ad3b-46e8-a89d-48290d937ae2"
+        ],
+        "package_ndc": [
+          "42806-423-01",
+          "42806-423-05",
+          "42806-423-10",
+          "42806-422-01",
+          "42806-422-05",
+          "42806-422-10"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0342806422106",
+          "0342806423103"
+        ],
+        "unii": [
+          "660YQ98I10"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Sodium Chloride SODIUM CHLORIDE SODIUM CHLORIDE SODIUM CATION CHLORIDE ION WATER"
+      ],
+      "spl_unclassified_section": [
+        "FOR ALL GENERAL IRRIGATION, RINSING, DILUTION AND CELL WASHING PURPOSES Not For Injection By Usual Parenteral Routes Flexible Irrigation Container Rx only"
+      ],
+      "description": [
+        "DESCRIPTION This product is a sterile, nonpyrogenic solution of electrolytes in water for injection intended only for sterile irrigation, rinsing, dilution and cell washing purposes. Each 100 mL of 0.9% Sodium Chloride Irrigation, USP contains: Sodium chloride 900 mg. pH 5.6 (4.5 — 7.0). The solution is isotonic (308 mOsmol/liter, calc.) and has the following electrolyte content (mEq/liter): Na + 154; Cl¯ 154. This irrigation solution contains no bacteriostat, antimicrobial agent or added buffer and is intended only for use as a single-dose, short procedure irrigation, or cell washing fluid. When smaller volumes are required the unused portion should be discarded. It may be classified as a sterile irrigant, rinse, diluent, cell wash and pharmaceutical vehicle. Sodium Chloride, USP is chemically designated NaCl, a white crystalline powder freely soluble in water. Water for Injection, USP is chemically designated H 2 O. The flexible plastic container is fabricated from a specially formulated polyvinylchloride. Water can permeate from inside the container into the overwrap but not in amounts sufficient to affect the solution significantly. Solutions in contact with the plastic container may leach out certain chemical components from the plastic in very small amounts; however, biological testing was supportive of the safety of the plastic container materials. Exposure to temperatures above 25°C/77°F during transport and storage will lead to minor losses in moisture content. Higher temperatures lead to greater losses. It is unlikely that these minor losses will lead to clinically significant changes within the expiration period."
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY This irrigation solution exerts a mechanical cleansing action for sterile irrigation of body cavities, tissues or wounds, indwelling urethral catheters and surgical drainage tubes and for washing, rinsing or soaking surgical dressings, instruments and laboratory specimens. It also serves as a diluent or vehicle for drugs used for irrigation or other pharmaceutical preparations. 0.9% Sodium Chloride Irrigation, USP provides an isotonic saline irrigation identical in composition with 0.9% Sodium Chloride Injection, USP (normal saline). 0.9% Sodium Chloride Irrigation, USP is considered generally compatible with living tissues and organs. Sodium chloride in water dissociates to provide sodium (Na + ) and chloride (Cl¯) ions. Sodium (Na + ) is the principal cation of the extracellular fluid and plays a large part in the therapy of fluid and electrolyte disturbances. Chloride (Cl¯) has an integral role in buffering action when oxygen and carbon dioxide exchange occurs in the red blood cells. The distribution and excretion of sodium (Na + ) and chloride (Cl¯) are largely under the control of the kidney which maintains a balance between intake and output. Water is an essential constituent of all body tissues and accounts for approximately 70% of total body weight. Average normal adult daily requirements ranges from two to three liters (1.0 to 1.5 liters each for insensible water loss by perspiration and urine production). Water balance is maintained by various regulatory mechanisms. Water distribution depends primarily on the concentration of electrolytes in the body compartments and sodium (Na + ) plays a major role in maintaining physiologic equilibrium."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE This sterile, nonpyrogenic electrolyte solution is indicated for all general irrigation, washing, rinsing and dilution purposes including blood cell washing (when used in conjunction with automated intraoperative blood salvaging equipment)."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS NOT FOR INJECTION BY USUAL PARENTERAL ROUTES. An electrolyte solution should not be used for irrigation during electrosurgical procedures."
+      ],
+      "warnings": [
+        "WARNINGS FOR IRRIGATION ONLY. NOT FOR INJECTION. Entry of a hypotonic solution into the circulation may cause hemolysis. Irrigating fluids have been demonstrated to enter the systemic circulation in relatively large volumes; thus, each of these irrigations must be regarded as a systemic drug. Absorption of large amounts can cause fluid and/or solute overloading resulting in dilution of serum electrolyte concentrations, overhydration, congested states or pulmonary edema. The risk of dilutional states is inversely proportional to the electrolyte concentrations of administered parenteral solutions. The risk of solute overload causing congested states with peripheral and pulmonary edema is directly proportional to the electrolyte concentrations of such solutions. Do not heat over 66° C (150° F)."
+      ],
+      "precautions": [
+        "PRECAUTIONS Do not use for irrigation that may result in absorption into the blood. Aseptic technique is essential with the use of sterile solutions for irrigation of body cavities, wounds and urethral catheters or for wetting dressings that come in contact with body tissues or for cell washing techniques. The flexible container is designed for use with nonvented irrigation sets or nonvented sets for cell washing harvesting systems. When used for irrigation via irrigation equipment, the administration set should be attached promptly. Unused portions should be discarded and a fresh container used for the start-up of each cycle or repeat procedure. For repeated irrigations of urethral catheters, a separate container should be used for each patient. When used for cell washing, the nonvented set should be attached promptly. The three liter container may be used to dispense new aliquots of washing solution for each wash cycle for the same patient. However, unused portions should be discarded and a separate container should be used for each patient and each start-up procedure. Do not administer unless solution is clear, seal is intact and container is undamaged. Discard unused portion. Carcinogenesis, Mutagenesis, Impairment of Fertility : Studies with Sodium Chloride Irrigation, USP have not been performed to evaluate carcinogenic potential, mutagenic potential, or effects on fertility. Nursing Mothers: Caution should be exercised when Sodium Chloride Irrigation, USP is administered to a nursing woman. Pregnancy: Teratogenic Effects. Pregnancy Category C. Animal reproduction studies have not been conducted with Sodium Chloride Irrigation, USP. It is also not known whether Sodium Chloride Irrigation, USP can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. This solution should be given to a pregnant woman only if clearly needed. Pediatric Use: Safety and effectiveness of Sodium Chloride irrigation solution in pediatric patients have not been established by adequate and well-controlled trials. However, the use of Sodium Chloride irrigation solution in the pediatric population is referenced in the medical literature. The Warnings , Precautions , and Adverse Reactions identified in the label should be observed in the pediatric population. Geriatric Use: An evaluation of current literature revealed no clinical experience identifying differences in response between elderly and younger patients. This drug is known to be substantially secreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Possible adverse effects arising from the irrigation of body cavities, tissues, cells or indwelling catheters and tubes are usually avoidable when proper procedures are followed. Displaced catheters or drainage tubes can lead to irrigation or infiltration of unintended structures or cavities. Excessive volume or pressure during irrigation of closed cavities may cause undue distension or disruption of tissues. Accidental contamination from careless technique may transmit infection. Should any adverse reaction occur, discontinue the irrigant, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary."
+      ],
+      "overdosage": [
+        "OVERDOSAGE In the event of overhydration or solute overload, re-evaluate the patient and institute appropriate corrective measures. See WARNINGS , PRECAUTIONS and ADVERSE REACTIONS ."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION The dose is dependent upon the capacity or surface area of the structure to be irrigated and the nature of the procedure. When used as a diluent or vehicle for other drugs, the manufacturer's recommendations should be followed. For use in cell washing, the manufacturer's recommendations for blood salvaging and red cell processing should be followed. Drug Interactions Additives may be incompatible. Consult with pharmacist, if available. When introducing additives, use aseptic technique, mix thoroughly and do not store. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution container permits. See PRECAUTIONS ."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED 0.9% Sodium Chloride Irrigation, USP is supplied in a single-dose 3000 mL flexible irrigation container (NDC No. 0409-7972-08 / 0990-7972-08). ICU Medical is transitioning NDC codes from \"0409\" to a \"0990\" labeler code. Both NDC codes are expected to be in the market for a period of time. Store at 20 to 25°C (68 to 77°F). [See USP Controlled Room Temperature.] Protect from freezing. Revised: June, 2018 EN-4661 ICU Medical, Inc., Lake Forest, Illinois, 60045, USA"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL - 3000 mL Bag Label 3000 mL NDC 0990-7972-08 0.9% SODIUM CHLORIDE Irrigation , USP EACH 100 mL CONTAINS SODIUM CHLORIDE, 900 mg. pH 5.6 (4.5 to 7.0) 308 mOsmol/LITER (CALC.) STERILE, NONPYROGENIC. INDICATIONS: ISOTONIC SOLUTION FOR IRRIGATION. CONTRAINDICATIONS: NOT FOR INJECTION. USE ONLY IF SOLUTION IS CLEAR AND CONTAINER IS UNDAMAGED. WARNINGS: DO NOT HEAT OVER 66°C (150°F). STORE AT 20 TO 25°C (68 TO 77°F). [SEE USP CONTROLLED ROOM TEMPERATURE.] PROTECT FROM FREEZING. SINGLE-DOSE CONTAINER. CONTAINS NO BACTERIOSTAT. DISCARD UNUSED PORTION. USE ASEPTIC TECHNIQUE. DOSAGE AND ADMINISTRATION: AS DIRECTED BY PHYSICIAN. RX ONLY 3 V CONTAINS DEHP icumedical IM-4376 ICU Medical, Inc., Lake Forest, Illinois, 60045, USA PRINCIPAL DISPLAY PANEL - 3000 mL Bag Label",
+        "PRINCIPAL DISPLAY PANEL - 3000 mL Bag Overwrap TO OPEN TEAR AT NOTCH 2 HDPE DO NOT REMOVE FROM OVERWRAP UNTIL READY FOR USE. AFTER REMOVING THE OVERWRAP, CHECK FOR MINUTE LEAKS BY SQUEEZING CONTAINER FIRMLY. IF LEAKS ARE FOUND, DISCARD SOLUTION AS STERILITY MAY BE IMPAIRED. RECOMMENDED STORAGE: ROOM TEMPERATURE (25°C). AVOID EXCESSIVE HEAT. PROTECT FROM FREEZING. SEE INSERT. 98-4321-R14-3/98 Principal Display Panel - 3000 mL Bag Overwrap"
+      ],
+      "set_id": "009bef3c-e8ac-46be-b564-a2556adf0081",
+      "id": "8e1ca6c4-2e03-4c2f-b69b-be57bb896c1c",
+      "effective_time": "20251031",
+      "version": "11",
+      "openfda": {
+        "application_number": [
+          "NDA018314"
+        ],
+        "brand_name": [
+          "Sodium Chloride"
+        ],
+        "generic_name": [
+          "SODIUM CHLORIDE"
+        ],
+        "manufacturer_name": [
+          "ICU Medical Inc."
+        ],
+        "product_ndc": [
+          "0990-7972"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "IRRIGATION"
+        ],
+        "substance_name": [
+          "SODIUM CHLORIDE"
+        ],
+        "rxcui": [
+          "486515"
+        ],
+        "spl_id": [
+          "8e1ca6c4-2e03-4c2f-b69b-be57bb896c1c"
+        ],
+        "spl_set_id": [
+          "009bef3c-e8ac-46be-b564-a2556adf0081"
+        ],
+        "package_ndc": [
+          "0990-7972-08"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "451W47IQ8X"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Callington Anti-Bacterial Hand Sanitizer Wipe benzalkonium chloride WATER PROPYLENE GLYCOL POLYSORBATE 20 DIPROPYLENE GLYCOL CHLORPHENESIN BRONOPOL BENZALKONIUM CHLORIDE BENZALKONIUM"
+      ],
+      "spl_unclassified_section": [
+        "DRUG FACTS"
+      ],
+      "active_ingredient": [
+        "Active Ingredient Benzalkonium Chloride .......... 0.05 %"
+      ],
+      "purpose": [
+        "Purpose Antiseptic"
+      ],
+      "indications_and_usage": [
+        "Uses: For personal hand hygiene to help prevent the spread of bacteria."
+      ],
+      "warnings": [
+        "Warnings For external use only. Do not use in eyes. If this occurs, rinse thoroughly with water. Stop use and ask a doctor if irritation or redness develops and persists for more than 72 hours. Keep out of reach of children. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "do_not_use": [
+        "For external use only. Do not use in eyes. If this occurs, rinse thoroughly with water. Stop use and ask a doctor if irritation or redness develops and persists for more than 72 hours."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions Adults and children over 2 years: Tear open packet, unfold and use as a wash cloth. Allow hands to dry without wiping."
+      ],
+      "inactive_ingredient": [
+        "Inactive Ingredients: Water, Propylene glycol, Polysorbate 20, Dipropylene glycol, Ethylhexyl_x0002_glycerin, Chlorphenesin, Bronopol, Citric Acid."
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel"
+      ],
+      "set_id": "00ca48ca-893d-4a3f-ad90-119522664e08",
+      "id": "1cf083e3-784d-ce90-e063-6294a90a4bfc",
+      "effective_time": "20240710",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "M003"
+        ],
+        "brand_name": [
+          "Callington Anti-Bacterial Hand Sanitizer Wipe"
+        ],
+        "generic_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "manufacturer_name": [
+          "JIANGMEN SHUIZIRUN SANITARY ARTICLES CO., LTD."
+        ],
+        "product_ndc": [
+          "71734-117"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "rxcui": [
+          "2553300"
+        ],
+        "spl_id": [
+          "1cf083e3-784d-ce90-e063-6294a90a4bfc"
+        ],
+        "spl_set_id": [
+          "00ca48ca-893d-4a3f-ad90-119522664e08"
+        ],
+        "package_ndc": [
+          "71734-117-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "F5UM2KM3W7"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "MaxSaver Sanitizing Wipes Benzalkonium Chloride CAPRYLYL/CAPRYL OLIGOGLUCOSIDE POLY(LAURYLGLUCOSIDE)-7 WATER PHENOXYETHANOL BENZOIC ACID DEHYDROACETIC ACID BENZALKONIUM CHLORIDE BENZALKONIUM PROPYLENE GLYCOL"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts"
+      ],
+      "active_ingredient": [
+        "Active ingredient Benzalkonium Chloride 0.13 %"
+      ],
+      "purpose": [
+        "Purpose Antimicrobal"
+      ],
+      "indications_and_usage": [
+        "Use Hand sanitizer to help reduce bacteria on the skin. Recommended for repeated use."
+      ],
+      "warnings": [
+        "Warnings For external use only. When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly in water. Discontinue use if irritation and redness develop. If conditions persist for more than 72 hours, consult a physician. If swallowed get medical help or contact a poison control center immediately. Keep out of reach of children."
+      ],
+      "when_using": [
+        "When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly in water."
+      ],
+      "stop_use": [
+        "Discontinue use if irritation and redness develop. If conditions persist for more than 72 hours, consult a physician."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children."
+      ],
+      "dosage_and_administration": [
+        "Directions Wet hands thoroughly with product and allow to dry. Be sure to use entire wipe. Discard after single use. Children under 6 years of age should be supervised when using this product."
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients Benzoic Acid, Caprylyl/Capryl Oligoglucoside, Dehydroacetic Acid, Phenoxyethanol, Poly(Laurylglucoside)-7, Propylene Glycol, Water"
+      ],
+      "package_label_principal_display_panel": [
+        "MaxSaver™ Sanitizing Wipes Kills 99.99% of most common germs that may cause illness DO NOT FLUSH ERC Fragrance Free ercwipe.com ERC WIPING PRODUCTS 2000 Wipes • 8\"x 5\" 800-225-9473 undefined"
+      ],
+      "set_id": "00ccdb15-7db9-0102-e063-6294a90a3ee3",
+      "id": "37ef49d5-4959-b70a-e063-6394a90a3721",
+      "effective_time": "20250619",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "505G(a)(3)"
+        ],
+        "brand_name": [
+          "MaxSaver Sanitizing Wipes"
+        ],
+        "generic_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Innocore Sales & Marketing Inc"
+        ],
+        "product_ndc": [
+          "70924-005"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "CUTANEOUS"
+        ],
+        "substance_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "rxcui": [
+          "1038558"
+        ],
+        "spl_id": [
+          "37ef49d5-4959-b70a-e063-6394a90a3721"
+        ],
+        "spl_set_id": [
+          "00ccdb15-7db9-0102-e063-6294a90a3ee3"
+        ],
+        "package_ndc": [
+          "70924-005-01",
+          "70924-005-02",
+          "70924-005-03",
+          "70924-005-04"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0632963179877"
+        ],
+        "unii": [
+          "F5UM2KM3W7"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "MaxSaver Sanitizing Wipes Benzalkonium Chloride PROPYLENE GLYCOL CAPRYLYL/CAPRYL OLIGOGLUCOSIDE POLY(LAURYLGLUCOSIDE)-7 WATER PHENOXYETHANOL BENZOIC ACID DEHYDROACETIC ACID BENZALKONIUM CHLORIDE BENZALKONIUM"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts"
+      ],
+      "active_ingredient": [
+        "Active ingredient Benzalkonium Chloride 0.13 %"
+      ],
+      "purpose": [
+        "Purpose Antimicrobal"
+      ],
+      "indications_and_usage": [
+        "Use Hand sanitizer to help reduce bacteria on the skin. Recommended for repeated use."
+      ],
+      "warnings": [
+        "Warnings For external use only. When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly in water. Discontinue use if irritation and redness develop. If conditions persist for more than 72 hours, consult a physician. If swallowed get medical help or contact a poison control center immediately. Keep out of reach of children."
+      ],
+      "when_using": [
+        "When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly in water."
+      ],
+      "stop_use": [
+        "Discontinue use if irritation and redness develop. If conditions persist for more than 72 hours, consult a physician."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children."
+      ],
+      "dosage_and_administration": [
+        "Directions Wet hands thoroughly with product and allow to dry. Be sure to use entire wipe. Discard after single use. Children under 6 years of age should be supervised when using this product."
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients Benzoic Acid, Caprylyl/Capryl Oligoglucoside, Dehydroacetic Acid, Phenoxyethanol, Poly(Laurylglucoside)-7, Propylene Glycol, Water"
+      ],
+      "package_label_principal_display_panel": [
+        "MaxSaver™ Sanitizing Wipes Kills 99.99% of most common germs that may cause illness DO NOT FLUSH ERC Fragrance Free ercwipe.com ERC WIPING PRODUCTS 2000 Wipes • 8\"x 5\" 800-225-9473 undefined"
+      ],
+      "set_id": "00cd6f41-c9a8-b384-e063-6394a90a8575",
+      "id": "37ef4a22-a150-0387-e063-6294a90a9e4a",
+      "effective_time": "20250619",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "505G(a)(3)"
+        ],
+        "brand_name": [
+          "MaxSaver Sanitizing Wipes"
+        ],
+        "generic_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "manufacturer_name": [
+          "ERC ACQUISITION, INC."
+        ],
+        "product_ndc": [
+          "71293-021"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "CUTANEOUS"
+        ],
+        "substance_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "rxcui": [
+          "1038558"
+        ],
+        "spl_id": [
+          "37ef4a22-a150-0387-e063-6294a90a9e4a"
+        ],
+        "spl_set_id": [
+          "00cd6f41-c9a8-b384-e063-6394a90a8575"
+        ],
+        "package_ndc": [
+          "71293-021-01",
+          "71293-021-02",
+          "71293-021-03",
+          "71293-021-04"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0632963179877"
+        ],
+        "unii": [
+          "F5UM2KM3W7"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Kroger Antibacterial Benzalkonium Chloride COCO MONOETHANOLAMIDE FD&C YELLOW NO. 5 SODIUM CHLORIDE GLYCERIN WATER CETRIMONIUM CHLORIDE PEG-120 METHYL GLUCOSE DIOLEATE SODIUM SULFATE EDETATE SODIUM LAURAMIDOPROPYLAMINE OXIDE CITRIC ACID MONOHYDRATE FD&C RED NO. 4 METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FRAGRANCE CLEAN ORC0600327 BENZALKONIUM CHLORIDE BENZALKONIUM"
+      ],
+      "active_ingredient": [
+        "Active Ingredient Benzalkonium Chloride 0.13%"
+      ],
+      "purpose": [
+        "Purpose Antibacterial"
+      ],
+      "indications_and_usage": [
+        "Uses Helps decrease bacteria on hands"
+      ],
+      "warnings": [
+        "Warnings For external use only When using this product Avoid contact with eyes. In case of contact, flush with water. Stop use and ask a doctor if Irritation or redness develops and lasts. Keep out of reach of children In case of accidental ingestion, seek medical attention or contact a Poison Control Center immediately."
+      ],
+      "when_using": [
+        "When using this product Avoid contact with eyes. In case of contact, flush with water."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if Irritation or redness develops and lasts."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children In case of accidental ingestion, seek medical attention or contact a Poison Control Center immediately."
+      ],
+      "dosage_and_administration": [
+        "Directions From Pump bottle, apply onto wet hands Lather and rinse thoroughly."
+      ],
+      "storage_and_handling": [
+        "Other Information Store at room Temperature."
+      ],
+      "inactive_ingredient": [
+        "Inactive Ingredients Water (Aqua), Lauramidopropylamine Oxide, Glycerin, Cetrimonium Chloride, Sodium Chloride, Cocamide MEA, PEG-120 Methyl Glucose Dioleate, Fragrance (Parfum), Citric Acid, Tetrasodium EDTA, Sodium Sulfate, Methylchloroisothiazolinone, Meisothiazolinone, Yellow 5 (CI 19140), Red 4 (CI 17400)."
+      ],
+      "package_label_principal_display_panel": [
+        "PDP- 41226-500-11 (325 ml) 325 ml",
+        "PDP-2, NDC- 41226-500-52 Principal Display Panel-2"
+      ],
+      "set_id": "00ffe9f9-15c3-be46-e063-6394a90a3d35",
+      "id": "50db89d6-4674-0b08-e063-6294a90a8105",
+      "effective_time": "20260502",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "505G(a)(3)"
+        ],
+        "brand_name": [
+          "Kroger Antibacterial"
+        ],
+        "generic_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Kroger Company"
+        ],
+        "product_ndc": [
+          "41226-500"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "rxcui": [
+          "1046593"
+        ],
+        "spl_id": [
+          "50db89d6-4674-0b08-e063-6294a90a8105"
+        ],
+        "spl_set_id": [
+          "00ffe9f9-15c3-be46-e063-6394a90a3d35"
+        ],
+        "package_ndc": [
+          "41226-500-11",
+          "41226-500-52"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "F5UM2KM3W7"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Kroger Springwater Antibacterial Benzalkonium Chloride WATER METHYLCHLOROISOTHIAZOLINONE FD&C BLUE NO. 1 EDETATE SODIUM FRAGRANCE CLEAN ORC0600327 GLYCERIN CETRIMONIUM CHLORIDE SODIUM CHLORIDE LAURAMIDOPROPYLAMINE OXIDE COCO MONOETHANOLAMIDE CITRIC ACID MONOHYDRATE PEG-120 METHYL GLUCOSE DIOLEATE SODIUM SULFATE METHYLISOTHIAZOLINONE D&C RED NO. 33 BENZALKONIUM CHLORIDE BENZALKONIUM"
+      ],
+      "active_ingredient": [
+        "Active Ingredient Benzalkonium Chloride 0.13%"
+      ],
+      "purpose": [
+        "Purpose Antibacterial"
+      ],
+      "indications_and_usage": [
+        "Uses Helps decrease bacteria on hands."
+      ],
+      "warnings": [
+        "Warnings For external use only. When using the product Avoid contact with eyes. In case of Contact, Flush with Water. Keep out of reach of children. In case of accidental ingestion, seek medical attention or contact a Poison Control Center immediately."
+      ],
+      "when_using": [
+        "When using the product Avoid contact with eyes. In case of Contact, Flush with Water."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of accidental ingestion, seek medical attention or contact a Poison Control Center immediately."
+      ],
+      "dosage_and_administration": [
+        "Directions From pump bottle, apply onto wet hands. Lather and rinse thoroughly."
+      ],
+      "storage_and_handling": [
+        "Other Information Store at room temperature."
+      ],
+      "inactive_ingredient": [
+        "Inactive Ingredients Water (Aqua), Lauramidopropylamine Oxide, Glycerin, Cetrimonium Chloride, Sodium Chloride, Cocamide MEA, PEG-120 Methyl Glucose Dioleate, Fragrance (Parfum), Citric Acid, Tetrasodium EDTA, Sodium Sulfate, Methylchloroisothiazolinone, Methylisothiazolinone, Blue 1 (CI42090), Red 33 (CI 17200)."
+      ],
+      "package_label_principal_display_panel": [
+        "PDP-1, NDC- 41226-510-11 11",
+        "PDP-2, NDC- 41226-510-52 52"
+      ],
+      "set_id": "01006967-d11c-d02a-e063-6394a90ad42c",
+      "id": "51025c60-925f-6971-e063-6394a90ae0a6",
+      "effective_time": "20260504",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "505G(a)(3)"
+        ],
+        "brand_name": [
+          "Kroger Springwater Antibacterial"
+        ],
+        "generic_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Kroger Company"
+        ],
+        "product_ndc": [
+          "41226-510"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "rxcui": [
+          "1046593"
+        ],
+        "spl_id": [
+          "51025c60-925f-6971-e063-6394a90ae0a6"
+        ],
+        "spl_set_id": [
+          "01006967-d11c-d02a-e063-6394a90ad42c"
+        ],
+        "package_ndc": [
+          "41226-510-11",
+          "41226-510-52"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0041260025273",
+          "0041260025280"
+        ],
+        "unii": [
+          "F5UM2KM3W7"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Kroger Antibacterial LHS Benzalkonium Chloride CETRIMONIUM CHLORIDE SODIUM CHLORIDE COCO MONOETHANOLAMIDE PEG-120 METHYL GLUCOSE DIOLEATE EDETATE SODIUM METHYLISOTHIAZOLINONE FRAGRANCE CLEAN ORC0600327 FD&C BLUE NO. 1 LAURAMIDOPROPYLAMINE OXIDE SODIUM SULFATE GLYCERIN CITRIC ACID MONOHYDRATE METHYLCHLOROISOTHIAZOLINONE FD&C YELLOW NO. 5 WATER BENZALKONIUM CHLORIDE BENZALKONIUM"
+      ],
+      "active_ingredient": [
+        "Active Ingredient Benzalkonium Chloride 0.13%"
+      ],
+      "purpose": [
+        "Purpose Antibacterial"
+      ],
+      "indications_and_usage": [
+        "Uses Helps eliminate bacteria on hands."
+      ],
+      "warnings": [
+        "Warnings For external use only. When using this product Avoid contact with eyes. In case of Contact, Flush with Water. Stop use and ask a doctor if irritation or redness develops and lasts. Keep out of reach of children. In case of accidental ingestion, seek medical attention or contact a Poison Control Center immediately."
+      ],
+      "when_using": [
+        "When using this product Avoid contact with eyes. In case of Contact, Flush with Water."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if irritation or redness develops and lasts."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of accidental ingestion, seek medical attention or contact a Poison Control Center immediately."
+      ],
+      "dosage_and_administration": [
+        "Directions From pump bottle, apply onto wet hands. Lather and rinse thoroughly."
+      ],
+      "storage_and_handling": [
+        "Other Information Store at Room Temperature."
+      ],
+      "inactive_ingredient": [
+        "Inactive Ingredients Water (Aqua), Lauramidopropylamine Oxide, Glycerin, Cetrimonium Chloride, Sodium Chloride, Cocamide MEA, PEG-120 Methyl Glucose Dioleate, Fragrance (Parfum), Citric Acid, Tetrasodium EDTA, Sodium Sulfate, Methylchloroisothiazolinone, Methylisothiazolinone, Blue 1 (CI42090), Yellow 5 (CI 19140)"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel NDC- 41226-520-11 Principal Display Panel"
+      ],
+      "set_id": "0100d627-88e7-a80c-e063-6394a90a4797",
+      "id": "50db9853-c1a3-e3f7-e063-6394a90af02d",
+      "effective_time": "20260502",
+      "version": "6",
+      "openfda": {
+        "application_number": [
+          "505G(a)(3)"
+        ],
+        "brand_name": [
+          "Kroger Antibacterial LHS"
+        ],
+        "generic_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Kroger Company"
+        ],
+        "product_ndc": [
+          "41226-520"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "BENZALKONIUM CHLORIDE"
+        ],
+        "spl_id": [
+          "50db9853-c1a3-e3f7-e063-6394a90af02d"
+        ],
+        "spl_set_id": [
+          "0100d627-88e7-a80c-e063-6394a90a4797"
+        ],
+        "package_ndc": [
+          "41226-520-11"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "F5UM2KM3W7"
+        ]
+      }
+    }
+  ]
+}

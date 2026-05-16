@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_EU_NICE_ECZEMA_CHILD",
+  "task_id": "T00084",
+  "source_url": "https://www.nice.org.uk/guidance/cg57/resources",
+  "local_path": "imports/accepted_evidence/bulk/T00084_GUIDE_EU_NICE_ECZEMA_CHILD.html",
+  "sha256": "6754c0215cb2f345bfb69a01793c3e92c12da08ccd7f51fd67a4840aadbcf2e7",
+  "downloaded_at": "2026-05-16T03:33:51.118660+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:40:GUIDE_EU_NICE_ECZEMA_CHILD|Disease_Download_Map:25:itchy_dermatitis_adult|Disease_Download_Map:26:insect_bite_reaction_adult|Disease_Download_Map:41:itchy_localized_rash_adult|Disease_Download_Map:56:contact_dermatitis_adult|Disease_Download_Map:57:urticaria_mild_adult|Disease_Download_Map:58:pruritus_localized_adult|Disease_Download_Map:67:eczema_dry_pruritic_adult|Disease_Download_Map:77:insect_bite_swelling_adult|Disease_Download_Map:78:localized_eczema_sensitive_area_adult|Disease_Download_Map:79:insect_bite_peds|Disease_Download_Map:80:localized_eczema_peds",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

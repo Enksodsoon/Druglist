@@ -1,0 +1,14 @@
+{
+  "source_id": "3110",
+  "task_id": "T01643",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Prevacid+FDT+30",
+  "local_path": "imports/accepted_evidence/product/3110/T01643_3110.cfm",
+  "sha256": "47a8fd827cf0f3247020f27f13bc5f00083aab5909c619d823b46bd210ba87e8",
+  "downloaded_at": "2026-05-16T03:37:27.863868+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:121:3110",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

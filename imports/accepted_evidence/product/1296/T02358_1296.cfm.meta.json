@@ -1,0 +1,14 @@
+{
+  "source_id": "1296",
+  "task_id": "T02358",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bisolvon+EX+Syrup+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/1296/T02358_1296.cfm",
+  "sha256": "d9d965a2b8217cc5435836f8333ef7a2435ce917e30f2371f55ed79297e34ef3",
+  "downloaded_at": "2026-05-16T03:39:12.242107+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:216:1296",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2844",
+  "task_id": "T01725",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Nuelin+SR",
+  "local_path": "imports/accepted_evidence/product/2844/T01725_2844.html",
+  "sha256": "507c07f0e5a20ad6f4b79ec8306055927c7ff8af8abcc816a998d85bbbdcd19f",
+  "downloaded_at": "2026-05-16T03:37:39.875154+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:129:2844",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

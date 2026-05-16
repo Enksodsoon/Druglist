@@ -1,0 +1,14 @@
+{
+  "source_id": "7131",
+  "task_id": "T04772",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Glibenclamide&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7131/T04772_7131.json",
+  "sha256": "7f71355674d243fc45a768e2bbced545812ccc6d6de35f4c4f9569ecf02c8980",
+  "downloaded_at": "2026-05-16T03:45:17.422890+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:546:7131|Product_Label_Links:547:1611|Product_Label_Links:563:6734",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

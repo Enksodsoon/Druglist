@@ -1,0 +1,14 @@
+{
+  "source_id": "1842",
+  "task_id": "T01395",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Forlax",
+  "local_path": "imports/accepted_evidence/product/1842/T01395_1842.html",
+  "sha256": "2b9eb51d9ec51036319fc892f8e610fc6a86a7035750d8795a4ef4be24beaadd",
+  "downloaded_at": "2026-05-16T03:36:52.947168+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:92:1842",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

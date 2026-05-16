@@ -1,0 +1,14 @@
+{
+  "source_id": "3582",
+  "task_id": "T03522",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Strepsils%20Honey%20%26%20Lemon%20%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%2024s&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3582/T03522_3582.json",
+  "sha256": "f81df8b7a1c33cc505cda6728d9865ebd9f1d7a61eff29e35fccd8ca99219d82",
+  "downloaded_at": "2026-05-16T03:42:08.061223+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:373:3582",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

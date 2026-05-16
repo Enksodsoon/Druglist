@@ -1,0 +1,14 @@
+{
+  "source_id": "7781",
+  "task_id": "T01909",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Clinovir%20800%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7781/T01909_7781.json",
+  "sha256": "f8405bd2632b379a6358fde91ca6a7b65131884de776bb70380ac4b2e59df2dc",
+  "downloaded_at": "2026-05-16T03:38:07.489403+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:154:7781",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

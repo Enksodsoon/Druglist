@@ -1,0 +1,14 @@
+{
+  "source_id": "1552",
+  "task_id": "T06400",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Carboxymethylcellulose%200%205%20%2BCalcium%20Chloride%2BMagnesium%20Chloride%2B%20Chloride%2B%20Chloride%2B%20Lactate%2BHydrochloric%20Acid%2B%20Hydroxid&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1552/T06400_1552.json",
+  "sha256": "154d00d684a68dbe5c7c959fe18438c8c18c3229714b65fdeb2555de3f034cb9",
+  "downloaded_at": "2026-05-16T03:49:22.240280+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:756:1552",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

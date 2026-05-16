@@ -1,0 +1,14 @@
+{
+  "source_id": "3802",
+  "task_id": "T03573",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Throatsil+%E0%B8%A3%E0%B8%AA%E0%B8%AA%E0%B9%89%E0%B8%A1+%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87+24s",
+  "local_path": "imports/accepted_evidence/product/3802/T03573_3802.html",
+  "sha256": "cf890d82a40ea2871751640730fb1c46382685fa1c5c18461f7df039e29e8d44",
+  "downloaded_at": "2026-05-16T03:42:16.906946+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:380:3802",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

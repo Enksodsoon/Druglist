@@ -1,0 +1,14 @@
+{
+  "source_id": "8272",
+  "task_id": "T03721",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Biotaplex-BC&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8272/T03721_8272.json",
+  "sha256": "a24d86437ef68f0d85c3607374de6eae271c08a356f7b9ceec2535939d827cc9",
+  "downloaded_at": "2026-05-16T03:42:39.389886+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:401:8272",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

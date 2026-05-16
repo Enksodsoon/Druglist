@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_US_CDC_ABX_ADULT",
+  "task_id": "T00028",
+  "source_url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html",
+  "local_path": "imports/accepted_evidence/bulk/T00028_GUIDE_US_CDC_ABX_ADULT.html",
+  "sha256": "1911890973c15f679af594cdd32cc099d0f6fe9599ccc7b792abaf9864a259a5",
+  "downloaded_at": "2026-05-16T03:33:45.866640+00:00",
+  "http_status": 200,
+  "content_type": "text/html",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:12:GUIDE_US_CDC_ABX_ADULT|Disease_Download_Map:3:uri_wet_cough_adult|Disease_Download_Map:4:uri_diarrhea_adult|Disease_Download_Map:6:uri_rash_adult|Disease_Download_Map:7:sore_throat_adult|Disease_Download_Map:10:uri_dry_cough_adult|Disease_Download_Map:15:oral_ulcer_adult|Disease_Download_Map:16:common_cold_adult|Disease_Download_Map:17:nasal_blockage_adult|Disease_Download_Map:18:viral_fever_bodyache_adult|Disease_Download_Map:30:oral_thrush_adult|Disease_Download_Map:34:bacterial_sinusitis_adult|Disease_Download_Map:35:bacterial_pharyngitis_adult|Disease_Download_Map:36:nasal_irrigation_support_adult|Disease_Download_Map:43:uri_sneezing_runny_nose_adult|Disease_Download_Map:44:acute_pharyngitis_viral_adult|Disease_Download_Map:45:postnasal_drip_cough_adult|Disease_Download_Map:46:post_viral_cough_adult|Disease_Download_Map:47:laryngitis_irritation_adult|Disease_Download_Map:64:nasal_dryness_irritation_adult|Disease_Download_Map:65:mild_mucolytic_support_adult|Disease_Download_Map:66:tonsillar_inflammation_support_adult|Disease_Download_Map:88:uri_wet_cough_peds|Disease_Download_Map:89:post_uri_cough_peds|Disease_Download_Map:90:nasal_irritation_peds|Disease_Download_Map:92:viral_fever_peds_support|Disease_Download_Map:97:bacterial_sinusitis_peds|Disease_Download_Map:98:bacterial_pharyngitis_peds|Disease_Download_Map:99:macrolide_respiratory_bacterial_adult|Disease_Download_Map:108:uncomplicated_uti_adult|Disease_Download_Map:113:penicillin_allergy_resp_support_adult|Disease_Download_Map:114:bacterial_sinusitis_alt_adult|Disease_Download_Map:115:bacterial_pharyngitis_alt_adult|Disease_Download_Map:120:uncomplicated_uti_alt_cipro_adult|Disease_Download_Map:121:dysuria_lower_uti_adult|Disease_Download_Map:122:frequency_urgency_uti_adult",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

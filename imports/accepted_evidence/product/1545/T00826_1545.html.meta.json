@@ -1,0 +1,14 @@
+{
+  "source_id": "1545",
+  "task_id": "T00826",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Cavumox+1+g",
+  "local_path": "imports/accepted_evidence/product/1545/T00826_1545.html",
+  "sha256": "0658d04cc1d9a7af83d51fa7ead250de77a91d700eb4a9d209ff7f5bed6e44c5",
+  "downloaded_at": "2026-05-16T03:35:31.668691+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:9:1545",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

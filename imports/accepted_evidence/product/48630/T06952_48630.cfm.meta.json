@@ -1,0 +1,14 @@
+{
+  "source_id": "48630",
+  "task_id": "T06952",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=TA+0.1%25+Lotion",
+  "local_path": "imports/accepted_evidence/product/48630/T06952_48630.cfm",
+  "sha256": "ddf351cb363f3f0eae964d83a5526080c855b9316b352e070c017ba6f8a8bc4a",
+  "downloaded_at": "2026-05-16T03:50:48.160496+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:826:48630",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

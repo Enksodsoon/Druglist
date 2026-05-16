@@ -1,0 +1,14 @@
+{
+  "source_id": "47738",
+  "task_id": "T07114",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=SOS+Plus+Corn+Plaster+Removal",
+  "local_path": "imports/accepted_evidence/product/47738/T07114_47738.html",
+  "sha256": "7c7de615de66c54cdbb212d7eb144c65d59c2f9a08b8f8b39e01b2471dbbcd77",
+  "downloaded_at": "2026-05-16T03:51:13.311757+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:844:47738",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_4",
+  "task_id": "T00131",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=fexofenadine",
+  "local_path": "imports/accepted_evidence/drug/drug-bds003747/T00131_Drug_Label_Links_4.html",
+  "sha256": "82be57d490a71a2c38ab162f8f6bba0a52f464e566121d99dc52fe992c2a9adf",
+  "downloaded_at": "2026-05-16T03:33:55.710258+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:4:Drug_Label_Links_4",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

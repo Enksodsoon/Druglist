@@ -1,0 +1,14 @@
+{
+  "source_id": "4153",
+  "task_id": "T04194",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Yasmin-21",
+  "local_path": "imports/accepted_evidence/product/4153/T04194_4153.cfm",
+  "sha256": "dfb6c51e2eb663de646c73a3f15118992617c9d4c50d2f32932cff4f7403058d",
+  "downloaded_at": "2026-05-16T03:43:53.171357+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:465:4153",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

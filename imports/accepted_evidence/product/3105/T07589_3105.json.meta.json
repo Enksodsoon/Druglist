@@ -1,0 +1,14 @@
+{
+  "source_id": "3105",
+  "task_id": "T07589",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Otrivin%20Child%20Spray%200.05%25&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3105/T07589_3105.json",
+  "sha256": "30262757c6fe0ffd7c0449ebead9f57713279ef0ff627e4e128233ce08398764",
+  "downloaded_at": "2026-05-16T03:52:25.215362+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:900:3105",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

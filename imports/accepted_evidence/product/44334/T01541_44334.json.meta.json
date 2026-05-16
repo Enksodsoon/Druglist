@@ -1,0 +1,14 @@
+{
+  "source_id": "44334",
+  "task_id": "T01541",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=AHMC%20Type%20F-MA%20II%20%2B%20Simethicone&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/44334/T01541_44334.json",
+  "sha256": "711af9919df5dbd5b30f532cb3565843d63f657bdede3b2849c858122564ee0b",
+  "downloaded_at": "2026-05-16T03:37:12.775013+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:108:44334",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "8241",
+  "task_id": "T01108",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Manotabs",
+  "local_path": "imports/accepted_evidence/product/8241/T01108_8241.cfm",
+  "sha256": "f92f624994398fdef76b52f3dcdca90b70b57157d62aa48d49723a31f495dc25",
+  "downloaded_at": "2026-05-16T03:36:10.173721+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:49:8241",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

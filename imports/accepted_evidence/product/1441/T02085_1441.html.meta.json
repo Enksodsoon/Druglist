@@ -1,0 +1,14 @@
+{
+  "source_id": "1441",
+  "task_id": "T02085",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Cefspan+Suspension",
+  "local_path": "imports/accepted_evidence/product/1441/T02085_1441.html",
+  "sha256": "c99d115b93c6f99b3aaee4dba8d53774f968fc8be0e57607031acc9a76c0ce04",
+  "downloaded_at": "2026-05-16T03:38:33.727799+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:176:1441",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

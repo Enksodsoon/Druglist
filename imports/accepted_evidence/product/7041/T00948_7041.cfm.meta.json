@@ -1,0 +1,14 @@
+{
+  "source_id": "7041",
+  "task_id": "T00948",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cemol+500+mg+bottle+100s+%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%A1",
+  "local_path": "imports/accepted_evidence/product/7041/T00948_7041.cfm",
+  "sha256": "60cc8cc753a2bbd2cf9d4bafc6ca9f465a737155f369a8b843ea9a78af5aa92f",
+  "downloaded_at": "2026-05-16T03:35:48.375102+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:27:7041",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

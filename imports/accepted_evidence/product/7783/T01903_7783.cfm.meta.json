@@ -1,0 +1,14 @@
+{
+  "source_id": "7783",
+  "task_id": "T01903",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clinovir+400+mg",
+  "local_path": "imports/accepted_evidence/product/7783/T01903_7783.cfm",
+  "sha256": "72a326143c1c3293aa0efd81fe9d1b08b5a5d3095b12b24f02dd029e64847874",
+  "downloaded_at": "2026-05-16T03:38:06.892700+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:153:7783",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1443",
+  "task_id": "T04577",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Hydralazine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1443/T04577_1443.json",
+  "sha256": "0239f29c400fc3822e1f65ffe7d52ad411f71c947bac03131e4bfa7bc94b1f6d",
+  "downloaded_at": "2026-05-16T03:44:49.517553+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:518:1443",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

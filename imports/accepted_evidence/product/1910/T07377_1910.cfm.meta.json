@@ -1,0 +1,14 @@
+{
+  "source_id": "1910",
+  "task_id": "T07377",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Fucidin+H+Cream",
+  "local_path": "imports/accepted_evidence/product/1910/T07377_1910.cfm",
+  "sha256": "f661dec7f35efca4a02daa28e80d503d645479aa32eb5ccc15422e5f495d6343",
+  "downloaded_at": "2026-05-16T03:51:52.994277+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:874:1910",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

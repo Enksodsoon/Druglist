@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_INT_TFOS_DEWS2",
+  "task_id": "T00074",
+  "source_url": "https://www.tfosdewsreport.org/report-management_and_therapy/147_36/en/",
+  "local_path": "imports/accepted_evidence/bulk/T00074_GUIDE_INT_TFOS_DEWS2.html",
+  "sha256": "69fc43e72847b96ba23853535a4421ece3720c706bf6b087290faa9b564b32e4",
+  "downloaded_at": "2026-05-16T03:33:51.867895+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:35:GUIDE_INT_TFOS_DEWS2|Disease_Download_Map:8:dry_eye_adult|Disease_Download_Map:11:eye_irritation_adult|Disease_Download_Map:37:eye_lubrication_adult|Disease_Download_Map:62:screen_related_dry_eye_adult|Disease_Download_Map:69:watery_red_eye_nonpurulent_adult|Disease_Download_Map:70:contact_lens_dry_eye_support_adult|Disease_Download_Map:71:eye_wash_support_adult|Disease_Download_Map:72:foreign_body_irritation_followup_adult|Disease_Download_Map:73:eye_irritation_peds|Disease_Download_Map:74:dry_eye_peds_support",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

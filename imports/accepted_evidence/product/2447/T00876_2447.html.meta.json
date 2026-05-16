@@ -1,0 +1,14 @@
+{
+  "source_id": "2447",
+  "task_id": "T00876",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Klacid+MR+500+mg",
+  "local_path": "imports/accepted_evidence/product/2447/T00876_2447.html",
+  "sha256": "5296b179a05ed28cf208078965a1ea136e29623acc2969c393b0b837cad9f652",
+  "downloaded_at": "2026-05-16T03:35:37.602445+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:16:2447",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

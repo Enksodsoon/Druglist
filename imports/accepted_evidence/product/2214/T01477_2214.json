@@ -1,0 +1,483 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 4
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Imodium A-D Loperamide hydrochloride ANHYDROUS LACTOSE CARNAUBA WAX HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED LOPERAMIDE HYDROCHLORIDE LOPERAMIDE IMO;2;MG"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts"
+      ],
+      "active_ingredient": [
+        "Active ingredient (in each caplet) Loperamide HCl 2 mg"
+      ],
+      "purpose": [
+        "Purpose Anti-diarrheal"
+      ],
+      "indications_and_usage": [
+        "Use controls symptoms of diarrhea, including Travelers' Diarrhea"
+      ],
+      "warnings": [
+        "Warnings Allergy alert Do not use if you have ever had a rash or other allergic reaction to loperamide HCl Heart alert Taking more than directed can cause serious heart problems or death Do not use if you have bloody or black stool Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs. When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery. Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "do_not_use": [
+        "Do not use if you have bloody or black stool"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs."
+      ],
+      "when_using": [
+        "When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "dosage_and_administration": [
+        "Directions drink plenty of clear fluids to help prevent dehydration caused by diarrhea find right dose on chart. If possible, use weight to dose; otherwise, use age. adults and children 12 years and over 2 caplets after the first loose stool; 1 caplet after each subsequent loose stool; but no more than 4 caplets in 24 hours children 9-11 years (60-95 lbs) 1 caplet after the first loose stool; 1/2 caplet after each subsequent loose stool; but no more than 3 caplets in 24 hours children 6-8 years (48-59 lbs) 1 caplet after the first loose stool; 1/2 caplet after each subsequent loose stool; but no more than 2 caplets in 24 hours children 2-5 years (34 to 47 lbs) ask a doctor children under 2 years (up to 33 lbs) do not use"
+      ],
+      "dosage_and_administration_table": [
+        "<table width=\"55%\" styleCode=\"NoAutorules\"><col width=\"40%\" align=\"left\" valign=\"top\"/><col width=\"60%\" align=\"left\" valign=\"top\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">adults and children 12 years and over</td><td>2 caplets after the first loose stool; 1 caplet after each subsequent loose stool; but no more than 4 caplets in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children 9-11 years (60-95 lbs)</td><td>1 caplet after the first loose stool; 1/2 caplet after each subsequent loose stool; but no more than 3 caplets in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children 6-8 years (48-59 lbs)</td><td>1 caplet after the first loose stool; 1/2 caplet after each subsequent loose stool; but no more than 2 caplets in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children 2-5 years (34 to 47 lbs)</td><td>ask a doctor</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children under 2 years (up to 33 lbs)</td><td>do not use</td></tr></tbody></table>"
+      ],
+      "storage_and_handling": [
+        "Other information store at 20°-25°C (68°-77°F) do not use if blister unit is broken or torn"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients anhydrous lactose, carnauba wax, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch"
+      ],
+      "questions": [
+        "Questions or comments? 1-877-895-3665 (toll-free) or 215-273-8755 (collect)"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL NDC 50580-317-06 Imodium ® A-D Loperamide Hydrochloride Tablets, 2mg Anti-Diarrheal Anti-Diarrheal Caplets Controls the symptoms of diarrhea Actual Size *Capsule-Shaped Tablets 12 Caplets* Principal Display Panel"
+      ],
+      "set_id": "01da76d0-1979-4c45-9d39-c72ae4e4ffe2",
+      "id": "3f75a619-8881-0bb3-e063-6394a90a1bcc",
+      "effective_time": "20250923",
+      "version": "13",
+      "openfda": {
+        "application_number": [
+          "ANDA075232"
+        ],
+        "brand_name": [
+          "Imodium A-D"
+        ],
+        "generic_name": [
+          "LOPERAMIDE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Kenvue Brands LLC"
+        ],
+        "product_ndc": [
+          "50580-317"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LOPERAMIDE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "978010",
+          "978013"
+        ],
+        "spl_id": [
+          "3f75a619-8881-0bb3-e063-6394a90a1bcc"
+        ],
+        "spl_set_id": [
+          "01da76d0-1979-4c45-9d39-c72ae4e4ffe2"
+        ],
+        "package_ndc": [
+          "50580-317-01",
+          "50580-317-03",
+          "50580-317-04",
+          "50580-317-05",
+          "50580-317-06",
+          "50580-317-12"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "77TI35393C"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Imodium A-D Loperamide Hydrochloride BUTYLATED HYDROXYANISOLE FD&C BLUE NO. 1 GELATIN, UNSPECIFIED GLYCERIN GLYCERYL MONOCAPRYLATE POLYOXYL 40 HYDROGENATED CASTOR OIL WATER LOPERAMIDE HYDROCHLORIDE LOPERAMIDE Light blue IMO"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts"
+      ],
+      "active_ingredient": [
+        "Active ingredient (in each capsule) Loperamide HCl 2 mg"
+      ],
+      "purpose": [
+        "Purpose Anti-diarrheal"
+      ],
+      "indications_and_usage": [
+        "Use controls symptoms of diarrhea, including Travelers' Diarrhea"
+      ],
+      "warnings": [
+        "Warnings Allergy alert: Do not use if you have ever had a rash or other allergic reaction to loperamide HCl Heart alert: Taking more than directed can cause serious heart problems or death Do not use if you have bloody or black stool in children under 12 years of age Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs. When using this product tiredness, drowsiness, or dizziness may occur. Be careful when driving or operating machinery. Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Allergy alert Do not use if you have ever had a rash or other allergic reaction to loperamide HCl Heart alert Taking more than directed can cause serious heart problems or death Do not use if you have bloody or black stool in children under 12 years of age Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs. When using this product tiredness, drowsiness, or dizziness may occur. Be careful when driving or operating machinery. Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "do_not_use": [
+        "Do not use if you have bloody or black stool in children under 12 years of age"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs."
+      ],
+      "when_using": [
+        "When using this product tiredness, drowsiness, or dizziness may occur. Be careful when driving or operating machinery."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "dosage_and_administration": [
+        "Directions drink plenty of clear fluids to help prevent dehydration caused by diarrhea not for use in children under 12 years of age adults and children 12 years and over: 2 softgels after the first loose stool; 1 softgel after each subsequent loose stool; but no more than 4 softgels in 24 hours"
+      ],
+      "storage_and_handling": [
+        "Other information store at 20°-25°C (68°-77°F). Protect from light. avoid excessive heat above 40°C (104°F) do not use if blister unit is torn or broken"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients butylated hydroxyanisole, edible ink, FD&C blue no. 1, gelatin, glycerin, glyceryl caprylate, polyoxyl 40 hydrogenated castor oil, purified water"
+      ],
+      "questions": [
+        "Questions or comments? call 1-877-895-3665 (toll-free) or 215-273-8755 (collect)"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL NDC 50580-367-02 Imodium ® A-D Loperamide HCl, 2mg/Anti-Diarrheal Soft Gelatin Capsules Anti-Diarrheal Softgels Controls the symptoms of diarrhea Suitable for adults and children 12 years and over 24 Softgels* Actual Size *each liquid-filled capsule contains 2 mg loperamide HCl imodium-01"
+      ],
+      "set_id": "31bfcbb4-c58c-4edc-ac68-356a448b7507",
+      "id": "460d0a84-5c0c-b974-e063-6294a90ab761",
+      "effective_time": "20251222",
+      "version": "10",
+      "openfda": {
+        "application_number": [
+          "NDA021855"
+        ],
+        "brand_name": [
+          "Imodium A-D"
+        ],
+        "generic_name": [
+          "LOPERAMIDE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Kenvue Brands LLC"
+        ],
+        "product_ndc": [
+          "50580-367"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LOPERAMIDE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "978006",
+          "978009"
+        ],
+        "spl_id": [
+          "460d0a84-5c0c-b974-e063-6294a90ab761"
+        ],
+        "spl_set_id": [
+          "31bfcbb4-c58c-4edc-ac68-356a448b7507"
+        ],
+        "package_ndc": [
+          "50580-367-01",
+          "50580-367-02"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0300450137241"
+        ],
+        "unii": [
+          "77TI35393C"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Imodium A-D Loperamide Hydrochloride CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM CARAMEL D&C YELLOW NO. 10 FD&C BLUE NO. 1 GLYCERIN MICROCRYSTALLINE CELLULOSE PROPYLENE GLYCOL SODIUM BENZOATE SUCRALOSE TITANIUM DIOXIDE WATER XANTHAN GUM LOPERAMIDE HYDROCHLORIDE LOPERAMIDE ANHYDROUS CITRIC ACID opaque"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts"
+      ],
+      "active_ingredient": [
+        "Active ingredient (in each 7.5 mL) Loperamide HCl 1 mg"
+      ],
+      "purpose": [
+        "Purpose Anti-diarrheal"
+      ],
+      "indications_and_usage": [
+        "Use controls symptoms of diarrhea, including Travelers' Diarrhea"
+      ],
+      "warnings": [
+        "Warnings Allergy alert Do not use if you have ever had a rash or other allergic reaction to loperamide HCl Heart alert Taking more than directed can cause serious heart problems or death Do not use if you have bloody or black stool Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs. When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery. Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+      ],
+      "do_not_use": [
+        "Do not use if you have bloody or black stool"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs."
+      ],
+      "when_using": [
+        "When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+      ],
+      "dosage_and_administration": [
+        "Directions drink plenty of clear fluids to help prevent dehydration caused by diarrhea find right dose on chart. If possible, use weight to dose; otherwise use age. shake well before using use only enclosed dosing cup specifically designed for use with this product. Do not use any other dosing device. mL = milliliter adults and children 12 years and over 30 mL after the first loose stool; 15 mL after each subsequent loose stool; but no more than 60 mL in 24 hours children 9-11 years (60-95 lbs) 15 mL after first loose stool; 7.5 mL after each subsequent loose stool; but no more than 45 mL in 24 hours children 6-8 years (48-59 lbs) 15 mL after first loose stool; 7.5 mL after each subsequent loose stool; but no more than 30 mL in 24 hours children 2-5 years (34 to 47 lbs) ask a doctor children under 2 years (up to 33 lbs) do not use"
+      ],
+      "dosage_and_administration_table": [
+        "<table width=\"50%\" styleCode=\"Noautorules\"><col width=\"30%\" align=\"left\" valign=\"top\"/><col width=\"70%\" align=\"left\" valign=\"top\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Toprule\">adults and children 12 years and over</td><td styleCode=\"Toprule\">30 mL after the first loose stool; 15 mL after each subsequent loose stool; but no more than 60 mL in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children 9-11 years (60-95 lbs)</td><td>15 mL after first loose stool; 7.5 mL after each subsequent loose stool; but no more than 45 mL in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children 6-8 years (48-59 lbs)</td><td>15 mL after first loose stool; 7.5 mL after each subsequent loose stool; but no more than 30 mL in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children 2-5 years (34 to 47 lbs)</td><td>ask a doctor</td></tr><tr><td styleCode=\"Rrule\">children under 2 years (up to 33 lbs)</td><td>do not use</td></tr></tbody></table>"
+      ],
+      "storage_and_handling": [
+        "Other information each 30 mL contains: sodium 16 mg store between 20-25°C (68-77°F) do not use if outer neck band imprinted with \"Imodium®\" or inner neck band imprinted with \"Sealed For Your Safety\" is broken or missing"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients anhydrous citric acid, caramel color, D&C yellow no. 10, FD&C blue no. 1, flavor, glycerin, microcrystalline cellulose and carboxymethylcellulose sodium, propylene glycol, purified water, simethicone emulsion, sodium benzoate, sucralose, titanium dioxide, xanthan gum"
+      ],
+      "questions": [
+        "Questions or comments? call 1-877-895-3665 (toll-free) or 215-273-8755 (collect)"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL NDC 50580-134-08 Imodium ® A-D Loperamide HCl Oral Solution Anti-Diarrheal 1 mg per 7.5 mL Anti-Diarrheal Oral Solution Controls the symptoms of diarrhea 8 fl oz (240 mL) Mint Flavor imodium-01"
+      ],
+      "set_id": "76a976d5-8bee-4158-a94d-7fbfc5544fd4",
+      "id": "3f73b325-ad6b-8e65-e063-6394a90a361e",
+      "effective_time": "20250923",
+      "version": "10",
+      "openfda": {
+        "application_number": [
+          "NDA019487"
+        ],
+        "brand_name": [
+          "Imodium A-D"
+        ],
+        "generic_name": [
+          "LOPERAMIDE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Kenvue Brands LLC"
+        ],
+        "product_ndc": [
+          "50580-134"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LOPERAMIDE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1250685",
+          "1250693"
+        ],
+        "spl_id": [
+          "3f73b325-ad6b-8e65-e063-6394a90a361e"
+        ],
+        "spl_set_id": [
+          "76a976d5-8bee-4158-a94d-7fbfc5544fd4"
+        ],
+        "package_ndc": [
+          "50580-134-04",
+          "50580-134-44",
+          "50580-134-08"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0300450134080"
+        ],
+        "unii": [
+          "77TI35393C"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "IMODIUM Multi-Symptom Relief loperamide hydrochloride and dimethicone CROSCARMELLOSE SODIUM ACESULFAME POTASSIUM ANHYDROUS DIBASIC CALCIUM PHOSPHATE MICROCRYSTALLINE CELLULOSE STEARIC ACID LOPERAMIDE HYDROCHLORIDE LOPERAMIDE DIMETHICONE DIMETHICONE IMO;2;125"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each caplet) Purposes Loperamide HCl 2 mg Anti-diarrheal Simethicone 125 mg Anti-gas"
+      ],
+      "active_ingredient_table": [
+        "<table width=\"55%\"><colgroup><col align=\"left\" valign=\"top\" width=\"80%\"/><col align=\"right\" valign=\"top\" width=\"20%\"/></colgroup><thead><tr><th><content styleCode=\"italics\">Active ingredients (in each caplet)</content></th><th><content styleCode=\"italics\">Purposes</content></th></tr></thead><tbody><tr><td>Loperamide HCl 2 mg</td><td>Anti-diarrheal</td></tr><tr><td>Simethicone 125 mg</td><td>Anti-gas</td></tr></tbody></table>"
+      ],
+      "purpose": [
+        "Active ingredients (in each caplet) Purposes Loperamide HCl 2 mg Anti-diarrheal Simethicone 125 mg Anti-gas"
+      ],
+      "purpose_table": [
+        "<table width=\"55%\"><colgroup><col align=\"left\" valign=\"top\" width=\"80%\"/><col align=\"right\" valign=\"top\" width=\"20%\"/></colgroup><thead><tr><th><content styleCode=\"italics\">Active ingredients (in each caplet)</content></th><th><content styleCode=\"italics\">Purposes</content></th></tr></thead><tbody><tr><td>Loperamide HCl 2 mg</td><td>Anti-diarrheal</td></tr><tr><td>Simethicone 125 mg</td><td>Anti-gas</td></tr></tbody></table>"
+      ],
+      "indications_and_usage": [
+        "Uses relieves symptoms of diarrhea plus bloating, pressure and cramps, commonly referred to as gas"
+      ],
+      "warnings": [
+        "Warnings Allergy alert Do not use if you have ever had a rash or other allergic reaction to loperamide HCl Heart alert Taking more than directed can cause serious heart problems or death Do not use if you have bloody or black stool if you have difficulty swallowing Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs. When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery. Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition. you have difficulty swallowing the caplet If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+      ],
+      "do_not_use": [
+        "Do not use if you have bloody or black stool if you have difficulty swallowing"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have fever mucus in the stool a history of liver disease a history of abnormal heart rhythm"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs."
+      ],
+      "when_using": [
+        "When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if symptoms get worse diarrhea lasts for more than 2 days you get abdominal swelling or bulging. These may be signs of a serious condition. you have difficulty swallowing the caplet"
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+      ],
+      "dosage_and_administration": [
+        "Directions drink plenty of clear fluids to help prevent dehydration caused by diarrhea take only on an empty stomach (1 hour before or 2 hours after a meal) take with a full (8 oz.) glass of water find right dose on chart below. If possible, use weight to dose; otherwise, use age. adults and children 12 years and over 2 caplets after the first loose stool; 1 caplet after each subsequent loose stool; but no more than 4 caplets in 24 hours children 9-11 years (60-95 lbs) 1 caplet after the first loose stool; ½ caplet after each subsequent loose stool; but no more than 3 caplets in 24 hours children 6-8 years (48-59 lbs) 1 caplet after the first loose stool; ½ caplet after each subsequent loose stool; but no more than 2 caplets in 24 hours children 2-5 years (34 to 47 lbs) ask a doctor children under 2 years (up to 33 lbs) do not use"
+      ],
+      "dosage_and_administration_table": [
+        "<table width=\"60%\" styleCode=\"Noautorules\"><colgroup><col align=\"left\" valign=\"top\" width=\"34%\"/><col align=\"left\" valign=\"top\" width=\"66%\"/></colgroup><tbody><tr><td styleCode=\"Toprule Rrule\">adults and children 12 years and over</td><td styleCode=\"Toprule\">2 caplets after the first loose stool;    1 caplet after each subsequent loose stool; but no more than 4 caplets in 24 hours </td></tr><tr><td styleCode=\"Toprule Rrule\">children 9-11 years    (60-95 lbs) </td><td styleCode=\"Toprule\">1 caplet after the first loose stool;    &#xBD; caplet after each subsequent loose stool; but no more than 3 caplets in 24 hours </td></tr><tr><td styleCode=\"Toprule Rrule\">children 6-8 years    (48-59 lbs) </td><td styleCode=\"Toprule\">1 caplet after the first loose stool;    &#xBD; caplet after each subsequent loose stool; but no more than 2 caplets in 24 hours </td></tr><tr><td styleCode=\"Toprule Rrule\">children 2-5 years    (34 to 47 lbs) </td><td styleCode=\"Toprule\">ask a doctor</td></tr><tr><td styleCode=\"Toprule Rrule\">children under 2 years    (up to 33 lbs) </td><td styleCode=\"Toprule\">do not use</td></tr></tbody></table>"
+      ],
+      "storage_and_handling": [
+        "Other information each caplet contains: calcium 165 mg, sodium 3 mg store between 20-25°C (68-77°F). Protect from light. do not use if blister unit is torn or broken"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients acesulfame potassium, croscarmellose sodium, dibasic calcium phosphate, flavor, microcrystalline cellulose, stearic acid"
+      ],
+      "questions": [
+        "Questions or comments? call 1-877-895-3665 (toll-free) or 215-273-8755 (collect)"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL NDC 50580-338-12 Imodium ® Loperamide HCl, 2 mg /Simethicone, 125 mg Antidiarrheal/Anti-gas Multi-Symptom Relief Caplet Relieves symptoms of diarrhea plus Cramps & Pressure Bloating Gas 12 Caplets* *capsule-shaped tablets Actual Size imodium-1"
+      ],
+      "set_id": "ecb91e47-2b0c-47c8-9256-4623d8bc825e",
+      "id": "490ec903-14a6-e576-e063-6294a90a6d13",
+      "effective_time": "20260123",
+      "version": "23",
+      "openfda": {
+        "application_number": [
+          "NDA021140"
+        ],
+        "brand_name": [
+          "IMODIUM Multi-Symptom Relief"
+        ],
+        "generic_name": [
+          "LOPERAMIDE HYDROCHLORIDE AND DIMETHICONE"
+        ],
+        "manufacturer_name": [
+          "Kenvue Brands LLC"
+        ],
+        "product_ndc": [
+          "50580-338"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DIMETHICONE",
+          "LOPERAMIDE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "978001",
+          "1426827"
+        ],
+        "spl_id": [
+          "490ec903-14a6-e576-e063-6294a90a6d13"
+        ],
+        "spl_set_id": [
+          "ecb91e47-2b0c-47c8-9256-4623d8bc825e"
+        ],
+        "package_ndc": [
+          "50580-338-12",
+          "50580-338-18",
+          "50580-338-42",
+          "50580-338-30",
+          "50580-338-60",
+          "50580-338-61",
+          "50580-338-64",
+          "50580-338-06",
+          "50580-338-07"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0300450212122"
+        ],
+        "nui": [
+          "N0000010282"
+        ],
+        "pharm_class_pe": [
+          "Skin Barrier Activity [PE]"
+        ],
+        "unii": [
+          "92RU3N3Y1O",
+          "77TI35393C"
+        ]
+      }
+    }
+  ]
+}

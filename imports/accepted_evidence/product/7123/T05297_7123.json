@@ -1,0 +1,1036 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 54
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Folic Acid Folic Acid FOLIC ACID FOLIC ACID AN;361"
+      ],
+      "description": [
+        "DESCRIPTION Folic acid, N-[ p -[[(2-amino-4- hydroxy-6-pteridinyl) methyl]- amino] benzoyl]-Lglutamic acid, is a B complex vitamin containing a pteridine moiety linked by a methylene bridge to para -aminobenzoic acid, which is joined by a peptide linkage to glutamic acid. Conjugates of folic acid are present in a wide variety of foods, particularly liver, kidneys, yeast, and leafy green vegetables. Commercially available folic acid is prepared synthetically. Folic acid, USP occurs as a yellow or yellowish-orange, odorless, crystalline powder. It is very slightly soluble in water and insoluble in alcohol. Folic acid, USP is readily soluble in dilute solutions of alkali hydroxides and carbonates, and solutions of the drug may be prepared with the aid of sodium hydroxide or sodium carbonate, thereby forming the soluble sodium salt of folic acid (sodium folate). Aqueous solutions of folic acid are heat sensitive and rapidly decompose in the presence of light and/or riboflavin; solutions should be stored in a cool place protected from light. The structural formula of folic acid is as follows: C 19 H 19 N 7 O 6 M.W. 441.40 Each tablet, for oral administration, contains 1 mg folic acid, USP. Folic acid tablets, USP 1 mg contain the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, Type A and stearic acid. 1"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids. Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias. Folic acid is absorbed rapidly from the small intestine, primarily from the proximal portion. Naturally occurring conjugated folates are reduced enzymatically to folic acid in the gastrointestinal tract prior to absorption. Folic acid appears in the plasma approximately 15 to 30 minutes after an oral dose; peak levels are generally reached within 1 hour. After intravenous administration, the drug is rapidly cleared from the plasma. Cerebrospinal fluid levels of folic acid are several times greater than serum levels of the drug. Folic acid is metabolized in the liver to 7,8-dihydrofolic acid and eventually to 5,6,7,8-tetrahydrofolic acid with the aid of reduced diphosphopyridine nucleotide (DPNH) and folate reductases. Tetrahydrofolic acid is linked in the N 5 or N 10 positions with formyl, hydroxymethyl, methyl, or formimino groups. N 5 -formyltetrahydrofolic acid is leucovorin. Tetrahydrofolic acid derivatives are distributed to all body tissues but are stored primarily in the liver. Normal serum levels of total folate have been reported to be 5 ng/mL to 15 ng/mL; normal cerebrospinal fluid levels are approximately 16 ng/mL to 21 ng/mL. Normal erythrocyte folate levels have been reported to range from 175 ng/mL to 316 ng/mL. In general, folate serum levels below 5 ng/mL indicate folate deficiency, and levels below 2 ng/mL usually result in megaloblastic anemia. After a single oral dose of 100 mcg of folic acid in a limited number of normal adults, only a trace amount of the drug appeared in the urine. An oral dose of 5 mg in 1 study and a dose of 40 mcg/kg of body weight in another study resulted in approximately 50% of the dose appearing in the urine. After a single oral dose of 15 mg, up to 90% of the dose was recovered in the urine. A majority of the metabolic products appeared in the urine after 6 hours; excretion was generally complete within 24 hours. Small amounts of orally administered folic acid have also been recovered in the feces. Folic acid is also excreted in the milk of lactating mothers."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Folic acid is effective in the treatment of megaloblastic anemias due to a deficiency of folic acid (as may be seen in tropical or nontropical sprue) and in anemias of nutritional origin, pregnancy, infancy, or childhood."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Folic acid is contraindicated in patients who have shown previous intolerance to the drug."
+      ],
+      "warnings": [
+        "WARNING Administration of folic acid alone is improper therapy for pernicious anemia and other megaloblastic anemias in which vitamin B 12 is deficient."
+      ],
+      "precautions": [
+        "PRECAUTIONS General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. Adequate doses of vitamin B 12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia. Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted. Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ). Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed. Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low- birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 mcg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid. Folic acid is relatively nontoxic in man. Rare instances of allergic responses to folic acid preparations have been reported and have included erythema, skin rash, itching, general malaise, and respiratory difficulty due to bronchospasm. One patient experienced symptoms suggesting anaphylaxis following injection of the drug. Gastrointestinal side effects, including anorexia, nausea, abdominal distention, flatulence, and a bitter or bad taste, have been reported in patients receiving 15 mg folic acid daily for 1 month. Other side effects reported in patients receiving 15 mg daily include altered sleep patterns, difficulty in concentrating, irritability, overactivity, excitement, mental depression, confusion, and impaired judgment. Decreased vitamin B 12 serum levels may occur in patients receiving prolonged folic acid therapy. In an uncontrolled study, orally administered folic acid was reported to increase the incidence of seizures in some epileptic patients receiving phenobarbital, primidone, or diphenylhydantoin. Another investigator reported decreased diphenylhydantoin serum levels in folate-deficient patients receiving diphenylhydantoin who were treated with 5 mg or 15 mg of folic acid daily."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Except during pregnancy and lactation, folic acid should not be given in therapeutic doses greater than 0.4 mg daily until pernicious anemia has been ruled out. Patients with pernicious anemia receiving more than 0.4 mg of folic acid daily who are inadequately treated with vitamin B 12 may show reversion of the hematologic parameters to normal, but neurologic manifestations due to vitamin B 12 deficiency will progress. Doses of folic acid exceeding the Recommended Dietary Allowance (RDA) should not be included in multivitamin preparations; if therapeutic amounts are necessary, folic acid should be given separately."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Oral administration is preferred. Although most patients with malabsorption cannot absorb food folates, they are able to absorb folic acid given orally. Parenteral administration is not advocated but may be necessary in some individuals (e.g., patients receiving parenteral or enteral alimentation). Doses greater than 0.1 mg should not be used unless anemia due to vitamin B 12 deficiency has been ruled out or is being adequately treated with a cobalamin. Daily doses greater than 1 mg do not enhance the hematologic effect, and most of the excess is excreted unchanged in the urine. The usual therapeutic dosage in adults and children (regard less of age) is up to 1 mg daily. Resistant cases may require larger doses. When clinical symptoms have subsided and the blood picture has become normal, a daily maintenance level should be used, i.e., 0.1 mg for infants and up to 0.3 mg for children under 4 years of age, 0.4 mg for adults and children 4 or more years of age, and 0.8 mg for pregnant and lactating women, but never less than 0.1 mg/day. Patients should be kept under close supervision and adjustment of the maintenance level made if relapse appears imminent. In the presence of alcoholism, hemolytic anemia, anticonvulsant therapy, or chronic infection, the maintenance level may need to be increased."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Folic Acid Tablets USP, 1 mg, are supplied as light yellow colored, round convex tablet debossed \"AN 361\" on one side and bisected on the other side. They are available as follows: Bottles of 30: NDC 82868-004-30 Dispense contents with a child-resistant closure (as required) and in a tight, light-resistant container as defined in the USP. Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Protect from light and moisture. To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch Manufactured by: Amneal Pharmaceuticals Pvt. Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 Rev. 07-2021-00"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL NDC: 82868-004-30 Label"
+      ],
+      "set_id": "03b0aee4-804a-de63-e063-6394a90a6635",
+      "id": "46dc8b44-bf33-8a68-e063-6394a90a5ae9",
+      "effective_time": "20251226",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "ANDA040625"
+        ],
+        "brand_name": [
+          "Folic Acid"
+        ],
+        "generic_name": [
+          "FOLIC ACID"
+        ],
+        "manufacturer_name": [
+          "Northwind Health Company, LLC"
+        ],
+        "product_ndc": [
+          "82868-004"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOLIC ACID"
+        ],
+        "rxcui": [
+          "310410"
+        ],
+        "spl_id": [
+          "46dc8b44-bf33-8a68-e063-6394a90a5ae9"
+        ],
+        "spl_set_id": [
+          "03b0aee4-804a-de63-e063-6394a90a6635"
+        ],
+        "package_ndc": [
+          "82868-004-30"
+        ],
+        "original_packager_product_ndc": [
+          "53746-361"
+        ],
+        "unii": [
+          "935E97BOY8"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Folic Acid Folic Acid FOLIC ACID FOLIC ACID AN;361"
+      ],
+      "description": [
+        "DESCRIPTION Folic acid, N-[ p -[[(2-amino-4- hydroxy-6-pteridinyl) methyl]- amino] benzoyl]-Lglutamic acid, is a B complex vitamin containing a pteridine moiety linked by a methylene bridge to para -aminobenzoic acid, which is joined by a peptide linkage to glutamic acid. Conjugates of folic acid are present in a wide variety of foods, particularly liver, kidneys, yeast, and leafy green vegetables. Commercially available folic acid is prepared synthetically. Folic acid, USP occurs as a yellow or yellowish-orange, odorless, crystalline powder. It is very slightly soluble in water and insoluble in alcohol. Folic acid, USP is readily soluble in dilute solutions of alkali hydroxides and carbonates, and solutions of the drug may be prepared with the aid of sodium hydroxide or sodium carbonate, thereby forming the soluble sodium salt of folic acid (sodium folate). Aqueous solutions of folic acid are heat sensitive and rapidly decompose in the presence of light and/or riboflavin; solutions should be stored in a cool place protected from light. The structural formula of folic acid is as follows: C 19 H 19 N 7 O 6 M.W. 441.40 Each tablet, for oral administration, contains 1 mg folic acid, USP. Folic acid tablets, USP 1 mg contain the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, Type A and stearic acid. 1"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids. Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias. Folic acid is absorbed rapidly from the small intestine, primarily from the proximal portion. Naturally occurring conjugated folates are reduced enzymatically to folic acid in the gastrointestinal tract prior to absorption. Folic acid appears in the plasma approximately 15 to 30 minutes after an oral dose; peak levels are generally reached within 1 hour. After intravenous administration, the drug is rapidly cleared from the plasma. Cerebrospinal fluid levels of folic acid are several times greater than serum levels of the drug. Folic acid is metabolized in the liver to 7,8-dihydrofolic acid and eventually to 5,6,7,8-tetrahydrofolic acid with the aid of reduced diphosphopyridine nucleotide (DPNH) and folate reductases. Tetrahydrofolic acid is linked in the N 5 or N 10 positions with formyl, hydroxymethyl, methyl, or formimino groups. N 5 -formyltetrahydrofolic acid is leucovorin. Tetrahydrofolic acid derivatives are distributed to all body tissues but are stored primarily in the liver. Normal serum levels of total folate have been reported to be 5 ng/mL to 15 ng/mL; normal cerebrospinal fluid levels are approximately 16 ng/mL to 21 ng/mL. Normal erythrocyte folate levels have been reported to range from 175 ng/mL to 316 ng/mL. In general, folate serum levels below 5 ng/mL indicate folate deficiency, and levels below 2 ng/mL usually result in megaloblastic anemia. After a single oral dose of 100 mcg of folic acid in a limited number of normal adults, only a trace amount of the drug appeared in the urine. An oral dose of 5 mg in 1 study and a dose of 40 mcg/kg of body weight in another study resulted in approximately 50% of the dose appearing in the urine. After a single oral dose of 15 mg, up to 90% of the dose was recovered in the urine. A majority of the metabolic products appeared in the urine after 6 hours; excretion was generally complete within 24 hours. Small amounts of orally administered folic acid have also been recovered in the feces. Folic acid is also excreted in the milk of lactating mothers."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Folic acid is effective in the treatment of megaloblastic anemias due to a deficiency of folic acid (as may be seen in tropical or nontropical sprue) and in anemias of nutritional origin, pregnancy, infancy, or childhood."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Folic acid is contraindicated in patients who have shown previous intolerance to the drug."
+      ],
+      "warnings": [
+        "WARNING Administration of folic acid alone is improper therapy for pernicious anemia and other megaloblastic anemias in which vitamin B 12 is deficient."
+      ],
+      "precautions": [
+        "PRECAUTIONS General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. Adequate doses of vitamin B 12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia. Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted. Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ). Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed. Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low- birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 mcg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid. Folic acid is relatively nontoxic in man. Rare instances of allergic responses to folic acid preparations have been reported and have included erythema, skin rash, itching, general malaise, and respiratory difficulty due to bronchospasm. One patient experienced symptoms suggesting anaphylaxis following injection of the drug. Gastrointestinal side effects, including anorexia, nausea, abdominal distention, flatulence, and a bitter or bad taste, have been reported in patients receiving 15 mg folic acid daily for 1 month. Other side effects reported in patients receiving 15 mg daily include altered sleep patterns, difficulty in concentrating, irritability, overactivity, excitement, mental depression, confusion, and impaired judgment. Decreased vitamin B 12 serum levels may occur in patients receiving prolonged folic acid therapy. In an uncontrolled study, orally administered folic acid was reported to increase the incidence of seizures in some epileptic patients receiving phenobarbital, primidone, or diphenylhydantoin. Another investigator reported decreased diphenylhydantoin serum levels in folate-deficient patients receiving diphenylhydantoin who were treated with 5 mg or 15 mg of folic acid daily."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Except during pregnancy and lactation, folic acid should not be given in therapeutic doses greater than 0.4 mg daily until pernicious anemia has been ruled out. Patients with pernicious anemia receiving more than 0.4 mg of folic acid daily who are inadequately treated with vitamin B 12 may show reversion of the hematologic parameters to normal, but neurologic manifestations due to vitamin B 12 deficiency will progress. Doses of folic acid exceeding the Recommended Dietary Allowance (RDA) should not be included in multivitamin preparations; if therapeutic amounts are necessary, folic acid should be given separately."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Oral administration is preferred. Although most patients with malabsorption cannot absorb food folates, they are able to absorb folic acid given orally. Parenteral administration is not advocated but may be necessary in some individuals (e.g., patients receiving parenteral or enteral alimentation). Doses greater than 0.1 mg should not be used unless anemia due to vitamin B 12 deficiency has been ruled out or is being adequately treated with a cobalamin. Daily doses greater than 1 mg do not enhance the hematologic effect, and most of the excess is excreted unchanged in the urine. The usual therapeutic dosage in adults and children (regard less of age) is up to 1 mg daily. Resistant cases may require larger doses. When clinical symptoms have subsided and the blood picture has become normal, a daily maintenance level should be used, i.e., 0.1 mg for infants and up to 0.3 mg for children under 4 years of age, 0.4 mg for adults and children 4 or more years of age, and 0.8 mg for pregnant and lactating women, but never less than 0.1 mg/day. Patients should be kept under close supervision and adjustment of the maintenance level made if relapse appears imminent. In the presence of alcoholism, hemolytic anemia, anticonvulsant therapy, or chronic infection, the maintenance level may need to be increased."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Folic Acid Tablets USP, 1 mg, are supplied as light yellow colored, round convex tablet debossed \"AN 361\" on one side and bisected on the other side. They are available as follows: Bottles of 100: NDC 68071-3513-1 Dispense contents with a child-resistant closure (as required) and in a tight, light-resistant container as defined in the USP. Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Protect from light and moisture. To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch Manufactured by: Amneal Pharmaceuticals Pvt. Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 Rev. 07-2021-00"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL pdp"
+      ],
+      "set_id": "065e403b-7ba8-b584-e063-6294a90a15ec",
+      "id": "2d04e342-be3c-7aa6-e063-6294a90a8da7",
+      "effective_time": "20250131",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "ANDA040625"
+        ],
+        "brand_name": [
+          "Folic Acid"
+        ],
+        "generic_name": [
+          "FOLIC ACID"
+        ],
+        "manufacturer_name": [
+          "NuCare Pharmaceuticals,Inc."
+        ],
+        "product_ndc": [
+          "68071-3513"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOLIC ACID"
+        ],
+        "rxcui": [
+          "310410"
+        ],
+        "spl_id": [
+          "2d04e342-be3c-7aa6-e063-6294a90a8da7"
+        ],
+        "spl_set_id": [
+          "065e403b-7ba8-b584-e063-6294a90a15ec"
+        ],
+        "package_ndc": [
+          "68071-3513-1"
+        ],
+        "original_packager_product_ndc": [
+          "53746-361"
+        ],
+        "upc": [
+          "0368071351316"
+        ],
+        "unii": [
+          "935E97BOY8"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "FOLIC ACID FOLIC ACID FOLIC ACID FOLIC ACID SODIUM STARCH GLYCOLATE TYPE A POTATO STARCH, CORN MICROCRYSTALLINE CELLULOSE STEARIC ACID EP;127"
+      ],
+      "description": [
+        "DESCRIPTION Folic acid, N-p-[[(2-amino-4-hydroxy-6-pteridinyl) methyl]amino] benzoyl]- L-glutamic acid, is a B complex vitamin containing a pteridine moiety linked by a methylene bridge to para- aminobenzoic acid, which is joined by a peptide linkage to glutamic acid. Conjugates of folic acid are present in a wide variety of foods, particularly liver, kidneys, yeast and leafy green vegetables. Commercially available folic acid is prepared synthetically. Folic acid occurs as a yellow or yellowish-orange crystalline powder and is very slightly soluble in water and insoluble in alcohol. Folic acid is readily soluble in dilute solutions of alkali hydroxides and carbonates, and solutions of the drug may be prepared with the aid of sodium hydroxide or sodium carbonate, thereby forming the soluble sodium salt of folic acid (sodium folate). Aqueous solutions of folic acid are heat sensitive and rapidly decompose in the presence of light and/or riboflavin; solutions should be stored in a cool place protected from light. The structural formula of folic acid is as follows: Each tablet, for oral administration, contains 1 mg folic acid. Folic acid tablets, USP 1 mg contain the following inactive ingredients: corn starch, microcrystalline cellulose, sodium starch glycolate and stearic acid. Chemical structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids. Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias. Folic acid is absorbed rapidly from the small intestine, primarily from the proximal portion. Naturally occurring conjugated folates are reduced enzymatically to folic acid in the gastrointestinal tract prior to absorption. Folic acid appears in the plasma approximately 15 to 30 minutes after an oral dose; peak levels are generally reached within 1 hour. After intravenous administration, the drug is rapidly cleared from the plasma. Cerebrospinal fluid levels of folic acid are several times greater than serum levels of the drug. Folic acid is metabolized in the liver to 7, 8-dihydrofolic acid and eventually to 5, 6, 7, 8-tetrahydrofolic acid with the aid of reduced diphosphopyridine nucleotide (DPNH) and folate reductases. Tetrahydrofolic acid is linked in the N 5 or N 10 positions with formyl, hydroxymethyl, methyl or formimino groups. N 5 -formyltetrahydrofolic acid is leucovorin. Tetrahydrofolic acid derivatives are distributed to all body tissues but are stored primarily in the liver. Normal serum levels of total folate have been reported to be 5 to 15ng/mL; normal cerebrospinal fluid levels are approximately 16 to 21ng/mL. Normal erythrocyte folate levels have been reported to range from 175 to 316 ng/mL. In general, folate serum levels below 5 ng/mL indicate folate deficiency, and levels below 2 ng/mL usually result in megaloblastic anemia. After a single oral dose of 100 µg of folic acid in a limited number of normal adults, only a trace amount of the drug appeared in the urine. An oral dose of 5 mg in 1 study and a dose of 40 µg /kg of body weight in another study resulted in approximately 50% of the dose appearing in the urine. After a single oral dose of 15 mg, up to 90% of the dose was recovered in the urine. A majority of the metabolic products appeared in the urine after 6 hours; excretion was generally complete within 24 hours. Small amounts of orally administered folic acid have also been recovered in feces. Folic acid is also excreted in the milk of lactating mothers."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Folic acid is effective in the treatment of megaloblastic anemias due to a deficiency of folic acid (as may be seen in tropical or nontropical sprue) and in anemias of nutritional origin, pregnancy, infancy, or childhood."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Folic acid is contraindicated in patients who have shown previous intolerance to the drug."
+      ],
+      "warnings": [
+        "WARNINGS Administration of folic acid alone is improper therapy for pernicious anemia and other megaloblastic anemias in which vitamin B 12 is deficient."
+      ],
+      "precautions": [
+        "PRECAUTIONS General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. Adequate doses of vitamin B 12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia. Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted. Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ). Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed. Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low-birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 µg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "drug_interactions": [
+        "Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ). Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low-birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 µg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid. Folic acid is relatively nontoxic in man. Rare instances of allergic responses to folic acid preparations have been reported and have included erythema, skin rash, itching, general malaise, and respiratory difficulty due to bronchospasm. One patient experienced symptoms suggesting anaphylaxis following injection of the drug. Gastrointestinal side effects, including anorexia, nausea, abdominal distention, flatulence, and a bitter or bad taste, have been reported in patients receiving 15 mg folic acid daily for 1 month. Other side effects reported in patients receiving 15 mg daily include altered sleep patterns, difficulty in concentrating, irritability, overactivity, excitement, mental depression, confusion, and impaired judgment. Decreased vitamin B 12 serum levels may occur in patients receiving prolonged folic acid therapy. In an uncontrolled study, orally administered folic acid was reported to increase the incidence of seizures in some epileptic patients receiving phenobarbital, primidone, or diphenylhydantoin. Another investigator reported decreased diphenylhydantoin serum levels in folate-deficient patients receiving diphenylhydantoin who were treated with 5 mg or 15 mg of folic acid daily. CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS. YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088 OR LEADING PHARMA, LLC AT 1-844-740-7500."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Except during pregnancy and lactation, folic acid should not be given in therapeutic doses greater than 0.4 mg daily until pernicious anemia has been ruled out. Patients with pernicious anemia receiving more than 0.4 mg of folic acid daily who are inadequately treated with vitamin B 12 may show reversion of the hematologic parameters to normal, but neurologic manifestations due to vitamin B 12 deficiency will progress. Doses of folic acid exceeding the Recommended Dietary Allowance (RDA) should not be included in multivitamin preparations; if therapeutic amounts are necessary, folic acid should be given separately."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Oral administration is preferred. Although most patients with malabsorption cannot absorb food folates, they are able to absorb folic acid given orally. Parenteral administration is not advocated but may be necessary in some individuals (e.g., patients receiving parenteral or enteral alimentation). Doses greater than 0.1 mg should not be used unless anemia due to vitamin B 12 deficiency has been ruled out or is being adequately treated with a cobalamin. Daily doses greater than 1 mg do not enhance the hematologic effect, and most of the excess is excreted unchanged in the urine. The usual therapeutic dosage in adults and children (regardless of age) is up to 1 mg daily. Resistant cases may require larger doses. When clinical symptoms have subsided and the blood picture has become normal, a daily maintenance level should be used, i.e., 0.1 mg for infants and up to 0.3 mg for children under 4 years of age, 0.4 mg for adults and children 4 or more years of age, and 0.8 mg for pregnant and lactating women, but never less than 0.1 mg/day. Patients should be kept under close supervision and adjustment of the maintenance level made if relapse appears imminent. In the presence of alcoholism, hemolytic anemia, anticonvulsant therapy, or chronic infection, the maintenance level may need to be increased."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Folic acid tablets, USP 1 mg are yellow to orange color, round, bisected compressed tablets, debossed “EP” above bisect and “127” below the bisect on one side and plain on the other side. Product: 71335-0766 NDC: 71335-0766-1 30 TABLET in a BOTTLE NDC: 71335-0766-2 100 TABLET in a BOTTLE NDC: 71335-0766-3 120 TABLET in a BOTTLE NDC: 71335-0766-4 50 TABLET in a BOTTLE NDC: 71335-0766-5 90 TABLET in a BOTTLE NDC: 71335-0766-6 60 TABLET in a BOTTLE NDC: 71335-0766-7 10 TABLET in a BOTTLE Dispense in a well-closed container as defined in the USP, using a child-resistant closure. Store at 20°-25° C (68°-77° F). [See USP controlled room temperature.] Repackaged/Relabeled by: Bryant Ranch Prepack, Inc. Burbank, CA 91504"
+      ],
+      "package_label_principal_display_panel": [
+        "Folic Acid 1mg Tablet Label Image"
+      ],
+      "set_id": "0b263a1e-260b-4775-a76e-766add336f12",
+      "id": "291dfcdf-7bc5-4313-a533-25c72defdd72",
+      "effective_time": "20231204",
+      "version": "4",
+      "openfda": {
+        "application_number": [
+          "ANDA040796"
+        ],
+        "brand_name": [
+          "FOLIC ACID"
+        ],
+        "generic_name": [
+          "FOLIC ACID"
+        ],
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "product_ndc": [
+          "71335-0766"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOLIC ACID"
+        ],
+        "rxcui": [
+          "310410"
+        ],
+        "spl_id": [
+          "291dfcdf-7bc5-4313-a533-25c72defdd72"
+        ],
+        "spl_set_id": [
+          "0b263a1e-260b-4775-a76e-766add336f12"
+        ],
+        "package_ndc": [
+          "71335-0766-1",
+          "71335-0766-2",
+          "71335-0766-3",
+          "71335-0766-4",
+          "71335-0766-5",
+          "71335-0766-6",
+          "71335-0766-7"
+        ],
+        "original_packager_product_ndc": [
+          "69315-127"
+        ],
+        "unii": [
+          "935E97BOY8"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Folic Acid Folic Acid LACTOSE MONOHYDRATE CELLULOSE, MICROCRYSTALLINE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID FOLIC ACID FOLIC ACID ET;28 standard convex"
+      ],
+      "spl_unclassified_section": [
+        ""
+      ],
+      "description": [
+        "DESCRIPTION Folic acid, N-p-[[2-amino-4-hydroxy-6-pteridinyl] methyl]-amino] benzoyl]-L-glutamic acid, is a B complex vitamin containing a pteridine moiety linked by a methylene bridge to para-aminobenzoic acid, which is joined by a peptide linkage to glutamic acid. Conjugates of folic acid, USP are present in a wide variety of foods, particularly liver, kidneys, yeast, and leafy green vegetables. Commercially available folic acid, USP is prepared synthetically. Folic acid, USP occurs as a yellow or yellowish-orange crystalline powder and is very slightly soluble in water and insoluble in alcohol. Folic acid, USP is readily soluble in dilute solutions of alkali hydroxides and carbonates, and solutions of the drug may be prepared with the aid of sodium hydroxide or sodium carbonate, thereby forming the soluble sodium salt of folic acid, USP (sodium folate). Aqueous solutions of folic acid, USP are heat sensitive and rapidly decompose in the presence of light and/or riboflavin; solutions should be stored in a cool place protected from light. The structural formula of folic acid, USP is as follows: Each tablet, for oral administration, contains 1 mg folic acid, USP. Folic Acid Tablets, USP 1 mg contain the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate and stearic acid. folicacid-struc"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids. Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias. Folic acid is absorbed rapidly from the small intestine, primarily from the proximal portion. Naturally occurring conjugated folates are reduced enzymatically to folic acid in the gastrointestinal tract prior to absorption. Folic acid appears in the plasma approximately 15 to 30 minutes after an oral dose; peak levels are generally reached within 1 hour. After intravenous administration, the drug is rapidly cleared from the plasma. Cerebrospinal fluid levels of folic acid are several times greater than serum levels of the drug. Folic acid is metabolized in the liver to 7, 8-dihydrofolic acid and eventually to 5, 6, 7, 8-tetrahydrofolic acid with the aid of reduced diphosphopyridine nucleotide (DPNH) and folate reductases. Tetrahydrofolic acid is linked in the N 5 or N 10 positions with formyl, hydroxymethyl, methyl, or formimino groups. N5-formyltetrahydrofolic acid is leucovorin. Tetrahydrofolic acid derivatives are distributed to all body tissues but are stored primarily in the liver. Normal serum levels of total folate have been reported to be 5 to 15 ng/mL; normal cerebrospinal fluid levels are approximately 16 to 21 ng/mL. Normal erythrocyte folate levels have been reported to range from 175 to 316 ng/mL. In general, folate serum levels below 5 ng/mL indicate folate deficiency, and levels below 2 ng/mL usually result in megaloblastic anemia. After a single oral dose of 100 mcg of folic acid in a limited number of normal adults, only a trace amount of the drug appeared in the urine. An oral dose of 5 mg in 1 study and a dose of 40 mcg/kg of body weight in another study resulted in approximately 50% of the dose appearing in the urine. After a single oral dose of 15 mg, up to 90% of the dose was recovered in the urine. A majority of the metabolic products appeared in the urine after 6 hours; excretion was generally complete within 24 hours. Small amounts of orally administered folic acid have also been recovered in the feces. Folic acid is also excreted in the milk of lactating mothers."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Folic acid, USP is effective in the treatment of megaloblastic anemias due to a deficiency of folic acid, USP (as may be seen in tropical or nontropical sprue) and in anemias of nutritional origin, pregnancy, infancy, or childhood."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Folic acid, USP is contraindicated in patients who have shown previous intolerance to the drug."
+      ],
+      "warnings": [
+        "WARNING Administration of folic acid alone is improper therapy for pernicious anemia and other megaloblastic anemias in which vitamin B12 is deficient."
+      ],
+      "precautions": [
+        "PRECAUTIONS General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. Adequate doses of vitamin B12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia. Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted. Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ) . Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed. Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low-birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 mcg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "general_precautions": [
+        "General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. Adequate doses of vitamin B12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia."
+      ],
+      "drug_interactions": [
+        "Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ) . Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low-birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 mcg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid. Folic acid is relatively nontoxic in man. Rare instances of allergic responses to folic acid preparations have been reported and have included erythema, skin rash, itching, general malaise, and respiratory difficulty due to bronchospasm. One patient experienced symptoms suggesting anaphylaxis following injection of the drug. Gastrointestinal side effects, including anorexia, nausea, abdominal distention, flatulence, and a bitter or bad taste, have been reported in patients receiving 15 mg folic acid daily for 1 month. Other side effects reported in patients receiving 15 mg daily include altered sleep patterns, difficulty in concentrating, irritability, overactivity, excitement, mental depression, confusion, and impaired judgment. Decreased vitamin B12 serum levels may occur in patients receiving prolonged folic acid therapy. In an uncontrolled study, orally administered folic acid was reported to increase the incidence of seizures in some epileptic patients receiving phenobarbital, primidone, or diphenylhydantoin. Another investigator reported decreased diphenylhydantoin serum levels in folate-deficient patients receiving diphenylhydantoin who were treated with 5 mg or 15 mg of folic acid daily."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Except during pregnancy and lactation, folic acid should not be given in therapeutic doses greater than 0.4 mg daily until pernicious anemia has been ruled out. Patients with pernicious anemia receiving more than 0.4 mg of folic acid daily who are inadequately treated with vitamin B12 may show reversion of the hematologic parameters to normal, but neurologic manifestations due to vitamin B12 deficiency will progress. Doses of folic acid exceeding the Recommended Dietary Allowance (RDA) should not be included in multivitamin preparations; if therapeutic amounts are necessary, folic acid should be given separately."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Oral administration is preferred. Although most patients with malabsorption cannot absorb food folates, they are able to absorb folic acid, USP given orally. Parenteral administration is not advocated but may be necessary in some individuals (e.g., patients receiving parenteral or enteral alimentation). Doses greater than 0.1 mg should not be used unless anemia due to vitamin B12 deficiency has been ruled out or is being adequately treated with a cobalamin. Daily doses greater than 1 mg do not enhance the hematologic effect, and most of the excess is excreted unchanged in the urine. The usual therapeutic dosage in adults and children (regardless of age) is up to 1 mg daily. Resistant cases may require larger doses. When clinical symptoms have subsided and the blood picture has become normal, a daily maintenance level should be used, i.e., 0.1 mg for infants and up to 0.3 mg for children under 4 years of age, 0.4 mg for adults and children 4 or more years of age, and 0.8 mg for pregnant and lactating women, but never less than 0.1 mg/day. Patients should be kept under close supervision and adjustment of the maintenance level made if relapse appears imminent. In the presence of alcoholism, hemolytic anemia, anticonvulsant therapy, or chronic infection, the maintenance level may need to be increased."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Folic Acid Tablets, USP, 1 mg , are supplied as Yellow colored round shaped biconvex uncoated tablet with \" ET break line 28 \" debossed on one side & plain on other side. They are available as follows: Bottles of 100: NDC 16571-881-01 Bottles of 1000: NDC 16571-881-10 Dispense in well-closed container with child-resistant closure. Store 20° to 25°C (68° to 77°F). [see USP Controlled Room Temperature]. Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 00816 Iss. 06/2022"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL NDC 16571-881 -01 Folic Acid Tablets, USP 1 mg Rx only NDC 16571-881-10 Folic Acid Tablets, USP 1 mg Rx only folicacid-label01 folicacid-label02"
+      ],
+      "set_id": "0baa10dd-6d1d-4946-8236-566451132da3",
+      "id": "341528b8-768e-4117-ab05-ee2914d7889c",
+      "effective_time": "20221025",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "ANDA211064"
+        ],
+        "brand_name": [
+          "Folic Acid"
+        ],
+        "generic_name": [
+          "FOLIC ACID"
+        ],
+        "manufacturer_name": [
+          "Rising Pharma Holdings, Inc."
+        ],
+        "product_ndc": [
+          "16571-881"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOLIC ACID"
+        ],
+        "rxcui": [
+          "310410"
+        ],
+        "spl_id": [
+          "341528b8-768e-4117-ab05-ee2914d7889c"
+        ],
+        "spl_set_id": [
+          "0baa10dd-6d1d-4946-8236-566451132da3"
+        ],
+        "package_ndc": [
+          "16571-881-10",
+          "16571-881-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0316571881017",
+          "0316571881109"
+        ],
+        "unii": [
+          "935E97BOY8"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "FOLIC ACID folic acid FOLIC ACID FOLIC ACID LACTOSE MONOHYDRATE MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID N;8 52ed30a7-figure-01"
+      ],
+      "spl_unclassified_section": [
+        "Rx Only"
+      ],
+      "description": [
+        "DESCRIPTION Folic acid, USP, N-[p-[[(2-amino-4- hydroxy-6-pteridinyl) methyl]- amino] benzoyl]-Lglutamic acid, is a B complex vitamin containing a pteridine moiety linked by a methylene bridge to para -aminobenzoic acid, which is joined by a peptide linkage to glutamic acid. Conjugates of folic acid, USP are present in a wide variety of foods, particularly liver, kidneys, yeast, and leafy green vegetables. Commercially available folic acid, USP is prepared synthetically. Folic acid, USP occurs as a yellow or yellowish-orange crystalline powder and is very slightly soluble in water and insoluble in alcohol. Folic acid, USP is readily soluble in dilute solutions of alkali hydroxides and carbonates, and solutions of the drug may be prepared with the aid of sodium hydroxide or sodium carbonate, thereby forming the soluble sodium salt of folic acid, USP (sodium folate). Aqueous solutions of folic acid, USP are heat sensitive and rapidly decompose in the presence of light and/or riboflavin; solutions should be stored in a cool place protected from light. The structural formula of folic acid, USP is as follows: C 19 H 19 N 7 O 6 M.W. 441.40 Each tablet, for oral administration, contains 1 mg folic acid, USP. Folic acid tablets, USP 1 mg contain the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate and stearic acid."
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids. Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias. Folic acid is absorbed rapidly from the small intestine, primarily from the proximal portion. Naturally occurring conjugated folates are reduced enzymatically to folic acid in the gastrointestinal tract prior to absorption. Folic acid appears in the plasma approximately 15 to 30 minutes after an oral dose; peak levels are generally reached within 1 hour. After intravenous administration, the drug is rapidly cleared from the plasma. Cerebrospinal fluid levels of folic acid are several times greater than serum levels of the drug. Folic acid is metabolized in the liver to 7,8-dihydrofolic acid and eventually to 5,6,7,8-tetrahydrofolic acid with the aid of reduced diphosphopyridine nucleotide (DPNH) and folate reductases. Tetrahydrofolic acid is linked in the N 5 or N 10 positions with formyl, hydroxymethyl, methyl, or formimino groups. N 5 -formyltetrahydrofolic acid is leucovorin. Tetrahydrofolic acid derivatives are distributed to all body tissues but are stored primarily in the liver. Normal serum levels of total folate have been reported to be 5 to 15 ng/mL; normal cerebrospinal fluid levels are approximately 16 to 21 ng/mL. Normal erythrocyte folate levels have been reported to range from 175 to 316 ng/mL. In general, folate serum levels below 5 ng/mL indicate folate deficiency, and levels below 2 ng/mL usually result in megaloblastic anemia. After a single oral dose of 100 mcg of folic acid in a limited number of normal adults, only a trace amount of the drug appeared in the urine. An oral dose of 5 mg in 1 study and a dose of 40 mcg/kg of body weight in another study resulted in approximately 50% of the dose appearing in the urine. After a single oral dose of 15 mg, up to 90% of the dose was recovered in the urine. A majority of the metabolic products appeared in the urine after 6 hours; excretion was generally complete within 24 hours. Small amounts of orally administered folic acid have also been recovered in the feces. Folic acid is also excreted in the milk of lactating mothers."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Folic acid, USP is effective in the treatment of megaloblastic anemias due to a deficiency of folic acid, USP (as may be seen in tropical or nontropical sprue) and in anemias of nutritional origin, pregnancy, infancy, or childhood."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Folic acid, USP is contraindicated in patients who have shown previous intolerance to the drug."
+      ],
+      "warnings": [
+        "WARNINGS Administration of folic acid alone is improper therapy for pernicious anemia and other megaloblastic anemias in which vitamin B 12 is deficient."
+      ],
+      "precautions": [
+        "PRECAUTIONS General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. Adequate doses of vitamin B 12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia. Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted. Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ). Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed. Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low- birth- weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 mcg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "general_precautions": [
+        "General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. Adequate doses of vitamin B 12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia."
+      ],
+      "drug_interactions": [
+        "Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ). Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed."
+      ],
+      "teratogenic_effects": [
+        "Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ). Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low- birth- weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 mcg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid. Folic acid is relatively nontoxic in man. Rare instances of allergic responses to folic acid preparations have been reported and have included erythema, skin rash, itching, general malaise, and respiratory difficulty due to bronchospasm. One patient experienced symptoms suggesting anaphylaxis following injection of the drug. Gastrointestinal side effects, including anorexia, nausea, abdominal distention, flatulence, and a bitter or bad taste, have been reported in patients receiving 15 mg folic acid daily for 1 month. Other side effects reported in patients receiving 15 mg daily include altered sleep patterns, difficulty in concentrating, irritability, overactivity, excitement, mental depression, confusion, and impaired judgment. Decreased vitamin B 12 serum levels may occur in patients receiving prolonged folic acid therapy. In an uncontrolled study, orally administered folic acid was reported to increase the incidence of seizures in some epileptic patients receiving phenobarbital, primidone, or diphenylhydantoin. Another investigator reported decreased diphenylhydantoin serum levels in folate-deficient patients receiving diphenylhydantoin who were treated with 5 mg or 15 mg of folic acid daily."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Except during pregnancy and lactation, folic acid should not be given in therapeutic doses greater than 0.4 mg daily until pernicious anemia has been ruled out. Patients with pernicious anemia receiving more than 0.4 mg of folic acid daily who are inadequately treated with vitamin B 12 may show reversion of the hematologic parameters to normal, but neurologic manifestations due to vitamin B 12 deficiency will progress. Doses of folic acid exceeding the Recommended Dietary Allowance (RDA) should not be included in multivitamin preparations; if therapeutic amounts are necessary, folic acid should be given separately."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Oral administration is preferred. Although most patients with malabsorption cannot absorb food folates, they are able to absorb folic acid, USP given orally. Parenteral administration is not advocated but may be necessary in some individuals (e.g., patients receiving parenteral or enteral alimentation). Doses greater than 0.1 mg should not be used unless anemia due to vitamin B 12 deficiency has been ruled out or is being adequately treated with a cobalamin. Daily doses greater than 1 mg do not enhance the hematologic effect, and most of the excess is excreted unchanged in the urine. The usual therapeutic dosage in adults and children (regardless of age) is up to 1 mg daily. Resistant cases may require larger doses. When clinical symptoms have subsided and the blood picture has become normal, a daily maintenance level should be used, i.e., 0.1 mg for infants and up to 0.3 mg for children under 4 years of age, 0.4 mg for adults and children 4 or more years of age, and 0.8 mg for pregnant and lactating women, but never less than 0.1 mg/day. Patients should be kept under close supervision and adjustment of the maintenance level made if relapse appears imminent. In the presence of alcoholism, hemolytic anemia, anticonvulsant therapy, or chronic infection, the maintenance level may need to be increased."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Folic Acid 1mg Tablet NDC 71335-0613-1: 30 Tablets in a BOTTLE NDC 71335-0613-2: 100 Tablets in a BOTTLE NDC 71335-0613-3: 120 Tablets in a BOTTLE NDC 71335-0613-4: 50 Tablets in a BOTTLE NDC 71335-0613-5: 90 Tablets in a BOTTLE NDC 71335-0613-6: 60 Tablets in a BOTTLE NDC 71335-0613-7: 10 Tablets in a BOTTLE Repackaged/Relabeled by: Bryant Ranch Prepack, Inc. Burbank, CA 91504"
+      ],
+      "package_label_principal_display_panel": [
+        "Folic Acid 1mg Tablet Label"
+      ],
+      "set_id": "0e7cb7ea-c94e-4ce6-8149-311dc9c94e03",
+      "id": "9ef6c79d-7b8c-4f31-b0ba-543681121933",
+      "effective_time": "20250128",
+      "version": "6",
+      "openfda": {
+        "application_number": [
+          "ANDA204418"
+        ],
+        "brand_name": [
+          "FOLIC ACID"
+        ],
+        "generic_name": [
+          "FOLIC ACID"
+        ],
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "product_ndc": [
+          "71335-0613"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOLIC ACID"
+        ],
+        "rxcui": [
+          "310410"
+        ],
+        "spl_id": [
+          "9ef6c79d-7b8c-4f31-b0ba-543681121933"
+        ],
+        "spl_set_id": [
+          "0e7cb7ea-c94e-4ce6-8149-311dc9c94e03"
+        ],
+        "package_ndc": [
+          "71335-0613-1",
+          "71335-0613-2",
+          "71335-0613-3",
+          "71335-0613-4",
+          "71335-0613-5",
+          "71335-0613-6",
+          "71335-0613-7"
+        ],
+        "original_packager_product_ndc": [
+          "11534-165"
+        ],
+        "unii": [
+          "935E97BOY8"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Folic Acid Folic Acid FOLIC ACID FOLIC ACID LACTOSE MONOHYDRATE CELLULOSE, MICROCRYSTALLINE STEARIC ACID SODIUM STARCH GLYCOLATE TYPE A POTATO round biconvex C3"
+      ],
+      "description": [
+        "DESCRIPTION Folic acid, USP, N-[ p -[[(2-amino-4- hydroxy-6-pteridinyl methyl]- amino] benzoyl]-Lglutamic acid, is a B complex vitamin containing apteridine moiety linked by a methylene bridge to para -aminobenzoic acid, which is joined by a peptide linkage to glutamic acid. Conjugates of folic acid, USP are present in a wide variety of foods, particularly liver, kidneys, yeast, and leafy green vegetables. Commercially available folic acid, USP is pre pared synthetically. Folic acid, USP occurs as a yellow or yellowish-orange crystalline powder and is very slightly soluble in water and insoluble in alcohol. Folic acid, USP is readily soluble in dilute solutions of alkali hydroxides and carbonates, and solutions of the drug may be prepared with the aid of sodium hydroxide or sodium carbonate, thereby forming the soluble sodium salt of folic acid, USP (sodium folate). Aqueous solutions of folic acid, USP are heat sensitive and rapidly decompose in the presence of light and/or riboflavin; solutions should be stored in a cool place protected from light. The structural formula of folic acid, USP is as follows: C 19 H 19 N 7 O 6 M.W. 441.40 Each tablet, for oral administration, contains 1 mg folic acid, USP Folic acid tablets, USP 1 mg contain the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate and stearic acid. folicacid-struc"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids. Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias. Folic acid is absorbed rapidly from the small intestine, primarily from the proximal portion. Naturally occurring conjugated folates are reduced enzymatically to folic acid in the gastrointestinal tract prior to absorption. Folic acid appears in the plasma approximately 15 to 30 minutes after an oral dose; peak levels are generally reached within 1 hour. After intravenous administration, the drug is rapidly cleared from the plasma. Cerebrospinal fluid levels of folic acid are several times greater than serum levels of the drug. Folic acid is metabolized in the liver to 7,8-dihydrofolic acid and eventually to 5,6,7,8-tetrahydrofolic acid with the aid of reduced diphosphopyridine nucleotide (DPNH) and folate reductases. Tetrahydrofolic acid is linked in the N 5 or N 10 positions with formyl, hydroxymethyl, methyl, or formimino groups. N 5 -formyltetrahydrofolic acid is leucovorin. Tetrahydrofolic acid derivatives are distributed to all body tissues but are stored primarily in the liver. Normal serum levels of total folate have been reported to be 5 to 15 ng/mL; normal cerebrospinal fluid levels are approximately 16 to 21 ng/mL. Normal erythrocyte folate levels have been reported to range from 175 to 316 ng/mL. In general, folate serum levels below 5 ng/mL indicate folate deficiency, and levels below 2 ng/mL usually result in megaloblastic anemia. After a single oral dose of 100 mcg of folic acid in a limited number of normal adults, only a trace amount of the drug appeared in the urine. An oral dose of 5 mg in 1 study and a dose of 40 mcg/kg of body weight in another study resulted in approximately 50% of the dose appearing in the urine. After a single oral dose of 15 mg, up to 90% of the dose was recovered in the urine. A majority of the metabolic products appeared in the urine after 6 hours; excretion was generally complete within 24 hours. Small amounts of orally administered folic acid have also been recovered in the feces. Folic acid is also excreted in the milk of lactating mothers."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS & USAGE Folic acid, USP is effective in the treatment of megaloblastic anemias due to a deficiency of folic acid (as may be seen in tropical or nontropical sprue) and in anemias of nutritional origin, pregnancy, infancy, or childhood."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Folic acid, USP is contraindicated in patients who have shown previous intolerance to the drug."
+      ],
+      "warnings": [
+        "WARNING Administration of folic acid alone is improper therapy for pernicious anemia and other megaloblastic anemias in which vitamin B 12 is deficient."
+      ],
+      "precautions": [
+        "PRECAUTIONS General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system dam age before the correct diagnosis is made. Adequate doses of vitamin B 12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia. Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been con ducted. Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE). Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed. Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low- birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 mcg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "general_precautions": [
+        "General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system dam age before the correct diagnosis is made. Adequate doses of vitamin B 12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia."
+      ],
+      "drug_interactions": [
+        "Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been con ducted."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE). Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low- birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 mcg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid. Folic acid is relatively nontoxic in man. Rare instances of allergic responses to folic acid preparations have been report ed and have included erythema, skin rash, itching, general malaise, and respiratory difficulty due to bronchospasm. One patient experienced symptoms suggesting anaphylaxis following injection of the drug. Gastrointestinal side effects, including anorexia, nausea, abdominal distention, flatulence, and a bitter or bad taste, have been reported in patients receiving 15 mg folic acid daily for 1 month. Other side effects reported in patients receiving 15 mg daily include altered sleep patterns, difficulty in concentrating, irritability, overactivity, excitement, mental depression, confusion, and impaired judgment. Decreased vitamin B 12 serum levels may occur in patients receiving prolonged folic acid therapy. In an uncontrolled study, orally administered folic acid was reported to increase the incidence of seizures in some epileptic patients receiving phenobarbital, primidone, or diphenylhydantoin. Another investigator reported decreased diphenylhydantoin serum levels in folate-deficient patients receiving diphenylhydantoin who were treated with 5 mg or 15 mg of folic acid daily."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Except during pregnancy and lactation, folic acid should not be given in therapeutic doses greater than 0.4 mg daily until pernicious anemia has been ruled out. Patients with pernicious anemia receiving more than 0.4 mg of folic acid daily who are inadequately treated with vitamin B 12 may show reversion of the hematologic parameters to normal, but neurologic manifestations due to vitamin B 12 deficiency will progress. Doses of folic acid exceeding the Recommended Dietary Allowance (RDA) should not be included in multivitamin preparations; if therapeutic amounts are necessary, folic acid should be given separately."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE & ADMINISTRATION Oral administration is preferred. Although most patients with malabsorption cannot absorb food folates, they are able to absorb folic acid, USP given orally. Parenteral administration is not advocated but may be necessary in some individuals (e.g., patients receiving parenteral or enteral alimentation). Doses greater than 0.1 mg should not be used unless ane mia due to vitamin B 12 deficiency has been ruled out or is being adequately treated with a cobalamin. Daily doses greater than 1 mg do not enhance the hematologic effect, and most of the excess is excreted unchanged in the urine. The usual therapeutic dosage in adults and children (regard less of age) is up to 1 mg daily. Resistant cases may require larger doses. When clinical symptoms have subsided and the blood picture has become normal, a daily maintenance level should be used, i.e., 0.1 mg for infants and up to 0.3 mg for children under 4 years of age, 0.4 mg for adults and children 4 or more years of age, and 0.8 mg for pregnant and lactating women, but never less than 0.1 mg/day. Patients should be kept under close supervision and adjustment of the maintenance level made if relapse appears imminent. In the presence of alcoholism, hemolytic anemia, anticonvulsant therapy, or chronic infection, the maintenance level may need to be increased."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Folic Acid Tablets, USP 1 mg are supplied as yellow, round, biconvex uncoated tablets, debossed with \"C3\" on one side and breakline on other side and supplied in bottles of 100 and 1000. Folic Acid Tablets, USP 1 mg is having functional scoring. They are available as follows: Bottles of 100s: NDC 72241-050-05 Bottles of 1000s: NDC 72241-050-11 Dispense in well-closed container with child-resistant closure. Store at 20°to 25°C (68°to 77°F) [See USP Controlled Room Temperature]. Manufactured by: Cadila Pharmaceuticals Limited, 1389, Trasad Road, Dholka-382225 Dist.: Ahmedabad, Gujarat, INDIA Manufactured for: Modavar Pharmaceuticals LLC. 1016, 16th Street, Suite 602, Washington, DC 20036 Toll free number: 800 688 4697 Revised: March, 2023"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL NDC 72241-050-05 Folic Acid Tablets, USP 1 mg Rx only 100 TABLETS NDC 72241-050-11 Folic Acid Tablets, USP 1 mg Rx only 1000 TABLETS modavar-cont-label-100-count modavar-cont-label-1000-count"
+      ],
+      "set_id": "0eea15e4-7e5d-44e9-818b-a0bdf5271c78",
+      "id": "f1dbb47b-a3bd-472b-b565-053e5db411eb",
+      "effective_time": "20231225",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "ANDA202437"
+        ],
+        "brand_name": [
+          "Folic Acid"
+        ],
+        "generic_name": [
+          "FOLIC ACID"
+        ],
+        "manufacturer_name": [
+          "Modavar Pharmaceuticals LLC"
+        ],
+        "product_ndc": [
+          "72241-050"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOLIC ACID"
+        ],
+        "rxcui": [
+          "310410"
+        ],
+        "spl_id": [
+          "f1dbb47b-a3bd-472b-b565-053e5db411eb"
+        ],
+        "spl_set_id": [
+          "0eea15e4-7e5d-44e9-818b-a0bdf5271c78"
+        ],
+        "package_ndc": [
+          "72241-050-05",
+          "72241-050-11"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "935E97BOY8"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Folic Acid Folic Acid FOLIC ACID FOLIC ACID LACTOSE MONOHYDRATE CELLULOSE, MICROCRYSTALLINE STEARIC ACID SODIUM STARCH GLYCOLATE TYPE A POTATO round biconvex C3"
+      ],
+      "description": [
+        "DESCRIPTION Folic acid, USP, N-[ p -[[(2-amino-4- hydroxy-6-pteridinyl methyl]- amino] benzoyl]-Lglutamic acid, is a B complex vitamin containing apteridine moiety linked by a methylene bridge to para -aminobenzoic acid, which is joined by a peptide linkage to glutamic acid. Conjugates of folic acid, USP are present in a wide variety of foods, particularly liver, kidneys, yeast, and leafy green vegetables. Commercially available folic acid, USP is pre pared synthetically. Folic acid, USP occurs as a yellow or yellowish-orange crystalline powder and is very slightly soluble in water and insoluble in alcohol. Folic acid, USP is readily soluble in dilute solutions of alkali hydroxides and carbonates, and solutions of the drug may be prepared with the aid of sodium hydroxide or sodium carbonate, thereby forming the soluble sodium salt of folic acid, USP (sodium folate). Aqueous solutions of folic acid, USP are heat sensitive and rapidly decompose in the presence of light and/or riboflavin; solutions should be stored in a cool place protected from light. The structural formula of folic acid, USP is as follows: C 19 H 19 N 7 O 6 M.W. 441.40 Each tablet, for oral administration, contains 1 mg folic acid, USP Folic acid tablets, USP 1 mg contain the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate and stearic acid. folicacid-struc"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids. Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias. Folic acid is absorbed rapidly from the small intestine, primarily from the proximal portion. Naturally occurring conjugated folates are reduced enzymatically to folic acid in the gastrointestinal tract prior to absorption. Folic acid appears in the plasma approximately 15 to 30 minutes after an oral dose; peak levels are generally reached within 1 hour. After intravenous administration, the drug is rapidly cleared from the plasma. Cerebrospinal fluid levels of folic acid are several times greater than serum levels of the drug. Folic acid is metabolized in the liver to 7,8-dihydrofolic acid and eventually to 5,6,7,8-tetrahydrofolic acid with the aid of reduced diphosphopyridine nucleotide (DPNH) and folate reductases. Tetrahydrofolic acid is linked in the N 5 or N 10 positions with formyl, hydroxymethyl, methyl, or formimino groups. N 5 -formyltetrahydrofolic acid is leucovorin. Tetrahydrofolic acid derivatives are distributed to all body tissues but are stored primarily in the liver. Normal serum levels of total folate have been reported to be 5 to 15 ng/mL; normal cerebrospinal fluid levels are approximately 16 to 21 ng/mL. Normal erythrocyte folate levels have been reported to range from 175 to 316 ng/mL. In general, folate serum levels below 5 ng/mL indicate folate deficiency, and levels below 2 ng/mL usually result in megaloblastic anemia. After a single oral dose of 100 mcg of folic acid in a limited number of normal adults, only a trace amount of the drug appeared in the urine. An oral dose of 5 mg in 1 study and a dose of 40 mcg/kg of body weight in another study resulted in approximately 50% of the dose appearing in the urine. After a single oral dose of 15 mg, up to 90% of the dose was recovered in the urine. A majority of the metabolic products appeared in the urine after 6 hours; excretion was generally complete within 24 hours. Small amounts of orally administered folic acid have also been recovered in the feces. Folic acid is also excreted in the milk of lactating mothers."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS & USAGE Folic acid, USP is effective in the treatment of megaloblastic anemias due to a deficiency of folic acid (as may be seen in tropical or nontropical sprue) and in anemias of nutritional origin, pregnancy, infancy, or childhood."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Folic acid, USP is contraindicated in patients who have shown previous intolerance to the drug."
+      ],
+      "warnings": [
+        "WARNING Administration of folic acid alone is improper therapy for pernicious anemia and other megaloblastic anemias in which vitamin B 12 is deficient."
+      ],
+      "precautions": [
+        "PRECAUTIONS General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system dam age before the correct diagnosis is made. Adequate doses of vitamin B 12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia. Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been con ducted. Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE). Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed. Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low- birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 mcg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "general_precautions": [
+        "General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system dam age before the correct diagnosis is made. Adequate doses of vitamin B 12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia."
+      ],
+      "drug_interactions": [
+        "Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been con ducted."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE). Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low- birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 mcg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid. Folic acid is relatively nontoxic in man. Rare instances of allergic responses to folic acid preparations have been report ed and have included erythema, skin rash, itching, general malaise, and respiratory difficulty due to bronchospasm. One patient experienced symptoms suggesting anaphylaxis following injection of the drug. Gastrointestinal side effects, including anorexia, nausea, abdominal distention, flatulence, and a bitter or bad taste, have been reported in patients receiving 15 mg folic acid daily for 1 month. Other side effects reported in patients receiving 15 mg daily include altered sleep patterns, difficulty in concentrating, irritability, overactivity, excitement, mental depression, confusion, and impaired judgment. Decreased vitamin B 12 serum levels may occur in patients receiving prolonged folic acid therapy. In an uncontrolled study, orally administered folic acid was reported to increase the incidence of seizures in some epileptic patients receiving phenobarbital, primidone, or diphenylhydantoin. Another investigator reported decreased diphenylhydantoin serum levels in folate-deficient patients receiving diphenylhydantoin who were treated with 5 mg or 15 mg of folic acid daily."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Except during pregnancy and lactation, folic acid should not be given in therapeutic doses greater than 0.4 mg daily until pernicious anemia has been ruled out. Patients with pernicious anemia receiving more than 0.4 mg of folic acid daily who are inadequately treated with vitamin B 12 may show reversion of the hematologic parameters to normal, but neurologic manifestations due to vitamin B 12 deficiency will progress. Doses of folic acid exceeding the Recommended Dietary Allowance (RDA) should not be included in multivitamin preparations; if therapeutic amounts are necessary, folic acid should be given separately."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE & ADMINISTRATION Oral administration is preferred. Although most patients with malabsorption cannot absorb food folates, they are able to absorb folic acid, USP given orally. Parenteral administration is not advocated but may be necessary in some individuals (e.g., patients receiving parenteral or enteral alimentation). Doses greater than 0.1 mg should not be used unless ane mia due to vitamin B 12 deficiency has been ruled out or is being adequately treated with a cobalamin. Daily doses greater than 1 mg do not enhance the hematologic effect, and most of the excess is excreted unchanged in the urine. The usual therapeutic dosage in adults and children (regard less of age) is up to 1 mg daily. Resistant cases may require larger doses. When clinical symptoms have subsided and the blood picture has become normal, a daily maintenance level should be used, i.e., 0.1 mg for infants and up to 0.3 mg for children under 4 years of age, 0.4 mg for adults and children 4 or more years of age, and 0.8 mg for pregnant and lactating women, but never less than 0.1 mg/day. Patients should be kept under close supervision and adjustment of the maintenance level made if relapse appears imminent. In the presence of alcoholism, hemolytic anemia, anticonvulsant therapy, or chronic infection, the maintenance level may need to be increased."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Folic Acid Tablets, USP 1 mg are supplied as yellow, round, biconvex uncoated tablets, debossed with \"C3\" on one side and breakline on other side and supplied in bottles of 100 and 1000. Folic Acid Tablets, USP 1 mg is having functional scoring. They are available as follows: Bottles of 100s: NDC 71209-007-05 Bottles of 1000s: NDC 71209-007-11 Dispense in well-closed container with child-resistant closure. Store at 20°to 25°C (68°to 77°F) [See USP Controlled Room Temperature]. Manufactured by: Cadila Pharmaceuticals Limited, 1389, Trasad Road, Dholka-382225 Dist.: Ahmedabad, Gujarat, INDIA Revised: March 2023"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL NDC 71209-007-05 Folic Acid Tablets, USP 1 mg Rx only 100 TABLETS NDC 71209-007-11 Folic Acid Tablets, USP 1 mg Rx only 1000 TABLETS container-label-100count container-label-1000count"
+      ],
+      "set_id": "103c2cdd-5822-48ba-b62a-e2b11aa444ef",
+      "id": "fdcdd5ea-a352-4b01-a972-2ed5a82e3a61",
+      "effective_time": "20231223",
+      "version": "7",
+      "openfda": {
+        "application_number": [
+          "ANDA202437"
+        ],
+        "brand_name": [
+          "Folic Acid"
+        ],
+        "generic_name": [
+          "FOLIC ACID"
+        ],
+        "manufacturer_name": [
+          "Cadila Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "71209-007"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOLIC ACID"
+        ],
+        "rxcui": [
+          "310410"
+        ],
+        "spl_id": [
+          "fdcdd5ea-a352-4b01-a972-2ed5a82e3a61"
+        ],
+        "spl_set_id": [
+          "103c2cdd-5822-48ba-b62a-e2b11aa444ef"
+        ],
+        "package_ndc": [
+          "71209-007-05",
+          "71209-007-11"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0371209007054"
+        ],
+        "unii": [
+          "935E97BOY8"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Folic Acid Folic Acid LACTOSE MONOHYDRATE MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID FOLIC ACID FOLIC ACID ET;28 standard convex desc"
+      ],
+      "spl_unclassified_section": [
+        "FOLIC ACID Tablets, USP"
+      ],
+      "description": [
+        "DESCRIPTION Folic acid, N-p-[[2-amino-4-hydroxy-6-pteridinyl] methyl]-amino] benzoyl]-L-glutamic acid, is a B complex vitamin containing a pteridine moiety linked by a methylene bridge to para-aminobenzoic acid, which is joined by a peptide linkage to glutamic acid. Conjugates of folic acid are present in a wide variety of foods, particularly liver, kidneys, yeast, and leafy green vegetables. Commercially available folic acid is prepared synthetically. Folic acid occurs as a yellow or yellowish-orange crystalline powder and is very slightly soluble in water and insoluble in alcohol. Folic acid is readily soluble in dilute solutions of alkali hydroxides and carbonates, and solutions of the drug may be prepared with the aid of sodium hydroxide or sodium carbonate, thereby forming the soluble sodium salt of folic acid (sodium folate). Aqueous solutions of folic acid are heat sensitive and rapidly decompose in the presence of light and/or riboflavin; solutions should be stored in a cool place protected from light. The structural formula of folic acid is as follows: Each tablet, for oral administration, contains 1 mg folic acid. Folic Acid Tablets, USP 1 mg contain the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate and stearic acid"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids. Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias. Folic acid is absorbed rapidly from the small intestine, primarily from the proximal portion. Naturally occurring conjugated folates are reduced enzymatically to folic acid in the gastrointestinal tract prior to absorption. Folic acid appears in the plasma approximately 15 to 30 minutes after an oral dose; peak levels are generally reached within 1 hour. After intravenous administration, the drug is rapidly cleared from the plasma. Cerebrospinal fluid levels of folic acid are several times greater than serum levels of the drug. Folic acid is metabolized in the liver to 7, 8-dihydrofolic acid and eventually to 5, 6, 7, 8-tetrahydrofolic acid with the aid of reduced diphosphopyridine nucleotide (DPNH) and folate reductases. Tetrahydrofolic acid is linked in the N5 or N10 positions with formyl, hydroxymethyl, methyl, or formimino groups. N5-formyltetrahydrofolic acid is leucovorin. Tetrahydrofolic acid derivatives are distributed to all body tissues but are stored primarily in the liver. Normal serum levels of total folate have been reported to be 5 to 15 ng/mL; normal cerebro-spinal fluid levels are approximately 16 to 21 ng/mL. Normal erythrocyte folate levels have been reported to range from 175 to 316 ng/mL. In general, folate serum levels below 5 ng/mL indicate folate deficiency, and levels below 2 ng/mL usually result in megaloblastic anemia. After a single oral dose of 100 µg of folic acid in a limited number of normal adults, only a trace amount of the drug appeared in the urine. An oral dose of 5 mg in 1 study and a dose of 40 µg/kg of body weight in another study resulted in approximately 50% of the dose appearing in the urine. After a single oral dose of 15 mg, up to 90% of the dose was recovered in the urine. A majority of the metabolic products appeared in the urine after 6 hours; excretion was generally complete within 24 hours. Small amounts of orally administered folic acid have also been recovered in the feces. Folic acid is also excreted in the milk of lactating mothers."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Folic acid is effective in the treatment of megaloblastic anemias due to a deficiency of folic acid (as may be seen in tropical or nontropical sprue) and in anemias of nutritional origin, pregnancy, infancy, or childhood."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Folic acid is contraindicated in patients who have shown previous intolerance to the drug."
+      ],
+      "warnings": [
+        "WARNING Administration of folic acid alone is improper therapy for pernicious anemia and other megaloblastic anemias in which vitamin B12 is deficient."
+      ],
+      "precautions": [
+        "PRECAUTIONS General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. Adequate doses of vitamin B12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia. Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted. Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ) . Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed. Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low-birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 µg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "general_precautions": [
+        "General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. Adequate doses of vitamin B12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia."
+      ],
+      "drug_interactions": [
+        "Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ) . Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low-birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 µg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid. Folic acid is relatively nontoxic in man. Rare instances of allergic responses to folic acid preparations have been reported and have included erythema, skin rash, itching, general malaise, and respiratory difficulty due to bronchospasm. One patient experienced symptoms suggesting anaphylaxis following injection of the drug. Gastrointestinal side effects, including anorexia, nausea, abdominal distention, flatulence, and a bitter or bad taste, have been reported in patients receiving 15 mg folic acid daily for 1 month. Other side effects reported in patients receiving 15 mg daily include altered sleep patterns, difficulty in concentrating, irritability, overactivity, excitement, mental depression, confusion, and impaired judgment. Decreased vitamin B12 serum levels may occur in patients receiving prolonged folic acid therapy. In an uncontrolled study, orally administered folic acid was reported to increase the incidence of seizures in some epileptic patients receiving phenobarbital, primidone, or diphenylhydantoin. Another investigator reported decreased diphenylhydantoin serum levels in folate-deficient patients receiving diphenylhydantoin who were treated with 5 mg or 15 mg of folic acid daily."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Except during pregnancy and lactation, folic acid should not be given in therapeutic doses greater than 0.4 mg daily until pernicious anemia has been ruled out. Patients with pernicious anemia receiving more than 0.4 mg of folic acid daily who are inadequately treated with vitamin B12 may show reversion of the hematologic parameters to normal, but neurologic manifestations due to vitamin B12 deficiency will progress. Doses of folic acid exceeding the Recommended Dietary Allowance (RDA) should not be included in multivitamin preparations; if therapeutic amounts are necessary, folic acid should be given separately."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Oral administration is preferred. Although most patients with malabsorption cannot absorb food folates, they are able to absorb folic acid given orally. Parenteral administration is not advocated but may be necessary in some individuals (e.g., patients receiving parenteral or enteral alimentation). Doses greater than 0.1 mg should not be used unless anemia due to vitamin B12 deficiency has been ruled out or is being adequately treated with a cobalamin. Daily doses greater than 1 mg do not enhance the hematologic effect, and most of the excess is excreted unchanged in the urine. The usual therapeutic dosage in adults and children (regardless of age) is up to 1 mg daily. Resistant cases may require larger doses. When clinical symptoms have subsided and the blood picture has become normal, a daily maintenance level should be used, i.e., 0.1 mg for infants and up to 0.3 mg for children under 4 years of age, 0.4 mg for adults and children 4 or more years of age, and 0.8 mg for pregnant and lactating women, but never less than 0.1 mg/day. Patients should be kept under close supervision and adjustment of the maintenance level made if relapse appears imminent. In the presence of alcoholism, hemolytic anemia, anticonvulsant therapy, or chronic infection, the maintenance level may need to be increased."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Folic Acid Tablets, USP 1 mg are yellow, functionally scored, round, standard convex debossed with “ET breakline 28” debossed on one side and plain on the other side. NDC: 71335-2849-1: 30 Tablets in a BOTTLE NDC: 71335-2849-2: 100 Tablets in a BOTTLE NDC: 71335-2849-3: 120 Tablets in a BOTTLE NDC: 71335-2849-4: 50 Tablets in a BOTTLE NDC: 71335-2849-5: 90 Tablets in a BOTTLE NDC: 71335-2849-6: 60 Tablets in a BOTTLE NDC: 71335-2849-7: 10 Tablets in a BOTTLE Dispense in well-closed container with child-resistant closure. Store 20°-25°C (68°-77°F). [See USP controlled room temperature.] Repackaged/Relabeled by: Bryant Ranch Prepack, Inc. Burbank, CA 91504"
+      ],
+      "package_label_principal_display_panel": [
+        "Folic Acid 1mg Tablet Label"
+      ],
+      "set_id": "1383dce2-0b81-4694-a662-27576f867eae",
+      "id": "588a56ed-e8d0-48b3-84ff-db18a211fa1e",
+      "effective_time": "20251022",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "ANDA211064"
+        ],
+        "brand_name": [
+          "Folic Acid"
+        ],
+        "generic_name": [
+          "FOLIC ACID"
+        ],
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "product_ndc": [
+          "71335-2849"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOLIC ACID"
+        ],
+        "rxcui": [
+          "310410"
+        ],
+        "spl_id": [
+          "588a56ed-e8d0-48b3-84ff-db18a211fa1e"
+        ],
+        "spl_set_id": [
+          "1383dce2-0b81-4694-a662-27576f867eae"
+        ],
+        "package_ndc": [
+          "71335-2849-1",
+          "71335-2849-2",
+          "71335-2849-3",
+          "71335-2849-4",
+          "71335-2849-5",
+          "71335-2849-6",
+          "71335-2849-7"
+        ],
+        "original_packager_product_ndc": [
+          "58657-151"
+        ],
+        "unii": [
+          "935E97BOY8"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "FOLIC ACID FOLIC ACID SODIUM STARCH GLYCOLATE TYPE A POTATO STARCH, CORN CELLULOSE, MICROCRYSTALLINE STEARIC ACID FOLIC ACID FOLIC ACID EP;127"
+      ],
+      "description": [
+        "DESCRIPTION Folic acid, N-p-[[(2-amino-4-hydroxy-6-pteridinyl) methyl]amino] benzoyl]- L-glutamic acid, is a B complex vitamin containing a pteridine moiety linked by a methylene bridge to para- aminobenzoic acid, which is joined by a peptide linkage to glutamic acid. Conjugates of folic acid are present in a wide variety of foods, particularly liver, kidneys, yeast and leafy green vegetables. Commercially available folic acid is prepared synthetically. Folic acid occurs as a yellow or yellowish-orange crystalline powder and is very slightly soluble in water and insoluble in alcohol. Folic acid is readily soluble in dilute solutions of alkali hydroxides and carbonates, and solutions of the drug may be prepared with the aid of sodium hydroxide or sodium carbonate, thereby forming the soluble sodium salt of folic acid (sodium folate). Aqueous solutions of folic acid are heat sensitive and rapidly decompose in the presence of light and/or riboflavin; solutions should be stored in a cool place protected from light. The structural formula of folic acid is as follows: Each tablet, for oral administration, contains 1 mg folic acid. Folic acid tablets, USP 1 mg contain the following inactive ingredients: corn starch, microcrystalline cellulose, sodium starch glycolate and stearic acid. Chemical structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids. Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias. Folic acid is absorbed rapidly from the small intestine, primarily from the proximal portion. Naturally occurring conjugated folates are reduced enzymatically to folic acid in the gastrointestinal tract prior to absorption. Folic acid appears in the plasma approximately 15 to 30 minutes after an oral dose; peak levels are generally reached within 1 hour. After intravenous administration, the drug is rapidly cleared from the plasma. Cerebrospinal fluid levels of folic acid are several times greater than serum levels of the drug. Folic acid is metabolized in the liver to 7, 8-dihydrofolic acid and eventually to 5, 6, 7, 8-tetrahydrofolic acid with the aid of reduced diphosphopyridine nucleotide (DPNH) and folate reductases. Tetrahydrofolic acid is linked in the N 5 or N 10 positions with formyl, hydroxymethyl, methyl or formimino groups. N 5 -formyltetrahydrofolic acid is leucovorin. Tetrahydrofolic acid derivatives are distributed to all body tissues but are stored primarily in the liver. Normal serum levels of total folate have been reported to be 5 to 15ng/mL; normal cerebrospinal fluid levels are approximately 16 to 21ng/mL. Normal erythrocyte folate levels have been reported to range from 175 to 316 ng/mL. In general, folate serum levels below 5 ng/mL indicate folate deficiency, and levels below 2 ng/mL usually result in megaloblastic anemia. After a single oral dose of 100 µg of folic acid in a limited number of normal adults, only a trace amount of the drug appeared in the urine. An oral dose of 5 mg in 1 study and a dose of 40 µg /kg of body weight in another study resulted in approximately 50% of the dose appearing in the urine. After a single oral dose of 15 mg, up to 90% of the dose was recovered in the urine. A majority of the metabolic products appeared in the urine after 6 hours; excretion was generally complete within 24 hours. Small amounts of orally administered folic acid have also been recovered in feces. Folic acid is also excreted in the milk of lactating mothers."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Folic acid is effective in the treatment of megaloblastic anemias due to a deficiency of folic acid (as may be seen in tropical or nontropical sprue) and in anemias of nutritional origin, pregnancy, infancy, or childhood."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Folic acid is contraindicated in patients who have shown previous intolerance to the drug."
+      ],
+      "warnings": [
+        "WARNINGS Administration of folic acid alone is improper therapy for pernicious anemia and other megaloblastic anemias in which vitamin B 12 is deficient."
+      ],
+      "precautions": [
+        "PRECAUTIONS General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. Adequate doses of vitamin B 12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia. Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted. Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ). Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed. Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low-birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 µg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "drug_interactions": [
+        "Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ). Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low-birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 µg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid. Folic acid is relatively nontoxic in man. Rare instances of allergic responses to folic acid preparations have been reported and have included erythema, skin rash, itching, general malaise, and respiratory difficulty due to bronchospasm. One patient experienced symptoms suggesting anaphylaxis following injection of the drug. Gastrointestinal side effects, including anorexia, nausea, abdominal distention, flatulence, and a bitter or bad taste, have been reported in patients receiving 15 mg folic acid daily for 1 month. Other side effects reported in patients receiving 15 mg daily include altered sleep patterns, difficulty in concentrating, irritability, overactivity, excitement, mental depression, confusion, and impaired judgment. Decreased vitamin B 12 serum levels may occur in patients receiving prolonged folic acid therapy. In an uncontrolled study, orally administered folic acid was reported to increase the incidence of seizures in some epileptic patients receiving phenobarbital, primidone, or diphenylhydantoin. Another investigator reported decreased diphenylhydantoin serum levels in folate-deficient patients receiving diphenylhydantoin who were treated with 5 mg or 15 mg of folic acid daily. CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS. YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088 OR LEADING PHARMA, LLC AT 1-844-740-7500."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Except during pregnancy and lactation, folic acid should not be given in therapeutic doses greater than 0.4 mg daily until pernicious anemia has been ruled out. Patients with pernicious anemia receiving more than 0.4 mg of folic acid daily who are inadequately treated with vitamin B 12 may show reversion of the hematologic parameters to normal, but neurologic manifestations due to vitamin B 12 deficiency will progress. Doses of folic acid exceeding the Recommended Dietary Allowance (RDA) should not be included in multivitamin preparations; if therapeutic amounts are necessary, folic acid should be given separately."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Oral administration is preferred. Although most patients with malabsorption cannot absorb food folates, they are able to absorb folic acid given orally. Parenteral administration is not advocated but may be necessary in some individuals (e.g., patients receiving parenteral or enteral alimentation). Doses greater than 0.1 mg should not be used unless anemia due to vitamin B 12 deficiency has been ruled out or is being adequately treated with a cobalamin. Daily doses greater than 1 mg do not enhance the hematologic effect, and most of the excess is excreted unchanged in the urine. The usual therapeutic dosage in adults and children (regardless of age) is up to 1 mg daily. Resistant cases may require larger doses. When clinical symptoms have subsided and the blood picture has become normal, a daily maintenance level should be used, i.e., 0.1 mg for infants and up to 0.3 mg for children under 4 years of age, 0.4 mg for adults and children 4 or more years of age, and 0.8 mg for pregnant and lactating women, but never less than 0.1 mg/day. Patients should be kept under close supervision and adjustment of the maintenance level made if relapse appears imminent. In the presence of alcoholism, hemolytic anemia, anticonvulsant therapy, or chronic infection, the maintenance level may need to be increased."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Folic acid tablets, USP 1 mg are yellow to orange color, round, bisected compressed tablets, debossed “EP” above bisect and “127” below the bisect on one side and plain on the other side in bottles of 100 (NDC 69315-127-01) and 1000 (NDC 69315-127-10). Dispense in a well-closed container as defined in the USP, using a child-resistant closure. Store at 20°-25° C (68°-77° F). [See USP controlled room temperature.] Manufactured by: Leading Pharma, LLC Fairfield, NJ 07004 Rev. 02 04/17"
+      ],
+      "spl_unclassified_section": [
+        "REPACKAGING INFORMATION Please reference the HOW SUPPLIED section listed above for a description of individual drug products listed below. This drug product has been received by Aphena Pharma Solutions - Tennessee, LLC in a manufacturer or distributor packaged configuration and repackaged in full compliance with all applicable cGMP regulations. The package configurations available from Aphena are listed below: 1mg NDC 71610-803-30, Bottles of 30 Tablets NDC 71610-803-53, Bottles of 60 Tablets NDC 71610-803-60, Bottles of 90 Tablets Store between 20°-25°C (68°-77°F). See USP Controlled Room Temperature. Dispense in a tight light-resistant container as defined by USP. Keep this and all drugs out of the reach of children. Repackaged by: Cookeville, TN 38506 20240320AMH Aphena"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL - 1mg NDC 71610-803 - Folic Acid, USP 1mg Tablets - Rx Only Label"
+      ],
+      "set_id": "141bb721-cd20-5bba-e063-6394a90ab8fa",
+      "id": "141bc1c6-1567-65ca-e063-6394a90a5d9b",
+      "effective_time": "20240320",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "ANDA040796"
+        ],
+        "brand_name": [
+          "FOLIC ACID"
+        ],
+        "generic_name": [
+          "FOLIC ACID"
+        ],
+        "manufacturer_name": [
+          "Aphena Pharma Solutions - Tennessee, LLC"
+        ],
+        "product_ndc": [
+          "71610-803"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOLIC ACID"
+        ],
+        "rxcui": [
+          "310410"
+        ],
+        "spl_id": [
+          "141bc1c6-1567-65ca-e063-6394a90a5d9b"
+        ],
+        "spl_set_id": [
+          "141bb721-cd20-5bba-e063-6394a90ab8fa"
+        ],
+        "package_ndc": [
+          "71610-803-30",
+          "71610-803-53",
+          "71610-803-60"
+        ],
+        "original_packager_product_ndc": [
+          "69315-127"
+        ],
+        "unii": [
+          "935E97BOY8"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Folic Acid Folic Acid LACTOSE MONOHYDRATE MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID FOLIC ACID FOLIC ACID ET;28 standard convex"
+      ],
+      "spl_unclassified_section": [
+        ""
+      ],
+      "description": [
+        "DESCRIPTION Folic acid, N-p-[[2-amino-4-hydroxy-6-pteridinyl] methyl]-amino] benzoyl]-L-glutamic acid, is a B complex vitamin containing a pteridine moiety linked by a methylene bridge to para-aminobenzoic acid, which is joined by a peptide linkage to glutamic acid. Conjugates of folic acid, USP are present in a wide variety of foods, particularly liver, kidneys, yeast, and leafy green vegetables. Commercially available folic acid, USP is prepared synthetically. Folic acid, USP occurs as a yellow or yellowish-orange crystalline powder and is very slightly soluble in water and insoluble in alcohol. Folic acid, USP is readily soluble in dilute solutions of alkali hydroxides and carbonates, and solutions of the drug may be prepared with the aid of sodium hydroxide or sodium carbonate, thereby forming the soluble sodium salt of folic acid, USP (sodium folate). Aqueous solutions of folic acid, USP are heat sensitive and rapidly decompose in the presence of light and/or riboflavin; solutions should be stored in a cool place protected from light. The structural formula of folic acid, USP is as follows: Each tablet, for oral administration, contains 1 mg folic acid, USP. Folic Acid Tablets, USP 1 mg contain the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate and stearic acid. folicacid-struc"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids. Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias. Folic acid is absorbed rapidly from the small intestine, primarily from the proximal portion. Naturally occurring conjugated folates are reduced enzymatically to folic acid in the gastrointestinal tract prior to absorption. Folic acid appears in the plasma approximately 15 to 30 minutes after an oral dose; peak levels are generally reached within 1 hour. After intravenous administration, the drug is rapidly cleared from the plasma. Cerebrospinal fluid levels of folic acid are several times greater than serum levels of the drug. Folic acid is metabolized in the liver to 7, 8-dihydrofolic acid and eventually to 5, 6, 7, 8-tetrahydrofolic acid with the aid of reduced diphosphopyridine nucleotide (DPNH) and folate reductases. Tetrahydrofolic acid is linked in the N 5 or N 10 positions with formyl, hydroxymethyl, methyl, or formimino groups. N5-formyltetrahydrofolic acid is leucovorin. Tetrahydrofolic acid derivatives are distributed to all body tissues but are stored primarily in the liver. Normal serum levels of total folate have been reported to be 5 to 15 ng/mL; normal cerebrospinal fluid levels are approximately 16 to 21 ng/mL. Normal erythrocyte folate levels have been reported to range from 175 to 316 ng/mL. In general, folate serum levels below 5 ng/mL indicate folate deficiency, and levels below 2 ng/mL usually result in megaloblastic anemia. After a single oral dose of 100 mcg of folic acid in a limited number of normal adults, only a trace amount of the drug appeared in the urine. An oral dose of 5 mg in 1 study and a dose of 40 mcg/kg of body weight in another study resulted in approximately 50% of the dose appearing in the urine. After a single oral dose of 15 mg, up to 90% of the dose was recovered in the urine. A majority of the metabolic products appeared in the urine after 6 hours; excretion was generally complete within 24 hours. Small amounts of orally administered folic acid have also been recovered in the feces. Folic acid is also excreted in the milk of lactating mothers."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Folic acid, USP is effective in the treatment of megaloblastic anemias due to a deficiency of folic acid, USP (as may be seen in tropical or nontropical sprue) and in anemias of nutritional origin, pregnancy, infancy, or childhood."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Folic acid, USP is contraindicated in patients who have shown previous intolerance to the drug."
+      ],
+      "warnings": [
+        "WARNING Administration of folic acid alone is improper therapy for pernicious anemia and other megaloblastic anemias in which vitamin B12 is deficient."
+      ],
+      "precautions": [
+        "PRECAUTIONS General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. Adequate doses of vitamin B12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia. Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted. Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ) . Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed. Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low-birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 mcg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "general_precautions": [
+        "General Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. Adequate doses of vitamin B12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia."
+      ],
+      "drug_interactions": [
+        "Drug Interactions There is evidence that the anticonvulsant action of phenytoin is antagonized by folic acid. A patient whose epilepsy is completely controlled by phenytoin may require increased doses to prevent convulsions if folic acid is given. Folate deficiency may result from increased loss of folate, as in renal dialysis and/or interference with metabolism (e.g., folic acid antagonists such as methotrexate); the administration of anticonvulsants, such as diphenylhydantoin, primidone, and barbiturates; alcohol consumption and, especially, alcoholic cirrhosis; and the administration of pyrimethamine and nitrofurantoin. False low serum and red cell folate levels may occur if the patient has been taking antibiotics, such as tetracycline, which suppress the growth of Lactobacillus casei."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category A Folic acid is usually indicated in the treatment of megaloblastic anemias of pregnancy. Folic acid requirements are markedly increased during pregnancy, and deficiency will result in fetal damage (see INDICATIONS AND USAGE ) . Studies in pregnant women have not shown that folic acid increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, folic acid should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Folic acid is excreted in the milk of lactating mothers. During lactation, folic acid requirements are markedly increased; however, amounts present in human milk are adequate to fulfill infant requirements, although supplementation may be needed in low-birth-weight infants, in those who are breast-fed by mothers with folic acid deficiency (50 mcg daily), or in those with infections or prolonged diarrhea."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid. Folic acid is relatively nontoxic in man. Rare instances of allergic responses to folic acid preparations have been reported and have included erythema, skin rash, itching, general malaise, and respiratory difficulty due to bronchospasm. One patient experienced symptoms suggesting anaphylaxis following injection of the drug. Gastrointestinal side effects, including anorexia, nausea, abdominal distention, flatulence, and a bitter or bad taste, have been reported in patients receiving 15 mg folic acid daily for 1 month. Other side effects reported in patients receiving 15 mg daily include altered sleep patterns, difficulty in concentrating, irritability, overactivity, excitement, mental depression, confusion, and impaired judgment. Decreased vitamin B12 serum levels may occur in patients receiving prolonged folic acid therapy. In an uncontrolled study, orally administered folic acid was reported to increase the incidence of seizures in some epileptic patients receiving phenobarbital, primidone, or diphenylhydantoin. Another investigator reported decreased diphenylhydantoin serum levels in folate-deficient patients receiving diphenylhydantoin who were treated with 5 mg or 15 mg of folic acid daily."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Except during pregnancy and lactation, folic acid should not be given in therapeutic doses greater than 0.4 mg daily until pernicious anemia has been ruled out. Patients with pernicious anemia receiving more than 0.4 mg of folic acid daily who are inadequately treated with vitamin B12 may show reversion of the hematologic parameters to normal, but neurologic manifestations due to vitamin B12 deficiency will progress. Doses of folic acid exceeding the Recommended Dietary Allowance (RDA) should not be included in multivitamin preparations; if therapeutic amounts are necessary, folic acid should be given separately."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Oral administration is preferred. Although most patients with malabsorption cannot absorb food folates, they are able to absorb folic acid, USP given orally. Parenteral administration is not advocated but may be necessary in some individuals (e.g., patients receiving parenteral or enteral alimentation). Doses greater than 0.1 mg should not be used unless anemia due to vitamin B12 deficiency has been ruled out or is being adequately treated with a cobalamin. Daily doses greater than 1 mg do not enhance the hematologic effect, and most of the excess is excreted unchanged in the urine. The usual therapeutic dosage in adults and children (regardless of age) is up to 1 mg daily. Resistant cases may require larger doses. When clinical symptoms have subsided and the blood picture has become normal, a daily maintenance level should be used, i.e., 0.1 mg for infants and up to 0.3 mg for children under 4 years of age, 0.4 mg for adults and children 4 or more years of age, and 0.8 mg for pregnant and lactating women, but never less than 0.1 mg/day. Patients should be kept under close supervision and adjustment of the maintenance level made if relapse appears imminent. In the presence of alcoholism, hemolytic anemia, anticonvulsant therapy, or chronic infection, the maintenance level may need to be increased."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Product: 50090-7194 NDC: 50090-7194-0 100 TABLET in a BOTTLE NDC: 50090-7194-2 30 TABLET in a BOTTLE NDC: 50090-7194-4 90 TABLET in a BOTTLE"
+      ],
+      "package_label_principal_display_panel": [
+        "Folic Acid Label Image"
+      ],
+      "set_id": "16f8a1a1-ee81-4cd3-85e7-e1eae83fad67",
+      "id": "a1f8f99c-e929-41a1-a5a0-38d02ccde82d",
+      "effective_time": "20240722",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "ANDA211064"
+        ],
+        "brand_name": [
+          "Folic Acid"
+        ],
+        "generic_name": [
+          "FOLIC ACID"
+        ],
+        "manufacturer_name": [
+          "A-S Medication Solutions"
+        ],
+        "product_ndc": [
+          "50090-7194"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOLIC ACID"
+        ],
+        "rxcui": [
+          "310410"
+        ],
+        "spl_id": [
+          "a1f8f99c-e929-41a1-a5a0-38d02ccde82d"
+        ],
+        "spl_set_id": [
+          "16f8a1a1-ee81-4cd3-85e7-e1eae83fad67"
+        ],
+        "package_ndc": [
+          "50090-7194-4",
+          "50090-7194-0",
+          "50090-7194-2"
+        ],
+        "original_packager_product_ndc": [
+          "16571-881"
+        ],
+        "unii": [
+          "935E97BOY8"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2038",
+  "task_id": "T05638",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Gentamicin+Sulfate",
+  "local_path": "imports/accepted_evidence/product/2038/T05638_2038.cfm",
+  "sha256": "693d42063521ca7fa6e077bbc40fde912ba5ad0f1cffa0e539eee43a5dd9c0b2",
+  "downloaded_at": "2026-05-16T03:47:26.490903+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:661:2038",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

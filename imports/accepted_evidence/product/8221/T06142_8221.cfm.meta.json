@@ -1,0 +1,14 @@
+{
+  "source_id": "8221",
+  "task_id": "T06142",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tara-Plus+Cream",
+  "local_path": "imports/accepted_evidence/product/8221/T06142_8221.cfm",
+  "sha256": "826e5ab407d1be4979cd7dfa30f5170fb24a371637d96e18f8dfe295720b04c4",
+  "downloaded_at": "2026-05-16T03:48:42.880870+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:727:8221",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

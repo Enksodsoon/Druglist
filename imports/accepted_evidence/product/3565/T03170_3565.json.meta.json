@@ -1,0 +1,14 @@
+{
+  "source_id": "3565",
+  "task_id": "T03170",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Sucrate%20Gel&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3565/T03170_3565.json",
+  "sha256": "0fbb20cc41a21a0df4e79ccd50dd950c911b4515b121ee35b403a7b410fadf42",
+  "downloaded_at": "2026-05-16T03:41:15.410845+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:326:3565",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

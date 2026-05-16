@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:hl7-org:v3" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="4edb9a03-51f3-2398-e063-6394a90a0652"/>
+   <code code="34390-5" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN OTC DRUG LABEL"/>
+   <effectiveTime value="20260406"/>
+   <setId root="4edbaa1a-6e44-4865-e063-6394a90a8cc3"/>
+   <versionNumber value="1"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id root="1.3.6.1.4.1.519.1" extension="673067008"/>
+            <name>RAPID AID VIET NAM COMPANY LIMITED</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id root="1.3.6.1.4.1.519.1" extension="673067008"/>
+                        <name>RAPID AID VIET NAM COMPANY LIMITED</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" displayName="manufacture" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="83569-018" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="4f008f17-f1c8-22bb-e063-6294a90a9c4b"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20260406"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="83569-018" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>RAPID RELIEF</name>
+                        <formCode code="C42968" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PATCH"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>0.025% Capsaicin Pain Patch</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="6DC9Q167V3" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>PROPYLENE GLYCOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="g" value="0.00025"/>
+                              <denominator unit="g" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="S07O44R1ZM" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CAPSAICIN</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="S07O44R1ZM" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>CAPSAICIN</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="1F3X9DRV9X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>LAUROCAPRAM</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="PDC6A3C0OX" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>GLYCERIN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="5F4963KLHS" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>ACRYLAMIDE/SODIUM ACRYLOYLDIMETHYLTAURATE COPOLYMER (120000 MPA.S AT 1%)</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="D0I6NSZ87U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POLYACRYLIC ACID (800000 MW)</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="BYR0546TOW" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>DMDM HYDANTOIN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="285CYO341L" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM POLYACRYLATE (8000 MW)</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="9G34HU7RV0" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>EDETIC ACID</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="15FIX9V2JP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TITANIUM DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="1K713C615K" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>DIHYDROXYALUMINUM AMINOACETATE ANHYDROUS</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="W4888I119H" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TARTARIC ACID</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="12" unit="g"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="83569-018-01" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C82332" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PATCH"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20260407"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="M017" root="2.16.840.1.113883.3.9421"/>
+                           <code code="C200263" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="OTC Monograph Drug"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20260407"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38304" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TOPICAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4eda056b-1192-2f33-e063-6394a90aa5f8">
+               <id root="4eff594f-d161-0f65-e063-6294a90a4855"/>
+               <code code="55106-9" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - ACTIVE INGREDIENT SECTION"/>
+               <text>
+                  <paragraph>0.025% Capsaicin
+  <renderMultiMedia referencedObject="img_4eff1255-a917-9596-e063-6294a90a092a"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20260407"/>
+               <component>
+                  <observationMedia ID="img_4eff1255-a917-9596-e063-6294a90a092a">
+                     <text>active ingredient</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Pain Patch Principal Panel-1 patch.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4ed95147-8324-5331-e063-6394a90a38cb">
+               <id root="4eff696e-cecb-1f0d-e063-6294a90a1b65"/>
+               <code code="55105-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - PURPOSE SECTION"/>
+               <title>Directions for use</title>
+               <text>
+                  <paragraph>Purpose: Topical analgesic
+  <renderMultiMedia referencedObject="img_4eff15b7-7f7f-a88d-e063-6394a90a3d19"/>
+                  </paragraph>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20260407"/>
+               <component>
+                  <observationMedia ID="img_4eff15b7-7f7f-a88d-e063-6394a90a3d19">
+                     <text>purpose</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Pain Patch Principal Panel-1 patch.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4eda29ea-75e4-43a9-e063-6394a90adaac">
+               <id root="4eff6d65-d4ed-2eb5-e063-6294a90a5f6a"/>
+               <code code="34071-1" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS SECTION"/>
+               <text>
+                  <paragraph>
+                     <br/>
+For external use only.
+  <renderMultiMedia referencedObject="img_4eff1255-a918-9596-e063-6294a90a092a"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20260407"/>
+               <component>
+                  <observationMedia ID="img_4eff1255-a918-9596-e063-6294a90a092a">
+                     <text>for external use only</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Pain Patch Principal Panel-1 patch.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4eda2608-4d4f-1af0-e063-6294a90a2c72">
+               <id root="4eff7031-e53c-0b17-e063-6394a90a7232"/>
+               <code code="50566-9" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - STOP USE SECTION"/>
+               <text>
+                  <paragraph>
+                     <br/>
+• Condition worsens • Symptoms persist for more than 7 days • Symptoms clear up and occur again within a few days
+  <br/>
+• Redness is present or irritation or rash develops • Hypersensitivity/allergy occurs • A severe burning sensation occurs • If headache and/or redness occur • If you experience pain, swelling or blistering, as rare but serious burns can occur.
+  <renderMultiMedia referencedObject="img_4eff1c16-8821-a600-e063-6294a90a6ad1"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20260407"/>
+               <component>
+                  <observationMedia ID="img_4eff1c16-8821-a600-e063-6294a90a6ad1">
+                     <text>stop use and ask a doctor if</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Pain Patch Principal Panel-1 patch.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4eda2e16-ed90-59d6-e063-6394a90abf72">
+               <id root="4eff6d65-d4f0-2eb5-e063-6294a90a5f6a"/>
+               <code code="53414-9" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - PREGNANCY OR BREAST FEEDING SECTION"/>
+               <text>
+                  <paragraph>
+                     <br/>
+If pregnant or breast feeding, ask a health professional before use • Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+  <br/>
+                     <renderMultiMedia referencedObject="img_4eff2432-819c-c345-e063-6294a90a360d"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20260407"/>
+               <component>
+                  <observationMedia ID="img_4eff2432-819c-c345-e063-6294a90a360d">
+                     <text>if pregnant or breast</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Pain Patch Principal Panel-1 patch.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4eda4518-b4ee-7169-e063-6394a90aa84e">
+               <id root="4eff6d65-d4f1-2eb5-e063-6294a90a5f6a"/>
+               <code code="50565-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - KEEP OUT OF REACH OF CHILDREN SECTION"/>
+               <title>Directions</title>
+               <text>
+                  <paragraph>
+                     <br/>
+Directions
+  <br/>
+Adults and children 12 years of age and older:
+  <br/>
+• Clean and dry affected area • Remove film from patch and apply to the skin • Apply 1 patch at a time to the
+  <br/>
+affected area up to 3 times per day. Do not leave on skin for more than a total of 8 hours per day • Apply 1 patch at
+  <br/>
+a time to the affected area up to 3 times per day. Do not leave on skin for more than a total of 8 hours per day
+  <br/>
+• Children under 12 years of age: consult a doctor • Supervise children when using this product • May take
+  <br/>
+1-2weeks to produce bene&#152;cial effects • Ask a health care professional or physician for use beyond 6 weeks.
+  <renderMultiMedia referencedObject="img_4eff2432-819e-c345-e063-6294a90a360d"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20260407"/>
+               <component>
+                  <observationMedia ID="img_4eff2432-819e-c345-e063-6294a90a360d">
+                     <text>keep out of children</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Pain Patch Principal Panel-1 patch.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4efebe8d-e7f4-1142-e063-6294a90abcab">
+               <id root="4eff594f-d162-0f65-e063-6294a90a4855"/>
+               <code code="51727-6" codeSystem="2.16.840.1.113883.6.1" displayName="INACTIVE INGREDIENT SECTION"/>
+               <text>
+                  <paragraph>
+                     <br/>
+Inactive ingredients
+  <br/>
+Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Dihydroxyaluminum aminoacetate, DMDM hydantoin,
+  <br/>
+Edetic acid, Glycerin, Laurocapram, Polyacrylic acid, Propylene glycol, Sodium polyacrylate, Tartaric acid, Titanium
+  <br/>
+dioxide, Water.
+  <renderMultiMedia referencedObject="img_4eff0efd-5b0f-9ff3-e063-6294a90a1285"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20260407"/>
+               <component>
+                  <observationMedia ID="img_4eff0efd-5b0f-9ff3-e063-6294a90a1285">
+                     <text>inactive ingredient</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Pain Patch Principal Panel-1 patch.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4efec785-88b3-4735-e063-6394a90a88c1">
+               <id root="4eff2ed6-f47a-31c9-e063-6294a90a229e"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <text>
+                  <paragraph>
+                     <br/>
+Purpose: Topical analgesic
+  <br/>
+Uses: For temporary relief of minor pain associated with: arthritis, simple backache, strains, sprains.
+  <renderMultiMedia referencedObject="img_4eff2d2c-3ac3-3d03-e063-6294a90a9c15"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20260407"/>
+               <component>
+                  <observationMedia ID="img_4eff2d2c-3ac3-3d03-e063-6294a90a9c15">
+                     <text>purpose uses</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Pain Patch Principal Panel-1 patch.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4efecdcc-3776-30f6-e063-6294a90aabbf">
+               <id root="4eff742b-70ef-025e-e063-6394a90a930e"/>
+               <code code="55105-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - PURPOSE SECTION"/>
+               <text>
+                  <paragraph>
+                     <br/>
+Purpose
+  <br/>
+Topical analgesic
+  <renderMultiMedia referencedObject="img_4eff594f-d15c-0f65-e063-6294a90a4855"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20260407"/>
+               <component>
+                  <observationMedia ID="img_4eff594f-d15c-0f65-e063-6294a90a4855">
+                     <text>TOPICAL ANALGESIC</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Pain Patch Principal Panel-1 patch.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4efecf4c-9adb-5472-e063-6394a90ad9e3">
+               <id root="4eff6e71-15ce-0591-e063-6394a90a1a03"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <text>
+                  <paragraph>
+                     <br/>
+Apply 1 patch at a time to the affected area up to 3 times per day. Do not leave on skin for more than a total of 8 hours per day
+  <br/>
+• Children under 12 years of age: consult a doctor • Supervise children when using this product • May take 1-2
+  <br/>
+weeks to produce benefcial effects • Ask a health care professional or physician for use beyond 6 weeks.
+  <renderMultiMedia referencedObject="img_4eff378c-a386-a195-e063-6294a90a9eac"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20260407"/>
+               <component>
+                  <observationMedia ID="img_4eff378c-a386-a195-e063-6294a90a9eac">
+                     <text>up to 3 times</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Pain Patch Principal Panel-1 patch.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4eff2ed6-f47c-31c9-e063-6294a90a229e">
+               <id root="4eff771d-2034-1252-e063-6394a90a4c68"/>
+               <code code="43683-2" codeSystem="2.16.840.1.113883.6.1" displayName="RECENT MAJOR CHANGES SECTION"/>
+               <text>
+                  <paragraph>
+                     <br/>
+Purpose: Topical analgesic
+ </paragraph>
+                  <paragraph>
+                     <br/>
+Uses: For temporary relief of minor pain associated with: arthritis, simple backache, strains, sprains.
+  <renderMultiMedia referencedObject="img_4eff3431-149a-d045-e063-6394a90acc14"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20260408"/>
+               <component>
+                  <observationMedia ID="img_4eff3431-149a-d045-e063-6394a90acc14">
+                     <text>uses</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Pain Patch Principal Panel-1 patch.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4eda6b25-a92e-7df3-e063-6394a90adab7">
+               <id root="4eff6d65-d4f2-2eb5-e063-6294a90a5f6a"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <text>
+                  <paragraph>Drug facts, Active ingredients, Purpose, Uses, Warnings, Do not use, When using this product, Stop use and ask a doctor if, If pregnant, Directions, Other information, Inactive ingredients, REF
+  <renderMultiMedia referencedObject="img_4efef8b9-f5a6-81a3-e063-6394a90af6a1"/>
+                     <renderMultiMedia referencedObject="img_4eff08ff-fb35-72f6-e063-6294a90ac3be"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20260407"/>
+               <component>
+                  <observationMedia ID="img_4efef8b9-f5a6-81a3-e063-6394a90af6a1">
+                     <text>REF</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Pain Patch Package Label-1 patch.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="img_4eff08ff-fb35-72f6-e063-6294a90ac3be">
+                     <text>Directions for use</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Pain Patch Principal Panel-1 patch.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

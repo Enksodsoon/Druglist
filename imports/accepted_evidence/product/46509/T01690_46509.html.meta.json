@@ -1,0 +1,14 @@
+{
+  "source_id": "46509",
+  "task_id": "T01690",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Proctase-P",
+  "local_path": "imports/accepted_evidence/product/46509/T01690_46509.html",
+  "sha256": "f9ab022d79f3b8479558956b056afbec3ebba8367fcfc91fbbdd2efe316c8277",
+  "downloaded_at": "2026-05-16T03:37:35.633096+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:125:46509",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

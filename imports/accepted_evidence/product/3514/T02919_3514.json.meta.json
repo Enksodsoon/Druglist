@@ -1,0 +1,14 @@
+{
+  "source_id": "3514",
+  "task_id": "T02919",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Stugeron%2025%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3514/T02919_3514.json",
+  "sha256": "a358a1f75d5050bcd573e648caf01f8ed565d623423df924f9ef28e9b17ffcfd",
+  "downloaded_at": "2026-05-16T03:40:37.545765+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:293:3514",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

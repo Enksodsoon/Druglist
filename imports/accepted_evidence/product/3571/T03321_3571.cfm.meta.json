@@ -1,0 +1,14 @@
+{
+  "source_id": "3571",
+  "task_id": "T03321",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Soneriper+M",
+  "local_path": "imports/accepted_evidence/product/3571/T03321_3571.cfm",
+  "sha256": "70a41fdb729665c8ecfc2e73d474e682e29b8e2c5ea022cfa9b995309fa38c20",
+  "downloaded_at": "2026-05-16T03:41:38.287109+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:347:3571",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

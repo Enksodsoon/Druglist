@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_6",
+  "task_id": "T00142",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=mometasone+nasal+spray",
+  "local_path": "imports/accepted_evidence/drug/drug-bds002805/T00142_Drug_Label_Links_6.cfm",
+  "sha256": "a67eab38e73220459e58d5571178dc08cd42b8fba39f992936863569cc0f9a2f",
+  "downloaded_at": "2026-05-16T03:33:57.184396+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:6:Drug_Label_Links_6",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

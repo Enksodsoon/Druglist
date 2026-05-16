@@ -1,0 +1,14 @@
+{
+  "source_id": "1842",
+  "task_id": "T01388",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Forlax",
+  "local_path": "imports/accepted_evidence/product/1842/T01388_1842.cfm",
+  "sha256": "8f0a67763408b3f0339c42660777b46b3f673650d0d3c6b9d0a3c1b37e544752",
+  "downloaded_at": "2026-05-16T03:36:49.426156+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:92:1842",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

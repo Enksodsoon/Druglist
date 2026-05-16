@@ -1,0 +1,14 @@
+{
+  "source_id": "4212",
+  "task_id": "T02320",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Zyrtec%20Syrup&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/4212/T02320_4212.json",
+  "sha256": "07291a2e8afc4744c48530f9cdbdba7b4b815a0f80f91c9f1a5f5a2ec5b5b39e",
+  "downloaded_at": "2026-05-16T03:39:06.186676+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:212:4212",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

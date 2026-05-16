@@ -1,0 +1,14 @@
+{
+  "source_id": "47636",
+  "task_id": "T06613",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Micronized+Silver+Sulfadiazine+1",
+  "local_path": "imports/accepted_evidence/product/47636/T06613_47636.cfm",
+  "sha256": "bb713eb8415c7c44d648c407e87e8713699641ab8a4f9222e881d99ca0b948f4",
+  "downloaded_at": "2026-05-16T03:49:57.722903+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:779:47636",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

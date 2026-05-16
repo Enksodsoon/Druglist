@@ -1,0 +1,14 @@
+{
+  "source_id": "2898",
+  "task_id": "T01608",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Esomeprazole%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/2898/T01608_2898.json",
+  "sha256": "8ca5a4685587d876640a3c102be971bbeb11023fbeb20d6deb3d50ed4aeb848c",
+  "downloaded_at": "2026-05-16T03:37:22.512516+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:115:2898|Product_Label_Links:116:2903",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

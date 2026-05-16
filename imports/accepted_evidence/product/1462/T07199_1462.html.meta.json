@@ -1,0 +1,14 @@
+{
+  "source_id": "1462",
+  "task_id": "T07199",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Cravit+Ophthalmic+Solution",
+  "local_path": "imports/accepted_evidence/product/1462/T07199_1462.html",
+  "sha256": "0855f1fe6c7cbd6c4b55ea90e2f56dc91999b5ea07cded622c9e35f89b517c27",
+  "downloaded_at": "2026-05-16T03:51:26.845071+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:854:1462",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

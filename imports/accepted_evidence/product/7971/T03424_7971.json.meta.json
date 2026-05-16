@@ -1,0 +1,14 @@
+{
+  "source_id": "7971",
+  "task_id": "T03424",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ofloxacin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7971/T03424_7971.json",
+  "sha256": "30f8ecd59bcb755ac90bfeba6feef491d4f62c383647f062310060c190946e52",
+  "downloaded_at": "2026-05-16T03:41:53.927282+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:361:7971",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

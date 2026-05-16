@@ -1,0 +1,14 @@
+{
+  "source_id": "4039",
+  "task_id": "T04430",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Pinene+%2BCamphene+%2BCineol+%2BFenchone+%2BBorneol+%2BAnethol+%2BOlive+Oil",
+  "local_path": "imports/accepted_evidence/product/4039/T04430_4039.cfm",
+  "sha256": "4f35d2f9775515b84a8f72916501d55aa8084855dd179cf79c04eadf9e54dbd4",
+  "downloaded_at": "2026-05-16T03:44:28.325716+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:500:4039",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

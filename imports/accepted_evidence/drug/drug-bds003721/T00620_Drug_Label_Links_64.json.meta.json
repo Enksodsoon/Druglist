@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_64",
+  "task_id": "T00620",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=ophthalmic%20antibiotic%20ointment&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds003721/T00620_Drug_Label_Links_64.json",
+  "sha256": "01555de4424a517f27183c24a1fe617479734fb535e8203a10557195ff72cf80",
+  "downloaded_at": "2026-05-16T03:35:03.958580+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:64:Drug_Label_Links_64",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

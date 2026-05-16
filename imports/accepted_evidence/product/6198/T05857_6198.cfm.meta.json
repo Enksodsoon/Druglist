@@ -1,0 +1,14 @@
+{
+  "source_id": "6198",
+  "task_id": "T05857",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clinoderm+Cream",
+  "local_path": "imports/accepted_evidence/product/6198/T05857_6198.cfm",
+  "sha256": "2618933c954306169b1d11041e3b1add1d9a0be77aa6eb786ca9fb27433d441b",
+  "downloaded_at": "2026-05-16T03:47:59.066402+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:688:6198",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

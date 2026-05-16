@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_20",
+  "task_id": "T00265",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=oxymetazoline",
+  "local_path": "imports/accepted_evidence/drug/drug-bds002215/T00265_Drug_Label_Links_20.html",
+  "sha256": "7fd3226cf517f73d4f040a57e8bcbc153a7f46a07405dd0acb197ed6a2519310",
+  "downloaded_at": "2026-05-16T03:34:14.513818+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:20:Drug_Label_Links_20",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

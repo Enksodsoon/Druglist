@@ -1,0 +1,14 @@
+{
+  "source_id": "6463",
+  "task_id": "T06170",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Glycerin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/6463/T06170_6463.json",
+  "sha256": "74984e02abfc6d944c90e233f1e3867df46e7df23bfde82ce4664b3f9ac4372a",
+  "downloaded_at": "2026-05-16T03:48:47.616174+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:730:6463|Product_Label_Links:731:6743",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

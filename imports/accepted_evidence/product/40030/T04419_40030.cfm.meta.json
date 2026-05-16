@@ -1,0 +1,14 @@
+{
+  "source_id": "40030",
+  "task_id": "T04419",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Amitriptyline+10+mg",
+  "local_path": "imports/accepted_evidence/product/40030/T04419_40030.cfm",
+  "sha256": "b0d68b3af4cf103d6613c94d75d0f1a47cbd511b5bac712f813b58beabdae5c9",
+  "downloaded_at": "2026-05-16T03:44:26.228110+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:499:40030",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

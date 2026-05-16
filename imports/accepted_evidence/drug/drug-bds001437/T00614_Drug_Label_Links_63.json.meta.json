@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_63",
+  "task_id": "T00614",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=chloramphenicol%20eye%20drops&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001437/T00614_Drug_Label_Links_63.json",
+  "sha256": "ca1c5a4fefa90dc1e263ce8f52e4274734a058493d17ce31a927c95ce84f6176",
+  "downloaded_at": "2026-05-16T03:35:02.736153+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:63:Drug_Label_Links_63",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

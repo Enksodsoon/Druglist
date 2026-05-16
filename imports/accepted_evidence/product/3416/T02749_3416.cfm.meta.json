@@ -1,0 +1,14 @@
+{
+  "source_id": "3416",
+  "task_id": "T02749",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Guaifenesin+%2BDextromethorphan+HBr+%2F",
+  "local_path": "imports/accepted_evidence/product/3416/T02749_3416.cfm",
+  "sha256": "22144e6aa1a87d16ebf35a2a5ae87ebfead04601beee906de9af4ef40720edd4",
+  "downloaded_at": "2026-05-16T03:40:11.901581+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:272:3416",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1232",
+  "task_id": "T03986",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Belara&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1232/T03986_1232.json",
+  "sha256": "1e50794fc5dfec29bcdc9c7480cbf7b60c9b3f97a511ead266c37777564f84af",
+  "downloaded_at": "2026-05-16T03:43:19.365097+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:434:1232",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

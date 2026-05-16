@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_23",
+  "task_id": "T00292",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=cough+combo",
+  "local_path": "imports/accepted_evidence/drug/drug-bds007973/T00292_Drug_Label_Links_23.html",
+  "sha256": "37864fa8e74ae394eb41b04502871a6e46ad6b2bd8da3b0f95d48eb76442cc47",
+  "downloaded_at": "2026-05-16T03:34:18.290370+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:23:Drug_Label_Links_23",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1088",
+  "task_id": "T04409",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Air-X+Sugar+Free",
+  "local_path": "imports/accepted_evidence/product/1088/T04409_1088.cfm",
+  "sha256": "0cb6ed5d58c3cfec886c029cef08bbd02a42f8325ecd561b39659fd1d8ca831c",
+  "downloaded_at": "2026-05-16T03:44:24.886587+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:497:1088",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_EU_NICE_LOWER_UTI",
+  "task_id": "T00064",
+  "source_url": "https://www.nice.org.uk/guidance/ng109/resources",
+  "local_path": "imports/accepted_evidence/bulk/T00064_GUIDE_EU_NICE_LOWER_UTI.html",
+  "sha256": "013308027d1cfdac1bb7f4f9f76da300b12cc8d7f2810157d4f2de9cc1c7a578",
+  "downloaded_at": "2026-05-16T03:33:49.259030+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:28:GUIDE_EU_NICE_LOWER_UTI|Disease_Download_Map:108:uncomplicated_uti_adult|Disease_Download_Map:120:uncomplicated_uti_alt_cipro_adult|Disease_Download_Map:121:dysuria_lower_uti_adult|Disease_Download_Map:122:frequency_urgency_uti_adult",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

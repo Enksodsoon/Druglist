@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_20",
+  "task_id": "T00262",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/oxymetazoline/human/spls.json",
+  "local_path": "imports/accepted_evidence/drug/drug-bds002215/T00262_Drug_Label_Links_20.json",
+  "sha256": "1e3124c28b32657c48049abcf04932a5772def4c575bb9c36120bc0ea2735530",
+  "downloaded_at": "2026-05-16T03:34:14.308930+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "direct_download",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:20:Drug_Label_Links_20",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

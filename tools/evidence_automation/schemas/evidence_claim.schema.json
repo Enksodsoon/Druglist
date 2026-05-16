@@ -1,0 +1,131 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DruglistEvidenceClaim",
+  "type": "object",
+  "required": [
+    "task_id",
+    "row_type",
+    "verification_status",
+    "source_ids"
+  ],
+  "properties": {
+    "task_id": {
+      "type": "string"
+    },
+    "row_type": {
+      "enum": [
+        "disease",
+        "drug",
+        "product"
+      ]
+    },
+    "disease_key": {
+      "type": "string"
+    },
+    "drug_or_product": {
+      "type": "string"
+    },
+    "indication": {
+      "type": "string"
+    },
+    "adult_dose": {
+      "type": "string"
+    },
+    "pediatric_dose": {
+      "type": "string"
+    },
+    "pediatric_formula_ready": {
+      "type": "boolean"
+    },
+    "max_dose": {
+      "type": "string"
+    },
+    "route": {
+      "type": "string"
+    },
+    "frequency": {
+      "type": "string"
+    },
+    "duration": {
+      "type": "string"
+    },
+    "regimen_role": {
+      "type": "string"
+    },
+    "contraindications": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "interactions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "side_effects_common": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "side_effects_serious": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "pregnancy_lactation": {
+      "type": "string"
+    },
+    "renal_hepatic": {
+      "type": "string"
+    },
+    "antibiotic_gate": {
+      "type": "string"
+    },
+    "red_flags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source_sections": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "conflicts": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "verification_status": {
+      "enum": [
+        "gold_ready",
+        "usable_with_warning_source_partial",
+        "manual_review",
+        "blocked_conflict",
+        "blocked_no_source"
+      ]
+    },
+    "reviewer_note": {
+      "type": "string"
+    }
+  }
+}

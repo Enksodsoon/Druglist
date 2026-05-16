@@ -1,0 +1,14 @@
+{
+  "source_id": "47647",
+  "task_id": "T06543",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Hypromellose+USP+%2BPreservative+%2F",
+  "local_path": "imports/accepted_evidence/product/47647/T06543_47647.cfm",
+  "sha256": "e6534781a0d9aa41047fb00c0f5d7de991029c359f5e7737640ad099d5060628",
+  "downloaded_at": "2026-05-16T03:49:45.305829+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:771:47647",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

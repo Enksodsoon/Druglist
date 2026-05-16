@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_4",
+  "task_id": "T00126",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=fexofenadine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds003747/T00126_Drug_Label_Links_4.xml",
+  "sha256": "4b2a8251c96845a16126ca9a0879743be226c81375ad5c24c43e263deb5408aa",
+  "downloaded_at": "2026-05-16T03:33:55.554431+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:4:Drug_Label_Links_4",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

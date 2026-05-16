@@ -1,0 +1,14 @@
+{
+  "source_id": "1018",
+  "task_id": "T07127",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Alcohol+Alsoff+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/1018/T07127_1018.cfm",
+  "sha256": "5326db9bcb2d0a4733312b323b7e88520e33b478358ca723956d795ff9994d07",
+  "downloaded_at": "2026-05-16T03:51:15.651428+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:846:1018",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

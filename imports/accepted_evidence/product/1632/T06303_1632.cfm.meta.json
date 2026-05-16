@@ -1,0 +1,14 @@
+{
+  "source_id": "1632",
+  "task_id": "T06303",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dexamethasone+Phosphate+%2BNeomycin+Sulfate+0+5+%2F",
+  "local_path": "imports/accepted_evidence/product/1632/T06303_1632.cfm",
+  "sha256": "88365459af49d0a07d0cc31d99d829d5ab964fad4fdca5b8a0b03a4d90b7e407",
+  "downloaded_at": "2026-05-16T03:49:07.125230+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:746:1632",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

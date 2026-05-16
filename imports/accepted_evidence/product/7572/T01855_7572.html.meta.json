@@ -1,0 +1,14 @@
+{
+  "source_id": "7572",
+  "task_id": "T01855",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=J.V.Nazole",
+  "local_path": "imports/accepted_evidence/product/7572/T01855_7572.html",
+  "sha256": "495609f0bd0dbe2c8105d8a5b0939bc182f58c1da99f0aea31c26f5ec0ac4221",
+  "downloaded_at": "2026-05-16T03:38:00.236345+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:146:7572",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

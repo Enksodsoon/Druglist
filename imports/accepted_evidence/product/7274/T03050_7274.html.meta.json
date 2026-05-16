@@ -1,0 +1,14 @@
+{
+  "source_id": "7274",
+  "task_id": "T03050",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Spasuri",
+  "local_path": "imports/accepted_evidence/product/7274/T03050_7274.html",
+  "sha256": "acb20574ef300e0a0be63d49b18815ec9aee332ff13cda27b3222b684cd51ed7",
+  "downloaded_at": "2026-05-16T03:40:57.913343+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:310:7274",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

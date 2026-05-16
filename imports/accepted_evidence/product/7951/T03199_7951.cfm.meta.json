@@ -1,0 +1,14 @@
+{
+  "source_id": "7951",
+  "task_id": "T03199",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Al+3+%2BMg+2+%2BSimethicone+%2F",
+  "local_path": "imports/accepted_evidence/product/7951/T03199_7951.cfm",
+  "sha256": "4dc8def711a2edc1832d6ffe3027bcf0e41be18201630ffbffadd61b878d9331",
+  "downloaded_at": "2026-05-16T03:41:19.891202+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:330:7951",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

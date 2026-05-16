@@ -1,0 +1,14 @@
+{
+  "source_id": "8481",
+  "task_id": "T01171",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Doxylamine%20Succinate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8481/T01171_8481.json",
+  "sha256": "d99c30b67c34188c11782f0d6e160e73e6880c54776609fc0b968b4629710c86",
+  "downloaded_at": "2026-05-16T03:36:19.013509+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:58:8481",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "40029",
+  "task_id": "T00995",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Alerest",
+  "local_path": "imports/accepted_evidence/product/40029/T00995_40029.html",
+  "sha256": "584ac982f78b608b2872a5c2ed950a8b6225fd192a053fbd575e12d066b89aa3",
+  "downloaded_at": "2026-05-16T03:35:55.756681+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:34:40029",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

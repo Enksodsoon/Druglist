@@ -1,0 +1,14 @@
+{
+  "source_id": "46503",
+  "task_id": "T03341",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Patilum+Oral+Suspension",
+  "local_path": "imports/accepted_evidence/product/46503/T03341_46503.cfm",
+  "sha256": "b2812e4c331aa88984f1d458c6e3ca56d77f9108f87fd92f196b848b426f1bac",
+  "downloaded_at": "2026-05-16T03:41:41.080416+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:350:46503",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

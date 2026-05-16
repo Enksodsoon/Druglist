@@ -1,0 +1,14 @@
+{
+  "source_id": "42358",
+  "task_id": "T03461",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Difflam+%E0%B8%A3%E0%B8%AA%E0%B8%AA%E0%B9%89%E0%B8%A1%E0%B8%9C%E0%B8%AA%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%8B%E0%B8%B5",
+  "local_path": "imports/accepted_evidence/product/42358/T03461_42358.cfm",
+  "sha256": "cb5dc16cf40b7e490e8cfda6edd91f07014a1eda7510ddea1748bbe805f83cfc",
+  "downloaded_at": "2026-05-16T03:41:59.257598+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:366:42358",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

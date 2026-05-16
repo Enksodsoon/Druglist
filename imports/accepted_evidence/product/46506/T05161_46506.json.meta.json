@@ -1,0 +1,14 @@
+{
+  "source_id": "46506",
+  "task_id": "T05161",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Pyroid&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/46506/T05161_46506.json",
+  "sha256": "079256c4c54ab253e4089bca31d506a3907eec2b08c980a983d28e0a4a1c030a",
+  "downloaded_at": "2026-05-16T03:46:15.095860+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:603:46506",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

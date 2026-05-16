@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_36",
+  "task_id": "T00392",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=urea+cream",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001682/T00392_Drug_Label_Links_36.html",
+  "sha256": "bc4d9508867439e9f1391deaef10f3845e91db55c6c7ee0967b8f1074728abe5",
+  "downloaded_at": "2026-05-16T03:34:30.726358+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:36:Drug_Label_Links_36|Drug_Label_Links:37:Drug_Label_Links_37",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

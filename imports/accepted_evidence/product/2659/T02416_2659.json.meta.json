@@ -1,0 +1,14 @@
+{
+  "source_id": "2659",
+  "task_id": "T02416",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Cyclidrol%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2659/T02416_2659.json",
+  "sha256": "087d0fe46dba675dc0bc0601d9031a2f082048c92f5b63cd807cfe66f4c8f42c",
+  "downloaded_at": "2026-05-16T03:39:21.427851+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:224:2659",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

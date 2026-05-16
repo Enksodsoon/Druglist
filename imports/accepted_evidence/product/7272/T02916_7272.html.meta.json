@@ -1,0 +1,14 @@
+{
+  "source_id": "7272",
+  "task_id": "T02916",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Stei+16+mg",
+  "local_path": "imports/accepted_evidence/product/7272/T02916_7272.html",
+  "sha256": "da9ffa38aff738a09479cd0663bdca28825fff99447066a2576fd125eb09b8c3",
+  "downloaded_at": "2026-05-16T03:40:36.373432+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:292:7272",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

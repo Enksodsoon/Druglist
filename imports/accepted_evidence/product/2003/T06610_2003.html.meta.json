@@ -1,0 +1,14 @@
+{
+  "source_id": "2003",
+  "task_id": "T06610",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Garamycin+Cream",
+  "local_path": "imports/accepted_evidence/product/2003/T06610_2003.html",
+  "sha256": "dcc8d6b94df8bf9c3e7508947aa620c4a1f1b54b6c48b484f15727c75999783b",
+  "downloaded_at": "2026-05-16T03:49:56.639678+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:778:2003",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

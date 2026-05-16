@@ -1,0 +1,14 @@
+{
+  "source_id": "1715",
+  "task_id": "T01376",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Lactulose%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1715/T01376_1715.json",
+  "sha256": "70901248be131db0df033d2d28b1ad56c4f94422f18165205e8cb45bcc2fd532",
+  "downloaded_at": "2026-05-16T03:36:47.954327+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:90:1715|Product_Label_Links:481:7554",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

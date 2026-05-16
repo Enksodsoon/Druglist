@@ -1,0 +1,14 @@
+{
+  "source_id": "3109",
+  "task_id": "T00958",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Para+Cap+bottle+100s",
+  "local_path": "imports/accepted_evidence/product/3109/T00958_3109.cfm",
+  "sha256": "0b2428e9011a0fa17045139fbcb81d0b11903a7748e503d1e13638d1c2c126fc",
+  "downloaded_at": "2026-05-16T03:35:49.696001+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:29:3109",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "8201",
+  "task_id": "T04305",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bisacod&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8201/T04305_8201.json",
+  "sha256": "73a95e62388445927648def9484f008372211e25ce57018edb83876caa6d2e21",
+  "downloaded_at": "2026-05-16T03:44:09.386146+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:480:8201",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

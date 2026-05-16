@@ -1,0 +1,14 @@
+{
+  "source_id": "7133",
+  "task_id": "T03093",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Gaspec-S",
+  "local_path": "imports/accepted_evidence/product/7133/T03093_7133.cfm",
+  "sha256": "64ea285aba8a916fcf2d9ab1c89ea13f08a3f96bfebbe41d7238ef3e4361d577",
+  "downloaded_at": "2026-05-16T03:41:03.815313+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:316:7133",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

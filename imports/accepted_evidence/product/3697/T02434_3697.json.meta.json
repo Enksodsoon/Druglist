@@ -1,0 +1,14 @@
+{
+  "source_id": "3697",
+  "task_id": "T02434",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Solmax%20Forte%20Suspension&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3697/T02434_3697.json",
+  "sha256": "49d3e6d73aca5103ea3aee054cb23824bda5be8adb8c4e2007b50fd5e42dfde4",
+  "downloaded_at": "2026-05-16T03:39:24.642850+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:227:3697",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

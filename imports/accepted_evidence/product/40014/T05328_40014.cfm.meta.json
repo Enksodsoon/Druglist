@@ -1,0 +1,14 @@
+{
+  "source_id": "40014",
+  "task_id": "T05328",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Acerola+Cherry+Extract+%2B+Rosehips+Extract+%2B+Cranberry+Extract+%2B+Ascorbic+Acid+%2B+Citrus+Bioflavonoid+%2B+Rutin",
+  "local_path": "imports/accepted_evidence/product/40014/T05328_40014.cfm",
+  "sha256": "8e60ee63cb3ad3d10b26f02532d130796e8ff9a4a570d3a3a231b9346de33e98",
+  "downloaded_at": "2026-05-16T03:46:38.686803+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:624:40014",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

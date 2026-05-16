@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_51",
+  "task_id": "T00508",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=naproxen",
+  "local_path": "imports/accepted_evidence/drug/drug-bds003568/T00508_Drug_Label_Links_51.html",
+  "sha256": "fc4824ab866b7d70bd0f2b1fd1b4b9ef0814b56ee69b5114b1a9edffa8d295c8",
+  "downloaded_at": "2026-05-16T03:34:47.841967+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:51:Drug_Label_Links_51",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

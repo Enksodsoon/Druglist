@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_10",
+  "task_id": "T00182",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=saccharomyces%20boulardii&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001248/T00182_Drug_Label_Links_10.json",
+  "sha256": "bbee25532b025ecec956be9b8414071aa4697b969dac79f5cbba57a45dd06979",
+  "downloaded_at": "2026-05-16T03:34:02.096779+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:10:Drug_Label_Links_10",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

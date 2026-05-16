@@ -1,0 +1,14 @@
+{
+  "source_id": "1825",
+  "task_id": "T05977",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Desoximetasone%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1825/T05977_1825.json",
+  "sha256": "897e358fd9f52c19fc6bf3dc7d0c8ebf53a24d8fe74029fa6e2b0dff51be9ce3",
+  "downloaded_at": "2026-05-16T03:48:17.118932+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:703:1825|Product_Label_Links:704:42807|Product_Label_Links:712:1831",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

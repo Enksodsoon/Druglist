@@ -1,0 +1,14 @@
+{
+  "source_id": "4151",
+  "task_id": "T05266",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Xenical&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/4151/T05266_4151.json",
+  "sha256": "5bb0a51322d2b42e875a27cf33b215ff6330c5e207e084d0560e78251f49ded1",
+  "downloaded_at": "2026-05-16T03:46:28.984181+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:617:4151",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

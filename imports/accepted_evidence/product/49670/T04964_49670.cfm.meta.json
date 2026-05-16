@@ -1,0 +1,14 @@
+{
+  "source_id": "49670",
+  "task_id": "T04964",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Xarator+10+mg.",
+  "local_path": "imports/accepted_evidence/product/49670/T04964_49670.cfm",
+  "sha256": "91996795f4fe50de12042b4da49add412af6e711636bcf4aef8c7e98b4431ccb",
+  "downloaded_at": "2026-05-16T03:45:46.300781+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:575:49670",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

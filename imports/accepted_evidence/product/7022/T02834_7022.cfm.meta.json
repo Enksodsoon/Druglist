@@ -1,0 +1,14 @@
+{
+  "source_id": "7022",
+  "task_id": "T02834",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betahistine+Mesylate",
+  "local_path": "imports/accepted_evidence/product/7022/T02834_7022.cfm",
+  "sha256": "4ba38b736522b8c64ef8707ce97723a486bf25c6bae7701a3a52501ccfa36ff2",
+  "downloaded_at": "2026-05-16T03:40:24.266670+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:282:7022",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

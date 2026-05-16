@@ -1,0 +1,14 @@
+{
+  "source_id": "2840",
+  "task_id": "T03312",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Norgesic&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2840/T03312_2840.json",
+  "sha256": "a9cf6db873599e999211b05349a2aa549d4fd0e414c4fbb1129ffa20e02acd19",
+  "downloaded_at": "2026-05-16T03:41:36.846109+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:345:2840",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

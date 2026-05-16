@@ -1,0 +1,14 @@
+{
+  "source_id": "43117",
+  "task_id": "T05707",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Fango+Cream+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/43117/T05707_43117.cfm",
+  "sha256": "86da36d9f09e3f0fa44a79d2ece4e40423b888da03e00cd7af3482608e0432c5",
+  "downloaded_at": "2026-05-16T03:47:36.535649+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:670:43117",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

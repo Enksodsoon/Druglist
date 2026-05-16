@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_EU_NICE_SINUSITIS",
+  "task_id": "T00043",
+  "source_url": "https://www.nice.org.uk/guidance/ng79/resources",
+  "local_path": "imports/accepted_evidence/bulk/T00043_GUIDE_EU_NICE_SINUSITIS.html",
+  "sha256": "7cc9dbe19546d37516aa4997eaaea4a493513bf54f9c3e13edf736329bdabeff",
+  "downloaded_at": "2026-05-16T03:33:47.199366+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:17:GUIDE_EU_NICE_SINUSITIS|Disease_Download_Map:34:bacterial_sinusitis_adult|Disease_Download_Map:97:bacterial_sinusitis_peds|Disease_Download_Map:114:bacterial_sinusitis_alt_adult",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2874",
+  "task_id": "T07478",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Triamcinolone+Acetonide+%2F+%2BPreservative+%2B%E0%B8%AD%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%86",
+  "local_path": "imports/accepted_evidence/product/2874/T07478_2874.cfm",
+  "sha256": "fdfeac20eeff119db824ddcdba6e5a15274320400c10ecd5e2c9ce79e661e843",
+  "downloaded_at": "2026-05-16T03:52:08.656795+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:886:2874",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

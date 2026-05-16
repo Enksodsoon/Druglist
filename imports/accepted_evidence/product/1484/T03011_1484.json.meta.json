@@ -1,0 +1,14 @@
+{
+  "source_id": "1484",
+  "task_id": "T03011",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Mebeverine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1484/T03011_1484.json",
+  "sha256": "3fcc2e01486c2caaf5e65e902c8c713b837bc4277e6501aa78d1d312ac2f4491",
+  "downloaded_at": "2026-05-16T03:40:51.257548+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:305:1484|Product_Label_Links:306:1707",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

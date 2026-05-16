@@ -1,0 +1,14 @@
+{
+  "source_id": "43842",
+  "task_id": "T02683",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Hidrasec+100+mg.",
+  "local_path": "imports/accepted_evidence/product/43842/T02683_43842.cfm",
+  "sha256": "966a5191e166ab8cf34aaac37ebde35b44c606ae4b0435cc0d581588a2ac7667",
+  "downloaded_at": "2026-05-16T03:40:02.087132+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:265:43842",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

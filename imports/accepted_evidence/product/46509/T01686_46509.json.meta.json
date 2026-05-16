@@ -1,0 +1,14 @@
+{
+  "source_id": "46509",
+  "task_id": "T01686",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Proctase%20%2BPancreatin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/46509/T01686_46509.json",
+  "sha256": "8bb2f980ae3adbc7ec88fd949885cf324110c57b5efb35fb36aa92d06e053ce7",
+  "downloaded_at": "2026-05-16T03:37:34.248282+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:125:46509",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

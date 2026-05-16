@@ -1,0 +1,14 @@
+{
+  "source_id": "3679",
+  "task_id": "T06565",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Polyethylene%20Glycol%20400%200%204%20%2BPropylene%20Glycol%200%203%20%2BAminomethylpropanol%2B//Boric%20Acid%2BHydroxypropyl%20guar%2B%20Chloride%2B%20Chlori&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3679/T06565_3679.json",
+  "sha256": "cc281b55cc2981141f6ce13538876857649420309a11fbb58a02c591d114520b",
+  "downloaded_at": "2026-05-16T03:49:48.765171+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:773:3679",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

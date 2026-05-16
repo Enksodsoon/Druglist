@@ -1,0 +1,14 @@
+{
+  "source_id": "6734",
+  "task_id": "T04885",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Sugril%205%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/6734/T04885_6734.json",
+  "sha256": "5fe0f50d9debec634f7d91c9354891cdb3bbb10a6af1080a6c099e85ee2e00c9",
+  "downloaded_at": "2026-05-16T03:45:34.646458+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:563:6734",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

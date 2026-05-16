@@ -1,0 +1,14 @@
+{
+  "source_id": "3765",
+  "task_id": "T06573",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Carboxymethyl+Cellulose+w%2Fv%2BPreservative",
+  "local_path": "imports/accepted_evidence/product/3765/T06573_3765.cfm",
+  "sha256": "868301fa918b61ab2397ad7109b47ceaaf79e4a616487cc3a8c6463a3c4f25d2",
+  "downloaded_at": "2026-05-16T03:49:50.532418+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:774:3765",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

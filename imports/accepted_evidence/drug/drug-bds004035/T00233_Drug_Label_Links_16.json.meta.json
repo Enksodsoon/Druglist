@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_16",
+  "task_id": "T00233",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=artificial%20tears&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds004035/T00233_Drug_Label_Links_16.json",
+  "sha256": "06b127a9af7728f671830292a505019e088a5c0ec4af0ef4368100b64eb64cde",
+  "downloaded_at": "2026-05-16T03:34:09.848505+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:16:Drug_Label_Links_16|Drug_Label_Links:17:Drug_Label_Links_17|Drug_Label_Links:29:Drug_Label_Links_29",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

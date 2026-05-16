@@ -1,0 +1,14 @@
+{
+  "source_id": "40609",
+  "task_id": "T07159",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Betadine+Gargle",
+  "local_path": "imports/accepted_evidence/product/40609/T07159_40609.html",
+  "sha256": "4d96d2dabe6b5d53b581ca8de5ae9b7906b24380051cf7a9c9cd2ed5fab4a4b2",
+  "downloaded_at": "2026-05-16T03:51:20.068425+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:849:40609",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

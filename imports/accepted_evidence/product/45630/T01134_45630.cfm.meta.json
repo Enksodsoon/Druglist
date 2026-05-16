@@ -1,0 +1,14 @@
+{
+  "source_id": "45630",
+  "task_id": "T01134",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Brompheniramine+Maleate+%2BPhenylephrine",
+  "local_path": "imports/accepted_evidence/product/45630/T01134_45630.cfm",
+  "sha256": "3204d258e5e36ddcb2649704a1c4167f49d32d8ad7c1ad174bbc45a367a38b61",
+  "downloaded_at": "2026-05-16T03:36:13.774218+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:52:45630|Product_Label_Links:53:47430|Product_Label_Links:57:3575",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

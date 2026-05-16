@@ -1,0 +1,17 @@
+{
+  "source_id": "1475",
+  "task_id": "DAILYMED_3_1fda69f7-2bb6-42fc-bcef-677e7b3d7f01",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/1fda69f7-2bb6-42fc-bcef-677e7b3d7f01.xml",
+  "local_path": "imports/accepted_evidence/drug/menthol-4/dailymed_rank_3_1fda69f7-2bb6-42fc-bcef-677e7b3d7f01.xml",
+  "sha256": "d1e33ff47e73a13aa16f7a1359ad494cd8adafbcba72de57fd9937005ed5986f",
+  "downloaded_at": "2026-05-16T03:55:54.467729+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Menthol 4%",
+  "rank": 3,
+  "setid": "1fda69f7-2bb6-42fc-bcef-677e7b3d7f01",
+  "title": "CARELAND LIDOCAINE 4 PLUS MENTHOL PAIN RELIEVING GEL PATCHES FOR BACK, NECK SHOULDERS KNEES AND ELBOWS WITH BORDER (LIDOCAINE, MENTHOL) PATCH [PLANET (ANHUI) PHARMACEUTICAL CO., LTD.]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

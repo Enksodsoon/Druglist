@@ -1,0 +1,14 @@
+{
+  "source_id": "43612",
+  "task_id": "T04811",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Galvus+50+mg",
+  "local_path": "imports/accepted_evidence/product/43612/T04811_43612.html",
+  "sha256": "fea61d61730ea26200713e06e993cdd6fc36c094ff22e6d8250c82dc712bb129",
+  "downloaded_at": "2026-05-16T03:45:27.334719+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:550:43612",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

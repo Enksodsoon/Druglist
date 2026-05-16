@@ -1,0 +1,14 @@
+{
+  "source_id": "6734",
+  "task_id": "T04884",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Sugril+5+mg",
+  "local_path": "imports/accepted_evidence/product/6734/T04884_6734.cfm",
+  "sha256": "602409263efab0da9e76ca6e6579b4bbd55eef1d58f8ae9160a6e3ab649a5ceb",
+  "downloaded_at": "2026-05-16T03:45:34.615690+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:563:6734",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

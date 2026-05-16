@@ -1,0 +1,17 @@
+{
+  "source_id": "1072",
+  "task_id": "DAILYMED_1_5c2a9116-d6e4-429e-88bb-bb6bfedac2f0",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/5c2a9116-d6e4-429e-88bb-bb6bfedac2f0.xml",
+  "local_path": "imports/accepted_evidence/drug/moxifloxacin-hydrochloride-400-mg/dailymed_rank_1_5c2a9116-d6e4-429e-88bb-bb6bfedac2f0.xml",
+  "sha256": "62f4684928a143def8c2f287471ec98d81846b7f5dcc504a2b2f695d100f495f",
+  "downloaded_at": "2026-05-16T03:54:42.776354+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Moxifloxacin Hydrochloride 400 mg.",
+  "rank": 1,
+  "setid": "5c2a9116-d6e4-429e-88bb-bb6bfedac2f0",
+  "title": "MOXIFLOXACIN HYDROCHLORIDE TABLETS, 400 MG TABLET, FILM COATED [PD-RX PHARMACEUTICALS, INC.]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

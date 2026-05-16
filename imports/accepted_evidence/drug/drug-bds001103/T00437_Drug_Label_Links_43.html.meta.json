@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_43",
+  "task_id": "T00437",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=amoxicillin-clavulanate",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001103/T00437_Drug_Label_Links_43.html",
+  "sha256": "2a3e8cd64043e8edde025cfc17a68bc5e9f372ef058f73384d30e70653c7eb13",
+  "downloaded_at": "2026-05-16T03:34:36.774194+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:43:Drug_Label_Links_43",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

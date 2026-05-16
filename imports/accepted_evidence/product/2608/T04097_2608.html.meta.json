@@ -1,0 +1,14 @@
+{
+  "source_id": "2608",
+  "task_id": "T04097",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Marvelon+28",
+  "local_path": "imports/accepted_evidence/product/2608/T04097_2608.html",
+  "sha256": "df5f15102689da7fdd9937fbc916354ecef86ea4b90e2bb94f9d66cd03eeeb05",
+  "downloaded_at": "2026-05-16T03:43:40.717383+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:448:2608",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

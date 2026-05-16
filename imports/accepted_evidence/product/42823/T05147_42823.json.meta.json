@@ -1,0 +1,14 @@
+{
+  "source_id": "42823",
+  "task_id": "T05147",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Levothyroxine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/42823/T05147_42823.json",
+  "sha256": "4c7ce7429a4d68a81a5a1a72bf37fb7a66b0793e3c0a97a80e91e8bbb9e7d733",
+  "downloaded_at": "2026-05-16T03:46:13.356080+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:601:42823|Product_Label_Links:602:42824",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

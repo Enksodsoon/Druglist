@@ -1,0 +1,14 @@
+{
+  "source_id": "46553",
+  "task_id": "T06380",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Pemirolast%200%201&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/46553/T06380_46553.json",
+  "sha256": "d8c1f5175aab39471ca524de82c317ad3e3ce631d72891cbf999fc08a58032a8",
+  "downloaded_at": "2026-05-16T03:49:18.446355+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:754:46553",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "44250",
+  "task_id": "T02550",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Japrolox%20tabslets&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/44250/T02550_44250.json",
+  "sha256": "11b2ce5345f7384acad3b4b0a60c5c0be6563a39771b074b232c0cbdf306d3cb",
+  "downloaded_at": "2026-05-16T03:39:42.353147+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:244:44250",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

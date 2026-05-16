@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_3",
+  "task_id": "T00120",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22cetirizine%22&limit=10",
+  "local_path": "imports/accepted_evidence/drug/drug-bds004213/T00120_Drug_Label_Links_3.json",
+  "sha256": "bda8fac581a4b09d3627f37c12a11c7152d687a573823844484ff60209770b07",
+  "downloaded_at": "2026-05-16T03:33:54.959137+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:3:Drug_Label_Links_3",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

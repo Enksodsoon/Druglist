@@ -1,0 +1,14 @@
+{
+  "source_id": "1417",
+  "task_id": "T06073",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clotrimazole+%2BBetamethasone+Dipropionate+%2F",
+  "local_path": "imports/accepted_evidence/product/1417/T06073_1417.cfm",
+  "sha256": "bac666e2d88e58f9031eda646e1b47e58052276432172a6ec02b89bc854c6f5b",
+  "downloaded_at": "2026-05-16T03:48:32.195959+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:717:1417|Product_Label_Links:718:7517|Product_Label_Links:719:7516",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

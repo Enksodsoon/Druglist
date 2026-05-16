@@ -1,0 +1,14 @@
+{
+  "source_id": "1640",
+  "task_id": "T04029",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Diane-35",
+  "local_path": "imports/accepted_evidence/product/1640/T04029_1640.cfm",
+  "sha256": "10df949aca8d69c378ee912c2c3c18972eca51a452d9d10929aaa283af421a3b",
+  "downloaded_at": "2026-05-16T03:43:26.762914+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:440:1640",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

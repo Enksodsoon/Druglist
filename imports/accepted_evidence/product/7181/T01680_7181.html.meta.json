@@ -1,0 +1,14 @@
+{
+  "source_id": "7181",
+  "task_id": "T01680",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Leftose",
+  "local_path": "imports/accepted_evidence/product/7181/T01680_7181.html",
+  "sha256": "280d397ad5b59adc6e563bfd918096000f645beb0c9b089657c188d3b1027e79",
+  "downloaded_at": "2026-05-16T03:37:33.799323+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:124:7181",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

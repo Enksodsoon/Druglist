@@ -1,0 +1,14 @@
+{
+  "source_id": "7960",
+  "task_id": "T04446",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Tranxic",
+  "local_path": "imports/accepted_evidence/product/7960/T04446_7960.html",
+  "sha256": "94c5ab06a8ba9d9fe2a1e14ec60dd0c2120525ece0e1ead4105b29641d041684",
+  "downloaded_at": "2026-05-16T03:44:30.296945+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:501:7960",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

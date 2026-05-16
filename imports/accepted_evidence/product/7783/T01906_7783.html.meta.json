@@ -1,0 +1,14 @@
+{
+  "source_id": "7783",
+  "task_id": "T01906",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Clinovir+400+mg",
+  "local_path": "imports/accepted_evidence/product/7783/T01906_7783.html",
+  "sha256": "bc767978abf6ef3e7684077aaef654e0c280789dc1fad3e39510d46ca1755fd1",
+  "downloaded_at": "2026-05-16T03:38:07.362166+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:153:7783",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

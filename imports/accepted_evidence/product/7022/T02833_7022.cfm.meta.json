@@ -1,0 +1,14 @@
+{
+  "source_id": "7022",
+  "task_id": "T02833",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Behistin",
+  "local_path": "imports/accepted_evidence/product/7022/T02833_7022.cfm",
+  "sha256": "5272628d9a3e262737742fbdea5372afe01842c0a9f51dff70d561b7f4e03610",
+  "downloaded_at": "2026-05-16T03:40:24.141482+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:282:7022",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

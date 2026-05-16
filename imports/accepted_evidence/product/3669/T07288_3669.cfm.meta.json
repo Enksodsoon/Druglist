@@ -1,0 +1,14 @@
+{
+  "source_id": "3669",
+  "task_id": "T07288",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Chlorphenoxamine+1+5",
+  "local_path": "imports/accepted_evidence/product/3669/T07288_3669.cfm",
+  "sha256": "40e6f28a4b2773472b409c9bdfe622a463a420137ae93005a0e57f1941299671",
+  "downloaded_at": "2026-05-16T03:51:39.373243+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:864:3669|Product_Label_Links:865:3681",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

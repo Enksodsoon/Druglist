@@ -1,0 +1,14 @@
+{
+  "source_id": "3773",
+  "task_id": "T06000",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=T.A.Cream+0.1%25+%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+  "local_path": "imports/accepted_evidence/product/3773/T06000_3773.html",
+  "sha256": "0b818f7383efbe28988578200a20cc0de2de4fd77cbc644d12b9e998fc50f343",
+  "downloaded_at": "2026-05-16T03:48:21.674775+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:706:3773",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

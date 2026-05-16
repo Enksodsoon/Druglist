@@ -1,0 +1,14 @@
+{
+  "source_id": "7542",
+  "task_id": "T05712",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Fungasin+Cream+%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+  "local_path": "imports/accepted_evidence/product/7542/T05712_7542.cfm",
+  "sha256": "00c424cfb5c61c08808a44c66af19b57585f6bca1bf056d9d46e55a917b940a1",
+  "downloaded_at": "2026-05-16T03:47:37.488130+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:671:7542",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

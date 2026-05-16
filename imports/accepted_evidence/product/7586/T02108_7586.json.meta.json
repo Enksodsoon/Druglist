@@ -1,0 +1,14 @@
+{
+  "source_id": "7586",
+  "task_id": "T02108",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Amoxicillin%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/7586/T02108_7586.json",
+  "sha256": "43f46e3c04e176f96fb84299ca8085daafb4a1bbc1ba75b658103c8eaabc33fb",
+  "downloaded_at": "2026-05-16T03:38:36.593091+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:179:7586|Product_Label_Links:182:3549|Product_Label_Links:183:3550",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

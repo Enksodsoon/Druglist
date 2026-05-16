@@ -1,0 +1,14 @@
+{
+  "source_id": "1953",
+  "task_id": "T01068",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Fenafex+60+mg",
+  "local_path": "imports/accepted_evidence/product/1953/T01068_1953.cfm",
+  "sha256": "286dbf5acaa1c7a2723c461830a6f96b838294c5484e5518058ec90bc7b271ac",
+  "downloaded_at": "2026-05-16T03:36:04.277815+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:43:1953",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

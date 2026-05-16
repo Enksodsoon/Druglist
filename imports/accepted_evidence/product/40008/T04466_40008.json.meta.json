@@ -1,0 +1,14 @@
+{
+  "source_id": "40008",
+  "task_id": "T04466",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Amlodac%2010&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/40008/T04466_40008.json",
+  "sha256": "04c4a996a00cc786728fd09465348c6a9f2230c00f7afabea38f2de9829784b2",
+  "downloaded_at": "2026-05-16T03:44:33.245870+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:504:40008",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

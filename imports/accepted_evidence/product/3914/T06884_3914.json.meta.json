@@ -1,0 +1,14 @@
+{
+  "source_id": "3914",
+  "task_id": "T06884",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Uniren%20Spray&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3914/T06884_3914.json",
+  "sha256": "0ed352a9932ddcbb88fd7e6ac6a03785eb46aac7641eb6444bbc3439cfbf3ded",
+  "downloaded_at": "2026-05-16T03:50:36.848221+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:815:3914",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

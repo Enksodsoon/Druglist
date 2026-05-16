@@ -1,0 +1,14 @@
+{
+  "source_id": "7517",
+  "task_id": "T06083",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Clotribet-D%20Cream%20%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7517/T06083_7517.json",
+  "sha256": "0b30c61e07297b98c451662f3f496a45d4d6340e3093db4e36ea7aad2f0d3b38",
+  "downloaded_at": "2026-05-16T03:48:33.272367+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:718:7517",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

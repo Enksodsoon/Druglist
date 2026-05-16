@@ -1,0 +1,14 @@
+{
+  "source_id": "1236",
+  "task_id": "T07339",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Betagram+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/1236/T07339_1236.html",
+  "sha256": "d36ccbb15560112a1cab0a8e0166b113c92c550d35ab515d51430638c33a39dc",
+  "downloaded_at": "2026-05-16T03:51:47.489563+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:869:1236",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "7768",
+  "task_id": "T05664",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Skinfect+Cream+%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+  "local_path": "imports/accepted_evidence/product/7768/T05664_7768.html",
+  "sha256": "b8f3b9dd4c6677d2aca6406134cb56e4ef78a1a3c23a5a5606e0236065fc9dcb",
+  "downloaded_at": "2026-05-16T03:47:29.938001+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:663:7768",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

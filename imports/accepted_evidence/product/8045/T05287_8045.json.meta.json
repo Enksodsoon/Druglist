@@ -1,0 +1,14 @@
+{
+  "source_id": "8045",
+  "task_id": "T05287",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ferrous%20Fumarate%20%2BThiamine%20Mononitrate%20%2BRiboflavin%20%2BCyanocobalamin%20%2BNiacin%20%2B%20Ascorbic%20Acid%20%2BFolic%20Acid%20%2BCalcium%20Phosphat&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8045/T05287_8045.json",
+  "sha256": "99f9c218879d6ebb4b821d18c80535da98f50da5c07d81f9014e72f2cd2ac4fb",
+  "downloaded_at": "2026-05-16T03:46:32.407569+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:619:8045",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

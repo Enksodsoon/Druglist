@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_25",
+  "task_id": "T00311",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=diclofenac+topical",
+  "local_path": "imports/accepted_evidence/drug/drug-bds003914/T00311_Drug_Label_Links_25.html",
+  "sha256": "e8fcf385702197e5955035d942de334539122869ed1a2f6d3c7077c91b932a9e",
+  "downloaded_at": "2026-05-16T03:34:20.464838+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:25:Drug_Label_Links_25",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

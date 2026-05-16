@@ -1,0 +1,14 @@
+{
+  "source_id": "7554",
+  "task_id": "T04310",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Losalac%20Syrup&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7554/T04310_7554.json",
+  "sha256": "e5fcda31fa35845d6c7a46d596f855d2e1060f2b681499fec9d5739c531e6bfa",
+  "downloaded_at": "2026-05-16T03:44:10.256017+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:481:7554",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

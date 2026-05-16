@@ -1,0 +1,14 @@
+{
+  "source_id": "3181",
+  "task_id": "T06235",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Neomycin%20Sulfate%20%2BPolymyxin%20B%20Sulfate%20%2BGramicidin%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3181/T06235_3181.json",
+  "sha256": "fb10656fa97cf87ef984df5bb551532f0dc8e074dc0d867e3e659197d4c6b448",
+  "downloaded_at": "2026-05-16T03:48:56.133750+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:739:3181",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

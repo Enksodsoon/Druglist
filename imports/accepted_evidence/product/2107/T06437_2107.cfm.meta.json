@@ -1,0 +1,14 @@
+{
+  "source_id": "2107",
+  "task_id": "T06437",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Genteal+Eye+Drop",
+  "local_path": "imports/accepted_evidence/product/2107/T06437_2107.cfm",
+  "sha256": "9431d3379167ec487989e9ead573eda9205cc3cc8a862ee488e4779f1781297a",
+  "downloaded_at": "2026-05-16T03:49:28.215295+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:760:2107",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

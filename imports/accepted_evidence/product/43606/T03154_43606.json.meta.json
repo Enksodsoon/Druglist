@@ -1,0 +1,14 @@
+{
+  "source_id": "43606",
+  "task_id": "T03154",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Gaviscon%20Suspension%20%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%204%20%E0%B8%8B%E0%B8%AD%E0%B8%87&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/43606/T03154_43606.json",
+  "sha256": "070f33a0a63eb392866cc9b260827d67b0765f2955061c704732c055ea6a6bba",
+  "downloaded_at": "2026-05-16T03:41:12.865629+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:324:43606",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

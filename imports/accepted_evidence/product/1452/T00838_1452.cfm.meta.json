@@ -1,0 +1,14 @@
+{
+  "source_id": "1452",
+  "task_id": "T00838",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clarith+500",
+  "local_path": "imports/accepted_evidence/product/1452/T00838_1452.cfm",
+  "sha256": "0352d097da109eef0ddfeedc542347cfe264d8cf3ed53e1762041335b25a39b1",
+  "downloaded_at": "2026-05-16T03:35:33.897620+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:11:1452",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

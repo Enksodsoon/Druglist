@@ -1,0 +1,14 @@
+{
+  "source_id": "8142",
+  "task_id": "T02864",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Flunarizine",
+  "local_path": "imports/accepted_evidence/product/8142/T02864_8142.cfm",
+  "sha256": "be6ff2d5b424d154c705c194bf11dc97b74b919cd8a69d501417d9256bf88986",
+  "downloaded_at": "2026-05-16T03:40:28.772412+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:285:8142|Product_Label_Links:288:7222|Product_Label_Links:291:47664",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

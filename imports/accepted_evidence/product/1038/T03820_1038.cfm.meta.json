@@ -1,0 +1,14 @@
+{
+  "source_id": "1038",
+  "task_id": "T03820",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Simethicone+%2BAlverine+Citrate",
+  "local_path": "imports/accepted_evidence/product/1038/T03820_1038.cfm",
+  "sha256": "8de9adad93ed0e23b04215095739d16c0599deaba5396556c87a79e57446d5f2",
+  "downloaded_at": "2026-05-16T03:42:54.226061+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:413:1038",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

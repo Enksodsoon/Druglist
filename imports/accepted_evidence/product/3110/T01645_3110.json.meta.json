@@ -1,0 +1,14 @@
+{
+  "source_id": "3110",
+  "task_id": "T01645",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Prevacid%20FDT%2030&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3110/T01645_3110.json",
+  "sha256": "74dd97d9b547ec1644353bd687eb1be70a312fc9d6e63009ffb05e1d0d55f84e",
+  "downloaded_at": "2026-05-16T03:37:27.658428+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:121:3110",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

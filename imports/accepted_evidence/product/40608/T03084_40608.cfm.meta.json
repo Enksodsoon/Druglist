@@ -1,0 +1,14 @@
+{
+  "source_id": "40608",
+  "task_id": "T03084",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Aluminium+Hydroxide+Gel+Aluminium+Hydroxide+%2BMagnesium+Hydroxide+%2B+Simethicone+%2F",
+  "local_path": "imports/accepted_evidence/product/40608/T03084_40608.cfm",
+  "sha256": "b874efbed9302bf920793bd9bfca8c6a4f04f9dcf9cb99a0fb980df6163dbe56",
+  "downloaded_at": "2026-05-16T03:41:02.575472+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:315:40608",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

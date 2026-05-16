@@ -1,0 +1,14 @@
+{
+  "source_id": "1460",
+  "task_id": "T05192",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Colchicine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1460/T05192_1460.json",
+  "sha256": "a4087cf4d984aa22259c425e54764c19e73154d0efef1482f5798380688ea6a2",
+  "downloaded_at": "2026-05-16T03:46:19.307316+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:606:1460|Product_Label_Links:607:8731|Product_Label_Links:610:3732",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

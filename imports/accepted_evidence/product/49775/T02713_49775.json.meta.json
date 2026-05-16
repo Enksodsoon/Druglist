@@ -1,0 +1,14 @@
+{
+  "source_id": "49775",
+  "task_id": "T02713",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Albendazole%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/49775/T02713_49775.json",
+  "sha256": "23259c585953ce8d79bcb8d168a889508d865e4bea67c5961b2ae6d658bdbed2",
+  "downloaded_at": "2026-05-16T03:40:07.287616+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:268:49775",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

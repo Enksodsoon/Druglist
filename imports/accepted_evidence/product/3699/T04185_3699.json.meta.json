@@ -1,0 +1,14 @@
+{
+  "source_id": "3699",
+  "task_id": "T04185",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Sucee%2028&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3699/T04185_3699.json",
+  "sha256": "741f9f0c16db79d58068e48c02de8dd0e449943d1f5c9084c78b00bc9b72a62d",
+  "downloaded_at": "2026-05-16T03:43:51.190227+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:463:3699",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

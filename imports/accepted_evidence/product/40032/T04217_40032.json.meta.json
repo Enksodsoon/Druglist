@@ -1,0 +1,14 @@
+{
+  "source_id": "40032",
+  "task_id": "T04217",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Crystalline%20Glucosamine%20Sulphate%20%2BChondroitin%20Sulphate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/40032/T04217_40032.json",
+  "sha256": "cd44994577e55a196d47fc33c8fa20cd7fa3c7d524aec753d7849e3921699391",
+  "downloaded_at": "2026-05-16T03:43:55.435447+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:468:40032",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

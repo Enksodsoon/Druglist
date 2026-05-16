@@ -1,0 +1,14 @@
+{
+  "source_id": "3013",
+  "task_id": "T06358",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Antazoline+BP+0+05+%2BTetrahydrozoline+USP+0+04+%2BPreservative+%2F",
+  "local_path": "imports/accepted_evidence/product/3013/T06358_3013.cfm",
+  "sha256": "19b6b8d59740f86b12082d375482477a83312aea0c6929a1ffa0abec505b50b9",
+  "downloaded_at": "2026-05-16T03:49:15.553884+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:752:3013",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1009",
+  "task_id": "T07459",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Avamys&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1009/T07459_1009.json",
+  "sha256": "264e1dcb4d007df8371f1fed671a58fc92bd6a855bd749f97e08bfed98c799a4",
+  "downloaded_at": "2026-05-16T03:52:05.659130+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:884:1009",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

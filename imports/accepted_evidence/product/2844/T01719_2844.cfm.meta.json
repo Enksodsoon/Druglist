@@ -1,0 +1,14 @@
+{
+  "source_id": "2844",
+  "task_id": "T01719",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Theophylline",
+  "local_path": "imports/accepted_evidence/product/2844/T01719_2844.cfm",
+  "sha256": "b9dec69cd4f2c59d6f1989fd2c06ddca5b6a3c6c7cdb136ede808f0f99b51fde",
+  "downloaded_at": "2026-05-16T03:37:39.362357+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:129:2844",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

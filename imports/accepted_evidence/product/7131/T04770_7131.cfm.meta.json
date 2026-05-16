@@ -1,0 +1,14 @@
+{
+  "source_id": "7131",
+  "task_id": "T04770",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Glibenclamide",
+  "local_path": "imports/accepted_evidence/product/7131/T04770_7131.cfm",
+  "sha256": "0142072fd10c89a996b9d77ad0072bff90b9631aa7052f38992ebba7da162483",
+  "downloaded_at": "2026-05-16T03:45:17.245591+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:546:7131|Product_Label_Links:547:1611|Product_Label_Links:563:6734",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

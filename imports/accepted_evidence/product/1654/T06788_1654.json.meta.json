@@ -1,0 +1,14 @@
+{
+  "source_id": "1654",
+  "task_id": "T06788",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Difelene%20Gel%20%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1654/T06788_1654.json",
+  "sha256": "11d9784e6bb2aa45f73028bfa41f2b03ffeb0086a9cce5993387964bdb0f477b",
+  "downloaded_at": "2026-05-16T03:50:22.658415+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:801:1654",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

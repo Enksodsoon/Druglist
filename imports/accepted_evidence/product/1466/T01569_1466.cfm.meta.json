@@ -1,0 +1,14 @@
+{
+  "source_id": "1466",
+  "task_id": "T01569",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Pantoprazole",
+  "local_path": "imports/accepted_evidence/product/1466/T01569_1466.cfm",
+  "sha256": "58ee8e3202612508f4318642d63c454f9b68604337a68e4c13c4e43d603fb547",
+  "downloaded_at": "2026-05-16T03:37:17.072662+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:111:1466",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

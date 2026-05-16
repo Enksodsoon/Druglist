@@ -1,0 +1,14 @@
+{
+  "source_id": "2822",
+  "task_id": "T03755",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Thiamine+Disulfide+%2BPyridoxine+%2BCyanocobalamin",
+  "local_path": "imports/accepted_evidence/product/2822/T03755_2822.cfm",
+  "sha256": "cc6f01348b427cc443918399b6eebae9a1c6508c1d4f3c269d5dcb4b65786c2c",
+  "downloaded_at": "2026-05-16T03:42:43.956301+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:405:2822",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

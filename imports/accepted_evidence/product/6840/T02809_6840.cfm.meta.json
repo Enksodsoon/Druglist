@@ -1,0 +1,14 @@
+{
+  "source_id": "6840",
+  "task_id": "T02809",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Eletriptan",
+  "local_path": "imports/accepted_evidence/product/6840/T02809_6840.cfm",
+  "sha256": "87ea053d6c00ad80392e68de3cb44dc2703dca116431d3bdb543d6f223b953c9",
+  "downloaded_at": "2026-05-16T03:40:20.961823+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:279:6840",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

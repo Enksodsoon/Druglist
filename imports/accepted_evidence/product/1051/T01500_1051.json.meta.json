@@ -1,0 +1,14 @@
+{
+  "source_id": "1051",
+  "task_id": "T01500",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Antacil&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1051/T01500_1051.json",
+  "sha256": "7ba36762b57c3f96f9dedb2f09ab7c971e6daf8268e134d469697f0921167e19",
+  "downloaded_at": "2026-05-16T03:37:05.972602+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:104:1051",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

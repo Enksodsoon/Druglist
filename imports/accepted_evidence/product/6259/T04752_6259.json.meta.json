@@ -1,0 +1,14 @@
+{
+  "source_id": "6259",
+  "task_id": "T04752",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Lercanidipine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/6259/T04752_6259.json",
+  "sha256": "0b2d9684b1771e720337bad1abd75989db24a435d4629752436b18a7f83fd06a",
+  "downloaded_at": "2026-05-16T03:45:14.461333+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:544:6259",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

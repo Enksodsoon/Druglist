@@ -1,0 +1,14 @@
+{
+  "source_id": "2021",
+  "task_id": "T04820",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Metformin+HCI",
+  "local_path": "imports/accepted_evidence/product/2021/T04820_2021.cfm",
+  "sha256": "e322fb46a859f561e05784767cdcc70ce3ad5bf1ae4fd79c918c571cb3d86ed4",
+  "downloaded_at": "2026-05-16T03:45:24.661412+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:552:2021",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

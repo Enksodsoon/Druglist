@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_11",
+  "task_id": "T00188",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=dioctahedral%20smectite&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds042304/T00188_Drug_Label_Links_11.json",
+  "sha256": "f54d8a537c19ddcdcb67fe5a3bef3a3d6775dbde442e1a89462601fca1fa847a",
+  "downloaded_at": "2026-05-16T03:34:02.994686+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:11:Drug_Label_Links_11",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

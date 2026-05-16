@@ -1,0 +1,14 @@
+{
+  "source_id": "8282",
+  "task_id": "T03703",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Cera+ORS+%E0%B8%A3%E0%B8%AA%E0%B8%AA%E0%B9%89%E0%B8%A1",
+  "local_path": "imports/accepted_evidence/product/8282/T03703_8282.html",
+  "sha256": "ff304752401ac23a6ae4b023f3cf25edb2fc0d93dd41492679d49437a39d2f87",
+  "downloaded_at": "2026-05-16T03:42:37.535442+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:398:8282",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

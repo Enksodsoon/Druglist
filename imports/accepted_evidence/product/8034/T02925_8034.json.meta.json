@@ -1,0 +1,14 @@
+{
+  "source_id": "8034",
+  "task_id": "T02925",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Berclomine%20Syrup&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8034/T02925_8034.json",
+  "sha256": "61baac2de678a0e473f19a88c5c0d8a9e5c15fed7dd260235360eb8273780f79",
+  "downloaded_at": "2026-05-16T03:40:38.151013+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:294:8034",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

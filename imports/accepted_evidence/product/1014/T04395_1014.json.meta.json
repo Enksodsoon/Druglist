@@ -1,0 +1,14 @@
+{
+  "source_id": "1014",
+  "task_id": "T04395",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Air-X&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1014/T04395_1014.json",
+  "sha256": "b4f7b29dd0dc251864ee4ac539d2710da68f3fbd0cf670bbfcd21a3fa39dd8e5",
+  "downloaded_at": "2026-05-16T03:44:22.939586+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:494:1014",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

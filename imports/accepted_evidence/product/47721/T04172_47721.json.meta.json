@@ -1,0 +1,14 @@
+{
+  "source_id": "47721",
+  "task_id": "T04172",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Drospirenone&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/47721/T04172_47721.json",
+  "sha256": "cd56df664e61385f5a1c31ba0b165fdedead734c51f457eb36a1a4d264644fdd",
+  "downloaded_at": "2026-05-16T03:43:49.058911+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:461:47721",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

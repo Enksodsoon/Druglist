@@ -1,0 +1,14 @@
+{
+  "source_id": "6198",
+  "task_id": "T05862",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Clobetasol%20Propionate%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/6198/T05862_6198.json",
+  "sha256": "7300f8e90f3efb2beb59369367a9ffc794722e821a6639a7a68e4438d94a5781",
+  "downloaded_at": "2026-05-16T03:48:00.513268+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:688:6198|Product_Label_Links:689:7514|Product_Label_Links:690:7515",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

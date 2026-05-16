@@ -1,0 +1,14 @@
+{
+  "source_id": "1643",
+  "task_id": "T04037",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=D-Norgestrel%20%2BEthinylestradiol&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1643/T04037_1643.json",
+  "sha256": "4cdc44072fb147a7b1cb5339747ceb56199e260ba75457791a7b98890a277f49",
+  "downloaded_at": "2026-05-16T03:43:28.239206+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:441:1643|Product_Label_Links:442:1644",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

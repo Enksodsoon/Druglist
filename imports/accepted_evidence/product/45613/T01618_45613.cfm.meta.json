@@ -1,0 +1,14 @@
+{
+  "source_id": "45613",
+  "task_id": "T01618",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Nycacid",
+  "local_path": "imports/accepted_evidence/product/45613/T01618_45613.cfm",
+  "sha256": "f4057784b2748d7775248814c134082c15eda82f554f32d6db16e525dfb8f8c7",
+  "downloaded_at": "2026-05-16T03:37:24.034644+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:117:45613",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

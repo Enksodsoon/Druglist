@@ -1,0 +1,17 @@
+{
+  "source_id": "2010",
+  "task_id": "DAILYMED_3_6697e464-00ac-41de-a7ea-d7bb24ed5e2a",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/6697e464-00ac-41de-a7ea-d7bb24ed5e2a.xml",
+  "local_path": "imports/accepted_evidence/drug/bismuth-subsalicylate-262-mg/dailymed_rank_3_6697e464-00ac-41de-a7ea-d7bb24ed5e2a.xml",
+  "sha256": "889f5112c23e19551fb6b902e0cc2046e1fa22bb39a13b7f427ec9ccdd942dbf",
+  "downloaded_at": "2026-05-16T03:54:35.595192+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Bismuth Subsalicylate 262 mg.",
+  "rank": 3,
+  "setid": "6697e464-00ac-41de-a7ea-d7bb24ed5e2a",
+  "title": "UPSET STOMACH RELIEF-BISMUTH SUBSALICYLATE 262 MG (BISMUTH SUBSALICYLATE 262 MG) CAPSULE, LIQUID FILLED [NUVICARE LLC]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

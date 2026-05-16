@@ -1,0 +1,14 @@
+{
+  "source_id": "41432",
+  "task_id": "T04929",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Chlovas-40+mg.",
+  "local_path": "imports/accepted_evidence/product/41432/T04929_41432.cfm",
+  "sha256": "492ec64e83745a783269da9ae81493f18b8c1a527831d0c11cecf8bd6f982f80",
+  "downloaded_at": "2026-05-16T03:45:41.644994+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:570:41432",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

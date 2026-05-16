@@ -1,0 +1,14 @@
+{
+  "source_id": "1070",
+  "task_id": "T05239",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Aspirin%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1070/T05239_1070.json",
+  "sha256": "fb1b23f6fc20f959d3cfa1a3cba74f8d448eb379940481e9b27efdc3bf088384",
+  "downloaded_at": "2026-05-16T03:46:25.549008+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:613:1070|Product_Label_Links:614:1077",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

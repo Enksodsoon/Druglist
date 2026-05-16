@@ -1,0 +1,14 @@
+{
+  "source_id": "40609",
+  "task_id": "T07152",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betadine+Gargle",
+  "local_path": "imports/accepted_evidence/product/40609/T07152_40609.cfm",
+  "sha256": "e3088d32a1de2f96cc749499eef4954cf14348454636d57044b10d8b7c97fdbc",
+  "downloaded_at": "2026-05-16T03:51:19.788836+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:849:40609",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "44313",
+  "task_id": "T05382",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Klean+%26+Kare+Saline+%28ANB%29",
+  "local_path": "imports/accepted_evidence/product/44313/T05382_44313.cfm",
+  "sha256": "09a518943d70b8dccbb714a7e7fdc83e2cf9c1b428cf1378630dc7cd5fcedc18",
+  "downloaded_at": "2026-05-16T03:46:46.823586+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:630:44313",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

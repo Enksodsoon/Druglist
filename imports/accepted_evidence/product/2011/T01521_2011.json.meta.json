@@ -1,0 +1,14 @@
+{
+  "source_id": "2011",
+  "task_id": "T01521",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=alginate%20%2B%20bicarbonate%20%2BCalcium%20carbonate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2011/T01521_2011.json",
+  "sha256": "90cf9fe4a1eb9b1b517a2f2d0db7bf35f0934f5d84d590e4ed30ab62109bb0dc",
+  "downloaded_at": "2026-05-16T03:37:08.839309+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:106:2011|Product_Label_Links:320:2012|Product_Label_Links:321:2033",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

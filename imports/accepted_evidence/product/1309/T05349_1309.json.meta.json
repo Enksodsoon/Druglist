@@ -1,0 +1,14 @@
+{
+  "source_id": "1309",
+  "task_id": "T05349",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Blackmores%20Bio%20C%20%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1309/T05349_1309.json",
+  "sha256": "f491deef3a3727fdccd4a9ac58b5efcfc67f4eeed3f24f3fcee8d200afaa37c6",
+  "downloaded_at": "2026-05-16T03:46:41.855165+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:626:1309",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

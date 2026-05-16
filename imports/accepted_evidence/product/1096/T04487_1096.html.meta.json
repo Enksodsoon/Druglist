@@ -1,0 +1,14 @@
+{
+  "source_id": "1096",
+  "task_id": "T04487",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Amlopine+5+mg",
+  "local_path": "imports/accepted_evidence/product/1096/T04487_1096.html",
+  "sha256": "03e5bf259fba93c728a403430db689a7c526daa015183032340e6302e564a04a",
+  "downloaded_at": "2026-05-16T03:44:39.518116+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:507:1096",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

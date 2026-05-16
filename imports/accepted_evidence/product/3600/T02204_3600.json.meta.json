@@ -1,0 +1,14 @@
+{
+  "source_id": "3600",
+  "task_id": "T02204",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Sara%20%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%B8%E0%B9%88%E0%B8%99&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3600/T02204_3600.json",
+  "sha256": "bab575fa52f5ebc09ec9597c67861cf9eae13d65c0bc1add01e5760070a9c0e1",
+  "downloaded_at": "2026-05-16T03:38:49.617843+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:195:3600",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

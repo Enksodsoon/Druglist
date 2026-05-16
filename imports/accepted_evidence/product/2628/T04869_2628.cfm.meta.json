@@ -1,0 +1,14 @@
+{
+  "source_id": "2628",
+  "task_id": "T04869",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Minidiab",
+  "local_path": "imports/accepted_evidence/product/2628/T04869_2628.cfm",
+  "sha256": "da6968162ca076d8a95a6e7200c768851e6869acb809a63d9db9e9a2d7b72f45",
+  "downloaded_at": "2026-05-16T03:45:32.189932+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:560:2628",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

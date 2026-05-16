@@ -1,0 +1,14 @@
+{
+  "source_id": "2847",
+  "task_id": "T02181",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Panadol+Strawberry+Suspension",
+  "local_path": "imports/accepted_evidence/product/2847/T02181_2847.html",
+  "sha256": "d3a9f1ebedd9c821a549ac5ebbf791c2ed4a9bd82943231e8ee90e4e07f53f43",
+  "downloaded_at": "2026-05-16T03:38:47.549613+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:190:2847",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

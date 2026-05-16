@@ -1,0 +1,14 @@
+{
+  "source_id": "3581",
+  "task_id": "T02619",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ibuprofen",
+  "local_path": "imports/accepted_evidence/product/3581/T02619_3581.cfm",
+  "sha256": "d6f8a89d1f0d06a280f8543311b53d9877fafc87fd9329bafe27e13ad518a5ec",
+  "downloaded_at": "2026-05-16T03:39:52.850689+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:255:3581|Product_Label_Links:382:40016|Product_Label_Links:383:40623|Product_Label_Links:385:7040|Product_Label_Links:386:1618|Product_Label_Links:388:2036|Product_Label_Links:391:45600|Product_Label_Links:392:2846|Product_Label_Links:393:47673",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

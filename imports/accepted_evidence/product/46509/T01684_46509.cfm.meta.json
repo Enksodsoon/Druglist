@@ -1,0 +1,14 @@
+{
+  "source_id": "46509",
+  "task_id": "T01684",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Proctase+%2BPancreatin",
+  "local_path": "imports/accepted_evidence/product/46509/T01684_46509.cfm",
+  "sha256": "95272154dd4a9571fe43c7f8794b01fa317ce07a54323a91ddfbb68b260509be",
+  "downloaded_at": "2026-05-16T03:37:34.059370+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:125:46509",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

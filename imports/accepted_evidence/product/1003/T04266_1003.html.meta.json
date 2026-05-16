@@ -1,0 +1,14 @@
+{
+  "source_id": "1003",
+  "task_id": "T04266",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Viaflex+1500",
+  "local_path": "imports/accepted_evidence/product/1003/T04266_1003.html",
+  "sha256": "fa3f55d84feb555a35b4f4cd263b87fb683dcc5f119bd07a6466154dcca04502",
+  "downloaded_at": "2026-05-16T03:44:04.617059+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:474:1003",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

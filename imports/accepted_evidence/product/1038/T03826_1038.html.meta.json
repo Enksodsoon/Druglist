@@ -1,0 +1,14 @@
+{
+  "source_id": "1038",
+  "task_id": "T03826",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Avarin",
+  "local_path": "imports/accepted_evidence/product/1038/T03826_1038.html",
+  "sha256": "ce6c4fac0505f6ee88da69df6d9c1b2923a408979a510ad61a1193d0f0d516d1",
+  "downloaded_at": "2026-05-16T03:42:54.616710+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:413:1038",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

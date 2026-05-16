@@ -1,0 +1,14 @@
+{
+  "source_id": "7055",
+  "task_id": "T02854",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cinnarizine",
+  "local_path": "imports/accepted_evidence/product/7055/T02854_7055.cfm",
+  "sha256": "06c18d96dc52ed7803a9f665caf3d0fa5f51a3c27fa2d08ddd3d5b893307dc25",
+  "downloaded_at": "2026-05-16T03:40:27.170942+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:284:7055|Product_Label_Links:293:3514",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

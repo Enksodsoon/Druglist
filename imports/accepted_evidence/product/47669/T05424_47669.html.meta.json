@@ -1,0 +1,14 @@
+{
+  "source_id": "47669",
+  "task_id": "T05424",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Sofclens+Normal+Saline+Solution",
+  "local_path": "imports/accepted_evidence/product/47669/T05424_47669.html",
+  "sha256": "fff8604571907a91b46f4087c3dad45dfd5f609684a230664485ab22a6eb9b3f",
+  "downloaded_at": "2026-05-16T03:46:53.978906+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:636:47669",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "44920",
+  "task_id": "T04854",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Metfor-500",
+  "local_path": "imports/accepted_evidence/product/44920/T04854_44920.cfm",
+  "sha256": "7a8bbcf48cfb817a9594f6257e15fda2810881883b605069e726671e18739319",
+  "downloaded_at": "2026-05-16T03:45:30.252296+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:557:44920",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

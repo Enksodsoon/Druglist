@@ -1,0 +1,14 @@
+{
+  "source_id": "46561",
+  "task_id": "T05079",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Pencor+2",
+  "local_path": "imports/accepted_evidence/product/46561/T05079_46561.cfm",
+  "sha256": "7be3f0b204d05713b51e62c5bcc3fdc1ed6ff3c0b0d324dd3dca0329b4128ea6",
+  "downloaded_at": "2026-05-16T03:46:03.246774+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:591:46561",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

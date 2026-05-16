@@ -1,0 +1,14 @@
+{
+  "source_id": "41402",
+  "task_id": "T02493",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Diclofenac%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/41402/T02493_41402.json",
+  "sha256": "4ba24e03bca88c20d9ad6068ef0fb1b748fdbdaa214361ffca1712ed23f0a8bc",
+  "downloaded_at": "2026-05-16T03:39:34.559815+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:235:41402|Product_Label_Links:236:7035|Product_Label_Links:239:1822|Product_Label_Links:240:1824|Product_Label_Links:256:3599|Product_Label_Links:258:49251|Product_Label_Links:259:4052|Product_Label_Links:260:4041|Product_Label_Links:811:6814|Product_Label_Links:812:46515",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

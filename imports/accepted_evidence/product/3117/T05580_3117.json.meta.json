@@ -1,0 +1,14 @@
+{
+  "source_id": "3117",
+  "task_id": "T05580",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=I-Menthol%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3117/T05580_3117.json",
+  "sha256": "e468fcebdf333bb6383970d131ca52b94bce16b3330af03307e838ed67a638e0",
+  "downloaded_at": "2026-05-16T03:47:17.613303+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:655:3117",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

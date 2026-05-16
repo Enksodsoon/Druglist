@@ -1,0 +1,14 @@
+{
+  "source_id": "41410",
+  "task_id": "T06215",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Chloramphenicol%201&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/41410/T06215_41410.json",
+  "sha256": "f065d4eafa809541a5f5b6e05be475f6e4e88b78a8ea6205f260d29afc65b6e7",
+  "downloaded_at": "2026-05-16T03:48:53.255890+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:737:41410",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

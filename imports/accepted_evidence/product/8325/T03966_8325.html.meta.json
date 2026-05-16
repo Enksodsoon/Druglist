@@ -1,0 +1,14 @@
+{
+  "source_id": "8325",
+  "task_id": "T03966",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Oscin+Syrup",
+  "local_path": "imports/accepted_evidence/product/8325/T03966_8325.html",
+  "sha256": "d48ce5ee63794883b5144950d5630ff016cfc4fa2eb677f82ba3dbd00da2a3eb",
+  "downloaded_at": "2026-05-16T03:43:17.978776+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:431:8325",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

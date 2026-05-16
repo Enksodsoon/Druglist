@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_36",
+  "task_id": "T00389",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=urea%20cream&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001682/T00389_Drug_Label_Links_36.json",
+  "sha256": "3dcb263908e3460e3a8d800fef64c35759c5676ead4ffe4c6cdf71460d5aec6e",
+  "downloaded_at": "2026-05-16T03:34:30.429327+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:36:Drug_Label_Links_36|Drug_Label_Links:37:Drug_Label_Links_37",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

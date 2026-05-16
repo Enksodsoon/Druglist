@@ -1,0 +1,14 @@
+{
+  "source_id": "2692",
+  "task_id": "T00885",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Meiact+tabslet",
+  "local_path": "imports/accepted_evidence/product/2692/T00885_2692.html",
+  "sha256": "3b323913dd6ab34121f66dcabf3d8a625315e7355f2ac526830b07e45b812780",
+  "downloaded_at": "2026-05-16T03:35:42.117088+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:17:2692",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2844",
+  "task_id": "T01723",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Theophylline%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/2844/T01723_2844.json",
+  "sha256": "00db9dbb357d9b95337b393a5e50e53d3b5f7e0972fb5034e4870a6086c21479",
+  "downloaded_at": "2026-05-16T03:37:41.317110+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:129:2844",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

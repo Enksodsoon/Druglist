@@ -1,0 +1,14 @@
+{
+  "source_id": "3527",
+  "task_id": "T01666",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Cimetidine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3527/T01666_3527.json",
+  "sha256": "8f4346a11a5adc242e48115a2f006bb30526ce2f675b9be8cb14576af4b05ba9",
+  "downloaded_at": "2026-05-16T03:37:30.723494+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:123:3527",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

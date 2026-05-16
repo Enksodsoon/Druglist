@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 3
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "FLAVOXATE HYDROCHLORIDE FLAVOXATE HYDROCHLORIDE FLAVOXATE HYDROCHLORIDE FLAVOXATE SILICON DIOXIDE ETHYL ACRYLATE HYPROMELLOSE, UNSPECIFIED LACTOSE MONOHYDRATE MAGNESIUM STEARATE METHYL METHACRYLATE MICROCRYSTALLINE CELLULOSE NONOXYNOL-100 SODIUM STARCH GLYCOLATE TYPE A POTATO HYPROMELLOSE 2910 (6 MPA.S) POLYETHYLENE GLYCOL, UNSPECIFIED PAD;0115"
+      ],
+      "spl_unclassified_section": [
+        "PRESCRIBING INFORMATION"
+      ],
+      "description": [
+        "DESCRIPTION Flavoxate HCl tablets contain flavoxate hydrochloride, a synthetic urinary tract spasmolytic. Chemically, flavoxate hydrochloride is 2-piperidinoethyl 3-methyl-4-oxo-2-phenyl-4 H -1-benzopyran-8-carboxylate hydrochloride. The empirical formula of flavoxate hydrochloride is C 24 H 25 NO 4 •HCl. The molecular weight is 427.94. The structural formula appears below: Flavoxate HCl is supplied in tablets for oral administration. Each round, white, film-coated Flavoxate HCl tablet is debossed \"PAD\" and \"0115\" on one side and plain on the other side and contains flavoxate hydrochloride, 100 mg. Inactive ingredients consist of colloidal silicon dioxide, ethyl acrylate, hypromellose, lactose monohydrate, magnesium stearate, methyl methacrylate, microcrystalline cellulose, nonoxynol 100 and sodium starch glycolate. Film coating is composed of hypromellose 2910 6cP and polyethylene glycol. Chemical Structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Flavoxate hydrochloride counteracts smooth muscle spasm of the urinary tract and exerts its effect directly on the muscle. In a single study of 11 normal male subjects, the time to onset of action was 55 minutes. The peak effect was observed at 112 minutes. 57% of the flavoxate HCl was excreted in the urine within 24 hours."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Flavoxate HCl tablets are indicated for symptomatic relief of dysuria, urgency, nocturia, suprapubic pain, frequency and incontinence as may occur in cystitis, prostatitis, urethritis, urethrocystitis/urethrotrigonitis. Flavoxate HCl tablets are not indicated for definitive treatment, but are compatible with drugs used for the treatment of urinary tract infections."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Flavoxate HCl tablets are contraindicated in patients who have any of the following obstructive conditions: pyloric or duodenal obstruction, obstructive intestinal lesions or ileus, achalasia, gastrointestinal hemorrhage and obstructive uropathies of the lower urinary tract."
+      ],
+      "warnings": [
+        "WARNINGS Flavoxate HCl should be given cautiously in patients with suspected glaucoma."
+      ],
+      "precautions": [
+        "PRECAUTIONS Information for Patients: Patients should be informed that if drowsiness and blurred vision occur, they should not operate a motor vehicle or machinery or participate in activities where alertness is required. Carcinogenesis, Mutagenesis, Impairment of Fertility: Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of flavoxate HCl have not been performed. Pregnancy: Teratogenic Effects-Pregnancy Category B. Reproduction studies have been performed in rats and rabbits at doses up to 34 times the human dose and revealed no evidence of impaired fertility or harm to the fetus due to flavoxate HCl. There are, however, no well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Nursing Mothers: It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when flavoxate HCl is administered to a nursing woman. Pediatric Use: Safety and effectiveness in children below the age of 12 years have not been established."
+      ],
+      "information_for_patients": [
+        "Information for Patients: Patients should be informed that if drowsiness and blurred vision occur, they should not operate a motor vehicle or machinery or participate in activities where alertness is required."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility: Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of flavoxate HCl have not been performed."
+      ],
+      "pregnancy": [
+        "Pregnancy: Teratogenic Effects-Pregnancy Category B. Reproduction studies have been performed in rats and rabbits at doses up to 34 times the human dose and revealed no evidence of impaired fertility or harm to the fetus due to flavoxate HCl. There are, however, no well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers: It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when flavoxate HCl is administered to a nursing woman."
+      ],
+      "pediatric_use": [
+        "Pediatric Use: Safety and effectiveness in children below the age of 12 years have not been established."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Gastrointestinal: Nausea, vomiting, dry mouth. CNS: Vertigo, headache, mental confusion, especially in the elderly, drowsiness, nervousness. Hematologic: Leukopenia (one case which was reversible upon discontinuation of the drug). Cardiovascular: Tachycardia and palpitation. Allergic: Urticaria and other dermatoses, eosinophilia and hyperpyrexia. Ophthalmic: Increased ocular tension, blurred vision, disturbance in eye accommodation. Renal: Dysuria."
+      ],
+      "overdosage": [
+        "OVERDOSAGE The oral LD 50 for flavoxate HCl in rats is 4273 mg/kg. The oral LD 50 for flavoxate HCl in mice is 1837 mg/kg. It is not known whether flavoxate HCl is dialyzable."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Adults and children over 12 years of age: One or two 100 mg tablets 3 or 4 times a day. With improvement of symptoms, the dose may be reduced. This drug cannot be recommended for infants and children under 12 years of age because safety and efficacy have not been demonstrated in this age group."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Flavoxate HCl Tablets, 100 mg, are supplied as round, white, film-coated tablets debossed \"PAD\" and \"0115\" on one side and plain on the other side, in bottles of 100. 100 mg 100's: NDC 0574- 0115 -01 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature] Manufactured For Padagis ® Minneapolis, MN 55427 www.padagis.com Rev 05-23 7H700 RC PH3 Code 917A00"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle NDC 0574- 0115 -01 Rx Only Flavoxate HCl Tablets 100 mg 100 Tablets label"
+      ],
+      "set_id": "a9c44c4b-5b3c-45bf-9bc9-ce858e3d06c5",
+      "id": "ff1c0ee9-75d2-478a-9152-0753be81ff11",
+      "effective_time": "20230531",
+      "version": "12",
+      "openfda": {
+        "application_number": [
+          "ANDA076831"
+        ],
+        "brand_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Padagis US LLC"
+        ],
+        "product_ndc": [
+          "0574-0115"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1095229"
+        ],
+        "spl_id": [
+          "ff1c0ee9-75d2-478a-9152-0753be81ff11"
+        ],
+        "spl_set_id": [
+          "a9c44c4b-5b3c-45bf-9bc9-ce858e3d06c5"
+        ],
+        "package_ndc": [
+          "0574-0115-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0305740115015"
+        ],
+        "unii": [
+          "9C05J6089W"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Flavoxate Hydrochloride Flavoxate Hydrochloride SILICON DIOXIDE STARCH, CORN CALCIUM PHOSPHATE, DIBASIC, DIHYDRATE MAGNESIUM STEARATE HYPROMELLOSE 2910 (50 MPA.S) POLYDEXTROSE POLYETHYLENE GLYCOL 8000 TITANIUM DIOXIDE TRIACETIN FLAVOXATE HYDROCHLORIDE FLAVOXATE E58"
+      ],
+      "description": [
+        "DESCRIPTION Flavoxate hydrochloride tablets contain flavoxate hydrochloride, a synthetic urinary tract spasmolytic. Chemically, flavoxate hydrochloride is 2-piperidinoethyl 3-methyl-4-oxo-2-phenyl-4 H -1-benzopyran-8-carboxylate hydrochloride. The empirical formula of flavoxate hydrochloride is C 24 H 25 NO 4 •HCl. The molecular weight is 427.94. The structural formula appears below. Each tablet for oral administration contains 100 mg flavoxate hydrochloride. In addition, each tablet contains the following inactive ingredients: colloidal silicon dioxide, corn starch, dibasic calcium phosphate dihydrate, magnesium stearate, hypromellose, polydextrose, polyethylene glycol, titanium dioxide and triacetin. Structure Formula"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Flavoxate hydrochloride counteracts smooth muscle spasm of the urinary tract and exerts its effect directly on the muscle. In a single study of 11 normal male subjects, the time to onset of action was 55 minutes. The peak effect was observed at 112 minutes. 57% of the flavoxate hydrochloride was excreted in the urine within 24 hours."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria, urgency, nocturia, suprapubic pain, frequency and incontinence as may occur in cystitis, prostatitis, urethritis, urethrocystitis/urethrotrigonitis. Flavoxate hydrochloride tablets are not indicated for definitive treatment, but are compatible with drugs used for the treatment of urinary tract infections."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Flavoxate hydrochloride is contraindicated in patients who have any of the following obstructive conditions: pyloric or duodenal obstruction, obstructive intestinal lesions or ileus, achalasia, gastrointestinal hemorrhage and obstructive uropathies of the lower urinary tract."
+      ],
+      "warnings": [
+        "WARNINGS Flavoxate hydrochloride should be given cautiously in patients with suspected glaucoma."
+      ],
+      "precautions": [
+        "PRECAUTIONS Information for Patients Patients should be informed that if drowsiness and blurred vision occur, they should not operate a motor vehicle or machinery or participate in activities where alertness is required. Carcinogenesis, Mutagenesis, Impairment of Fertility Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of flavoxate hydrochloride have not been performed. Pregnancy Teratogenic Effects-Pregnancy Category B Reproduction studies have been performed in rats and rabbits at doses up to 34 times the human dose and revealed no evidence of impaired fertility or harm to the fetus due to flavoxate hydrochloride. There are, however, no well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when flavoxate hydrochloride is administered to a nursing woman. Pediatric Use Safety and effectiveness in children below the age of 12 years have not been established."
+      ],
+      "information_for_patients": [
+        "Information for Patients Patients should be informed that if drowsiness and blurred vision occur, they should not operate a motor vehicle or machinery or participate in activities where alertness is required."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of flavoxate hydrochloride have not been performed."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects-Pregnancy Category B Reproduction studies have been performed in rats and rabbits at doses up to 34 times the human dose and revealed no evidence of impaired fertility or harm to the fetus due to flavoxate hydrochloride. There are, however, no well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when flavoxate hydrochloride is administered to a nursing woman."
+      ],
+      "pediatric_use": [
+        "Pediatric Use Safety and effectiveness in children below the age of 12 years have not been established."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Gastrointestinal: Nausea, vomiting, dry mouth. CNS: Vertigo, headache, mental confusion, especially in the elderly, drowsiness, nervousness. Hematologic: Leukopenia (one case which was reversible upon discontinuation of the drug). Cardiovascular: Tachycardia and palpitation. Allergic : Urticaria and other dermatoses, eosinophilia and hyperpyrexia. Ophthalmic: Increased ocular tension, blurred vision, disturbance in eye accommodation. Renal: Dysuria."
+      ],
+      "overdosage": [
+        "OVERDOSAGE The oral LD 50 for flavoxate hydrochloride in rats is 4273 mg/kg. The oral LD 50 for flavoxate hydrochloride in mice is 1837 mg/kg. It is not known whether flavoxate hydrochloride is dialyzable."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Adults and children over 12 years of age One or two 100 mg tablets 3 or 4 times a day. With improvement of symptoms, the dose may be reduced. This drug cannot be recommended for infants and children under 12 years of age because safety and efficacy have not been demonstrated in this age group."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Flavoxate hydrochloride 100 mg tablets are available as white, round biconvex, film-coated tablets, debossed “ Є58 ” on one side and plain on the other side, and are available as follows: NDC 42806-058-01 Bottles of 100 NDC 42806-058-10 Bottles of 1000 Store at 20° - 25°C (68° - 77°F) [see USP Controlled Room Temperature]. Dispense contents in a tight, light-resistant container. Distributed by Epic Pharma, LLC Laurelton, NY 11413 Rev. 07-2023-00 MF058REV07/23 OE1140"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 100 mg 100ct Flavoxate Hydrochloride Tablets, 100 mg 100ct flavoxate-100mg-100ct"
+      ],
+      "set_id": "b4260d7e-2ab3-49f6-aa57-bae19a23d82a",
+      "id": "6aeb8856-3df7-40a7-b03e-d855a58c8fa4",
+      "effective_time": "20231227",
+      "version": "11",
+      "openfda": {
+        "application_number": [
+          "ANDA076835"
+        ],
+        "brand_name": [
+          "Flavoxate Hydrochloride"
+        ],
+        "generic_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Epic Pharma, LLC"
+        ],
+        "product_ndc": [
+          "42806-058"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1095229"
+        ],
+        "spl_id": [
+          "6aeb8856-3df7-40a7-b03e-d855a58c8fa4"
+        ],
+        "spl_set_id": [
+          "b4260d7e-2ab3-49f6-aa57-bae19a23d82a"
+        ],
+        "package_ndc": [
+          "42806-058-01",
+          "42806-058-10"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0342806058015"
+        ],
+        "unii": [
+          "9C05J6089W"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Flavoxate Hydrochloride Flavoxate Hydrochloride SILICON DIOXIDE STARCH, CORN MAGNESIUM STEARATE HYPROMELLOSE 2910 (50 MPA.S) POLYDEXTROSE POLYETHYLENE GLYCOL 8000 TITANIUM DIOXIDE TRIACETIN FLAVOXATE HYDROCHLORIDE FLAVOXATE DIBASIC CALCIUM PHOSPHATE DIHYDRATE E58"
+      ],
+      "description": [
+        "DESCRIPTION Flavoxate hydrochloride tablets contain flavoxate hydrochloride, a synthetic urinary tract spasmolytic. Chemically, flavoxate hydrochloride is 2-piperidinoethyl 3-methyl-4-oxo-2-phenyl-4 H -1-benzopyran-8-carboxylate hydrochloride. The empirical formula of flavoxate hydrochloride is C 24 H 25 NO 4 •HCl. The molecular weight is 427.94. The structural formula appears below. Each tablet for oral administration contains 100 mg flavoxate hydrochloride. In addition, each tablet contains the following inactive ingredients: colloidal silicon dioxide, corn starch, dibasic calcium phosphate dihydrate, magnesium stearate, hypromellose, polydextrose, polyethylene glycol, titanium dioxide and triacetin. structure-formula"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Flavoxate hydrochloride counteracts smooth muscle spasm of the urinary tract and exerts its effect directly on the muscle. In a single study of 11 normal male subjects, the time to onset of action was 55 minutes. The peak effect was observed at 112 minutes. 57% of the flavoxate hydrochloride was excreted in the urine within 24 hours."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria, urgency, nocturia, suprapubic pain, frequency and incontinence as may occur in cystitis, prostatitis, urethritis, urethrocystitis/urethrotrigonitis. Flavoxate hydrochloride tablets are not indicated for definitive treatment, but are compatible with drugs used for the treatment of urinary tract infections."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Flavoxate hydrochloride is contraindicated in patients who have any of the following obstructive conditions: pyloric or duodenal obstruction, obstructive intestinal lesions or ileus, achalasia, gastrointestinal hemorrhage and obstructive uropathies of the lower urinary tract."
+      ],
+      "warnings": [
+        "WARNINGS Flavoxate hydrochloride should be given cautiously in patients with suspected glaucoma."
+      ],
+      "precautions": [
+        "PRECAUTIONS Information for Patients Patients should be informed that if drowsiness and blurred vision occur, they should not operate a motor vehicle or machinery or participate in activities where alertness is required. Carcinogenesis, Mutagenesis, Impairment of Fertility Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of flavoxate hydrochloride have not been performed. Pregnancy Teratogenic Effects-Pregnancy Category B Reproduction studies have been performed in rats and rabbits at doses up to 34 times the human dose and revealed no evidence of impaired fertility or harm to the fetus due to flavoxate hydrochloride. There are, however, no well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when flavoxate hydrochloride is administered to a nursing woman. Pediatric Use Safety and effectiveness in children below the age of 12 years have not been established."
+      ],
+      "information_for_patients": [
+        "Information for Patients Patients should be informed that if drowsiness and blurred vision occur, they should not operate a motor vehicle or machinery or participate in activities where alertness is required."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of flavoxate hydrochloride have not been performed."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects-Pregnancy Category B Reproduction studies have been performed in rats and rabbits at doses up to 34 times the human dose and revealed no evidence of impaired fertility or harm to the fetus due to flavoxate hydrochloride. There are, however, no well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when flavoxate hydrochloride is administered to a nursing woman."
+      ],
+      "pediatric_use": [
+        "Pediatric Use Safety and effectiveness in children below the age of 12 years have not been established."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Gastrointestinal: Nausea, vomiting, dry mouth. CNS: Vertigo, headache, mental confusion, especially in the elderly, drowsiness, nervousness. Hematologic: Leukopenia (one case which was reversible upon discontinuation of the drug). Cardiovascular: Tachycardia and palpitation. Allergic : Urticaria and other dermatoses, eosinophilia and hyperpyrexia. Ophthalmic: Increased ocular tension, blurred vision, disturbance in eye accommodation. Renal: Dysuria."
+      ],
+      "overdosage": [
+        "OVERDOSAGE The oral LD 50 for flavoxate hydrochloride in rats is 4273 mg/kg. The oral LD 50 for flavoxate hydrochloride in mice is 1837 mg/kg. It is not known whether flavoxate hydrochloride is dialyzable."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Adults and children over 12 years of age One or two 100 mg tablets 3 or 4 times a day. With improvement of symptoms, the dose may be reduced. This drug cannot be recommended for infants and children under 12 years of age because safety and efficacy have not been demonstrated in this age group."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Flavoxate hydrochloride 100 mg tablets are available as white, round biconvex, film-coated tablets, debossed “ Є58 ” on one side and plain on the other side. They are supplied as follows: NDC 24658-720-01 in bottles of 100 Store at 20° - 25°C (68° - 77°F) [See USP Controlled Room Temperature]. Dispense contents in a tight, light-resistant container. Distributed by: PuraCap Laboratories, LLC DBA Blu Pharmaceuticals Greenvale, NY 11548 Rev. 02-2025-00 MF058REV02/25 OE2582"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 100 mg 100ct Flavoxate Hydrochloride Tablets, 100 mg Rx Only 100 Film-Coated Tablets flavoxate-100mg-100ct"
+      ],
+      "set_id": "f6a06eda-2480-4c0d-8d1e-9e3e89d3ee88",
+      "id": "cdb3dd6e-969c-4f0c-888b-a3e1b7062fda",
+      "effective_time": "20251211",
+      "version": "6",
+      "openfda": {
+        "application_number": [
+          "ANDA076835"
+        ],
+        "brand_name": [
+          "Flavoxate Hydrochloride"
+        ],
+        "generic_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "PuraCap Laboratories LLC dba Blu Pharmaceuticals"
+        ],
+        "product_ndc": [
+          "24658-720"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1095229"
+        ],
+        "spl_id": [
+          "cdb3dd6e-969c-4f0c-888b-a3e1b7062fda"
+        ],
+        "spl_set_id": [
+          "f6a06eda-2480-4c0d-8d1e-9e3e89d3ee88"
+        ],
+        "package_ndc": [
+          "24658-720-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0324658720012"
+        ],
+        "unii": [
+          "9C05J6089W"
+        ]
+      }
+    }
+  ]
+}

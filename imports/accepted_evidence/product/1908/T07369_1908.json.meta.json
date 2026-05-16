@@ -1,0 +1,14 @@
+{
+  "source_id": "1908",
+  "task_id": "T07369",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Fucicort%20Cream&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1908/T07369_1908.json",
+  "sha256": "b78eb9a46b92ae5f28b9ba94487e22fcb423a13c6515755157fc9eff3e2fc6a8",
+  "downloaded_at": "2026-05-16T03:51:51.341844+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:873:1908",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

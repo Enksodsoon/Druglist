@@ -1,0 +1,14 @@
+{
+  "source_id": "1475",
+  "task_id": "T05482",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Menthol%204%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1475/T05482_1475.json",
+  "sha256": "e767ed5e4b1098841c153500fc8ad146e3796c2caf15a6a7bce5b118262b9174",
+  "downloaded_at": "2026-05-16T03:47:02.305945+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:643:1475|Product_Label_Links:644:1474|Product_Label_Links:645:1476",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

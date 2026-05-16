@@ -1,0 +1,14 @@
+{
+  "source_id": "2023",
+  "task_id": "T06155",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Glycerol%20%2B%20Stearate%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2023/T06155_2023.json",
+  "sha256": "48fdb943d44963947c06b18e1a0829dad07cead5ee4437e4d7048a29810e5252",
+  "downloaded_at": "2026-05-16T03:48:44.652630+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:728:2023|Product_Label_Links:729:2032",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

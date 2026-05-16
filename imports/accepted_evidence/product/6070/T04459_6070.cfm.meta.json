@@ -1,0 +1,14 @@
+{
+  "source_id": "6070",
+  "task_id": "T04459",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ambes+5+mg+%28GPO%29",
+  "local_path": "imports/accepted_evidence/product/6070/T04459_6070.cfm",
+  "sha256": "56d1ae20be604f639845ca24da31148f7319293623962b833afe5769abeb08e6",
+  "downloaded_at": "2026-05-16T03:44:32.403105+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:503:6070",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

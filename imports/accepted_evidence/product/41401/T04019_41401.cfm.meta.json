@@ -1,0 +1,14 @@
+{
+  "source_id": "41401",
+  "task_id": "T04019",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ciclomex-20",
+  "local_path": "imports/accepted_evidence/product/41401/T04019_41401.cfm",
+  "sha256": "26d950d5dab38c78f9c47748dd96e84814d3be83b1ab35218fa8323eae6e262e",
+  "downloaded_at": "2026-05-16T03:43:25.557619+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:438:41401",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

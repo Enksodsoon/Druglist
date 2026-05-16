@@ -1,0 +1,14 @@
+{
+  "source_id": "1454",
+  "task_id": "T04594",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Concor+5+mg",
+  "local_path": "imports/accepted_evidence/product/1454/T04594_1454.cfm",
+  "sha256": "e14705170edca48d049a46cd97a04833bf860043e486ef0e4669a516496b0355",
+  "downloaded_at": "2026-05-16T03:44:51.675980+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:520:1454",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

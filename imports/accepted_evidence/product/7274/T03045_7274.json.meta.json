@@ -1,0 +1,14 @@
+{
+  "source_id": "7274",
+  "task_id": "T03045",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Spasuri&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7274/T03045_7274.json",
+  "sha256": "ab57553a5dd54c5b883bdb9b506d318b9205a65cbcc4247bd755a434b74349b6",
+  "downloaded_at": "2026-05-16T03:40:56.030998+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:310:7274",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

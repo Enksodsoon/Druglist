@@ -1,0 +1,191 @@
+task_id,row_type,sheet,row_number,record_id,name,priority_score,source_hint
+DISEASE_0047,disease,Disease_Download_Map,47,laryngitis_irritation_adult,,-77,"laryngitis_irritation_adult | Laryngitis / voice irritation | ENT | adult | J04.0 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-out"
+DISEASE_0064,disease,Disease_Download_Map,64,nasal_dryness_irritation_adult,,-77,"nasal_dryness_irritation_adult | Nasal dryness / irritation | ENT | adult | J34.89 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-ou"
+DISEASE_0065,disease,Disease_Download_Map,65,mild_mucolytic_support_adult,,-77,"mild_mucolytic_support_adult | Mild wet cough / sputum support | ENT | adult | R05.8 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-"
+DISEASE_0066,disease,Disease_Download_Map,66,tonsillar_inflammation_support_adult,,-77,"tonsillar_inflammation_support_adult | Tonsillar inflammation support (non-bacterial pattern) | ENT | adult | J03.9 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiot"
+DISEASE_0088,disease,Disease_Download_Map,88,uri_wet_cough_peds,,-77,"uri_wet_cough_peds | Pediatric URI with wet cough | ENT | peds | J06.9 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.htm"
+DISEASE_0089,disease,Disease_Download_Map,89,post_uri_cough_peds,,-77,"post_uri_cough_peds | Pediatric post-URI cough support | ENT | peds | R05.8 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatien"
+DISEASE_0090,disease,Disease_Download_Map,90,nasal_irritation_peds,,-77,"nasal_irritation_peds | Pediatric nasal irritation support | ENT | peds | J34.89 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outp"
+DISEASE_0099,disease,Disease_Download_Map,99,macrolide_respiratory_bacterial_adult,,-77,"macrolide_respiratory_bacterial_adult | Respiratory bacterial row (macrolide-style alternative) | ENT | adult | J06.9 | Y | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibi"
+DISEASE_0113,disease,Disease_Download_Map,113,penicillin_allergy_resp_support_adult,,-77,"penicillin_allergy_resp_support_adult | Penicillin-allergy respiratory bacterial support | ENT | adult | J06.9 | Y | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-us"
+DISEASE_0121,disease,Disease_Download_Map,121,dysuria_lower_uti_adult,,-65,"dysuria_lower_uti_adult | Lower UTI with dysuria | GU | adult | N39.0 | Y | GU_UTI | GUIDE_US_IDSA_UTI, GUIDE_EU_EAU_UTI, GUIDE_EU_NICE_LOWER_UTI, GUIDE_US_CDC_ABX_ADULT, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_UTI: https://www.idsociety.org/practice-guideline/uncomplicated-cystitis-and-pyelonephritis-uti
+GUIDE_EU_EAU_UTI: https://uroweb.org/guidelines/urological-infections
+GUIDE_EU_NICE_LOWER_UTI: https://www.nice.org.uk/guidance/ng109/resources
+GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_UTI: https://www.idsociety.org/practice-guideline/uncomplicated-cystitis-and-pyelonephritis-uti
+GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html | GUIDE_EU_EAU_UTI: https://uroweb.org/guidelines/urological-infections
+GUIDE_EU_NICE_LOWE"
+DISEASE_0120,disease,Disease_Download_Map,120,uncomplicated_uti_alt_cipro_adult,,-35,"uncomplicated_uti_alt_cipro_adult | Uncomplicated UTI alternative row | GU | adult | N30.90 | Y | GU_UTI | GUIDE_US_IDSA_UTI, GUIDE_EU_EAU_UTI, GUIDE_EU_NICE_LOWER_UTI, GUIDE_US_CDC_ABX_ADULT, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_UTI: https://www.idsociety.org/practice-guideline/uncomplicated-cystitis-and-pyelonephritis-uti
+GUIDE_EU_EAU_UTI: https://uroweb.org/guidelines/urological-infections
+GUIDE_EU_NICE_LOWER_UTI: https://www.nice.org.uk/guidance/ng109/resources
+GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_UTI: https://www.idsociety.org/practice-guideline/uncomplicated-cystitis-and-pyelonephritis-uti
+GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html | GUIDE_EU_EAU_UTI: https://uroweb.org/guidelines/urological-infecti"
+DISEASE_0005,disease,Disease_Download_Map,5,acute_watery_diarrhea_adult,,-29,"acute_watery_diarrhea_adult | Acute infectious diarrhea / viral gastroenteritis | GI | adult | A09 | N | GI_DIARRHEA_GASTRO | GUIDE_US_IDSA_DIARRHEA, GUIDE_US_ACG_DIARRHEA, GUIDE_EU_NICE_PEDS_GASTRO, GUIDE_EU_ESPGHAN_AGE, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_DIARRHEA: https://www.idsociety.org/practice-guideline/infectious-diarrhea/
+GUIDE_US_ACG_DIARRHEA: https://gi.org/2016/04/19/whats-new-here-acg-acute-infectious-diarrhea-guidelines/
+GUIDE_EU_NICE_PEDS_GASTRO: https://www.nice.org.uk/guidance/cg84/resources
+GUIDE_EU_ESPGHAN_AGE: https://www.espghan.org/knowledge-center/publications/Gastroenterology/2014_Guidelines_for_the_Management_of_Acute_Gastroenteritis_in_children_in_Europe
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_DIARRHEA: https://www.idsociety.org/practice-guideline"
+DISEASE_0009,disease,Disease_Download_Map,9,acute_watery_diarrhea_peds,,-29,"acute_watery_diarrhea_peds | Acute watery diarrhea (pediatric starter row) | GI | peds | A09 | N | GI_DIARRHEA_GASTRO | GUIDE_US_IDSA_DIARRHEA, GUIDE_US_ACG_DIARRHEA, GUIDE_EU_NICE_PEDS_GASTRO, GUIDE_EU_ESPGHAN_AGE, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_DIARRHEA: https://www.idsociety.org/practice-guideline/infectious-diarrhea/
+GUIDE_US_ACG_DIARRHEA: https://gi.org/2016/04/19/whats-new-here-acg-acute-infectious-diarrhea-guidelines/
+GUIDE_EU_NICE_PEDS_GASTRO: https://www.nice.org.uk/guidance/cg84/resources
+GUIDE_EU_ESPGHAN_AGE: https://www.espghan.org/knowledge-center/publications/Gastroenterology/2014_Guidelines_for_the_Management_of_Acute_Gastroenteritis_in_children_in_Europe
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_DIARRHEA: https://www.idsociety.org/practice-guideline/infec"
+DISEASE_0048,disease,Disease_Download_Map,48,gastroenteritis_mild_adult,,-29,"gastroenteritis_mild_adult | Mild viral gastroenteritis | GI | adult | A09 | N | GI_DIARRHEA_GASTRO | GUIDE_US_IDSA_DIARRHEA, GUIDE_US_ACG_DIARRHEA, GUIDE_EU_NICE_PEDS_GASTRO, GUIDE_EU_ESPGHAN_AGE, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_DIARRHEA: https://www.idsociety.org/practice-guideline/infectious-diarrhea/
+GUIDE_US_ACG_DIARRHEA: https://gi.org/2016/04/19/whats-new-here-acg-acute-infectious-diarrhea-guidelines/
+GUIDE_EU_NICE_PEDS_GASTRO: https://www.nice.org.uk/guidance/cg84/resources
+GUIDE_EU_ESPGHAN_AGE: https://www.espghan.org/knowledge-center/publications/Gastroenterology/2014_Guidelines_for_the_Management_of_Acute_Gastroenteritis_in_children_in_Europe
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_DIARRHEA: https://www.idsociety.org/practice-guideline/infectious-diarrhea/
+GU"
+DISEASE_0049,disease,Disease_Download_Map,49,traveler_diarrhea_support_adult,,-29,"traveler_diarrhea_support_adult | Traveler diarrhea support (mild, non-bloody) | GI | adult | A09 | N | GI_DIARRHEA_GASTRO | GUIDE_US_IDSA_DIARRHEA, GUIDE_US_ACG_DIARRHEA, GUIDE_EU_NICE_PEDS_GASTRO, GUIDE_EU_ESPGHAN_AGE, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_DIARRHEA: https://www.idsociety.org/practice-guideline/infectious-diarrhea/
+GUIDE_US_ACG_DIARRHEA: https://gi.org/2016/04/19/whats-new-here-acg-acute-infectious-diarrhea-guidelines/
+GUIDE_EU_NICE_PEDS_GASTRO: https://www.nice.org.uk/guidance/cg84/resources
+GUIDE_EU_ESPGHAN_AGE: https://www.espghan.org/knowledge-center/publications/Gastroenterology/2014_Guidelines_for_the_Management_of_Acute_Gastroenteritis_in_children_in_Europe
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_DIARRHEA: https://www.idsociety.org/practice-guideline/"
+DISEASE_0085,disease,Disease_Download_Map,85,acute_gastroenteritis_peds_mild,,-29,"acute_gastroenteritis_peds_mild | Pediatric mild gastroenteritis | GI | peds | A09 | N | GI_DIARRHEA_GASTRO | GUIDE_US_IDSA_DIARRHEA, GUIDE_US_ACG_DIARRHEA, GUIDE_EU_NICE_PEDS_GASTRO, GUIDE_EU_ESPGHAN_AGE, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_DIARRHEA: https://www.idsociety.org/practice-guideline/infectious-diarrhea/
+GUIDE_US_ACG_DIARRHEA: https://gi.org/2016/04/19/whats-new-here-acg-acute-infectious-diarrhea-guidelines/
+GUIDE_EU_NICE_PEDS_GASTRO: https://www.nice.org.uk/guidance/cg84/resources
+GUIDE_EU_ESPGHAN_AGE: https://www.espghan.org/knowledge-center/publications/Gastroenterology/2014_Guidelines_for_the_Management_of_Acute_Gastroenteritis_in_children_in_Europe
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_DIARRHEA: https://www.idsociety.org/practice-guideline/infectious-diar"
+DISEASE_0086,disease,Disease_Download_Map,86,acute_watery_diarrhea_peds_rehydration,,-29,"acute_watery_diarrhea_peds_rehydration | Pediatric watery diarrhea rehydration support | GI | peds | A09 | N | GI_DIARRHEA_GASTRO | GUIDE_US_IDSA_DIARRHEA, GUIDE_US_ACG_DIARRHEA, GUIDE_EU_NICE_PEDS_GASTRO, GUIDE_EU_ESPGHAN_AGE, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_DIARRHEA: https://www.idsociety.org/practice-guideline/infectious-diarrhea/
+GUIDE_US_ACG_DIARRHEA: https://gi.org/2016/04/19/whats-new-here-acg-acute-infectious-diarrhea-guidelines/
+GUIDE_EU_NICE_PEDS_GASTRO: https://www.nice.org.uk/guidance/cg84/resources
+GUIDE_EU_ESPGHAN_AGE: https://www.espghan.org/knowledge-center/publications/Gastroenterology/2014_Guidelines_for_the_Management_of_Acute_Gastroenteritis_in_children_in_Europe
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_DIARRHEA: https://www.idsociety.org/practice-gui"
+DISEASE_0029,disease,Disease_Download_Map,29,tinea_pruritic_rash_adult,,-19,"tinea_pruritic_rash_adult | Tinea corporis / pruritic fungal rash | Skin | adult | B35.9 | N | SKIN_TINEA_FUNGAL | GUIDE_US_CDC_RINGWORM, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_UK_EMC, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/tinea_pruritic_rash_adult/ | TODO_DOWNLOAD | Extr"
+DISEASE_0123,disease,Disease_Download_Map,123,tinea_cruris_adult,,-19,"tinea_cruris_adult | Tinea cruris / groin fungal rash | Skin | adult | B35.6 | N | SKIN_TINEA_FUNGAL | GUIDE_US_CDC_RINGWORM, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_UK_EMC, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_RINGWORM: https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/tinea_cruris_adult/ | TODO_DOWNLOAD | Extract: first-line reg"
+DISEASE_0108,disease,Disease_Download_Map,108,uncomplicated_uti_adult,,-15,"uncomplicated_uti_adult | Uncomplicated cystitis / lower UTI | GU | adult | N30.90 | Y | GU_UTI | GUIDE_US_IDSA_UTI, GUIDE_EU_EAU_UTI, GUIDE_EU_NICE_LOWER_UTI, GUIDE_US_CDC_ABX_ADULT, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_UTI: https://www.idsociety.org/practice-guideline/uncomplicated-cystitis-and-pyelonephritis-uti
+GUIDE_EU_EAU_UTI: https://uroweb.org/guidelines/urological-infections
+GUIDE_EU_NICE_LOWER_UTI: https://www.nice.org.uk/guidance/ng109/resources
+GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_UTI: https://www.idsociety.org/practice-guideline/uncomplicated-cystitis-and-pyelonephritis-uti
+GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html | GUIDE_EU_EAU_UTI: https://uroweb.org/guidelines/urological-infections
+GUIDE"
+DISEASE_0122,disease,Disease_Download_Map,122,frequency_urgency_uti_adult,,-15,"frequency_urgency_uti_adult | Lower UTI with frequency / urgency | GU | adult | N39.0 | Y | GU_UTI | GUIDE_US_IDSA_UTI, GUIDE_EU_EAU_UTI, GUIDE_EU_NICE_LOWER_UTI, GUIDE_US_CDC_ABX_ADULT, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_UTI: https://www.idsociety.org/practice-guideline/uncomplicated-cystitis-and-pyelonephritis-uti
+GUIDE_EU_EAU_UTI: https://uroweb.org/guidelines/urological-infections
+GUIDE_EU_NICE_LOWER_UTI: https://www.nice.org.uk/guidance/ng109/resources
+GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_UTI: https://www.idsociety.org/practice-guideline/uncomplicated-cystitis-and-pyelonephritis-uti
+GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html | GUIDE_EU_EAU_UTI: https://uroweb.org/guidelines/urological-infections
+GU"
+DISEASE_0008,disease,Disease_Download_Map,8,dry_eye_adult,,-11,"dry_eye_adult | Symptomatic dry eye syndrome | Eye | adult | H04.129 | N | EYE_DRY_IRRITATION | GUIDE_US_AAO_DRY_EYE, GUIDE_INT_TFOS_DEWS2, GUIDE_US_CDC_CONJUNCTIVITIS, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAO_DRY_EYE: https://www.guidelinecentral.com/guideline/10114/
+GUIDE_INT_TFOS_DEWS2: https://www.tfosdewsreport.org/report-management_and_therapy/147_36/en/
+GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAO_DRY_EYE: https://www.guidelinecentral.com/guideline/10114/
+GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html | GUIDE_INT_TFOS_DEWS2: https://www.tfosdewsreport.org/report-management_and_therapy/147_36/en/ |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go."
+DISEASE_0062,disease,Disease_Download_Map,62,screen_related_dry_eye_adult,,-11,"screen_related_dry_eye_adult | Screen-related dry eye | Eye | adult | H04.129 | N | EYE_DRY_IRRITATION | GUIDE_US_AAO_DRY_EYE, GUIDE_INT_TFOS_DEWS2, GUIDE_US_CDC_CONJUNCTIVITIS, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAO_DRY_EYE: https://www.guidelinecentral.com/guideline/10114/
+GUIDE_INT_TFOS_DEWS2: https://www.tfosdewsreport.org/report-management_and_therapy/147_36/en/
+GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAO_DRY_EYE: https://www.guidelinecentral.com/guideline/10114/
+GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html | GUIDE_INT_TFOS_DEWS2: https://www.tfosdewsreport.org/report-management_and_therapy/147_36/en/ |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda"
+DISEASE_0070,disease,Disease_Download_Map,70,contact_lens_dry_eye_support_adult,,-11,"contact_lens_dry_eye_support_adult | Contact lens dry eye support | Eye | adult | H04.129 | N | EYE_DRY_IRRITATION | GUIDE_US_AAO_DRY_EYE, GUIDE_INT_TFOS_DEWS2, GUIDE_US_CDC_CONJUNCTIVITIS, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAO_DRY_EYE: https://www.guidelinecentral.com/guideline/10114/
+GUIDE_INT_TFOS_DEWS2: https://www.tfosdewsreport.org/report-management_and_therapy/147_36/en/
+GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAO_DRY_EYE: https://www.guidelinecentral.com/guideline/10114/
+GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html | GUIDE_INT_TFOS_DEWS2: https://www.tfosdewsreport.org/report-management_and_therapy/147_36/en/ |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: htt"
+DISEASE_0074,disease,Disease_Download_Map,74,dry_eye_peds_support,,-11,"dry_eye_peds_support | Pediatric dry eye support | Eye | peds | H04.129 | N | EYE_DRY_IRRITATION | GUIDE_US_AAO_DRY_EYE, GUIDE_INT_TFOS_DEWS2, GUIDE_US_CDC_CONJUNCTIVITIS, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAO_DRY_EYE: https://www.guidelinecentral.com/guideline/10114/
+GUIDE_INT_TFOS_DEWS2: https://www.tfosdewsreport.org/report-management_and_therapy/147_36/en/
+GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAO_DRY_EYE: https://www.guidelinecentral.com/guideline/10114/
+GUIDE_US_CDC_CONJUNCTIVITIS: https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html | GUIDE_INT_TFOS_DEWS2: https://www.tfosdewsreport.org/report-management_and_therapy/147_36/en/ |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph."

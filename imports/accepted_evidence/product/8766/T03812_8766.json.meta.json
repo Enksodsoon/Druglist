@@ -1,0 +1,14 @@
+{
+  "source_id": "8766",
+  "task_id": "T03812",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Sulcain%20%2BMagcerin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8766/T03812_8766.json",
+  "sha256": "29cf69589847e998bd368d4c9a76af39fecf22b91d63bd7a243f382eed6bb03e",
+  "downloaded_at": "2026-05-16T03:42:52.847589+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:412:8766",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

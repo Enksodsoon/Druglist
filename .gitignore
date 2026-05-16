@@ -1,4 +1,5 @@
 .DS_Store
+.venv-evidence/
 data/source_refresh/cache/
 data/source_refresh/source_text/
 imports/raw_sources/*

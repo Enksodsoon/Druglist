@@ -1,0 +1,14 @@
+{
+  "source_id": "48632",
+  "task_id": "T03326",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Torrent",
+  "local_path": "imports/accepted_evidence/product/48632/T03326_48632.cfm",
+  "sha256": "dca18f2fb66ce8846afa0e8992b6c6310d7fbd9b316d1a711c2d827dea663d1e",
+  "downloaded_at": "2026-05-16T03:41:38.902175+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:348:48632",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

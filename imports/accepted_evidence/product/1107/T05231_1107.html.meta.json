@@ -1,0 +1,14 @@
+{
+  "source_id": "1107",
+  "task_id": "T05231",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Apolets",
+  "local_path": "imports/accepted_evidence/product/1107/T05231_1107.html",
+  "sha256": "d1942683e0de1f3cd151bbe3d18ccb4aac23b1c521f20a834866c8f32486d11c",
+  "downloaded_at": "2026-05-16T03:46:27.594747+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:612:1107",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

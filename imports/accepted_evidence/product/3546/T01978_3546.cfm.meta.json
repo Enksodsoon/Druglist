@@ -1,0 +1,14 @@
+{
+  "source_id": "3546",
+  "task_id": "T01978",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Smecta",
+  "local_path": "imports/accepted_evidence/product/3546/T01978_3546.cfm",
+  "sha256": "807021f74c8d8e1a956379be50d1d41eb2c4633709699cb6cb228da2063d45d8",
+  "downloaded_at": "2026-05-16T03:38:17.353381+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:164:3546",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

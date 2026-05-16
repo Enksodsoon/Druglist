@@ -1,0 +1,14 @@
+{
+  "source_id": "1204",
+  "task_id": "T06529",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Renu+Multiplus+Lubricating+%26+Rewetting+Drops",
+  "local_path": "imports/accepted_evidence/product/1204/T06529_1204.html",
+  "sha256": "dbcf2e1a35fee56575b8d71bc966acbe2a76a87e4e5ecd047db3481c30e81f14",
+  "downloaded_at": "2026-05-16T03:49:42.808718+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:769:1204",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

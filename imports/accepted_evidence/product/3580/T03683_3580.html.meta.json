@@ -1,0 +1,14 @@
+{
+  "source_id": "3580",
+  "task_id": "T03683",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Strepsils+Maxi+Pluzz+%E0%B8%8B%E0%B8%AD%E0%B8%87+6s",
+  "local_path": "imports/accepted_evidence/product/3580/T03683_3580.html",
+  "sha256": "685da4fbf07b955f4618b557d059834247133ba3948165d1501bee25255ea00d",
+  "downloaded_at": "2026-05-16T03:42:34.557810+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:396:3580",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

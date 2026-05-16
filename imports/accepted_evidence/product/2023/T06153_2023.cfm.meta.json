@@ -1,0 +1,14 @@
+{
+  "source_id": "2023",
+  "task_id": "T06153",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Glycerol+%2B+Stearate+%2F",
+  "local_path": "imports/accepted_evidence/product/2023/T06153_2023.cfm",
+  "sha256": "97148ce188a60834845ebbbaaa5a2a60ce75328277e720b44781d9ffe0cb7079",
+  "downloaded_at": "2026-05-16T03:48:44.635230+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:728:2023|Product_Label_Links:729:2032",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

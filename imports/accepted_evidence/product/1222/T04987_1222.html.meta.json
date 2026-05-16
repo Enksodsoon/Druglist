@@ -1,0 +1,14 @@
+{
+  "source_id": "1222",
+  "task_id": "T04987",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Zimmex+20+mg",
+  "local_path": "imports/accepted_evidence/product/1222/T04987_1222.html",
+  "sha256": "ab1db7a61bdc4a3ad39f3d0c4d11e2ca5de0a36f0cb9a3c699c3bac85a479360",
+  "downloaded_at": "2026-05-16T03:45:52.797012+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:578:1222",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

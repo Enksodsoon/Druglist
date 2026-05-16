@@ -1,0 +1,14 @@
+{
+  "source_id": "8491",
+  "task_id": "T07242",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Vagicin",
+  "local_path": "imports/accepted_evidence/product/8491/T07242_8491.cfm",
+  "sha256": "700d59d5b3954577cefa34bfa5efaa01155ff6cb5d7d13abacf36d1929cd82a7",
+  "downloaded_at": "2026-05-16T03:51:32.278267+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:859:8491",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

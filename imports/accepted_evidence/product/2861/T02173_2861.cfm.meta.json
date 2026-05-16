@@ -1,0 +1,14 @@
+{
+  "source_id": "2861",
+  "task_id": "T02173",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Panadol+Orange+Suspension",
+  "local_path": "imports/accepted_evidence/product/2861/T02173_2861.cfm",
+  "sha256": "48af3c178c3f69fa231b99fe00aea4f2c76f0e1b5809e15079cc030082ccdad2",
+  "downloaded_at": "2026-05-16T03:38:45.998191+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:189:2861",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "46527",
+  "task_id": "T05594",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Plaivana+Cream",
+  "local_path": "imports/accepted_evidence/product/46527/T05594_46527.html",
+  "sha256": "34b9dc9cd5da773ec898931f423a9f6783d7d839afbeb4deb503360757c806c0",
+  "downloaded_at": "2026-05-16T03:47:19.229801+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:656:46527",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

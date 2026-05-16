@@ -1,0 +1,14 @@
+{
+  "source_id": "48630",
+  "task_id": "T06953",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=TA%200.1%25%20Lotion&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/48630/T06953_48630.json",
+  "sha256": "2335ecf0a658fa3ef14a037a7c728aa21dcdf26424b9f6e3faa4352a72a9a59c",
+  "downloaded_at": "2026-05-16T03:50:47.865850+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:826:48630",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

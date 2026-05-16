@@ -1,0 +1,14 @@
+{
+  "source_id": "8061",
+  "task_id": "T02536",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Piroxicam&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8061/T02536_8061.json",
+  "sha256": "a06c90bb220c2700dce557f4d79b1f88db3b793bfc5d4a1424c12b9fc31df950",
+  "downloaded_at": "2026-05-16T03:39:40.292478+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:242:8061|Product_Label_Links:243:7602|Product_Label_Links:252:3422",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

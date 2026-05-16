@@ -1,0 +1,14 @@
+{
+  "source_id": "7145",
+  "task_id": "T01078",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Histatabs",
+  "local_path": "imports/accepted_evidence/product/7145/T01078_7145.cfm",
+  "sha256": "f7f89815fbbe1bfe3cf67d28cde2ba63ff6a77bfc8640c77e3fe0aa8fc4dbd1f",
+  "downloaded_at": "2026-05-16T03:36:05.911988+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:45:7145",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

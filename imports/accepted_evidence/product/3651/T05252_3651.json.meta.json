@@ -1,0 +1,14 @@
+{
+  "source_id": "3651",
+  "task_id": "T05252",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Nicergoline&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3651/T05252_3651.json",
+  "sha256": "4b84012bbbb8c52116f30664c1e6dbc422d9fd6485c0524187b1b894244532dc",
+  "downloaded_at": "2026-05-16T03:46:27.665294+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:615:3651|Product_Label_Links:616:3652",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

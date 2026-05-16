@@ -1,0 +1,14 @@
+{
+  "source_id": "1548",
+  "task_id": "T03393",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Cravit+500+mg",
+  "local_path": "imports/accepted_evidence/product/1548/T03393_1548.html",
+  "sha256": "08558ab3d05fa16d615d33c1d3ddb762dcd25c0733422d90e42ddd7208baddc0",
+  "downloaded_at": "2026-05-16T03:41:52.480882+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:356:1548",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

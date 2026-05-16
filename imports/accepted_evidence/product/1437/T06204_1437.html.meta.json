@@ -1,0 +1,14 @@
+{
+  "source_id": "1437",
+  "task_id": "T06204",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=ChlorOph+Eye+Drops",
+  "local_path": "imports/accepted_evidence/product/1437/T06204_1437.html",
+  "sha256": "5485f8c42027b74fb65c294e88a45d6179c7a245fda4c4021d81ab3c14454e91",
+  "downloaded_at": "2026-05-16T03:48:52.356775+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:735:1437",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

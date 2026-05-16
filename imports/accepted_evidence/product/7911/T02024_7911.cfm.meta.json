@@ -1,0 +1,14 @@
+{
+  "source_id": "7911",
+  "task_id": "T02024",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Diphenhydramine",
+  "local_path": "imports/accepted_evidence/product/7911/T02024_7911.cfm",
+  "sha256": "58ce6e5e8d5f30c61c3c80add0f08bbde40d9fe908001c2d5d7ca83231149a25",
+  "downloaded_at": "2026-05-16T03:38:24.541038+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:169:7911",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

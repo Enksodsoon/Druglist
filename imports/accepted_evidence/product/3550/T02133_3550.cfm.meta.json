@@ -1,0 +1,14 @@
+{
+  "source_id": "3550",
+  "task_id": "T02133",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Sia-Mox+Syrup+250+mg",
+  "local_path": "imports/accepted_evidence/product/3550/T02133_3550.cfm",
+  "sha256": "e423ad74bdb4f575ab6072d94e732e61bd1288f3800f646096cc27d6efb3c901",
+  "downloaded_at": "2026-05-16T03:38:39.644693+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:183:3550",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

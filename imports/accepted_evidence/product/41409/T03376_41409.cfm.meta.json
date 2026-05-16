@@ -1,0 +1,14 @@
+{
+  "source_id": "41409",
+  "task_id": "T03376",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cipflocin+500+mg",
+  "local_path": "imports/accepted_evidence/product/41409/T03376_41409.cfm",
+  "sha256": "051b6e0f18f544e2fb68e522542282e9a02a60db8f0955ff9a7145bf7de8ec38",
+  "downloaded_at": "2026-05-16T03:41:47.000491+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:354:41409",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "40017",
+  "task_id": "T00789",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Amoxicillin+%2BClavulanic",
+  "local_path": "imports/accepted_evidence/product/40017/T00789_40017.cfm",
+  "sha256": "c60b098bfb93ca7ea7570c431529899b83eacc73e4266522f5e072442bcdd6a7",
+  "downloaded_at": "2026-05-16T03:35:27.410017+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:5:40017",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

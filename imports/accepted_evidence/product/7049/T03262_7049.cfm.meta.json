@@ -1,0 +1,14 @@
+{
+  "source_id": "7049",
+  "task_id": "T03262",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Paracetamol+%2BOrphenadrine+Citrate",
+  "local_path": "imports/accepted_evidence/product/7049/T03262_7049.cfm",
+  "sha256": "eee3f2f0571f2299c7fd1abd05be305a9d655522be1b234e8ddfd8cc8eb78dbf",
+  "downloaded_at": "2026-05-16T03:41:29.597007+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:337:7049|Product_Label_Links:338:41455|Product_Label_Links:340:44932|Product_Label_Links:344:7752|Product_Label_Links:345:2840|Product_Label_Links:346:45616|Product_Label_Links:348:48632",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "7031",
+  "task_id": "T03955",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bromhexine%20Syrup&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7031/T03955_7031.json",
+  "sha256": "d9fce4afd573f076372e840cbe9be4d9b3cb982a996ccc616805fb7a8fe46f0b",
+  "downloaded_at": "2026-05-16T03:43:15.199862+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:430:7031",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

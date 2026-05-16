@@ -1,0 +1,14 @@
+{
+  "source_id": "8142",
+  "task_id": "T02866",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Flunarizine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8142/T02866_8142.json",
+  "sha256": "a0c192f0125ac7add5f01fd2ccfd9286c83c2405a5317325346872f940c95004",
+  "downloaded_at": "2026-05-16T03:40:28.869807+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:285:8142|Product_Label_Links:288:7222|Product_Label_Links:291:47664",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

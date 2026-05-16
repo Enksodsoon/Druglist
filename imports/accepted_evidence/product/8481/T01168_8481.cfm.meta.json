@@ -1,0 +1,14 @@
+{
+  "source_id": "8481",
+  "task_id": "T01168",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Sominar",
+  "local_path": "imports/accepted_evidence/product/8481/T01168_8481.cfm",
+  "sha256": "115c89642050cff5483059675c7b1648563914a80e4f176cfcda232985161757",
+  "downloaded_at": "2026-05-16T03:36:18.380898+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:58:8481",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

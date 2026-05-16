@@ -1,0 +1,14 @@
+{
+  "source_id": "3712",
+  "task_id": "T02213",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tempra+Forte",
+  "local_path": "imports/accepted_evidence/product/3712/T02213_3712.cfm",
+  "sha256": "97f7ae0a734df49861db48a3d830bec11fc3b64879122f7ee5ecfc8d1333a7fb",
+  "downloaded_at": "2026-05-16T03:38:51.294980+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:197:3712",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

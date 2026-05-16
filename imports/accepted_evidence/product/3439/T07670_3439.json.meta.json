@@ -1,0 +1,14 @@
+{
+  "source_id": "3439",
+  "task_id": "T07670",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Aescin%20%2BDiethylamine%20Salicylate%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3439/T07670_3439.json",
+  "sha256": "6b73047d01b91fd73daa0aa921a219e55c3f5f89c05f846b3f84157b7fea394a",
+  "downloaded_at": "2026-05-16T03:52:38.619292+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:910:3439|Product_Label_Links:911:3408",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

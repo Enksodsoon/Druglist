@@ -1,0 +1,14 @@
+{
+  "source_id": "40629",
+  "task_id": "T03597",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Ibuprofen+%2BParacetamol",
+  "local_path": "imports/accepted_evidence/product/40629/T03597_40629.cfm",
+  "sha256": "115d5ba6e7d30de9839dbc172fd787e865e5a2c69ea39ff936e9143d28d22d3d",
+  "downloaded_at": "2026-05-16T03:42:20.364761+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:384:40629|Product_Label_Links:389:7161|Product_Label_Links:390:7165",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

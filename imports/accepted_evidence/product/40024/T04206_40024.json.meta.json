@@ -1,0 +1,14 @@
+{
+  "source_id": "40024",
+  "task_id": "T04206",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Arthro-K%20Orange%201500&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/40024/T04206_40024.json",
+  "sha256": "639f3b304bd44ca06a9dda0ce785da874103f2f49b867b73e19061403f2100c3",
+  "downloaded_at": "2026-05-16T03:43:54.204931+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:467:40024",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "8321",
+  "task_id": "T05342",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Vitamin%20C%20%2BCalcium%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/8321/T05342_8321.json",
+  "sha256": "1209be939ed78cc34bbae10cb1156b9e77eecec20c5d19dc5138a90a5f39b67f",
+  "downloaded_at": "2026-05-16T03:46:40.887405+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:625:8321",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

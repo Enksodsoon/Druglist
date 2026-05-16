@@ -1,0 +1,14 @@
+{
+  "source_id": "3131",
+  "task_id": "T02611",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Ponstan+500+mg",
+  "local_path": "imports/accepted_evidence/product/3131/T02611_3131.html",
+  "sha256": "18616b4ef8168a0622742b0834b5c9d9ac43f20b3fe138726c7840c6606bdf8e",
+  "downloaded_at": "2026-05-16T03:39:51.807515+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:253:3131",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

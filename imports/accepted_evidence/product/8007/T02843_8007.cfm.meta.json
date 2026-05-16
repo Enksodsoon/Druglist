@@ -1,0 +1,14 @@
+{
+  "source_id": "8007",
+  "task_id": "T02843",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cephadol",
+  "local_path": "imports/accepted_evidence/product/8007/T02843_8007.cfm",
+  "sha256": "9c0b11be0841c0d6c0c34223836f7d33fc2d7499c3ef4468c24c029f9030cfcc",
+  "downloaded_at": "2026-05-16T03:40:25.801381+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:283:8007",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

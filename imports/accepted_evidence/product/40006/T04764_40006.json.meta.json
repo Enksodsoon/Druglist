@@ -1,0 +1,14 @@
+{
+  "source_id": "40006",
+  "task_id": "T04764",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Glimepiride%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/40006/T04764_40006.json",
+  "sha256": "f5731c86e4ee815a94da607e420904ea44fe23c13a195e36e6d29a9af2b50652",
+  "downloaded_at": "2026-05-16T03:45:16.969017+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:545:40006",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

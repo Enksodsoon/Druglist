@@ -1,0 +1,1073 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 105
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Hydralazine Hydrochloride Hydralazine Hydrochloride Hydralazine Hydrochloride HYDRALAZINE MICROCRYSTALLINE CELLULOSE 102 MICROCRYSTALLINE CELLULOSE 105 SODIUM STARCH GLYCOLATE TYPE A POTATO SILICON DIOXIDE MAGNESIUM STEARATE FD&C YELLOW NO. 6 Peach EP;102"
+      ],
+      "description": [
+        "DESCRIPTION HydrALAZINE hydrochloride, USP, is an antihypertensive, for oral administration. Its chemical name is 1-hydrazinophthalazine monohydrochloride, and its structural formula is: HydrALAZINE hydrochloride, USP is a white to off-white, odorless crystalline powder. It is soluble in water, slightly soluble in alcohol, and very slightly soluble in ether. It melts at about 275°C, with decomposition. Each tablet for oral administration contains 25 mg hydrALAZINE hydrochloride, USP. Tablets also contain magnesium stearate, microcrystalline cellulose, orange lake blend, silicon dioxide, and sodium starch glycolate. The orange lake blend consists of FD&C yellow #6. chemical-structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Although the precise mechanism of action of hydrALAZINE is not fully understood, the major effects are on the cardiovascular system. HydrALAZINE apparently lowers blood pressure by exerting a peripheral vasodilating effect through a direct relaxation of vascular smooth muscle. HydrALAZINE, by altering cellular calcium metabolism, interferes with the calcium movements within the vascular smooth muscle that are responsible for initiating or maintaining the contractile state. The peripheral vasodilating effect of hydrALAZINE results in decreased arterial blood pressure (diastolic more than systolic); decreased peripheral vascular resistance; and an increased heart rate, stroke volume, and cardiac output. The preferential dilatation of arterioles, as compared to veins, minimizes postural hypotension and promotes the increase in cardiac output. HydrALAZINE usually increases renin activity in plasma, presumably as a result of increased secretion of renin by the renal juxtaglomerular cells in response to reflex sympathetic discharge. This increase in renin activity leads to the production of angiotensin II, which then causes stimulation of aldosterone and consequent sodium reabsorption. HydrALAZINE also maintains or increases renal and cerebral blood flow. HydrALAZINE is rapidly absorbed after oral administration, and peak plasma levels are reached at 1 to 2 hours. Plasma levels of apparent hydrALAZINE decline with a half-life of 3 to 7 hours. Binding to human plasma protein is 87%. Plasma levels of hydrALAZINE vary widely among individuals. HydrALAZINE is subject to polymorphic acetylation; slow acetylators generally have higher plasma levels of hydrALAZINE and require lower doses to maintain control of blood pressure. HydrALAZINE undergoes extensive hepatic metabolism; it is excreted mainly in the form of metabolites in the urine."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hypersensitivity to hydrALAZINE; coronary artery disease; mitral valvular rheumatic heart disease."
+      ],
+      "warnings": [
+        "WARNINGS ​ In a few patients hydrALAZINE may produce a clinical picture simulating systemic lupus erythematosus including glomerulonephritis. In such patients hydrALAZINE should be discontinued unless the benefit-to-risk determination requires continued antihypertensive therapy with this drug. Symptoms and signs usually regress when the drug is discontinued but residua have been detected many years later. Long-term treatment with steroids may be necessary. (See PRECAUTIONS, Laboratory Tests .)"
+      ],
+      "precautions": [
+        "PRECAUTIONS General Myocardial stimulation produced by hydrALAZINE can cause anginal attacks and ECG changes of myocardial ischemia. The drug has been implicated in the production of myocardial infarction. It must, therefore, be used with caution in patients with suspected coronary artery disease. The “hyperdynamic” circulation caused by hydrALAZINE may accentuate specific cardiovascular inadequacies. For example, hydrALAZINE may increase pulmonary artery pressure in patients with mitral valvular disease. The drug may reduce the pressor responses to epinephrine. Postural hypotension may result from hydrALAZINE but is less common than with ganglionic blocking agents. It should be used with caution in patients with cerebral vascular accidents. In hypertensive patients with normal kidneys who are treated with hydrALAZINE, there is evidence of increased renal blood flow and a maintenance of glomerular filtration rate. In some instances where control values were below normal, improved renal function has been noted after administration of hydrALAZINE. However, as with any antihypertensive agent, hydrALAZINE should be used with caution in patients with advanced renal damage. Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed. Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop. Information for Patients Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed. Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydrALAZINE even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydrALAZINE. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly. Drug/Food Interactions Administration of hydrALAZINE with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydrALAZINE continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydrALAZINE by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. HydrALAZINE was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydrALAZINE. The extent to which these findings indicate a risk to man is uncertain. While longterm clinical observation has not suggested that human cancer is associated with hydrALAZINE use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Teratogenic Effects Pregnancy Category C Animal studies indicate that hydrALAZINE is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydrALAZINE should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers Hydralazine has been shown to be excreted in breast milk. Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydrALAZINE in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Acute Toxicity: No deaths due to acute poisoning have been reported. Highest known dose survived: adults, 10 g orally. Oral LD 50 in rats: 173 and 187 mg/kg. Signs and Symptoms Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing. Complications can include myocardial ischemia and subsequent myocardial infarction, cardiac arrhythmia, and profound shock. Treatment There is no specific antidote. The gastric contents should be evacuated, taking adequate precautions against aspiration and for protection of the airway. An activated charcoal slurry may be instilled if conditions permit. These manipulations may have to be omitted or carried out after cardiovascular status has been stabilized, since they might precipitate cardiac arrhythmias or increase the depth of shock. Support of the cardiovascular system is of primary importance. Shock should be treated with plasma expanders. If possible, vasopressors should not be given, but if a vasopressor is required, care should be taken not to precipitate or aggravate cardiac arrhythmia. Tachycardia responds to beta blockers. Digitalization may be necessary, and renal function should be monitored and supported as required. No experience has been reported with extracorporeal or peritoneal dialysis."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Initiate therapy in gradually increasing dosages; adjust according to individual response. Start with 10 mg four times daily for the first 2 to 4 days, increase to 25 mg four times daily for the balance of the first week. For the second and subsequent weeks, increase dosage to 50 mg four times daily. For maintenance, adjust dosage to the lowest effective levels. The incidence of toxic reactions, particularly the L.E. cell syndrome, is high in the group of patients receiving large doses of hydrALAZINE hydrochloride tablets. In a few resistant patients, up to 300 mg of hydrALAZINE hydrochloride tablets daily may be required for a significant antihypertensive effect. In such cases, a lower dosage of hydrALAZINE hydrochloride tablets combined with a thiazide and/or reserpine or a beta blocker may be considered. However, when combining therapy, individual titration is essential to ensure the lowest possible therapeutic dose of each drug."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED HydrALAZINE Hydrochloride Tablets, USP are available as: 25 mg – Round, peach, core tablet, debossed EP over 102 on one side and plain on the reverse side. NDC 82804-081-30 Bottles of 30 NDC 82804-081-60 Bottles of 60 NDC 82804-081-90 Bottles of 90 NDC 82804-081-72 Bottles of 120 Dispense in a tight, light-resistant container as defined in the USP. Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. Distributed by: Avet Pharmaceuticals Inc. East Brunswick, NJ 08816 1-866-901-DRUG (3784) 51U000000426US01 Repackaged by: Proficient Rx LP Thousand Oaks, CA 91320 Revised: 11/2022 avet-logo"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 25 mg NDC 82804- 081 -30 HydrALAZINE Hydrochloride Tablets, USP 25 mg 30 Tablets Rx only ​ 82804-081-30"
+      ],
+      "set_id": "024ac6b8-5ce0-4435-9b11-b1806c511d7b",
+      "id": "004f0059-4ede-4748-9489-45e27c177424",
+      "effective_time": "20250701",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "ANDA040858"
+        ],
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+        ],
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Proficient Rx LP"
+        ],
+        "product_ndc": [
+          "82804-081"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "905225"
+        ],
+        "spl_id": [
+          "004f0059-4ede-4748-9489-45e27c177424"
+        ],
+        "spl_set_id": [
+          "024ac6b8-5ce0-4435-9b11-b1806c511d7b"
+        ],
+        "package_ndc": [
+          "82804-081-30",
+          "82804-081-60",
+          "82804-081-90",
+          "82804-081-72"
+        ],
+        "original_packager_product_ndc": [
+          "23155-833"
+        ],
+        "upc": [
+          "0382804081301"
+        ],
+        "unii": [
+          "FD171B778Y"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydralazine Hydrochloride Hydralazine Hydrochloride ANHYDROUS LACTOSE CELLULOSE, MICROCRYSTALLINE STARCH, CORN MAGNESIUM STEARATE LIGHT MINERAL OIL TITANIUM DIOXIDE SODIUM LAURYL SULFATE FD&C RED NO. 40 HYPROMELLOSE, UNSPECIFIED HYDRALAZINE HYDROCHLORIDE HYDRALAZINE HP;1 Hydralazine Hydrochloride Hydralazine Hydrochloride ANHYDROUS LACTOSE CELLULOSE, MICROCRYSTALLINE STARCH, CORN MAGNESIUM STEARATE LIGHT MINERAL OIL TITANIUM DIOXIDE SODIUM LAURYL SULFATE FD&C RED NO. 40 HYPROMELLOSE, UNSPECIFIED HYDRALAZINE HYDROCHLORIDE HYDRALAZINE HP;2 Hydralazine Hydrochloride Hydralazine Hydrochloride ANHYDROUS LACTOSE CELLULOSE, MICROCRYSTALLINE STARCH, CORN MAGNESIUM STEARATE LIGHT MINERAL OIL TITANIUM DIOXIDE SODIUM LAURYL SULFATE FD&C RED NO. 40 HYPROMELLOSE, UNSPECIFIED HYDRALAZINE HYDROCHLORIDE HYDRALAZINE HP;3 Hydralazine Hydrochloride Hydralazine Hydrochloride ANHYDROUS LACTOSE CELLULOSE, MICROCRYSTALLINE STARCH, CORN MAGNESIUM STEARATE LIGHT MINERAL OIL TITANIUM DIOXIDE SODIUM LAURYL SULFATE FD&C RED NO. 40 HYPROMELLOSE, UNSPECIFIED HYDRALAZINE HYDROCHLORIDE HYDRALAZINE HP;4"
+      ],
+      "description": [
+        "DESCRIPTION HydrALAZINE hydrochloride, USP, is an antihypertensive, for oral administration. Its chemical name is 1-hydrazinophthalazine monohydrochloride, and its structural formula is: HydrALAZINE hydrochloride, USP is a white to off-white, odorless crystalline powder. It is soluble in water, slightly soluble in alcohol, and very slightly soluble in ether. It melts at about 275°C, with decomposition, and has a molecular weight of 196.64. Each tablet for oral administration contains 10 mg, 25 mg, 50 mg, or 100 mg hydrALAZINE hydrochloride, USP. Tablets also contain FD&C Red #40/Allura Red AC Aluminum Lake, hypromellose, lactose anhydrous, light mineral oil, microcrystalline cellulose, magnesium stearate, pregelatinized starch, sodium lauryl sulfate, and titanium dioxide. HYDRALAZINE HYDROCHLORIDE"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Although the precise mechanism of action of hydrALAZINE is not fully understood, the major effects are on the cardiovascular system. HydrALAZINE apparently lowers blood pressure by exerting a peripheral vasodilating effect through a direct relaxation of vascular smooth muscle. HydrALAZINE, by altering cellular calcium metabolism, interferes with the calcium movements within the vascular smooth muscle that are responsible for initiating or maintaining the contractile state. The peripheral vasodilating effect of hydrALAZINE results in decreased arterial blood pressure (diastolic more than systolic); decreased peripheral vascular resistance; and an increased heart rate, stroke volume, and cardiac output. The preferential dilatation of arterioles, as compared to veins, minimizes postural hypotension and promotes the increase in cardiac output. HydrALAZINE usually increases renin activity in plasma, presumably as a result of increased secretion of renin by the renal juxtaglomerular cells in response to reflex sympathetic discharge. This increase in renin activity leads to the production of angiotensin II, which then causes stimulation of aldosterone and consequent sodium reabsorption. HydrALAZINE also maintains or increases renal and cerebral blood flow. HydrALAZINE is rapidly absorbed after oral administration, and peak plasma levels are reached at 1 to 2 hours. Plasma levels of apparent hydrALAZINE decline with a half-life of 3 to 7 hours. Binding to human plasma protein is 87%. Plasma levels of hydrALAZINE vary widely among individuals. HydrALAZINE is subject to polymorphic acetylation; slow acetylators generally have higher plasma levels of hydrALAZINE and require lower doses to maintain control of blood pressure. HydrALAZINE undergoes extensive hepatic metabolism; it is excreted mainly in the form of metabolites in the urine."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hypersensitivity to hydrALAZINE; coronary artery disease; mitral valvular rheumatic heart disease."
+      ],
+      "warnings": [
+        "WARNINGS In a few patients hydrALAZINE may produce a clinical picture simulating systemic lupus erythematosus including glomerulonephritis. In such patients hydrALAZINE should be discontinued unless the benefit-to-risk determination requires continued antihypertensive therapy with this drug.Symptoms and signs usually regress when the drug is discontinued but residua have been detected many years later. Long-term treatment with steroids may be necessary. (See PRECAUTIONS, Laboratory Tests .)"
+      ],
+      "precautions": [
+        "PRECAUTIONS General Myocardial stimulation produced by hydrALAZINE can cause anginal attacks and ECG changes of myocardial ischemia. The drug has been implicated in the production of myocardial infarction. It must, therefore, be used with caution in patients with suspected coronary artery disease. The \"hyperdynamic\" circulation caused by hydrALAZINE may accentuate specific cardiovascular inadequacies. For example, hydrALAZINE may increase pulmonary artery pressure in patients with mitral valvular disease. The drug may reduce the pressor responses to epinephrine. Postural hypotension may result from hydrALAZINE but is less common than with ganglionic blocking agents. It should be used with caution in patients with cerebral vascular accidents. In hypertensive patients with normal kidneys who are treated with hydrALAZINE, there is evidence of increased renal blood flow and a maintenance of glomerular filtration rate. In some instances where control values were below normal, improved renal function has been noted after administration of hydrALAZINE. However, as with any antihypertensive agent, hydrALAZINE should be used with caution in patients with advanced renal damage. Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed. Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop. Information for Patients Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed. Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydrALAZINE even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydrALAZINE. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug /Drug Interactions MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly. Drug/Food Interactions Administration of hydrALAZINE with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydrALAZINE continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydrALAZINE by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. HydrALAZINE was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydrALAZINE. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydrALAZINE use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Category C Animal studies indicate that hydrALAZINE is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydrALAZINE should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when hydrALAZINE is administered to a nursing woman. Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydrALAZINE in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common : Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent : Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory : dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Acute Toxicity: No deaths due to acute poisoning have been reported. Highest known dose survived: adults, 10 g orally. Oral LD 50 in rats: 173 and 187 mg/kg. Signs and Symptoms: Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing. Complications can include myocardial ischemia and subsequent myocardial infarction, cardiac arrhythmia, and profound shock. Treatment: There is no specific antidote. The gastric contents should be evacuated, taking adequate precautions against aspiration and for protection of the airway. An activated charcoal slurry may be instilled if conditions permit. These manipulations may have to be omitted or carried out after cardiovascular status has been stabilized, since they might precipitate cardiac arrhythmias or increase the depth of shock. Support of the cardiovascular system is of primary importance. Shock should be treated with plasma expanders. If possible, vasopressors should not be given, but if a vasopressor is required, care should be taken not to precipitate or aggravate cardiac arrhythmia. Tachycardia responds to beta blockers. Digitalization may be necessary, and renal function should be monitored and supported as required. No experience has been reported with extracorporeal or peritoneal dialysis."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Initiate therapy in gradually increasing dosages; adjust according to individual response. Start with 10 mg four times daily for the first 2 to 4 days, increase to 25 mg four times daily for the balance of the first week. For the second and subsequent weeks, increase dosage to 50 mg four times daily. For maintenance, adjust dosage to the lowest effective levels. The incidence of toxic reactions, particularly the L.E. cell syndrome, is high in the group of patients receiving large doses of hydrALAZINE. In a few resistant patients, up to 300 mg of hydrALAZINE daily may be required for a significant antihypertensive effect. In such cases, a lower dosage of hydrALAZINE combined with a thiazide and/or reserpine or a beta blocker may be considered. However, when combining therapy, individual titration is essential to ensure the lowest possible therapeutic dose of each drug."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED HydrALAZINE Hydrochloride Tablets, USP 10 mg - round, convex, pink film-coated tablet engraved with HP above 1 on one side and plain on the other side. Bottle of 120 tablets, NDC 62135-579-12 25 mg - round, convex, pink film-coated tablet engraved with HP above 2 on one side and plain on the other side. Bottle of 120 tablets, NDC 62135-580-12 50 mg - round, convex, pink film-coated tablet engraved with HP above 3 on one side and plain on the other side. Bottle of 120 tablets, NDC 62135-581-12 100 mg - round, convex, pink film-coated tablet engraved with HP above 4 on one side and plain on the other side. Bottle of 120 tablets, NDC 62135-582-12 Dispense in a tight, light-resistant container as defined in the USP. Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. Manufactured for: Chartwell RX, LLC. Congers, NY 10920 Revised : 04/2023 L71441"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Hydralazine Hydrochloride Tablets, USP 10 mg- 62135-579-12 -120s Bottle Label Hydralazine Hydrochloride Tablets, USP 25 mg- 62135-580-12 -120s Bottle Label Hydralazine Hydrochloride Tablets, USP 50 mg- 62135-581-12 -120s Bottle Label Hydralazine Hydrochloride Tablets, USP 100 mg- 62135-582-12 -120s Bottle Label Hydralazine Hydrochloride Tablets, USP 10 mg Hydralazine Hydrochloride Tablets, USP 25 mg Hydralazine Hydrochloride Tablets, USP 50 mg Hydralazine Hydrochloride Tablets, USP 100 mg"
+      ],
+      "set_id": "0c7f9bd0-6c0a-4521-b77a-3582faa96874",
+      "id": "459c0193-3a85-878d-e063-6294a90afc31",
+      "effective_time": "20251210",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "ANDA086242"
+        ],
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+        ],
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Chartwell RX, LLC"
+        ],
+        "product_ndc": [
+          "62135-579",
+          "62135-580",
+          "62135-581",
+          "62135-582"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "905199",
+          "905222",
+          "905225",
+          "905395"
+        ],
+        "spl_id": [
+          "459c0193-3a85-878d-e063-6294a90afc31"
+        ],
+        "spl_set_id": [
+          "0c7f9bd0-6c0a-4521-b77a-3582faa96874"
+        ],
+        "package_ndc": [
+          "62135-579-12",
+          "62135-580-12",
+          "62135-581-12",
+          "62135-582-12"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0362135580124",
+          "0362135581121",
+          "0362135582128",
+          "0362135579128"
+        ],
+        "unii": [
+          "FD171B778Y"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydralazine Hydrochloride Hydralazine Hydrochloride ANHYDROUS LACTOSE FD&C YELLOW NO. 6 MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID HYDRALAZINE HYDROCHLORIDE HYDRALAZINE SG;183"
+      ],
+      "description": [
+        "DESCRIPTION Hydralazine Hydrochloride tablets USP, is an antihypertensive, for oral administration. Its chemical name is 1-hydrazinophthalazine monohydrochloride, and its structural formula is: C 8 H 8 N 4 .HCl M.W. 196.64 Hydralazine Hydrochloride USP is a white to off-white, odorless crystalline powder. It is soluble in water, slightly soluble in alcohol. It melts at about 275°C, with decomposition. Each tablet for oral administration contains 10 mg, 25 mg, 50 mg or 100 mg hydralazine hydrochloride, USP. Tablets also contain anhydrous lactose, FD&C yellow no. 6 aluminum lake, microcrystalline cellulose, sodium starch glycolate, and stearic acid. Chem structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Although the precise mechanism of action of hydralazine is not fully understood, the major effects are on the cardiovascular system. Hydralazine apparently lowers blood pressure by exerting a peripheral vasodilating effect through a direct relaxation of vascular smooth muscle. Hydralazine, by altering cellular calcium metabolism, interferes with the calcium movements within the vascular smooth muscle that are responsible for initiating or maintaining the contractile state. The peripheral vasodilating effect of hydralazine results in decreased arterial blood pressure (diastolic more than systolic); decreased peripheral vascular resistance; and an increased heart rate, stroke volume, and cardiac output. The preferential dilatation of arterioles, as compared to veins, minimizes postural hypotension and promotes the increase in cardiac output. Hydralazine usually increases renin activity in plasma, presumably as a result of increased secretion of renin by the renal juxtaglomerular cells in response to reflex sympathetic discharge. This increase in renin activity leads to the production of angiotensin II, which then causes stimulation of aldosterone and consequent sodium reabsorption. Hydralazine also maintains or increases renal and cerebral blood flow. Hydralazine is rapidly absorbed after oral administration, and peak plasma levels are reached at 1 to 2 hours. Plasma levels of apparent hydralazine decline with a half-life of 3 to 7 hours. Binding to human plasma protein is 87%. Plasma levels of hydralazine vary widely among individuals. Hydralazine is subject to polymorphic acetylation; slow acetylators generally have higher plasma levels of hydralazine and require lower doses to maintain control of blood pressure. Hydralazine undergoes extensive hepatic metabolism; it is excreted mainly in the form of metabolites in the urine."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hypersensitivity to hydralazine; coronary artery disease; mitral valvular rheumatic heart disease."
+      ],
+      "warnings": [
+        "WARNINGS In a few patients hydralazine may produce a clinical picture simulating systemic lupus erythematosus including glomerulonephritis. In such patients hydralazine should be discontinued unless the benefit-to-risk determination requires continued antihypertensive therapy with this drug. Symptoms and signs usually regress when the drug is discontinued but residua have been detected many years later. Long-term treatment with steroids may be necessary. (See PRECAUTIONS , Laboratory Tests .)"
+      ],
+      "precautions": [
+        "PRECAUTIONS General Myocardial stimulation produced by hydralazine can cause anginal attacks and ECG changes of myocardial ischemia. The drug has been implicated in the production of myocardial infarction. It must, therefore, be used with caution in patients with suspected coronary artery disease. The “hyperdynamic” circulation caused by hydralazine may accentuate specific cardiovascular inadequacies. For example, hydralazine may increase pulmonary artery pressure in patients with mitral valvular disease. The drug may reduce the pressor responses to epinephrine. Postural hypotension may result from hydralazine but is less common than with ganglionic blocking agents. It should be used with caution in patients with cerebral vascular accidents. In hypertensive patients with normal kidneys who are treated with hydralazine, there is evidence of increased renal blood flow and a maintenance of glomerular filtration rate. In some instances where control values were below normal, improved renal function has been noted after administration of hydralazine. However, as with any antihypertensive agent, hydralazine should be used with caution in patients with advanced renal damage. Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed. Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop. Information for Patients Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed. Repackaged By / Distributed By: RemedyRepack Inc. 625 Kolter Drive, Indiana, PA 15701 (724) 465-8762 Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions Administration of hydralazine with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers Hydralazine has been shown to be excreted in breast milk. Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      ],
+      "information_for_patients": [
+        "Information for Patients Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed. Repackaged By / Distributed By: RemedyRepack Inc. 625 Kolter Drive, Indiana, PA 15701 (724) 465-8762"
+      ],
+      "laboratory_tests": [
+        "Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions Administration of hydralazine with food results in higher plasma levels."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+      ],
+      "teratogenic_effects": [
+        "Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Hydralazine has been shown to be excreted in breast milk."
+      ],
+      "pediatric_use": [
+        "Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling, dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura, lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Acute Toxicity No deaths due to acute poisoning have been reported. Highest known dose survived: adults, 10 g orally. Oral LD 50 in rats: 173 and 187 mg/kg. Signs and Symptoms Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing. Complications can include myocardial ischemia and subsequent myocardial infarction, cardiac arrhythmia, and profound shock. Treatment There is no specific antidote. The gastric contents should be evacuated, taking adequate precautions against aspiration and for protection of the airway. An activated charcoal slurry may be instilled if conditions permit. These manipulations may have to be omitted or carried out after cardiovascular status has been stabilized, since they might precipitate cardiac arrhythmias or increase the depth of shock. Support of the cardiovascular system is of primary importance. Shock should be treated with plasma expanders. If possible, vasopressors should not be given, but if a vasopressor is required, care should be taken not to precipitate or aggravate cardiac arrhythmia. Tachycardia responds to beta blockers. Digitalization may be necessary, and renal function should be monitored and supported as required. No experience has been reported with extracorporeal or peritoneal dialysis."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Initiate therapy in gradually increasing dosages; adjust according to individual response. Start with 10 mg four times daily for the first 2 to 4 days, increase to 25 mg four times daily for the balance of the first week. For the second and subsequent weeks, increase dosage to 50 mg four times daily. For maintenance, adjust dosage to the lowest effective levels. The incidence of toxic reactions, particularly the L.E. cell syndrome, is high in the group of patients receiving large doses of hydralazine hydrochloride tablets. In a few resistant patients, up to 300 mg of hydralazine hydrochloride tablets daily may be required for a significant antihypertensive effect. In such cases, a lower dosage of hydralazine hydrochloride tablets combined with a thiazide and/or reserpine or a beta blocker may be considered. However, when combining therapy, individual titration is essential to ensure the lowest possible therapeutic dose of each drug."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Hydralazine Hydrochloride Tablets USP are available as: 25 mg Orange, round tablets debossed with SG on one side and 183 on other side. Available in NDC: 70518-3852-00 PACKAGING: 30 in 1 BLISTER PACK Storage Store at 20° to 25°C (68° to 77°F). [See USP Controlled Room Temperature.] Dispense in a tight, light-resistant container as defined in USP. Repackaged and Distributed By: Remedy Repack, Inc. 625 Kolter Dr. Suite #4 Indiana, PA 1-724-465-8762"
+      ],
+      "package_label_principal_display_panel": [
+        "DRUG: Hydralazine Hydrochloride GENERIC: Hydralazine Hydrochloride DOSAGE: TABLET ADMINSTRATION: ORAL NDC: 70518-3852-0 COLOR: orange SHAPE: ROUND SCORE: No score SIZE: 7 mm IMPRINT: SG;183 PACKAGING: 30 in 1 BLISTER PACK ACTIVE INGREDIENT(S): HYDRALAZINE HYDROCHLORIDE 25mg in 1 INACTIVE INGREDIENT(S): ANHYDROUS LACTOSE FD&C YELLOW NO. 6 MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID MM1"
+      ],
+      "set_id": "0d65e146-83e5-427f-ac06-04c0d8e72cea",
+      "id": "3f8c1a73-dd59-1bdc-e063-6294a90a54fc",
+      "effective_time": "20250924",
+      "version": "3",
+      "openfda": {
+        "application_number": [
+          "ANDA205236"
+        ],
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+        ],
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "REMEDYREPACK INC."
+        ],
+        "product_ndc": [
+          "70518-3852"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "905225"
+        ],
+        "spl_id": [
+          "3f8c1a73-dd59-1bdc-e063-6294a90a54fc"
+        ],
+        "spl_set_id": [
+          "0d65e146-83e5-427f-ac06-04c0d8e72cea"
+        ],
+        "package_ndc": [
+          "70518-3852-0"
+        ],
+        "original_packager_product_ndc": [
+          "50228-183"
+        ],
+        "unii": [
+          "FD171B778Y"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydralazine Hydrochloride Hydralazine Hydrochloride HYDRALAZINE HYDROCHLORIDE HYDRALAZINE ANHYDROUS LACTOSE FD&C YELLOW NO. 6 MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID PLIVA;327 Chem structure"
+      ],
+      "description": [
+        "DESCRIPTION Hydralazine Hydrochloride Tablets USP is an antihypertensive, for oral administration. Its chemical name is 1-hydrazinophthalazine monohydrochloride, and its structural formula is: C 8 H 8 N 4 ·HCl M.W. 196.64 Hydralazine hydrochloride, USP is a white to off-white, odorless crystalline powder. It is soluble in water, slightly soluble in alcohol, and very slightly soluble in ether. It melts at about 275°C, with decomposition. Each tablet for oral administration contains 10 mg, 25 mg, 50 mg or 100 mg hydralazine hydrochloride, USP. Tablets also contain anhydrous lactose, FD&C yellow no. 6 aluminum lake, microcrystalline cellulose, sodium starch glycolate, and stearic acid."
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Although the precise mechanism of action of hydralazine is not fully understood, the major effects are on the cardiovascular system. Hydralazine apparently lowers blood pressure by exerting a peripheral vasodilating effect through a direct relaxation of vascular smooth muscle. Hydralazine, by altering cellular calcium metabolism, interferes with the calcium movements within the vascular smooth muscle that are responsible for initiating or maintaining the contractile state. The peripheral vasodilating effect of hydralazine results in decreased arterial blood pressure (diastolic more than systolic); decreased peripheral vascular resistance; and an increased heart rate, stroke volume, and cardiac output. The preferential dilatation of arterioles, as compared to veins, minimizes postural hypotension and promotes the increase in cardiac output. Hydralazine usually increases renin activity in plasma, presumably as a result of increased secretion of renin by the renal juxtaglomerular cells in response to reflex sympathetic discharge. This increase in renin activity leads to the production of angiotensin II, which then causes stimulation of aldosterone and consequent sodium reabsorption. Hydralazine also maintains or increases renal and cerebral blood flow. Hydralazine is rapidly absorbed after oral administration, and peak plasma levels are reached at 1 to 2 hours. Plasma levels of apparent hydralazine decline with a half-life of 3 to 7 hours. Binding to human plasma protein is 87%. Plasma levels of hydralazine vary widely among individuals. Hydralazine is subject to polymorphic acetylation; slow acetylators generally have higher plasma levels of hydralazine and require lower doses to maintain control of blood pressure. Hydralazine undergoes extensive hepatic metabolism; it is excreted mainly in the form of metabolites in the urine."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hypersensitivity to hydralazine; coronary artery disease; mitral valvular rheumatic heart disease."
+      ],
+      "warnings": [
+        "WARNINGS In a few patients hydralazine may produce a clinical picture simulating systemic lupus erythematosus including glomerulonephritis. In such patients hydralazine should be discontinued unless the benefit-to-risk determination requires continued antihypertensive therapy with this drug. Symptoms and signs usually regress when the drug is discontinued but residua have been detected many years later. Long-term treatment with steroids may be necessary. (See PRECAUTIONS , Laboratory Tests .)"
+      ],
+      "precautions": [
+        "PRECAUTIONS General Myocardial stimulation produced by hydralazine can cause anginal attacks and ECG changes of myocardial ischemia. The drug has been implicated in the production of myocardial infarction. It must, therefore, be used with caution in patients with suspected coronary artery disease. The “hyperdynamic” circulation caused by hydralazine may accentuate specific cardiovascular inadequacies. For example, hydralazine may increase pulmonary artery pressure in patients with mitral valvular disease. The drug may reduce the pressor responses to epinephrine. Postural hypotension may result from hydralazine but is less common than with ganglionic blocking agents. It should be used with caution in patients with cerebral vascular accidents. In hypertensive patients with normal kidneys who are treated with hydralazine, there is evidence of increased renal blood flow and a maintenance of glomerular filtration rate. In some instances where control values were below normal, improved renal function has been noted after administration of hydralazine. However, as with any antihypertensive agent, hydralazine should be used with caution in patients with advanced renal damage. Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed. Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop. Information for Patients Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed. Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions Administration of hydralazine with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers Hydralazine has been shown to be excreted in breast milk. Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      ],
+      "information_for_patients": [
+        "Information for Patients Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed."
+      ],
+      "laboratory_tests": [
+        "Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+      ],
+      "teratogenic_effects": [
+        "Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Hydralazine has been shown to be excreted in breast milk."
+      ],
+      "pediatric_use": [
+        "Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling, dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura, lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Acute Toxicity No deaths due to acute poisoning have been reported. Highest known dose survived: adults, 10 g orally. Oral LD 50 in rats: 173 and 187 mg/kg. Signs and Symptoms Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing. Complications can include myocardial ischemia and subsequent myocardial infarction, cardiac arrhythmia, and profound shock. Treatment There is no specific antidote. The gastric contents should be evacuated, taking adequate precautions against aspiration and for protection of the airway. An activated charcoal slurry may be instilled if conditions permit. These manipulations may have to be omitted or carried out after cardiovascular status has been stabilized, since they might precipitate cardiac arrhythmias or increase the depth of shock. Support of the cardiovascular system is of primary importance. Shock should be treated with plasma expanders. If possible, vasopressors should not be given, but if a vasopressor is required, care should be taken not to precipitate or aggravate cardiac arrhythmia. Tachycardia responds to beta blockers. Digitalization may be necessary, and renal function should be monitored and supported as required. No experience has been reported with extracorporeal or peritoneal dialysis."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Initiate therapy in gradually increasing dosages; adjust according to individual response. Start with 10 mg four times daily for the first 2 to 4 days, increase to 25 mg four times daily for the balance of the first week. For the second and subsequent weeks, increase dosage to 50 mg four times daily. For maintenance, adjust dosage to the lowest effective levels. The incidence of toxic reactions, particularly the L.E. cell syndrome, is high in the group of patients receiving large doses of hydralazine hydrochloride tablets. In a few resistant patients, up to 300 mg of hydralazine hydrochloride tablets daily may be required for a significant antihypertensive effect. In such cases, a lower dosage of hydralazine hydrochloride tablets combined with a thiazide and/or reserpine or a beta blocker may be considered. However, when combining therapy, individual titration is essential to ensure the lowest possible therapeutic dose of each drug."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Hydralazine Hydrochloride Tablets USP are available as: 25 mg Orange, round, convex, unscored tablets, debossed with “PLIVA 327” on one side and plain on the other side. Available in bottles of 1000 (NDC: 63629-8757-1) Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required). KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. Repackaged/Relabeled by: Bryant Ranch Prepack, Inc. Burbank, CA 91504"
+      ],
+      "how_supplied_table": [
+        "<table width=\"50%\" border=\"1\"><tbody><tr styleCode=\"First Last\"><td>25 mg</td><td>Orange, round, convex, unscored tablets, debossed with &#x201C;PLIVA 327&#x201D; on one side and plain on the other side. Available in bottles of 1000 (NDC: 63629-8757-1) </td></tr></tbody></table>"
+      ],
+      "package_label_principal_display_panel": [
+        "Hydralazine HCL 25 mg Tablet #1000 Label"
+      ],
+      "set_id": "10f3e76e-9bba-4151-89fb-90d823a0a68c",
+      "id": "3335c836-5e3d-4b72-b9d1-b3365cbe28b6",
+      "effective_time": "20241108",
+      "version": "103",
+      "openfda": {
+        "application_number": [
+          "ANDA088467"
+        ],
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+        ],
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "product_ndc": [
+          "63629-8757"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "905225"
+        ],
+        "spl_id": [
+          "3335c836-5e3d-4b72-b9d1-b3365cbe28b6"
+        ],
+        "spl_set_id": [
+          "10f3e76e-9bba-4151-89fb-90d823a0a68c"
+        ],
+        "package_ndc": [
+          "63629-8757-1"
+        ],
+        "original_packager_product_ndc": [
+          "50111-327"
+        ],
+        "unii": [
+          "FD171B778Y"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydralazine Hydrochloride Hydralazine Hydrochloride MICROCRYSTALLINE CELLULOSE 102 MICROCRYSTALLINE CELLULOSE 105 SODIUM STARCH GLYCOLATE TYPE A POTATO SILICON DIOXIDE MAGNESIUM STEARATE FD&C YELLOW NO. 6 HYDRALAZINE HYDROCHLORIDE HYDRALAZINE Peach EP;102"
+      ],
+      "description": [
+        "DESCRIPTION HydrALAZINE hydrochloride, USP, is an antihypertensive, for oral administration. Its chemical name is 1-hydrazinophthalazine monohydrochloride, and its structural formula is: HydrALAZINE hydrochloride, USP is a white to off-white, odorless crystalline powder. It is soluble in water, slightly soluble in alcohol, and very slightly soluble in ether. It melts at about 275°C, with decomposition. Each tablet for oral administration contains 10 mg, 25 mg, 50 mg or 100 mg hydrALAZINE hydrochloride, USP. Tablets also contain magnesium stearate, microcrystalline cellulose, orange lake blend, silicon dioxide, and sodium starch glycolate. The orange lake blend consists of FD&C yellow #6. chemical-structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Although the precise mechanism of action of hydrALAZINE is not fully understood, the major effects are on the cardiovascular system. HydrALAZINE apparently lowers blood pressure by exerting a peripheral vasodilating effect through a direct relaxation of vascular smooth muscle. HydrALAZINE, by altering cellular calcium metabolism, interferes with the calcium movements within the vascular smooth muscle that are responsible for initiating or maintaining the contractile state. The peripheral vasodilating effect of hydrALAZINE results in decreased arterial blood pressure (diastolic more than systolic); decreased peripheral vascular resistance; and an increased heart rate, stroke volume, and cardiac output. The preferential dilatation of arterioles, as compared to veins, minimizes postural hypotension and promotes the increase in cardiac output. HydrALAZINE usually increases renin activity in plasma, presumably as a result of increased secretion of renin by the renal juxtaglomerular cells in response to reflex sympathetic discharge. This increase in renin activity leads to the production of angiotensin II, which then causes stimulation of aldosterone and consequent sodium reabsorption. HydrALAZINE also maintains or increases renal and cerebral blood flow. HydrALAZINE is rapidly absorbed after oral administration, and peak plasma levels are reached at 1 to 2 hours. Plasma levels of apparent hydrALAZINE decline with a half-life of 3 to 7 hours. Binding to human plasma protein is 87%. Plasma levels of hydrALAZINE vary widely among individuals. HydrALAZINE is subject to polymorphic acetylation; slow acetylators generally have higher plasma levels of hydrALAZINE and require lower doses to maintain control of blood pressure. HydrALAZINE undergoes extensive hepatic metabolism; it is excreted mainly in the form of metabolites in the urine."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hypersensitivity to hydrALAZINE; coronary artery disease; mitral valvular rheumatic heart disease."
+      ],
+      "warnings": [
+        "WARNINGS ​ In a few patients hydrALAZINE may produce a clinical picture simulating systemic lupus erythematosus including glomerulonephritis. In such patients hydrALAZINE should be discontinued unless the benefit-to-risk determination requires continued antihypertensive therapy with this drug. Symptoms and signs usually regress when the drug is discontinued but residua have been detected many years later. Long-term treatment with steroids may be necessary. (See PRECAUTIONS, Laboratory Tests .)"
+      ],
+      "precautions": [
+        "PRECAUTIONS General Myocardial stimulation produced by hydrALAZINE can cause anginal attacks and ECG changes of myocardial ischemia. The drug has been implicated in the production of myocardial infarction. It must, therefore, be used with caution in patients with suspected coronary artery disease. The “hyperdynamic” circulation caused by hydrALAZINE may accentuate specific cardiovascular inadequacies. For example, hydrALAZINE may increase pulmonary artery pressure in patients with mitral valvular disease. The drug may reduce the pressor responses to epinephrine. Postural hypotension may result from hydrALAZINE but is less common than with ganglionic blocking agents. It should be used with caution in patients with cerebral vascular accidents. In hypertensive patients with normal kidneys who are treated with hydrALAZINE, there is evidence of increased renal blood flow and a maintenance of glomerular filtration rate. In some instances where control values were below normal, improved renal function has been noted after administration of hydrALAZINE. However, as with any antihypertensive agent, hydrALAZINE should be used with caution in patients with advanced renal damage. Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed. Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop. Information for Patients Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed. Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydrALAZINE even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydrALAZINE. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly. Drug/Food Interactions Administration of hydrALAZINE with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydrALAZINE continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydrALAZINE by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. HydrALAZINE was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydrALAZINE. The extent to which these findings indicate a risk to man is uncertain. While longterm clinical observation has not suggested that human cancer is associated with hydrALAZINE use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Teratogenic Effects Pregnancy Category C Animal studies indicate that hydrALAZINE is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydrALAZINE should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers Hydralazine has been shown to be excreted in breast milk. Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydrALAZINE in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Acute Toxicity: No deaths due to acute poisoning have been reported. Highest known dose survived: adults, 10 g orally. Oral LD 50 in rats: 173 and 187 mg/kg. Signs and Symptoms Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing. Complications can include myocardial ischemia and subsequent myocardial infarction, cardiac arrhythmia, and profound shock. Treatment There is no specific antidote. The gastric contents should be evacuated, taking adequate precautions against aspiration and for protection of the airway. An activated charcoal slurry may be instilled if conditions permit. These manipulations may have to be omitted or carried out after cardiovascular status has been stabilized, since they might precipitate cardiac arrhythmias or increase the depth of shock. Support of the cardiovascular system is of primary importance. Shock should be treated with plasma expanders. If possible, vasopressors should not be given, but if a vasopressor is required, care should be taken not to precipitate or aggravate cardiac arrhythmia. Tachycardia responds to beta blockers. Digitalization may be necessary, and renal function should be monitored and supported as required. No experience has been reported with extracorporeal or peritoneal dialysis."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Initiate therapy in gradually increasing dosages; adjust according to individual response. Start with 10 mg four times daily for the first 2 to 4 days, increase to 25 mg four times daily for the balance of the first week. For the second and subsequent weeks, increase dosage to 50 mg four times daily. For maintenance, adjust dosage to the lowest effective levels. The incidence of toxic reactions, particularly the L.E. cell syndrome, is high in the group of patients receiving large doses of hydrALAZINE hydrochloride tablets. In a few resistant patients, up to 300 mg of hydrALAZINE hydrochloride tablets daily may be required for a significant antihypertensive effect. In such cases, a lower dosage of hydrALAZINE hydrochloride tablets combined with a thiazide and/or reserpine or a beta blocker may be considered. However, when combining therapy, individual titration is essential to ensure the lowest possible therapeutic dose of each drug."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED HydrALAZINE Hydrochloride Tablets, USP are available as: 25 mg – Round, peach, core tablet, debossed EP over 102 on one side and plain on the reverse side. NDC 82868-045-30 Bottles of 30 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. Distributed by: Avet Pharmaceuticals Inc. East Brunswick, NJ 08816 1-866-901-DRUG (3784) 51U000000426US01 Revised: 11/2022 avet-logo"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel NDC: 82868-045-30 Label"
+      ],
+      "set_id": "1275dd50-d97f-2e8f-e063-6394a90a4a67",
+      "id": "46dcba1e-2a2e-cfd1-e063-6394a90a19ee",
+      "effective_time": "20251226",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "ANDA040858"
+        ],
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+        ],
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Northwind Health Company, LLC"
+        ],
+        "product_ndc": [
+          "82868-045"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "905225"
+        ],
+        "spl_id": [
+          "46dcba1e-2a2e-cfd1-e063-6394a90a19ee"
+        ],
+        "spl_set_id": [
+          "1275dd50-d97f-2e8f-e063-6394a90a4a67"
+        ],
+        "package_ndc": [
+          "82868-045-30"
+        ],
+        "original_packager_product_ndc": [
+          "23155-833"
+        ],
+        "unii": [
+          "FD171B778Y"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydralazine Hydrochloride Hydralazine Hydrochloride ANHYDROUS LACTOSE FD&C YELLOW NO. 6 MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID HYDRALAZINE HYDROCHLORIDE HYDRALAZINE SG;182 Hydralazine Hydrochloride Hydralazine Hydrochloride ANHYDROUS LACTOSE FD&C YELLOW NO. 6 MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID HYDRALAZINE HYDROCHLORIDE HYDRALAZINE SG;183 Hydralazine Hydrochloride Hydralazine Hydrochloride ANHYDROUS LACTOSE FD&C YELLOW NO. 6 MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID HYDRALAZINE HYDROCHLORIDE HYDRALAZINE SG;184 Hydralazine Hydrochloride Hydralazine Hydrochloride ANHYDROUS LACTOSE FD&C YELLOW NO. 6 MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID HYDRALAZINE HYDROCHLORIDE HYDRALAZINE SG;185"
+      ],
+      "description": [
+        "DESCRIPTION Hydralazine Hydrochloride tablets USP, is an antihypertensive, for oral administration. Its chemical name is 1-hydrazinophthalazine monohydrochloride, and its structural formula is: C 8 H 8 N 4 .HCl M.W. 196.64 Hydralazine Hydrochloride USP is a white to off-white, odorless crystalline powder. It is soluble in water, slightly soluble in alcohol. It melts at about 275°C, with decomposition. Each tablet for oral administration contains 10 mg, 25 mg, 50 mg or 100 mg hydralazine hydrochloride, USP. Tablets also contain anhydrous lactose, FD&C yellow no. 6 aluminum lake, microcrystalline cellulose, sodium starch glycolate, and stearic acid. Chem structure"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Although the precise mechanism of action of hydralazine is not fully understood, the major effects are on the cardiovascular system. Hydralazine apparently lowers blood pressure by exerting a peripheral vasodilating effect through a direct relaxation of vascular smooth muscle. Hydralazine, by altering cellular calcium metabolism, interferes with the calcium movements within the vascular smooth muscle that are responsible for initiating or maintaining the contractile state. The peripheral vasodilating effect of hydralazine results in decreased arterial blood pressure (diastolic more than systolic); decreased peripheral vascular resistance; and an increased heart rate, stroke volume, and cardiac output. The preferential dilatation of arterioles, as compared to veins, minimizes postural hypotension and promotes the increase in cardiac output. Hydralazine usually increases renin activity in plasma, presumably as a result of increased secretion of renin by the renal juxtaglomerular cells in response to reflex sympathetic discharge. This increase in renin activity leads to the production of angiotensin II, which then causes stimulation of aldosterone and consequent sodium reabsorption. Hydralazine also maintains or increases renal and cerebral blood flow. Hydralazine is rapidly absorbed after oral administration, and peak plasma levels are reached at 1 to 2 hours. Plasma levels of apparent hydralazine decline with a half-life of 3 to 7 hours. Binding to human plasma protein is 87%. Plasma levels of hydralazine vary widely among individuals. Hydralazine is subject to polymorphic acetylation; slow acetylators generally have higher plasma levels of hydralazine and require lower doses to maintain control of blood pressure. Hydralazine undergoes extensive hepatic metabolism; it is excreted mainly in the form of metabolites in the urine."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hypersensitivity to hydralazine; coronary artery disease; mitral valvular rheumatic heart disease."
+      ],
+      "warnings": [
+        "WARNINGS In a few patients hydralazine may produce a clinical picture simulating systemic lupus erythematosus including glomerulonephritis. In such patients hydralazine should be discontinued unless the benefit-to-risk determination requires continued antihypertensive therapy with this drug. Symptoms and signs usually regress when the drug is discontinued but residua have been detected many years later. Long-term treatment with steroids may be necessary. (See PRECAUTIONS , Laboratory Tests .)"
+      ],
+      "precautions": [
+        "PRECAUTIONS General Myocardial stimulation produced by hydralazine can cause anginal attacks and ECG changes of myocardial ischemia. The drug has been implicated in the production of myocardial infarction. It must, therefore, be used with caution in patients with suspected coronary artery disease. The “hyperdynamic” circulation caused by hydralazine may accentuate specific cardiovascular inadequacies. For example, hydralazine may increase pulmonary artery pressure in patients with mitral valvular disease. The drug may reduce the pressor responses to epinephrine. Postural hypotension may result from hydralazine but is less common than with ganglionic blocking agents. It should be used with caution in patients with cerebral vascular accidents. In hypertensive patients with normal kidneys who are treated with hydralazine, there is evidence of increased renal blood flow and a maintenance of glomerular filtration rate. In some instances where control values were below normal, improved renal function has been noted after administration of hydralazine. However, as with any antihypertensive agent, hydralazine should be used with caution in patients with advanced renal damage. Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed. Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop. Information for Patients Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed. Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions Administration of hydralazine with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers Hydralazine has been shown to be excreted in breast milk. Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      ],
+      "information_for_patients": [
+        "Information for Patients Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed."
+      ],
+      "laboratory_tests": [
+        "Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions Administration of hydralazine with food results in higher plasma levels."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+      ],
+      "teratogenic_effects": [
+        "Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Hydralazine has been shown to be excreted in breast milk."
+      ],
+      "pediatric_use": [
+        "Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling, dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura, lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Acute Toxicity No deaths due to acute poisoning have been reported. Highest known dose survived: adults, 10 g orally. Oral LD 50 in rats: 173 and 187 mg/kg. Signs and Symptoms Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing. Complications can include myocardial ischemia and subsequent myocardial infarction, cardiac arrhythmia, and profound shock. Treatment There is no specific antidote. The gastric contents should be evacuated, taking adequate precautions against aspiration and for protection of the airway. An activated charcoal slurry may be instilled if conditions permit. These manipulations may have to be omitted or carried out after cardiovascular status has been stabilized, since they might precipitate cardiac arrhythmias or increase the depth of shock. Support of the cardiovascular system is of primary importance. Shock should be treated with plasma expanders. If possible, vasopressors should not be given, but if a vasopressor is required, care should be taken not to precipitate or aggravate cardiac arrhythmia. Tachycardia responds to beta blockers. Digitalization may be necessary, and renal function should be monitored and supported as required. No experience has been reported with extracorporeal or peritoneal dialysis."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Initiate therapy in gradually increasing dosages; adjust according to individual response. Start with 10 mg four times daily for the first 2 to 4 days, increase to 25 mg four times daily for the balance of the first week. For the second and subsequent weeks, increase dosage to 50 mg four times daily. For maintenance, adjust dosage to the lowest effective levels. The incidence of toxic reactions, particularly the L.E. cell syndrome, is high in the group of patients receiving large doses of hydralazine hydrochloride tablets. In a few resistant patients, up to 300 mg of hydralazine hydrochloride tablets daily may be required for a significant antihypertensive effect. In such cases, a lower dosage of hydralazine hydrochloride tablets combined with a thiazide and/or reserpine or a beta blocker may be considered. However, when combining therapy, individual titration is essential to ensure the lowest possible therapeutic dose of each drug."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Hydralazine Hydrochloride Tablets USP are available as: 10 mg Orange, round tablets debossed with SG on one side and 182 on other side. Available in Bottles of 100 (NDC 77771-182-01) and 1000 (NDC 77771-182-10). 25 mg Orange, round tablets debossed with SG on one side and 183 on other side. Available in Bottles of 100 (NDC 77771-183-01) and 1000 (NDC 77771-183-10). 50 mg Orange, round tablets debossed with SG on one side and 184 on other side. Available in Bottles of 100 (NDC 77771-184-01) and 1000 (NDC 77771-184-10). 100 mg Orange, round tablets debossed with SG on one side and 185 on other side. Available in Bottles of 100 (NDC 77771-185-01). Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required). Store at 20° to 25° C (68° to 77° F); excursions permitted to 15° to 30° C (59° to 86° F). [See USP Controlled Room Temperature]. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. Manufactured by: ScieGen Pharnaceuticals, Inc. Hauppauge, NY 11788 USA Distributed by: Radha Pharmaceuticals, Inc. Hauppauge, NY 11788 USA Rev: 2/2021"
+      ],
+      "how_supplied_table": [
+        "<table width=\"50%\"><col width=\"50%\"/><tbody><tr styleCode=\"Botrule First Lrule Rrule Toprule\"><td styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">10 mg </content> Orange, round tablets debossed with SG on one side and 182 on other side. Available in Bottles of 100 (NDC 77771-182-01) and 1000 (NDC 77771-182-10). </paragraph></td></tr><tr styleCode=\"Botrule Lrule Rrule Toprule\"><td styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">25 mg</content> Orange, round tablets debossed with SG on one side and 183 on other side. Available in Bottles of 100 (NDC 77771-183-01) and 1000 (NDC 77771-183-10). </paragraph></td></tr><tr styleCode=\"Botrule Lrule Rrule Toprule\"><td styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">50 mg </content> Orange, round tablets debossed with SG on one side and 184 on other side. Available in Bottles of 100 (NDC 77771-184-01) and 1000 (NDC 77771-184-10). </paragraph></td></tr><tr styleCode=\"Botrule Last\"><td styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">100 mg </content> Orange, round tablets debossed with SG on one side and 185 on other side. Available in Bottles of 100 (NDC 77771-185-01). </paragraph></td></tr></tbody></table>"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL-PRINCIPAL DISPLAY PANEL NDC 77771- 182 -01 HydrALAZINE Hydrochloride Tablets , USP 10 mg 100 Tablets Rx Only Radha Pharmaceuticals Inc. NDC 77771- 182 -10 HydrALAZINE Hydrochloride Tablets , USP 10 mg 1 ,000 Tablets Rx Only Radha Pharmaceuticals Inc. NDC 77771- 183 -01 HydrALAZINE Hydrochloride Tablets , USP 25 mg 100 Tablets Rx Only Radha Pharmaceuticals Inc. NDC 77771- 183 -10 HydrALAZINE Hydrochloride Tablets , USP 25 mg 1 ,000 Tablets Rx Only Radha Pharmaceuticals Inc. NDC 77771- 184 -01 HydrALAZINE Hydrochloride Tablets , USP 50 mg 100 Tablets Rx Only Radha Pharmaceuticals Inc. NDC 77771- 184 -10 HydrALAZINE Hydrochloride Tablets , USP 50 mg 1 ,000 Tablets Rx Only Radha Pharmaceuticals Inc. NDC 77771- 185 -01 HydrALAZINE Hydrochloride Tablets , USP 100 mg 100 Tablets Rx Only Radha Pharmaceuticals Inc. hht-tabs-10-mg-100s-count hht-tabs-10-mg-1000s-count hht-tabs-25-mg-100s-count hht-tabs-25-mg-1000s-count hht-tabs-50-mg-100s-count hht-tabs-50-mg-1000s-count hht-tabs-100-mg-100s-count"
+      ],
+      "set_id": "149fa857-30ad-451d-b6e2-0000483ccc97",
+      "id": "bd5f421e-db2b-6f83-e053-2a95a90ab05e",
+      "effective_time": "20210312",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "ANDA205236"
+        ],
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+        ],
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Radha Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "77771-183",
+          "77771-182",
+          "77771-184",
+          "77771-185"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "905199",
+          "905222",
+          "905225",
+          "905395"
+        ],
+        "spl_id": [
+          "bd5f421e-db2b-6f83-e053-2a95a90ab05e"
+        ],
+        "spl_set_id": [
+          "149fa857-30ad-451d-b6e2-0000483ccc97"
+        ],
+        "package_ndc": [
+          "77771-182-01",
+          "77771-182-10",
+          "77771-183-01",
+          "77771-183-10",
+          "77771-184-01",
+          "77771-184-10",
+          "77771-185-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0377771182014",
+          "0377771182106",
+          "0377771183011",
+          "0377771185015",
+          "0377771183103",
+          "0377771184018",
+          "0377771184100"
+        ],
+        "unii": [
+          "FD171B778Y"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "HYDRALAZINE HYDROCHLORIDE HYDRALAZINE HYDROCHLORIDE SODIUM HYDROXIDE PROPYLPARABEN HYDRALAZINE HYDROCHLORIDE HYDRALAZINE METHYLPARABEN HYDROCHLORIC ACID WATER PROPYLENE GLYCOL"
+      ],
+      "spl_unclassified_section": [
+        "Rx Only"
+      ],
+      "description": [
+        "HydrALAZINE Hydrochloride Injection, USP is an antihypertensive available in a 1 mL vial for intravenous and intramuscular administration. Each milliliter of the sterile, nonpyrogenic colorless solution contains Hydralazine Hydrochloride, 20 mg, Methylparaben, 0.65 mg, Propylparaben, 0.35 mg, Propylene Glycol, 103.6 mg, and Water for Injection q.s. The pH of the solution is 3.4 to 4.4. pH may be adjusted with Hydrochloric Acid and/or Sodium Hydroxide. Hydralazine Hydrochloride is 1-Hydrazinophthalazine monohydrochloride, and its structural formula is: Molecular Formula C8H8N4HCl Hydralazine Hydrochloride USP is a white to off-white, odorless crystalline powder. It is soluble in water, slightly soluble in alcohol, and very slightly soluble in ether. It melts at about 275°C, with decomposition, and has a molecular weight of 196.64. Structure"
+      ],
+      "clinical_pharmacology": [
+        "Although the precise mechanism of action of hydralazine is not fully understood, the major effects are on the cardiovascular system. Hydralazine apparently lowers blood pressure by exerting a peripheral vasodilating effect through a direct relaxation of vascular smooth muscle. Hydralazine, by altering cellular calcium metabolism, interferes with the calcium movements within the vascular smooth muscle that are responsible for initiating or maintaining the contractile state. The peripheral vasodilating effect of hydralazine results in decreased arterial blood pressure (diastolic more than systolic); decreased peripheral vascular resistance; and an increased heart rate, stroke volume, and cardiac output. The preferential dilatation of arterioles, as compared to veins, minimizes postural hypotension and promotes the increase in cardiac output. Hydralazine usually increases renin activity in plasma, presumably as a result of increased secretion of renin by the renal juxtaglomerular cells in response to reflex sympathetic discharge. This increase in renin activity leads to the production of angiotensin II, which then causes stimulation of aldosterone and consequent sodium reabsorption. Hydralazine also maintains or increases renal and cerebral blood flow. The average maximal decrease in blood pressure usually occurs 10 to 80 minutes after administration of hydralazine hydrochloride injection. No other pharmacokinetic data on hydralazine hydrochloride injection are available."
+      ],
+      "indications_and_usage": [
+        "Severe essential hypertension when the drug cannot be given orally or when there is an urgent need to lower blood pressure."
+      ],
+      "contraindications": [
+        "Hypersensitivity to hydralazine; coronary artery disease; mitral valvular rheumatic heart disease."
+      ],
+      "warnings": [
+        "In a few patients hydralazine may produce a clinical picture simulating systemic lupus erythematosus including glomerulonephritis. In such patients hydralazine should be discontinued unless the benefit-to-risk determination requires continued antihypertensive therapy with this drug. Symptoms and signs usually regress when the drug is discontinued but residua have been detected many years later. Long-term treatment with steroids may be necessary. (See Precautions ,)"
+      ],
+      "precautions": [
+        "General Myocardial stimulation produced by hydralazine can cause anginal attacks and ECG changes of myocardial ischemia. The drug has been implicated in the production of myocardial infarction. It must, therefore, be used with caution in patients with suspected coronary artery disease. The “hyperdynamic” circulation caused by hydralazine may accentuate specific cardiovascular inadequacies. For example, hydralazine may increase pulmonary artery pressure in patients with mitral valvular disease. The drug may reduce the pressor responses to epinephrine. Postural hypotension may result from hydralazine but is less common than with ganglionic blocking agents. It should be used with caution in patients with cerebral vascular accidents. In hypertensive patients with normal kidneys who are treated with hydralazine, there is evidence of increased renal blood flow and a maintenance of glomerular filtration rate. In some instances where control values were below normal, improved renal function has been noted after administration of hydralazine. However, as with any antihypertensive agent, hydralazine should be used with caution in patients with advanced renal damage. Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed. Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop. Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine hydrochloride. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine injection are used concomitantly. Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Teratogenic Effects Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers Hydralazine has been shown to be excreted in breast milk. Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine hydrochloride in children. The usual recommended parenteral dosage, administered intramuscularly or intravenously, is 1.7 to 3.5 mg/kg of body weight daily, divided into four to six doses."
+      ],
+      "adverse_reactions": [
+        "Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other:nasal congestion, flushing, lacrimation, conjunctivitis."
+      ],
+      "overdosage": [
+        "Acute Toxicity: No deaths due to acute poisoning have been reported. Highest known dose survived: adults, 10 g orally. Oral LD50 in rats: 173 and 187 mg/kg. Signs and Symptoms: Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing. Complications can include myocardial ischemia and subsequent myocardial infarction, cardiac arrhythmia, and profound shock. Treatment: There is no specific antidote. Support of the cardiovascular system is of primary importance. Shock should be treated with plasma expanders. If possible, vasopressors should not be given, but if a vasopressor is required, care should be taken not to precipitate or aggravate cardiac arrhythmia. Tachycardia responds to beta blockers. Digitalization may be necessary, and renal function should be monitored and supported as required. No experience has been reported with extracorporeal or peritoneal dialysis."
+      ],
+      "dosage_and_administration": [
+        "When there is urgent need, therapy in the hospitalized patient may be initiated intramuscularly or as a rapid intravenous bolus injection directly into the vein. Hydralazine hydrochloride injection should be used only when the drug cannot be given orally. The usual dose is 20 to 40 mg, repeated as necessary. Certain patients (especially those with marked renal damage) may require a lower dose. Blood pressure should be checked frequently. It may begin to fall within a few minutes after injection, with the average maximal decrease occurring in 10 to 80 minutes. In cases where there has been increased intracranial pressure, lowering the blood pressure may increase cerebral ischemia. Most patients can be transferred to oral hydralazine hydrochloride within 24 to 48 hours. The product should be used immediately after the vial is opened. It should not be added to infusion solutions. Hydralazine hydrochloride injection may discolor upon contact with metal; discolored solutions should be discarded. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit."
+      ],
+      "how_supplied": [
+        "HydrALAZINE Hydrochloride Injection, USP (20 mg/mL) NDC 51662-1648-2 1 mL Single Dose Vial/pouch NDC 51662-1648-3 Packaged in boxes of 25 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) (See USP Controlled Room Temperature). Distributed by: HF Acquisition Co LLC, DBA HealthFirst"
+      ],
+      "package_label_principal_display_panel": [
+        "NDC 51662-1648-2 Pouch Pouch label",
+        "NDC 51662-1648-3 Case Case Label RFID Label"
+      ],
+      "set_id": "15b0f03b-b5a2-c49d-e063-6394a90a5b15",
+      "id": "15b1adc3-9cb5-cf06-e063-6294a90a1da7",
+      "effective_time": "20240409",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "ANDA040136"
+        ],
+        "brand_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "HF Acquisition Co LLC, DBA HealthFirst"
+        ],
+        "product_ndc": [
+          "51662-1648"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAMUSCULAR",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "966571"
+        ],
+        "spl_id": [
+          "15b1adc3-9cb5-cf06-e063-6294a90a1da7"
+        ],
+        "spl_set_id": [
+          "15b0f03b-b5a2-c49d-e063-6394a90a5b15"
+        ],
+        "package_ndc": [
+          "51662-1648-2",
+          "51662-1648-3"
+        ],
+        "original_packager_product_ndc": [
+          "0517-0901"
+        ],
+        "unii": [
+          "FD171B778Y"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydralazine Hydrochloride Hydralazine Hydrochloride ANHYDROUS LACTOSE FD&C YELLOW NO. 6 MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID HYDRALAZINE HYDROCHLORIDE HYDRALAZINE SG;185 Chem structure"
+      ],
+      "description": [
+        "DESCRIPTION Hydralazine Hydrochloride tablets USP, is an antihypertensive, for oral administration. Its chemical name is 1-hydrazinophthalazine monohydrochloride, and its structural formula is: C 8 H 8 N 4 .HCl M.W. 196.64 Hydralazine Hydrochloride USP is a white to off-white, odorless crystalline powder. It is soluble in water, slightly soluble in alcohol. It melts at about 275°C, with decomposition. Each tablet for oral administration contains 10 mg, 25 mg, 50 mg or 100 mg hydralazine hydrochloride, USP. Tablets also contain anhydrous lactose, FD&C yellow no. 6 aluminum lake, microcrystalline cellulose, sodium starch glycolate, and stearic acid."
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Although the precise mechanism of action of hydralazine is not fully understood, the major effects are on the cardiovascular system. Hydralazine apparently lowers blood pressure by exerting a peripheral vasodilating effect through a direct relaxation of vascular smooth muscle. Hydralazine, by altering cellular calcium metabolism, interferes with the calcium movements within the vascular smooth muscle that are responsible for initiating or maintaining the contractile state. The peripheral vasodilating effect of hydralazine results in decreased arterial blood pressure (diastolic more than systolic); decreased peripheral vascular resistance; and an increased heart rate, stroke volume, and cardiac output. The preferential dilatation of arterioles, as compared to veins, minimizes postural hypotension and promotes the increase in cardiac output. Hydralazine usually increases renin activity in plasma, presumably as a result of increased secretion of renin by the renal juxtaglomerular cells in response to reflex sympathetic discharge. This increase in renin activity leads to the production of angiotensin II, which then causes stimulation of aldosterone and consequent sodium reabsorption. Hydralazine also maintains or increases renal and cerebral blood flow. Hydralazine is rapidly absorbed after oral administration, and peak plasma levels are reached at 1 to 2 hours. Plasma levels of apparent hydralazine decline with a half-life of 3 to 7 hours. Binding to human plasma protein is 87%. Plasma levels of hydralazine vary widely among individuals. Hydralazine is subject to polymorphic acetylation; slow acetylators generally have higher plasma levels of hydralazine and require lower doses to maintain control of blood pressure. Hydralazine undergoes extensive hepatic metabolism; it is excreted mainly in the form of metabolites in the urine."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hypersensitivity to hydralazine; coronary artery disease; mitral valvular rheumatic heart disease."
+      ],
+      "warnings": [
+        "WARNINGS In a few patients hydralazine may produce a clinical picture simulating systemic lupus erythematosus including glomerulonephritis. In such patients hydralazine should be discontinued unless the benefit-to-risk determination requires continued antihypertensive therapy with this drug. Symptoms and signs usually regress when the drug is discontinued but residua have been detected many years later. Long-term treatment with steroids may be necessary. (See PRECAUTIONS , Laboratory Tests .)"
+      ],
+      "precautions": [
+        "PRECAUTIONS General Myocardial stimulation produced by hydralazine can cause anginal attacks and ECG changes of myocardial ischemia. The drug has been implicated in the production of myocardial infarction. It must, therefore, be used with caution in patients with suspected coronary artery disease. The “hyperdynamic” circulation caused by hydralazine may accentuate specific cardiovascular inadequacies. For example, hydralazine may increase pulmonary artery pressure in patients with mitral valvular disease. The drug may reduce the pressor responses to epinephrine. Postural hypotension may result from hydralazine but is less common than with ganglionic blocking agents. It should be used with caution in patients with cerebral vascular accidents. In hypertensive patients with normal kidneys who are treated with hydralazine, there is evidence of increased renal blood flow and a maintenance of glomerular filtration rate. In some instances where control values were below normal, improved renal function has been noted after administration of hydralazine. However, as with any antihypertensive agent, hydralazine should be used with caution in patients with advanced renal damage. Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed. Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop. Information for Patients Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed. Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions Administration of hydralazine with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers Hydralazine has been shown to be excreted in breast milk. Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      ],
+      "information_for_patients": [
+        "Information for Patients Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed."
+      ],
+      "laboratory_tests": [
+        "Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions Administration of hydralazine with food results in higher plasma levels."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+      ],
+      "teratogenic_effects": [
+        "Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Hydralazine has been shown to be excreted in breast milk."
+      ],
+      "pediatric_use": [
+        "Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling, dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura, lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Acute Toxicity No deaths due to acute poisoning have been reported. Highest known dose survived: adults, 10 g orally. Oral LD 50 in rats: 173 and 187 mg/kg. Signs and Symptoms Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing. Complications can include myocardial ischemia and subsequent myocardial infarction, cardiac arrhythmia, and profound shock. Treatment There is no specific antidote. The gastric contents should be evacuated, taking adequate precautions against aspiration and for protection of the airway. An activated charcoal slurry may be instilled if conditions permit. These manipulations may have to be omitted or carried out after cardiovascular status has been stabilized, since they might precipitate cardiac arrhythmias or increase the depth of shock. Support of the cardiovascular system is of primary importance. Shock should be treated with plasma expanders. If possible, vasopressors should not be given, but if a vasopressor is required, care should be taken not to precipitate or aggravate cardiac arrhythmia. Tachycardia responds to beta blockers. Digitalization may be necessary, and renal function should be monitored and supported as required. No experience has been reported with extracorporeal or peritoneal dialysis."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Initiate therapy in gradually increasing dosages; adjust according to individual response. Start with 10 mg four times daily for the first 2 to 4 days, increase to 25 mg four times daily for the balance of the first week. For the second and subsequent weeks, increase dosage to 50 mg four times daily. For maintenance, adjust dosage to the lowest effective levels. The incidence of toxic reactions, particularly the L.E. cell syndrome, is high in the group of patients receiving large doses of hydralazine hydrochloride tablets. In a few resistant patients, up to 300 mg of hydralazine hydrochloride tablets daily may be required for a significant antihypertensive effect. In such cases, a lower dosage of hydralazine hydrochloride tablets combined with a thiazide and/or reserpine or a beta blocker may be considered. However, when combining therapy, individual titration is essential to ensure the lowest possible therapeutic dose of each drug."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Hydralazine Hydrochloride Tablets USP are available as: 100 mg Orange, round tablets debossed with SG on one side and 185 on other side. Available in Bottles of 100 (NDC: 63629-8495-1) Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required). Store at 20° to 25° C (68° to 77° F); excursions permitted to 15° to 30° C (59° to 86° F). [See USP Controlled Room Temperature]. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. Repackaged/Relabeled by: Bryant Ranch Prepack, Inc. Burbank, CA 91504"
+      ],
+      "how_supplied_table": [
+        "<table width=\"25%\" border=\"1\"><tbody><tr styleCode=\"First Last\"><td><content styleCode=\"bold\">100 mg </content>Orange, round tablets debossed with SG on one side and 185 on other side. Available in Bottles of 100 (NDC: 63629-8495-1)</td></tr></tbody></table>"
+      ],
+      "package_label_principal_display_panel": [
+        "Hydralazine Hydrochloride 100 mg Tab, #100 Label"
+      ],
+      "set_id": "162a0c00-4db8-4f8d-9686-be2f8449abd8",
+      "id": "f3870673-f5e1-4cde-90c9-62b80f6a5050",
+      "effective_time": "20240111",
+      "version": "102",
+      "openfda": {
+        "application_number": [
+          "ANDA205236"
+        ],
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+        ],
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "product_ndc": [
+          "63629-8495"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "905222"
+        ],
+        "spl_id": [
+          "f3870673-f5e1-4cde-90c9-62b80f6a5050"
+        ],
+        "spl_set_id": [
+          "162a0c00-4db8-4f8d-9686-be2f8449abd8"
+        ],
+        "package_ndc": [
+          "63629-8495-1"
+        ],
+        "original_packager_product_ndc": [
+          "50228-185"
+        ],
+        "unii": [
+          "FD171B778Y"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydralazine Hydrochloride Hydralazine Hydrochloride HYDRALAZINE HYDROCHLORIDE HYDRALAZINE PROPYLENE GLYCOL METHYLPARABEN PROPYLPARABEN HYDROCHLORIC ACID SODIUM HYDROXIDE WATER"
+      ],
+      "spl_unclassified_section": [
+        "Rx Only"
+      ],
+      "description": [
+        "DESCRIPTION HydrALAZINE Hydrochloride Injection, USP is an antihypertensive available in a 1 mL vial for intravenous and intramuscular administration. Each milliliter of the sterile, nonpyrogenic colorless solution contains Hydralazine Hydrochloride, 20 mg, Methylparaben, 0.65 mg, Propylparaben, 0.35 mg, Propylene Glycol, 103.6 mg, and Water for Injection q.s. The pH of the solution is 3.4 to 4.4. pH may be adjusted with Hydrochloric Acid and/or Sodium Hydroxide. Hydralazine Hydrochloride is 1-Hydrazinophthalazine monohydrochloride, and its structural formula is: Molecular Formula C 8 H 8 N 4 HCl Hydralazine Hydrochloride USP is a white to off-white, odorless crystalline powder. It is soluble in water, slightly soluble in alcohol, and very slightly soluble in ether. It melts at about 275°C, with decomposition, and has a molecular weight of 196.64. Adobe Systems"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Although the precise mechanism of action of hydralazine is not fully understood, the major effects are on the cardiovascular system. Hydralazine apparently lowers blood pressure by exerting a peripheral vasodilating effect through a direct relaxation of vascular smooth muscle. Hydralazine, by altering cellular calcium metabolism, interferes with the calcium movements within the vascular smooth muscle that are responsible for initiating or maintaining the contractile state. The peripheral vasodilating effect of hydralazine results in decreased arterial blood pressure (diastolic more than systolic); decreased peripheral vascular resistance; and an increased heart rate, stroke volume, and cardiac output. The preferential dilatation of arterioles, as compared to veins, minimizes postural hypotension and promotes the increase in cardiac output. Hydralazine usually increases renin activity in plasma, presumably as a result of increased secretion of renin by the renal juxtaglomerular cells in response to reflex sympathetic discharge. This increase in renin activity leads to the production of angiotensin II, which then causes stimulation of aldosterone and consequent sodium reabsorption. Hydralazine also maintains or increases renal and cerebral blood flow. The average maximal decrease in blood pressure usually occurs 10 to 80 minutes after administration of hydralazine hydrochloride injection. No other pharmacokinetic data on hydralazine hydrochloride injection are available."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Severe essential hypertension when the drug cannot be given orally or when there is an urgent need to lower blood pressure."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hypersensitivity to hydralazine; coronary artery disease; mitral valvular rheumatic heart disease."
+      ],
+      "warnings": [
+        "WARNINGS In a few patients hydralazine may produce a clinical picture simulating systemic lupus erythematosus including glomerulonephritis. In such patients hydralazine should be discontinued unless the benefit-to-risk determination requires continued antihypertensive therapy with this drug. Symptoms and signs usually regress when the drug is discontinued but residua have been detected many years later. Long-term treatment with steroids may be necessary. (See PRECAUTIONS, Laboratory Tests . )"
+      ],
+      "precautions": [
+        "PRECAUTIONS General Myocardial stimulation produced by hydralazine can cause anginal attacks and ECG changes of myocardial ischemia. The drug has been implicated in the production of myocardial infarction. It must, therefore, be used with caution in patients with suspected coronary artery disease. The “hyperdynamic” circulation caused by hydralazine may accentuate specific cardiovascular inadequacies. For example, hydralazine may increase pulmonary artery pressure in patients with mitral valvular disease. The drug may reduce the pressor responses to epinephrine. Postural hypotension may result from hydralazine but is less common than with ganglionic blocking agents. It should be used with caution in patients with cerebral vascular accidents. In hypertensive patients with normal kidneys who are treated with hydralazine, there is evidence of increased renal blood flow and a maintenance of glomerular filtration rate. In some instances where control values were below normal, improved renal function has been noted after administration of hydralazine. However, as with any antihypertensive agent, hydralazine should be used with caution in patients with advanced renal damage. Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed. Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop. Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine hydrochloride. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine injection are used concomitantly. Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Teratogenic Effects Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers Hydralazine has been shown to be excreted in breast milk. Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine hydrochloride in children. The usual recommended parenteral dosage, administered intramuscularly or intravenously, is 1.7 to 3.5 mg/kg of body weight daily, divided into four to six doses."
+      ],
+      "general_precautions": [
+        "General Myocardial stimulation produced by hydralazine can cause anginal attacks and ECG changes of myocardial ischemia. The drug has been implicated in the production of myocardial infarction. It must, therefore, be used with caution in patients with suspected coronary artery disease. The “hyperdynamic” circulation caused by hydralazine may accentuate specific cardiovascular inadequacies. For example, hydralazine may increase pulmonary artery pressure in patients with mitral valvular disease. The drug may reduce the pressor responses to epinephrine. Postural hypotension may result from hydralazine but is less common than with ganglionic blocking agents. It should be used with caution in patients with cerebral vascular accidents. In hypertensive patients with normal kidneys who are treated with hydralazine, there is evidence of increased renal blood flow and a maintenance of glomerular filtration rate. In some instances where control values were below normal, improved renal function has been noted after administration of hydralazine. However, as with any antihypertensive agent, hydralazine should be used with caution in patients with advanced renal damage. Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed. Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop."
+      ],
+      "laboratory_tests": [
+        "Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine hydrochloride. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued."
+      ],
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine injection are used concomitantly."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+      ],
+      "teratogenic_effects": [
+        "Teratogenic Effects Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Hydralazine has been shown to be excreted in breast milk."
+      ],
+      "pediatric_use": [
+        "Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine hydrochloride in children. The usual recommended parenteral dosage, administered intramuscularly or intravenously, is 1.7 to 3.5 mg/kg of body weight daily, divided into four to six doses."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Acute Toxicity: No deaths due to acute poisoning have been reported. Highest known dose survived: adults, 10 g orally. Oral LD 50 in rats: 173 and 187 mg/kg. Signs and Symptoms: Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing. Complications can include myocardial ischemia and subsequent myocardial infarction, cardiac arrhythmia, and profound shock. Treatment: There is no specific antidote. Support of the cardiovascular system is of primary importance. Shock should be treated with plasma expanders. If possible, vasopressors should not be given, but if a vasopressor is required, care should be taken not to precipitate or aggravate cardiac arrhythmia. Tachycardia responds to beta blockers. Digitalization may be necessary, and renal function should be monitored and supported as required. No experience has been reported with extracorporeal or peritoneal dialysis."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION When there is urgent need, therapy in the hospitalized patient may be initiated intramuscularly or as a rapid intravenous bolus injection directly into the vein. Hydralazine hydrochloride injection should be used only when the drug cannot be given orally. The usual dose is 20 to 40 mg, repeated as necessary. Certain patients (especially those with marked renal damage) may require a lower dose. Blood pressure should be checked frequently. It may begin to fall within a few minutes after injection, with the average maximal decrease occurring in 10 to 80 minutes. In cases where there has been increased intracranial pressure, lowering the blood pressure may increase cerebral ischemia. Most patients can be transferred to oral hydralazine hydrochloride within 24 to 48 hours. The product should be used immediately after the vial is opened. It should not be added to infusion solutions. Hydralazine hydrochloride injection may discolor upon contact with metal; discolored solutions should be discarded. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED HydrALAZINE Hydrochloride Injection, USP (20 mg/mL) NDC 0517-0901-25 1 mL Single Dose Vial Packaged in boxes of 25 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) (See USP Controlled Room Temperature). AMERICAN REGENT, INC. SHIRLEY, NY 11967 IN0901 Rev. 10/18 MG # 11928"
+      ],
+      "package_label_principal_display_panel": [
+        "PRINICIPAL DISPLAY PANEL - Container NDC 0517-0901-01 Hydralazine Hydrochloride Injection, USP 20 mg/mL 1 mL SINGLE DOSE VIAL FOR IM OR IV USE Rx Only AMERICAN REGENT, INC. SHIRLEY, NY 11967 Container Label",
+        "PRINCIPAL DISPLAY PANEL - Carton HydrALAZINE Hydrochloride Injection,USP 20 mg/mL NDC 0517-0901-25 25 X 1 mL SINGLE DOSE VIALS FOR INTRAMUSCULAR OR INTRAVENOUS USE Rx Only Each mL contains: Hydralazine Hydrochloride 20 mg, Propylene Glycol 103.6 mg, Methylparaben 0.65 mg, Propylparaben 0.35 mg, and Water for Injection q.s. pH of the solution is 3.4 - 4.4. pH may be adjusted with Hydrochloric Acid and/or Sodium Hydroxide. Sterile, nonpyrogenic. For emergency use only in patients unable to take oral medication. WARNING: DISCARD UNUSED PORTION. Store at 20°-25°C (68°-77°F) (See USP Controlled Room Temperature). Directions for Use: See Package Insert. AMERICAN REGENT, INC. SHIRLEY, NY 11967 Rev. 10/18 Carton Labeling",
+        "Serialization Label Serialization Label"
+      ],
+      "set_id": "17210abc-58f6-442e-8ff2-7971333c82f6",
+      "id": "5aca9ccd-3ac3-48b6-9372-34ee0eb4b7f9",
+      "effective_time": "20190506",
+      "version": "8",
+      "openfda": {
+        "application_number": [
+          "ANDA040136"
+        ],
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+        ],
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "American Regent, Inc."
+        ],
+        "product_ndc": [
+          "0517-0901"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAMUSCULAR",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "966571"
+        ],
+        "spl_id": [
+          "5aca9ccd-3ac3-48b6-9372-34ee0eb4b7f9"
+        ],
+        "spl_set_id": [
+          "17210abc-58f6-442e-8ff2-7971333c82f6"
+        ],
+        "package_ndc": [
+          "0517-0901-25"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0305170901257"
+        ],
+        "unii": [
+          "FD171B778Y"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Hydralazine Hydrochloride Hydralazine Hydrochloride ANHYDROUS LACTOSE FD&C YELLOW NO. 6 MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID HYDRALAZINE HYDROCHLORIDE HYDRALAZINE SG;184 Chem structure"
+      ],
+      "description": [
+        "DESCRIPTION Hydralazine Hydrochloride tablets USP, is an antihypertensive, for oral administration. Its chemical name is 1-hydrazinophthalazine monohydrochloride, and its structural formula is: C 8 H 8 N 4 .HCl M.W. 196.64 Hydralazine Hydrochloride USP is a white to off-white, odorless crystalline powder. It is soluble in water, slightly soluble in alcohol. It melts at about 275°C, with decomposition. Each tablet for oral administration contains 10 mg, 25 mg, 50 mg or 100 mg hydralazine hydrochloride, USP. Tablets also contain anhydrous lactose, FD&C yellow no. 6 aluminum lake, microcrystalline cellulose, sodium starch glycolate, and stearic acid."
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Although the precise mechanism of action of hydralazine is not fully understood, the major effects are on the cardiovascular system. Hydralazine apparently lowers blood pressure by exerting a peripheral vasodilating effect through a direct relaxation of vascular smooth muscle. Hydralazine, by altering cellular calcium metabolism, interferes with the calcium movements within the vascular smooth muscle that are responsible for initiating or maintaining the contractile state. The peripheral vasodilating effect of hydralazine results in decreased arterial blood pressure (diastolic more than systolic); decreased peripheral vascular resistance; and an increased heart rate, stroke volume, and cardiac output. The preferential dilatation of arterioles, as compared to veins, minimizes postural hypotension and promotes the increase in cardiac output. Hydralazine usually increases renin activity in plasma, presumably as a result of increased secretion of renin by the renal juxtaglomerular cells in response to reflex sympathetic discharge. This increase in renin activity leads to the production of angiotensin II, which then causes stimulation of aldosterone and consequent sodium reabsorption. Hydralazine also maintains or increases renal and cerebral blood flow. Hydralazine is rapidly absorbed after oral administration, and peak plasma levels are reached at 1 to 2 hours. Plasma levels of apparent hydralazine decline with a half-life of 3 to 7 hours. Binding to human plasma protein is 87%. Plasma levels of hydralazine vary widely among individuals. Hydralazine is subject to polymorphic acetylation; slow acetylators generally have higher plasma levels of hydralazine and require lower doses to maintain control of blood pressure. Hydralazine undergoes extensive hepatic metabolism; it is excreted mainly in the form of metabolites in the urine."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Hypersensitivity to hydralazine; coronary artery disease; mitral valvular rheumatic heart disease."
+      ],
+      "warnings": [
+        "WARNINGS In a few patients hydralazine may produce a clinical picture simulating systemic lupus erythematosus including glomerulonephritis. In such patients hydralazine should be discontinued unless the benefit-to-risk determination requires continued antihypertensive therapy with this drug. Symptoms and signs usually regress when the drug is discontinued but residua have been detected many years later. Long-term treatment with steroids may be necessary. (See PRECAUTIONS , Laboratory Tests .)"
+      ],
+      "precautions": [
+        "PRECAUTIONS General Myocardial stimulation produced by hydralazine can cause anginal attacks and ECG changes of myocardial ischemia. The drug has been implicated in the production of myocardial infarction. It must, therefore, be used with caution in patients with suspected coronary artery disease. The “hyperdynamic” circulation caused by hydralazine may accentuate specific cardiovascular inadequacies. For example, hydralazine may increase pulmonary artery pressure in patients with mitral valvular disease. The drug may reduce the pressor responses to epinephrine. Postural hypotension may result from hydralazine but is less common than with ganglionic blocking agents. It should be used with caution in patients with cerebral vascular accidents. In hypertensive patients with normal kidneys who are treated with hydralazine, there is evidence of increased renal blood flow and a maintenance of glomerular filtration rate. In some instances where control values were below normal, improved renal function has been noted after administration of hydralazine. However, as with any antihypertensive agent, hydralazine should be used with caution in patients with advanced renal damage. Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed. Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop. Information for Patients Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed. Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions Administration of hydralazine with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers Hydralazine has been shown to be excreted in breast milk. Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      ],
+      "information_for_patients": [
+        "Information for Patients Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed."
+      ],
+      "laboratory_tests": [
+        "Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions Administration of hydralazine with food results in higher plasma levels."
+      ],
+      "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+        "Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions."
+      ],
+      "pregnancy": [
+        "Pregnancy Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+      ],
+      "teratogenic_effects": [
+        "Teratogenic Effects Pregnancy Category C Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+      ],
+      "nursing_mothers": [
+        "Nursing Mothers Hydralazine has been shown to be excreted in breast milk."
+      ],
+      "pediatric_use": [
+        "Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling, dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura, lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+      ],
+      "overdosage": [
+        "OVERDOSAGE Acute Toxicity No deaths due to acute poisoning have been reported. Highest known dose survived: adults, 10 g orally. Oral LD 50 in rats: 173 and 187 mg/kg. Signs and Symptoms Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing. Complications can include myocardial ischemia and subsequent myocardial infarction, cardiac arrhythmia, and profound shock. Treatment There is no specific antidote. The gastric contents should be evacuated, taking adequate precautions against aspiration and for protection of the airway. An activated charcoal slurry may be instilled if conditions permit. These manipulations may have to be omitted or carried out after cardiovascular status has been stabilized, since they might precipitate cardiac arrhythmias or increase the depth of shock. Support of the cardiovascular system is of primary importance. Shock should be treated with plasma expanders. If possible, vasopressors should not be given, but if a vasopressor is required, care should be taken not to precipitate or aggravate cardiac arrhythmia. Tachycardia responds to beta blockers. Digitalization may be necessary, and renal function should be monitored and supported as required. No experience has been reported with extracorporeal or peritoneal dialysis."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Initiate therapy in gradually increasing dosages; adjust according to individual response. Start with 10 mg four times daily for the first 2 to 4 days, increase to 25 mg four times daily for the balance of the first week. For the second and subsequent weeks, increase dosage to 50 mg four times daily. For maintenance, adjust dosage to the lowest effective levels. The incidence of toxic reactions, particularly the L.E. cell syndrome, is high in the group of patients receiving large doses of hydralazine hydrochloride tablets. In a few resistant patients, up to 300 mg of hydralazine hydrochloride tablets daily may be required for a significant antihypertensive effect. In such cases, a lower dosage of hydralazine hydrochloride tablets combined with a thiazide and/or reserpine or a beta blocker may be considered. However, when combining therapy, individual titration is essential to ensure the lowest possible therapeutic dose of each drug."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Hydralazine Hydrochloride Tablets USP are available as: 50 mg Orange, round tablets debossed with SG on one side and 184 on other side. Available in Bottles of 1000 (NDC: 63629-8497-1) Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required). Store at 20° to 25° C (68° to 77° F); excursions permitted to 15° to 30° C (59° to 86° F). [See USP Controlled Room Temperature]. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. Repackaged/Relabeled by: Bryant Ranch Prepack, Inc. Burbank, CA 91504"
+      ],
+      "how_supplied_table": [
+        "<table width=\"50%\" border=\"1\"><tbody><tr styleCode=\"First Last\"><td><content styleCode=\"bold\">50 mg</content> Orange, round tablets debossed with SG on one side and 184 on other side. Available in Bottles of 1000 (NDC: 63629-8497-1)</td></tr></tbody></table>"
+      ],
+      "package_label_principal_display_panel": [
+        "Hydralazine Hydrochloride 50 mg Tab, #1000 Label"
+      ],
+      "set_id": "18dd864f-1e27-4c98-8f21-eaded77a3ed6",
+      "id": "0a3f1261-d3e3-4f67-9a28-01edbf99635e",
+      "effective_time": "20240111",
+      "version": "102",
+      "openfda": {
+        "application_number": [
+          "ANDA205236"
+        ],
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+        ],
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Bryant Ranch Prepack"
+        ],
+        "product_ndc": [
+          "63629-8497"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "905395"
+        ],
+        "spl_id": [
+          "0a3f1261-d3e3-4f67-9a28-01edbf99635e"
+        ],
+        "spl_set_id": [
+          "18dd864f-1e27-4c98-8f21-eaded77a3ed6"
+        ],
+        "package_ndc": [
+          "63629-8497-1"
+        ],
+        "original_packager_product_ndc": [
+          "50228-184"
+        ],
+        "unii": [
+          "FD171B778Y"
+        ]
+      }
+    }
+  ]
+}

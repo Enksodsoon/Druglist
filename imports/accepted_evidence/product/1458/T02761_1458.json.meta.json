@@ -1,0 +1,14 @@
+{
+  "source_id": "1458",
+  "task_id": "T02761",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Terbutaline%20sulfate%20%2BGlyceryl%20guaiacolate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1458/T02761_1458.json",
+  "sha256": "bddd9d4a499b038359fe471754de5eb9690f0987ea0fea96c00909fcd0e97923",
+  "downloaded_at": "2026-05-16T03:40:14.014999+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:273:1458",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

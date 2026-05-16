@@ -1,0 +1,14 @@
+{
+  "source_id": "44901",
+  "task_id": "T02009",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Metronidazole",
+  "local_path": "imports/accepted_evidence/product/44901/T02009_44901.cfm",
+  "sha256": "fad992513d26aeae7e91175c06eac8a0184bebdf5587912e5cee8101800dd08c",
+  "downloaded_at": "2026-05-16T03:38:21.998613+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:167:44901|Product_Label_Links:168:7193",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

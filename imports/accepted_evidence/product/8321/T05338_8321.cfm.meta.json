@@ -1,0 +1,14 @@
+{
+  "source_id": "8321",
+  "task_id": "T05338",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Vitamin+C+%2BCalcium",
+  "local_path": "imports/accepted_evidence/product/8321/T05338_8321.cfm",
+  "sha256": "7025fd3aa97a4a44b9da6aafe885835566d555f7e3154bb78e15c0fdbf0f9c97",
+  "downloaded_at": "2026-05-16T03:46:40.131471+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:625:8321",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

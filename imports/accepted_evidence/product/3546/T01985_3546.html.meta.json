@@ -1,0 +1,14 @@
+{
+  "source_id": "3546",
+  "task_id": "T01985",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Smecta",
+  "local_path": "imports/accepted_evidence/product/3546/T01985_3546.html",
+  "sha256": "6dbd74b9143adee959b819ff4e07dc65223d7e553fa6ab88a6e01a829c9de74e",
+  "downloaded_at": "2026-05-16T03:38:18.114688+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:164:3546",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

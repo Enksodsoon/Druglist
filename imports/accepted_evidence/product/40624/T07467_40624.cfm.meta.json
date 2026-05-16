@@ -1,0 +1,14 @@
+{
+  "source_id": "40624",
+  "task_id": "T07467",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Busonase",
+  "local_path": "imports/accepted_evidence/product/40624/T07467_40624.cfm",
+  "sha256": "b5d743e9897413769e59d41a5cbc7ae5d300aa64e54eb97449e71fc57857c484",
+  "downloaded_at": "2026-05-16T03:52:07.090447+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:885:40624",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

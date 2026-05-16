@@ -1,0 +1,14 @@
+{
+  "source_id": "3009",
+  "task_id": "T06635",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Borate%20%2BBoric%20Acid%20%2B%20Chloride%2B%20%2BBenzalkonium%20Chloride%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3009/T06635_3009.json",
+  "sha256": "1a7b87cfdb373805ef602a509f40404fd3c17ce9157887ac8d9916a3306907b6",
+  "downloaded_at": "2026-05-16T03:50:00.471533+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:781:3009|Product_Label_Links:782:3025",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

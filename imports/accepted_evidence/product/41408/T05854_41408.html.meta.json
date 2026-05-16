@@ -1,0 +1,14 @@
+{
+  "source_id": "41408",
+  "task_id": "T05854",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Clinivate+Cream+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/41408/T05854_41408.html",
+  "sha256": "d1e88cb70015fde48b11a51f0ecc5a5ab0ae455775a83ccedac226acb4f7bd56",
+  "downloaded_at": "2026-05-16T03:48:01.483637+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:687:41408",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_74",
+  "task_id": "T00707",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=vaginal+mixed+anti-infective",
+  "local_path": "imports/accepted_evidence/drug/drug-bds008491/T00707_Drug_Label_Links_74.html",
+  "sha256": "c8ae50314340f4939e3dcaa08057fe38540a910cc04227ff32298d3cb687dea8",
+  "downloaded_at": "2026-05-16T03:35:18.097535+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:74:Drug_Label_Links_74",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

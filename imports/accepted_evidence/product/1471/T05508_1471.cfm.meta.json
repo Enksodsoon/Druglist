@@ -1,0 +1,14 @@
+{
+  "source_id": "1471",
+  "task_id": "T05508",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Menthol+5+44+%2BMethyl+Salicylate+10+2+%2BEugenol+1+36",
+  "local_path": "imports/accepted_evidence/product/1471/T05508_1471.cfm",
+  "sha256": "f1ed193cc4419180185a496343766856007c9e65bac888f310c7f657b20ab092",
+  "downloaded_at": "2026-05-16T03:47:06.084092+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:647:1471|Product_Label_Links:648:1473",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

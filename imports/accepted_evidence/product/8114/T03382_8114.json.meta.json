@@ -1,0 +1,14 @@
+{
+  "source_id": "8114",
+  "task_id": "T03382",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ciproxin-500&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8114/T03382_8114.json",
+  "sha256": "ae18938303d70d6beb7f3d51ab61e277fccbf7bae376f502254e9d79c58f869f",
+  "downloaded_at": "2026-05-16T03:41:47.697731+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:355:8114",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

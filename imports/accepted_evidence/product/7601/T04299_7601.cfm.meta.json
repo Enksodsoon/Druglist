@@ -1,0 +1,14 @@
+{
+  "source_id": "7601",
+  "task_id": "T04299",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Polibroxol",
+  "local_path": "imports/accepted_evidence/product/7601/T04299_7601.cfm",
+  "sha256": "e13c610c2f2d963417d45c7088c5e131b69d9a83e49c46ab309af1ae2e109426",
+  "downloaded_at": "2026-05-16T03:44:08.087422+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:479:7601",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

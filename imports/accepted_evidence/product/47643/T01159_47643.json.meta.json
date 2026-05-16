@@ -1,0 +1,14 @@
+{
+  "source_id": "47643",
+  "task_id": "T01159",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Singulair%20Granules%204%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/47643/T01159_47643.json",
+  "sha256": "d5d88c7ddec854cdb9e5ce6c71e9be191c7d5bc02b3ff78bc3b11cca4674ab73",
+  "downloaded_at": "2026-05-16T03:36:16.931570+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:56:47643",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

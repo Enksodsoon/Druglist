@@ -1,0 +1,14 @@
+{
+  "source_id": "3612",
+  "task_id": "T04877",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Siamformet+500+mg",
+  "local_path": "imports/accepted_evidence/product/3612/T04877_3612.html",
+  "sha256": "9979906ef6652b01cece69d24bb1c48a010e62b6999dfc097774c2738f630626",
+  "downloaded_at": "2026-05-16T03:45:32.974142+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:561:3612",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

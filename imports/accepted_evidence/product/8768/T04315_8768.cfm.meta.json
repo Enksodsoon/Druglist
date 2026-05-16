@@ -1,0 +1,14 @@
+{
+  "source_id": "8768",
+  "task_id": "T04315",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bisacodyl+%2BDioctyl+sulfosuccinate",
+  "local_path": "imports/accepted_evidence/product/8768/T04315_8768.cfm",
+  "sha256": "955d250155cfe2dbe9d131932872b0079159c546b6295070ede25aa6e2a4b1d3",
+  "downloaded_at": "2026-05-16T03:44:11.167617+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:482:8768",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

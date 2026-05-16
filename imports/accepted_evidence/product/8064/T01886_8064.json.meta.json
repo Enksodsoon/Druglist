@@ -1,0 +1,14 @@
+{
+  "source_id": "8064",
+  "task_id": "T01886",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Acyclovir&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8064/T01886_8064.json",
+  "sha256": "22f8c8ce73575e84360a7749f5ab1cc8571a0c1c4cc8e848a55bd40a1e8c71d1",
+  "downloaded_at": "2026-05-16T03:38:04.092387+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:150:8064|Product_Label_Links:151:8065|Product_Label_Links:152:7782|Product_Label_Links:153:7783|Product_Label_Links:154:7781|Product_Label_Links:155:4019|Product_Label_Links:156:4086|Product_Label_Links:157:4011",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

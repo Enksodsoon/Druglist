@@ -1,0 +1,14 @@
+{
+  "source_id": "1038",
+  "task_id": "T03822",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Simethicone%20%2BAlverine%20Citrate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1038/T03822_1038.json",
+  "sha256": "aefd5d6ee6b2288bc285bcead16c544fede52806224bfc2a96a787ebc9f2c47b",
+  "downloaded_at": "2026-05-16T03:42:54.111709+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:413:1038",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

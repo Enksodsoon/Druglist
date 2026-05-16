@@ -1,0 +1,14 @@
+{
+  "source_id": "1439",
+  "task_id": "T05061",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Cardura+XL+4+mg",
+  "local_path": "imports/accepted_evidence/product/1439/T05061_1439.html",
+  "sha256": "875c4dde0f9da49c63f2708994387ad178b4cd1d8c9020b6f282b416a09ba914",
+  "downloaded_at": "2026-05-16T03:46:01.423525+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:588:1439",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

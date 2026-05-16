@@ -1,0 +1,14 @@
+{
+  "source_id": "1422",
+  "task_id": "T05688",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Canesten%20Cream%2020%20g&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1422/T05688_1422.json",
+  "sha256": "7fa4420ed3216884b497a3b14403c0941831112d97b26546708acf1bfc4b56d2",
+  "downloaded_at": "2026-05-16T03:47:33.540234+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:667:1422",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

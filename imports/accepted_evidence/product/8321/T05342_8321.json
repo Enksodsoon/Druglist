@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "CitraNatal 90 DHA Vitamin C, Calcium, Iron, Vitamin D3, Vitamin E, Thiamin, Riboflavin, Niacinamide, Vitamin B6, Folic Acid, Iodine, Zinc, Copper, Docusate Sodium ASCORBIC ACID ASCORBIC ACID IRON IRON .ALPHA.-TOCOPHEROL ACETATE .ALPHA.-TOCOPHEROL THIAMINE THIAMINE ION NIACINAMIDE NIACINAMIDE PYRIDOXINE HYDROCHLORIDE PYRIDOXINE FOLIC ACID FOLIC ACID ZINC OXIDE ZINC OXIDE CUPRIC OXIDE CUPRIC CATION DOCUSATE SODIUM DOCUSATE CALCIUM CITRATE CALCIUM CATION CALCIUM CITRATE THIAMINE MONONITRATE THIAMINE ION THIAMINE POTASSIUM IODIDE IODIDE ION FERROUS GLUCONATE FERROUS CATION VITAMIN D VITAMIN D RIBOFLAVIN RIBOFLAVIN caramel CN;90;0821"
+      ],
+      "boxed_warning": [
+        "WARNING: Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. KEEP THIS PRODUCT OUT OF THE REACH OF CHILDREN. In case of accidental overdose, call a doctor or poison control center immediately."
+      ],
+      "keep_out_of_reach_of_children": [
+        ""
+      ],
+      "active_ingredient": [
+        "DESCRIPTION CitraNatal ® 90 DHA is a prescription prenatal/postnatal multivitamin/mineral tablet with Ferr-Ease ® , a patented dual-iron delivery comprising both a quick release and slow release iron, and a capsule of an essential fatty acid. The prenatal vitamin is a white, oval multivitamin/mineral tablet. The tablet is debossed “CN 90” on one side and “0821” on the other. The essential fatty acid DHA capsule is caramel colored and contains a light yellow to orange semi-solid mixture. Each prenatal tablet contains: Vitamin C (Ascorbic acid) 120 mg Calcium (Calcium citrate) 159 mg Iron (Carbonyl iron, ferrous gluconate) 90 mg Vitamin D3 (Cholecalciferol) 400 IU Vitamin E (dl-alpha tocopheryl acetate) 30 IU Thiamin (Vitamin B1) 3 mg Riboflavin (Vitamin B2) 3.4 mg Niacinamide (Vitamin B3) 20 mg Vitamin B6 (Pyridoxine HCl) 20 mg Folic Acid 1 mg Iodine (Potassium iodide) 150 mcg Zinc (Zinc oxide) 25 mg Copper (Cupric oxide) 2 mg Docusate Sodium 50 mg Each DHA gelatin capsule contains: Docosahexaenoic Acid(DHA, 40% from 750 mg Algal Oil) 300 mg Eicosapentaenoic Acid (EPA) Not more than 0.750 mg Other ingredients in DHA gelatin capsule: Gelatin, glycerin, sunflower oil, water, caramel color, tocopherols, rosemary extract, sunflower lecithin, ascorbyl palmitate."
+      ],
+      "active_ingredient_table": [
+        "<table ID=\"t1073222\" border=\"1\" frame=\"box\" rules=\"all\" width=\"70%\"><caption>Each prenatal tablet contains:</caption><col/><col/><tbody><tr><td styleCode=\"Botrule\">Vitamin C (Ascorbic acid)</td><td styleCode=\"Botrule\">120 mg</td></tr><tr><td styleCode=\"Botrule\">Calcium (Calcium citrate)</td><td styleCode=\"Botrule\">159 mg</td></tr><tr><td styleCode=\"Botrule\">Iron (Carbonyl iron, ferrous gluconate)</td><td styleCode=\"Botrule\">90 mg</td></tr><tr><td styleCode=\"Botrule\">Vitamin D3 (Cholecalciferol)</td><td styleCode=\"Botrule\">400 IU</td></tr><tr><td styleCode=\"Botrule\">Vitamin E (dl-alpha tocopheryl acetate)</td><td styleCode=\"Botrule\">30 IU</td></tr><tr><td styleCode=\"Botrule\">Thiamin (Vitamin B1)</td><td styleCode=\"Botrule\">3 mg</td></tr><tr><td styleCode=\"Botrule\">Riboflavin (Vitamin B2)</td><td styleCode=\"Botrule\">3.4 mg</td></tr><tr><td styleCode=\"Botrule\">Niacinamide (Vitamin B3)</td><td styleCode=\"Botrule\">20 mg</td></tr><tr><td styleCode=\"Botrule\">Vitamin B6 (Pyridoxine HCl)</td><td styleCode=\"Botrule\">20 mg</td></tr><tr><td styleCode=\"Botrule\">Folic Acid</td><td styleCode=\"Botrule\">1 mg</td></tr><tr><td styleCode=\"Botrule\">Iodine (Potassium iodide)</td><td styleCode=\"Botrule\">150 mcg</td></tr><tr><td styleCode=\"Botrule\">Zinc (Zinc oxide)</td><td styleCode=\"Botrule\">25 mg</td></tr><tr><td styleCode=\"Botrule\">Copper (Cupric oxide)</td><td styleCode=\"Botrule\">2 mg</td></tr><tr><td>Docusate Sodium</td><td>50 mg</td></tr></tbody></table>",
+        "<table ID=\"t1840728\" border=\"1\" frame=\"box\" rules=\"all\" width=\"70%\"><caption>Each DHA gelatin capsule contains:</caption><col/><col/><tbody><tr><td>Docosahexaenoic</td><td> </td></tr><tr><td styleCode=\"Botrule\">Acid(DHA, 40% from 750 mg Algal Oil)</td><td styleCode=\"Botrule\">300 mg</td></tr><tr><td>Eicosapentaenoic Acid (EPA)</td><td>Not more than 0.750 mg</td></tr></tbody></table>"
+      ],
+      "inactive_ingredient": [
+        ""
+      ],
+      "purpose": [
+        ""
+      ],
+      "indications_and_usage": [
+        "INDICATIONS CitraNatal ® 90 DHA is a multivitamin/mineral prescription drug indicated for use in improving the nutritional status of women prior to conception, throughout pregnancy, and in the postnatal period for both lactating and nonlactating mothers."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS This product is contraindicated in patients with a known hypersensitivity to any of the ingredients."
+      ],
+      "warnings": [
+        "WARNING Ingestion of more than 3 grams of omega-3 fatty acids per day has been shown to have potential antithrombotic effects, including an increased bleeding time and INR. Administration of omega-3 fatty acids should be avoided in patients on anticoagulants and in those known to have an inherited or acquired bleeding diathesis. WARNING: Folic acid alone is improper therapy in the treatment of pernicious anemia and other megaloblastic anemias where vitamin B 12 is deficient."
+      ],
+      "precautions": [
+        "PRECAUTIONS Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurological manifestations progress."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION One tablet and one capsule daily or as directed by a physician."
+      ],
+      "storage_and_handling": [
+        "STORAGE Store at 20-25°C (68-77°F) NOTICE: Contact with moisture can discolor or erode the tablet. HOW SUPPLIED Six child-resistant blister packs of 5 tablets and 5 capsules each - NDC 0178-0821-30 To report a serious adverse event or obtain product information, call (210) 696-8400. Please consult your health care provider with any dietary concerns. 51072R1120 DHA capsules manufactured for: MISSION PHARMACAL COMPANY San Antonio, TX USA 78230 1355 Prenatal tablets manufactured by: MISSION PHARMACAL COMPANY San Antonio, TX USA 78230 1355 Ferr-Ease™ Dual-iron delivery Trademark of Mission Pharmacal Company"
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Six child-resistant blister packs of 5 tablets and 5 capsules each - NDC 0178-0821-30 To report a serious adverse event or obtain product information, call (210) 696-8400. Please consult your health care provider with any dietary concerns. 51072R1120 DHA capsules manufactured for: MISSION PHARMACAL COMPANY San Antonio, TX USA 78230 1355 Prenatal tablets manufactured by: MISSION PHARMACAL COMPANY San Antonio, TX USA 78230 1355 Ferr-Ease™ Dual-iron delivery Trademark of Mission Pharmacal Company"
+      ],
+      "package_label_principal_display_panel": [
+        "CitraNatal ® 90 DHA Carton NDC: 0178-0821-30 Label"
+      ],
+      "set_id": "81e639d7-352e-4eaa-87d9-582da68b9728",
+      "id": "47e820ed-a6e9-4961-e063-6394a90ad041",
+      "effective_time": "20260108",
+      "version": "10",
+      "openfda": {
+        "brand_name": [
+          "CitraNatal 90 DHA"
+        ],
+        "generic_name": [
+          "VITAMIN C, CALCIUM, IRON, VITAMIN D3, VITAMIN E, THIAMIN, RIBOFLAVIN, NIACINAMIDE, VITAMIN B6, FOLIC ACID, IODINE, ZINC, COPPER, DOCUSATE SODIUM"
+        ],
+        "manufacturer_name": [
+          "Mission Pharmacal Company"
+        ],
+        "product_ndc": [
+          "0178-0821"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          ".ALPHA.-TOCOPHEROL ACETATE",
+          "ASCORBIC ACID",
+          "CALCIUM CITRATE",
+          "CUPRIC OXIDE",
+          "DOCUSATE SODIUM",
+          "FERROUS GLUCONATE",
+          "FOLIC ACID",
+          "IRON",
+          "NIACINAMIDE",
+          "POTASSIUM IODIDE",
+          "PYRIDOXINE HYDROCHLORIDE",
+          "RIBOFLAVIN",
+          "THIAMINE",
+          "THIAMINE MONONITRATE",
+          "VITAMIN D",
+          "ZINC OXIDE"
+        ],
+        "spl_id": [
+          "47e820ed-a6e9-4961-e063-6394a90ad041"
+        ],
+        "spl_set_id": [
+          "81e639d7-352e-4eaa-87d9-582da68b9728"
+        ],
+        "package_ndc": [
+          "0178-0821-30"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0301780821305"
+        ],
+        "nui": [
+          "N0000193618",
+          "M0001797"
+        ],
+        "pharm_class_epc": [
+          "Vitamin C [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Ascorbic Acid [CS]"
+        ],
+        "unii": [
+          "9E8X80D2L0",
+          "PQ6CK8PD0R",
+          "MLM29U2X85",
+          "V1XJQ704R4",
+          "F05Q2T2JA0",
+          "U1B11I423Z",
+          "935E97BOY8",
+          "E1UOL152H7",
+          "25X51I8RD4",
+          "1C4QK22F9J",
+          "68Y4CF58BV",
+          "TLM2976OFR",
+          "X66NSO3N35",
+          "8K0I04919X",
+          "9VU1KI44GP",
+          "SOI2LOH54Z"
+        ]
+      }
+    }
+  ]
+}

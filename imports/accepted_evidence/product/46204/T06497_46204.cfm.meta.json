@@ -1,0 +1,14 @@
+{
+  "source_id": "46204",
+  "task_id": "T06497",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=OcuFreshs+Tear+Eye+Drops",
+  "local_path": "imports/accepted_evidence/product/46204/T06497_46204.cfm",
+  "sha256": "c309ec7971c8a97456f19a7c7300b96e5505f491e267d0e3d8503494f27de92c",
+  "downloaded_at": "2026-05-16T03:49:38.211739+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:766:46204",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

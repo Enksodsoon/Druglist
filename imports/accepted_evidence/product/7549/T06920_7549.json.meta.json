@@ -1,0 +1,14 @@
+{
+  "source_id": "7549",
+  "task_id": "T06920",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Triamcinolone%20Acetonide%200%201&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7549/T06920_7549.json",
+  "sha256": "4f9aa91da2d38c7319c37cae05d746287e7655bccd517ae502f6ca73571dafaf",
+  "downloaded_at": "2026-05-16T03:50:42.942568+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:820:7549|Product_Label_Links:821:7548|Product_Label_Links:822:3751|Product_Label_Links:823:3750",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

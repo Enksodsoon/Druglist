@@ -1,0 +1,14 @@
+{
+  "source_id": "40609",
+  "task_id": "T07156",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22Betadine%20Gargle%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/40609/T07156_40609.json",
+  "sha256": "7726080f398c0bf536f80af331d68550f4388f1f95a4b2b4b5c5666fbee2951a",
+  "downloaded_at": "2026-05-16T03:51:19.445661+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:849:40609",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

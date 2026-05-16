@@ -1,0 +1,14 @@
+{
+  "source_id": "44317",
+  "task_id": "T04645",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Manidipine",
+  "local_path": "imports/accepted_evidence/product/44317/T04645_44317.cfm",
+  "sha256": "58fa103664f981d7cbeed6b8ef6c8c7075e44ee9e70a7217148e658f693af4d2",
+  "downloaded_at": "2026-05-16T03:44:58.953678+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:527:44317|Product_Label_Links:534:3146|Product_Label_Links:535:2638",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

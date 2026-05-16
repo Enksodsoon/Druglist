@@ -1,0 +1,14 @@
+{
+  "source_id": "43614",
+  "task_id": "T03109",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=alginate+Ph+Eur+%2B+bicarbonate+%2BCalcium+carbonate%2BCarbomer%2BMethyl+%2BPropyl+%2B%E0%B8%AD%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%86",
+  "local_path": "imports/accepted_evidence/product/43614/T03109_43614.cfm",
+  "sha256": "dd38aa58fa2a2bb0097fed65bfab52185406bb330e4413e606bdd7b958930cad",
+  "downloaded_at": "2026-05-16T03:41:05.853757+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:318:43614|Product_Label_Links:319:43613",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

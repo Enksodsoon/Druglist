@@ -1,0 +1,14 @@
+{
+  "source_id": "46506",
+  "task_id": "T05164",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Propylthiouracil%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/46506/T05164_46506.json",
+  "sha256": "d2d90e27f5e9fe519f1f2b39910ccbda5cf4f79ded824124d254616b396f4688",
+  "downloaded_at": "2026-05-16T03:46:15.957151+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:603:46506",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

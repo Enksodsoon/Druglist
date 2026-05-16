@@ -1,0 +1,14 @@
+{
+  "source_id": "7191",
+  "task_id": "T07575",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Metzodin",
+  "local_path": "imports/accepted_evidence/product/7191/T07575_7191.html",
+  "sha256": "fe744bb1119231c674f71b461294344db965411c3a4a4f69d09732b2b3e9a7da",
+  "downloaded_at": "2026-05-16T03:52:22.934207+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:897:7191",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "7586",
+  "task_id": "T02106",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Amoxicillin%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7586/T02106_7586.json",
+  "sha256": "0267d102aad191335975231515bca91acd6c924e4c8bad9041791f8174a0a89f",
+  "downloaded_at": "2026-05-16T03:38:35.839702+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:179:7586|Product_Label_Links:182:3549|Product_Label_Links:183:3550",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

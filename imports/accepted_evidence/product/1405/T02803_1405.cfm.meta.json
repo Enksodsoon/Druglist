@@ -1,0 +1,14 @@
+{
+  "source_id": "1405",
+  "task_id": "T02803",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cafergot",
+  "local_path": "imports/accepted_evidence/product/1405/T02803_1405.cfm",
+  "sha256": "160335cf7c5011b8b3bc2288a104c9c83f90908b77a2b2a45d0297318c9eb3e3",
+  "downloaded_at": "2026-05-16T03:40:20.654088+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:278:1405",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

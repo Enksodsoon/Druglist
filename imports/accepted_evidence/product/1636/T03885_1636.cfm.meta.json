@@ -1,0 +1,14 @@
+{
+  "source_id": "1636",
+  "task_id": "T03885",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=diastase+%2BAluminium+magnesium+silicate+%2B+bicarbonate+%2BCalcium+carbonate",
+  "local_path": "imports/accepted_evidence/product/1636/T03885_1636.cfm",
+  "sha256": "1e88f81e1619b857edacefd085fbb205954741147ca72a404be0b46c995e5d41",
+  "downloaded_at": "2026-05-16T03:43:04.030226+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:420:1636",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

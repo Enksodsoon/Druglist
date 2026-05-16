@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_72",
+  "task_id": "T00686",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=norfloxacin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds007591/T00686_Drug_Label_Links_72.json",
+  "sha256": "658243e100105a388394acc56c8060f3e4c889071bf479d9ed4f9a75254c0a7c",
+  "downloaded_at": "2026-05-16T03:35:14.157175+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:72:Drug_Label_Links_72",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

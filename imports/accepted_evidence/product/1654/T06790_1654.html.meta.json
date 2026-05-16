@@ -1,0 +1,14 @@
+{
+  "source_id": "1654",
+  "task_id": "T06790",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Difelene+Gel+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/1654/T06790_1654.html",
+  "sha256": "95b717f0fef6e79720d8929e2ac6c3803b888abc6638a7a01ab82282c3345007",
+  "downloaded_at": "2026-05-16T03:50:23.259976+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:801:1654",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

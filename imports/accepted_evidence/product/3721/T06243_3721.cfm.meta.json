@@ -1,0 +1,14 @@
+{
+  "source_id": "3721",
+  "task_id": "T06243",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Oxytetracycline+%2BPolymyxin+B+Sulfate+%2F",
+  "local_path": "imports/accepted_evidence/product/3721/T06243_3721.cfm",
+  "sha256": "af3150c57f7cc734f75b77f55d4642b18cce648ab6561321f663b23f6d69bbe4",
+  "downloaded_at": "2026-05-16T03:48:57.890160+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:740:3721",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_68",
+  "task_id": "T00646",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=roxithromycin",
+  "local_path": "imports/accepted_evidence/drug/drug-bds007066/T00646_Drug_Label_Links_68.cfm",
+  "sha256": "62d4214a5a786e8f842b505e176f06e9b38bd37a4e57ce282ac59794193f353b",
+  "downloaded_at": "2026-05-16T03:35:08.724896+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:68:Drug_Label_Links_68",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

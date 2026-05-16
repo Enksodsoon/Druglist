@@ -1,0 +1,14 @@
+{
+  "source_id": "2043",
+  "task_id": "T03901",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Gaszym",
+  "local_path": "imports/accepted_evidence/product/2043/T03901_2043.html",
+  "sha256": "15b5e772eb1ce8d4280e46115927db90eda34412465a3e59f88f81f9fd091a11",
+  "downloaded_at": "2026-05-16T03:43:07.512757+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:421:2043",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

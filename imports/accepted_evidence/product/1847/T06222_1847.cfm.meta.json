@@ -1,0 +1,14 @@
+{
+  "source_id": "1847",
+  "task_id": "T06222",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Fucithalmic+Eye+Drops",
+  "local_path": "imports/accepted_evidence/product/1847/T06222_1847.cfm",
+  "sha256": "dc963f4e58e32c5cd25ad59607324bd7f46703db2c5a07324b66680041c2901a",
+  "downloaded_at": "2026-05-16T03:48:54.121154+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:738:1847",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

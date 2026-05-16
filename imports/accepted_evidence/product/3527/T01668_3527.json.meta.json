@@ -1,0 +1,14 @@
+{
+  "source_id": "3527",
+  "task_id": "T01668",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Cimetidine%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/3527/T01668_3527.json",
+  "sha256": "082f5040b69712632bc2c7079e6b606062f77594e2bc8cf771a9f7bcb6f8879a",
+  "downloaded_at": "2026-05-16T03:37:31.809146+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:123:3527",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

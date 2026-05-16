@@ -1,0 +1,14 @@
+{
+  "source_id": "7752",
+  "task_id": "T03307",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Noraphen&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7752/T03307_7752.json",
+  "sha256": "3f71a2d9a917696502c21bf8a0f5b7f042aa6fbf302eeb491120b979c432a02c",
+  "downloaded_at": "2026-05-16T03:41:36.061132+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:344:7752",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1824",
+  "task_id": "T02523",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dosanac+50",
+  "local_path": "imports/accepted_evidence/product/1824/T02523_1824.cfm",
+  "sha256": "1db591f151868443b43690a346242e2f8ba72deceb0e6fa9a134bdb4cedb095c",
+  "downloaded_at": "2026-05-16T03:39:38.667290+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:240:1824",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

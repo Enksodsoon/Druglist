@@ -1,0 +1,14 @@
+{
+  "source_id": "42823",
+  "task_id": "T05144",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Euthyrox+100+mcg+%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87",
+  "local_path": "imports/accepted_evidence/product/42823/T05144_42823.cfm",
+  "sha256": "aed147819d890b9be6f686281e72cd2e64fc9a0e2e7b68514ea1ef08eca62fd9",
+  "downloaded_at": "2026-05-16T03:46:12.314864+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:601:42823",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

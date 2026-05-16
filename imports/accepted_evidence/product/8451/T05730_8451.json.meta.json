@@ -1,0 +1,14 @@
+{
+  "source_id": "8451",
+  "task_id": "T05730",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ketoconazole%202&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8451/T05730_8451.json",
+  "sha256": "4bc6d6c68cebf07f0662dff3ab60428d32ce58a95acdbc4af00ce057621ae291",
+  "downloaded_at": "2026-05-16T03:47:40.080784+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:673:8451",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

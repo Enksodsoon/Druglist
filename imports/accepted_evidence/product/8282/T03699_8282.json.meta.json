@@ -1,0 +1,14 @@
+{
+  "source_id": "8282",
+  "task_id": "T03699",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Glucose%20%2B%20Chloride%20%2B%20Chloride%20%2B%20Citrate%20Dihydrate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8282/T03699_8282.json",
+  "sha256": "db77efbdd394b46c0ca3b87e27f9327213d6c6ba75cb46f61e7d15c2ae94c3b9",
+  "downloaded_at": "2026-05-16T03:42:35.857019+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:398:8282",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

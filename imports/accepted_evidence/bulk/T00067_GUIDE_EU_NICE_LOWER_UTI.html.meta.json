@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_EU_NICE_LOWER_UTI",
+  "task_id": "T00067",
+  "source_url": "https://www.nice.org.uk/guidance/ng109/documents",
+  "local_path": "imports/accepted_evidence/bulk/T00067_GUIDE_EU_NICE_LOWER_UTI.html",
+  "sha256": "128a5ea69610a20b550594816ea9fff71b7fd29e1eb67ffca1c122f68f95f969",
+  "downloaded_at": "2026-05-16T03:33:49.837460+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:28:GUIDE_EU_NICE_LOWER_UTI",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

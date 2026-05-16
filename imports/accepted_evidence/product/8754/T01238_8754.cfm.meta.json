@@ -1,0 +1,14 @@
+{
+  "source_id": "8754",
+  "task_id": "T01238",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Zytizine+F%2FC+tabslet",
+  "local_path": "imports/accepted_evidence/product/8754/T01238_8754.cfm",
+  "sha256": "26bd49c7135307f5676c1de6cbd62b060dd6e75b0a85b85199ef3fc8908e55b5",
+  "downloaded_at": "2026-05-16T03:36:27.398970+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:69:8754",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

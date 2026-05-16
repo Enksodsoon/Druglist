@@ -1,0 +1,14 @@
+{
+  "source_id": "3595",
+  "task_id": "T00966",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Sara+%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%94%E0%B8%A3%E0%B8%B5+%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%B8%E0%B8%81+100s",
+  "local_path": "imports/accepted_evidence/product/3595/T00966_3595.html",
+  "sha256": "cca35449900cdf84a1dc7b9e08c4708d50950f346406a770fb212b723c76e4b5",
+  "downloaded_at": "2026-05-16T03:35:51.206710+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:30:3595",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

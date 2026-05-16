@@ -1,0 +1,14 @@
+{
+  "source_id": "40016",
+  "task_id": "T03587",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Adavil%20F/C%20tabslets&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/40016/T03587_40016.json",
+  "sha256": "2e85da05793479d13b78ffcc87c20093180eff98669ee29d11516bd1946c0199",
+  "downloaded_at": "2026-05-16T03:42:18.257951+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:382:40016",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

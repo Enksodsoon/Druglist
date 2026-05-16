@@ -1,0 +1,14 @@
+{
+  "source_id": "8703",
+  "task_id": "T01484",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Tedium&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8703/T01484_8703.json",
+  "sha256": "82e2b254406e958795ac5610b26fdce7be5b2201d17bc3f800791eead4e1c3e2",
+  "downloaded_at": "2026-05-16T03:37:03.647346+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:102:8703",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

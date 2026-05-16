@@ -1,0 +1,14 @@
+{
+  "source_id": "43613",
+  "task_id": "T03121",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Gaviscon+Advance+sachet+10+ml",
+  "local_path": "imports/accepted_evidence/product/43613/T03121_43613.html",
+  "sha256": "68815821ce021782bb43ccd2c98e1571b69f2a3bbb2da6e6cfaf75e0995f9139",
+  "downloaded_at": "2026-05-16T03:41:08.154396+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:319:43613",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

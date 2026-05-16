@@ -1,0 +1,14 @@
+{
+  "source_id": "3407",
+  "task_id": "T02961",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Absorbable%20aescin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3407/T02961_3407.json",
+  "sha256": "fc9e5a2ed32c9d6445f2787cdd3b871dab1918d68310571d30b8ee8f8a5de43c",
+  "downloaded_at": "2026-05-16T03:40:43.914993+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:299:3407",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

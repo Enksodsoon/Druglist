@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_US_IDSA_SSTI",
+  "task_id": "T00075",
+  "source_url": "https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/",
+  "local_path": "imports/accepted_evidence/bulk/T00075_GUIDE_US_IDSA_SSTI.html",
+  "sha256": "03de77ed93d141406e1d7fe2c38d52adb665af93e617cd7915cd1155f7876855",
+  "downloaded_at": "2026-05-16T03:33:49.345124+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:36:GUIDE_US_IDSA_SSTI|Disease_Download_Map:24:dry_skin_adult|Disease_Download_Map:31:minor_burn_adult|Disease_Download_Map:32:minor_skin_infection_topical_adult|Disease_Download_Map:40:burn_aftercare_minor_adult|Disease_Download_Map:60:impetigo_localized_adult|Disease_Download_Map:61:minor_wound_care_adult|Disease_Download_Map:75:superficial_abrasion_adult|Disease_Download_Map:76:minor_cut_wound_care_adult|Disease_Download_Map:100:dental_infection_support_adult|Disease_Download_Map:101:infected_insect_bite_adult|Disease_Download_Map:102:infected_insect_bite_peds|Disease_Download_Map:103:cellulitis_mild_adult|Disease_Download_Map:104:impetigo_oral_antibiotic_adult|Disease_Download_Map:105:localized_folliculitis_adult|Disease_Download_Map:106:infected_abrasion_adult|Disease_Download_Map:107:infected_eczema_localized_adult|Disease_Download_Map:110:bacterial_skin_infection_topical_peds|Disease_Download_Map:111:bacterial_skin_infection_topical_adult|Disease_Download_Map:112:infected_wound_oral_antibiotic_adult|Disease_Download_Map:116:topical_fusidic_support_adult|Disease_Download_Map:130:corn_callus_topical_adult|Disease_Download_Map:131:dental_pain_support_adult|Disease_Download_Map:132:gingivitis_localized_adult|Disease_Download_Map:133:gum_inflammation_support_adult|Disease_Download_Map:134:dental_abscess_support_adult",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

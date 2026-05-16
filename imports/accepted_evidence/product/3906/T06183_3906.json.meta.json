@@ -1,0 +1,14 @@
+{
+  "source_id": "3906",
+  "task_id": "T06183",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=U-Enema&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3906/T06183_3906.json",
+  "sha256": "c28a493f2d4f36eb5f9578a3b019fc17322289cf02307c2ee8f2de1a3beaf882",
+  "downloaded_at": "2026-05-16T03:48:49.035766+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:732:3906",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

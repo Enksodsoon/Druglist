@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_79",
+  "task_id": "T00745",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=salicylic+acid+wart+treatment",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001468/T00745_Drug_Label_Links_79.cfm",
+  "sha256": "9906a0b5a1beb7182b9639e8afd2ef9e0b8f649eb555ac8453d34819b6cbf081",
+  "downloaded_at": "2026-05-16T03:35:22.301142+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:79:Drug_Label_Links_79",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

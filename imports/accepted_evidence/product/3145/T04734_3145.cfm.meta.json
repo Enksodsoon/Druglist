@@ -1,0 +1,14 @@
+{
+  "source_id": "3145",
+  "task_id": "T04734",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Prenolol+50+mg",
+  "local_path": "imports/accepted_evidence/product/3145/T04734_3145.cfm",
+  "sha256": "101b251c58c20f0e12d35f5c8f4e4c31d7e9af50c768c82389a94894cb3748fc",
+  "downloaded_at": "2026-05-16T03:45:11.964784+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:541:3145",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

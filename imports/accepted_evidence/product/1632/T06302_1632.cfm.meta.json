@@ -1,0 +1,14 @@
+{
+  "source_id": "1632",
+  "task_id": "T06302",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=DexOph+Eye-Ear+Drops",
+  "local_path": "imports/accepted_evidence/product/1632/T06302_1632.cfm",
+  "sha256": "003884497635ed73dd363204f98ee9bfba759b3a9804bee4329d6cbfd9a4f205",
+  "downloaded_at": "2026-05-16T03:49:07.009319+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:746:1632",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

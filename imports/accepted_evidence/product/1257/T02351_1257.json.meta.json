@@ -1,0 +1,14 @@
+{
+  "source_id": "1257",
+  "task_id": "T02351",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Bromhexine%20%2BK%20guaiacolsulphonate%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1257/T02351_1257.json",
+  "sha256": "f7ffd0923d0bd416d1b84522a969dd6985f12851964d90ba6c9c64fba39b6642",
+  "downloaded_at": "2026-05-16T03:39:10.787552+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:215:1257|Product_Label_Links:216:1296",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1471",
+  "task_id": "T05507",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Counterpain+%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+  "local_path": "imports/accepted_evidence/product/1471/T05507_1471.cfm",
+  "sha256": "d22dadc276255066b45a02ee73ce0b552e6fdcb8ea13727ec129317d2b0c52d7",
+  "downloaded_at": "2026-05-16T03:47:05.764590+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:647:1471",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

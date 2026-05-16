@@ -1,0 +1,14 @@
+{
+  "source_id": "1296",
+  "task_id": "T02361",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Bisolvon+EX+Syrup+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/1296/T02361_1296.html",
+  "sha256": "acbfec7a7169494fc9a447d65737e7c0a7f6fd552a58c05780bad8786a6b4712",
+  "downloaded_at": "2026-05-16T03:39:13.280141+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:216:1296",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

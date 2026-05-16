@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_77",
+  "task_id": "T00733",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=ketoconazole+cream",
+  "local_path": "imports/accepted_evidence/drug/drug-bds007542/T00733_Drug_Label_Links_77.html",
+  "sha256": "a35c58a0c80b9db0c7dbfce2232a27aa268ade01dcdf31f8f3d64ea02d4d1713",
+  "downloaded_at": "2026-05-16T03:35:20.851139+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:77:Drug_Label_Links_77",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

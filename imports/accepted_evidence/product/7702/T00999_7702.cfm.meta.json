@@ -1,0 +1,14 @@
+{
+  "source_id": "7702",
+  "task_id": "T00999",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Hydroxyzine",
+  "local_path": "imports/accepted_evidence/product/7702/T00999_7702.cfm",
+  "sha256": "0c55abfb83090caf14bdfd22add0df1c0e1f65c3f1638907d9bd3902d606cc3e",
+  "downloaded_at": "2026-05-16T03:35:55.815237+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:35:7702|Product_Label_Links:46:8701",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

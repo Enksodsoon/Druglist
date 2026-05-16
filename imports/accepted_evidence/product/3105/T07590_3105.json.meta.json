@@ -1,0 +1,14 @@
+{
+  "source_id": "3105",
+  "task_id": "T07590",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Xylometazoline%200%2005&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3105/T07590_3105.json",
+  "sha256": "b9d17e71505826ba724d7ee56cbe2342132a99299b431fbfb973b3638a55d1a7",
+  "downloaded_at": "2026-05-16T03:52:25.848094+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:900:3105",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

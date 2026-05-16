@@ -1,0 +1,14 @@
+{
+  "source_id": "6691",
+  "task_id": "T04999",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Zimva+20+mg+%28GPO%29",
+  "local_path": "imports/accepted_evidence/product/6691/T04999_6691.cfm",
+  "sha256": "de1d5aff50888ff341d3bfffa7e90128106a264b4bdfe448151b0a11f41fe68a",
+  "downloaded_at": "2026-05-16T03:45:51.631850+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:581:6691",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

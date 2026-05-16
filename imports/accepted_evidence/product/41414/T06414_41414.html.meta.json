@@ -1,0 +1,14 @@
+{
+  "source_id": "41414",
+  "task_id": "T06414",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Cellufresh+MD",
+  "local_path": "imports/accepted_evidence/product/41414/T06414_41414.html",
+  "sha256": "817820912119f91ffc9465e506f07056e38e72af5a63a5e0f13c5147e76b2338",
+  "downloaded_at": "2026-05-16T03:49:27.473368+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:757:41414",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

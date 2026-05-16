@@ -1,0 +1,14 @@
+{
+  "source_id": "8702",
+  "task_id": "T00858",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dicloxman-500",
+  "local_path": "imports/accepted_evidence/product/8702/T00858_8702.cfm",
+  "sha256": "d46ee5b0c2d78eb74b098b2c6b62aa47275cd6c93cc79b98005a50a3e73a3b98",
+  "downloaded_at": "2026-05-16T03:35:35.908299+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:13:8702",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3903",
+  "task_id": "T01561",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Sucralfate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3903/T01561_3903.json",
+  "sha256": "ed53a7c561d2a62072938a48179b2b33c78ffca269babdd740fe7c44f4827398",
+  "downloaded_at": "2026-05-16T03:37:15.861827+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:110:3903|Product_Label_Links:329:3915",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1628",
+  "task_id": "T07398",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betamethasone+Dipropionate+%2BTolnaftate+%2BIodochlorhydroxyquin+%2F",
+  "local_path": "imports/accepted_evidence/product/1628/T07398_1628.cfm",
+  "sha256": "8ad223abbb96b63f54c0a3be8d16144eedb2ca5a496b36fa497aa86fd1b3129a",
+  "downloaded_at": "2026-05-16T03:51:56.446745+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:876:1628|Product_Label_Links:877:1629",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

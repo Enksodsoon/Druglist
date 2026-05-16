@@ -1,0 +1,14 @@
+{
+  "source_id": "8451",
+  "task_id": "T05727",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Funginox+Solution",
+  "local_path": "imports/accepted_evidence/product/8451/T05727_8451.cfm",
+  "sha256": "db12c1d989c8b06344364c1d3414dcb7991621b47deb01b610dfc726ca8a76df",
+  "downloaded_at": "2026-05-16T03:47:39.285670+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:673:8451",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

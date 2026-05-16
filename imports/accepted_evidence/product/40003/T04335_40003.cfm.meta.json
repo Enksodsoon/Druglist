@@ -1,0 +1,14 @@
+{
+  "source_id": "40003",
+  "task_id": "T04335",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tinidazole",
+  "local_path": "imports/accepted_evidence/product/40003/T04335_40003.cfm",
+  "sha256": "71b6c7670fd6dcca0a406ba45c4388c34296d6bc27c800576f0e0718fa3b9b64",
+  "downloaded_at": "2026-05-16T03:44:13.971608+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:484:40003|Product_Label_Links:485:7954",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

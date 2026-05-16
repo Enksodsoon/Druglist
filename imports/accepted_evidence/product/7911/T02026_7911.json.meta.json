@@ -1,0 +1,14 @@
+{
+  "source_id": "7911",
+  "task_id": "T02026",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Diphenhydramine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7911/T02026_7911.json",
+  "sha256": "f00761304f34825c1843460537c15fc4ec0089209417a50bad7345c950f78a42",
+  "downloaded_at": "2026-05-16T03:38:24.813810+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:169:7911",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

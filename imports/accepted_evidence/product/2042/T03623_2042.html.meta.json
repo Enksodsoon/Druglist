@@ -1,0 +1,14 @@
+{
+  "source_id": "2042",
+  "task_id": "T03623",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Gofen+400",
+  "local_path": "imports/accepted_evidence/product/2042/T03623_2042.html",
+  "sha256": "183e40ab396539d97ed1a7a3fdb996414361d52f96ffce48002fcc07b363415e",
+  "downloaded_at": "2026-05-16T03:42:27.577242+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:387:2042",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

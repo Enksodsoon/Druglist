@@ -1,0 +1,14 @@
+{
+  "source_id": "6463",
+  "task_id": "T06167",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Glymorin+Children+Suppositories",
+  "local_path": "imports/accepted_evidence/product/6463/T06167_6463.cfm",
+  "sha256": "16d3c0589e70cb865331dba85feb82abdbe58c2a2c36ced163da510ab025c048",
+  "downloaded_at": "2026-05-16T03:48:46.599151+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:730:6463",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1042",
+  "task_id": "T03056",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Aluminium%20Hydroxide%20%2BMagnesium%20Hydroxide%20%2BDimethylpolysiloxane&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1042/T03056_1042.json",
+  "sha256": "e99ddb37767052dd6851c767135ca68591d95a84e38137886158482056986bac",
+  "downloaded_at": "2026-05-16T03:40:57.869071+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:311:1042|Product_Label_Links:312:1095",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

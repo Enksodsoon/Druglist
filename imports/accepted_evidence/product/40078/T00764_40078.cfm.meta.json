@@ -1,0 +1,14 @@
+{
+  "source_id": "40078",
+  "task_id": "T00764",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Amoxicillin",
+  "local_path": "imports/accepted_evidence/product/40078/T00764_40078.cfm",
+  "sha256": "45a5dcfda236a01a47a8cdcd3d10d0d5b1407341666ab14e9739c8a7d4b793ef",
+  "downloaded_at": "2026-05-16T03:35:24.710217+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:2:40078|Product_Label_Links:15:2201|Product_Label_Links:23:7007",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

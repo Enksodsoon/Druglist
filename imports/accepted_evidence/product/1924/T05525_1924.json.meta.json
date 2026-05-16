@@ -1,0 +1,14 @@
+{
+  "source_id": "1924",
+  "task_id": "T05525",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Menthol%20%2BMethyl%20Salicylate%20%2BEugenol%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1924/T05525_1924.json",
+  "sha256": "ff80e0e74d8a4fe40f072f1210c6145e6811e9a1cfbf07930633fd2640ff0e5b",
+  "downloaded_at": "2026-05-16T03:47:08.338389+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:649:1924",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

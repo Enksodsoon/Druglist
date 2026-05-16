@@ -1,0 +1,14 @@
+{
+  "source_id": "43846",
+  "task_id": "T04072",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Drospirenone%20%2BEthinylestradiol%20%2BPlacebo&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/43846/T04072_43846.json",
+  "sha256": "e3b289a97da322bd0e444e77b3a63a0e27a3840d9191247419831939460e099f",
+  "downloaded_at": "2026-05-16T03:43:33.037934+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:445:43846",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

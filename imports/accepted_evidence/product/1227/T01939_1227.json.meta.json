@@ -1,0 +1,14 @@
+{
+  "source_id": "1227",
+  "task_id": "T01939",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Benda%20500%20%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1227/T01939_1227.json",
+  "sha256": "f682c85c2b653e17e82ccf5a034f263683abf23358a21e6de5380af225323122",
+  "downloaded_at": "2026-05-16T03:38:11.434668+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:159:1227",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

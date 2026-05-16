@@ -1,0 +1,14 @@
+{
+  "source_id": "7066",
+  "task_id": "T00813",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=B.Roxi",
+  "local_path": "imports/accepted_evidence/product/7066/T00813_7066.cfm",
+  "sha256": "27719ac6e489ae28beac768a2d841d62b4b6008a8e8a5b139210e81b94800f05",
+  "downloaded_at": "2026-05-16T03:35:30.488205+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:8:7066",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

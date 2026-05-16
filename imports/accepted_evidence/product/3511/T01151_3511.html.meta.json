@@ -1,0 +1,14 @@
+{
+  "source_id": "3511",
+  "task_id": "T01151",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Singulair+10+mg+7s",
+  "local_path": "imports/accepted_evidence/product/3511/T01151_3511.html",
+  "sha256": "e9e2b71862205e20b03602b64a3f6f811ee32491974bd36771df8f239cd18c3d",
+  "downloaded_at": "2026-05-16T03:36:15.470839+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:54:3511",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

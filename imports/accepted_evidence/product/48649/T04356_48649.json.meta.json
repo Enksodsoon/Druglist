@@ -1,0 +1,14 @@
+{
+  "source_id": "48649",
+  "task_id": "T04356",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Tavipec%20cap&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/48649/T04356_48649.json",
+  "sha256": "d1a22b2adcb695cb72f5508e1ef974099a437ca063c4a2e6fc7e3fcddbdab2c8",
+  "downloaded_at": "2026-05-16T03:44:16.953804+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:487:48649",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

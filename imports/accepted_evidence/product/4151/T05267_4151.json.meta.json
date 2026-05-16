@@ -1,0 +1,14 @@
+{
+  "source_id": "4151",
+  "task_id": "T05267",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Orlistat&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/4151/T05267_4151.json",
+  "sha256": "c39f7382b49ed5ccff0a965fff795e495ae3f404984ca4d2abd4885ab9ddaa48",
+  "downloaded_at": "2026-05-16T03:46:29.521701+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:617:4151",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

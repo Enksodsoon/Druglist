@@ -1,0 +1,14 @@
+{
+  "source_id": "8607",
+  "task_id": "T01693",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Durasal-CR+4+mg",
+  "local_path": "imports/accepted_evidence/product/8607/T01693_8607.cfm",
+  "sha256": "68d83bdc7bd68696fef52f1fd9dfb32a43137035b1dee1818d70b416e13c2ec1",
+  "downloaded_at": "2026-05-16T03:37:35.312359+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:126:8607",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

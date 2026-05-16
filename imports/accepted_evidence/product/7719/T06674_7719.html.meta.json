@@ -1,0 +1,14 @@
+{
+  "source_id": "7719",
+  "task_id": "T06674",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Clinovir+Cream",
+  "local_path": "imports/accepted_evidence/product/7719/T06674_7719.html",
+  "sha256": "7632b756ecbbad6bb715da8fa3b67389c3f29255838bdb258687d9fa4ef361ce",
+  "downloaded_at": "2026-05-16T03:50:07.422068+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:785:7719",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

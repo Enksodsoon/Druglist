@@ -1,0 +1,14 @@
+{
+  "source_id": "44250",
+  "task_id": "T02555",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Japrolox+tabslets",
+  "local_path": "imports/accepted_evidence/product/44250/T02555_44250.html",
+  "sha256": "fd3c4c99f19adaa5efe045b8c07d1c252ff56cbd934654fd36448ac729e41a86",
+  "downloaded_at": "2026-05-16T03:39:42.389898+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:244:44250",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

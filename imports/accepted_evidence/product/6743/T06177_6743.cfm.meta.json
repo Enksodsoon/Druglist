@@ -1,0 +1,14 @@
+{
+  "source_id": "6743",
+  "task_id": "T06177",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Glymorin+Suppositories",
+  "local_path": "imports/accepted_evidence/product/6743/T06177_6743.cfm",
+  "sha256": "f39a5a4c49a52772ddbf08418bfe3338d131f87a4a9bfdce3913f0c1e5aec167",
+  "downloaded_at": "2026-05-16T03:48:48.117625+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:731:6743",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

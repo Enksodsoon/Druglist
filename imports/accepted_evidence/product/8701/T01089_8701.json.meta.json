@@ -1,0 +1,14 @@
+{
+  "source_id": "8701",
+  "task_id": "T01089",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Hydrox-25&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8701/T01089_8701.json",
+  "sha256": "553c89250cf5e624451ac1348306916998e609610ca707b3dccd2a82459528b8",
+  "downloaded_at": "2026-05-16T03:36:07.212362+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:46:8701",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

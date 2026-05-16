@@ -1,0 +1,1147 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 51
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Mucus Relief DM Guaifenesin, Dextromethorphan HBr GUAIFENESIN GUAIFENESIN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN SILICON DIOXIDE MAGNESIUM STEARATE CARBOMER 934 CELLULOSE, MICROCRYSTALLINE POVIDONE D&C YELLOW NO. 10 HYPROMELLOSE, UNSPECIFIED LACTOSE MONOHYDRATE TALC AN038"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each extended-release tablet) Dextromethorphan HBr 30 mg Guaifenesin 600 mg"
+      ],
+      "purpose": [
+        "Purpose Cough Suppressant Expectorant"
+      ],
+      "indications_and_usage": [
+        "Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing the impulse to cough to help you get to sleep"
+      ],
+      "warnings": [
+        "Warnings Do not use for children under 12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus) When using this product, do not use more than directed. Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "do_not_use": [
+        "Do not use for children under 12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)"
+      ],
+      "when_using": [
+        "When using this product, do not use more than directed."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "dosage_and_administration": [
+        "Directions do not crush, chew, or break tablet take with a full glass of water this product can be administered without regards for timing of meals adults and children 12 years of age and older: 1 or 2 tablet every 12 hours; not more than 4 tablets in 24 hours children under 12 years of age: do not use"
+      ],
+      "spl_unclassified_section": [
+        "Other information store between 20º to 25ºC (68º to 77ºF)"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients carbomer, colloidal silicon dioxide, D&Cyellow #10 aluminum lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, talc"
+      ],
+      "questions": [
+        "Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel Compare to the active ingredients in Mucinex® DM* MUCUS RELIEF DM GUAIFENESIN 600 mg DEXTROMETHORPHAN HBr 30 mg EXPECTORANT & COUGH SUPPRESSANT Temporarily controls cough Thin & loosens mucus 12 HOUR EXTENDED-RELEASE TABLETS *This product is not manufactured or distributed Reckitt Benckiser LLC, distributor of Mucinex® DM. TAMPER EVIDENT: DO NOT USE IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. DISTRIBUTED BY: RITE AID, 30 HUNTER LANE, CAMP HILL, PA 17011 www.riteaid.com",
+        "Package Label RITE AID Mucus Relief DM Dextromethorphan HBr 30 mg, Guaifenesin 600 mg"
+      ],
+      "set_id": "035693ed-d720-430b-98f5-fe4b5dec5db6",
+      "id": "6a9ea21a-5003-47b7-bac0-f7f218ce9b5d",
+      "effective_time": "20250820",
+      "version": "7",
+      "openfda": {
+        "application_number": [
+          "ANDA209692"
+        ],
+        "brand_name": [
+          "Mucus Relief DM"
+        ],
+        "generic_name": [
+          "GUAIFENESIN, DEXTROMETHORPHAN HBR"
+        ],
+        "manufacturer_name": [
+          "Rite Aid Corporation"
+        ],
+        "product_ndc": [
+          "11822-0733"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "1298324"
+        ],
+        "spl_id": [
+          "6a9ea21a-5003-47b7-bac0-f7f218ce9b5d"
+        ],
+        "spl_set_id": [
+          "035693ed-d720-430b-98f5-fe4b5dec5db6"
+        ],
+        "package_ndc": [
+          "11822-0733-4",
+          "11822-0733-2",
+          "11822-0733-6"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0011822732994"
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Mucus Relief DM Extended Release Caplets Guaifenesin, Dextromethorphan HBr DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN CARBOMER 934 SILICON DIOXIDE D&C YELLOW NO. 10 HYPROMELLOSE, UNSPECIFIED LACTOSE MONOHYDRATE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POVIDONE TALC AN039"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each extended-release tablet) Dextromethorphan HBr 60 mg Guaifenesin 1200 mg"
+      ],
+      "purpose": [
+        "Purpose Cough Suppressant Expectorant"
+      ],
+      "indications_and_usage": [
+        "Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing the impulse to cough to help you get to sleep"
+      ],
+      "warnings": [
+        "Warnings Do not use for children under12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus) When using this product, do not use more than directed. Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "do_not_use": [
+        "Do not use for children under12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)"
+      ],
+      "when_using": [
+        "When using this product, do not use more than directed."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "dosage_and_administration": [
+        "Directions do not crush, chew, or break tablet take with a full glass of water this product can be administered without regards for timing of meals adults and children 12 years of age and older: 1 tablet every 12 hours; not more than 2 tablets in 24 hours children under 12 years of age: do not use"
+      ],
+      "storage_and_handling": [
+        "Other information store between 20º to 25ºC (68º to 77ºF)"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients carbomer, colloidal silicon dioxide, D&Cyellow #10 aluminum lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, talc"
+      ],
+      "questions": [
+        "Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel COMPARE TO MUCINEX® DM MAXIMUM STRENGTH active ingredients* Maximum strength Mucus Relief DM Dextromethorphan HBr, 60 mg Guaifenesin, 1200 mg Cough Suppressant Expectorant 12 Hour Relief Controls Cough Thins and Loosens Mucus EXTENDED-RELEASE TABLETS *This product is not manufactured or distributed Reckitt Benckiser LLC, distributor Mucinex® DM Maximum Strength. TAMPER EVIDENT: DO NOT USE IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. DISTRIBUTED BY CARDINAL HEALTH DUBLIN, OHIO 43017 www.myleader.com",
+        "Package Label LEADER Maximum Strength Mucus Relief DM Dextromethorphan HBr 60 mg, Guaifenesin 1200 mg"
+      ],
+      "set_id": "04af43e6-6276-42ec-a902-3de22bc9fdea",
+      "id": "55dad94f-71e8-4e1e-bd70-520033e6d8cd",
+      "effective_time": "20221020",
+      "version": "6",
+      "openfda": {
+        "application_number": [
+          "ANDA209692"
+        ],
+        "brand_name": [
+          "Mucus Relief DM Extended Release Caplets"
+        ],
+        "generic_name": [
+          "GUAIFENESIN, DEXTROMETHORPHAN HBR"
+        ],
+        "manufacturer_name": [
+          "Cardinal Health (Leader) 70000"
+        ],
+        "product_ndc": [
+          "70000-0464"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "1099074"
+        ],
+        "spl_id": [
+          "55dad94f-71e8-4e1e-bd70-520033e6d8cd"
+        ],
+        "spl_set_id": [
+          "04af43e6-6276-42ec-a902-3de22bc9fdea"
+        ],
+        "package_ndc": [
+          "70000-0464-1",
+          "70000-0464-2"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0096295136500"
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Mucus Relief DM Extended Release Caplets Maximum Strength Guaifenesin, Dextromethorphan HBr DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN CARBOMER 934 SILICON DIOXIDE D&C YELLOW NO. 10 HYPROMELLOSE, UNSPECIFIED LACTOSE MONOHYDRATE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POVIDONE TALC AN039"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each extended-release tablet) Dextromethorphan HBr 60 mg Guaifenesin 1200 mg"
+      ],
+      "purpose": [
+        "Purpose Cough Suppressant Expectorant"
+      ],
+      "indications_and_usage": [
+        "Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing the impulse to cough to help you get to sleep"
+      ],
+      "warnings": [
+        "Warnings Do not use for children under12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus) When using this product, do not use more than directed. Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "do_not_use": [
+        "Do not use for children under12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)"
+      ],
+      "when_using": [
+        "When using this product, do not use more than directed."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "dosage_and_administration": [
+        "Directions do not crush, chew, or break tablet take with a full glass of water this product can be administered without regards for timing of meals adults and children 12 years of age and older: 1 tablet every 12 hours; not more than 2 tablets in 24 hours children under 12 years of age: do not use"
+      ],
+      "storage_and_handling": [
+        "Other information store between 20º to 25ºC (68º to 77ºF)"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients carbomer, colloidal silicon dioxide, D&Cyellow #10 aluminum lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, talc"
+      ],
+      "questions": [
+        "Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel Compare to the active ingredient in Maximum Strength Mucinex® DM†† 12 HOUR Mucus Relief DM GUAIFENESIN 1200 mg / DEXTROMETHORPHAN\\ HBr 60 mg / EXTENDED-RELEASE TABLETS EXPECTORANT / COUGH SUPPRESSANT Maximum Strength 12 Hour Controls Cough Thins & loosens mucus EXTENDED-RELEASE TABLETS ††This product is not manufactured or distributed RB Health (US) LLC, owner of the registered trademark Mucinex® DM. TAMPER EVIDENT: DO NOT USE IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. DISTRIBUTED BY: WALGREEN CO. DEERFIELD, IL 60015",
+        "Package Label WALGREENS Maximum Strength Mucus Relief DM Dextromethorphan HBr 60 mg, Guaifenesin 1200 mg"
+      ],
+      "set_id": "11310cf8-ea34-47a2-b4d7-fe1131fef462",
+      "id": "fd5e4fe2-3fe7-4277-8bd3-fc955c259714",
+      "effective_time": "20250828",
+      "version": "5",
+      "openfda": {
+        "application_number": [
+          "ANDA209692"
+        ],
+        "brand_name": [
+          "Mucus Relief DM Extended Release Caplets Maximum Strength"
+        ],
+        "generic_name": [
+          "GUAIFENESIN, DEXTROMETHORPHAN HBR"
+        ],
+        "manufacturer_name": [
+          "Walgreens"
+        ],
+        "product_ndc": [
+          "0363-0437"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "1099074"
+        ],
+        "spl_id": [
+          "fd5e4fe2-3fe7-4277-8bd3-fc955c259714"
+        ],
+        "spl_set_id": [
+          "11310cf8-ea34-47a2-b4d7-fe1131fef462"
+        ],
+        "package_ndc": [
+          "0363-0437-42",
+          "0363-0437-28",
+          "0363-0437-14"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0311917202624"
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Mucus Relief DM Guaifenesin, Dextromethorphan HBr DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN CARBOMER 934 SILICON DIOXIDE D&C YELLOW NO. 10 HYPROMELLOSE, UNSPECIFIED LACTOSE MONOHYDRATE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POVIDONE TALC light yellow AN039"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each extended-release tablet) Dextromethorphan HBr 60 mg Guaifenesin 1200 mg"
+      ],
+      "purpose": [
+        "Purpose Cough Suppressant Expectorant"
+      ],
+      "indications_and_usage": [
+        "Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing the impulse to cough to help you get to sleep"
+      ],
+      "warnings": [
+        "Warnings Do not use for children under12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus) When using this product, do not use more than directed. Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "do_not_use": [
+        "Do not use for children under12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)"
+      ],
+      "when_using": [
+        "When using this product, do not use more than directed."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "dosage_and_administration": [
+        "Directions do not crush, chew, or break tablet take with a full glass of water this product can be administered without regards for timing of meals adults and children 12 years of age and older: 1 tablet every 12 hours; not more than 2 tablets in 24 hours children under 12 years of age: do not use"
+      ],
+      "storage_and_handling": [
+        "Other information store between 20º to 25ºC (68º to 77ºF)"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients carbomer, colloidal silicon dioxide, D&Cyellow #10 aluminum lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, talc"
+      ],
+      "questions": [
+        "Questions or comments? Call toll free 1-877-753-3935 Monday-Friday 9AM-5PM EST"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel Compare to Maximum Strength Mucinex® DM active ingredients* Maximum strength Mucus Relief DM Guaifenesin, 1200 mg / Expectorant Dextromethorphan HBr , 60 mg Cough Suppressant Expectorant / Cough Suppressant Controls Cough Thins & Loosens Mucus EXTENDED-RELEASE TABLETS *This product is not manufactured or distributed Reckitt Benckiser LLC, distributor of Maximum Strength Mucinex® DM. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. MADE WITH PRIDE AND CARE FOR H-E-B® SAN ANTONIO, TX 78204",
+        "Package Label H-E-B Maximum Strength Mucus Relief DM Dextromethorphan HBr 60 mg, Guaifenesin 1200 mg"
+      ],
+      "set_id": "187097bf-37c8-4184-a2fd-1eff9147d370",
+      "id": "f7813b8a-50d1-4a5c-8120-71312b895720",
+      "effective_time": "20240801",
+      "version": "4",
+      "openfda": {
+        "application_number": [
+          "ANDA209692"
+        ],
+        "brand_name": [
+          "Mucus Relief DM"
+        ],
+        "generic_name": [
+          "GUAIFENESIN, DEXTROMETHORPHAN HBR"
+        ],
+        "manufacturer_name": [
+          "H E B"
+        ],
+        "product_ndc": [
+          "37808-730"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "1099074"
+        ],
+        "spl_id": [
+          "f7813b8a-50d1-4a5c-8120-71312b895720"
+        ],
+        "spl_set_id": [
+          "187097bf-37c8-4184-a2fd-1eff9147d370"
+        ],
+        "package_ndc": [
+          "37808-730-42"
+        ],
+        "original_packager_product_ndc": [
+          "65162-039"
+        ],
+        "upc": [
+          "0041220987863"
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "mucus dm extended release guaifenesin, dextromethorphan HBr GUAIFENESIN GUAIFENESIN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN CARBOMER HOMOPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) COPOVIDONE K25-31 D&C YELLOW NO. 10 HYPROMELLOSE, UNSPECIFIED MAGNESIUM HYDROXIDE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE light L812"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each extended-release tablet) Dextromethorphan HBr 60 mg Guaifenesin 1200 mg"
+      ],
+      "purpose": [
+        "Purposes Cough suppressant Expectorant"
+      ],
+      "indications_and_usage": [
+        "Uses • helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive • temporarily relieves: • cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants • the intensity of coughing • the impulse to cough to help you get to sleep"
+      ],
+      "warnings": [
+        "Warnings"
+      ],
+      "do_not_use": [
+        "Do not use • for children under 12 years of age • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have • persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema • cough accompanied by too much phlegm (mucus)"
+      ],
+      "when_using": [
+        "When using this product • do not use more than directed"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if • cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "dosage_and_administration": [
+        "Directions • do not crush, chew, or break tablet • take with a full glass of water • this product can be administered without regard for timing of meals • adults and children 12 years and older: 1 tablet every 12 hours; not more than 2 tablets in 24 hours • children under 12 years of age: do not use"
+      ],
+      "storage_and_handling": [
+        "Other information • each tablet contains: magnesium 25 mg • do not use if printed foil under cap is broken or missing • store between 20-25 ° C (68-77 ° F)"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients carbomer homopolymer type B, copovidone, D&C yellow #10 aluminum lake, hypromellose, magnesium hydroxide, magnesium stearate, microcrystalline cellulose, silicon dioxide"
+      ],
+      "questions": [
+        "Questions or comments? 1-800-719-9260"
+      ],
+      "package_label_principal_display_panel": [
+        "Package/Label Principal Display Panel Compare to the active ingredients in Maximum Strength Mucinex® DM MAXIMUM STRENGTH Mucus DM Extended Release GUAIFENESIN AND DEXTROMETHORPHAN HYDROBROMIDE EXTENDED-RELEASE TABLETS, 1200 mg/60 mg EXPECTORANT/COUGH SUPPRESSANT Controls cough Thins & loosens mucus Actual Size Actual Bottle Size on Side Panel 14 EXTENDED-RELEASE TABLETS Mucus DM Extended Release Carton Image 1 Mucus DM Extended Release Carton Image 2"
+      ],
+      "set_id": "1bc37ee4-df27-4358-b724-6b55406dbce6",
+      "id": "8293e6c8-35ed-481d-ad0d-396eb942be64",
+      "effective_time": "20260508",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "ANDA207602"
+        ],
+        "brand_name": [
+          "mucus dm extended release"
+        ],
+        "generic_name": [
+          "GUAIFENESIN, DEXTROMETHORPHAN HBR"
+        ],
+        "manufacturer_name": [
+          "CVS Pharmacy"
+        ],
+        "product_ndc": [
+          "69842-812"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "1099074"
+        ],
+        "spl_id": [
+          "8293e6c8-35ed-481d-ad0d-396eb942be64"
+        ],
+        "spl_set_id": [
+          "1bc37ee4-df27-4358-b724-6b55406dbce6"
+        ],
+        "package_ndc": [
+          "69842-812-66",
+          "69842-812-30",
+          "69842-812-55"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Mucus Relief DM Guaifenesin, Dextromethorphan HBr DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN CARBOMER 934 SILICON DIOXIDE D&C YELLOW NO. 10 HYPROMELLOSE, UNSPECIFIED LACTOSE MONOHYDRATE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POVIDONE TALC light yellow AN039"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each extended-release tablet) Dextromethorphan HBr 60 mg Guaifenesin 1200 mg"
+      ],
+      "purpose": [
+        "Purpose Cough Suppressant Expectorant"
+      ],
+      "indications_and_usage": [
+        "Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing the impulse to cough to help you get to sleep"
+      ],
+      "warnings": [
+        "Warnings Do not use for children under12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus) When using this product, do not use more than directed. Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "do_not_use": [
+        "Do not use for children under12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)"
+      ],
+      "when_using": [
+        "When using this product, do not use more than directed."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "dosage_and_administration": [
+        "Directions do not crush, chew, or break tablet take with a full glass of water this product can be administered without regards for timing of meals adults and children 12 years of age and older: 1 tablet every 12 hours; not more than 2 tablets in 24 hours children under 12 years of age: do not use"
+      ],
+      "storage_and_handling": [
+        "Other information store between 20º to 25ºC (68º to 77ºF)"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients carbomer, colloidal silicon dioxide, D&Cyellow #10 aluminum lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, talc"
+      ],
+      "questions": [
+        "Questions or comments? Call toll free 1-877-753-3935 Monday-Friday 9AM-5PM EST"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel Compare to Maximum Strength Mucinex® DM active ingredients* Maximum strength Mucus Relief DM Guaifenesin, 1200 mg / Expectorant Dextromethorphan HBr , 60 mg Cough Suppressant Expectorant / Cough Suppressant Controls Cough Thins & Loosens Mucus EXTENDED-RELEASE TABLETS *This product is not manufactured or distributed Reckitt Benckiser LLC, distributor of Maximum Strength Mucinex® DM. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. MADE WITH PRIDE AND CARE FOR H-E-B® SAN ANTONIO, TX 78204",
+        "Package Label H-E-B Maximum Strength Mucus Relief DM Dextromethorphan HBr 60 mg Guaifenesin 1200 mg"
+      ],
+      "set_id": "20df2ffe-5281-4cd6-adb3-3a3d28788ef6",
+      "id": "8b93ff63-6715-4133-8e69-464becba08b8",
+      "effective_time": "20240802",
+      "version": "1",
+      "openfda": {
+        "application_number": [
+          "ANDA209692"
+        ],
+        "brand_name": [
+          "Mucus Relief DM"
+        ],
+        "generic_name": [
+          "GUAIFENESIN, DEXTROMETHORPHAN HBR"
+        ],
+        "manufacturer_name": [
+          "H E B"
+        ],
+        "product_ndc": [
+          "37808-834"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "1099074"
+        ],
+        "spl_id": [
+          "8b93ff63-6715-4133-8e69-464becba08b8"
+        ],
+        "spl_set_id": [
+          "20df2ffe-5281-4cd6-adb3-3a3d28788ef6"
+        ],
+        "package_ndc": [
+          "37808-834-14"
+        ],
+        "original_packager_product_ndc": [
+          "65162-039"
+        ],
+        "upc": [
+          "0041220831883"
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Mucus Relief DM Guaifenesin, Dextromethorphan HBr GUAIFENESIN GUAIFENESIN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN SILICON DIOXIDE MAGNESIUM STEARATE CARBOMER 934 CELLULOSE, MICROCRYSTALLINE POVIDONE D&C YELLOW NO. 10 HYPROMELLOSE, UNSPECIFIED LACTOSE MONOHYDRATE TALC AN038"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each extended-release tablet) Dextromethorphan HBr 30 mg Guaifenesin 600 mg"
+      ],
+      "purpose": [
+        "Purpose Cough Suppressant Expectorant"
+      ],
+      "indications_and_usage": [
+        "Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing the impulse to cough to help you get to sleep"
+      ],
+      "warnings": [
+        "Warnings Do not use for children under 12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus) When using this product, do not use more than directed. Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "do_not_use": [
+        "Do not use for children under 12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)"
+      ],
+      "when_using": [
+        "When using this product, do not use more than directed."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "dosage_and_administration": [
+        "Directions do not crush, chew, or break tablet take with a full glass of water this product can be administered without regards for timing of meals adults and children 12 years of age and older: 1 or 2 tablet every 12 hours; not more than 4 tablets in 24 hours children under 12 years of age: do not use"
+      ],
+      "spl_unclassified_section": [
+        "Other information store between 20º to 25ºC (68º to 77ºF)"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients carbomer, colloidal silicon dioxide, D&Cyellow #10 aluminum lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, talc"
+      ],
+      "questions": [
+        "Questions or comments? Call 1-888-309-9030"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel Compare to active ingredients of Mucinex® DM* Mucus Relief DM Guaifenesin 600 mg Expectorant Dextromethorphan HBr 30 mg Cough Suppressant Controls cough Thins & loosen mucus Extended-Release Tablets *This product is not manufactured or distributed Reckitt Benckiser LLC, distributor of Mucinex® DM. TAMPER EVIDENT: DO NOT USE IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. DISTRIBUTED BY OLD EAST MAIN CO. 100 MISSION RIDGE GOODLETTSVILLE, TN 37072",
+        "Package Label DOLLAR GENERAL Mucus Relief DM Dextromethorphan HBr 30 mg, Guaifenesin 600 mg"
+      ],
+      "set_id": "2426bf76-19bf-4bfd-8f9e-3b348e4b5641",
+      "id": "a0ec71c4-7881-4a5f-babc-e05c0490ddca",
+      "effective_time": "20251111",
+      "version": "6",
+      "openfda": {
+        "application_number": [
+          "ANDA209692"
+        ],
+        "brand_name": [
+          "Mucus Relief DM"
+        ],
+        "generic_name": [
+          "GUAIFENESIN, DEXTROMETHORPHAN HBR"
+        ],
+        "manufacturer_name": [
+          "Dolgencorp, Inc. (DOLLAR GENERAL & REXALL)"
+        ],
+        "product_ndc": [
+          "55910-733"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "1298324"
+        ],
+        "spl_id": [
+          "a0ec71c4-7881-4a5f-babc-e05c0490ddca"
+        ],
+        "spl_set_id": [
+          "2426bf76-19bf-4bfd-8f9e-3b348e4b5641"
+        ],
+        "package_ndc": [
+          "55910-733-06",
+          "55910-733-20"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0359726732208"
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Maximum Strength Guaifenesin DM Guaifenesin, Dextromethorphan HBr DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN CARBOMER 934 SILICON DIOXIDE D&C YELLOW NO. 10 HYPROMELLOSE, UNSPECIFIED LACTOSE MONOHYDRATE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POVIDONE TALC AN039"
+      ],
+      "active_ingredient": [
+        "Active ingredients (in each extended-release tablet) Dextromethorphan HBr 60 mg Guaifenesin 1200 mg"
+      ],
+      "purpose": [
+        "Purpose Cough Suppressant Expectorant"
+      ],
+      "indications_and_usage": [
+        "Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing the impulse to cough to help you get to sleep"
+      ],
+      "warnings": [
+        "Warnings Do not use for children under12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus) When using this product, do not use more than directed. Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "do_not_use": [
+        "Do not use for children under12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product."
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)"
+      ],
+      "when_using": [
+        "When using this product, do not use more than directed."
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious illness."
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+      ],
+      "dosage_and_administration": [
+        "Directions do not crush, chew, or break tablet take with a full glass of water this product can be administered without regards for timing of meals adults and children 12 years of age and older: 1 tablet every 12 hours; not more than 2 tablets in 24 hours children under 12 years of age: do not use"
+      ],
+      "storage_and_handling": [
+        "Other information store between 20º to 25ºC (68º to 77ºF)"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients carbomer, colloidal silicon dioxide, D&Cyellow #10 aluminum lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, talc"
+      ],
+      "questions": [
+        "Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST"
+      ],
+      "package_label_principal_display_panel": [
+        "Principal Display Panel Compare to the active ingredients in Maximum Strength Mucinex® DM* Maximum strength Mucus Relief DM Guaifenesin | 1200 mg Expectorant Dextromethorphan HBr | 60 mg Cough Suppressant 12-hour relief Controls Cough Thins & Loosens Mucus Extended Release Tablets *This product is not manufactured or distributed Reckitt Benckiser LLC, distributor of Maximum Strength Mucinex® DM. TAMPER EVIDENT: DO NOT USE IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. Distributed by: Rugby Laboratories 17177 N Laurel Park Drive, Suite 233 Livonia, MI 48152 www.rugbylaboratories.com",
+        "Package Label RUGBY Maximum Strength Guaifenesin DM Dextromethorphan HBr 60 mg Guaifenesin 1200 mg"
+      ],
+      "set_id": "2c9515f8-3120-4dbb-a7fc-d89fc5727148",
+      "id": "74767680-e4e7-4ba6-8d45-a01cd0471317",
+      "effective_time": "20260210",
+      "version": "9",
+      "openfda": {
+        "application_number": [
+          "ANDA209692"
+        ],
+        "brand_name": [
+          "Maximum Strength Guaifenesin DM"
+        ],
+        "generic_name": [
+          "GUAIFENESIN, DEXTROMETHORPHAN HBR"
+        ],
+        "manufacturer_name": [
+          "Rugby Laboratories"
+        ],
+        "product_ndc": [
+          "0536-1213"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "1099074"
+        ],
+        "spl_id": [
+          "74767680-e4e7-4ba6-8d45-a01cd0471317"
+        ],
+        "spl_set_id": [
+          "2c9515f8-3120-4dbb-a7fc-d89fc5727148"
+        ],
+        "package_ndc": [
+          "0536-1213-88"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0305361213886"
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "NeoTuss S/F Grape-Menthol Flavor Guaifenesin, Dextromethorphan HBr METHYLPARABEN PROPYLPARABEN SUCRALOSE GUAIFENESIN GUAIFENESIN PROPYLENE GLYCOL GLYCERIN HYDROXYETHYLCELLULOSE MENTHOL WATER DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN SORBITOL"
+      ],
+      "active_ingredient": [
+        "Guaifenesin 200 mg / 5 mL – Purpose: Expectorant Dextromethorphan HBr 30 mg / 5 mL – Purpose: Antitussive"
+      ],
+      "inactive_ingredient": [
+        "Artificial and natural flavors, glycerin, hydroxyethylcellulose, menthol, methylparaben, propylene glycol, propylparaben, purified water, sorbitol, and sucralose."
+      ],
+      "indications_and_usage": [
+        "Temporarily relieves cough due to minor bronchial irritations as may occur with the common cold. Helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive. Adults and children over 12 years of age: Oral dose in one teaspoonful (5 mL) every 6-8 hours, or as directed by a physician. Children 6 to under 12 years of age: 1/2 teaspoonful (2.5 mL) every 6-8 hours, or as directed by a physician. Children under 6 years of age: Only as directed by a physician."
+      ],
+      "dosage_and_administration": [
+        "Adults and children over 12 years of age: Oral dose in one teaspoonful (5 mL) every 6-8 hours, or as directed by a physician. Children 6 to under 12 years of age: 1/2 teaspoonful (2.5 mL) every 6-8 hours, or as directed by a physician. Children under 6 years of age: Only as directed by a physician."
+      ],
+      "purpose": [
+        "Expectorant and Antitussive (cough suppressant)"
+      ],
+      "when_using": [
+        "Temporarily relieves cough due to minor bronchial irritations as may occur with the common cold. Helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive."
+      ],
+      "keep_out_of_reach_of_children": [
+        "In case of accidental overdose, seek the advice of a health professional or contact a Poison Control Center immediately."
+      ],
+      "warnings": [
+        "A persistent cough may be a sign of a serious condition. If cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache, consult a physician. Do not take this product for persistent cough or chronic cough such as occurs with smoking, asthma, or emphysema, or if cough is accompanied by excessive phlegm (mucus) unless directed by a physician."
+      ],
+      "stop_use": [
+        "Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you are uncertain whether your prescription drug contains a MAOI, consult a health professional before taking this product. If pregnant or breast-feeding, ask a health professional before using this product."
+      ],
+      "other_safety_information": [
+        "Shake well before use. Do not use this product if the seal is torn, broken or missing. Pharmacist: Preserve and dispense in tight, light-resistant containers as defined in the USP. Store between 15°-30°C (59°-86°F)."
+      ],
+      "package_label_principal_display_panel": [
+        "Package Label - Principal Display Panel 1 FL. OZ (30 mL) NDC: 12539-555-01 NeoTUSS S/F label"
+      ],
+      "set_id": "2f3df82c-1926-5238-e063-6294a90a7bbf",
+      "id": "463c3e8f-7445-efdd-e063-6394a90a660b",
+      "effective_time": "20251218",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "NeoTuss S/F Grape-Menthol Flavor"
+        ],
+        "generic_name": [
+          "GUAIFENESIN, DEXTROMETHORPHAN HBR"
+        ],
+        "manufacturer_name": [
+          "DORAL PHARMAMEDICS INC dba A.G. Marin Pharmaceuticals"
+        ],
+        "product_ndc": [
+          "12539-555"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "1147924"
+        ],
+        "spl_id": [
+          "463c3e8f-7445-efdd-e063-6394a90a660b"
+        ],
+        "spl_set_id": [
+          "2f3df82c-1926-5238-e063-6294a90a7bbf"
+        ],
+        "package_ndc": [
+          "12539-555-01"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "NeoTuss S/F Grape-Menthol Flavor Guaifenesin, Dextromethorphan HBr METHYLPARABEN PROPYLPARABEN SUCRALOSE GUAIFENESIN GUAIFENESIN SORBITOL PROPYLENE GLYCOL GLYCERIN HYDROXYETHYLCELLULOSE MENTHOL WATER DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN"
+      ],
+      "active_ingredient": [
+        "Guaifenesin 200 mg / 5 mL – Purpose: Expectorant Dextromethorphan HBr 30 mg / 5 mL – Purpose: Antitussive"
+      ],
+      "inactive_ingredient": [
+        "Artificial and natural flavors, glycerin, hydroxyethylcellulose, menthol, methylparaben, propylene glycol, propylparaben, purified water, sorbitol, and sucralose."
+      ],
+      "indications_and_usage": [
+        "Temporarily relieves cough due to minor bronchial irritations as may occur with the common cold. Helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive. Adults and children over 12 years of age: Oral dose in one teaspoonful (5 mL) every 6-8 hours, or as directed by a physician. Children 6 to under 12 years of age: 1/2 teaspoonful (2.5 mL) every 6-8 hours, or as directed by a physician. Children under 6 years of age: Only as directed by a physician."
+      ],
+      "dosage_and_administration": [
+        "Adults and children over 12 years of age: Oral dose in one teaspoonful (5 mL) every 6-8 hours, or as directed by a physician. Children 6 to under 12 years of age: 1/2 teaspoonful (2.5 mL) every 6-8 hours, or as directed by a physician. Children under 6 years of age: Only as directed by a physician."
+      ],
+      "purpose": [
+        "Expectorant and Antitussive (cough suppressant)"
+      ],
+      "when_using": [
+        "Temporarily relieves cough due to minor bronchial irritations as may occur with the common cold. Helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive."
+      ],
+      "keep_out_of_reach_of_children": [
+        "In case of accidental overdose, seek the advice of a health professional or contact a Poison Control Center immediately."
+      ],
+      "warnings": [
+        "A persistent cough may be a sign of a serious condition. If cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache, consult a physician. Do not take this product for persistent cough or chronic cough such as occurs with smoking, asthma, or emphysema, or if cough is accompanied by excessive phlegm (mucus) unless directed by a physician."
+      ],
+      "stop_use": [
+        "Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you are uncertain whether your prescription drug contains a MAOI, consult a health professional before taking this product. If pregnant or breast-feeding, ask a health professional before using this product."
+      ],
+      "other_safety_information": [
+        "Shake well before use. Do not use this product if the seal is torn, broken or missing. Pharmacist: Preserve and dispense in tight, light-resistant containers as defined in the USP. Store between 15°-30°C (59°-86°F)."
+      ],
+      "package_label_principal_display_panel": [
+        "Package Label - Principal Display Panel 16 FL. OZ (474 mL) NDC: 12539-555-16 NeoTuss SF_Label16"
+      ],
+      "set_id": "2fac3425-32f0-38d6-e063-6394a90a6e7a",
+      "id": "463c3f95-ed8f-ee88-e063-6394a90a54f5",
+      "effective_time": "20251218",
+      "version": "2",
+      "openfda": {
+        "application_number": [
+          "M012"
+        ],
+        "brand_name": [
+          "NeoTuss S/F Grape-Menthol Flavor"
+        ],
+        "generic_name": [
+          "GUAIFENESIN, DEXTROMETHORPHAN HBR"
+        ],
+        "manufacturer_name": [
+          "DORAL PHARMAMEDICS INC dba A.G. Marin Pharmaceuticals"
+        ],
+        "product_ndc": [
+          "12539-555"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "GUAIFENESIN"
+        ],
+        "rxcui": [
+          "1147924"
+        ],
+        "spl_id": [
+          "463c3f95-ed8f-ee88-e063-6394a90a54f5"
+        ],
+        "spl_set_id": [
+          "2fac3425-32f0-38d6-e063-6394a90a6e7a"
+        ],
+        "package_ndc": [
+          "12539-555-16"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000193956",
+          "N0000008867",
+          "N0000009560"
+        ],
+        "pharm_class_epc": [
+          "Expectorant [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Respiratory Secretion Viscosity [PE]",
+          "Increased Respiratory Secretions [PE]"
+        ],
+        "unii": [
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ]
+      }
+    }
+  ]
+}

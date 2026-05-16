@@ -1,0 +1,14 @@
+{
+  "source_id": "1837",
+  "task_id": "T01386",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Emulax",
+  "local_path": "imports/accepted_evidence/product/1837/T01386_1837.html",
+  "sha256": "ba8203bfd6f6c853da0dde0ccdc2294e33eacdb09b6d91808246a1d538422365",
+  "downloaded_at": "2026-05-16T03:36:52.830981+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:91:1837",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

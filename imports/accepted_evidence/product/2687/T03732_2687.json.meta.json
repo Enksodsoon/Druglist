@@ -1,0 +1,14 @@
+{
+  "source_id": "2687",
+  "task_id": "T03732",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Mecobalamin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2687/T03732_2687.json",
+  "sha256": "127470b72bfcf0234efacbba75233d7116d489816c16eed7eff76c85d0cfa619",
+  "downloaded_at": "2026-05-16T03:42:40.859779+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:402:2687|Product_Label_Links:404:2625",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

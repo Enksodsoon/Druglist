@@ -1,0 +1,14 @@
+{
+  "source_id": "2014",
+  "task_id": "T03136",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=alginate%20%2B%20bicarbonate%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2014/T03136_2014.json",
+  "sha256": "94672ab661b058cdf95a676ec638f61dec9a0ce2df16804359f1d9f2296aca56",
+  "downloaded_at": "2026-05-16T03:41:10.195126+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:322:2014",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

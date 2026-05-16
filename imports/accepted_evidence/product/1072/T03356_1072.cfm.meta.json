@@ -1,0 +1,14 @@
+{
+  "source_id": "1072",
+  "task_id": "T03356",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Avelox+tabslet",
+  "local_path": "imports/accepted_evidence/product/1072/T03356_1072.cfm",
+  "sha256": "a65982d5eded6862ea2696eddae8dbec1aa7cf4bccb33749fd745d4904028209",
+  "downloaded_at": "2026-05-16T03:41:42.979756+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:352:1072",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

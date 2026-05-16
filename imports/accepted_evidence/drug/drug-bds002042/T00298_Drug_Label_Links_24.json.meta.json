@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_24",
+  "task_id": "T00298",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/ibuprofen/human/spls.json",
+  "local_path": "imports/accepted_evidence/drug/drug-bds002042/T00298_Drug_Label_Links_24.json",
+  "sha256": "d16d03dd2fbbbde13c27be55daf0939529afbeac4b0f684ef63309907f21e6b5",
+  "downloaded_at": "2026-05-16T03:34:19.861611+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "direct_download",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:24:Drug_Label_Links_24",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

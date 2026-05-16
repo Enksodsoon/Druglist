@@ -1,0 +1,14 @@
+{
+  "source_id": "1052",
+  "task_id": "T06263",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Antazoline+%2BTetrahydrozoline+%2F",
+  "local_path": "imports/accepted_evidence/product/1052/T06263_1052.cfm",
+  "sha256": "ffacfd897eafba6e919a8e30a6f157b71de3997081bbed67242c6a46ab4b21a3",
+  "downloaded_at": "2026-05-16T03:49:00.763705+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:742:1052|Product_Label_Links:751:3029",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

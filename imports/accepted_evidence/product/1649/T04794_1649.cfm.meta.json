@@ -1,0 +1,14 @@
+{
+  "source_id": "1649",
+  "task_id": "T04794",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Dipazide",
+  "local_path": "imports/accepted_evidence/product/1649/T04794_1649.cfm",
+  "sha256": "2d447a0c84a66b42352acf896cf6ee07690f805834275b9cd7aa7f47193a05c8",
+  "downloaded_at": "2026-05-16T03:45:20.686547+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:549:1649",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

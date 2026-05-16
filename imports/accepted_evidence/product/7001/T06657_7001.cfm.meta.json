@@ -1,0 +1,14 @@
+{
+  "source_id": "7001",
+  "task_id": "T06657",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Acevax+Cream",
+  "local_path": "imports/accepted_evidence/product/7001/T06657_7001.cfm",
+  "sha256": "5c7d5f10c4a58fd78fdb62224b5857ab8c301c9f590c1cd8408f2fe7a767b579",
+  "downloaded_at": "2026-05-16T03:50:04.367335+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:784:7001",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3713",
+  "task_id": "T02224",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Tempra%20Kids%20Strawberry&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3713/T02224_3713.json",
+  "sha256": "0ca3a863cfb792ef8bea6dccc24f6a91cf3aa957c06c0e4642beb3f3e1f18b70",
+  "downloaded_at": "2026-05-16T03:38:53.194667+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:199:3713",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

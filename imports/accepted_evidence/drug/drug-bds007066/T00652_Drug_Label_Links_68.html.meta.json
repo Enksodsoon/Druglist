@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_68",
+  "task_id": "T00652",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=roxithromycin",
+  "local_path": "imports/accepted_evidence/drug/drug-bds007066/T00652_Drug_Label_Links_68.html",
+  "sha256": "e73c085d4cb5493b8688946a31a70b28ce019cb95148dcdf9ff083ecadc1b10c",
+  "downloaded_at": "2026-05-16T03:35:09.594159+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:68:Drug_Label_Links_68",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

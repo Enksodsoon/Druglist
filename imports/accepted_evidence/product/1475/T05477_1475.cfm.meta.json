@@ -1,0 +1,14 @@
+{
+  "source_id": "1475",
+  "task_id": "T05477",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Counterpain+Cool+%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+  "local_path": "imports/accepted_evidence/product/1475/T05477_1475.cfm",
+  "sha256": "abf7203bf39e7859a03f91774aa86fc101101ccd8604d521212bb592ba63ec2c",
+  "downloaded_at": "2026-05-16T03:47:01.300580+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:643:1475",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

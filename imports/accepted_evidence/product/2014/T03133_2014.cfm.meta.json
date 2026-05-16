@@ -1,0 +1,14 @@
+{
+  "source_id": "2014",
+  "task_id": "T03133",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Gaviscon+Suspension+bottle+150+ml",
+  "local_path": "imports/accepted_evidence/product/2014/T03133_2014.cfm",
+  "sha256": "44f259124ea44aef664457f9bad134e13691c55b8c7c7a061f969ce8120c2866",
+  "downloaded_at": "2026-05-16T03:41:10.153600+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:322:2014",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

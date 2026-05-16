@@ -1,0 +1,14 @@
+{
+  "source_id": "2633",
+  "task_id": "T05046",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Moduretic&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2633/T05046_2633.json",
+  "sha256": "36e9e65a80527c1ffe3b5d179b6c8e60a9ab8917b82cabba0bf74fe04ee390d5",
+  "downloaded_at": "2026-05-16T03:45:58.149552+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:587:2633",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

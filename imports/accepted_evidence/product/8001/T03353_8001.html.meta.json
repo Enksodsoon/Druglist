@@ -1,0 +1,14 @@
+{
+  "source_id": "8001",
+  "task_id": "T03353",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Actrim",
+  "local_path": "imports/accepted_evidence/product/8001/T03353_8001.html",
+  "sha256": "c4d4b854e4bf4147be4c928f7b93cc11db858a894bab0730efa53e57e4d49786",
+  "downloaded_at": "2026-05-16T03:41:41.850538+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:351:8001",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

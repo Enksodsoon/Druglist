@@ -1,0 +1,14 @@
+{
+  "source_id": "2030",
+  "task_id": "T01513",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Bismuth%20Subsalicylate%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/2030/T01513_2030.json",
+  "sha256": "9fde69f7f435601efad38fd0c06f7e08a946e66d0c77e1af0b2019d1dee64ef2",
+  "downloaded_at": "2026-05-16T03:37:07.648591+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:105:2030|Product_Label_Links:317:2010",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

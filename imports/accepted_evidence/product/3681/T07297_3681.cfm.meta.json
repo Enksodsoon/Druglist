@@ -1,0 +1,14 @@
+{
+  "source_id": "3681",
+  "task_id": "T07297",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Systral+Cream+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/3681/T07297_3681.cfm",
+  "sha256": "99fba4c0b4c3e42b229b312aff99ce8211612c67d9d7e3251560a3cbb49ca7e3",
+  "downloaded_at": "2026-05-16T03:51:40.725374+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:865:3681",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

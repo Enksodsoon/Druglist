@@ -1,0 +1,14 @@
+{
+  "source_id": "2898",
+  "task_id": "T01610",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Nexium+20+mg",
+  "local_path": "imports/accepted_evidence/product/2898/T01610_2898.html",
+  "sha256": "b1514137145ac9362900d6c7feebbddb2d649945179e8dc85f4f6300ab3a0a01",
+  "downloaded_at": "2026-05-16T03:37:23.706315+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:115:2898",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

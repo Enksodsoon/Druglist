@@ -1,0 +1,14 @@
+{
+  "source_id": "2047",
+  "task_id": "T05099",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Gabapentin%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/2047/T05099_2047.json",
+  "sha256": "2b33f4dbf42691885fcea5f33a6e575e5db21a019236415d2c0b4ef0523254a2",
+  "downloaded_at": "2026-05-16T03:46:07.062286+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:593:2047|Product_Label_Links:594:2046|Product_Label_Links:597:2863|Product_Label_Links:598:2823",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

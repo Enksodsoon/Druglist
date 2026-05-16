@@ -1,0 +1,14 @@
+{
+  "source_id": "41510",
+  "task_id": "T01046",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Clarid",
+  "local_path": "imports/accepted_evidence/product/41510/T01046_41510.html",
+  "sha256": "90b6dddd1021cee1e7db433b4f29db69ab3935414b5e666f3f41edfc50da903c",
+  "downloaded_at": "2026-05-16T03:36:01.620340+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:40:41510",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

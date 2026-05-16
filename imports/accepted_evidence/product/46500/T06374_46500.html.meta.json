@@ -1,0 +1,14 @@
+{
+  "source_id": "46500",
+  "task_id": "T06374",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Pataday+Ophthalmic+Solution",
+  "local_path": "imports/accepted_evidence/product/46500/T06374_46500.html",
+  "sha256": "0b7ea5e12f8bdd392cadc2e672e297e9e03094ebfc060661000f4cb7acd8cea1",
+  "downloaded_at": "2026-05-16T03:49:17.589890+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:753:46500",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

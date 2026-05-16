@@ -1,0 +1,14 @@
+{
+  "source_id": "1013",
+  "task_id": "T03211",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Simethicone%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1013/T03211_1013.json",
+  "sha256": "c3b5942a0920bd71daf37ab8eddd874b16a1eb71905c2296703cce4fabfdb446",
+  "downloaded_at": "2026-05-16T03:41:22.188173+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:331:1013",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

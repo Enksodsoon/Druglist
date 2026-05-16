@@ -1,0 +1,14 @@
+{
+  "source_id": "1683",
+  "task_id": "T07143",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=20+Urea",
+  "local_path": "imports/accepted_evidence/product/1683/T07143_1683.cfm",
+  "sha256": "38969c7c593bc85ab74ced6e9f2986dbc787fe606a1aad531b739e7c9ac66cfa",
+  "downloaded_at": "2026-05-16T03:51:18.064838+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:848:1683",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

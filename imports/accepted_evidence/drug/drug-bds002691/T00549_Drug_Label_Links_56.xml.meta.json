@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_56",
+  "task_id": "T00549",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=ambroxol%20syrup&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds002691/T00549_Drug_Label_Links_56.xml",
+  "sha256": "1431fc929a1db4948861988f2143362ceb90e80af023810f3a155407ec60013f",
+  "downloaded_at": "2026-05-16T03:34:52.699183+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:56:Drug_Label_Links_56",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

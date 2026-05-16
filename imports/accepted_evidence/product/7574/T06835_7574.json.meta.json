@@ -1,0 +1,14 @@
+{
+  "source_id": "7574",
+  "task_id": "T06835",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Diclofenac%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7574/T06835_7574.json",
+  "sha256": "4c14db083d745fe50e5ef22312bc3dda3ce6c5a7c2a329559409463fa21d69ef",
+  "downloaded_at": "2026-05-16T03:50:30.005121+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:807:7574|Product_Label_Links:808:7575|Product_Label_Links:810:6730|Product_Label_Links:816:4043|Product_Label_Links:817:4042|Product_Label_Links:818:4044",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3773",
+  "task_id": "T05998",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=T.A.Cream%200.1%25%20%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3773/T05998_3773.json",
+  "sha256": "01b4ec84e51cfe53e266ee0a3f867a298432568bf88da172bae7e620d74d2e0a",
+  "downloaded_at": "2026-05-16T03:48:20.744105+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:706:3773",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

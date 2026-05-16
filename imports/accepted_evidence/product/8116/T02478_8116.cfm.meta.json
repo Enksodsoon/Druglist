@@ -1,0 +1,14 @@
+{
+  "source_id": "8116",
+  "task_id": "T02478",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cambic+15",
+  "local_path": "imports/accepted_evidence/product/8116/T02478_8116.cfm",
+  "sha256": "44964152362f1bc719d4c4cbd83f181373d727f252d008cb0ae68eff61d76fcc",
+  "downloaded_at": "2026-05-16T03:39:32.153070+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:234:8116",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "40029",
+  "task_id": "T00989",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cetirizine+dihydrochloride",
+  "local_path": "imports/accepted_evidence/product/40029/T00989_40029.cfm",
+  "sha256": "068f2a892b017acf9c0b60ca34cc773933779b409c1383b234aa5f5af7ab57a6",
+  "downloaded_at": "2026-05-16T03:35:54.891801+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:34:40029|Product_Label_Links:66:4224|Product_Label_Links:67:49778|Product_Label_Links:68:4213|Product_Label_Links:69:8754",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

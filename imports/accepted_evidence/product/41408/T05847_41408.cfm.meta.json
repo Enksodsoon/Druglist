@@ -1,0 +1,14 @@
+{
+  "source_id": "41408",
+  "task_id": "T05847",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clinivate+Cream+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/41408/T05847_41408.cfm",
+  "sha256": "d25d043f20e2d3e52a9e462c62950ac4fc1edf93bd15d163c7e6fb6f95e0856a",
+  "downloaded_at": "2026-05-16T03:47:57.454973+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:687:41408",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

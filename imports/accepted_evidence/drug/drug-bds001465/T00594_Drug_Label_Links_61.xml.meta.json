@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_61",
+  "task_id": "T00594",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=digestive%20enzyme&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001465/T00594_Drug_Label_Links_61.xml",
+  "sha256": "d73450aa7a0afc2c60b4b887c0b267ee0a78afe038836af3db9796a27a5511a2",
+  "downloaded_at": "2026-05-16T03:34:59.850591+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:61:Drug_Label_Links_61",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,17 @@
+{
+  "source_id": "44546",
+  "task_id": "DAILYMED_3_498f26a1-5030-4f9b-9599-07d50e912d41",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/498f26a1-5030-4f9b-9599-07d50e912d41.xml",
+  "local_path": "imports/accepted_evidence/drug/losartan-potassium-50-mg/dailymed_rank_3_498f26a1-5030-4f9b-9599-07d50e912d41.xml",
+  "sha256": "bf5a5d36ca22f2e49a27b29726e43501f8c0bf88a14c00a7a5320ddd718fe124",
+  "downloaded_at": "2026-05-16T03:55:25.680321+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Losartan potassium 50 mg.",
+  "rank": 3,
+  "setid": "498f26a1-5030-4f9b-9599-07d50e912d41",
+  "title": "LOSARTAN POTASSIUM 50 MG (LOSARTAN POTASSIUM) TABLET, FILM COATED [PD-RX PHARMACEUTICALS, INC.]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

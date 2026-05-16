@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:hl7-org:v3" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="48379414-bcb9-1797-e063-6394a90aa8fd"/>
+   <code code="34390-5" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN OTC DRUG LABEL"/>
+   <title>Urea 20% Cream</title>
+   <effectiveTime value="20260112"/>
+   <setId root="e994fa05-a457-2555-e053-2a95a90ae83b"/>
+   <versionNumber value="4"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id root="1.3.6.1.4.1.519.1" extension="832926666"/>
+            <name>AvPAK</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="48376c42-e160-1767-e063-6394a90aaf87"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20260112"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="50268-820" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Urea 20</name>
+                        <formCode code="C42934" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="GEL"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Urea</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="0A5MM307FC" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="936JST6JCN" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CETYL ALCOHOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="PDC6A3C0OX" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>GLYCERIN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="FCZ5MH785I" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>GLYCERYL STEARATE SE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="T5L8T28FGP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MINERAL OIL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="2KR89I4H1Y" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>STEARYL ALCOHOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="XHX3C3X673" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TRIACETIN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="B6E5W8RQJ4" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WHITE PETROLATUM</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="200"/>
+                              <denominator unit="g" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="8W8T17847W" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>UREA</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="8W8T17847W" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>UREA</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="85" unit="g"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C42794" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TUBE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="50268-820-85" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20220919"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <code code="C73627" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="unapproved drug other"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20220919"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="white" xsi:type="CE">
+                              <originalText>Opaque White</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38304" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TOPICAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_774a8a32-2a4d-454e-b040-992a0b829fb1">
+               <id root="e994fa05-a44a-2555-e053-2a95a90ae83b"/>
+               <code code="55106-9" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - ACTIVE INGREDIENT SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Active Ingredient:</content> UREA 20%
+      
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20220922"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_fb617260-33fd-44d2-925f-51905b5a0be4">
+               <id root="e994fa05-a44b-2555-e053-2a95a90ae83b"/>
+               <code code="55105-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - PURPOSE SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Purpose</content>: Moisturizer
+      
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20220922"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_afe1ca8f-d7cf-47e1-bc9f-001dccf3d292">
+               <id root="e994fa05-a44c-2555-e053-2a95a90ae83b"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <text>
+                  <paragraph>Usage: Soothes, Softens and Moisturizes Dry Rough Skin.</paragraph>
+               </text>
+               <effectiveTime value="20220923"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_10222148-da17-4842-8be3-ae2a898ced93">
+               <id root="e994fa05-a44d-2555-e053-2a95a90ae83b"/>
+               <code code="34071-1" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS SECTION"/>
+               <title>WARNINGS SECTION</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Caution:</content> Do not apply to broken skin. If redness occurs, discontinue use. Avoid contact with eyes.
+      
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20220923"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_e0284fae-013d-4a99-9f22-d05463dbbb67">
+               <id root="e994fa05-a44e-2555-e053-2a95a90ae83b"/>
+               <code code="50565-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - KEEP OUT OF REACH OF CHILDREN SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">KEEP OUT OF REACH OF CHILDREN. For External Use Only.</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20220923"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_d399fb30-000b-4ac0-a8f2-e179f0dd6248">
+               <id root="e994fa05-a44f-2555-e053-2a95a90ae83b"/>
+               <code code="50570-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - DO NOT USE SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Do not use: </content>Do not use if safety seal on the tube is broken or missing. For lot number and exp. date, see crimp of tube or carton.
+      
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20220922"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_c09b1313-d570-4deb-bf3d-563b205a5c63">
+               <id root="e994fa05-a450-2555-e053-2a95a90ae83b"/>
+               <code code="50567-7" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - WHEN USING SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Directions:</content> Apply to desired areas of the hands, feet, knees, or elbows twice daily, or as directed by a physician. Rub into the skin until fully absorbed. Do not use on tender skin areas such as the face, neck, or scalp.
+      
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20220922"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_460bd306-f725-4fb3-8dd4-e1c7783825dd">
+               <id root="e994fa05-a451-2555-e053-2a95a90ae83b"/>
+               <code code="50566-9" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - STOP USE SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Stop use:</content> Do not apply to broken skin. If redness occurs, discontinue use. Avoid contact with eyes.
+      
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20220922"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_087714b1-8f8a-44d8-a8bf-7816dbc1d862">
+               <id root="e994fa05-a452-2555-e053-2a95a90ae83b"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <effectiveTime value="20220923"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_3f856fb9-939a-4adf-95e8-67bfabb56f3b">
+               <id root="e994fa05-a453-2555-e053-2a95a90ae83b"/>
+               <code code="51727-6" codeSystem="2.16.840.1.113883.6.1" displayName="INACTIVE INGREDIENT SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Inactive Ingredients</content>: Cetyl Alcohol, Carbomer, Glycerin, Glyceryl Stearate SE, Mineral Oil, Purified Water, Stearyl Alcohol, Triacetin, White Petrolatum.
+      
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20220922"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_844c7eb0-e99d-41c3-b1a7-240f0064b582">
+               <id root="e994fa05-a454-2555-e053-2a95a90ae83b"/>
+               <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Storage:</content> Store at 20°C (68°F - 77°F), excursions permitted between 15°C and 30°C (59°F - 86°F). Protect from Freezing. Store in a cool dry place. [See USP Controlled Room Temperature]
+      
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20220922"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_23a97052-4ed7-40a2-9c00-85fc7f9d34b6">
+               <id root="e994fa05-a455-2555-e053-2a95a90ae83b"/>
+               <code code="53413-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - QUESTIONS SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Questions or comments?</content> 1-855-361-3993
+      
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20220922"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_23b3abe2-2f73-499c-ac53-3f2a0f49fb0d">
+               <id root="e994fa05-a456-2555-e053-2a95a90ae83b"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE LABEL.PRINCIPAL DISPLAY PANEL</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">UREA 20% Cream</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">FOR EXTERNAL USE ONLY.</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">Soothes, Softens and Moisturizes Dry Rough Skin
+        
+  
+   <br/>
+                        <br/>AvKARE
+       
+ 
+  </content>
+                     <br/>
+                     <br/>NET WT. 3 OZ. (85 g)
+       
+ 
+  <br/>
+                     <br/>
+                     <br/>Manufactured for: AvKARE, 
+       
+ 
+  <br/>Pulaski, TN 38478 
+       
+ 
+  <br/>www.avkare.com 
+       
+ 
+  <br/>Questions or comments? 1-855-361-3993 AV 04/22
+      
+
+ </paragraph>
+                  <renderMultiMedia referencedObject="MM82272"/>
+                  <paragraph>
+                     <content styleCode="bold">UREA 20% Cream</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">Product No. 50268-820-85</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">FOR EXTERNAL USE ONLY.</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">Soothes, Softens and Moisturizes Dry Rough Skin 
+        
+  
+   <br/>
+                        <br/>AvKARE
+       
+ 
+  </content>
+                     <br/>
+                     <br/>NET WT. 3 OZ. (85 g)
+      
+
+ </paragraph>
+                  <renderMultiMedia referencedObject="MM82273"/>
+               </text>
+               <effectiveTime value="20220923"/>
+               <component>
+                  <observationMedia ID="MM82272">
+                     <text>Carton</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="carton.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM82273">
+                     <text>tube</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="tube.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

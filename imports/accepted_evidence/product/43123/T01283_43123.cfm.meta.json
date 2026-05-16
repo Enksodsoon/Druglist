@@ -1,0 +1,14 @@
+{
+  "source_id": "43123",
+  "task_id": "T01283",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Facil+100",
+  "local_path": "imports/accepted_evidence/product/43123/T01283_43123.cfm",
+  "sha256": "1195288aa0063a9ccd8d4c08b099249c7d9ec048054541e37a4c4c1b5e062dbd",
+  "downloaded_at": "2026-05-16T03:36:34.343594+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:75:43123",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

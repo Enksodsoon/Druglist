@@ -1,0 +1,14 @@
+{
+  "source_id": "1099",
+  "task_id": "T06967",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Intrasite+Gel",
+  "local_path": "imports/accepted_evidence/product/1099/T06967_1099.cfm",
+  "sha256": "908b084b859595ee571b4b4737cf568e21166893dad4d5adf7cf3e19eb0f041d",
+  "downloaded_at": "2026-05-16T03:50:50.196388+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:828:1099",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

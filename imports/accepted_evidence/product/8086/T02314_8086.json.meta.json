@@ -1,0 +1,14 @@
+{
+  "source_id": "8086",
+  "task_id": "T02314",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Zermed%20Syrup&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8086/T02314_8086.json",
+  "sha256": "dd9389910c01e36d798fcaa92341be6923d5895d8c8f10bd4b398948b2658da2",
+  "downloaded_at": "2026-05-16T03:39:05.581400+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:211:8086",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

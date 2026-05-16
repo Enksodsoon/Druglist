@@ -1,0 +1,14 @@
+{
+  "source_id": "7108",
+  "task_id": "T01583",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Omeprazole%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/7108/T01583_7108.json",
+  "sha256": "504c611c597178f6b69fd7074a12c22c8360ba29af811af9a351c085ce3f9b27",
+  "downloaded_at": "2026-05-16T03:37:19.488902+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:112:7108|Product_Label_Links:113:2629|Product_Label_Links:117:45613|Product_Label_Links:118:3065|Product_Label_Links:119:6714",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

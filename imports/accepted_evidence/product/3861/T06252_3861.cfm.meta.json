@@ -1,0 +1,14 @@
+{
+  "source_id": "3861",
+  "task_id": "T06252",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tobrex+Ophthalmic+Solution",
+  "local_path": "imports/accepted_evidence/product/3861/T06252_3861.cfm",
+  "sha256": "c23cdae5ed2b3e0837ec751adf680ff731038a4d5653505712ba5f702e1e9b6b",
+  "downloaded_at": "2026-05-16T03:48:59.210792+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:741:3861",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

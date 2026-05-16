@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_38",
+  "task_id": "T00395",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=triamcinolone%20cream&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001057/T00395_Drug_Label_Links_38.json",
+  "sha256": "fda3ce5df3f4fda993b387e5c87b37e43c0e8b6698368770ddcd2e4ae456ed73",
+  "downloaded_at": "2026-05-16T03:34:31.515665+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:38:Drug_Label_Links_38",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

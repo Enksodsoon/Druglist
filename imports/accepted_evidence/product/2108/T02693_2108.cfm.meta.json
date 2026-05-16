@@ -1,0 +1,14 @@
+{
+  "source_id": "2108",
+  "task_id": "T02693",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Hidrasec+Paediatric+30+mg",
+  "local_path": "imports/accepted_evidence/product/2108/T02693_2108.cfm",
+  "sha256": "844a80fa76e698e7614536ac635f967070a6dc89e68995aebb115e2eb75e9d46",
+  "downloaded_at": "2026-05-16T03:40:03.728644+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:266:2108",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

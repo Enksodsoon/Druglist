@@ -1,0 +1,14 @@
+{
+  "source_id": "7549",
+  "task_id": "T06917",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Kenalone+Oral+Paste+5+g",
+  "local_path": "imports/accepted_evidence/product/7549/T06917_7549.cfm",
+  "sha256": "868c41a21651f657716a4682353db4a71b7360e64e928e47f3f0ef583a89e1d1",
+  "downloaded_at": "2026-05-16T03:50:42.608602+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:820:7549",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

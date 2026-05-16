@@ -1,0 +1,14 @@
+{
+  "source_id": "44553",
+  "task_id": "T01096",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Levocetirizine%20dihydrochloride&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/44553/T01096_44553.json",
+  "sha256": "befae7566e0c8e3cc031197f456280e5786f61b74a3b5d276356bf58ac7166f4",
+  "downloaded_at": "2026-05-16T03:36:08.656335+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:47:44553|Product_Label_Links:64:4130",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2031",
+  "task_id": "T06447",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Genteal+Gel",
+  "local_path": "imports/accepted_evidence/product/2031/T06447_2031.cfm",
+  "sha256": "879f837f413d1a7d7a5a70b48b75cc24856e9463554d2d0efc1deb04db4f3a34",
+  "downloaded_at": "2026-05-16T03:49:30.326076+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:761:2031",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

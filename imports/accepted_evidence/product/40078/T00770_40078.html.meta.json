@@ -1,0 +1,14 @@
+{
+  "source_id": "40078",
+  "task_id": "T00770",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=A.M.Mox+500",
+  "local_path": "imports/accepted_evidence/product/40078/T00770_40078.html",
+  "sha256": "610e00ab5e8698e228de5f665d2315c08cf16ea900f0857e00d2da2c1a7bfaf8",
+  "downloaded_at": "2026-05-16T03:35:25.614398+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:2:40078",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

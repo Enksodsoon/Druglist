@@ -1,0 +1,14 @@
+{
+  "source_id": "3583",
+  "task_id": "T03542",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Strepsils%20Original%20HHR%20%28%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%94%E0%B9%81%E0%B8%94%E0%B8%87%29%20%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%2024s&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3583/T03542_3583.json",
+  "sha256": "30a2df85f82aaf116c8ea1c3186b0166380e2a4994967a3f7d5a73bdf9cea081",
+  "downloaded_at": "2026-05-16T03:42:11.590091+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:376:3583",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

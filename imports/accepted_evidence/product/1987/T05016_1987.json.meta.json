@@ -1,0 +1,14 @@
+{
+  "source_id": "1987",
+  "task_id": "T05016",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Furetic%2040%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1987/T05016_1987.json",
+  "sha256": "3453418241ae136d827400e82802706e3cf4798fae078229d0e0def99ab41afd",
+  "downloaded_at": "2026-05-16T03:45:54.133112+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:583:1987",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

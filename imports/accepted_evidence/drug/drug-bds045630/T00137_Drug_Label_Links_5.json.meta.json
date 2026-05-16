@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_5",
+  "task_id": "T00137",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=brompheniramine%2Bphenylephrine&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds045630/T00137_Drug_Label_Links_5.json",
+  "sha256": "76558751fdd0351a7c0d61c3e8e52b9f0111c416c75b6b4d04ab2a664a6bba60",
+  "downloaded_at": "2026-05-16T03:33:56.518283+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:5:Drug_Label_Links_5",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

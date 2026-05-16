@@ -1,0 +1,14 @@
+{
+  "source_id": "3555",
+  "task_id": "T03529",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=2%204-Dichlorobenzyl%20Alcohol%20%2BAmylmetacresol%20%2BVitamin%20C&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3555/T03529_3555.json",
+  "sha256": "3dc4363b374799a2e360af159a356825c35ac222b1feee6a44dd3ca626350765",
+  "downloaded_at": "2026-05-16T03:42:09.434352+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:374:3555|Product_Label_Links:375:3556",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

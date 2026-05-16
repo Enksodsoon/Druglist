@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_62",
+  "task_id": "T00607",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=simethicone%2Bpancreatin",
+  "local_path": "imports/accepted_evidence/drug/drug-bds002043/T00607_Drug_Label_Links_62.html",
+  "sha256": "c359bf1f2dd13a47b3f613a184c672181c152e102e3096e5ff45832c565d4575",
+  "downloaded_at": "2026-05-16T03:35:02.048402+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:62:Drug_Label_Links_62",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_US_AHS_MIGRAINE",
+  "task_id": "T00091",
+  "source_url": "https://americanheadachesociety.org/resources/clinicians/guidelines",
+  "local_path": "imports/accepted_evidence/bulk/T00091_GUIDE_US_AHS_MIGRAINE.html",
+  "sha256": "d3d415b964bc61b720fb538f42601f01cb824afddcd186269d2ec3df80d648ec",
+  "downloaded_at": "2026-05-16T03:33:53.690060+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:44:GUIDE_US_AHS_MIGRAINE|Disease_Download_Map:13:migraine_adult|Disease_Download_Map:14:vertigo_adult|Disease_Download_Map:22:tension_headache_adult",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

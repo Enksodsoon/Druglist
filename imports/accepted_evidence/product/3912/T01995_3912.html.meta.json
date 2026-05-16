@@ -1,0 +1,14 @@
+{
+  "source_id": "3912",
+  "task_id": "T01995",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Dacin-F+300",
+  "local_path": "imports/accepted_evidence/product/3912/T01995_3912.html",
+  "sha256": "d338920faf26c40a696709a254b7601f5c37a2ca7de9cafa12455a9f3244ddaa",
+  "downloaded_at": "2026-05-16T03:38:22.176772+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:165:3912",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

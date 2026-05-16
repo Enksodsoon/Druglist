@@ -1,0 +1,14 @@
+{
+  "source_id": "8766",
+  "task_id": "T03811",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Sulcain&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8766/T03811_8766.json",
+  "sha256": "93221ffb4e701bd265624c9a0e2e8d689ddb228325237a8adc1becce6dbbd285",
+  "downloaded_at": "2026-05-16T03:42:52.705325+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:412:8766",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

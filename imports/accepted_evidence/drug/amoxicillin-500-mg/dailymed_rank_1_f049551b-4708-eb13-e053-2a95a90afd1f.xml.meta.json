@@ -1,0 +1,17 @@
+{
+  "source_id": "DRUG_BDS002201",
+  "task_id": "DAILYMED_1_f049551b-4708-eb13-e053-2a95a90afd1f",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/f049551b-4708-eb13-e053-2a95a90afd1f.xml",
+  "local_path": "imports/accepted_evidence/drug/amoxicillin-500-mg/dailymed_rank_1_f049551b-4708-eb13-e053-2a95a90afd1f.xml",
+  "sha256": "752d675d0968ef38bd84ed63576fa4c38a3136649422336418848319b4214586",
+  "downloaded_at": "2026-05-16T03:53:08.319820+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Drug_Label_Links",
+  "query_name": "Amoxicillin 500 mg.",
+  "rank": 1,
+  "setid": "f049551b-4708-eb13-e053-2a95a90afd1f",
+  "title": "AMOXICILLIN 500 MG (AMOXICILLIN) CAPSULE [HEALTH DEPARTMENT, OKLAHOMA STATE]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

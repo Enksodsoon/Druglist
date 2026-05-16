@@ -1,0 +1,14 @@
+{
+  "source_id": "7547",
+  "task_id": "T06942",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Kanolone+Lotion+30+ml",
+  "local_path": "imports/accepted_evidence/product/7547/T06942_7547.cfm",
+  "sha256": "19aa5962ca77bd7e3d8a7836c03a66783d4c351877863feab300ff896cf04dbf",
+  "downloaded_at": "2026-05-16T03:50:46.709566+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:824:7547",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

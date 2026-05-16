@@ -1,0 +1,14 @@
+{
+  "source_id": "1429",
+  "task_id": "T05066",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Cazosin%202%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1429/T05066_1429.json",
+  "sha256": "00202309f88b2b28b474bb5bf5071f150081e7ae5f031b4f3dca75dbe1a6ae29",
+  "downloaded_at": "2026-05-16T03:46:01.224197+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:589:1429",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

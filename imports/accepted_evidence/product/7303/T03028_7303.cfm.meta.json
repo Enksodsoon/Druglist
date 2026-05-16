@@ -1,0 +1,14 @@
+{
+  "source_id": "7303",
+  "task_id": "T03028",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Spacovin+40",
+  "local_path": "imports/accepted_evidence/product/7303/T03028_7303.cfm",
+  "sha256": "5974fc64f887ae5252cb33089d4cdd65a743ab190ae91680c648eac676a00009",
+  "downloaded_at": "2026-05-16T03:40:54.138865+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:308:7303",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

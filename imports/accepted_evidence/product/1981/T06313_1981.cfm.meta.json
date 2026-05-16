@@ -1,0 +1,14 @@
+{
+  "source_id": "1981",
+  "task_id": "T06313",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Fluorometholone+Acetate+0+1+%2BMonobasic+Phosphate%2B+Chloride%2BEdetate+Disodium%2BHydroxyethylcellulose%2BTyloxapol%2BHydrochloric",
+  "local_path": "imports/accepted_evidence/product/1981/T06313_1981.cfm",
+  "sha256": "c19e0cdf7c8e0450b8d75b8408f70e056932c515181348d7b5bf88e74366ec81",
+  "downloaded_at": "2026-05-16T03:49:08.584908+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:747:1981",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

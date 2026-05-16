@@ -1,0 +1,17 @@
+{
+  "source_id": "DRUG_BDS002211",
+  "task_id": "DAILYMED_2_fd81dd4b-9617-f4c1-e053-6394a90a5e72",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/fd81dd4b-9617-f4c1-e053-6394a90a5e72.xml",
+  "local_path": "imports/accepted_evidence/drug/dextromethorphan-hbr-15-mg/dailymed_rank_2_fd81dd4b-9617-f4c1-e053-6394a90a5e72.xml",
+  "sha256": "4b6e05139c40da69ecb455ddea05dc34f3ddad019f2da57143f43a4049244117",
+  "downloaded_at": "2026-05-16T03:52:57.147345+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Drug_Label_Links",
+  "query_name": "Dextromethorphan HBr 15 mg.",
+  "rank": 2,
+  "setid": "fd81dd4b-9617-f4c1-e053-6394a90a5e72",
+  "title": "DAYTIME NIGHTTIME COLD AND FLU (ACETAMINOPHEN, DEXTROMETHORPHAN HBR, PHENYLEPHRINE HCI, DOXYLAMINE SUCCINATE 325, 10/15, 5, 6.25 MG SOFTGELS) KIT [TIME CAP LABORATORIES INC.]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

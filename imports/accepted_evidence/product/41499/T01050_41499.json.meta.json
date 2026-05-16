@@ -1,0 +1,14 @@
+{
+  "source_id": "41499",
+  "task_id": "T01050",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Clarityne&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/41499/T01050_41499.json",
+  "sha256": "8cc3a1f03a72be02335c15aacac51bb4a5738f98133f9024a67397581563205f",
+  "downloaded_at": "2026-05-16T03:36:01.504029+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:41:41499",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

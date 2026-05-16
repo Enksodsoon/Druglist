@@ -1,0 +1,14 @@
+{
+  "source_id": "1216",
+  "task_id": "T05838",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betamethasone+17-Valerate+0+122+w%2Fw",
+  "local_path": "imports/accepted_evidence/product/1216/T05838_1216.cfm",
+  "sha256": "76ef1cdf2d1d9c6ef77f9d4cdba966776a55e1db975d2c801eb7aef5c99befd3",
+  "downloaded_at": "2026-05-16T03:47:56.062181+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:686:1216",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1046",
+  "task_id": "T02043",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=AMK+228",
+  "local_path": "imports/accepted_evidence/product/1046/T02043_1046.cfm",
+  "sha256": "b04d77f9e877ff4d8410949f78035bb0154f21bba927f3f5578457564f97d870",
+  "downloaded_at": "2026-05-16T03:38:27.114190+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:171:1046",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

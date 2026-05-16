@@ -1,0 +1,14 @@
+{
+  "source_id": "1233",
+  "task_id": "T02671",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Bioflor+Capsule",
+  "local_path": "imports/accepted_evidence/product/1233/T02671_1233.html",
+  "sha256": "fc30636ccff7c3d04668b8ef4b73c22ca7336dbb667880c0810d75e6573e6efb",
+  "downloaded_at": "2026-05-16T03:40:02.693191+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:263:1233",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

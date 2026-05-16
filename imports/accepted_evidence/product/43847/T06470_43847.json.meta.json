@@ -1,0 +1,14 @@
+{
+  "source_id": "43847",
+  "task_id": "T06470",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Hyaluronate%200%2018&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/43847/T06470_43847.json",
+  "sha256": "ec62781200d07dfc553d19591f77f4452ce3ee6aecaf40a8bcc0a186e51709f0",
+  "downloaded_at": "2026-05-16T03:49:33.038544+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:763:43847|Product_Label_Links:777:4035",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

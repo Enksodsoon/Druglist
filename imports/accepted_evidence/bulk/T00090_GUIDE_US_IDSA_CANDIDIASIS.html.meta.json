@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_US_IDSA_CANDIDIASIS",
+  "task_id": "T00090",
+  "source_url": "https://www.idsociety.org/practice-guideline/candidiasis/",
+  "local_path": "imports/accepted_evidence/bulk/T00090_GUIDE_US_IDSA_CANDIDIASIS.html",
+  "sha256": "833189c2bb38e96fecaca023352693f29fdea30bb1a27ef8b07b8bf525c2a8c8",
+  "downloaded_at": "2026-05-16T03:33:51.327983+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:43:GUIDE_US_IDSA_CANDIDIASIS|Disease_Download_Map:63:aphthous_ulcer_pain_adult|Disease_Download_Map:91:oral_thrush_peds|Disease_Download_Map:117:vulvovaginal_candidiasis_adult|Disease_Download_Map:118:vaginal_mixed_infection_adult|Disease_Download_Map:119:vaginal_discharge_support_adult",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

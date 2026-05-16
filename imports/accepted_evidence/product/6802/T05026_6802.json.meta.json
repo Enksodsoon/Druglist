@@ -1,0 +1,14 @@
+{
+  "source_id": "6802",
+  "task_id": "T05026",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=GPO%20-%20HCTZ%2025&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/6802/T05026_6802.json",
+  "sha256": "03c3a8b8642eee52f64f3437d3856afbca88a41a2ddb31699c0749197934724e",
+  "downloaded_at": "2026-05-16T03:45:55.565614+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:584:6802",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

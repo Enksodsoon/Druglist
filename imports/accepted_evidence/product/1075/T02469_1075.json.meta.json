@@ -1,0 +1,14 @@
+{
+  "source_id": "1075",
+  "task_id": "T02469",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Arcoxia%2090%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1075/T02469_1075.json",
+  "sha256": "0b6c6973a3bd556676d3c010170dc2beb4d84a4d7a8d7e24cca89436d2943323",
+  "downloaded_at": "2026-05-16T03:39:29.665210+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:232:1075",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

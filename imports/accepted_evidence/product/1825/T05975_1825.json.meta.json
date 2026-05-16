@@ -1,0 +1,14 @@
+{
+  "source_id": "1825",
+  "task_id": "T05975",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Desoximetasone%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1825/T05975_1825.json",
+  "sha256": "2e88e178d89db0b80cf0cee12a0fafc8cbf4b732c0578ce36438e31231ba9cf9",
+  "downloaded_at": "2026-05-16T03:48:16.891920+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:703:1825|Product_Label_Links:704:42807|Product_Label_Links:712:1831",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

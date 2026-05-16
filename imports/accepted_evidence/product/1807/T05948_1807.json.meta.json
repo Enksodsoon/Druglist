@@ -1,0 +1,14 @@
+{
+  "source_id": "1807",
+  "task_id": "T05948",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Elomet%200.1%25&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1807/T05948_1807.json",
+  "sha256": "9cd72d1ded7e57df1241502b3cc3b890eec15e05e9b766c7958ab3ccf4794d2e",
+  "downloaded_at": "2026-05-16T03:48:12.865542+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:700:1807",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

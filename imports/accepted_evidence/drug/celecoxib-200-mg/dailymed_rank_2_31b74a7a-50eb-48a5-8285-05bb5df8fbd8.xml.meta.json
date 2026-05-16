@@ -1,0 +1,17 @@
+{
+  "source_id": "DRUG_BDS001509",
+  "task_id": "DAILYMED_2_31b74a7a-50eb-48a5-8285-05bb5df8fbd8",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/31b74a7a-50eb-48a5-8285-05bb5df8fbd8.xml",
+  "local_path": "imports/accepted_evidence/drug/celecoxib-200-mg/dailymed_rank_2_31b74a7a-50eb-48a5-8285-05bb5df8fbd8.xml",
+  "sha256": "252f88a9b0b2bd4a31983ae93e60346fb6472020f319aac66b041e6d2a6b692f",
+  "downloaded_at": "2026-05-16T03:53:13.729715+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Drug_Label_Links",
+  "query_name": "Celecoxib 200 mg.",
+  "rank": 2,
+  "setid": "31b74a7a-50eb-48a5-8285-05bb5df8fbd8",
+  "title": "CELECOXIB 200 MG (CELECOXIB) CAPSULE [SYDON LABS LLC]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

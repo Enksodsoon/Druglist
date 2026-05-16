@@ -1,0 +1,14 @@
+{
+  "source_id": "6242",
+  "task_id": "T06809",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Fastum+Gel",
+  "local_path": "imports/accepted_evidence/product/6242/T06809_6242.html",
+  "sha256": "dfd5a7ad0ebb3b10f78d26757bcab45b4664e583c66252f0245a89411f49126a",
+  "downloaded_at": "2026-05-16T03:50:25.564969+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:803:6242",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1250",
+  "task_id": "T07357",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betnovate-N+Cream+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/1250/T07357_1250.cfm",
+  "sha256": "5eaee2338f8a9fee47f29d7ffb87648fabe8c25badfd42e3d193d93eb7d5043a",
+  "downloaded_at": "2026-05-16T03:51:50.096684+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:872:1250",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

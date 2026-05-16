@@ -1,0 +1,14 @@
+{
+  "source_id": "1987",
+  "task_id": "T05019",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Furosemide%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1987/T05019_1987.json",
+  "sha256": "6fdf48249354a50d55f3a745439d2b3f542e0c5133e621b78b233884bdaaa2db",
+  "downloaded_at": "2026-05-16T03:45:54.899360+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:583:1987",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

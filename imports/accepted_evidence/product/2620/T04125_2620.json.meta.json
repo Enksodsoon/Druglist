@@ -1,0 +1,14 @@
+{
+  "source_id": "2620",
+  "task_id": "T04125",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Mercilon-28&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2620/T04125_2620.json",
+  "sha256": "79bc4d7dfa70c2a0c51106cf1cd03c3865898f71f3ba0f74f4f6eb8f952e1894",
+  "downloaded_at": "2026-05-16T03:43:41.955693+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:453:2620",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

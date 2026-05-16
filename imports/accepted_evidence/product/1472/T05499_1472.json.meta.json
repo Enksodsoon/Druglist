@@ -1,0 +1,14 @@
+{
+  "source_id": "1472",
+  "task_id": "T05499",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Counterpain%20%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1472/T05499_1472.json",
+  "sha256": "a22b10f3893d9f87b83a3ddc4756e7ed493d8023a764f26aa3e2cb4e2993c5f0",
+  "downloaded_at": "2026-05-16T03:47:04.318474+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:646:1472",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

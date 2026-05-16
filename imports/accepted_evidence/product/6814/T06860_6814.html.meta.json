@@ -1,0 +1,14 @@
+{
+  "source_id": "6814",
+  "task_id": "T06860",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Painelief+Cool+Gel",
+  "local_path": "imports/accepted_evidence/product/6814/T06860_6814.html",
+  "sha256": "00857a4a5918cfb049feb0d4b6cc3e0d13f297f6a7d43e5667f7822836519f73",
+  "downloaded_at": "2026-05-16T03:50:35.699668+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:811:6814",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

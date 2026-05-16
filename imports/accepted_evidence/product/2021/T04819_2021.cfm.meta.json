@@ -1,0 +1,14 @@
+{
+  "source_id": "2021",
+  "task_id": "T04819",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Glucophage+500+mg",
+  "local_path": "imports/accepted_evidence/product/2021/T04819_2021.cfm",
+  "sha256": "2c5f769cec3d32abebf304dee78a6e189ba9e487b21d832f9780b4a4227801e2",
+  "downloaded_at": "2026-05-16T03:45:24.351136+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:552:2021",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "6802",
+  "task_id": "T05025",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Hydrochlorothiazide",
+  "local_path": "imports/accepted_evidence/product/6802/T05025_6802.cfm",
+  "sha256": "53808faf1dd9166e8c4d0c5d358eaab6fc1681a5952bc97ecaf13da7ff7a40fe",
+  "downloaded_at": "2026-05-16T03:45:55.734003+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:584:6802|Product_Label_Links:585:6801|Product_Label_Links:586:1480",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

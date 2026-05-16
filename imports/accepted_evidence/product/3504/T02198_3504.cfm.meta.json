@@ -1,0 +1,14 @@
+{
+  "source_id": "3504",
+  "task_id": "T02198",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Sara+%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A3%E0%B8%AA%E0%B8%AA%E0%B9%89%E0%B8%A1",
+  "local_path": "imports/accepted_evidence/product/3504/T02198_3504.cfm",
+  "sha256": "b933f77444b6de1901d3177456f749c74f21f2ab513dd42731ea5c6214bf8081",
+  "downloaded_at": "2026-05-16T03:38:49.249131+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:194:3504",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

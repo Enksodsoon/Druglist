@@ -1,0 +1,17 @@
+{
+  "source_id": "40033",
+  "task_id": "DAILYMED_1_c6a3056e-792e-52a4-e053-2a95a90a8361",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/c6a3056e-792e-52a4-e053-2a95a90a8361.xml",
+  "local_path": "imports/accepted_evidence/drug/loratadine-10-mg/dailymed_rank_1_c6a3056e-792e-52a4-e053-2a95a90a8361.xml",
+  "sha256": "0c075bc5b9ec18147167ddc727050507041819a71074a7ca23569d7e99c9575f",
+  "downloaded_at": "2026-05-16T03:53:30.600957+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Loratadine 10 mg.",
+  "rank": 1,
+  "setid": "c6a3056e-792e-52a4-e053-2a95a90a8361",
+  "title": "MCKESSON LORADATINE (LORATAINDE) TABLET MCKESSON LORATADINE (LORATADINE 10 MG) TABLET, FILM COATED [MCKESSON MEDICAL SURGICAL]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "6664",
+  "task_id": "T03246",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22Baclofen%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/6664/T03246_6664.json",
+  "sha256": "cd9bef73ddba0214e3ee545908dde76865980eaeeaf19ccf2e6809a2fe594bd6",
+  "downloaded_at": "2026-05-16T03:41:26.985322+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:335:6664",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

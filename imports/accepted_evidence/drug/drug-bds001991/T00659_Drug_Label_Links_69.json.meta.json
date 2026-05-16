@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_69",
+  "task_id": "T00659",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=fusidic%20acid%20cream&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001991/T00659_Drug_Label_Links_69.json",
+  "sha256": "0492c216853d207f82a205e83aceee52e3d08b97e6ded0239b6c2901912ea8aa",
+  "downloaded_at": "2026-05-16T03:35:10.200057+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:69:Drug_Label_Links_69",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

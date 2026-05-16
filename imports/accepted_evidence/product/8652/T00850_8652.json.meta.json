@@ -1,0 +1,14 @@
+{
+  "source_id": "8652",
+  "task_id": "T00850",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dicloxilin-500&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8652/T00850_8652.json",
+  "sha256": "b4c7f90726c56bcf4d7afb44b2e1204cebd6104eb5a27601a27c5fd825bbac69",
+  "downloaded_at": "2026-05-16T03:35:35.091545+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:12:8652",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

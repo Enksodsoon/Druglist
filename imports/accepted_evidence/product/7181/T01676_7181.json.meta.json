@@ -1,0 +1,14 @@
+{
+  "source_id": "7181",
+  "task_id": "T01676",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Lysozyme%20chloride&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7181/T01676_7181.json",
+  "sha256": "3e531472f1d1f5ccfc4bdd205947f5519ef01d4007377c6e94ff2785b253be3c",
+  "downloaded_at": "2026-05-16T03:37:33.006874+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:124:7181",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

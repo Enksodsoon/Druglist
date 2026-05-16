@@ -1,0 +1,14 @@
+{
+  "source_id": "1960",
+  "task_id": "T04894",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Atorvastatin%20Calcium%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1960/T04894_1960.json",
+  "sha256": "6e5446ed6c30ea4cc0e6131986ebec8e53cd1fab8c3de133628dd8d5e3c17e19",
+  "downloaded_at": "2026-05-16T03:45:37.056333+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:564:1960|Product_Label_Links:565:1945|Product_Label_Links:566:1918|Product_Label_Links:570:41432",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

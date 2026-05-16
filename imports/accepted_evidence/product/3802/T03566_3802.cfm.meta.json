@@ -1,0 +1,14 @@
+{
+  "source_id": "3802",
+  "task_id": "T03566",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Throatsil+%E0%B8%A3%E0%B8%AA%E0%B8%AA%E0%B9%89%E0%B8%A1+%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87+24s",
+  "local_path": "imports/accepted_evidence/product/3802/T03566_3802.cfm",
+  "sha256": "21d26c96ff93f61c5edfd199985b2d60427caca9b10e5a9b7250648ad87ac8ec",
+  "downloaded_at": "2026-05-16T03:42:15.032195+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:380:3802",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

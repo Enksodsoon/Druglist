@@ -1,0 +1,14 @@
+{
+  "source_id": "2211",
+  "task_id": "T02038",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Dextromethorphan%20HBr%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/2211/T02038_2211.json",
+  "sha256": "e3b4589edc754515c9a8032ef699e1409fe7a8aa253a705ac0c853239b77cb36",
+  "downloaded_at": "2026-05-16T03:38:26.122640+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:170:2211",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2688",
+  "task_id": "T02873",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Merislon+12+mg",
+  "local_path": "imports/accepted_evidence/product/2688/T02873_2688.cfm",
+  "sha256": "fa79bb589f0aa7d31a5433d0e6091962736a4082b86d06189ef56098ae537045",
+  "downloaded_at": "2026-05-16T03:40:30.251836+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:286:2688",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1429",
+  "task_id": "T05067",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Doxazosin%20mesylate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1429/T05067_1429.json",
+  "sha256": "cf0118cc17534229141e49bef7595ee95a8044b12e6cccb30b9e9b63720cb55f",
+  "downloaded_at": "2026-05-16T03:46:01.757524+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:589:1429",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

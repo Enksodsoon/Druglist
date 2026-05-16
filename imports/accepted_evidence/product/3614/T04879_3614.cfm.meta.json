@@ -1,0 +1,14 @@
+{
+  "source_id": "3614",
+  "task_id": "T04879",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Siamformet+850+mg",
+  "local_path": "imports/accepted_evidence/product/3614/T04879_3614.cfm",
+  "sha256": "8fae0e5e8ca2c76b37f57dad38fe35ccaacf6b4d937ca969326e75f1f36b57e4",
+  "downloaded_at": "2026-05-16T03:45:34.010913+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:562:3614",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

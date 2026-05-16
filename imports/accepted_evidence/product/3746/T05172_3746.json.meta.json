@@ -1,0 +1,14 @@
+{
+  "source_id": "3746",
+  "task_id": "T05172",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Methimazole&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3746/T05172_3746.json",
+  "sha256": "17d3b832fe38c901de6fc7c8ebdeeec08da977e46fef9c1401907c2520540533",
+  "downloaded_at": "2026-05-16T03:46:16.987286+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:604:3746",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

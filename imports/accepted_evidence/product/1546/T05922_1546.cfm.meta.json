@@ -1,0 +1,14 @@
+{
+  "source_id": "1546",
+  "task_id": "T05922",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Diprosalic+Ointment+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/1546/T05922_1546.cfm",
+  "sha256": "1989c9ad9212b39c0d6ce7df9249783a58e77d45f6fd8114d9b74dd9dd723328",
+  "downloaded_at": "2026-05-16T03:48:09.476533+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:697:1546",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

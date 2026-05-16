@@ -1,0 +1,14 @@
+{
+  "source_id": "3505",
+  "task_id": "T01398",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Fybogel+Orange",
+  "local_path": "imports/accepted_evidence/product/3505/T01398_3505.cfm",
+  "sha256": "4221acad8537fe75785c1103f2ef740769a4dca29407cf49ebf1b62c917df5f2",
+  "downloaded_at": "2026-05-16T03:36:50.637607+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:93:3505",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

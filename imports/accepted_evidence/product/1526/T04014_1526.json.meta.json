@@ -1,0 +1,14 @@
+{
+  "source_id": "1526",
+  "task_id": "T04014",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Desogestrel%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1526/T04014_1526.json",
+  "sha256": "4e91cf0274fc489b5fec500e62693f76b6f309b526b635208285b239e4004431",
+  "downloaded_at": "2026-05-16T03:43:25.319725+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:437:1526",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

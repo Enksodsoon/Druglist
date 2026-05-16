@@ -1,0 +1,14 @@
+{
+  "source_id": "2016",
+  "task_id": "T05074",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Firide+5+mg",
+  "local_path": "imports/accepted_evidence/product/2016/T05074_2016.cfm",
+  "sha256": "bf2c4408750007563ee37c874662331245c2c6b4fedad92dd66c3c6d2f6e277d",
+  "downloaded_at": "2026-05-16T03:46:02.873585+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:590:2016",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

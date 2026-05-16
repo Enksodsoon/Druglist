@@ -1,0 +1,14 @@
+{
+  "source_id": "3102",
+  "task_id": "T06513",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Citrate+buffer%2B+chloride%2BPreservative",
+  "local_path": "imports/accepted_evidence/product/3102/T06513_3102.cfm",
+  "sha256": "845285a239c9e9c518f022e987cc68b9190f825af0db35b0597972db518fc01a",
+  "downloaded_at": "2026-05-16T03:49:40.879591+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:768:3102",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

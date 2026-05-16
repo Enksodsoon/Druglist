@@ -1,0 +1,14 @@
+{
+  "source_id": "3637",
+  "task_id": "T07038",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tobramycin+0+3+%2BDexamethasone+0+1+%2BPreservative+%2F",
+  "local_path": "imports/accepted_evidence/product/3637/T07038_3637.cfm",
+  "sha256": "85bacc8a3bc15911b5a7a811a71ef3c4c8eb160bf67a2bcae1717333ff106dfc",
+  "downloaded_at": "2026-05-16T03:51:01.207843+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:837:3637",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

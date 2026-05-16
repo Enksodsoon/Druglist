@@ -1,0 +1,14 @@
+{
+  "source_id": "43612",
+  "task_id": "T04807",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Vildagliptin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/43612/T04807_43612.json",
+  "sha256": "512f758b965e3664357196657da02227977a303b5d63e07457065493a629e5f6",
+  "downloaded_at": "2026-05-16T03:45:22.790676+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:550:43612",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "1078",
+  "task_id": "T02463",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Arcoxia+60+mg",
+  "local_path": "imports/accepted_evidence/product/1078/T02463_1078.cfm",
+  "sha256": "2de9ce552d7acd933e0130a03f77f7fa403db714a000f196d1efa69a1fdccef1",
+  "downloaded_at": "2026-05-16T03:39:29.295975+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:231:1078",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

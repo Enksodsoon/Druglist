@@ -1,0 +1,14 @@
+{
+  "source_id": "1987",
+  "task_id": "T05015",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Furosemide",
+  "local_path": "imports/accepted_evidence/product/1987/T05015_1987.cfm",
+  "sha256": "45690ba2b91f43947c535869f9b30fb54631d5acc2076f53c87498c4a535e256",
+  "downloaded_at": "2026-05-16T03:45:54.382380+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:583:1987",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

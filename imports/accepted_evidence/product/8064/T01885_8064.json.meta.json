@@ -1,0 +1,14 @@
+{
+  "source_id": "8064",
+  "task_id": "T01885",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Acyvir%20400%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8064/T01885_8064.json",
+  "sha256": "93a1b1a49ca0a30f22ef18fef273e4f2c7d731ab7d229443f4997bf7ea6c23d9",
+  "downloaded_at": "2026-05-16T03:38:03.669503+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:150:8064",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

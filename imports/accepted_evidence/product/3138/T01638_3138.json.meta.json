@@ -1,0 +1,14 @@
+{
+  "source_id": "3138",
+  "task_id": "T01638",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Rabeprazole%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/3138/T01638_3138.json",
+  "sha256": "1816efbf83913cd2fe290183e14c4d683c05c53daafa3d087618dcf3e8a5f8db",
+  "downloaded_at": "2026-05-16T03:37:27.936228+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:120:3138",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

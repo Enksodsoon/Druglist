@@ -1,0 +1,14 @@
+{
+  "source_id": "8681",
+  "task_id": "T03399",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Levomac+500",
+  "local_path": "imports/accepted_evidence/product/8681/T03399_8681.html",
+  "sha256": "84badaf7580fc0767e5ef711b63a137ea963e4d671b000470c070c5ff8ab42c6",
+  "downloaded_at": "2026-05-16T03:41:49.421802+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:357:8681",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

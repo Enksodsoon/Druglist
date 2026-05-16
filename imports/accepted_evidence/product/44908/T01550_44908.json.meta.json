@@ -1,0 +1,14 @@
+{
+  "source_id": "44908",
+  "task_id": "T01550",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Malugel%20tabslets&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/44908/T01550_44908.json",
+  "sha256": "07cfb2cd720d63ed5688f39730319f3082862422f5e3dd6a5ff9bed17d7e5dfc",
+  "downloaded_at": "2026-05-16T03:37:14.096890+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:109:44908",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

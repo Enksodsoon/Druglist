@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_9",
+  "task_id": "T00176",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=ors",
+  "local_path": "imports/accepted_evidence/drug/drug-bds008282/T00176_Drug_Label_Links_9.html",
+  "sha256": "9a49a35d4921c772e71e5a406b299702c36610582a075c2503b1a240959d7cdb",
+  "downloaded_at": "2026-05-16T03:34:01.424388+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:9:Drug_Label_Links_9",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

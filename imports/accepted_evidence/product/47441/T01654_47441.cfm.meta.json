@@ -1,0 +1,14 @@
+{
+  "source_id": "47441",
+  "task_id": "T01654",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Rabeprazole+Sandoz",
+  "local_path": "imports/accepted_evidence/product/47441/T01654_47441.cfm",
+  "sha256": "766915f2b732090697804f52785616c6976267b40eb78a74aac0668763b1f62f",
+  "downloaded_at": "2026-05-16T03:37:29.400311+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:122:47441",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2806",
+  "task_id": "T07450",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Zinc%20Oxide%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2806/T07450_2806.json",
+  "sha256": "5366ad8768909de638f30e07bf732b4dc5660d6bd5d197a3a3fe900939471760",
+  "downloaded_at": "2026-05-16T03:52:05.141795+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:883:2806",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

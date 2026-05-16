@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_7",
+  "task_id": "T00154",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/acetylcysteine/human/spls.json",
+  "local_path": "imports/accepted_evidence/drug/drug-bds002901/T00154_Drug_Label_Links_7.json",
+  "sha256": "d556cfac2b6c563a5035e179ee28b010fe541399246e0e736e49f3e15f6aee1b",
+  "downloaded_at": "2026-05-16T03:33:58.154274+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "direct_download",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:7:Drug_Label_Links_7",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

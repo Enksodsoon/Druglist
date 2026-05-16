@@ -1,0 +1,14 @@
+{
+  "source_id": "1825",
+  "task_id": "T05973",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Desoximetasone+%2F",
+  "local_path": "imports/accepted_evidence/product/1825/T05973_1825.cfm",
+  "sha256": "2a5680b39b96d15d9dc91659830ef510e7fb79e72203fed12e6edb6c3e39391e",
+  "downloaded_at": "2026-05-16T03:48:17.020344+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:703:1825|Product_Label_Links:704:42807|Product_Label_Links:712:1831",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "40020",
+  "task_id": "T05449",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Arotika%20Rub&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/40020/T05449_40020.json",
+  "sha256": "40586af5444b9e51287a24e1cf450ba58d10ecb7ba9a95d4555e0edd1ea8514c",
+  "downloaded_at": "2026-05-16T03:46:56.469099+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:640:40020",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

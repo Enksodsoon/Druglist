@@ -1,0 +1,14 @@
+{
+  "source_id": "44520",
+  "task_id": "T06753",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Povidone-Iodine+10+w%2Fv",
+  "local_path": "imports/accepted_evidence/product/44520/T06753_44520.cfm",
+  "sha256": "654d02e817a48a1b505e61f652665d5f25375a4699639a728219e3d42265dfa2",
+  "downloaded_at": "2026-05-16T03:50:17.489416+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:797:44520|Product_Label_Links:798:44106",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

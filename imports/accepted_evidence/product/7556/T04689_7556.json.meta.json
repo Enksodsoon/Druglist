@@ -1,0 +1,14 @@
+{
+  "source_id": "7556",
+  "task_id": "T04689",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Minoxidil%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/7556/T04689_7556.json",
+  "sha256": "31cbd2ca7b808b84135f99e2b99b59b9118fd326920d26f1e8fa729fdd9ddcc8",
+  "downloaded_at": "2026-05-16T03:45:05.563383+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:533:7556",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3614",
+  "task_id": "T04880",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Siamformet%20850%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3614/T04880_3614.json",
+  "sha256": "8e3b2936871758a79d2ab386104fe1cd256359f0f587e142fe0e22b8f29e2490",
+  "downloaded_at": "2026-05-16T03:45:33.998514+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:562:3614",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

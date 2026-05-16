@@ -1,0 +1,14 @@
+{
+  "source_id": "3416",
+  "task_id": "T02753",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Guaifenesin%20%2BDextromethorphan%20HBr%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/3416/T02753_3416.json",
+  "sha256": "a4168d5f4276f161f894275bd9301b39e30a2159a5e05494458463ebc316dbab",
+  "downloaded_at": "2026-05-16T03:40:12.542777+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:272:3416",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

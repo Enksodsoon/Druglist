@@ -1,0 +1,14 @@
+{
+  "source_id": "2898",
+  "task_id": "T01606",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Esomeprazole&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2898/T01606_2898.json",
+  "sha256": "1e00ffc96bc1bec68855c19bcce21ce5d45f1387aade42446a40c760c3589b9a",
+  "downloaded_at": "2026-05-16T03:37:22.163540+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:115:2898|Product_Label_Links:116:2903",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "3772",
+  "task_id": "T03686",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Throatsil+Plus+%E0%B8%8B%E0%B8%AD%E0%B8%87+8s",
+  "local_path": "imports/accepted_evidence/product/3772/T03686_3772.cfm",
+  "sha256": "f2f7b2c4df65a780c0aa9bc57a55d6096c33f02e632acd70308302bcd657f869",
+  "downloaded_at": "2026-05-16T03:42:34.517489+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:397:3772",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

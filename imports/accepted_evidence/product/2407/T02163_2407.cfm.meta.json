@@ -1,0 +1,14 @@
+{
+  "source_id": "2407",
+  "task_id": "T02163",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Kit-F+Drops",
+  "local_path": "imports/accepted_evidence/product/2407/T02163_2407.cfm",
+  "sha256": "68ce4fb3b2e851e9d684e0a47ba3ad73d114c9d1ab0e898c844acae222b48483",
+  "downloaded_at": "2026-05-16T03:38:44.013297+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:187:2407",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

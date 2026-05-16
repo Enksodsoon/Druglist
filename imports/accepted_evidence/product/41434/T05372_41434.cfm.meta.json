@@ -1,0 +1,14 @@
+{
+  "source_id": "41434",
+  "task_id": "T05372",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=C-Force+1000",
+  "local_path": "imports/accepted_evidence/product/41434/T05372_41434.cfm",
+  "sha256": "baf7ea1b7d7a36a2213856e51cae7d4a8fdb884a3a9f79f559cebcc7bc2e5e9f",
+  "downloaded_at": "2026-05-16T03:46:45.136617+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:629:41434",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

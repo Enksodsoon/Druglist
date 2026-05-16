@@ -1,0 +1,14 @@
+{
+  "source_id": "7784",
+  "task_id": "T00833",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Cephalexin%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/7784/T00833_7784.json",
+  "sha256": "499db1287d042e3806abae2d023df777e3106661924184c94ff3ef289d0a714e",
+  "downloaded_at": "2026-05-16T03:35:33.636567+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:10:7784",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

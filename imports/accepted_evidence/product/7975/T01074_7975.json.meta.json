@@ -1,0 +1,14 @@
+{
+  "source_id": "7975",
+  "task_id": "T01074",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Fexotine&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7975/T01074_7975.json",
+  "sha256": "63a8a71ee281c4c433cde32efedcad12d15912dd36585260cee4b8cb427cf6b4",
+  "downloaded_at": "2026-05-16T03:36:04.443284+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:44:7975",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

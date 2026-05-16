@@ -1,0 +1,14 @@
+{
+  "source_id": "1606",
+  "task_id": "T07202",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Grafadex",
+  "local_path": "imports/accepted_evidence/product/1606/T07202_1606.cfm",
+  "sha256": "66b97c0f6945d0ab210d189a094f3fbd736113610be50d75956ec2765f8e81da",
+  "downloaded_at": "2026-05-16T03:51:26.502655+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:855:1606",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

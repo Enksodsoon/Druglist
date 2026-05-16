@@ -1,0 +1,14 @@
+{
+  "source_id": "1401",
+  "task_id": "T06282",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cadexcin.N",
+  "local_path": "imports/accepted_evidence/product/1401/T06282_1401.cfm",
+  "sha256": "a5108c48d7f2fe2c5ab4ed9c51e3a6d1a0931f4b1267a6ee8144eada873962ac",
+  "downloaded_at": "2026-05-16T03:49:03.893448+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:744:1401",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

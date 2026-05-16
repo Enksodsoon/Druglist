@@ -1,0 +1,14 @@
+{
+  "source_id": "8461",
+  "task_id": "T01419",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Magnesium+Hydroxide+%2F",
+  "local_path": "imports/accepted_evidence/product/8461/T01419_8461.cfm",
+  "sha256": "2a5231312bf780c9afc448d80b2701d33c6ea84dd38208e520401af335e9d01c",
+  "downloaded_at": "2026-05-16T03:36:54.352200+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:95:8461",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

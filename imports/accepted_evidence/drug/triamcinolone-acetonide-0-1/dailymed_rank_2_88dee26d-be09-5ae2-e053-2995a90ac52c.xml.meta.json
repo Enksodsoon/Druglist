@@ -1,0 +1,17 @@
+{
+  "source_id": "DRUG_BDS007549",
+  "task_id": "DAILYMED_2_88dee26d-be09-5ae2-e053-2995a90ac52c",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/88dee26d-be09-5ae2-e053-2995a90ac52c.xml",
+  "local_path": "imports/accepted_evidence/drug/triamcinolone-acetonide-0-1/dailymed_rank_2_88dee26d-be09-5ae2-e053-2995a90ac52c.xml",
+  "sha256": "fb0073a8f5ea7bcaf0ebfdb71d78927b93b8dd12635c5a5a83131776b675318a",
+  "downloaded_at": "2026-05-16T03:53:11.986454+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Drug_Label_Links",
+  "query_name": "Triamcinolone Acetonide 0.1%",
+  "rank": 2,
+  "setid": "88dee26d-be09-5ae2-e053-2995a90ac52c",
+  "title": "PENTOXIFYLLINE 0.5% / TRIAMCINOLONE ACETONIDE 0.1% GEL [SINCERUS FLORIDA, LLC]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

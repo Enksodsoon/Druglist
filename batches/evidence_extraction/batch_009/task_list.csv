@@ -1,0 +1,142 @@
+task_id,row_type,sheet,row_number,record_id,name,priority_score,source_hint
+DISEASE_0061,disease,Disease_Download_Map,61,minor_wound_care_adult,,70,"minor_wound_care_adult | Minor wound care support | Skin | adult | Z51.89 | N | SKIN_SSTI_WOUND | GUIDE_US_IDSA_SSTI, GUIDE_EU_NICE_IMPETIGO, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/
+GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/ | GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources | GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/minor_wo"
+DISEASE_0075,disease,Disease_Download_Map,75,superficial_abrasion_adult,,70,"superficial_abrasion_adult | Superficial abrasion | Skin | adult | S40.8 | N | SKIN_SSTI_WOUND | GUIDE_US_IDSA_SSTI, GUIDE_EU_NICE_IMPETIGO, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/
+GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/ | GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources | GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/superfici"
+DISEASE_0076,disease,Disease_Download_Map,76,minor_cut_wound_care_adult,,70,"minor_cut_wound_care_adult | Minor cut / wound care | Skin | adult | Z51.89 | N | SKIN_SSTI_WOUND | GUIDE_US_IDSA_SSTI, GUIDE_EU_NICE_IMPETIGO, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/
+GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/ | GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources | GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/minor_"
+DISEASE_0081,disease,Disease_Download_Map,81,indigestion_postmeal_adult,,70,"indigestion_postmeal_adult | Post-meal indigestion | GI | adult | K30 | N | GI_DYSPEPSIA_GAS | LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_UK_EMC, LABEL_TH_MIMS, LABEL_TH_THAIFDA_NDI | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_MIMS: https://www.mims.com/thailand
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use |  |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_MIMS: https://www.mims.com/thailand
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/indigestion_postmeal_adult/ | TODO_DOWNLOAD | Extract: first-line regimen, dose, duration, antibiotic gate, red flags, pediatric calculation, contraindicati"
+DISEASE_0082,disease,Disease_Download_Map,82,digestive_aid_postmeal_adult,,70,"digestive_aid_postmeal_adult | Digestive-aid support after meals | GI | adult | K30 | N | GI_DYSPEPSIA_GAS | LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_UK_EMC, LABEL_TH_MIMS, LABEL_TH_THAIFDA_NDI | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_MIMS: https://www.mims.com/thailand
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use |  |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_MIMS: https://www.mims.com/thailand
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/digestive_aid_postmeal_adult/ | TODO_DOWNLOAD | Extract: first-line regimen, dose, duration, antibiotic gate, red flags, pediatric calculation"
+DISEASE_0083,disease,Disease_Download_Map,83,abdominal_gas_peds,,70,"abdominal_gas_peds | Pediatric abdominal gas / bloating | GI | peds | R14.0 | N | GI_DYSPEPSIA_GAS | LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_UK_EMC, LABEL_TH_MIMS, LABEL_TH_THAIFDA_NDI | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_MIMS: https://www.mims.com/thailand
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use |  |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_MIMS: https://www.mims.com/thailand
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/abdominal_gas_peds/ | TODO_DOWNLOAD | Extract: first-line regimen, dose, duration, antibiotic gate, red flags, pediatric calculation, contraindication"
+DISEASE_0084,disease,Disease_Download_Map,84,abdominal_colic_peds,,70,"abdominal_colic_peds | Pediatric abdominal colic support | GI | peds | R10.4 | N | GI_DYSPEPSIA_GAS | LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_UK_EMC, LABEL_TH_MIMS, LABEL_TH_THAIFDA_NDI | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_MIMS: https://www.mims.com/thailand
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use |  |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_UK_EMC: https://www.medicines.org.uk/emc
+LABEL_TH_MIMS: https://www.mims.com/thailand
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/abdominal_colic_peds/ | TODO_DOWNLOAD | Extract: first-line regimen, dose, duration, antibiotic gate, red flags, pediatric calculation, contraindicat"
+DISEASE_0091,disease,Disease_Download_Map,91,oral_thrush_peds,,70,"oral_thrush_peds | Pediatric oral thrush | Oral | peds | B37.0 | N | ORAL_CANDIDA_ULCER | GUIDE_US_IDSA_CANDIDIASIS, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_CANDIDIASIS: https://www.idsociety.org/practice-guideline/candidiasis/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_CANDIDIASIS: https://www.idsociety.org/practice-guideline/candidiasis/ |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/oral_thrush_peds/ | TODO_DOWNLOAD | Extract: first-line regimen, dose, duration, antibiotic gate, red flags, pediatric calculation, contraindications."
+DISEASE_0101,disease,Disease_Download_Map,101,infected_insect_bite_adult,,70,"infected_insect_bite_adult | Infected insect bite | Skin | adult | L08.9 | Y | SKIN_SSTI_WOUND | GUIDE_US_IDSA_SSTI, GUIDE_EU_NICE_IMPETIGO, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/
+GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/ | GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources | GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/infected_"
+DISEASE_0102,disease,Disease_Download_Map,102,infected_insect_bite_peds,,70,"infected_insect_bite_peds | Pediatric infected insect bite | Skin | peds | L08.9 | Y | SKIN_SSTI_WOUND | GUIDE_US_IDSA_SSTI, GUIDE_EU_NICE_IMPETIGO, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/
+GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/ | GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources | GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/i"
+DISEASE_0103,disease,Disease_Download_Map,103,cellulitis_mild_adult,,70,"cellulitis_mild_adult | Mild cellulitis | Skin | adult | L03.90 | Y | SKIN_SSTI_WOUND | GUIDE_US_IDSA_SSTI, GUIDE_EU_NICE_IMPETIGO, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/
+GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/ | GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources | GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/cellulitis_mild_ad"
+DISEASE_0104,disease,Disease_Download_Map,104,impetigo_oral_antibiotic_adult,,70,"impetigo_oral_antibiotic_adult | Impetigo needing oral antibiotic | Skin | adult | L01.0 | Y | SKIN_SSTI_WOUND | GUIDE_US_IDSA_SSTI, GUIDE_EU_NICE_IMPETIGO, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/
+GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/ | GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources | GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/d"
+DISEASE_0105,disease,Disease_Download_Map,105,localized_folliculitis_adult,,70,"localized_folliculitis_adult | Localized folliculitis | Skin | adult | L73.9 | Y | SKIN_SSTI_WOUND | GUIDE_US_IDSA_SSTI, GUIDE_EU_NICE_IMPETIGO, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/
+GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/ | GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources | GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/local"
+DISEASE_0106,disease,Disease_Download_Map,106,infected_abrasion_adult,,70,"infected_abrasion_adult | Infected abrasion | Skin | adult | L08.9 | Y | SKIN_SSTI_WOUND | GUIDE_US_IDSA_SSTI, GUIDE_EU_NICE_IMPETIGO, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/
+GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/ | GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources | GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/infected_abrasi"
+DISEASE_0112,disease,Disease_Download_Map,112,infected_wound_oral_antibiotic_adult,,70,"infected_wound_oral_antibiotic_adult | Infected wound needing oral antibiotic | Skin | adult | L08.9 | Y | SKIN_SSTI_WOUND | GUIDE_US_IDSA_SSTI, GUIDE_EU_NICE_IMPETIGO, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/
+GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_IDSA_SSTI: https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/ | GUIDE_EU_NICE_IMPETIGO: https://www.nice.org.uk/guidance/ng153/resources | GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepte"
+DISEASE_0117,disease,Disease_Download_Map,117,vulvovaginal_candidiasis_adult,,70,"vulvovaginal_candidiasis_adult | Vulvovaginal candidiasis | GU | adult | B37.31 | Y | GU_VAGINITIS | GUIDE_US_CDC_STI_VAGINAL, GUIDE_US_CDC_VVC, GUIDE_US_CDC_BV, GUIDE_US_IDSA_CANDIDIASIS, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_STI_VAGINAL: https://www.cdc.gov/std/treatment-guidelines/vaginal-discharge.htm
+GUIDE_US_CDC_VVC: https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm
+GUIDE_US_CDC_BV: https://www.cdc.gov/std/treatment-guidelines/bv.htm
+GUIDE_US_IDSA_CANDIDIASIS: https://www.idsociety.org/practice-guideline/candidiasis/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_STI_VAGINAL: https://www.cdc.gov/std/treatment-guidelines/vaginal-discharge.htm
+GUIDE_US_CDC_VVC: https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm
+GUIDE_US_CDC_BV: https://www.cdc.gov/std/treatment-guidelines/bv.htm
+GUIDE_US_IDSA_CANDIDIASIS: https://www.idsociety.org/practice-guide"
+DISEASE_0118,disease,Disease_Download_Map,118,vaginal_mixed_infection_adult,,70,"vaginal_mixed_infection_adult | Vaginal mixed-infection support | GU | adult | N76.0 | Y | GU_VAGINITIS | GUIDE_US_CDC_STI_VAGINAL, GUIDE_US_CDC_VVC, GUIDE_US_CDC_BV, GUIDE_US_IDSA_CANDIDIASIS, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_STI_VAGINAL: https://www.cdc.gov/std/treatment-guidelines/vaginal-discharge.htm
+GUIDE_US_CDC_VVC: https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm
+GUIDE_US_CDC_BV: https://www.cdc.gov/std/treatment-guidelines/bv.htm
+GUIDE_US_IDSA_CANDIDIASIS: https://www.idsociety.org/practice-guideline/candidiasis/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_STI_VAGINAL: https://www.cdc.gov/std/treatment-guidelines/vaginal-discharge.htm
+GUIDE_US_CDC_VVC: https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm
+GUIDE_US_CDC_BV: https://www.cdc.gov/std/treatment-guidelines/bv.htm
+GUIDE_US_IDSA_CANDIDIASIS: https://www.idsociety.org/practice-"
+DISEASE_0119,disease,Disease_Download_Map,119,vaginal_discharge_support_adult,,70,"vaginal_discharge_support_adult | Vaginal discharge support row | GU | adult | N89.8 | Y | GU_VAGINITIS | GUIDE_US_CDC_STI_VAGINAL, GUIDE_US_CDC_VVC, GUIDE_US_CDC_BV, GUIDE_US_IDSA_CANDIDIASIS, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_STI_VAGINAL: https://www.cdc.gov/std/treatment-guidelines/vaginal-discharge.htm
+GUIDE_US_CDC_VVC: https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm
+GUIDE_US_CDC_BV: https://www.cdc.gov/std/treatment-guidelines/bv.htm
+GUIDE_US_IDSA_CANDIDIASIS: https://www.idsociety.org/practice-guideline/candidiasis/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_STI_VAGINAL: https://www.cdc.gov/std/treatment-guidelines/vaginal-discharge.htm
+GUIDE_US_CDC_VVC: https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm
+GUIDE_US_CDC_BV: https://www.cdc.gov/std/treatment-guidelines/bv.htm
+GUIDE_US_IDSA_CANDIDIASIS: https://www.idsociety.org/practice-"
+DISEASE_0129,disease,Disease_Download_Map,129,wart_localized_adult,,70,"wart_localized_adult | Localized wart treatment | Skin | adult | B07.9 | N | SKIN_VIRAL_HERPES_WART | GUIDE_US_CDC_SHINGLES, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_SHINGLES: https://www.cdc.gov/shingles/hcp/clinical-overview/index.html
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_SHINGLES: https://www.cdc.gov/shingles/hcp/clinical-overview/index.html |  |  | LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | imports/accepted_evidence/disease/wart_localized_adult/ | TODO_DOWNLOAD | Extract: first-line regimen, dose, duration, antibiotic gate, red flags, pediatric calculation, contraindications."
+DRUG_0018,drug,Drug_Label_Links,18,Tylenol Suspension,Tylenol Suspension,70,"DRUG_BDS003763 | Tylenol Suspension | Paracetamol 160 mg./5 ml. | paracetamol syrup | General analgesics/antipyretics | ยาแก้ปวด, ลดไข้ ชนิดน้ำ | syrup/suspension | 160 mg | analgesic_antipyretic | N | Y - verify age/weight | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=paracetamol+syrup | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=paracetamol%20syrup&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=paracetamol%20syrup&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/paracetamol%20syrup/human/spls.json | https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=paracetamol%20syrup&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/{SETID}.xml | https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22paracetamol%20syrup%22&limit=10 | https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm | https://"
+DRUG_0019,drug,Drug_Label_Links,19,Zyrtec Syrup,Zyrtec Syrup,70,"DRUG_BDS004212 | Zyrtec Syrup | Cetirizine 2HCI 1 mg./1 ml. | cetirizine syrup |  | ยาแก้แพ้, ลดน้ำมูก ชนิดน้ำ (D) | syrup/suspension | 1 mg | h1_antihistamine | N | Y - verify age/weight | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=cetirizine+syrup | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=cetirizine%20syrup&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=cetirizine%20syrup&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/cetirizine%20syrup/human/spls.json | https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=cetirizine%20syrup&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/{SETID}.xml | https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22cetirizine%20syrup%22&limit=10 | https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm | https://www.fda.gov/drugs/drug-approvals-and-datab"
+DRUG_0063,drug,Drug_Label_Links,63,ChlorOph Eye Drops,ChlorOph Eye Drops,70,DRUG_BDS001437 | ChlorOph Eye Drops | Chloramphenicol 5 mg./1 ml. | chloramphenicol eye drops |  | ยาหยอดและยาป้ายตาฆ่าเชื้อ | drops/liquid | 5 mg | ophthalmic_antibiotic | Y | Y - verify age/weight | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=chloramphenicol+eye+drops | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=chloramphenicol%20eye%20drops&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=chloramphenicol%20eye%20drops&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/chloramphenicol%20eye%20drops/human/spls.json | https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=chloramphenicol%20eye%20drops&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/{SETID}.xml | https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22chloramphenicol%20eye%20drops%22&limit=10 | https://www.accessdata.fda.gov/scri
+DRUG_0064,drug,Drug_Label_Links,64,Terramycin Ophthalmic Ointment,Terramycin Ophthalmic Ointment,70,"DRUG_BDS003721 | Terramycin Ophthalmic Ointment | Oxytetracycline HCl 5 mg.+Polymyxin B Sulfate 10,000 units/1 g. | ophthalmic antibiotic ointment |  | ยาหยอดและยาป้ายตาฆ่าเชื้อ | cream/gel | 5 mg | ophthalmic_antibiotic | Y | Y - verify age/weight | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ophthalmic+antibiotic+ointment | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=ophthalmic%20antibiotic%20ointment&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=ophthalmic%20antibiotic%20ointment&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v1/drugname/ophthalmic%20antibiotic%20ointment/human/spls.json | https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=ophthalmic%20antibiotic%20ointment&name_type=both&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/{SETID}.xml | https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22opht"
+PRODUCT_0011,product,Product_Label_Links,11,1452,Clarith 500,70,10 | 1452 | Clarith 500 | Clarithromycin 500 mg. | Clarith 500 (7 tabs) | ยาฆ่าเชื้อแบคทีเรียทางเดินหายใจ (D) | แผง 7 เม็ด | Take as directed by your doctor.  | Clarithromycin | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clarith+500 | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clarithromycin | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Clarith%20500&name_type=brand&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Clarithromycin&name_type=both&pagesize=100 | https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22Clarith%20500%22&limit=10 | https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Clarithromycin%22&limit=10 | https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm | https://www.ema.europa.eu/en/medicines?search_api_fulltext=Clarithromycin | https://www.medicines.org.uk/emc/search?q=Clarith+500 | https://ndi.fda.moph.go.th/drug_use | https://drug.fda.moph.go.th/lowr
+PRODUCT_0017,product,Product_Label_Links,17,2692,Meiact tabslet,70,16 | 2692 | Meiact tabslet | Cefditoren 100 mg. | Meiact tabslet (10 tabs) | ยาฆ่าเชื้อแบคทีเรียทางเดินหายใจ (D) | แผง 10 เม็ด | Take as directed by your doctor.  | Cefditoren | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Meiact+tabslet | https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Cefditoren | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Meiact%20tabslet&name_type=brand&pagesize=100 | https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Cefditoren&name_type=both&pagesize=100 | https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22Meiact%20tabslet%22&limit=10 | https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Cefditoren%22&limit=10 | https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm | https://www.ema.europa.eu/en/medicines?search_api_fulltext=Cefditoren | https://www.medicines.org.uk/emc/search?q=Meiact+tabslet | https://ndi.fda.moph.go.th/drug_use | https://drug.fda.moph.go.th/lowrisk/

@@ -1,0 +1,14 @@
+{
+  "source_id": "1204",
+  "task_id": "T06522",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Renu+Multiplus+Lubricating+%26+Rewetting+Drops",
+  "local_path": "imports/accepted_evidence/product/1204/T06522_1204.cfm",
+  "sha256": "bfddf24a87cc4cea290d5192428c3deb582bafb35f1857405caae4d06f574252",
+  "downloaded_at": "2026-05-16T03:49:42.342474+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:769:1204",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

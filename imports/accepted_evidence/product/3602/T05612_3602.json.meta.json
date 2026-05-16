@@ -1,0 +1,14 @@
+{
+  "source_id": "3602",
+  "task_id": "T05612",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Methyl%20salicylate%20%2BMenthol%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/3602/T05612_3602.json",
+  "sha256": "e797649ca79f1606d84f3c562f3b90812c426bacdd7eb62485dc930076a05441",
+  "downloaded_at": "2026-05-16T03:47:22.536440+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:658:3602",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "2214",
+  "task_id": "T01476",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Loperamide&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2214/T01476_2214.json",
+  "sha256": "11fe3b139c464d2ac75f23ba4d8e39f45ee05874f60c7b060e9eb776247347ed",
+  "downloaded_at": "2026-05-16T03:37:02.760532+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:101:2214|Product_Label_Links:102:8703",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

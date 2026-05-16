@@ -1,0 +1,14 @@
+{
+  "source_id": "49255",
+  "task_id": "T01198",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Vifas+180+mg.",
+  "local_path": "imports/accepted_evidence/product/49255/T01198_49255.cfm",
+  "sha256": "2953077928df3070c5cb0c406b65e6bf1d1bd8e09a99e7d910ccb6d5b9e1582a",
+  "downloaded_at": "2026-05-16T03:36:21.968049+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:62:49255",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

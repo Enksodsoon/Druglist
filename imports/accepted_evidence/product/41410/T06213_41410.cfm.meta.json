@@ -1,0 +1,14 @@
+{
+  "source_id": "41410",
+  "task_id": "T06213",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Chloramphenicol+1",
+  "local_path": "imports/accepted_evidence/product/41410/T06213_41410.cfm",
+  "sha256": "e71aab5ebe6602c18a69e08a38bd5326f6d59c2be5120b1015da37c4dda69446",
+  "downloaded_at": "2026-05-16T03:48:52.826603+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:737:41410",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

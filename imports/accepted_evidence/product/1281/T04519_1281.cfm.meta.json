@@ -1,0 +1,14 @@
+{
+  "source_id": "1281",
+  "task_id": "T04519",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betalol+40+mg",
+  "local_path": "imports/accepted_evidence/product/1281/T04519_1281.cfm",
+  "sha256": "55cc8b68bbcb74d37c077aae0661c98d520be97809fade0db32929df5e97360b",
+  "downloaded_at": "2026-05-16T03:44:41.282241+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:512:1281",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

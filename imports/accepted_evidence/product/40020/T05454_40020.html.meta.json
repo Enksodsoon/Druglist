@@ -1,0 +1,14 @@
+{
+  "source_id": "40020",
+  "task_id": "T05454",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Arotika+Rub",
+  "local_path": "imports/accepted_evidence/product/40020/T05454_40020.html",
+  "sha256": "2fe025254cfbadf31d31d37b54e8a2153b52ba0d2e1b7a21181892f7ca42699d",
+  "downloaded_at": "2026-05-16T03:46:58.223040+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:640:40020",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

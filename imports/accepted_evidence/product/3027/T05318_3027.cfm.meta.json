@@ -1,0 +1,14 @@
+{
+  "source_id": "3027",
+  "task_id": "T05318",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Vit+A+%2BVit+D+%2BVit+E+%2BVit+C+%2BVit+B1+%2BVit+B2+%2BVit+B6+%2BVit+B12+%2BNicotinamide+%2BFolic+Acid+%2BFerrous+Fumarate+%2BCalcium+Lactate",
+  "local_path": "imports/accepted_evidence/product/3027/T05318_3027.cfm",
+  "sha256": "12e7f859b3e8f69d0c17ff7cbe1921336b58c4b7d965d3e224ae9ac7317ed92b",
+  "downloaded_at": "2026-05-16T03:46:37.021775+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:623:3027",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

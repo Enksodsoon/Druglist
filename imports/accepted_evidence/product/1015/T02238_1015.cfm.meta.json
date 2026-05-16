@@ -1,0 +1,14 @@
+{
+  "source_id": "1015",
+  "task_id": "T02238",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Aerius+Syrup",
+  "local_path": "imports/accepted_evidence/product/1015/T02238_1015.cfm",
+  "sha256": "6272bf7d934f3ed4ab4c758f7954e9590ad2132a95fa8b5e8c790d8922ccb1e1",
+  "downloaded_at": "2026-05-16T03:38:55.537372+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:202:1015",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

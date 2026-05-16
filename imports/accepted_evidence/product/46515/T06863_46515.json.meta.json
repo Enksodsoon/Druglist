@@ -1,0 +1,14 @@
+{
+  "source_id": "46515",
+  "task_id": "T06863",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Painelief%20Cool%20Gel%20%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/46515/T06863_46515.json",
+  "sha256": "c80aedda61c053363eb2bc25a0b2dae396a766394e26560fd8ef6cf6a18ec61b",
+  "downloaded_at": "2026-05-16T03:50:33.335830+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:812:46515",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

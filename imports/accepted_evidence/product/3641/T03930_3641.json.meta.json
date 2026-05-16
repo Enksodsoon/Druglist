@@ -1,0 +1,14 @@
+{
+  "source_id": "3641",
+  "task_id": "T03930",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Strepsils%20Throat%20Irritation%20%26%20Cough%20%E0%B8%8B%E0%B8%AD%E0%B8%87%208s&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3641/T03930_3641.json",
+  "sha256": "b478706af70254556798f45d129111f56533a115f2bb6e325f89986c3415c478",
+  "downloaded_at": "2026-05-16T03:43:11.194897+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:426:3641",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

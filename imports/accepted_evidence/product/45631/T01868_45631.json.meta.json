@@ -1,0 +1,14 @@
+{
+  "source_id": "45631",
+  "task_id": "T01868",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Nystatin%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/45631/T01868_45631.json",
+  "sha256": "c79b305f426ef1db00c349c20a3940533de7499b4b00bad89f4b16f910cf5e05",
+  "downloaded_at": "2026-05-16T03:38:01.809632+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:148:45631",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

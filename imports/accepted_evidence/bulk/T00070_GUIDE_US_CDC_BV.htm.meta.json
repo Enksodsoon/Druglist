@@ -1,0 +1,14 @@
+{
+  "source_id": "GUIDE_US_CDC_BV",
+  "task_id": "T00070",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/bv.htm",
+  "local_path": "imports/accepted_evidence/bulk/T00070_GUIDE_US_CDC_BV.htm",
+  "sha256": "fda9f99b75210f809fb32a6c44195d49ee15a07c99ca46eb7f5969e885ad3c17",
+  "downloaded_at": "2026-05-16T03:33:50.811527+00:00",
+  "http_status": 200,
+  "content_type": "text/html",
+  "method": "download_html",
+  "source_type": "Source_Download_Links",
+  "linked_rows": "Source_Download_Links:31:GUIDE_US_CDC_BV|Disease_Download_Map:117:vulvovaginal_candidiasis_adult|Disease_Download_Map:118:vaginal_mixed_infection_adult|Disease_Download_Map:119:vaginal_discharge_support_adult",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

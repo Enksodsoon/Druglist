@@ -1,0 +1,14 @@
+{
+  "source_id": "49784",
+  "task_id": "T04990",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Zimmex%2040%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/49784/T04990_49784.json",
+  "sha256": "bd6233c4610c4b042b9c48dfc375c67413964320e4208d3e859bdb44ac8dff52",
+  "downloaded_at": "2026-05-16T03:45:50.153594+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:579:49784",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

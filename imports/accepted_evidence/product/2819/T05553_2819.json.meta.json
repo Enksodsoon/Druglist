@@ -1,0 +1,14 @@
+{
+  "source_id": "2819",
+  "task_id": "T05553",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Neotica%20Balm%20%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2819/T05553_2819.json",
+  "sha256": "fa1a5b2f362c037def5851b5934a8d7e31678d71b2cdedf58f5d8c76170006e1",
+  "downloaded_at": "2026-05-16T03:47:12.575544+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:652:2819",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

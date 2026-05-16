@@ -1,0 +1,182 @@
+task_id,row_type,sheet,row_number,record_id,name,priority_score,source_hint
+DISEASE_0058,disease,Disease_Download_Map,58,pruritus_localized_adult,,-131,"pruritus_localized_adult | Localized pruritus | Skin | adult | L29.9 | N | SKIN_ECZEMA_ITCH_URTICARIA | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL, GUIDE_EU_NICE_ECZEMA_CHILD, GUIDE_EU_EAACI_URTICARIA, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies
+GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaaci.org/guidelines-position-papers/the-international-eaaci-ga%C2%B2len-euroguiderm-apaaaci-guideline-for-the-definition-classification-diagnosis-and-management-of-urticaria/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies | GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaaci"
+DISEASE_0067,disease,Disease_Download_Map,67,eczema_dry_pruritic_adult,,-131,"eczema_dry_pruritic_adult | Dry pruritic eczema | Skin | adult | L30.9 | N | SKIN_ECZEMA_ITCH_URTICARIA | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL, GUIDE_EU_NICE_ECZEMA_CHILD, GUIDE_EU_EAACI_URTICARIA, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies
+GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaaci.org/guidelines-position-papers/the-international-eaaci-ga%C2%B2len-euroguiderm-apaaaci-guideline-for-the-definition-classification-diagnosis-and-management-of-urticaria/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies | GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaa"
+DISEASE_0078,disease,Disease_Download_Map,78,localized_eczema_sensitive_area_adult,,-124,"localized_eczema_sensitive_area_adult | Localized eczema (sensitive-area cautious row) | Skin | adult | L30.9 | Y | SKIN_ECZEMA_ITCH_URTICARIA | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL, GUIDE_EU_NICE_ECZEMA_CHILD, GUIDE_EU_EAACI_URTICARIA, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies
+GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaaci.org/guidelines-position-papers/the-international-eaaci-ga%C2%B2len-euroguiderm-apaaaci-guideline-for-the-definition-classification-diagnosis-and-management-of-urticaria/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies | GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resource"
+DISEASE_0004,disease,Disease_Download_Map,4,uri_diarrhea_adult,,-122,"uri_diarrhea_adult | Acute viral URI with acute infectious diarrhea | Mixed | adult | J06.9 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care"
+DISEASE_0016,disease,Disease_Download_Map,16,common_cold_adult,,-107,"common_cold_adult | Common cold / viral URI | ENT | adult | J00 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE"
+DISEASE_0025,disease,Disease_Download_Map,25,itchy_dermatitis_adult,,-81,"itchy_dermatitis_adult | Dermatitis / eczema flare | Skin | adult | L30.9 | N | SKIN_ECZEMA_ITCH_URTICARIA | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL, GUIDE_EU_NICE_ECZEMA_CHILD, GUIDE_EU_EAACI_URTICARIA, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies
+GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaaci.org/guidelines-position-papers/the-international-eaaci-ga%C2%B2len-euroguiderm-apaaaci-guideline-for-the-definition-classification-diagnosis-and-management-of-urticaria/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies | GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://"
+DISEASE_0026,disease,Disease_Download_Map,26,insect_bite_reaction_adult,,-81,"insect_bite_reaction_adult | Insect bite reaction / itchy bite | Skin | adult | W57 | N | SKIN_ECZEMA_ITCH_URTICARIA | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL, GUIDE_EU_NICE_ECZEMA_CHILD, GUIDE_EU_EAACI_URTICARIA, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies
+GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaaci.org/guidelines-position-papers/the-international-eaaci-ga%C2%B2len-euroguiderm-apaaaci-guideline-for-the-definition-classification-diagnosis-and-management-of-urticaria/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies | GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA"
+DISEASE_0041,disease,Disease_Download_Map,41,itchy_localized_rash_adult,,-81,"itchy_localized_rash_adult | Localized itchy rash NOS | Skin | adult | R21 | N | SKIN_ECZEMA_ITCH_URTICARIA | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL, GUIDE_EU_NICE_ECZEMA_CHILD, GUIDE_EU_EAACI_URTICARIA, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies
+GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaaci.org/guidelines-position-papers/the-international-eaaci-ga%C2%B2len-euroguiderm-apaaaci-guideline-for-the-definition-classification-diagnosis-and-management-of-urticaria/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies | GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https:/"
+DISEASE_0056,disease,Disease_Download_Map,56,contact_dermatitis_adult,,-81,"contact_dermatitis_adult | Contact dermatitis / irritant rash | Skin | adult | L25.9 | N | SKIN_ECZEMA_ITCH_URTICARIA | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL, GUIDE_EU_NICE_ECZEMA_CHILD, GUIDE_EU_EAACI_URTICARIA, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies
+GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaaci.org/guidelines-position-papers/the-international-eaaci-ga%C2%B2len-euroguiderm-apaaaci-guideline-for-the-definition-classification-diagnosis-and-management-of-urticaria/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies | GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARI"
+DISEASE_0057,disease,Disease_Download_Map,57,urticaria_mild_adult,,-81,"urticaria_mild_adult | Mild urticaria / hives | Skin | adult | L50.9 | N | SKIN_ECZEMA_ITCH_URTICARIA | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL, GUIDE_EU_NICE_ECZEMA_CHILD, GUIDE_EU_EAACI_URTICARIA, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies
+GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaaci.org/guidelines-position-papers/the-international-eaaci-ga%C2%B2len-euroguiderm-apaaaci-guideline-for-the-definition-classification-diagnosis-and-management-of-urticaria/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies | GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaaci"
+DISEASE_0077,disease,Disease_Download_Map,77,insect_bite_swelling_adult,,-81,"insect_bite_swelling_adult | Insect bite with localized swelling | Skin | adult | W57 | N | SKIN_ECZEMA_ITCH_URTICARIA | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL, GUIDE_EU_NICE_ECZEMA_CHILD, GUIDE_EU_EAACI_URTICARIA, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies
+GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaaci.org/guidelines-position-papers/the-international-eaaci-ga%C2%B2len-euroguiderm-apaaaci-guideline-for-the-definition-classification-diagnosis-and-management-of-urticaria/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies | GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICAR"
+DISEASE_0079,disease,Disease_Download_Map,79,insect_bite_peds,,-81,"insect_bite_peds | Pediatric insect bite reaction | Skin | peds | W57 | N | SKIN_ECZEMA_ITCH_URTICARIA | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL, GUIDE_EU_NICE_ECZEMA_CHILD, GUIDE_EU_EAACI_URTICARIA, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies
+GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaaci.org/guidelines-position-papers/the-international-eaaci-ga%C2%B2len-euroguiderm-apaaaci-guideline-for-the-definition-classification-diagnosis-and-management-of-urticaria/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies | GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaac"
+DISEASE_0080,disease,Disease_Download_Map,80,localized_eczema_peds,,-81,"localized_eczema_peds | Pediatric localized eczema support | Skin | peds | L30.9 | N | SKIN_ECZEMA_ITCH_URTICARIA | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL, GUIDE_EU_NICE_ECZEMA_CHILD, GUIDE_EU_EAACI_URTICARIA, LABEL_US_DAILYMED, LABEL_TH_THAIFDA_NDI | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies
+GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: https://eaaci.org/guidelines-position-papers/the-international-eaaci-ga%C2%B2len-euroguiderm-apaaaci-guideline-for-the-definition-classification-diagnosis-and-management-of-urticaria/
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_AAD_ATOPIC_DERM_TOPICAL: https://www.aad.org/news/updated-atopic-dermatitis-guidelines-topical-therapies | GUIDE_EU_NICE_ECZEMA_CHILD: https://www.nice.org.uk/guidance/cg57/resources
+GUIDE_EU_EAACI_URTICARIA: h"
+DISEASE_0003,disease,Disease_Download_Map,3,uri_wet_cough_adult,,-77,"uri_wet_cough_adult | Acute viral URI with productive cough | ENT | adult | J06.9 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-out"
+DISEASE_0006,disease,Disease_Download_Map,6,uri_rash_adult,,-77,"uri_rash_adult | Acute viral URI with viral/allergic rash | Mixed | adult | J06.9 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-out"
+DISEASE_0007,disease,Disease_Download_Map,7,sore_throat_adult,,-77,"sore_throat_adult | Acute sore throat / pharyngeal irritation | ENT | adult | J02.9 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-o"
+DISEASE_0010,disease,Disease_Download_Map,10,uri_dry_cough_adult,,-77,"uri_dry_cough_adult | Acute viral URI with dry cough | ENT | adult | J06.9 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient"
+DISEASE_0015,disease,Disease_Download_Map,15,oral_ulcer_adult,,-77,"oral_ulcer_adult | Oral ulcer / aphthous ulcer | ENT | adult | K12.0 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+"
+DISEASE_0017,disease,Disease_Download_Map,17,nasal_blockage_adult,,-77,"nasal_blockage_adult | Nasal blockage / congestion | ENT | adult | R09.81 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient."
+DISEASE_0030,disease,Disease_Download_Map,30,oral_thrush_adult,,-77,"oral_thrush_adult | Oral thrush / candidiasis | ENT | adult | B37.0 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+G"
+DISEASE_0036,disease,Disease_Download_Map,36,nasal_irrigation_support_adult,,-77,"nasal_irrigation_support_adult | Nasal irrigation support / saline wash | ENT | adult | Z29.8 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-ca"
+DISEASE_0043,disease,Disease_Download_Map,43,uri_sneezing_runny_nose_adult,,-77,"uri_sneezing_runny_nose_adult | Viral URI with sneezing / runny nose | ENT | adult | J06.9 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/"
+DISEASE_0044,disease,Disease_Download_Map,44,acute_pharyngitis_viral_adult,,-77,"acute_pharyngitis_viral_adult | Acute viral pharyngitis | ENT | adult | J02.9 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpati"
+DISEASE_0045,disease,Disease_Download_Map,45,postnasal_drip_cough_adult,,-77,"postnasal_drip_cough_adult | Postnasal drip / upper airway cough syndrome | ENT | adult | R05.9 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-"
+DISEASE_0046,disease,Disease_Download_Map,46,post_viral_cough_adult,,-77,"post_viral_cough_adult | Post-viral cough | ENT | adult | R05.8 | N | ENT_URI_COUGH_COLD | GUIDE_US_CDC_ABX_ADULT, GUIDE_US_CDC_ABX_PEDS, GUIDE_EU_NICE_COUGH, GUIDE_EU_NICE_SORE_THROAT, GUIDE_TH_RDU_AMR, LABEL_US_DAILYMED, LABEL_EU_EMA_DATA, LABEL_TH_THAIFDA_NDI | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE_US_CDC_ABX_PEDS: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html
+GUIDE_EU_NICE_COUGH: https://www.nice.org.uk/guidance/ng120/resources
+GUIDE_EU_NICE_SORE_THROAT: https://www.nice.org.uk/guidance/ng84/resources
+GUIDE_TH_RDU_AMR: Download Thai RDU/AMR PDFs for OPD antibiotic gate
+LABEL_US_DAILYMED: https://dailymed.nlm.nih.gov/dailymed/spl-resources.cfm
+LABEL_EU_EMA_DATA: https://www.ema.europa.eu/en/medicines/download-medicine-data
+LABEL_TH_THAIFDA_NDI: https://ndi.fda.moph.go.th/drug_use | GUIDE_US_CDC_ABX_ADULT: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+GUIDE"

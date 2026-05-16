@@ -1,0 +1,14 @@
+{
+  "source_id": "3556",
+  "task_id": "T03537",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Strepsils%20Orange%2BVitamin%20C%20%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%2024s&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3556/T03537_3556.json",
+  "sha256": "ae5fe856f9bd895e9cd3c4437ad0b937bc4a30986df47157ba43795dbc115c3d",
+  "downloaded_at": "2026-05-16T03:42:10.701526+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:375:3556",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

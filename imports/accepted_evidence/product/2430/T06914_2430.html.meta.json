@@ -1,0 +1,14 @@
+{
+  "source_id": "2430",
+  "task_id": "T06914",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Kamistad-Gel+N",
+  "local_path": "imports/accepted_evidence/product/2430/T06914_2430.html",
+  "sha256": "50f09a6f0507369e66c400cd0e02955d84c934dfec762d3689ec5974462fb493",
+  "downloaded_at": "2026-05-16T03:50:42.163068+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:819:2430",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

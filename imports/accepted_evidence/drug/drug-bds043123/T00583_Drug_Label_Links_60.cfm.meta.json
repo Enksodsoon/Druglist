@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_60",
+  "task_id": "T00583",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=acetylcysteine+sachet",
+  "local_path": "imports/accepted_evidence/drug/drug-bds043123/T00583_Drug_Label_Links_60.cfm",
+  "sha256": "c217fd347301ec71b5b08a2269b54cea449cb1571645af6fbbbfdb3862c29e2e",
+  "downloaded_at": "2026-05-16T03:34:58.333669+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:60:Drug_Label_Links_60",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

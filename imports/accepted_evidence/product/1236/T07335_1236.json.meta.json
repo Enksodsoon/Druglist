@@ -1,0 +1,14 @@
+{
+  "source_id": "1236",
+  "task_id": "T07335",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Betamethasone%20Valerate%20%2BGentamicin%20Sulfate&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1236/T07335_1236.json",
+  "sha256": "c82cefd835a7ed4e6a4425ac50eac535b02ca9e2f6a960f494c193c7e570837d",
+  "downloaded_at": "2026-05-16T03:51:46.007749+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:869:1236",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

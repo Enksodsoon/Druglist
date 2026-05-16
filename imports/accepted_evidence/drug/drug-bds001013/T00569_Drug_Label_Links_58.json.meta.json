@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_58",
+  "task_id": "T00569",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/drugnames.json?drug_name=simethicone%20drops&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001013/T00569_Drug_Label_Links_58.json",
+  "sha256": "d81c5167f245c632ba64bb5604b0c0d3a18121751601fec3287e0fe87ae47832",
+  "downloaded_at": "2026-05-16T03:34:55.522144+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:58:Drug_Label_Links_58",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

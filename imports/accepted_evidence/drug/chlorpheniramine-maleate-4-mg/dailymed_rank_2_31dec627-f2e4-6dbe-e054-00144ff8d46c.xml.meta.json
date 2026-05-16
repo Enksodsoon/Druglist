@@ -1,0 +1,17 @@
+{
+  "source_id": "7145",
+  "task_id": "DAILYMED_2_31dec627-f2e4-6dbe-e054-00144ff8d46c",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/31dec627-f2e4-6dbe-e054-00144ff8d46c.xml",
+  "local_path": "imports/accepted_evidence/drug/chlorpheniramine-maleate-4-mg/dailymed_rank_2_31dec627-f2e4-6dbe-e054-00144ff8d46c.xml",
+  "sha256": "44dc0128402b201fedd90d3a0f2ff4828fb1101b23b169664ad23e882379a826",
+  "downloaded_at": "2026-05-16T03:53:34.018381+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Chlorpheniramine Maleate 4 mg.",
+  "rank": 2,
+  "setid": "31dec627-f2e4-6dbe-e054-00144ff8d46c",
+  "title": "CHLORPHENIRAMINE MALEATE 4 MG (CHLORPHENIRAMINE MALEATE) TABLET [RELIABLE 1 LABORATORIES LLC]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

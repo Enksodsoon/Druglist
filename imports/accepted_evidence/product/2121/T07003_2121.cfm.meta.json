@@ -1,0 +1,14 @@
+{
+  "source_id": "2121",
+  "task_id": "T07003",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Mucopolysaccharide+polysulphate+%2F",
+  "local_path": "imports/accepted_evidence/product/2121/T07003_2121.cfm",
+  "sha256": "4896decc9f6b06a984fe71bea532edae1728fc2a703d918dc87455c33399240d",
+  "downloaded_at": "2026-05-16T03:50:55.743438+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:832:2121|Product_Label_Links:833:2110|Product_Label_Links:834:2130|Product_Label_Links:835:2113",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

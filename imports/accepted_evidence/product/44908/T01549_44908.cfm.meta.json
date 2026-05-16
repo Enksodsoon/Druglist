@@ -1,0 +1,14 @@
+{
+  "source_id": "44908",
+  "task_id": "T01549",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Calcium+Carbonate+%2BSimethicone",
+  "local_path": "imports/accepted_evidence/product/44908/T01549_44908.cfm",
+  "sha256": "be66a29049679e7bc05503140cc38a99091820d2910201f70d71c81c7be9035d",
+  "downloaded_at": "2026-05-16T03:37:14.047099+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:109:44908",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

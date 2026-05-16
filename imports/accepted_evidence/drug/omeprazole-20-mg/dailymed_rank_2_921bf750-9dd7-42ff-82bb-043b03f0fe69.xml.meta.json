@@ -1,0 +1,17 @@
+{
+  "source_id": "7108",
+  "task_id": "DAILYMED_2_921bf750-9dd7-42ff-82bb-043b03f0fe69",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/921bf750-9dd7-42ff-82bb-043b03f0fe69.xml",
+  "local_path": "imports/accepted_evidence/drug/omeprazole-20-mg/dailymed_rank_2_921bf750-9dd7-42ff-82bb-043b03f0fe69.xml",
+  "sha256": "d6392ec055d65ff80e7b75109b11a9da64ea34dbf5020dd2d3c21bd51e9c95d3",
+  "downloaded_at": "2026-05-16T03:53:50.516654+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Omeprazole 20 mg.",
+  "rank": 2,
+  "setid": "921bf750-9dd7-42ff-82bb-043b03f0fe69",
+  "title": "OMEPRAZOLE 20 MG TABLET, DELAYED RELEASE [MARKSANS PHARMA LIMITED]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_20",
+  "task_id": "T00261",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=oxymetazoline&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds002215/T00261_Drug_Label_Links_20.xml",
+  "sha256": "b577819978a0ff648312a2bb0bfb98bc4e68f5558315690509061955c4e12f81",
+  "downloaded_at": "2026-05-16T03:34:14.423618+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:20:Drug_Label_Links_20",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

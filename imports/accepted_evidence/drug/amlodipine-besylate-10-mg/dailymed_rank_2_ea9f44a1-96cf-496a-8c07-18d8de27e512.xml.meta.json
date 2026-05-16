@@ -1,0 +1,17 @@
+{
+  "source_id": "6069",
+  "task_id": "DAILYMED_2_ea9f44a1-96cf-496a-8c07-18d8de27e512",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/ea9f44a1-96cf-496a-8c07-18d8de27e512.xml",
+  "local_path": "imports/accepted_evidence/drug/amlodipine-besylate-10-mg/dailymed_rank_2_ea9f44a1-96cf-496a-8c07-18d8de27e512.xml",
+  "sha256": "21a7f3b900835b7f5fcb89d4a6fcd971e1f22c1b8f43bf784b4bc578ec23df66",
+  "downloaded_at": "2026-05-16T03:55:13.717949+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Amlodipine besylate 10 mg.",
+  "rank": 2,
+  "setid": "ea9f44a1-96cf-496a-8c07-18d8de27e512",
+  "title": "AMLODIPINE BESYLATE 10 MG (AMLODIPINE BESYLATE) TABLET [PREFERRED PHARMACEUTICALS INC.]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

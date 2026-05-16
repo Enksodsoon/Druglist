@@ -1,0 +1,14 @@
+{
+  "source_id": "1922",
+  "task_id": "T04941",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Fibril+160",
+  "local_path": "imports/accepted_evidence/product/1922/T04941_1922.html",
+  "sha256": "4e2c0bda8d1a1258e345a9dd6945876956b23f25bb22a8e1ae69c64d7672ccbb",
+  "downloaded_at": "2026-05-16T03:45:42.508223+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:571:1922",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

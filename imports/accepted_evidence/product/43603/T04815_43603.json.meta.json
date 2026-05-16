@@ -1,0 +1,14 @@
+{
+  "source_id": "43603",
+  "task_id": "T04815",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Glizide&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/43603/T04815_43603.json",
+  "sha256": "58ab724cb18a7d925faa80f3a80e6bdf0d0f526990ce951634b72cd933da4e1d",
+  "downloaded_at": "2026-05-16T03:45:23.952863+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:551:43603",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "7960",
+  "task_id": "T04439",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tranxic",
+  "local_path": "imports/accepted_evidence/product/7960/T04439_7960.cfm",
+  "sha256": "9c696bb6032a8d8e30cd1b18d3898b5bc5ae1700b778fe7d6b7d571ae9710211",
+  "downloaded_at": "2026-05-16T03:44:29.736090+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:501:7960",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

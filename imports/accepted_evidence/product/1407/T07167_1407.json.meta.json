@@ -1,0 +1,14 @@
+{
+  "source_id": "1407",
+  "task_id": "T07167",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Chlorhexidine%20Gluconate%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1407/T07167_1407.json",
+  "sha256": "4df22f32f466d2e4d3955345e64b8399549ce9af4ff341fe56f0f78b06c5420b",
+  "downloaded_at": "2026-05-16T03:51:21.233904+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:850:1407|Product_Label_Links:851:1406|Product_Label_Links:852:1409",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

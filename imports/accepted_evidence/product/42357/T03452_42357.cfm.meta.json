@@ -1,0 +1,14 @@
+{
+  "source_id": "42357",
+  "task_id": "T03452",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=2+4-Dichlorobenzyl+alcohol+%2BAmylmetacresol",
+  "local_path": "imports/accepted_evidence/product/42357/T03452_42357.cfm",
+  "sha256": "34cafa1f123b4c7d8914af6a41803e76b34fa8bf586b1b1d1cfdaf12248e6abd",
+  "downloaded_at": "2026-05-16T03:41:58.033928+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:365:42357",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

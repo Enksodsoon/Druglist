@@ -1,0 +1,14 @@
+{
+  "source_id": "8272",
+  "task_id": "T03722",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Benfotiamine%20%2BRiboflavin%20%2BPyridoxine%20%2BCyanocobalamin%20%2BVit%20C&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/8272/T03722_8272.json",
+  "sha256": "4448fa153bed2638c68459ee7a0f06fe4747b8ebac3dde49f8a7202daa51ad86",
+  "downloaded_at": "2026-05-16T03:42:39.832045+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:401:8272",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

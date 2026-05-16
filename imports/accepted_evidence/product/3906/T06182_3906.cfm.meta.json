@@ -1,0 +1,14 @@
+{
+  "source_id": "3906",
+  "task_id": "T06182",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=U-Enema",
+  "local_path": "imports/accepted_evidence/product/3906/T06182_3906.cfm",
+  "sha256": "55c8d7fcb90e7b08da717425508b46d3473e41763eb7f11ccf624ad08ddf2db6",
+  "downloaded_at": "2026-05-16T03:48:49.061299+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:732:3906",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

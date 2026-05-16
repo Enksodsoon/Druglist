@@ -1,0 +1,14 @@
+{
+  "source_id": "2035",
+  "task_id": "T04832",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Metformin&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2035/T04832_2035.json",
+  "sha256": "c51eb0c96e99db9af4cbad825da1798e745ee116391d430d1636d86ae4537565",
+  "downloaded_at": "2026-05-16T03:45:26.731819+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:553:2035|Product_Label_Links:554:43610|Product_Label_Links:555:1959|Product_Label_Links:557:44920|Product_Label_Links:558:6205|Product_Label_Links:559:44902|Product_Label_Links:561:3612|Product_Label_Links:562:3614",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

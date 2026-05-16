@@ -1,0 +1,14 @@
+{
+  "source_id": "1099",
+  "task_id": "T06969",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Intrasite%20Gel&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1099/T06969_1099.json",
+  "sha256": "12fd8d4ad1bc9e1664134795c8006a0376f64b255244591f3ab026d9abd93a05",
+  "downloaded_at": "2026-05-16T03:50:50.216073+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:828:1099",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

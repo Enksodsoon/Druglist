@@ -1,0 +1,14 @@
+{
+  "source_id": "2648",
+  "task_id": "T05753",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clotrimazole+BP+1+w%2Fw",
+  "local_path": "imports/accepted_evidence/product/2648/T05753_2648.cfm",
+  "sha256": "cf3f7f75e50386b6bc31f91ef9f44b0e25945a03e7afc1b045837d8867a20d71",
+  "downloaded_at": "2026-05-16T03:47:43.054779+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:676:2648",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

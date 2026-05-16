@@ -1,0 +1,14 @@
+{
+  "source_id": "42823",
+  "task_id": "T05149",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Levothyroxine%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/42823/T05149_42823.json",
+  "sha256": "c6dee559b59118e14327f1c6ef75ebb76137d1e2a10670a885d42191067c6108",
+  "downloaded_at": "2026-05-16T03:46:13.892562+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:601:42823|Product_Label_Links:602:42824",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

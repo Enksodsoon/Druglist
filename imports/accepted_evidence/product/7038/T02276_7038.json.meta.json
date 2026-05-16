@@ -1,0 +1,14 @@
+{
+  "source_id": "7038",
+  "task_id": "T02276",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Cetirizine%202HCl%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7038/T02276_7038.json",
+  "sha256": "e74765d78004fa37e2b6a48a1dba48a9ee1f32d4fc269ffbb133f951d2b1d794",
+  "downloaded_at": "2026-05-16T03:39:00.177061+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:206:7038|Product_Label_Links:211:8086",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "7214",
+  "task_id": "T02596",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Naproflex",
+  "local_path": "imports/accepted_evidence/product/7214/T02596_7214.html",
+  "sha256": "80a9aafbbd70fba04af25d68fc3d2eb5f839c61baaabd5e16621352fd9bf3410",
+  "downloaded_at": "2026-05-16T03:39:51.615950+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:250:7214",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

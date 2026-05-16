@@ -1,0 +1,14 @@
+{
+  "source_id": "2117",
+  "task_id": "T06335",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Antazoline%200%2005%20%2BTetrahydrozoline%200%2004%20%2BHydroxypropyl%20Methylcellulose%2BPreservative%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2117/T06335_2117.json",
+  "sha256": "c79032df4ff7bb8d966de89d32d1ca59e771b0c9ddfacae8deae5e0f6e9cb1bb",
+  "downloaded_at": "2026-05-16T03:49:11.792691+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:749:2117",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

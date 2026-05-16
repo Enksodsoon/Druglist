@@ -1,0 +1,14 @@
+{
+  "source_id": "46527",
+  "task_id": "T05588",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%9E%E0%B8%A5+%2F",
+  "local_path": "imports/accepted_evidence/product/46527/T05588_46527.cfm",
+  "sha256": "18986ccb548648d23233af8a606a816db384396b9bd71245f7cd1a7c216c2af2",
+  "downloaded_at": "2026-05-16T03:47:18.691433+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:656:46527",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

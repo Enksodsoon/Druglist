@@ -1,0 +1,14 @@
+{
+  "source_id": "3611",
+  "task_id": "T01446",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Sennoside&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3611/T01446_3611.json",
+  "sha256": "3a5bab55075c7fb000e0f12ac3e106804edc605728cdcf1544d3156c77bd3728",
+  "downloaded_at": "2026-05-16T03:36:59.110193+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:98:3611",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

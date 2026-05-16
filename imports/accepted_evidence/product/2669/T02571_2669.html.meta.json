@@ -1,0 +1,14 @@
+{
+  "source_id": "2669",
+  "task_id": "T02571",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Melcam",
+  "local_path": "imports/accepted_evidence/product/2669/T02571_2669.html",
+  "sha256": "15715002a0dad1994b331acf475d0cd958df08c87192595fbd5a617095d57561",
+  "downloaded_at": "2026-05-16T03:39:44.546732+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:246:2669",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

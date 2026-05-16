@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="c27c3d6a-64ca-47d4-bba6-a0c5288e755b"/>
+   <code code="34390-5" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN OTC DRUG LABEL"/>
+   <title>Simethicone 80 mg</title>
+   <effectiveTime value="20241001"/>
+   <setId root="a5e523b3-475e-4d28-a89c-c4325c59c939"/>
+   <versionNumber value="2"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="079196022" root="1.3.6.1.4.1.519.1"/>
+            <name>Proficient Rx LP</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="079196022" root="1.3.6.1.4.1.519.1"/>
+                        <name>Proficient Rx LP</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C73606" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="REPACK"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="82804-043" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C73607" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="RELABEL"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="82804-043" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="496c31ab-1dae-4b70-9522-e343e5b62079"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20241001"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="82804-043" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Simethicone 80 mg</name>
+                        <formCode code="C42893" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TABLET, CHEWABLE"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Simethicone</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <asEquivalentEntity classCode="EQUIV">
+                           <code code="C64637" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <definingMaterialKind>
+                              <code code="69618-033" codeSystem="2.16.840.1.113883.6.69"/>
+                           </definingMaterialKind>
+                        </asEquivalentEntity>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="OP1R32D61U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MICROCRYSTALLINE CELLULOSE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="ETJ7Z6XBU4" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SILICON DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="7CVR7L4A2D" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MALTODEXTRIN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="506T60A25R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SORBITOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="4ELV7Z65AP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>STEARIC ACID</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="80"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="92RU3N3Y1O" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>DIMETHICONE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="92RU3N3Y1O" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>DIMETHICONE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="C151H8M554" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SUCROSE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="IY9XDZ35W2" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>DEXTROSE, UNSPECIFIED FORM</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="V95R5KMY2B" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>PEPPERMINT</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="30"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="82804-043-30" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43173" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE, PLASTIC"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20231116"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="60"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="82804-043-60" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43173" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE, PLASTIC"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20231116"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="90"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="82804-043-90" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43173" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE, PLASTIC"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20231116"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="M002" root="2.16.840.1.113883.3.9421"/>
+                           <code code="C200263" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="OTC Monograph Drug"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20180424"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="white" xsi:type="CE">
+                              <originalText>Off White</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="13" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48348" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ROUND" xsi:type="CE"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">AP;019</value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMAGE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="33234c36-60b8-3847-e054-00144ff8d46c.jpg"/>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_32fb8ff6-5c8d-4e02-e054-00144ff8d46c">
+               <id root="636e020d-cda9-465e-acd6-cb86e290ab95"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">
+                        <content styleCode="italics">Drug Facts</content>
+                     </content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20241001"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_32fbd5bd-bf25-6695-e054-00144ff8d46c">
+               <id root="24a757cc-e24d-42c5-93c8-536c620e6c02"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>
+                  <content styleCode="italics">Use</content>
+               </title>
+               <text>
+                  <paragraph>relieves bloating, pressure and fullness commonly referred to as gas</paragraph>
+               </text>
+               <effectiveTime value="20241001"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_32fbfb81-f4b7-6b1e-e054-00144ff8d46c">
+               <id root="28dec9c2-41a9-47bd-8375-34a06cba8108"/>
+               <code code="34071-1" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS SECTION"/>
+               <title>
+                  <content styleCode="italics">Warnings</content>
+               </title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Keep out of reach of children</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20241001"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_32fbfb81-f4b9-6b1e-e054-00144ff8d46c">
+               <id root="f8d33a40-adb7-4968-9e4b-1379eeee1b80"/>
+               <code code="50565-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - KEEP OUT OF REACH OF CHILDREN SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Keep out of reach of children</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20241001"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_32fc31e2-56ad-2e43-e054-00144ff88e88">
+               <id root="c13ac7d2-2dd7-45eb-8605-cef8baf0d7f6"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>
+                  <content styleCode="italics">Directions</content>
+               </title>
+               <text>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>thoroughly chew 1-2 tablets as needed after meals and at bedtime</item>
+                     <item>
+                        <caption>•</caption>do not take more then 6 tablets per day</item>
+                  </list>
+               </text>
+               <effectiveTime value="20241001"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_32fc31e2-56af-2e43-e054-00144ff88e88">
+               <id root="84eba320-b3a6-4cf7-be70-0e9b98434a81"/>
+               <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+               <title>
+                  <content styleCode="italics">Other information</content>
+               </title>
+               <text>
+                  <paragraph>store at room temperature 15°-30°C (59°-86°F)</paragraph>
+               </text>
+               <effectiveTime value="20241001"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_32fc31e7-b7a6-2e3f-e054-00144ff88e88">
+               <id root="85128102-a10f-4605-8bbe-863e49587c90"/>
+               <code code="51727-6" codeSystem="2.16.840.1.113883.6.1" displayName="INACTIVE INGREDIENT SECTION"/>
+               <title>
+                  <content styleCode="italics">Inactive ingredients</content>
+               </title>
+               <text>
+                  <paragraph>compressible sugar, dextrose, maltodextrin,  micdocrystalline cellulose, peppermint flavor, Silicon dioxide, sorbitol, stearic acid</paragraph>
+               </text>
+               <effectiveTime value="20241001"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_32fc5122-d122-5b8a-e054-00144ff8d46c">
+               <id root="94082ac7-98b0-4793-ad76-1cb18d71eb5f"/>
+               <code code="53413-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - QUESTIONS SECTION"/>
+               <title>
+                  <content styleCode="italics">Questions or comments?</content>
+               </title>
+               <text>
+                  <paragraph>call    <content styleCode="bold">516-341-0666</content>, 8:30 am to 4:30 pm ET, Monday - Friday  </paragraph>
+               </text>
+               <effectiveTime value="20241001"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_32fca347-25bb-0cf0-e054-00144ff8d46c">
+               <id root="b04e2df6-a34e-4a88-8a66-4514ef145d22"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20241001"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_330aed4b-7101-09b8-e054-00144ff8d46c">
+               <id root="0f242c7d-a097-4639-b2f3-2c1832f0dc91"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>Distributed by:    <content styleCode="bold">Reliable 1 Laboratories LLC</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">                        Valley Stream, NY 11580</content>
+                  </paragraph>
+                  <paragraph>Repackaged by:    <content styleCode="bold">Proficient Rx LP</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">                        Thousand Oaks, CA 91320</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">
+                        <linkHtml href="http://www.reliable1labs.com">www.reliable1labs.com</linkHtml>
+                     </content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20241001"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_33239bd7-5e5d-4836-e054-00144ff8d46c">
+               <id root="ba24ddb6-31c8-4d64-8c3f-ac2d8e53cc8a"/>
+               <code code="55106-9" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - ACTIVE INGREDIENT SECTION"/>
+               <title>
+                  <content styleCode="italics">Active ingredient (in each chewable tablet)</content>
+               </title>
+               <text>
+                  <paragraph>Simethicone 80 mg</paragraph>
+               </text>
+               <effectiveTime value="20241001"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_3323d2da-6dcc-2f3b-e054-00144ff88e88">
+               <id root="00e2273d-3a7f-47f1-95d8-2203d8d97757"/>
+               <code code="55105-1" codeSystem="2.16.840.1.113883.6.1" displayName="OTC - PURPOSE SECTION"/>
+               <title>
+                  <content styleCode="italics">Purpose</content>
+               </title>
+               <text>
+                  <paragraph>Antiflatulent</paragraph>
+               </text>
+               <effectiveTime value="20241001"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_330aed4b-7108-09b8-e054-00144ff8d46c">
+               <id root="c15d2947-b4f8-47fb-a99e-20f1c9868ab7"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">NDC 82804-043-30</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Simethicone 80 mg</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">ANTIFLATULENT</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">30 CHEWABLE TABLETS</content>
+                  </paragraph>
+                  <renderMultiMedia ID="id379" referencedObject="ID_4b3aee7c-6046-4430-9560-d40621088f58"/>
+               </text>
+               <effectiveTime value="20241001"/>
+               <component>
+                  <observationMedia ID="ID_4b3aee7c-6046-4430-9560-d40621088f58">
+                     <text>82804-043-30</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="8.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

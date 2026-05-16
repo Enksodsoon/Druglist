@@ -1,0 +1,14 @@
+{
+  "source_id": "47663",
+  "task_id": "T06537",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Hypromellose%20/%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/47663/T06537_47663.json",
+  "sha256": "55211fbd03dbe620c869af44ccba684750c3f044521af63d628d2f45f03cfe5c",
+  "downloaded_at": "2026-05-16T03:49:43.923813+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:770:47663",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

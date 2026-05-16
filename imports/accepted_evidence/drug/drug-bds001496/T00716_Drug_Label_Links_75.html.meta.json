@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_75",
+  "task_id": "T00716",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=ciprofloxacin",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001496/T00716_Drug_Label_Links_75.html",
+  "sha256": "bb7d4d91018775c50cace1668ceb9b247c115b5ad60ef653a7b04a09944f6363",
+  "downloaded_at": "2026-05-16T03:35:18.317839+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:75:Drug_Label_Links_75",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

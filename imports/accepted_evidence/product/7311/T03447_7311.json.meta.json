@@ -1,0 +1,14 @@
+{
+  "source_id": "7311",
+  "task_id": "T03447",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Xacin&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7311/T03447_7311.json",
+  "sha256": "462f4c85fe2bbbcf407513de338881d01919c6a3baf7c3cc3a912ec754835282",
+  "downloaded_at": "2026-05-16T03:41:56.825955+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:364:7311",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

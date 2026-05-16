@@ -1,0 +1,14 @@
+{
+  "source_id": "42802",
+  "task_id": "T02674",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Nifuroxazide",
+  "local_path": "imports/accepted_evidence/product/42802/T02674_42802.cfm",
+  "sha256": "8582a66ecd9b24162d391b940c567df953d6a6d74deb8cc608eab09139ae89b1",
+  "downloaded_at": "2026-05-16T03:40:01.062541+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:264:42802",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

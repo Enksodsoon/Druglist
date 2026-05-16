@@ -1,0 +1,14 @@
+{
+  "source_id": "47722",
+  "task_id": "T01154",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Singulair%205%20mg%20Box%2028s&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/47722/T01154_47722.json",
+  "sha256": "fe9ba55cc8a0484d493d2bc226f0c0cc2814acaaa2dbd954ffe6e0146c351920",
+  "downloaded_at": "2026-05-16T03:36:16.474310+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:55:47722",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

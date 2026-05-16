@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_53",
+  "task_id": "T00526",
+  "source_url": "https://www.ema.europa.eu/en/medicines?search_api_fulltext=celecoxib",
+  "local_path": "imports/accepted_evidence/drug/drug-bds001509/T00526_Drug_Label_Links_53.html",
+  "sha256": "76ea8e9e135a52c9adcdd21f48d46b04f834bcb764815b2c2b6cdaab6e8d0c9e",
+  "downloaded_at": "2026-05-16T03:34:50.115518+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "method": "download_html_or_manual",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:53:Drug_Label_Links_53",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

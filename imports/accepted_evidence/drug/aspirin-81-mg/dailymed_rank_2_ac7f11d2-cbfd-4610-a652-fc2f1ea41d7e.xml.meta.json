@@ -1,0 +1,17 @@
+{
+  "source_id": "1070",
+  "task_id": "DAILYMED_2_ac7f11d2-cbfd-4610-a652-fc2f1ea41d7e",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/ac7f11d2-cbfd-4610-a652-fc2f1ea41d7e.xml",
+  "local_path": "imports/accepted_evidence/drug/aspirin-81-mg/dailymed_rank_2_ac7f11d2-cbfd-4610-a652-fc2f1ea41d7e.xml",
+  "sha256": "3962a47ac9f40d01a096bb8851c941a4132a43446cfb976893bb0f934cc56670",
+  "downloaded_at": "2026-05-16T03:55:44.579112+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "dailymed_candidate",
+  "source_type": "Product_Label_Links",
+  "query_name": "Aspirin 81 mg.",
+  "rank": 2,
+  "setid": "ac7f11d2-cbfd-4610-a652-fc2f1ea41d7e",
+  "title": "ASPIRIN 81 MG (ASPIRIN) TABLET, COATED [PREFERRED PHARMACEUTICALS INC.]",
+  "notes": "Candidate only. Do not assume this SPL matches the local drug/product row."
+}

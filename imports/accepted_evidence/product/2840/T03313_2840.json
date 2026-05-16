@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 2
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Norgesic Forte Orphenadrine Citrate, Aspirin and Caffeine CROSCARMELLOSE SODIUM FD&C BLUE NO. 1 D&C YELLOW NO. 10 CELLULOSE, MICROCRYSTALLINE POVIDONE SILICON DIOXIDE SODIUM LAURYL SULFATE STARCH, CORN STEARIC ACID ORPHENADRINE CITRATE ORPHENADRINE ASPIRIN ASPIRIN ANHYDROUS LACTOSE CAFFEINE CAFFEINE GA;473"
+      ],
+      "description": [
+        "DESCRIPTION Each Norgesic Forte tablet, for oral administration, contains Orphenadrine Citrate 50 mg, Aspirin 770 mg, Caffeine 60 mg. In addition, each tablet contains the following inactive ingredients, anhydrous lactous, colloidal silicon dioxide, D&C yellow #10, FD&C blue #1, zinc stearate, providone, pregetanized starch, and stearic acid. Orphenadrine citrate, (2-dimethylaminoethyl 2-methybenzhydryl ether citrate). It is as a white, practically odorless, crystalline powder, having a bitter taste. It is sparingly soluble in water, slightly soluble in alcohol. It has the following structural formula: Aspirin, salicylic acid acetate, is a non-opiate analgesic, anti-inflammatory and antipyretic agent. It occurs as a white, crystalline tabular or needle like powder and is odorless or has a faint odor. It is sparingly soluble in water, freely soluble in alcohol and chloroform. It has the following structural formula: Caffeine is a central nervous system stimulant which occurs as a white powder or white glistening needles, usually matted together. It is sparingly soluble in alcohol, and freely soluble in chloroform. The chemical name for caffeine is 1,3,7-Trimethylxanthine. It has the following structural formula: formula1 formula2 formula3"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Orphenadrine citrate is a centrally acting (brain stem) compound which in animals selectively blocks facilitatory functions of the reticular formulation. Orphenadrine does not produce myoneural block, nor does it affect crossed extensor reflexes. Orphenadrine prevents nicotine-induced convulsions but not those produced by strychnine. Chronic administration of Orphenadrine Citrate, Aspirin, and Caffeine to dogs and rats has revealed no drug-related toxicity. No blood or urine changes were observed, nor were there any macroscopic or microscopic pathological changes detected. Extensive experience with combinations containing aspirin and caffeine has established them as safe agents. The addition of orphenadrine citrate does not alter the toxicity of aspirin and caffeine. The mode of therapeutic action of orphenadrine has not been clearly identified, but may be related to its analgesic properties. Orphenadrine citrate also possesses anticholinergic actions."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS AND USAGE Norgesic Forte 50 mg/770mg/60 mg Tablets are indicated in: Symptomatic relief of mild to moderate pain of acute musculoskeletal disorders. The orphenadrine component is indicated as an adjunct to rest, physical therapy, and other measures for the relief of discomfort associated with acute painful musculoskeletal conditions. The mode of action of orphenadrine has not been clearly identified, but may be related to its analgesic properties. Norgesic Forte Tablets do not directly relax tense skeletal muscles in man."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Because of the mild anti-cholinergic effect of orphenadrine, Norgesic Forte Tablets should not be used in patients with glaucoma, pyloric or duodenal obstruction, achalasia, prostatic hypertrophy, or obstructions at the bladder neck. Norgesic Forte Tablets are also contraindicated in patients with myasthenia gravis and in patients known to be sensitive to aspirin or caffeine. The drug is contraindicated in patients who have demonstrated a previous hypersensitivity to the drug."
+      ],
+      "warnings": [
+        "WARNINGS Reye’s Syndrome may develop in individuals who have chicken pox, influenza, or flu symptoms. Some studies suggest possible association between the development of Reye’s Syndrome and the use of medicines containing salicylate or aspirin. Norgesic Forte Tablets 50mg/770mg/60mg contain aspirin and therefore are not recommended for use in patients with chicken pox, influenza, or flu symptoms. Norgesic Forte Tablets may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or driving a motor vehicle: ambulatory patients should therefore be cautioned accordingly. Aspirin should be used with extreme caution in the presence of peptic ulcers and coagulation abnormalities. Usage in Pregnancy Risk Summary Use of NSAIDs, including aspirin, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment. Because of these risks, limit dose and duration of Orphengesic Forte Tablets use between about 20 and 30 weeks of gestation, and avoid Orphengesic Forte Tablets use at about 30 weeks of gestation and later in pregnancy [see WARNINGS; Fetal Toxicity]. Premature Closure of Fetal Ductus Arteriosus Use of NSAIDs, including aspirin, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus. Oligohydramnios/Neonatal Renal Impairment Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment. Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive. Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization. In animal studies, administration of prostaglandin synthesis inhibitors such as aspirin, resulted in increased pre- and post-implantation loss. Prostaglandins also have been shown to have an important role in fetal kidney development. In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses. The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. Clinical Considerations Fetal/Neonatal Adverse Reactions Premature Closure of Fetal Ductus Arteriosus: Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including Orphengesic Forte Tablets, can cause premature closure of the fetal ductus arteriosus (see WARNINGS; Fetal Toxicity). Oligohydramnios/Neonatal Renal Impairment If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible. If Orphengesic Forte Tablets treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios. If oligohydramnios occurs, discontinue Orphengesic Forte Tablets and follow up according to clinical practice (see WARNINGS; Fetal Toxicity). Data Human Data Premature Closure of Fetal Ductus Arteriosus : Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus. Oligohydramnios/Neonatal Renal Impairment: Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment. These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation. In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug. There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible. Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis. Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications. These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use. Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain. Usage in Children The safe and effective use of this drug in children has not been established. Usage of this drug in children under 12 years of age is not recommended. Fetal Toxicity Premature Closure of Fetal Ductus Arteriosus: Avoid use of NSAIDs, including Norgesic Forte Tablets, in pregnant women at about 30 weeks gestation and later. NSAIDs including Orphengesic Forte Tablets, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age. Oligohydramnios/Neonatal Renal Impairment: Use of NSAIDs, including Norgesic Forte Tablets, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment. These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation. Oligohydramnios is often, but not always, reversible with treatment discontinuation. Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation. In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required. If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit Orphengesic Forte Tablets use to the lowest effective dose and shortest duration possible. Consider ultrasound monitoring of amniotic fluid if Norgesic Forte Tablets treatment extends beyond 48 hours. Discontinue if oligohydramnios occurs and follow up according to clinical practice [see PRECAUTIONS; Pregnancy]. Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as Orphengesic Forte Tablets. Some of these events have been fatal or life-threatening. DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling. Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis. Sometimes symptoms of DRESS may resemble an acute viral infection. Eosinophilia is often present. Because this disorder is variable in its presentation, other organ systems not noted here may be involved. It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident. If such signs or symptoms are present, discontinue and evaluate the patient immediately."
+      ],
+      "precautions": [
+        "PRECAUTIONS Confusion, anxiety and tremors have been reported in a few patients receiving propoxyphene and orphenadrine concomitantly. As these symptoms may be simply due to an additive effect, reduction of dosage and/or discontinuation of one or both agents is recommended in such cases. Safety of continuous long term therapy with Norgesic Forte Tablets has not been established; therefore, if Norgesic Forte Tablets are prescribed for prolonged use, periodic monitoring of blood, urine and liver function values is recommended. Pregnancy Embryo-Fetal Toxicity Inform pregnant women to avoid use of aspirin and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus. If treatment with Norgesic Forte Tablets is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy]. Serious Skin Reactions, including DRESS Advise patients to stop taking Orphengesic Forte Tablets immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings]."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Side effects of Norgesic Forte Tablets are those seen with aspirin and caffeine or those usually associated with mild anticholinergic agents. These may include tachycardia, palpitation, urinary hesitancy or retention, dry mouth, blurred vision, dilation of the pupil, increased intraocular tension, weakness, nausea, vomiting, headache, dizziness, constipation, drowsiness, and rarely, urticaria and other dermatoses. Infrequently, an elderly patient may experience some degree of confusion. Mild central excitation and occasional hallucinations may be observed. These mild side effects can usually be eliminated by reduction in dosage. One case of aplastic anemia associated with the use of Orphenadrine Citrate, Aspirin, and Caffeine Tablets has been reported. No causal relationship has been established. Rare G.I. hemorrhage due to aspirin content may be associated with the administration of Norgesic Forte Tablets. Some patients may experience transient episodes of lightheadedness, dizziness or syncope."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION Norgesic Forte Tablets: Adults 1/2 to 1 tablet 3 to 4 times daily."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Norgesic Forte Tablets (Orphenadrine Citrate 50mg, Aspirin 770mg, and Caffeine 60mg) Two-layered, white/green capsule shaped, bisected tablets debossed \"GA\" and \"473\" with bisect on the white side and plain on the green side are available in bottles of 60 tablets (NDC 50991-999-60). Store below 30°C (86°F) Rx Only Storage Store at 20°-25°C (68°-77° F) (see USP Controlled Room Temperature). Protect from moisture."
+      ],
+      "storage_and_handling": [
+        "Storage Store at 20°-25°C (68°-77° F) (see USP Controlled Room Temperature). Protect from moisture."
+      ],
+      "spl_unclassified_section": [
+        "Manufactured for: Poly Pharmaceuticals, Inc. Owens Cross Roads, AL 35763 Rev. 04/21"
+      ],
+      "package_label_principal_display_panel": [
+        "Norgesic Forte Tablet Label Norgesic Forte Tablets 50 mg/770 mg/60 mg Rx only label"
+      ],
+      "set_id": "85a3b808-b476-f2f0-e053-2a91aa0af21f",
+      "id": "472e3862-eab9-2279-e063-6394a90adb4c",
+      "effective_time": "20251230",
+      "version": "9",
+      "openfda": {
+        "application_number": [
+          "ANDA075141"
+        ],
+        "brand_name": [
+          "Norgesic Forte"
+        ],
+        "generic_name": [
+          "ORPHENADRINE CITRATE, ASPIRIN AND CAFFEINE"
+        ],
+        "manufacturer_name": [
+          "Poly Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "50991-999"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ASPIRIN",
+          "CAFFEINE",
+          "ORPHENADRINE CITRATE"
+        ],
+        "rxcui": [
+          "994535",
+          "994537"
+        ],
+        "spl_id": [
+          "472e3862-eab9-2279-e063-6394a90adb4c"
+        ],
+        "spl_set_id": [
+          "85a3b808-b476-f2f0-e053-2a91aa0af21f"
+        ],
+        "package_ndc": [
+          "50991-999-60",
+          "50991-999-06"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000000160",
+          "N0000008836",
+          "M0001335",
+          "N0000175722",
+          "N0000175578",
+          "N0000008832",
+          "N0000175739",
+          "N0000175729",
+          "N0000175790",
+          "M0023046"
+        ],
+        "pharm_class_moa": [
+          "Cyclooxygenase Inhibitors [MoA]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Prostaglandin Production [PE]",
+          "Decreased Platelet Aggregation [PE]",
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "pharm_class_cs": [
+          "Anti-Inflammatory Agents, Non-Steroidal [CS]",
+          "Xanthines [CS]"
+        ],
+        "pharm_class_epc": [
+          "Nonsteroidal Anti-inflammatory Drug [EPC]",
+          "Platelet Aggregation Inhibitor [EPC]",
+          "Central Nervous System Stimulant [EPC]",
+          "Methylxanthine [EPC]"
+        ],
+        "unii": [
+          "R16CO5Y76E",
+          "3G6A5W338E",
+          "X0A40N8I4S"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Norgesic Orphenadrine Citrate, Aspirin and Caffeine SILICON DIOXIDE ANHYDROUS LACTOSE D&C YELLOW NO. 10 FD&C BLUE NO. 1 ZINC STEARATE POVIDONE STARCH, CORN STEARIC ACID WATER ORPHENADRINE CITRATE ORPHENADRINE ASPIRIN ASPIRIN CAFFEINE CAFFEINE WHITE AND GREEN OAC472"
+      ],
+      "description": [
+        "DESCRIPTION Each Norgesic TM Tablet, for oral administration contains Orphenadrine Citrate 25 mg, Aspirin 385 mg and Caffeine 30 mg. In addition, each tablet contains the following inactive ingredients: anhydrous lactose, colloidal silicon dioxide, D&C yellow #10, FD&C blue #1, zinc stearate, povidone, pregelatinized starch, and stearic acid. Orphenadrine citrate is (2-dimethylaminoethyl 2-methylbenzhydryl ether citrate). It is a white, practically odorless, crystalline powder, having a bitter taste. It is sparingly soluble in water; slightly soluble in alcohol. It has the following structural formula: Aspirin, salicylic acid acetate, is a non-opiate analgesic, anti-inflammatory and antipyretic agent It occurs as a white, crystalline tabular or needle-like powder and is odorless or has a faint odor. It is sparingly soluble in water, freely soluble in alcohol and chloroform. It has the following structural formula: Caffeine is a central nervous system stimulant which occurs as a white powder or white glistening needles, usually matted together. It is sparingly soluble in alcohol, and freely soluble in chloroform. The chemical name for caffeine is, 1,3,7-Trimethylxanthine. It has the following structural formula: structure structure1 structure2"
+      ],
+      "clinical_pharmacology": [
+        "CLINICAL PHARMACOLOGY Orphenadrine citrate is a centrally acting (brain stem) compound which in animals selectively blocks facilitatory functions of the reticular formation. Orphenadrine does not produce myoneural block, nor does it affect crossed extensor reflexes. Orphenadrine prevents nicotine-induced convulsions but not those produced by strychnine. Chronic administration of orphenadrine citrate, aspirin and caffeine to dogs and rats has revealed no drug-related toxicity. No blood or urine changes were observed, nor were there any macroscopic or microscopic pathological changes detected. Extensive experience with combinations containing aspirin and caffeine has established them as safe agents. The addition of orphenadrine citrate does not alter the toxicity of aspirin and caffeine. The mode of therapeutic action of orphenadrine has not been clearly identified, but may be relegated to its analgesic properties. Orphenadrine citrate also possesses anti-cholinergic actions."
+      ],
+      "indications_and_usage": [
+        "INDICATIONS & USAGE Norgesic TM (orphenadrine citrate, aspirin and caffeine 25 mg/ 385 mg/ 30 mg) Tablets are indicated in: Symptomatic relief of mild to moderate pain of acute musculoskeletal disorders. The orphenadrine component is indicated as an adjunct to rest, physical therapy, and other measures for the relief of discomfort associated with acute painful musculoskeletal conditions. The mode of action of orphenadrine has not been clearly identified, but may be related to its analgesic properties. Norgesic TM Tablets do not directly relax tense muscles in man."
+      ],
+      "contraindications": [
+        "CONTRAINDICATIONS Because of the mild anticholinergic effect of orphenadrine, Norgesic TM Tablets should not be used in patients with glaucoma, pyloric or duodenal obstruction, achalasia, prostatic hypertrophy or obstructions at the bladder neck. Norgesic TM Tablets are also contraindicated in patients with myasthenia gravis and in patients known to be sensitive to aspirin or caffeine. The drug is contraindicated in patients who have demonstrated a previous hypersensitivity to the drug."
+      ],
+      "warnings": [
+        "WARNINGS Reye’s Syndrome may develop in individuals who have chicken pox, influenza, or flu symptoms. Some studies suggest possible association between the development of Reye’s Syndrome and the use of medicines containing salicylate or aspirin. Norgesic TM Tablets contain aspirin and therefore are not recommended for use in patients with chicken pox, influenza, or flu symptoms. Norgesic TM Tablets may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or driving a motor vehicle; ambulatory patients should therefore be cautioned accordingly. Aspirin should be used with extreme caution in the presence of peptic ulcers and coagulation abnormalities. Pregnancy Risk Summary Use of NSAIDs, including aspirin, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment. Because of these risks, limit dose and duration of Norgesic TM Tablets use between about 20 and 30 weeks of gestation, and avoid Norgesic TM Tablets use at about 30 weeks of gestation and later in pregnancy [ see WARNINGS; Fetal Toxicity ]. Premature Closure of Fetal Ductus Arteriosus Use of NSAIDs, including aspirin, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus. Oligohydramnios/Neonatal Renal Impairment Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment. Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive. Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization. In animal studies, administration of prostaglandin synthesis inhibitors such as aspirin, resulted in increased pre- and post-implantation loss. Prostaglandins also have been shown to have an important role in fetal kidney development. In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses. The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. Clinical Considerations Fetal/Neonatal Adverse Reactions Premature Closure of Fetal Ductus Arteriosus: Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including Norgesic TM Tablets, can cause premature closure of the fetal ductus arteriosus (see WARNINGS; Fetal Toxicity) . Oligohydramnios/Neonatal Renal Impairment If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible. If Norgesic TM Tablets treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios. If oligohydramnios occurs, discontinue Norgesic TM Tablets and follow up according to clinical practice (see WARNINGS; Fetal Toxicity) . Data Human Data Premature Closure of Fetal Ductus Arteriosus: Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus. Oligohydramnios/Neonatal Renal Impairment: Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment. These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation. In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug. There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible. Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis. Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications. These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use. Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain. Usage in Children The safe and effective use of this drug in children has not been established. Usage of this drug in children under 12 years of age is not recommended. Fetal Toxicity Premature Closure of Fetal Ductus Arteriosus: Avoid use of NSAIDs, including Norgesic TM Tablets, in pregnant women at about 30 weeks gestation and later. NSAIDs including Norgesic TM Tablets, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age. Oligohydramnios/Neonatal Renal Impairment: Use of NSAIDs, including Norgesic TM Tablets, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment. These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation. Oligohydramnios is often, but not always, reversible with treatment discontinuation. Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation. In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required. If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit Norgesic TM Tablets use to the lowest effective dose and shortest duration possible. Consider ultrasound monitoring of amniotic fluid if Norgesic TM Tablets treatment extends beyond 48 hours. Discontinue Norgesic TM Tablets if oligohydramnios occurs and follow up according to clinical practice [ see PRECAUTIONS; Pregnancy ] . Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as Norgesic TM Tablets. Some of these events have been fatal or life-threatening. DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling. Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis. Sometimes symptoms of DRESS may resemble an acute viral infection. Eosinophilia is often present. Because this disorder is variable in its presentation, other organ systems not noted here may be involved. It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident. If such signs or symptoms are present, discontinue Norgesic TM Tablets and evaluate the patient immediately."
+      ],
+      "precautions": [
+        "PRECAUTIONS Confusion, anxiety and tremors have been reported in a few patients receiving propoxyphene and orphenadrine concomitantly. As these symptoms may be simply due to an additive effect, reduction of dosage and/or discontinuation of one or both agents is recommended in such cases. Safety of continuous long term therapy with Norgesic TM Tablets has not been established; therefore, if Norgesic TM Tablets are prescribed for prolonged use, periodic monitoring of blood, urine and liver function values is recommended. Pregnancy Embryo-Fetal Toxicity Inform pregnant women to avoid use of aspirin and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus. If treatment with Norgesic TM Tablets is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [ see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy ] . Serious Skin Reactions, including DRESS Advise patients to stop taking Norgesic TM Tablets immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [ see Warnings ]."
+      ],
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Side effects of Norgesic TM Tablets are those seen with aspirin and caffeine or those usually associated with mild anti-cholinergic agents. These may include tachycardia, palpitation, urinary hesitancy or retention, dry mouth, blurred vision, dilation of the pupil, increased intraocular tension, weakness, nausea, vomiting, headache, dizziness, constipation, drowsiness, and rarely, urticaria and other dermatosis. Infrequently, an elderly patient may experience some degree of confusion. Mild central excitation and occasional hallucinations may be observed. These mild side effects can usually be eliminated by reduction in dosage. One case of aplastic anemia associated with the use of orphenadrine citrate, aspirin and caffeine has been reported. No causal relationship has been established. Rare G.I. hemorrhage due to aspirin content may be associated with the administration of Norgesic TM Tablets. Some patients may experience transient episodes of light-headedness, dizziness or syncope."
+      ],
+      "dosage_and_administration": [
+        "DOSAGE & ADMINISTRATION Norgesic TM Tablets: Adults 1 to 2 tablets 3 to 4 times daily."
+      ],
+      "how_supplied": [
+        "HOW SUPPLIED Norgesic TM Tablets (orphenadrine citrate 25 mg, aspirin 385 mg, and caffeine 30 mg): Two-layered, white/green round flat faced beveled edge tablet debossed “OAC” over “472” on the white side and plain on the green side. They are available in bottles of 60 tablets (NDC 61825-305-60). Store below 30°C (86°F). Rx Only Manufactured for: Galt Pharmaceuticals Atlanta, GA 30339 GLT.305.99 Rev. 05/2022"
+      ],
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL capture1"
+      ],
+      "set_id": "be2761bc-e537-4039-846a-2ffa3d8b2afc",
+      "id": "47da9e12-c9c2-d80e-e063-6294a90a86aa",
+      "effective_time": "20260108",
+      "version": "3",
+      "openfda": {
+        "application_number": [
+          "ANDA075141"
+        ],
+        "brand_name": [
+          "Norgesic"
+        ],
+        "generic_name": [
+          "ORPHENADRINE CITRATE, ASPIRIN AND CAFFEINE"
+        ],
+        "manufacturer_name": [
+          "Galt Pharmaceuticals, LLC"
+        ],
+        "product_ndc": [
+          "61825-305"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ASPIRIN",
+          "CAFFEINE",
+          "ORPHENADRINE CITRATE"
+        ],
+        "rxcui": [
+          "994528",
+          "994530"
+        ],
+        "spl_id": [
+          "47da9e12-c9c2-d80e-e063-6294a90a86aa"
+        ],
+        "spl_set_id": [
+          "be2761bc-e537-4039-846a-2ffa3d8b2afc"
+        ],
+        "package_ndc": [
+          "61825-305-60"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000000160",
+          "N0000008836",
+          "M0001335",
+          "N0000175722",
+          "N0000175578",
+          "N0000008832",
+          "N0000175739",
+          "N0000175729",
+          "N0000175790",
+          "M0023046"
+        ],
+        "pharm_class_moa": [
+          "Cyclooxygenase Inhibitors [MoA]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Prostaglandin Production [PE]",
+          "Decreased Platelet Aggregation [PE]",
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "pharm_class_cs": [
+          "Anti-Inflammatory Agents, Non-Steroidal [CS]",
+          "Xanthines [CS]"
+        ],
+        "pharm_class_epc": [
+          "Nonsteroidal Anti-inflammatory Drug [EPC]",
+          "Platelet Aggregation Inhibitor [EPC]",
+          "Central Nervous System Stimulant [EPC]",
+          "Methylxanthine [EPC]"
+        ],
+        "unii": [
+          "R16CO5Y76E",
+          "3G6A5W338E",
+          "X0A40N8I4S"
+        ]
+      }
+    }
+  ]
+}

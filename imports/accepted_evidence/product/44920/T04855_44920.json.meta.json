@@ -1,0 +1,14 @@
+{
+  "source_id": "44920",
+  "task_id": "T04855",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Metfor-500&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/44920/T04855_44920.json",
+  "sha256": "23996129d406d6c12bcb9839b7e9c22d73207e0915666b3f50805692c1fd491f",
+  "downloaded_at": "2026-05-16T03:45:30.078642+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:557:44920",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

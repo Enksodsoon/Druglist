@@ -1,0 +1,14 @@
+{
+  "source_id": "1682",
+  "task_id": "T07139",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Diabederm+Urea+Cream+10%25",
+  "local_path": "imports/accepted_evidence/product/1682/T07139_1682.html",
+  "sha256": "7556366ab88b412268873bd8e482e138c00dd5e026f8887f266cf645724f0cbb",
+  "downloaded_at": "2026-05-16T03:51:17.932789+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:847:1682",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

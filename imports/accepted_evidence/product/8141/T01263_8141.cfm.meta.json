@@ -1,0 +1,14 @@
+{
+  "source_id": "8141",
+  "task_id": "T01263",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Bocytin+Capsule",
+  "local_path": "imports/accepted_evidence/product/8141/T01263_8141.cfm",
+  "sha256": "dc15a16c12c960a413f3ce7e32fba4f113d91b47296564e2e85f24ae82fc46b1",
+  "downloaded_at": "2026-05-16T03:36:30.965990+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:73:8141",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

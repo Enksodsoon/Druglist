@@ -1,0 +1,14 @@
+{
+  "source_id": "1846",
+  "task_id": "T07279",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Fenistil%20Gel&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1846/T07279_1846.json",
+  "sha256": "05c5220d8adcc40763dc09318277779a14aacfa6c51cd23901a7169ea43f3cd7",
+  "downloaded_at": "2026-05-16T03:51:37.823038+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:863:1846",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

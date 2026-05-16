@@ -1,0 +1,14 @@
+{
+  "source_id": "2898",
+  "task_id": "T01605",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Nexium%2020%20mg&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/2898/T01605_2898.json",
+  "sha256": "84713de560d2802f987b4f6392cd69abcfb09b25c5d8cac3cec17116bb0a98d9",
+  "downloaded_at": "2026-05-16T03:37:21.577781+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:115:2898",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

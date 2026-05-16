@@ -1,0 +1,14 @@
+{
+  "source_id": "7954",
+  "task_id": "T04347",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Gyno+Gena-500",
+  "local_path": "imports/accepted_evidence/product/7954/T04347_7954.html",
+  "sha256": "90dd1f8d3817b0265fa7c1a086b391f6617219a3fa1a08728314e80b6852f2f5",
+  "downloaded_at": "2026-05-16T03:44:15.837124+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:485:7954",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

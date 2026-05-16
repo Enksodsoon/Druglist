@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-05-15",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 2
+    }
+  },
+  "results": [
+    {
+      "spl_product_data_elements": [
+        "Danil Danil compound ketoconazole solution for scalp disorders. CITRIC ACID ACETATE EDETATE DISODIUM COCONUT OIL GLYCERETH-8 ESTERS PEG-14 1-((METHYLPHENYL)ETHYL)PHENYL ETHER AMMONIUM SULFATE DIETHYLENE GLYCOL DISTEARATE AA-1 CATION MENTHOL WATER KETOCONAZOLE KETOCONAZOLE CLOBETASOL PROPIONATE CLOBETASOL EOSIN B GLYCEROL FORMAL 2-(ETHYLSULFONYL)ETHANOL SODIUM LAURYL SULFATE"
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION: External use only. Apply about 5ml of DANIL solution to moist hair, massage it gently to let the solution contact with the scalp thoroughly, after 3~5 minutes, rinse cleanly with water. For treatment purpose , the DANIL solution should be used twice/thrice a week continuously for 2~4 weeks; for prevention purpose, it should be used once every one or two weeks."
+      ],
+      "warnings": [
+        "There is no any special warning."
+      ],
+      "inactive_ingredient": [
+        "Clobetasol propionate 0.25mg"
+      ],
+      "indications_and_usage": [
+        "EXPIRATION DATE: Three years after the manufactured date. For external use only. Avoid contact with eyes. Keep out of reach of children. Do not exceed prescribed dose. Read package insert carefully before using."
+      ],
+      "keep_out_of_reach_of_children": [
+        "PRECAUTIONS: 1. Avoid contact with the eyes and other mucous membranes(oral and nasal). 2. Stop and clean the drug, if burning sensation and red swelling of the skin appears. Consult with the doctor, if necessary. 3. Consult with the doctor or pharmacist if it is necessary to use DANIL for more than 4 weeks continuously. 4. You can use other hair-care product if your hair is dry after using DANIL. 5. Infants and children should use it with cautions. 6. It is contraindicated for individuals who have known or suspected hypersensitivity to any of its ingredients. It should be used with cautions in individuals with allergic constitution. 7. Do not use it if the appearance of the solution is changed. 8. Keep it out of the reach of children. 9. Children should use it under the supervision of adults. 10. Consult a doctor or pharmacist before use DANIL, if you are using any other medicines at the same time."
+      ],
+      "purpose": [
+        "PHARMACOLOGICAL ACTION: In vitro, DANIL solution exhibits a potent antimycotic activity. In vivo studies in animal patterns infected with superficial fungi, it is shown that DANIL solution has an excellent therapeutic effect, especially for that caused by Pityrosporum oval. Combined with Clobetasol propionate, a potent anti-inflammatory and anti-pruritic topical corticosteroid agent, DANIL solution has the actions of anti-bacterial, anti-inflammatory, anti-allergic, anti-dandruff and anti-pruritus. Clinical trial reports that the DANIL solution has proved to be more effective and more rapid in treatment of dandruff and seborrheic dermatitis on the scalp than the single Ketoconazole lotion. Animal acute toxicity test and toxicity test for local application and clinical trial indicated that the DANIL solution is safe for use, no allergic or irritant reaction is found."
+      ],
+      "active_ingredient": [
+        "Active Ingredients: Ketoconazole 15mg Clobetasol Propionate 0.25mg"
+      ],
+      "package_label_principal_display_panel": [
+        "COMPOUND KETOCONAZOLE SOLUTION FOR SCALP DISORDERS Content of Labling"
+      ],
+      "set_id": "177cf130-60df-a67c-e063-6294a90ab657",
+      "id": "2e5ad164-898f-f276-e063-6394a90ade14",
+      "effective_time": "20250217",
+      "version": "4",
+      "openfda": {
+        "brand_name": [
+          "Danil"
+        ],
+        "generic_name": [
+          "DANIL COMPOUND KETOCONAZOLE SOLUTION FOR SCALP DISORDERS."
+        ],
+        "manufacturer_name": [
+          "Jiangsu Chenpai Bond Pharmaceutical Co.,Ltd."
+        ],
+        "product_ndc": [
+          "84277-5665"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "CLOBETASOL PROPIONATE",
+          "KETOCONAZOLE"
+        ],
+        "spl_id": [
+          "2e5ad164-898f-f276-e063-6394a90ade14"
+        ],
+        "spl_set_id": [
+          "177cf130-60df-a67c-e063-6294a90ab657"
+        ],
+        "package_ndc": [
+          "84277-5665-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175487",
+          "M0002083",
+          "N0000182141",
+          "N0000190115",
+          "N0000185503"
+        ],
+        "pharm_class_epc": [
+          "Azole Antifungal [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Azoles [CS]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A4 Inhibitors [MoA]",
+          "Cytochrome P450 3A5 Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]"
+        ],
+        "unii": [
+          "779619577M",
+          "R9400W927I"
+        ]
+      }
+    },
+    {
+      "spl_product_data_elements": [
+        "Danil Danil compound ketoconazole solution for scalp disorders. CITRIC ACID ACETATE EDETATE DISODIUM COCONUT OIL GLYCERETH-8 ESTERS PEG-14 1-((METHYLPHENYL)ETHYL)PHENYL ETHER AMMONIUM SULFATE DIETHYLENE GLYCOL DISTEARATE AA-1 CATION MENTHOL WATER KETOCONAZOLE KETOCONAZOLE CLOBETASOL PROPIONATE CLOBETASOL EOSIN B GLYCEROL FORMAL 2-(ETHYLSULFONYL)ETHANOL SODIUM LAURYL SULFATE"
+      ],
+      "dosage_and_administration": [
+        "DOSAGE AND ADMINISTRATION: External use only. Apply about 5ml of DANIL solution to moist hair, massage it gently to let the solution contact with the scalp thoroughly, after 3~5 minutes, rinse cleanly with water. For treatment purpose , the DANIL solution should be used twice/thrice a week continuously for 2~4 weeks; for prevention purpose, it should be used once every one or two weeks."
+      ],
+      "warnings": [
+        "There is no any special warning."
+      ],
+      "inactive_ingredient": [
+        "Clobetasol propionate 0.25mg"
+      ],
+      "indications_and_usage": [
+        "EXPIRATION DATE: Three years after the manufactured date. For external use only. Avoid contact with eyes. Keep out of reach of children. Do not exceed prescribed dose. Read package insert carefully before using."
+      ],
+      "keep_out_of_reach_of_children": [
+        "PRECAUTIONS: 1. Avoid contact with the eyes and other mucous membranes(oral and nasal). 2. Stop and clean the drug, if burning sensation and red swelling of the skin appears. Consult with the doctor, if necessary. 3. Consult with the doctor or pharmacist if it is necessary to use DANIL for more than 4 weeks continuously. 4. You can use other hair-care product if your hair is dry after using DANIL. 5. Infants and children should use it with cautions. 6. It is contraindicated for individuals who have known or suspected hypersensitivity to any of its ingredients. It should be used with cautions in individuals with allergic constitution. 7. Do not use it if the appearance of the solution is changed. 8. Keep it out of the reach of children. 9. Children should use it under the supervision of adults. 10. Consult a doctor or pharmacist before use DANIL, if you are using any other medicines at the same time."
+      ],
+      "purpose": [
+        "PHARMACOLOGICAL ACTION: In vitro, DANIL solution exhibits a potent antimycotic activity. In vivo studies in animal patterns infected with superficial fungi, it is shown that DANIL solution has an excellent therapeutic effect, especially for that caused by Pityrosporum oval. Combined with Clobetasol propionate, a potent anti-inflammatory and anti-pruritic topical corticosteroid agent, DANIL solution has the actions of anti-bacterial, anti-inflammatory, anti-allergic, anti-dandruff and anti-pruritus. Clinical trial reports that the DANIL solution has proved to be more effective and more rapid in treatment of dandruff and seborrheic dermatitis on the scalp than the single Ketoconazole lotion. Animal acute toxicity test and toxicity test for local application and clinical trial indicated that the DANIL solution is safe for use, no allergic or irritant reaction is found."
+      ],
+      "active_ingredient": [
+        "Active Ingredients: Ketoconazole 15mg Clobetasol Propionate 0.25mg"
+      ],
+      "package_label_principal_display_panel": [
+        "COMPOUND KETOCONAZOLE SOLUTION FOR SCALP DISORDERS Content of Labling"
+      ],
+      "set_id": "394250d7-360b-01d1-e063-6394a90ad976",
+      "id": "39426dba-d572-06a6-e063-6394a90ab7d2",
+      "effective_time": "20250706",
+      "version": "1",
+      "openfda": {
+        "brand_name": [
+          "Danil"
+        ],
+        "generic_name": [
+          "DANIL COMPOUND KETOCONAZOLE SOLUTION FOR SCALP DISORDERS."
+        ],
+        "manufacturer_name": [
+          "Jiangsu Chenpai Bond Pharmaceutical Co.,Ltd."
+        ],
+        "product_ndc": [
+          "84277-5666"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "substance_name": [
+          "CLOBETASOL PROPIONATE",
+          "KETOCONAZOLE"
+        ],
+        "spl_id": [
+          "39426dba-d572-06a6-e063-6394a90ab7d2"
+        ],
+        "spl_set_id": [
+          "394250d7-360b-01d1-e063-6394a90ad976"
+        ],
+        "package_ndc": [
+          "84277-5666-3"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175487",
+          "M0002083",
+          "N0000182141",
+          "N0000190115",
+          "N0000185503"
+        ],
+        "pharm_class_epc": [
+          "Azole Antifungal [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Azoles [CS]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A4 Inhibitors [MoA]",
+          "Cytochrome P450 3A5 Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]"
+        ],
+        "unii": [
+          "779619577M",
+          "R9400W927I"
+        ]
+      }
+    }
+  ]
+}

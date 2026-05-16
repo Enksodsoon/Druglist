@@ -1,0 +1,14 @@
+{
+  "source_id": "3575",
+  "task_id": "T01164",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Sinufen&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3575/T01164_3575.json",
+  "sha256": "dec8e7a01fef0a6389a8621c764ecf32690bf161cc2be8b5441764953630a113",
+  "downloaded_at": "2026-05-16T03:36:17.672849+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:57:3575",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

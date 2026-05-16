@@ -1,0 +1,14 @@
+{
+  "source_id": "42814",
+  "task_id": "T04631",
+  "source_url": "https://www.medicines.org.uk/emc/search?q=Exforge+5+mg%2F160+mg",
+  "local_path": "imports/accepted_evidence/product/42814/T04631_42814.html",
+  "sha256": "3d35b2f50b8b07fed57d593c55f010e8ca6e481cdff0b16f338ab618c635195f",
+  "downloaded_at": "2026-05-16T03:44:57.498262+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:525:42814",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

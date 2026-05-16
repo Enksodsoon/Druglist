@@ -1,0 +1,14 @@
+{
+  "source_id": "46527",
+  "task_id": "T05590",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%9E%E0%B8%A5%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/46527/T05590_46527.json",
+  "sha256": "91dcb4ce880bd25401e1b8a9d24ece502dafb94f4874769724df96d6595f5c47",
+  "downloaded_at": "2026-05-16T03:47:18.748975+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:656:46527",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

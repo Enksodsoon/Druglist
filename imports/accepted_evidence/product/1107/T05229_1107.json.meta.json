@@ -1,0 +1,14 @@
+{
+  "source_id": "1107",
+  "task_id": "T05229",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Clopidogrel%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/1107/T05229_1107.json",
+  "sha256": "458b931d3b627df89560261c93fa20369d2ec9e6c9f441e69427c9440e3c9176",
+  "downloaded_at": "2026-05-16T03:46:25.173760+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:612:1107",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

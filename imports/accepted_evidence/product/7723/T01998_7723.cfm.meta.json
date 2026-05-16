@@ -1,0 +1,14 @@
+{
+  "source_id": "7723",
+  "task_id": "T01998",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Doxylcap",
+  "local_path": "imports/accepted_evidence/product/7723/T01998_7723.cfm",
+  "sha256": "6899f14b2fdc657b8119ce87fec36464b5ca03795e835a7807bf26730c34c47c",
+  "downloaded_at": "2026-05-16T03:38:20.429494+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:166:7723",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

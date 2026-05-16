@@ -1,0 +1,14 @@
+{
+  "source_id": "2013",
+  "task_id": "T03144",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=alginate+%2B+bicarbonate+%2BCalcium+carbonate+%2F",
+  "local_path": "imports/accepted_evidence/product/2013/T03144_2013.cfm",
+  "sha256": "0cf2850b2e7a07934fb6666148ce6dd15851302f64a94fc012925c398b6dcc4b",
+  "downloaded_at": "2026-05-16T03:41:11.648293+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:323:2013|Product_Label_Links:324:43606",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

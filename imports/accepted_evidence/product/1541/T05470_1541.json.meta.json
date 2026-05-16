@@ -1,0 +1,14 @@
+{
+  "source_id": "1541",
+  "task_id": "T05470",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Capsaicin%200%20025&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/1541/T05470_1541.json",
+  "sha256": "cd27dc45ed56fdf8091b9c2e881350beb73ff313e61e084ede0c6538be1a945b",
+  "downloaded_at": "2026-05-16T03:47:00.076587+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:642:1541",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

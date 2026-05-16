@@ -1,0 +1,14 @@
+{
+  "source_id": "7181",
+  "task_id": "T01675",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Leftose&name_type=brand&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/7181/T01675_7181.json",
+  "sha256": "a77e1a284cde7b09455f1577c03251a04b77908c07b6fb6f560d12015254a6a2",
+  "downloaded_at": "2026-05-16T03:37:31.940085+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:124:7181",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

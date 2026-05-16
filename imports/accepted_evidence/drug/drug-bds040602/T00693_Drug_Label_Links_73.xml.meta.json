@@ -1,0 +1,14 @@
+{
+  "source_id": "Drug_Label_Links_73",
+  "task_id": "T00693",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.xml?drug_name=fluconazole&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/drug/drug-bds040602/T00693_Drug_Label_Links_73.xml",
+  "sha256": "05e98197720f93c2cc744a51d04ea1bf216b4bb82c4ae52f254bac66091400f7",
+  "downloaded_at": "2026-05-16T03:35:15.780800+00:00",
+  "http_status": 200,
+  "content_type": "application/xml",
+  "method": "download_html",
+  "source_type": "Drug_Label_Links",
+  "linked_rows": "Drug_Label_Links:73:Drug_Label_Links_73",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

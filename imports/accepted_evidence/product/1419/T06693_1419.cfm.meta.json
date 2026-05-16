@@ -1,0 +1,14 @@
+{
+  "source_id": "1419",
+  "task_id": "T06693",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Clotrimazole",
+  "local_path": "imports/accepted_evidence/product/1419/T06693_1419.cfm",
+  "sha256": "923d1fbbb836072b8df18a4dff7dd559d3cb904415a03887204a1056a6efe183",
+  "downloaded_at": "2026-05-16T03:50:09.504920+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:789:1419|Product_Label_Links:790:1420|Product_Label_Links:791:7056|Product_Label_Links:792:7953",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

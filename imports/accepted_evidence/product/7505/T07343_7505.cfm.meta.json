@@ -1,0 +1,14 @@
+{
+  "source_id": "7505",
+  "task_id": "T07343",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Betamethasone+Valerate+%2BNeomycin+Sulphate+%2F",
+  "local_path": "imports/accepted_evidence/product/7505/T07343_7505.cfm",
+  "sha256": "1efa0f7af56f06143eec3f1d3aad2d31580b8e990222f04d615d5c457377c587",
+  "downloaded_at": "2026-05-16T03:51:47.822128+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:870:7505|Product_Label_Links:871:7506",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

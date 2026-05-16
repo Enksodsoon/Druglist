@@ -1,0 +1,14 @@
+{
+  "source_id": "3119",
+  "task_id": "T05570",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Menthol%201%205%20%2BPine%20Needle%20Oil%201%2035%20%2BWintergreen%20Oil%200%2035%20%2BOrange%20Oil%200%204%20%2BLemon%20Oil%200%201&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3119/T05570_3119.json",
+  "sha256": "b57b636cf357c8290c3bb5dff647eaf3e7650cb69b8672101679e8d212a63b54",
+  "downloaded_at": "2026-05-16T03:47:16.134338+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:654:3119",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "49670",
+  "task_id": "T04965",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Atorvastatin",
+  "local_path": "imports/accepted_evidence/product/49670/T04965_49670.cfm",
+  "sha256": "1f8a1ae7f7ab594be21d14b9bb86e154de59068197d25d15f8af4e5b739fc3bd",
+  "downloaded_at": "2026-05-16T03:45:46.731931+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:575:49670|Product_Label_Links:576:49671",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

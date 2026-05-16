@@ -1,0 +1,14 @@
+{
+  "source_id": "6198",
+  "task_id": "T05860",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Clobetasol%20Propionate%20/&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/6198/T05860_6198.json",
+  "sha256": "3d9b4fe899c2478acc43e47630b7d4299ed0a7f20ccd505e9da7313c08271735",
+  "downloaded_at": "2026-05-16T03:47:59.237158+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:688:6198|Product_Label_Links:689:7514|Product_Label_Links:690:7515",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

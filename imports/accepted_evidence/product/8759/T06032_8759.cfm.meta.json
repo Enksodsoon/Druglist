@@ -1,0 +1,14 @@
+{
+  "source_id": "8759",
+  "task_id": "T06032",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Tacinol+0.1+%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+  "local_path": "imports/accepted_evidence/product/8759/T06032_8759.cfm",
+  "sha256": "32c23aee6365a2dbeb02c8b8ff5849547d7e64ecfbc2b6748752c793be0272e1",
+  "downloaded_at": "2026-05-16T03:48:25.969025+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:711:8759",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

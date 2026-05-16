@@ -1,0 +1,14 @@
+{
+  "source_id": "3505",
+  "task_id": "T01401",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Ispaghula%20Husk&name_type=both&pagesize=100",
+  "local_path": "imports/accepted_evidence/product/3505/T01401_3505.json",
+  "sha256": "d6bf8311226f3a362151dcd81c2b83584e6dfa23a991f87d54bd97a03eb316ce",
+  "downloaded_at": "2026-05-16T03:36:50.730398+00:00",
+  "http_status": 200,
+  "content_type": "application/json",
+  "method": "download_html",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:93:3505",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

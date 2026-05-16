@@ -1,0 +1,14 @@
+{
+  "source_id": "7196",
+  "task_id": "T04294",
+  "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=Mucoxine-F",
+  "local_path": "imports/accepted_evidence/product/7196/T04294_7196.cfm",
+  "sha256": "103e719fba38a8d99add3cfd26503b9e021f52f30d96eb78f149f3fd73adc307",
+  "downloaded_at": "2026-05-16T03:44:07.532698+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:478:7196",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}

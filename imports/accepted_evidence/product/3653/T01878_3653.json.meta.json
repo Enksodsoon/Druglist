@@ -1,0 +1,14 @@
+{
+  "source_id": "3653",
+  "task_id": "T01878",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22Itraconazole%22&limit=10",
+  "local_path": "imports/accepted_evidence/product/3653/T01878_3653.json",
+  "sha256": "ba76c9bb6067515b5ecaedf4c7c218a82cbefe2497385bf18b0e28d450252825",
+  "downloaded_at": "2026-05-16T03:38:03.816681+00:00",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "method": "download_html_or_manual",
+  "source_type": "Product_Label_Links",
+  "linked_rows": "Product_Label_Links:149:3653",
+  "notes": "Auto-downloaded. Review content before using for Gold verification."
+}
