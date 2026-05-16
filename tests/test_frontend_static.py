@@ -1,4 +1,6 @@
 from pathlib import Path
+import json
+import re
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -159,3 +161,12 @@ def test_dist_deploy_entry_is_non_empty_when_present():
     dist_index = ROOT / "dist" / "index.html"
     if dist_index.exists():
         assert dist_index.stat().st_size > 100_000
+
+
+def test_embedded_seed_matches_runtime_json_for_file_preview():
+    source = html()
+    match = re.search(r'<script id="seed" type="application/json">(.*?)</script>', source, re.S)
+    assert match
+    embedded = json.loads(match.group(1))
+    runtime = json.loads((ROOT / "data/core/app_seed_runtime.json").read_text(encoding="utf-8"))
+    assert embedded == runtime
