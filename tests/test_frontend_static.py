@@ -100,6 +100,10 @@ def test_frontend_has_device_responsive_guardrails():
         "height:min(92vh,760px)",
         "font-size:16px",
         ".layout-main.main-shell",
+        "Compact workstation scaling",
+        "transform:scale(.5)",
+        ".layout-peds{grid-template-columns:minmax(0,1.12fr) 286px 286px!important",
+        ".rule-studio{grid-template-columns:minmax(0,1fr) 328px!important",
     ]:
         assert token in source
 
