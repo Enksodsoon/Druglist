@@ -100,6 +100,9 @@ def test_frontend_has_device_responsive_guardrails():
         "height:min(92vh,760px)",
         "font-size:16px",
         ".layout-main.main-shell",
+        "Compact desktop mode for clinical workstation widths",
+        "grid-template-columns:106px minmax(0,1fr)",
+        ".dashboard-insight-grid{display:grid;grid-template-columns:minmax(0,1.5fr) 112px 104px!important",
     ]:
         assert token in source
 
@@ -126,8 +129,18 @@ def test_retain_design_behavior_fixes_are_present():
         "retainDesignQuickCurrentDrugs",
         "retainDesignDashboardReport",
         "retainDesignSmartAddsOriginal",
+        "retainDesignRenderDashboardOriginal",
+        "querySelector('.dashboard-rail')",
+        "rail.remove()",
     ]:
         assert token in source
+
+
+def test_topbar_global_search_removed_but_dashboard_search_remains():
+    source = html()
+    assert 'id="globalSearch"' not in source
+    assert "dashboardCommandSearch" in source
+    assert "$('globalSearch')" in source  # optional legacy sync path stays null-safe
 
 
 def test_pediatric_mirror_controls_are_wired_bidirectionally():
