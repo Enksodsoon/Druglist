@@ -1,7 +1,7 @@
 {
   "meta": {
     "generated_at": "2026-05-02T06:45:17Z",
-    "regimen_count": 133
+    "regimen_count": 190
   },
   "items": [
     {
@@ -1247,6 +1247,539 @@
     {
       "regimen_id": "FRM0133",
       "disease_key": "dental_abscess_support_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAN_ADULT_MIGRAINE_PREVENTION_20260516",
+      "disease_key": "migraine_adult_prevention_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAN_DPN_20260516",
+      "disease_key": "painful_diabetic_polyneuropathy_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAN_MIGRAINE_ADULT_ACUTE_20260516",
+      "disease_key": "migraine_adult",
+      "regimen_safety_status": "warning",
+      "duplicate_roles": [
+        "nsaid"
+      ],
+      "blocked_reasons": [],
+      "warnings": [
+        "duplicate therapeutic roles: nsaid"
+      ],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAN_MIGRAINE_PEDS_ACUTE_20260516",
+      "disease_key": "migraine_peds_acute",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAN_MUSCLE_CRAMPS_20260516",
+      "disease_key": "muscle_cramps_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AAN_PEDS_MIGRAINE_PREVENTION_20260516",
+      "disease_key": "migraine_peds_prevention_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ACG_GERD_20260516",
+      "disease_key": "gerd_uncomplicated_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ACG_GERD_NOCTURNAL_20260516",
+      "disease_key": "gerd_nocturnal_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ACG_GERD_REFRACTORY_20260516",
+      "disease_key": "gerd_alarm_or_refractory",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ACG_HP_CONFIRMED_20260516",
+      "disease_key": "h_pylori_confirmed_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_ACG_HP_TEST_TREAT_20260516",
+      "disease_key": "h_pylori_test_and_treat_dyspepsia",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AR_ADULT_20260516",
+      "disease_key": "allergic_rhinitis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AR_CONG_20260516",
+      "disease_key": "allergic_rhinitis_congestion_adult",
+      "regimen_safety_status": "warning",
+      "duplicate_roles": [
+        "antihistamine"
+      ],
+      "blocked_reasons": [],
+      "warnings": [
+        "duplicate therapeutic roles: antihistamine"
+      ],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_AR_PEDS_20260516",
+      "disease_key": "allergic_rhinitis_peds",
+      "regimen_safety_status": "warning",
+      "duplicate_roles": [
+        "antihistamine"
+      ],
+      "blocked_reasons": [],
+      "warnings": [
+        "duplicate therapeutic roles: antihistamine"
+      ],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_EPI_ADULT_20260516",
+      "disease_key": "epistaxis_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_EPI_PEDS_20260516",
+      "disease_key": "epistaxis_peds",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ACUTE_COUGH_20260516",
+      "disease_key": "acute_cough_no_abx",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_AOM_20260516",
+      "disease_key": "acute_otitis_media",
+      "regimen_safety_status": "warning",
+      "duplicate_roles": [
+        "antibiotic"
+      ],
+      "blocked_reasons": [],
+      "warnings": [
+        "duplicate therapeutic roles: antibiotic"
+      ],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ARI_OVER16_20260516",
+      "disease_key": "suspected_acute_respiratory_infection_over16",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ASTHMA_CHILD_5_11_20260516",
+      "disease_key": "asthma_child_5_11_chronic_management",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ASTHMA_OVER12_20260516",
+      "disease_key": "asthma_over12_chronic_management",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ATOPIC_MILD_CHILD_20260516",
+      "disease_key": "atopic_eczema_child_mild",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ATOPIC_MOD_CHILD_20260516",
+      "disease_key": "atopic_eczema_child_moderate_flare",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_B12_20260516",
+      "disease_key": "vitamin_b12_deficiency_over16_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_COPD_SUSPECT_20260516",
+      "disease_key": "copd_suspected_over16_diagnosis",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_DYSPEPSIA_20260516",
+      "disease_key": "dyspepsia_uninvestigated_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ECZEMA_HERPETICUM_CHILD_20260516",
+      "disease_key": "eczema_herpeticum_child",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_FH_ADULT_TX_20260516",
+      "disease_key": "familial_hypercholesterolaemia_adult_treatment",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_GORD_ADULT_20260516",
+      "disease_key": "gord_adult_empiric",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_GOUT_ACUTE_20260516",
+      "disease_key": "acute_gout_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_GOUT_ULT_20260516",
+      "disease_key": "gout_urate_lowering_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_HYPO_THYROID_20260516",
+      "disease_key": "hypothyroidism_adult_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_IMPETIGO_LOCAL_20260516",
+      "disease_key": "impetigo_localised_nonbullous",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_IMPETIGO_WIDE_20260516",
+      "disease_key": "impetigo_widespread_nonbullous",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_INFECTED_ECZEMA_20260516",
+      "disease_key": "secondary_infected_eczema",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_INSECT_INFECTED_20260516",
+      "disease_key": "infected_insect_bite_cellulitis_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_INSECT_LOCAL_20260516",
+      "disease_key": "insect_bite_sting_local_reaction",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_LBP_20260516",
+      "disease_key": "low_back_pain_over16",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_MENOPAUSE_GSM_20260516",
+      "disease_key": "genitourinary_syndrome_menopause_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_MENOPAUSE_VMS_20260516",
+      "disease_key": "menopause_vasomotor_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_MIGRAINE_ACUTE_20260516",
+      "disease_key": "migraine_over12_acute",
+      "regimen_safety_status": "warning",
+      "duplicate_roles": [
+        "nsaid"
+      ],
+      "blocked_reasons": [],
+      "warnings": [
+        "duplicate therapeutic roles: nsaid"
+      ],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_MIGRAINE_PREVENT_20260516",
+      "disease_key": "migraine_over12_prevention_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_OA_20260516",
+      "disease_key": "osteoarthritis_over16",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_OBESITY_ADULT_REVIEW_20260516",
+      "disease_key": "obesity_adult_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_OBESITY_CHILD_REVIEW_20260516",
+      "disease_key": "obesity_child_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_ORLISTAT_20260516",
+      "disease_key": "obesity_orlistat_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_OSAHS_RHINITIS_20260516",
+      "disease_key": "osahs_rhinitis_management",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_POI_20260516",
+      "disease_key": "premature_ovarian_insufficiency_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_PSORIASIS_MILD_20260516",
+      "disease_key": "psoriasis_mild_topical_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_PUD_NSAID_20260516",
+      "disease_key": "peptic_ulcer_nsaid_gate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_RA_SYMPTOM_20260516",
+      "disease_key": "ra_symptom_control_review",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_RENAL_STONE_ACUTE_20260516",
+      "disease_key": "renal_ureteric_stone_acute_adult",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_SCIATICA_20260516",
+      "disease_key": "sciatica_over16",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_SINUSITIS_NOABX_20260516",
+      "disease_key": "acute_sinusitis_no_abx",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_SORE_THROAT_NOABX_20260516",
+      "disease_key": "acute_sore_throat_no_abx",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_T2DM_METFORMIN_20260516",
+      "disease_key": "type2_diabetes_metformin_candidate",
+      "regimen_safety_status": "manual_review_required",
+      "duplicate_roles": [],
+      "blocked_reasons": [],
+      "warnings": [],
+      "suggested_removal": []
+    },
+    {
+      "regimen_id": "PATCH_FRM_NICE_THYROTOX_20260516",
+      "disease_key": "thyrotoxicosis_adult_review",
       "regimen_safety_status": "manual_review_required",
       "duplicate_roles": [],
       "blocked_reasons": [],

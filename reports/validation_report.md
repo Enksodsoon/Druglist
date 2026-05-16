@@ -13,6 +13,7 @@ None
 ## Warnings
 
 - source_coverage_zero_pending_manual_source_extraction
+- legacy_regimen_product_links_missing_product:12
 
 ## Counts
 
@@ -21,6 +22,6 @@ None
 - verified_sources: 0
 - source_coverage: 0.0
 - pediatric_outputs: 93
-- regimens: 133
+- regimens: 190
 - evidence_claims: 0
 - evidence_auto_verified: 0

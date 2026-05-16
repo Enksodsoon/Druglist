@@ -2,10 +2,10 @@
 
 Generated: 2026-05-02T06:45:17Z
 
-- Issues: 253
-- Blockers: 9
-- High: 208
-- Medium: 36
+- Issues: 315
+- Blockers: 10
+- High: 223
+- Medium: 82
 - Low: 0
 
 No dose, duration, indication, or source was fabricated by this audit.

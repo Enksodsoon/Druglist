@@ -35,8 +35,12 @@ def test_frontend_seed_exposes_review_workflow_counts():
     queue = load("data/meta/manual_review_queue.json")["items"]
     gaps = load("data/guidelines/source_gap_list.json")["items"]
     peds = load("data/pediatric/peds_product_dose_output.json")["items"]
+    patch_manual = load("data/meta/guideline_patch_manual_review_queue.json")["items"]
+    patch_peds = load("data/pediatric/imported_guideline_peds_shortcuts.json")["items"]
     assert seed_meta["manual_review_product_count"] == len(queue)
     assert seed_meta["source_gap_count"] == len(gaps)
     assert seed_meta["pediatric_review_count"] == len(peds)
-    assert seed_meta["manual_review_count"] == len(queue) + len(gaps) + len(peds)
+    assert seed_meta["guideline_patch_manual_review_count"] == len(patch_manual)
+    assert seed_meta["guideline_patch_pediatric_shortcut_count"] == len(patch_peds)
+    assert seed_meta["manual_review_count"] == len(queue) + len(gaps) + len(peds) + len(patch_manual) + len(patch_peds)
     assert seed_meta["manual_review_reason_counts"]

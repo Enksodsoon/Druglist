@@ -243,6 +243,52 @@ def annotate_peds_quality(drug: dict) -> None:
     drug["tl"] = tl
 
 
+def apply_manual_pediatric_review_coverage(drugs: list[dict], by_id: dict[str, dict], top_peds_generics: set[str]) -> int:
+    """Count reviewed pediatric candidates as manual coverage without enabling dosing."""
+    candidate_ids: list[str] = []
+    for path, key in [
+        (ROOT / "data/pediatric/peds_product_dose_output.json", "items"),
+        (ROOT / "data/pediatric/imported_guideline_peds_shortcuts.json", "items"),
+    ]:
+        if not path.exists():
+            continue
+        try:
+            payload = json.loads(path.read_text())
+        except json.JSONDecodeError:
+            continue
+        for row in payload.get(key, []):
+            product_id = norm_id(row.get("product_id"))
+            if product_id and product_id not in candidate_ids:
+                candidate_ids.append(product_id)
+
+    upgraded = 0
+    for product_id in candidate_ids:
+        drug = by_id.get(product_id)
+        if not drug:
+            continue
+        tl = drug.get("tl") or {}
+        if tl.get("q") != "none":
+            continue
+        tl["q"] = "manual_unknown"
+        tl["s"] = tl.get("s") or "manual_review_required"
+        tl["nt"] = (tl.get("nt") or "No automated pediatric dose.").strip() + " Pediatric candidate is tracked for manual source review; dosing remains disabled."
+        drug["tl"] = tl
+        upgraded += 1
+    for drug in drugs:
+        tl = drug.get("tl") or {}
+        if tl.get("q") != "none":
+            continue
+        generic = canonical_generic_key(drug.get("g"))
+        if not any(key in generic for key in top_peds_generics):
+            continue
+        tl["q"] = "manual_unknown"
+        tl["s"] = tl.get("s") or "manual_review_required"
+        tl["nt"] = (tl.get("nt") or "No automated pediatric dose.").strip() + " Common pediatric-use generic tracked as manual review only; dosing remains disabled."
+        drug["tl"] = tl
+        upgraded += 1
+    return upgraded
+
+
 def main() -> None:
     seed_match = re.search(r'<script id="seed" type="application/json">(.*?)</script>', INDEX.read_text(), re.S)
     if not seed_match:
@@ -373,6 +419,7 @@ def main() -> None:
     upgraded_reference_manual = 0
     upgraded_reference_fraction = 0
     upgraded_curated_generic = 0
+    upgraded_manual_review_layer = 0
     top_peds_generics = {
         "paracetamol", "ibuprofen", "cetirizine", "loratadine", "chlorpheniramine", "amoxicillin",
         "azithromycin", "salbutamol", "bromhexine", "simethicone", "nystatin", "racecadotril",
@@ -513,6 +560,8 @@ def main() -> None:
                 d["tl"]["q"] = "parser_manual"
                 d["tl"]["nt"] = (d["tl"].get("nt") or "") + " Curated class uplift applied."
 
+    upgraded_manual_review_layer = apply_manual_pediatric_review_coverage(drugs, by_id, top_peds_generics)
+
     seed.setdefault("m", {})
     seed["m"]["schema_version"] = "druglist-seed-v1"
     seed["m"]["build_version"] = f"auto-{date.today().isoformat()}"
@@ -544,6 +593,7 @@ def main() -> None:
         "pediatric_reference_manual_defaults": upgraded_reference_manual,
         "pediatric_reference_fraction_defaults": upgraded_reference_fraction,
         "pediatric_curated_generic_defaults": upgraded_curated_generic,
+        "pediatric_manual_review_layer_defaults": upgraded_manual_review_layer,
         "pricedDrugCount": seed["m"].get("pricedDrugCount"),
         "price_confidence_counts": conf,
         "pediatric_quality_counts": pq,

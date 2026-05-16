@@ -10,7 +10,7 @@ Pass: True
 | 1 | allergic rhinitis | allergic_rhinitis_adult | 4 | 0 | manual_review_required, usable_with_warning | True |
 | 2 | uri with wet cough | uri_wet_cough_adult | 4 | 0 | usable_with_warning | True |
 | 3 | cough sore throat sputum nasal discharge | uri_wet_cough_adult | 4 | 0 | usable_with_warning | True |
-| 4 | sore throat no fever | sore_throat_adult | 3 | 0 | manual_review_required, usable_with_warning | True |
+| 4 | sore throat no fever | acute_sore_throat_no_abx | 3 | 1 | manual_review_required | True |
 | 5 | fever myalgia | viral_fever_bodyache_adult | 2 | 0 | usable_with_warning | True |
 | 6 | diarrhea adult | uri_diarrhea_adult | 7 | 0 | manual_review_required, usable_with_warning | True |
 | 7 | diarrhea 5 yr BW 20 kg | acute_watery_diarrhea_peds | 1 | 0 | manual_review_required | True |
@@ -23,7 +23,7 @@ Pass: True
 | 14 | herpes labialis | herpes_labialis_adult | 1 | 0 | manual_review_required | True |
 | 15 | lip dermatitis | itchy_dermatitis_adult | 3 | 0 | manual_review_required, usable_with_warning | True |
 | 16 | dyspepsia | dyspepsia_gas_adult | 3 | 0 | usable_with_warning | True |
-| 17 | GERD | gerd | 0 | 0 | n/a | True |
+| 17 | GERD | gerd_alarm_or_refractory | 4 | 0 | manual_review_required | True |
 | 18 | constipation with hemorrhoid | constipation | 0 | 0 | n/a | True |
 | 19 | dysuria | dysuria_lower_uti_adult | 1 | 1 | manual_review_required | True |
 | 20 | urinary frequency pelvic pain | urinary_red_flag | 0 | 0 | n/a | True |

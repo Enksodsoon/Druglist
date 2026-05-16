@@ -11,7 +11,8 @@ def load(path):
 def test_regimen_safety_rules_generated():
     payload = load("data/safety/regimen_safety_rules.json")
     assert payload["items"]
-    assert payload["meta"]["regimen_count"] == 133
+    runtime_regimens = load("data/core/fast_regimen_master.json")["regimens"]
+    assert payload["meta"]["regimen_count"] == len(runtime_regimens)
 
 
 def test_duplicate_or_blocked_regimen_safety_findings_exist():

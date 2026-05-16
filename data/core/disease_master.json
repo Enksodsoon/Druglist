@@ -7,7 +7,8 @@
     "manual_review": true,
     "safety_rule_count": 9,
     "antibiotic_rule_count": 2,
-    "pediatric_output_count": 93
+    "pediatric_output_count": 93,
+    "guideline_patch_disease_count": 57
   },
   "diseases": [
     {
@@ -111,6 +112,21 @@
       "manual_review": true
     },
     {
+      "disease_id": "acute_cough_no_abx",
+      "display_name": "Acute cough / acute bronchitis no antibiotic",
+      "aliases": [
+        "Acute cough / acute bronchitis no antibiotic",
+        "acute bronchitis",
+        "acute cough"
+      ],
+      "category": "Respiratory",
+      "icd10_primary": "J20.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "acute_gastroenteritis_peds_mild",
       "display_name": "acute_gastroenteritis_peds_mild",
       "aliases": [
@@ -136,6 +152,36 @@
       "manual_review": true
     },
     {
+      "disease_id": "acute_gout_adult",
+      "display_name": "Acute gout flare",
+      "aliases": [
+        "Acute gout flare",
+        "acute gout",
+        "gout flare"
+      ],
+      "category": "Rheum/MSK",
+      "icd10_primary": "M10.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "acute_otitis_media",
+      "display_name": "Acute otitis media",
+      "aliases": [
+        "Acute otitis media",
+        "acute otitis media",
+        "ear pain fever"
+      ],
+      "category": "ENT/ID",
+      "icd10_primary": "H66.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "acute_pharyngitis_viral_adult",
       "display_name": "acute_pharyngitis_viral_adult",
       "aliases": [
@@ -159,6 +205,34 @@
       "source_ids": [],
       "source_status": "legacy_unverified",
       "manual_review": true
+    },
+    {
+      "disease_id": "acute_sinusitis_no_abx",
+      "display_name": "Acute sinusitis no antibiotic",
+      "aliases": [
+        "Acute sinusitis no antibiotic",
+        "acute sinusitis"
+      ],
+      "category": "ENT/ID",
+      "icd10_primary": "J01.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "acute_sore_throat_no_abx",
+      "display_name": "Acute sore throat no antibiotic",
+      "aliases": [
+        "Acute sore throat no antibiotic",
+        "sore throat"
+      ],
+      "category": "ENT/ID",
+      "icd10_primary": "J02.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "acute_watery_diarrhea_adult",
@@ -306,82 +380,61 @@
     },
     {
       "disease_id": "allergic_rhinitis_adult",
-      "display_name": "allergic_rhinitis_adult",
+      "display_name": "Allergic rhinitis",
       "aliases": [
+        "Allergic rhinitis",
         "allergic rhinitis",
-        "blocked nose",
-        "itchy nose",
-        "nasal congestion",
-        "runny nose",
-        "runny nose allergy",
-        "sneezing"
+        "hay fever",
+        "sneezing itchy nose",
+        "ภูมิแพ้จมูก"
       ],
       "category": "ENT",
-      "runtime_priority": [
-        "OPD_Fast_Index",
-        "Top_50_Defaults",
-        "Clinic_Defaults",
-        "Complaint_Index",
-        "Fast_Regimen_Master",
-        "Drug_Short_Lookup",
-        "Generic_Cluster_Map",
-        "Pediatric_Layer",
-        "Antibiotic_Stewardship",
-        "Validation_Rules"
+      "icd10_primary": "J30.9",
+      "source_ids": [
+        "SRC_AR_PHARMACOTHERAPY_SUMMARY_TABLES_TABLE_19_ANTIHISTAMINES_TABLE_20_32_INTRANASAL",
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022"
       ],
-      "source_ids": [],
-      "source_status": "legacy_unverified",
-      "manual_review": true
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "allergic_rhinitis_congestion_adult",
-      "display_name": "allergic_rhinitis_congestion_adult",
+      "display_name": "Allergic rhinitis with prominent congestion",
       "aliases": [
+        "Allergic rhinitis with prominent congestion",
         "allergic rhinitis with congestion",
-        "allergy nose blocked",
-        "blocked nose allergy"
+        "blocked nose allergy",
+        "rhinitis with blocked nose"
       ],
       "category": "ENT",
-      "runtime_priority": [
-        "OPD_Fast_Index",
-        "Top_50_Defaults",
-        "Clinic_Defaults",
-        "Complaint_Index",
-        "Fast_Regimen_Master",
-        "Drug_Short_Lookup",
-        "Generic_Cluster_Map",
-        "Pediatric_Layer",
-        "Antibiotic_Stewardship",
-        "Validation_Rules"
+      "icd10_primary": "J30.9",
+      "source_ids": [
+        "SRC_AR_PHARMACOTHERAPY_SUMMARY_TABLES_TABLE_19_ANTIHISTAMINES_TABLE_20_32_INTRANASAL",
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022"
       ],
-      "source_ids": [],
-      "source_status": "legacy_unverified",
-      "manual_review": true
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "allergic_rhinitis_peds",
-      "display_name": "allergic_rhinitis_peds",
+      "display_name": "Pediatric allergic rhinitis",
       "aliases": [
+        "Pediatric allergic rhinitis",
         "allergic rhinitis child",
         "child allergic rhinitis",
-        "runny nose allergy child"
+        "ภูมิแพ้จมูก เด็ก"
       ],
       "category": "ENT",
-      "runtime_priority": [
-        "OPD_Fast_Index",
-        "Top_50_Defaults",
-        "Clinic_Defaults",
-        "Complaint_Index",
-        "Fast_Regimen_Master",
-        "Drug_Short_Lookup",
-        "Generic_Cluster_Map",
-        "Pediatric_Layer",
-        "Antibiotic_Stewardship",
-        "Validation_Rules"
+      "icd10_primary": "J30.9",
+      "source_ids": [
+        "SRC_AR_PHARMACOTHERAPY_SUMMARY_TABLES_TABLE_19_ANTIHISTAMINES_TABLE_20_32_INTRANASAL",
+        "SRC_PASTED_TEXT_TXT_THAI_ALLERGIC_RHINITIS_CPG_UPDATE_2565_2022"
       ],
-      "source_ids": [],
-      "source_status": "legacy_unverified",
-      "manual_review": true
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "animal_bite",
@@ -453,6 +506,63 @@
       "source_ids": [],
       "source_status": "legacy_unverified",
       "manual_review": true
+    },
+    {
+      "disease_id": "asthma_child_5_11_chronic_management",
+      "display_name": "Asthma chronic management child 5–11",
+      "aliases": [
+        "Asthma chronic management child 5–11",
+        "child asthma"
+      ],
+      "category": "Respiratory",
+      "icd10_primary": "J45.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "asthma_over12_chronic_management",
+      "display_name": "Asthma chronic management age ≥12",
+      "aliases": [
+        "Asthma chronic management age ≥12",
+        "asthma/asthma med review"
+      ],
+      "category": "Respiratory",
+      "icd10_primary": "J45.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "atopic_eczema_child_mild",
+      "display_name": "Atopic eczema in child: mild flare",
+      "aliases": [
+        "Atopic eczema in child: mild flare",
+        "atopic eczema child",
+        "eczema child"
+      ],
+      "category": "Dermatology",
+      "icd10_primary": "L20.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "atopic_eczema_child_moderate_flare",
+      "display_name": "Atopic eczema in child: moderate flare",
+      "aliases": [
+        "Atopic eczema in child: moderate flare",
+        "eczema flare child"
+      ],
+      "category": "Dermatology",
+      "icd10_primary": "L20.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "bacterial_conjunctivitis",
@@ -926,6 +1036,21 @@
       "manual_review": true
     },
     {
+      "disease_id": "copd_suspected_over16_diagnosis",
+      "display_name": "Suspected COPD over 16",
+      "aliases": [
+        "Suspected COPD over 16",
+        "copd",
+        "suspected copd"
+      ],
+      "category": "Respiratory",
+      "icd10_primary": "J44.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "corn_callus_topical_adult",
       "display_name": "corn_callus_topical_adult",
       "aliases": [
@@ -1335,6 +1460,21 @@
       "manual_review": true
     },
     {
+      "disease_id": "dyspepsia_uninvestigated_adult",
+      "display_name": "Uninvestigated dyspepsia in adults",
+      "aliases": [
+        "Uninvestigated dyspepsia in adults",
+        "dyspepsia",
+        "epigastric pain bloating nausea"
+      ],
+      "category": "GI",
+      "icd10_primary": "K30",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "dysuria",
       "display_name": "dysuria",
       "aliases": [
@@ -1406,6 +1546,58 @@
       "source_ids": [],
       "source_status": "legacy_unverified",
       "manual_review": true
+    },
+    {
+      "disease_id": "eczema_herpeticum_child",
+      "display_name": "Eczema herpeticum",
+      "aliases": [
+        "Eczema herpeticum",
+        "eczema herpeticum",
+        "punched out eczema"
+      ],
+      "category": "Dermatology/Infection",
+      "icd10_primary": "B00.0",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "epistaxis_adult",
+      "display_name": "Anterior epistaxis / nosebleed",
+      "aliases": [
+        "Anterior epistaxis / nosebleed",
+        "epistaxis",
+        "nosebleed",
+        "เลือดกำเดาไหล"
+      ],
+      "category": "ENT",
+      "icd10_primary": "R04.0",
+      "source_ids": [
+        "SRC_EPISTAXIS_TOPICAL_DECONGESTANT_FOR_PREPARATION_PACKING_MATERIALS_ATB_AFTER_PACKI",
+        "SRC_PASTED_TEXT_2_TXT_THAI_EPISTAXIS_PRACTICE_GUIDELINE_2567_2024"
+      ],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "epistaxis_peds",
+      "display_name": "Pediatric anterior epistaxis / nosebleed",
+      "aliases": [
+        "Pediatric anterior epistaxis / nosebleed",
+        "nosebleed child",
+        "เลือดกำเดาไหล เด็ก"
+      ],
+      "category": "ENT",
+      "icd10_primary": "R04.0",
+      "source_ids": [
+        "SRC_EPISTAXIS_TOPICAL_DECONGESTANT_FOR_PREPARATION_PACKING_MATERIALS_ATB_AFTER_PACKI",
+        "SRC_PASTED_TEXT_2_TXT_THAI_EPISTAXIS_PRACTICE_GUIDELINE_2567_2024"
+      ],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "eye_irritation_adult",
@@ -1529,6 +1721,20 @@
       "source_ids": [],
       "source_status": "missing_verified_source",
       "manual_review": true
+    },
+    {
+      "disease_id": "familial_hypercholesterolaemia_adult_treatment",
+      "display_name": "Familial hypercholesterolaemia adult lipid lowering",
+      "aliases": [
+        "Familial hypercholesterolaemia adult lipid lowering",
+        "fh treatment"
+      ],
+      "category": "CV/Metabolic",
+      "icd10_primary": "E78.0",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "fever_myalgia",
@@ -1704,6 +1910,23 @@
       "manual_review": true
     },
     {
+      "disease_id": "genitourinary_syndrome_menopause_adult",
+      "display_name": "Genitourinary syndrome of menopause",
+      "aliases": [
+        "Genitourinary syndrome of menopause",
+        "painful sex menopause",
+        "urinary discomfort menopause",
+        "vaginal dryness menopause",
+        "vaginal irritation after menopause"
+      ],
+      "category": "Gyn/Urology",
+      "icd10_primary": "N95.2",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "gerd",
       "display_name": "GERD",
       "aliases": [
@@ -1725,6 +1948,55 @@
       "source_ids": [],
       "source_status": "missing_verified_source",
       "manual_review": true
+    },
+    {
+      "disease_id": "gerd_alarm_or_refractory",
+      "display_name": "GERD with alarm features or refractory symptoms",
+      "aliases": [
+        "GERD with alarm features or refractory symptoms",
+        "gerd dysphagia",
+        "heartburn weight loss",
+        "reflux not better with ppi"
+      ],
+      "category": "GI",
+      "icd10_primary": "K21.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "gerd_nocturnal_adult",
+      "display_name": "Nocturnal GERD / nighttime reflux",
+      "aliases": [
+        "Nocturnal GERD / nighttime reflux",
+        "heartburn at night",
+        "nocturnal reflux"
+      ],
+      "category": "GI",
+      "icd10_primary": "K21.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "gerd_uncomplicated_adult",
+      "display_name": "Gastroesophageal reflux disease, uncomplicated",
+      "aliases": [
+        "Gastroesophageal reflux disease, uncomplicated",
+        "acid regurgitation",
+        "gerd",
+        "heartburn",
+        "reflux",
+        "sour burp"
+      ],
+      "category": "GI",
+      "icd10_primary": "K21.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "gingivitis_localized_adult",
@@ -1752,6 +2024,36 @@
       "manual_review": true
     },
     {
+      "disease_id": "gord_adult_empiric",
+      "display_name": "Gastro-oesophageal reflux disease in adults",
+      "aliases": [
+        "Gastro-oesophageal reflux disease in adults",
+        "gerd",
+        "gord",
+        "heartburn acid regurgitation"
+      ],
+      "category": "GI",
+      "icd10_primary": "K21.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "gout_urate_lowering_review",
+      "display_name": "Gout urate-lowering therapy review",
+      "aliases": [
+        "Gout urate-lowering therapy review",
+        "allopurinol"
+      ],
+      "category": "Rheum/MSK",
+      "icd10_primary": "M10.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "gum_inflammation_support_adult",
       "display_name": "gum_inflammation_support_adult",
       "aliases": [
@@ -1775,6 +2077,42 @@
       "source_ids": [],
       "source_status": "legacy_unverified",
       "manual_review": true
+    },
+    {
+      "disease_id": "h_pylori_confirmed_adult",
+      "display_name": "Confirmed active Helicobacter pylori infection",
+      "aliases": [
+        "Confirmed active Helicobacter pylori infection",
+        "h pylori",
+        "h pylori failed treatment",
+        "h pylori positive",
+        "h pylori test of cure",
+        "helicobacter pylori",
+        "positive stool antigen h pylori",
+        "positive urea breath test"
+      ],
+      "category": "GI",
+      "icd10_primary": "B96.81",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "h_pylori_test_and_treat_dyspepsia",
+      "display_name": "Uninvestigated dyspepsia: H. pylori test-and-treat pathway",
+      "aliases": [
+        "Uninvestigated dyspepsia: H. pylori test-and-treat pathway",
+        "dyspepsia age under 60",
+        "dyspepsia test h pylori",
+        "epigastric pain h pylori test"
+      ],
+      "category": "GI",
+      "icd10_primary": "K30",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "herpes_labialis",
@@ -1850,6 +2188,35 @@
       "manual_review": true
     },
     {
+      "disease_id": "hypothyroidism_adult_review",
+      "display_name": "Hypothyroidism adult review",
+      "aliases": [
+        "Hypothyroidism adult review",
+        "hypothyroid"
+      ],
+      "category": "Endocrine",
+      "icd10_primary": "E03.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "impetigo_localised_nonbullous",
+      "display_name": "Localised non-bullous impetigo",
+      "aliases": [
+        "Localised non-bullous impetigo",
+        "golden crust rash",
+        "impetigo"
+      ],
+      "category": "Derm/ID",
+      "icd10_primary": "L01.0",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "impetigo_localized_adult",
       "display_name": "impetigo_localized_adult",
       "aliases": [
@@ -1898,6 +2265,20 @@
       "source_ids": [],
       "source_status": "legacy_unverified",
       "manual_review": true
+    },
+    {
+      "disease_id": "impetigo_widespread_nonbullous",
+      "display_name": "Widespread non-bullous impetigo",
+      "aliases": [
+        "Widespread non-bullous impetigo",
+        "widespread impetigo"
+      ],
+      "category": "Derm/ID",
+      "icd10_primary": "L01.0",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "indigestion_postmeal_adult",
@@ -1998,6 +2379,20 @@
       "source_ids": [],
       "source_status": "legacy_unverified",
       "manual_review": true
+    },
+    {
+      "disease_id": "infected_insect_bite_cellulitis_gate",
+      "display_name": "Infected insect bite/sting / cellulitis gate",
+      "aliases": [
+        "Infected insect bite/sting / cellulitis gate",
+        "infected insect bite"
+      ],
+      "category": "Derm/ID",
+      "icd10_primary": "L03.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "infected_insect_bite_peds",
@@ -2123,6 +2518,21 @@
       "source_ids": [],
       "source_status": "legacy_unverified",
       "manual_review": true
+    },
+    {
+      "disease_id": "insect_bite_sting_local_reaction",
+      "display_name": "Insect bite/sting local inflammatory or allergic reaction",
+      "aliases": [
+        "Insect bite/sting local inflammatory or allergic reaction",
+        "insect bite",
+        "mosquito bite itchy"
+      ],
+      "category": "Derm/Allergy",
+      "icd10_primary": "S00-T14",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "insect_bite_swelling_adult",
@@ -2375,6 +2785,21 @@
       "manual_review": true
     },
     {
+      "disease_id": "low_back_pain_over16",
+      "display_name": "Low back pain over 16",
+      "aliases": [
+        "Low back pain over 16",
+        "back strain",
+        "low back pain"
+      ],
+      "category": "Musculoskeletal",
+      "icd10_primary": "M54.5",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "low_back_pain_simple_adult",
       "display_name": "low_back_pain_simple_adult",
       "aliases": [
@@ -2425,28 +2850,50 @@
       "manual_review": true
     },
     {
-      "disease_id": "migraine_adult",
-      "display_name": "migraine_adult",
+      "disease_id": "menopause_vasomotor_adult",
+      "display_name": "Menopause-associated vasomotor symptoms",
       "aliases": [
-        "migraine",
-        "one-sided headache"
+        "Menopause-associated vasomotor symptoms",
+        "hot flashes",
+        "hot flush",
+        "menopause",
+        "night sweats menopause",
+        "perimenopause"
+      ],
+      "category": "Gyn/Endocrine",
+      "icd10_primary": "N95.1",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "migraine_adult",
+      "display_name": "Migraine, acute attack",
+      "aliases": [
+        "Migraine, acute attack"
       ],
       "category": "Neuro",
-      "runtime_priority": [
-        "OPD_Fast_Index",
-        "Top_50_Defaults",
-        "Clinic_Defaults",
-        "Complaint_Index",
-        "Fast_Regimen_Master",
-        "Drug_Short_Lookup",
-        "Generic_Cluster_Map",
-        "Pediatric_Layer",
-        "Antibiotic_Stewardship",
-        "Validation_Rules"
-      ],
+      "icd10_primary": "G43.909",
       "source_ids": [],
-      "source_status": "legacy_unverified",
-      "manual_review": true
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "migraine_adult_prevention_review",
+      "display_name": "Adult episodic migraine prevention review",
+      "aliases": [
+        "Adult episodic migraine prevention review",
+        "frequent migraine adult",
+        "migraine prevention adult"
+      ],
+      "category": "Neuro",
+      "icd10_primary": "G43.909",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "migraine_headache",
@@ -2470,6 +2917,69 @@
       "source_ids": [],
       "source_status": "missing_verified_source",
       "manual_review": true
+    },
+    {
+      "disease_id": "migraine_over12_acute",
+      "display_name": "Acute migraine with or without aura",
+      "aliases": [
+        "Acute migraine with or without aura",
+        "migraine",
+        "migraine over 12"
+      ],
+      "category": "Neuro/Pain",
+      "icd10_primary": "G43.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "migraine_over12_prevention_review",
+      "display_name": "Migraine prevention review",
+      "aliases": [
+        "Migraine prevention review",
+        "frequent migraine",
+        "migraine prevention"
+      ],
+      "category": "Neuro/Pain",
+      "icd10_primary": "G43.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "migraine_peds_acute",
+      "display_name": "Migraine, acute attack in child/adolescent",
+      "aliases": [
+        "Migraine, acute attack in child/adolescent",
+        "adolescent migraine",
+        "child headache migraine",
+        "migraine child",
+        "pediatric migraine"
+      ],
+      "category": "Neuro",
+      "icd10_primary": "G43.909",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "migraine_peds_prevention_review",
+      "display_name": "Pediatric migraine prevention review",
+      "aliases": [
+        "Pediatric migraine prevention review",
+        "frequent migraine child",
+        "medication overuse headache child",
+        "migraine prevention child"
+      ],
+      "category": "Neuro",
+      "icd10_primary": "G43.909",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "mild_mucolytic_support_adult",
@@ -2641,6 +3151,23 @@
       "source_ids": [],
       "source_status": "missing_verified_source",
       "manual_review": true
+    },
+    {
+      "disease_id": "muscle_cramps_adult",
+      "display_name": "Muscle cramps, benign/recurrent",
+      "aliases": [
+        "Muscle cramps, benign/recurrent",
+        "calf cramp",
+        "leg cramps",
+        "muscle cramp",
+        "nocturnal leg cramp"
+      ],
+      "category": "MSK",
+      "icd10_primary": "R25.2",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "muscle_spasm_adult",
@@ -2841,6 +3368,55 @@
       "manual_review": true
     },
     {
+      "disease_id": "obesity_adult_review",
+      "display_name": "Overweight/obesity and central adiposity review",
+      "aliases": [
+        "BMI",
+        "Overweight/obesity and central adiposity review",
+        "obesity",
+        "overweight",
+        "waist to height ratio"
+      ],
+      "category": "Endocrine/Metabolic",
+      "icd10_primary": "E66.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "obesity_child_review",
+      "display_name": "Overweight/obesity in child or young person",
+      "aliases": [
+        "Overweight/obesity in child or young person",
+        "child obesity",
+        "child overweight",
+        "pediatric obesity"
+      ],
+      "category": "Endocrine/Metabolic",
+      "icd10_primary": "E66.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "obesity_orlistat_adult",
+      "display_name": "Obesity medicine candidate: orlistat",
+      "aliases": [
+        "Obesity medicine candidate: orlistat",
+        "orlistat",
+        "weight loss medicine",
+        "xenical"
+      ],
+      "category": "Endocrine/Metabolic",
+      "icd10_primary": "E66.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "oral_thrush_adult",
       "display_name": "oral_thrush_adult",
       "aliases": [
@@ -2915,6 +3491,52 @@
       "manual_review": true
     },
     {
+      "disease_id": "osahs_rhinitis_management",
+      "display_name": "OSAHS with rhinitis / CPAP nasal symptoms",
+      "aliases": [
+        "OSAHS with rhinitis / CPAP nasal symptoms",
+        "cpAP nasal congestion"
+      ],
+      "category": "Respiratory/ENT",
+      "icd10_primary": "G47.33",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "osteoarthritis_over16",
+      "display_name": "Osteoarthritis over 16",
+      "aliases": [
+        "Osteoarthritis over 16",
+        "knee oa",
+        "osteoarthritis"
+      ],
+      "category": "Musculoskeletal",
+      "icd10_primary": "M19.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "painful_diabetic_polyneuropathy_adult",
+      "display_name": "Painful diabetic polyneuropathy",
+      "aliases": [
+        "Painful diabetic polyneuropathy",
+        "burning feet diabetes",
+        "diabetic foot burning pain",
+        "diabetic neuropathy pain",
+        "painful diabetic neuropathy"
+      ],
+      "category": "Neuro",
+      "icd10_primary": "E11.42",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "penicillin_allergy_resp_support_adult",
       "display_name": "penicillin_allergy_resp_support_adult",
       "aliases": [
@@ -2938,6 +3560,20 @@
       "source_ids": [],
       "source_status": "legacy_unverified",
       "manual_review": true
+    },
+    {
+      "disease_id": "peptic_ulcer_nsaid_gate",
+      "display_name": "Peptic ulcer disease with NSAID use",
+      "aliases": [
+        "Peptic ulcer disease with NSAID use",
+        "peptic ulcer nsaid"
+      ],
+      "category": "GI",
+      "icd10_primary": "K27.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "pityriasis_versicolor_adult",
@@ -3040,6 +3676,22 @@
       "manual_review": true
     },
     {
+      "disease_id": "premature_ovarian_insufficiency_review",
+      "display_name": "Premature ovarian insufficiency review",
+      "aliases": [
+        "Premature ovarian insufficiency review",
+        "amenorrhea under 40 hot flush",
+        "early menopause",
+        "premature ovarian insufficiency"
+      ],
+      "category": "Gyn/Endocrine",
+      "icd10_primary": "E28.3",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "pruritus_localized_adult",
       "display_name": "pruritus_localized_adult",
       "aliases": [
@@ -3065,6 +3717,21 @@
       "manual_review": true
     },
     {
+      "disease_id": "psoriasis_mild_topical_adult",
+      "display_name": "Mild plaque psoriasis trunk/limbs",
+      "aliases": [
+        "Mild plaque psoriasis trunk/limbs",
+        "psoriasis",
+        "scaly plaque elbow knee"
+      ],
+      "category": "Derm",
+      "icd10_primary": "L40.0",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "pterygium",
       "display_name": "pterygium",
       "aliases": [
@@ -3086,6 +3753,20 @@
       "source_ids": [],
       "source_status": "missing_verified_source",
       "manual_review": true
+    },
+    {
+      "disease_id": "ra_symptom_control_review",
+      "display_name": "Rheumatoid arthritis symptom control",
+      "aliases": [
+        "Rheumatoid arthritis symptom control",
+        "ra pain"
+      ],
+      "category": "Rheum",
+      "icd10_primary": "M06.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "red_eye",
@@ -3111,6 +3792,36 @@
       "manual_review": true
     },
     {
+      "disease_id": "renal_ureteric_stone_acute_adult",
+      "display_name": "Acute renal or ureteric stone / renal colic",
+      "aliases": [
+        "Acute renal or ureteric stone / renal colic",
+        "renal colic",
+        "ureteric stone"
+      ],
+      "category": "Uro/Renal",
+      "icd10_primary": "N20.1",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
+      "disease_id": "sciatica_over16",
+      "display_name": "Sciatica over 16",
+      "aliases": [
+        "Sciatica over 16",
+        "radiating leg pain",
+        "sciatica"
+      ],
+      "category": "Musculoskeletal/Neuro",
+      "icd10_primary": "M54.3",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "screen_related_dry_eye_adult",
       "display_name": "screen_related_dry_eye_adult",
       "aliases": [
@@ -3134,6 +3845,21 @@
       "source_ids": [],
       "source_status": "legacy_unverified",
       "manual_review": true
+    },
+    {
+      "disease_id": "secondary_infected_eczema",
+      "display_name": "Secondary bacterial infection of eczema",
+      "aliases": [
+        "Secondary bacterial infection of eczema",
+        "eczema weeping crust",
+        "infected eczema"
+      ],
+      "category": "Derm/ID",
+      "icd10_primary": "L30.3",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "sore_throat",
@@ -3233,6 +3959,22 @@
       "manual_review": true
     },
     {
+      "disease_id": "suspected_acute_respiratory_infection_over16",
+      "display_name": "Suspected acute respiratory infection in adult",
+      "aliases": [
+        "Suspected acute respiratory infection in adult",
+        "acute respiratory infection adult",
+        "ari over 16",
+        "remote uri antibiotic"
+      ],
+      "category": "ENT/Resp",
+      "icd10_primary": "J06.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
+    },
+    {
       "disease_id": "tension_headache_adult",
       "display_name": "tension_headache_adult",
       "aliases": [
@@ -3256,6 +3998,20 @@
       "source_ids": [],
       "source_status": "legacy_unverified",
       "manual_review": true
+    },
+    {
+      "disease_id": "thyrotoxicosis_adult_review",
+      "display_name": "Thyrotoxicosis adult review",
+      "aliases": [
+        "Thyrotoxicosis adult review",
+        "hyperthyroid"
+      ],
+      "category": "Endocrine",
+      "icd10_primary": "E05.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "tinea",
@@ -3504,6 +4260,20 @@
       "source_ids": [],
       "source_status": "legacy_unverified",
       "manual_review": true
+    },
+    {
+      "disease_id": "type2_diabetes_metformin_candidate",
+      "display_name": "Type 2 diabetes: metformin candidate",
+      "aliases": [
+        "Type 2 diabetes: metformin candidate",
+        "metformin"
+      ],
+      "category": "Endocrine/Metabolic",
+      "icd10_primary": "E11.9",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "uncomplicated_uti_adult",
@@ -3964,6 +4734,21 @@
       "source_ids": [],
       "source_status": "legacy_unverified",
       "manual_review": true
+    },
+    {
+      "disease_id": "vitamin_b12_deficiency_over16_review",
+      "display_name": "Vitamin B12 deficiency over 16 review",
+      "aliases": [
+        "Vitamin B12 deficiency over 16 review",
+        "b12 deficiency",
+        "numbness low b12"
+      ],
+      "category": "Heme/Neuro",
+      "icd10_primary": "E53.8",
+      "source_ids": [],
+      "source_status": "pending_manual_review",
+      "manual_review": true,
+      "import_source": "guideline_patch_20260516"
     },
     {
       "disease_id": "vulvovaginal_candidiasis_adult",

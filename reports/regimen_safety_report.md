@@ -2,9 +2,9 @@
 
 Generated: 2026-05-02T06:45:17Z
 
-- Regimens checked: 133
+- Regimens checked: 190
 - Blocked: 2
-- Warnings: 12
+- Warnings: 17
 - `FRM0001` warning: duplicate therapeutic roles: antihistamine
 - `FRM0003` warning: duplicate therapeutic roles: antihistamine
 - `FRM0005` warning: duplicate therapeutic roles: antihistamine
@@ -19,3 +19,8 @@ Generated: 2026-05-02T06:45:17Z
 - `FRM0052` warning: duplicate therapeutic roles: nsaid
 - `FRM0053` warning: duplicate therapeutic roles: nsaid
 - `FRM0120` blocked: antibiotic in viral/simple/allergic/dry-eye condition
+- `PATCH_FRM_AAN_MIGRAINE_ADULT_ACUTE_20260516` warning: duplicate therapeutic roles: nsaid
+- `PATCH_FRM_AR_CONG_20260516` warning: duplicate therapeutic roles: antihistamine
+- `PATCH_FRM_AR_PEDS_20260516` warning: duplicate therapeutic roles: antihistamine
+- `PATCH_FRM_NICE_AOM_20260516` warning: duplicate therapeutic roles: antibiotic
+- `PATCH_FRM_NICE_MIGRAINE_ACUTE_20260516` warning: duplicate therapeutic roles: nsaid

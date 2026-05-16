@@ -13,7 +13,9 @@
       "Antibiotic_Stewardship",
       "Validation_Rules"
     ],
-    "source_status": "legacy_unverified_plus_framework"
+    "source_status": "legacy_unverified_plus_framework",
+    "guideline_patch_overlay": true,
+    "guideline_patch_regimen_count": 282
   },
   "index": [
     {
@@ -165,6 +167,46 @@
       "manual_review": true
     },
     {
+      "disease_id": "acute_cough_no_abx",
+      "display_name": "Acute cough / acute bronchitis no antibiotic",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_035",
+          "complaint": "acute cough",
+          "normalized_input": "acute cough",
+          "complaint_group": "Respiratory",
+          "disease_id": "acute_cough_no_abx",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "no routine antibiotic",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_036",
+          "complaint": "acute bronchitis",
+          "normalized_input": "acute bronchitis",
+          "complaint_group": "Respiratory",
+          "disease_id": "acute_cough_no_abx",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "no routine antibiotic",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_ACUTE_COUGH_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "acute_gastroenteritis_peds_mild",
       "display_name": "acute_gastroenteritis_peds_mild",
       "complaints": [
@@ -202,6 +244,86 @@
       "manual_review": true
     },
     {
+      "disease_id": "acute_gout_adult",
+      "display_name": "Acute gout flare",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BIGBATCH_20260516_020",
+          "complaint": "gout flare",
+          "normalized_input": "gout flare",
+          "complaint_group": "Rheum/MSK",
+          "disease_id": "acute_gout_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "acute gout",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_BIGBATCH_20260516_021",
+          "complaint": "acute gout",
+          "normalized_input": "acute gout",
+          "complaint_group": "Rheum/MSK",
+          "disease_id": "acute_gout_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "acute gout",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_GOUT_ACUTE_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "acute_otitis_media",
+      "display_name": "Acute otitis media",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BIGBATCH_20260516_023",
+          "complaint": "acute otitis media",
+          "normalized_input": "acute otitis media",
+          "complaint_group": "ENT/ID",
+          "disease_id": "acute_otitis_media",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "AOM antibiotic gate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_BIGBATCH_20260516_024",
+          "complaint": "ear pain fever",
+          "normalized_input": "ear pain fever",
+          "complaint_group": "ENT/ID",
+          "disease_id": "acute_otitis_media",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "AOM",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_AOM_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "acute_pharyngitis_viral_adult",
       "display_name": "acute_pharyngitis_viral_adult",
       "complaints": [
@@ -235,6 +357,56 @@
       ],
       "regimen_ids": [
         "FRM0043"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "acute_sinusitis_no_abx",
+      "display_name": "Acute sinusitis no antibiotic",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_050",
+          "complaint": "acute sinusitis",
+          "normalized_input": "acute sinusitis",
+          "complaint_group": "ENT/ID",
+          "disease_id": "acute_sinusitis_no_abx",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "supportive default",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_SINUSITIS_NOABX_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "acute_sore_throat_no_abx",
+      "display_name": "Acute sore throat no antibiotic",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_048",
+          "complaint": "sore throat",
+          "normalized_input": "sore throat",
+          "complaint_group": "ENT/ID",
+          "disease_id": "acute_sore_throat_no_abx",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "low score default",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_SORE_THROAT_NOABX_20260516"
       ],
       "manual_review": true
     },
@@ -404,7 +576,7 @@
     },
     {
       "disease_id": "allergic_rhinitis_adult",
-      "display_name": "allergic_rhinitis_adult",
+      "display_name": "Allergic rhinitis",
       "complaints": [
         {
           "complaint_id": "CI0001",
@@ -414,6 +586,66 @@
           "priority": 1,
           "source_status": "legacy_unverified",
           "manual_review": true
+        },
+        {
+          "complaint_id": "PATCH_CI_AR_001",
+          "complaint": "allergic rhinitis",
+          "normalized_input": "allergic rhinitis",
+          "complaint_group": "ENT",
+          "disease_id": "allergic_rhinitis_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "existing key evidence update",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AR_002",
+          "complaint": "hay fever",
+          "normalized_input": "hay fever",
+          "complaint_group": "ENT",
+          "disease_id": "allergic_rhinitis_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "alias",
+          "enabled": true,
+          "notes": "allergic rhinitis alias",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AR_003",
+          "complaint": "sneezing itchy nose",
+          "normalized_input": "sneezing itchy nose",
+          "complaint_group": "ENT",
+          "disease_id": "allergic_rhinitis_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "alias",
+          "enabled": true,
+          "notes": "allergic rhinitis alias",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AR_009",
+          "complaint": "ภูมิแพ้จมูก",
+          "normalized_input": "ภูมิแพ้จมูก",
+          "complaint_group": "ENT",
+          "disease_id": "allergic_rhinitis_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "alias",
+          "enabled": true,
+          "notes": "Thai AR alias",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
         },
         {
           "complaint_id": "CI0002",
@@ -471,13 +703,14 @@
         }
       ],
       "regimen_ids": [
-        "FRM0001"
+        "FRM0001",
+        "PATCH_FRM_AR_ADULT_20260516"
       ],
       "manual_review": true
     },
     {
       "disease_id": "allergic_rhinitis_congestion_adult",
-      "display_name": "allergic_rhinitis_congestion_adult",
+      "display_name": "Allergic rhinitis with prominent congestion",
       "complaints": [
         {
           "complaint_id": "CI0113",
@@ -489,6 +722,36 @@
           "manual_review": true
         },
         {
+          "complaint_id": "PATCH_CI_ARC_001",
+          "complaint": "allergic rhinitis with congestion",
+          "normalized_input": "allergic rhinitis with congestion",
+          "complaint_group": "ENT",
+          "disease_id": "allergic_rhinitis_congestion_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "Thai AR CPG patch reviewed",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AR_004",
+          "complaint": "rhinitis with blocked nose",
+          "normalized_input": "rhinitis with blocked nose",
+          "complaint_group": "ENT",
+          "disease_id": "allergic_rhinitis_congestion_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "alias",
+          "enabled": true,
+          "notes": "congestion phenotype",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
           "complaint_id": "CI0114",
           "complaint": "blocked nose allergy",
           "disease_id": "allergic_rhinitis_congestion_adult",
@@ -496,6 +759,21 @@
           "priority": 2,
           "source_status": "legacy_unverified",
           "manual_review": true
+        },
+        {
+          "complaint_id": "PATCH_CI_ARC_002",
+          "complaint": "blocked nose allergy",
+          "normalized_input": "blocked nose allergy",
+          "complaint_group": "ENT",
+          "disease_id": "allergic_rhinitis_congestion_adult",
+          "age_group": "adult",
+          "priority": 2,
+          "match_type": "alias",
+          "enabled": true,
+          "notes": "Thai AR CPG patch reviewed",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
         },
         {
           "complaint_id": "CI0115",
@@ -508,13 +786,14 @@
         }
       ],
       "regimen_ids": [
-        "FRM0041"
+        "FRM0041",
+        "PATCH_FRM_AR_CONG_20260516"
       ],
       "manual_review": true
     },
     {
       "disease_id": "allergic_rhinitis_peds",
-      "display_name": "allergic_rhinitis_peds",
+      "display_name": "Pediatric allergic rhinitis",
       "complaints": [
         {
           "complaint_id": "CI0248",
@@ -524,6 +803,51 @@
           "priority": 1,
           "source_status": "legacy_unverified",
           "manual_review": true
+        },
+        {
+          "complaint_id": "PATCH_CI_ARP_001",
+          "complaint": "allergic rhinitis child",
+          "normalized_input": "allergic rhinitis child",
+          "complaint_group": "ENT",
+          "disease_id": "allergic_rhinitis_peds",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "Thai AR CPG pediatric age-band patch",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_ARP_002",
+          "complaint": "child allergic rhinitis",
+          "normalized_input": "child allergic rhinitis",
+          "complaint_group": "ENT",
+          "disease_id": "allergic_rhinitis_peds",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "alias",
+          "enabled": true,
+          "notes": "Thai AR CPG pediatric age-band patch",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_ARP_003",
+          "complaint": "ภูมิแพ้จมูก เด็ก",
+          "normalized_input": "ภูมิแพ้จมูก เด็ก",
+          "complaint_group": "ENT",
+          "disease_id": "allergic_rhinitis_peds",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "alias",
+          "enabled": true,
+          "notes": "Thai AR CPG pediatric age-band patch",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
         },
         {
           "complaint_id": "CI0249",
@@ -545,7 +869,8 @@
         }
       ],
       "regimen_ids": [
-        "FRM0086"
+        "FRM0086",
+        "PATCH_FRM_AR_PEDS_20260516"
       ],
       "manual_review": true
     },
@@ -617,6 +942,121 @@
       ],
       "regimen_ids": [
         "FRM0062"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "asthma_child_5_11_chronic_management",
+      "display_name": "Asthma chronic management child 5–11",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BIGBATCH_20260516_007",
+          "complaint": "child asthma",
+          "normalized_input": "child asthma",
+          "complaint_group": "Respiratory",
+          "disease_id": "asthma_child_5_11_chronic_management",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "peds asthma",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_ASTHMA_CHILD_5_11_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "asthma_over12_chronic_management",
+      "display_name": "Asthma chronic management age ≥12",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BIGBATCH_20260516_006",
+          "complaint": "asthma/asthma med review",
+          "normalized_input": "asthma med review",
+          "complaint_group": "Respiratory",
+          "disease_id": "asthma_over12_chronic_management",
+          "age_group": "adult_or_over12",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "chronic asthma",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_ASTHMA_OVER12_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "atopic_eczema_child_mild",
+      "display_name": "Atopic eczema in child: mild flare",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BATCH_20260516_009",
+          "complaint": "atopic eczema child",
+          "normalized_input": "atopic eczema child",
+          "complaint_group": "Dermatology",
+          "disease_id": "atopic_eczema_child_mild",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "CG57 under 12",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_BATCH_20260516_010",
+          "complaint": "eczema child",
+          "normalized_input": "eczema child",
+          "complaint_group": "Dermatology",
+          "disease_id": "atopic_eczema_child_mild",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "atopic eczema default",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_ATOPIC_MILD_CHILD_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "atopic_eczema_child_moderate_flare",
+      "display_name": "Atopic eczema in child: moderate flare",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BATCH_20260516_011",
+          "complaint": "eczema flare child",
+          "normalized_input": "eczema flare child",
+          "complaint_group": "Dermatology",
+          "disease_id": "atopic_eczema_child_moderate_flare",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "moderate flare",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_ATOPIC_MOD_CHILD_20260516"
       ],
       "manual_review": true
     },
@@ -1284,6 +1724,46 @@
       "manual_review": true
     },
     {
+      "disease_id": "copd_suspected_over16_diagnosis",
+      "display_name": "Suspected COPD over 16",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_026",
+          "complaint": "copd",
+          "normalized_input": "copd",
+          "complaint_group": "Respiratory",
+          "disease_id": "copd_suspected_over16_diagnosis",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "diagnosis assessment",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_027",
+          "complaint": "suspected copd",
+          "normalized_input": "suspected copd",
+          "complaint_group": "Respiratory",
+          "disease_id": "copd_suspected_over16_diagnosis",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "spirometry",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_COPD_SUSPECT_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "corn_callus_topical_adult",
       "display_name": "corn_callus_topical_adult",
       "complaints": [
@@ -1755,6 +2235,46 @@
       "manual_review": true
     },
     {
+      "disease_id": "dyspepsia_uninvestigated_adult",
+      "display_name": "Uninvestigated dyspepsia in adults",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_006",
+          "complaint": "dyspepsia",
+          "normalized_input": "dyspepsia",
+          "complaint_group": "GI",
+          "disease_id": "dyspepsia_uninvestigated_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "adult CG184",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_007",
+          "complaint": "epigastric pain bloating nausea",
+          "normalized_input": "epigastric pain bloating nausea",
+          "complaint_group": "GI",
+          "disease_id": "dyspepsia_uninvestigated_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "broad dyspepsia",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_DYSPEPSIA_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "dysuria",
       "display_name": "dysuria",
       "complaints": [
@@ -1842,6 +2362,141 @@
       ],
       "regimen_ids": [
         "FRM0066"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "eczema_herpeticum_child",
+      "display_name": "Eczema herpeticum",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BATCH_20260516_013",
+          "complaint": "eczema herpeticum",
+          "normalized_input": "eczema herpeticum",
+          "complaint_group": "Dermatology/Infection",
+          "disease_id": "eczema_herpeticum_child",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "urgent herpes gate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_BATCH_20260516_014",
+          "complaint": "punched out eczema",
+          "normalized_input": "punched out eczema",
+          "complaint_group": "Dermatology/Infection",
+          "disease_id": "eczema_herpeticum_child",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "eczema herpeticum clue",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_ECZEMA_HERPETICUM_CHILD_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "epistaxis_adult",
+      "display_name": "Anterior epistaxis / nosebleed",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_EPI_001",
+          "complaint": "epistaxis",
+          "normalized_input": "epistaxis",
+          "complaint_group": "ENT",
+          "disease_id": "epistaxis_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "Thai epistaxis guideline 2024",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_EPI_002",
+          "complaint": "nosebleed",
+          "normalized_input": "nosebleed",
+          "complaint_group": "ENT",
+          "disease_id": "epistaxis_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "alias",
+          "enabled": true,
+          "notes": "Thai epistaxis guideline 2024",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_EPI_003",
+          "complaint": "เลือดกำเดาไหล",
+          "normalized_input": "เลือดกำเดาไหล",
+          "complaint_group": "ENT",
+          "disease_id": "epistaxis_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "alias",
+          "enabled": true,
+          "notes": "Thai epistaxis guideline 2024",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_EPI_ADULT_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "epistaxis_peds",
+      "display_name": "Pediatric anterior epistaxis / nosebleed",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_EPI_P_001",
+          "complaint": "nosebleed child",
+          "normalized_input": "nosebleed child",
+          "complaint_group": "ENT",
+          "disease_id": "epistaxis_peds",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "Thai epistaxis guideline; pediatric conservative triage",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_EPI_P_002",
+          "complaint": "เลือดกำเดาไหล เด็ก",
+          "normalized_input": "เลือดกำเดาไหล เด็ก",
+          "complaint_group": "ENT",
+          "disease_id": "epistaxis_peds",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "alias",
+          "enabled": true,
+          "notes": "Thai epistaxis guideline; pediatric conservative triage",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_EPI_PEDS_20260516"
       ],
       "manual_review": true
     },
@@ -2008,6 +2663,31 @@
         }
       ],
       "regimen_ids": [],
+      "manual_review": true
+    },
+    {
+      "disease_id": "familial_hypercholesterolaemia_adult_treatment",
+      "display_name": "Familial hypercholesterolaemia adult lipid lowering",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_021",
+          "complaint": "fh treatment",
+          "normalized_input": "fh treatment",
+          "complaint_group": "CV/Metabolic",
+          "disease_id": "familial_hypercholesterolaemia_adult_treatment",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "adult statin",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_FH_ADULT_TX_20260516"
+      ],
       "manual_review": true
     },
     {
@@ -2250,6 +2930,76 @@
       "manual_review": true
     },
     {
+      "disease_id": "genitourinary_syndrome_menopause_adult",
+      "display_name": "Genitourinary syndrome of menopause",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_006",
+          "complaint": "vaginal dryness menopause",
+          "normalized_input": "vaginal dryness menopause",
+          "complaint_group": "Gyn/Urology",
+          "disease_id": "genitourinary_syndrome_menopause_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "GSM",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_007",
+          "complaint": "painful sex menopause",
+          "normalized_input": "painful sex menopause",
+          "complaint_group": "Gyn/Urology",
+          "disease_id": "genitourinary_syndrome_menopause_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "GSM dyspareunia",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_008",
+          "complaint": "vaginal irritation after menopause",
+          "normalized_input": "vaginal irritation after menopause",
+          "complaint_group": "Gyn/Urology",
+          "disease_id": "genitourinary_syndrome_menopause_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "GSM",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_009",
+          "complaint": "urinary discomfort menopause",
+          "normalized_input": "urinary discomfort menopause",
+          "complaint_group": "Gyn/Urology",
+          "disease_id": "genitourinary_syndrome_menopause_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "GSM urinary symptom gate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_MENOPAUSE_GSM_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "gerd",
       "display_name": "GERD",
       "complaints": [
@@ -2264,6 +3014,186 @@
         }
       ],
       "regimen_ids": [],
+      "manual_review": true
+    },
+    {
+      "disease_id": "gerd_alarm_or_refractory",
+      "display_name": "GERD with alarm features or refractory symptoms",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_008",
+          "complaint": "reflux not better with ppi",
+          "normalized_input": "reflux not better with ppi",
+          "complaint_group": "GI",
+          "disease_id": "gerd_alarm_or_refractory",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "red_flag",
+          "enabled": true,
+          "notes": "refractory pathway",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_009",
+          "complaint": "gerd dysphagia",
+          "normalized_input": "gerd dysphagia",
+          "complaint_group": "GI",
+          "disease_id": "gerd_alarm_or_refractory",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "red_flag",
+          "enabled": true,
+          "notes": "alarm endoscopy gate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_010",
+          "complaint": "heartburn weight loss",
+          "normalized_input": "heartburn weight loss",
+          "complaint_group": "GI",
+          "disease_id": "gerd_alarm_or_refractory",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "red_flag",
+          "enabled": true,
+          "notes": "alarm endoscopy gate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_ACG_GERD_REFRACTORY_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "gerd_nocturnal_adult",
+      "display_name": "Nocturnal GERD / nighttime reflux",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_006",
+          "complaint": "nocturnal reflux",
+          "normalized_input": "nocturnal reflux",
+          "complaint_group": "GI",
+          "disease_id": "gerd_nocturnal_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "nighttime reflux pathway",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_007",
+          "complaint": "heartburn at night",
+          "normalized_input": "heartburn at night",
+          "complaint_group": "GI",
+          "disease_id": "gerd_nocturnal_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "nighttime reflux pathway",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_ACG_GERD_NOCTURNAL_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "gerd_uncomplicated_adult",
+      "display_name": "Gastroesophageal reflux disease, uncomplicated",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_001",
+          "complaint": "gerd",
+          "normalized_input": "gerd",
+          "complaint_group": "GI",
+          "disease_id": "gerd_uncomplicated_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "classic reflux pathway",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_002",
+          "complaint": "reflux",
+          "normalized_input": "reflux",
+          "complaint_group": "GI",
+          "disease_id": "gerd_uncomplicated_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "classic reflux pathway",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_003",
+          "complaint": "heartburn",
+          "normalized_input": "heartburn",
+          "complaint_group": "GI",
+          "disease_id": "gerd_uncomplicated_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "classic GERD symptom",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_004",
+          "complaint": "acid regurgitation",
+          "normalized_input": "acid regurgitation",
+          "complaint_group": "GI",
+          "disease_id": "gerd_uncomplicated_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "classic GERD symptom",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_005",
+          "complaint": "sour burp",
+          "normalized_input": "sour burp",
+          "complaint_group": "GI",
+          "disease_id": "gerd_uncomplicated_adult",
+          "age_group": "adult",
+          "priority": 2,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "reflux symptom alias",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_ACG_GERD_20260516"
+      ],
       "manual_review": true
     },
     {
@@ -2304,6 +3234,86 @@
       "manual_review": true
     },
     {
+      "disease_id": "gord_adult_empiric",
+      "display_name": "Gastro-oesophageal reflux disease in adults",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_008",
+          "complaint": "gerd",
+          "normalized_input": "gerd",
+          "complaint_group": "GI",
+          "disease_id": "gord_adult_empiric",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "adult reflux",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_009",
+          "complaint": "gord",
+          "normalized_input": "gord",
+          "complaint_group": "GI",
+          "disease_id": "gord_adult_empiric",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "adult reflux",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_010",
+          "complaint": "heartburn acid regurgitation",
+          "normalized_input": "heartburn acid regurgitation",
+          "complaint_group": "GI",
+          "disease_id": "gord_adult_empiric",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "reflux-like",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_GORD_ADULT_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "gout_urate_lowering_review",
+      "display_name": "Gout urate-lowering therapy review",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BIGBATCH_20260516_022",
+          "complaint": "allopurinol",
+          "normalized_input": "allopurinol",
+          "complaint_group": "Rheum/MSK",
+          "disease_id": "gout_urate_lowering_review",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "ULT review",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_GOUT_ULT_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "gum_inflammation_support_adult",
       "display_name": "gum_inflammation_support_adult",
       "complaints": [
@@ -2337,6 +3347,176 @@
       ],
       "regimen_ids": [
         "FRM0132"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "h_pylori_confirmed_adult",
+      "display_name": "Confirmed active Helicobacter pylori infection",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_011",
+          "complaint": "h pylori",
+          "normalized_input": "h pylori",
+          "complaint_group": "GI",
+          "disease_id": "h_pylori_confirmed_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "confirmed infection/regimen review",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_012",
+          "complaint": "helicobacter pylori",
+          "normalized_input": "helicobacter pylori",
+          "complaint_group": "GI",
+          "disease_id": "h_pylori_confirmed_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "confirmed infection/regimen review",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_013",
+          "complaint": "h pylori positive",
+          "normalized_input": "h pylori positive",
+          "complaint_group": "GI",
+          "disease_id": "h_pylori_confirmed_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "active infection confirmed",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_014",
+          "complaint": "positive urea breath test",
+          "normalized_input": "positive urea breath test",
+          "complaint_group": "GI",
+          "disease_id": "h_pylori_confirmed_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "active infection confirmed",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_015",
+          "complaint": "positive stool antigen h pylori",
+          "normalized_input": "positive stool antigen h pylori",
+          "complaint_group": "GI",
+          "disease_id": "h_pylori_confirmed_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "active infection confirmed",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_019",
+          "complaint": "h pylori failed treatment",
+          "normalized_input": "h pylori failed treatment",
+          "complaint_group": "GI",
+          "disease_id": "h_pylori_confirmed_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "red_flag",
+          "enabled": true,
+          "notes": "salvage review needed",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_020",
+          "complaint": "h pylori test of cure",
+          "normalized_input": "h pylori test of cure",
+          "complaint_group": "GI",
+          "disease_id": "h_pylori_confirmed_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "post-treatment confirmation rule",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_ACG_HP_CONFIRMED_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "h_pylori_test_and_treat_dyspepsia",
+      "display_name": "Uninvestigated dyspepsia: H. pylori test-and-treat pathway",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_016",
+          "complaint": "dyspepsia test h pylori",
+          "normalized_input": "dyspepsia test h pylori",
+          "complaint_group": "GI",
+          "disease_id": "h_pylori_test_and_treat_dyspepsia",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "test-and-treat pathway",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_017",
+          "complaint": "epigastric pain h pylori test",
+          "normalized_input": "epigastric pain h pylori test",
+          "complaint_group": "GI",
+          "disease_id": "h_pylori_test_and_treat_dyspepsia",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "test-and-treat pathway",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_GI_ACG_20260516_018",
+          "complaint": "dyspepsia age under 60",
+          "normalized_input": "dyspepsia age under 60",
+          "complaint_group": "GI",
+          "disease_id": "h_pylori_test_and_treat_dyspepsia",
+          "age_group": "adult",
+          "priority": 2,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "test-and-treat if no alarm",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_ACG_HP_TEST_TREAT_20260516"
       ],
       "manual_review": true
     },
@@ -2432,6 +3612,71 @@
       "manual_review": true
     },
     {
+      "disease_id": "hypothyroidism_adult_review",
+      "display_name": "Hypothyroidism adult review",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BIGBATCH_20260516_010",
+          "complaint": "hypothyroid",
+          "normalized_input": "hypothyroid",
+          "complaint_group": "Endocrine",
+          "disease_id": "hypothyroidism_adult_review",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "thyroid review",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_HYPO_THYROID_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "impetigo_localised_nonbullous",
+      "display_name": "Localised non-bullous impetigo",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_001",
+          "complaint": "impetigo",
+          "normalized_input": "impetigo",
+          "complaint_group": "Derm/ID",
+          "disease_id": "impetigo_localised_nonbullous",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "localised non-bullous default",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_002",
+          "complaint": "golden crust rash",
+          "normalized_input": "golden crust rash",
+          "complaint_group": "Derm/ID",
+          "disease_id": "impetigo_localised_nonbullous",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "impetigo clue",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_IMPETIGO_LOCAL_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "impetigo_localized_adult",
       "display_name": "impetigo_localized_adult",
       "complaints": [
@@ -2502,6 +3747,31 @@
       ],
       "regimen_ids": [
         "FRM0103"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "impetigo_widespread_nonbullous",
+      "display_name": "Widespread non-bullous impetigo",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_003",
+          "complaint": "widespread impetigo",
+          "normalized_input": "widespread impetigo",
+          "complaint_group": "Derm/ID",
+          "disease_id": "impetigo_widespread_nonbullous",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "widespread non-bullous",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_IMPETIGO_WIDE_20260516"
       ],
       "manual_review": true
     },
@@ -2650,6 +3920,31 @@
       ],
       "regimen_ids": [
         "FRM0100"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "infected_insect_bite_cellulitis_gate",
+      "display_name": "Infected insect bite/sting / cellulitis gate",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MORE_20260516_017",
+          "complaint": "infected insect bite",
+          "normalized_input": "infected insect bite",
+          "complaint_group": "Derm/ID",
+          "disease_id": "infected_insect_bite_cellulitis_gate",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "cellulitis gate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_INSECT_INFECTED_20260516"
       ],
       "manual_review": true
     },
@@ -2835,6 +4130,46 @@
       ],
       "regimen_ids": [
         "FRM0025"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "insect_bite_sting_local_reaction",
+      "display_name": "Insect bite/sting local inflammatory or allergic reaction",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MORE_20260516_015",
+          "complaint": "insect bite",
+          "normalized_input": "insect bite",
+          "complaint_group": "Derm/Allergy",
+          "disease_id": "insect_bite_sting_local_reaction",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "no antibiotic if not infected",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MORE_20260516_016",
+          "complaint": "mosquito bite itchy",
+          "normalized_input": "mosquito bite itchy",
+          "complaint_group": "Derm/Allergy",
+          "disease_id": "insect_bite_sting_local_reaction",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "antihistamine/topical",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_INSECT_LOCAL_20260516"
       ],
       "manual_review": true
     },
@@ -3209,6 +4544,46 @@
       "manual_review": true
     },
     {
+      "disease_id": "low_back_pain_over16",
+      "display_name": "Low back pain over 16",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MORE_20260516_005",
+          "complaint": "low back pain",
+          "normalized_input": "low back pain",
+          "complaint_group": "Musculoskeletal",
+          "disease_id": "low_back_pain_over16",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "NG59",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MORE_20260516_006",
+          "complaint": "back strain",
+          "normalized_input": "back strain",
+          "complaint_group": "Musculoskeletal",
+          "disease_id": "low_back_pain_over16",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "mechanical LBP",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_LBP_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "low_back_pain_simple_adult",
       "display_name": "low_back_pain_simple_adult",
       "complaints": [
@@ -3283,8 +4658,93 @@
       "manual_review": true
     },
     {
+      "disease_id": "menopause_vasomotor_adult",
+      "display_name": "Menopause-associated vasomotor symptoms",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_001",
+          "complaint": "menopause",
+          "normalized_input": "menopause",
+          "complaint_group": "Gyn/Endocrine",
+          "disease_id": "menopause_vasomotor_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "menopause symptom review",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_002",
+          "complaint": "perimenopause",
+          "normalized_input": "perimenopause",
+          "complaint_group": "Gyn/Endocrine",
+          "disease_id": "menopause_vasomotor_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "perimenopause symptom review",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_003",
+          "complaint": "hot flush",
+          "normalized_input": "hot flush",
+          "complaint_group": "Gyn/Endocrine",
+          "disease_id": "menopause_vasomotor_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "vasomotor symptom",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_004",
+          "complaint": "hot flashes",
+          "normalized_input": "hot flashes",
+          "complaint_group": "Gyn/Endocrine",
+          "disease_id": "menopause_vasomotor_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "vasomotor symptom",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_005",
+          "complaint": "night sweats menopause",
+          "normalized_input": "night sweats menopause",
+          "complaint_group": "Gyn/Endocrine",
+          "disease_id": "menopause_vasomotor_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "vasomotor symptom",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_MENOPAUSE_VMS_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "migraine_adult",
-      "display_name": "migraine_adult",
+      "display_name": "Migraine, acute attack",
       "complaints": [
         {
           "complaint_id": "CI0030",
@@ -3306,7 +4766,48 @@
         }
       ],
       "regimen_ids": [
-        "FRM0012"
+        "FRM0012",
+        "PATCH_FRM_AAN_MIGRAINE_ADULT_ACUTE_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "migraine_adult_prevention_review",
+      "display_name": "Adult episodic migraine prevention review",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_008",
+          "complaint": "migraine prevention adult",
+          "normalized_input": "migraine prevention adult",
+          "complaint_group": "Neuro",
+          "disease_id": "migraine_adult_prevention_review",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "prevention/manual review pathway",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_009",
+          "complaint": "frequent migraine adult",
+          "normalized_input": "frequent migraine adult",
+          "complaint_group": "Neuro",
+          "disease_id": "migraine_adult_prevention_review",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "prevention candidate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_AAN_ADULT_MIGRAINE_PREVENTION_20260516"
       ],
       "manual_review": true
     },
@@ -3325,6 +4826,211 @@
         }
       ],
       "regimen_ids": [],
+      "manual_review": true
+    },
+    {
+      "disease_id": "migraine_over12_acute",
+      "display_name": "Acute migraine with or without aura",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BATCH_20260516_015",
+          "complaint": "migraine",
+          "normalized_input": "migraine",
+          "complaint_group": "Neuro/Pain",
+          "disease_id": "migraine_over12_acute",
+          "age_group": "adult_or_over12",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "acute migraine",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_BATCH_20260516_016",
+          "complaint": "migraine over 12",
+          "normalized_input": "migraine over 12",
+          "complaint_group": "Neuro/Pain",
+          "disease_id": "migraine_over12_acute",
+          "age_group": "adult_or_over12",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "CG150",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_MIGRAINE_ACUTE_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "migraine_over12_prevention_review",
+      "display_name": "Migraine prevention review",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BATCH_20260516_017",
+          "complaint": "migraine prevention",
+          "normalized_input": "migraine prevention",
+          "complaint_group": "Neuro/Pain",
+          "disease_id": "migraine_over12_prevention_review",
+          "age_group": "adult_or_over12",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "prevention review",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_BATCH_20260516_018",
+          "complaint": "frequent migraine",
+          "normalized_input": "frequent migraine",
+          "complaint_group": "Neuro/Pain",
+          "disease_id": "migraine_over12_prevention_review",
+          "age_group": "adult_or_over12",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "prevention candidate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_MIGRAINE_PREVENT_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "migraine_peds_acute",
+      "display_name": "Migraine, acute attack in child/adolescent",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_001",
+          "complaint": "migraine child",
+          "normalized_input": "migraine child",
+          "complaint_group": "Neuro",
+          "disease_id": "migraine_peds_acute",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "pediatric acute migraine",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_002",
+          "complaint": "pediatric migraine",
+          "normalized_input": "pediatric migraine",
+          "complaint_group": "Neuro",
+          "disease_id": "migraine_peds_acute",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "pediatric acute migraine",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_003",
+          "complaint": "child headache migraine",
+          "normalized_input": "child headache migraine",
+          "complaint_group": "Neuro",
+          "disease_id": "migraine_peds_acute",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "pediatric migraine after headache-type check",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_004",
+          "complaint": "adolescent migraine",
+          "normalized_input": "adolescent migraine",
+          "complaint_group": "Neuro",
+          "disease_id": "migraine_peds_acute",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "adolescent acute migraine",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_AAN_MIGRAINE_PEDS_ACUTE_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "migraine_peds_prevention_review",
+      "display_name": "Pediatric migraine prevention review",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_005",
+          "complaint": "migraine prevention child",
+          "normalized_input": "migraine prevention child",
+          "complaint_group": "Neuro",
+          "disease_id": "migraine_peds_prevention_review",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "prevention/shared decision pathway",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_006",
+          "complaint": "frequent migraine child",
+          "normalized_input": "frequent migraine child",
+          "complaint_group": "Neuro",
+          "disease_id": "migraine_peds_prevention_review",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "prevention candidate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_007",
+          "complaint": "medication overuse headache child",
+          "normalized_input": "medication overuse headache child",
+          "complaint_group": "Neuro",
+          "disease_id": "migraine_peds_prevention_review",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "red_flag",
+          "enabled": true,
+          "notes": "prevention/overuse review",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_AAN_PEDS_MIGRAINE_PREVENTION_20260516"
+      ],
       "manual_review": true
     },
     {
@@ -3544,6 +5250,76 @@
         }
       ],
       "regimen_ids": [],
+      "manual_review": true
+    },
+    {
+      "disease_id": "muscle_cramps_adult",
+      "display_name": "Muscle cramps, benign/recurrent",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_014",
+          "complaint": "muscle cramp",
+          "normalized_input": "muscle cramp",
+          "complaint_group": "MSK",
+          "disease_id": "muscle_cramps_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "benign cramp safety row",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_015",
+          "complaint": "leg cramps",
+          "normalized_input": "leg cramps",
+          "complaint_group": "MSK",
+          "disease_id": "muscle_cramps_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "cramp safety row",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_016",
+          "complaint": "nocturnal leg cramp",
+          "normalized_input": "nocturnal leg cramp",
+          "complaint_group": "MSK",
+          "disease_id": "muscle_cramps_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "night cramp safety row",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_017",
+          "complaint": "calf cramp",
+          "normalized_input": "calf cramp",
+          "complaint_group": "MSK",
+          "disease_id": "muscle_cramps_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "cramp safety row",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_AAN_MUSCLE_CRAMPS_20260516"
+      ],
       "manual_review": true
     },
     {
@@ -3823,6 +5599,186 @@
       "manual_review": true
     },
     {
+      "disease_id": "obesity_adult_review",
+      "display_name": "Overweight/obesity and central adiposity review",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_013",
+          "complaint": "obesity",
+          "normalized_input": "obesity",
+          "complaint_group": "Endocrine/Metabolic",
+          "disease_id": "obesity_adult_review",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "adult obesity assessment",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_014",
+          "complaint": "overweight",
+          "normalized_input": "overweight",
+          "complaint_group": "Endocrine/Metabolic",
+          "disease_id": "obesity_adult_review",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "adult overweight assessment",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_018",
+          "complaint": "BMI",
+          "normalized_input": "BMI",
+          "complaint_group": "Endocrine/Metabolic",
+          "disease_id": "obesity_adult_review",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "BMI assessment",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_019",
+          "complaint": "waist to height ratio",
+          "normalized_input": "waist to height ratio",
+          "complaint_group": "Endocrine/Metabolic",
+          "disease_id": "obesity_adult_review",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "central adiposity",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_OBESITY_ADULT_REVIEW_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "obesity_child_review",
+      "display_name": "Overweight/obesity in child or young person",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_020",
+          "complaint": "child obesity",
+          "normalized_input": "child obesity",
+          "complaint_group": "Endocrine/Metabolic",
+          "disease_id": "obesity_child_review",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "child obesity review",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_021",
+          "complaint": "pediatric obesity",
+          "normalized_input": "pediatric obesity",
+          "complaint_group": "Endocrine/Metabolic",
+          "disease_id": "obesity_child_review",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "child obesity review",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_022",
+          "complaint": "child overweight",
+          "normalized_input": "child overweight",
+          "complaint_group": "Endocrine/Metabolic",
+          "disease_id": "obesity_child_review",
+          "age_group": "peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "child overweight review",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_OBESITY_CHILD_REVIEW_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "obesity_orlistat_adult",
+      "display_name": "Obesity medicine candidate: orlistat",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_015",
+          "complaint": "weight loss medicine",
+          "normalized_input": "weight loss medicine",
+          "complaint_group": "Endocrine/Metabolic",
+          "disease_id": "obesity_orlistat_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "obesity medicine gate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_016",
+          "complaint": "orlistat",
+          "normalized_input": "orlistat",
+          "complaint_group": "Endocrine/Metabolic",
+          "disease_id": "obesity_orlistat_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "orlistat candidate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_017",
+          "complaint": "xenical",
+          "normalized_input": "xenical",
+          "complaint_group": "Endocrine/Metabolic",
+          "disease_id": "obesity_orlistat_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "workbook orlistat",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_ORLISTAT_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "oral_thrush_adult",
       "display_name": "oral_thrush_adult",
       "complaints": [
@@ -3925,6 +5881,141 @@
       "manual_review": true
     },
     {
+      "disease_id": "osahs_rhinitis_management",
+      "display_name": "OSAHS with rhinitis / CPAP nasal symptoms",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MORE_20260516_014",
+          "complaint": "cpAP nasal congestion",
+          "normalized_input": "cpap nasal congestion",
+          "complaint_group": "Respiratory/ENT",
+          "disease_id": "osahs_rhinitis_management",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "CPAP rhinitis",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_OSAHS_RHINITIS_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "osteoarthritis_over16",
+      "display_name": "Osteoarthritis over 16",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BIGBATCH_20260516_016",
+          "complaint": "osteoarthritis",
+          "normalized_input": "osteoarthritis",
+          "complaint_group": "Musculoskeletal",
+          "disease_id": "osteoarthritis_over16",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "OA",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_BIGBATCH_20260516_017",
+          "complaint": "knee oa",
+          "normalized_input": "knee oa",
+          "complaint_group": "Musculoskeletal",
+          "disease_id": "osteoarthritis_over16",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "knee OA",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_OA_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "painful_diabetic_polyneuropathy_adult",
+      "display_name": "Painful diabetic polyneuropathy",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_010",
+          "complaint": "diabetic neuropathy pain",
+          "normalized_input": "diabetic neuropathy pain",
+          "complaint_group": "Neuro",
+          "disease_id": "painful_diabetic_polyneuropathy_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "painful DPN",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_011",
+          "complaint": "painful diabetic neuropathy",
+          "normalized_input": "painful diabetic neuropathy",
+          "complaint_group": "Neuro",
+          "disease_id": "painful_diabetic_polyneuropathy_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "painful DPN",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_012",
+          "complaint": "burning feet diabetes",
+          "normalized_input": "burning feet diabetes",
+          "complaint_group": "Neuro",
+          "disease_id": "painful_diabetic_polyneuropathy_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "neuropathic pain clue",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_AAN_NEURO_20260516_013",
+          "complaint": "diabetic foot burning pain",
+          "normalized_input": "diabetic foot burning pain",
+          "complaint_group": "Neuro",
+          "disease_id": "painful_diabetic_polyneuropathy_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "painful DPN clue",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_AAN_DPN_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "penicillin_allergy_resp_support_adult",
       "display_name": "penicillin_allergy_resp_support_adult",
       "complaints": [
@@ -3958,6 +6049,31 @@
       ],
       "regimen_ids": [
         "FRM0112"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "peptic_ulcer_nsaid_gate",
+      "display_name": "Peptic ulcer disease with NSAID use",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_013",
+          "complaint": "peptic ulcer nsaid",
+          "normalized_input": "peptic ulcer nsaid",
+          "complaint_group": "GI",
+          "disease_id": "peptic_ulcer_nsaid_gate",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "NSAID ulcer gate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_PUD_NSAID_20260516"
       ],
       "manual_review": true
     },
@@ -4110,6 +6226,61 @@
       "manual_review": true
     },
     {
+      "disease_id": "premature_ovarian_insufficiency_review",
+      "display_name": "Premature ovarian insufficiency review",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_010",
+          "complaint": "premature ovarian insufficiency",
+          "normalized_input": "premature ovarian insufficiency",
+          "complaint_group": "Gyn/Endocrine",
+          "disease_id": "premature_ovarian_insufficiency_review",
+          "age_group": "adult_under40",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "POI review",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_012",
+          "complaint": "amenorrhea under 40 hot flush",
+          "normalized_input": "amenorrhea under 40 hot flush",
+          "complaint_group": "Gyn/Endocrine",
+          "disease_id": "premature_ovarian_insufficiency_review",
+          "age_group": "adult_under40",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "suspected POI",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MENO_OB_20260516_011",
+          "complaint": "early menopause",
+          "normalized_input": "early menopause",
+          "complaint_group": "Gyn/Endocrine",
+          "disease_id": "premature_ovarian_insufficiency_review",
+          "age_group": "adult",
+          "priority": 2,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "age-based diagnosis gate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_POI_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "pruritus_localized_adult",
       "display_name": "pruritus_localized_adult",
       "complaints": [
@@ -4147,6 +6318,46 @@
       "manual_review": true
     },
     {
+      "disease_id": "psoriasis_mild_topical_adult",
+      "display_name": "Mild plaque psoriasis trunk/limbs",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_052",
+          "complaint": "psoriasis",
+          "normalized_input": "psoriasis",
+          "complaint_group": "Derm",
+          "disease_id": "psoriasis_mild_topical_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "mild plaque default",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_053",
+          "complaint": "scaly plaque elbow knee",
+          "normalized_input": "scaly plaque elbow knee",
+          "complaint_group": "Derm",
+          "disease_id": "psoriasis_mild_topical_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "plaque psoriasis",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_PSORIASIS_MILD_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "pterygium",
       "display_name": "pterygium",
       "complaints": [
@@ -4164,6 +6375,31 @@
       "manual_review": true
     },
     {
+      "disease_id": "ra_symptom_control_review",
+      "display_name": "Rheumatoid arthritis symptom control",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MORE_20260516_011",
+          "complaint": "ra pain",
+          "normalized_input": "ra pain",
+          "complaint_group": "Rheum",
+          "disease_id": "ra_symptom_control_review",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "known RA symptom control",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_RA_SYMPTOM_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "red_eye",
       "display_name": "red eye",
       "complaints": [
@@ -4178,6 +6414,86 @@
         }
       ],
       "regimen_ids": [],
+      "manual_review": true
+    },
+    {
+      "disease_id": "renal_ureteric_stone_acute_adult",
+      "display_name": "Acute renal or ureteric stone / renal colic",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_038",
+          "complaint": "renal colic",
+          "normalized_input": "renal colic",
+          "complaint_group": "Uro/Renal",
+          "disease_id": "renal_ureteric_stone_acute_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "stone pain",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MULTI_20260516_039",
+          "complaint": "ureteric stone",
+          "normalized_input": "ureteric stone",
+          "complaint_group": "Uro/Renal",
+          "disease_id": "renal_ureteric_stone_acute_adult",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "stone",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_RENAL_STONE_ACUTE_20260516"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "sciatica_over16",
+      "display_name": "Sciatica over 16",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MORE_20260516_007",
+          "complaint": "sciatica",
+          "normalized_input": "sciatica",
+          "complaint_group": "Musculoskeletal/Neuro",
+          "disease_id": "sciatica_over16",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "radicular leg pain",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MORE_20260516_008",
+          "complaint": "radiating leg pain",
+          "normalized_input": "radiating leg pain",
+          "complaint_group": "Musculoskeletal/Neuro",
+          "disease_id": "sciatica_over16",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "cauda equina gate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_SCIATICA_20260516"
+      ],
       "manual_review": true
     },
     {
@@ -4214,6 +6530,46 @@
       ],
       "regimen_ids": [
         "FRM0061"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "secondary_infected_eczema",
+      "display_name": "Secondary bacterial infection of eczema",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_MORE_20260516_003",
+          "complaint": "infected eczema",
+          "normalized_input": "infected eczema",
+          "complaint_group": "Derm/ID",
+          "disease_id": "secondary_infected_eczema",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "NG190 antibiotic gate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_MORE_20260516_004",
+          "complaint": "eczema weeping crust",
+          "normalized_input": "eczema weeping crust",
+          "complaint_group": "Derm/ID",
+          "disease_id": "secondary_infected_eczema",
+          "age_group": "adult_or_peds",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "not always bacterial",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_INFECTED_ECZEMA_20260516"
       ],
       "manual_review": true
     },
@@ -4337,6 +6693,61 @@
       "manual_review": true
     },
     {
+      "disease_id": "suspected_acute_respiratory_infection_over16",
+      "display_name": "Suspected acute respiratory infection in adult",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BATCH_20260516_001",
+          "complaint": "acute respiratory infection adult",
+          "normalized_input": "acute respiratory infection adult",
+          "complaint_group": "ENT/Resp",
+          "disease_id": "suspected_acute_respiratory_infection_over16",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "NICE NG237 ARI triage",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_BATCH_20260516_002",
+          "complaint": "ari over 16",
+          "normalized_input": "ari over 16",
+          "complaint_group": "ENT/Resp",
+          "disease_id": "suspected_acute_respiratory_infection_over16",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "NICE NG237",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_BATCH_20260516_003",
+          "complaint": "remote uri antibiotic",
+          "normalized_input": "remote uri antibiotic",
+          "complaint_group": "ENT/Resp",
+          "disease_id": "suspected_acute_respiratory_infection_over16",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "remote antimicrobial gate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_ARI_OVER16_20260516"
+      ],
+      "manual_review": true
+    },
+    {
       "disease_id": "tension_headache_adult",
       "display_name": "tension_headache_adult",
       "complaints": [
@@ -4370,6 +6781,31 @@
       ],
       "regimen_ids": [
         "FRM0021"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "thyrotoxicosis_adult_review",
+      "display_name": "Thyrotoxicosis adult review",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BIGBATCH_20260516_011",
+          "complaint": "hyperthyroid",
+          "normalized_input": "hyperthyroid",
+          "complaint_group": "Endocrine",
+          "disease_id": "thyrotoxicosis_adult_review",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "thyrotoxicosis",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_THYROTOX_20260516"
       ],
       "manual_review": true
     },
@@ -4720,6 +7156,31 @@
       ],
       "regimen_ids": [
         "FRM0048"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "type2_diabetes_metformin_candidate",
+      "display_name": "Type 2 diabetes: metformin candidate",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BATCH_20260516_007",
+          "complaint": "metformin",
+          "normalized_input": "metformin",
+          "complaint_group": "Endocrine/Metabolic",
+          "disease_id": "type2_diabetes_metformin_candidate",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "metformin candidate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_T2DM_METFORMIN_20260516"
       ],
       "manual_review": true
     },
@@ -5278,6 +7739,46 @@
       ],
       "regimen_ids": [
         "FRM0091"
+      ],
+      "manual_review": true
+    },
+    {
+      "disease_id": "vitamin_b12_deficiency_over16_review",
+      "display_name": "Vitamin B12 deficiency over 16 review",
+      "complaints": [
+        {
+          "complaint_id": "PATCH_CI_NICE_BIGBATCH_20260516_008",
+          "complaint": "b12 deficiency",
+          "normalized_input": "b12 deficiency",
+          "complaint_group": "Heme/Neuro",
+          "disease_id": "vitamin_b12_deficiency_over16_review",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "exact",
+          "enabled": true,
+          "notes": "B12 review",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        },
+        {
+          "complaint_id": "PATCH_CI_NICE_BIGBATCH_20260516_009",
+          "complaint": "numbness low b12",
+          "normalized_input": "numbness low b12",
+          "complaint_group": "Heme/Neuro",
+          "disease_id": "vitamin_b12_deficiency_over16_review",
+          "age_group": "adult",
+          "priority": 1,
+          "match_type": "semantic",
+          "enabled": true,
+          "notes": "neurologic B12 gate",
+          "source_status": "pending_manual_review",
+          "manual_review": true,
+          "import_source": "guideline_patch_20260516"
+        }
+      ],
+      "regimen_ids": [
+        "PATCH_FRM_NICE_B12_20260516"
       ],
       "manual_review": true
     },

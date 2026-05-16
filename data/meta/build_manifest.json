@@ -63,9 +63,15 @@
       "stderr": ""
     },
     {
+      "step": "scripts/import_guideline_patch_workbook.py",
+      "returncode": 0,
+      "stdout": "{\n  \"generated_at\": \"2026-05-02T06:45:17Z\",\n  \"input_workbook\": \"/Users/a12/Downloads/druglist_patch_organized_merge_ready_20260516.xlsx\",\n  \"copy_sheet_counts\": {\n    \"COPY_Action_Summary\": 436,\n    \"COPY_Fast_Regimen_Master\": 282,\n    \"COPY_Complaint_Index\": 750,\n    \"COPY_Peds_Dose_Shortcuts\": 30,\n    \"COPY_Drug_Master_Lookup\": 289,\n    \"COPY_Drug_Rules\": 775,\n    \"COPY_Manual_Review\": 400,\n    \"COPY_Guideline_Dose_Ref\": 14,\n    \"COPY_Evidence_Map\": 11\n  },\n  \"raw_audit_sheets\": [],\n  \"skipped_rows\": 1623,\n  \"duplicate_groups\": 0,\n  \"disease_key_count\": 417,\n  \"active_rows\": 0,\n  \"manual_review_required_rows\": 351,\n  \"blocked_non_drug_rows\": 59,\n  \"not_in_workbook_rows\": 39,\n  \"bds_review_rows\": 62,\n  \"regimen_count\": 282,\n  \"complaint_count\": 750,\n  \"manual_review_count\": 400,\n  \"runtime_regimen_count\": 57,\n  \"runtime_complaint_count\": 131,\n  \"runtime_pruned_regimen_count\": 225,\n  \"runtime_pruned_complaint_count\": 619\n}",
+      "stderr": ""
+    },
+    {
       "step": "scripts/clinical_regimen_audit.py",
       "returncode": 0,
-      "stdout": "clinical_regimen_audit: issues=253 blockers=9",
+      "stdout": "clinical_regimen_audit: issues=315 blockers=10",
       "stderr": ""
     },
     {
@@ -83,13 +89,13 @@
     {
       "step": "scripts/antibiotic_rdu_audit.py",
       "returncode": 0,
-      "stdout": "antibiotic_rdu_audit: issues=48 gaps=95",
+      "stdout": "antibiotic_rdu_audit: issues=62 gaps=95",
       "stderr": ""
     },
     {
       "step": "scripts/regimen_safety_validate.py",
       "returncode": 0,
-      "stdout": "regimen_safety_validate: regimens=133 blocked=2",
+      "stdout": "regimen_safety_validate: regimens=190 blocked=2",
       "stderr": ""
     },
     {
@@ -113,7 +119,7 @@
     {
       "step": "scripts/build_frontend_seed.py",
       "returncode": 0,
-      "stdout": "built frontend seed: drugs=910 source_coverage=0.0 manual_review=463",
+      "stdout": "built frontend seed: drugs=910 source_coverage=0.0 manual_review=893",
       "stderr": ""
     },
     {
@@ -167,10 +173,13 @@
     "data/meta/build_manifest.json",
     "data/meta/clinical_regimen_quality_issues.json",
     "data/meta/correction_overlay_applied.json",
+    "data/meta/guideline_patch_manual_review_queue.json",
+    "data/meta/guideline_patch_runtime_summary.json",
     "data/meta/manual_review_queue.json",
     "data/meta/workbook_quality_issues.json",
     "data/overrides/product_corrections.json",
     "data/overrides/regimen_corrections.json",
+    "data/pediatric/imported_guideline_peds_shortcuts.json",
     "data/pediatric/pediatric_age_gate_library.json",
     "data/pediatric/pediatric_product_age_indication_library_review.json",
     "data/pediatric/pediatric_product_age_indication_library_review_pretty.json",
