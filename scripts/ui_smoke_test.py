@@ -91,7 +91,7 @@ def run_smoke(browser_name: str) -> None:
 
             smoke_main_builder(page)
 
-            for tab in ["compare", "validation", "admin", "rules", "release"]:
+            for tab in ["catalog", "peds", "validation", "admin", "rules", "release"]:
                 page.click(f'[data-tab="{tab}"]')
 
             page.click('[data-tab="validation"]')
