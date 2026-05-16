@@ -117,21 +117,15 @@ def test_main_builder_swap_action_contract_is_present():
     assert "not a therapeutic Drug SWAP" in source
 
 
-def test_functional_ui_cleanup_contracts_are_present():
+def test_retain_design_behavior_fixes_are_present():
     source = html()
     for token in [
-        "Universal command search",
-        "openProfileManager",
-        "localUserSave",
-        "Quick drug selected",
-        "mainIngredientKeys",
-        "Duplicate ingredient cleaner",
-        "saveMainDraft",
-        "visualPreviewMain",
-        "pedsPillMode",
-        "data-peds-form",
-        "Catalog + inventory",
-        "dashboardReportText",
+        "retainDesignSaveMainDraft",
+        "retainDesignPreviewMain",
+        "retainDesignIngredientKeys",
+        "retainDesignQuickCurrentDrugs",
+        "retainDesignDashboardReport",
+        "retainDesignSmartAddsOriginal",
     ]:
         assert token in source
 
