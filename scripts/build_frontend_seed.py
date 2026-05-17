@@ -113,7 +113,7 @@ def build() -> dict[str, object]:
     product_by_id = {drug["i"]: drug for drug in output["dr"]}
     base_complaints = [row for row in seed.get("cp") or [] if row.get("src") != "guideline_patch_20260516"]
     output["cp"] = merge_runtime_overlay_complaints(annotate_runtime_complaints(base_complaints, product_by_id))
-    output["pd"] = []
+    output["pd"] = build_pediatric_templates(peds.get("items", []), product_by_id)
     output["cg"] = []
     output["m"] = {
         **(seed.get("m") or {}),
@@ -122,7 +122,7 @@ def build() -> dict[str, object]:
         "build_version": f"runtime-{now_iso()}",
         "generated_at": now_iso(),
         "drugCount": len(products),
-        "pedsCount": 0,
+        "pedsCount": len(output["pd"]),
         "pricedDrugCount": 0,
         "classCompareCount": 0,
         "manual_review_count": len(manual_queue.get("items", [])) + len(source_gaps.get("items", [])) + len(peds.get("items", [])) + len(guideline_patch_manual.get("items", [])) + len(guideline_patch_peds.get("items", [])),
@@ -177,6 +177,71 @@ def inject_runtime_seed(output: dict[str, object]) -> None:
     if count != 1:
         raise RuntimeError("seed script block not found in index.html")
     index.write_text(next_text, encoding="utf-8")
+
+
+def pediatric_template_row(product_id: str, product: dict[str, object], *, row_id: str = "", order: str = "", frequency: str = "", duration: str = "", dispense: str = "", note: str = "") -> dict[str, object]:
+    return {
+        "i": row_id or product_id,
+        "b": product_id,
+        "n": product.get("n") or product_id,
+        "o": order,
+        "f": frequency,
+        "u": duration,
+        "p": dispense,
+        "cv": note,
+    }
+
+
+def build_pediatric_templates(peds_items: list[dict[str, object]], product_by_id: dict[str, dict[str, object]]) -> list[dict[str, object]]:
+    """Build manual-review pediatric template groups without inventing dose instructions."""
+    templates: dict[str, dict[str, object]] = {}
+
+    def add(template_id: str, name: str, product_id: str, *, order: str = "", frequency: str = "", duration: str = "", dispense: str = "", note: str = "") -> None:
+        product = product_by_id.get(product_id)
+        if not product:
+            return
+        template = templates.setdefault(template_id, {"d": template_id, "n": name, "r": []})
+        rows = template["r"]
+        if not isinstance(rows, list) or any(row.get("b") == product_id and row.get("o") == order for row in rows):
+            return
+        rows.append(pediatric_template_row(product_id, product, row_id=f"{template_id}_{len(rows) + 1}", order=order, frequency=frequency, duration=duration, dispense=dispense, note=note))
+        template["c"] = len(rows)
+
+    for item in peds_items:
+        product_id = str(item.get("product_id") or "")
+        if not product_id:
+            continue
+        generic = str(item.get("generic_key") or "").lower()
+        form = str(item.get("form") or "").lower()
+        reasons = "; ".join(str(reason) for reason in item.get("review_reasons") or [])
+        if any(key in generic for key in ["paracetamol", "ibuprofen"]):
+            add("peds_pain_fever_manual_review", "Pain / fever manual-review candidates", product_id, note=reasons)
+        if any(key in generic for key in ["cetirizine", "loratadine", "chlorpheniramine", "desloratadine", "fexofenadine"]):
+            add("peds_allergy_manual_review", "Allergy manual-review candidates", product_id, note=reasons)
+        if any(key in generic for key in ["salbutamol", "montelukast", "bromhexine", "dextromethorphan"]):
+            add("peds_respiratory_manual_review", "Respiratory manual-review candidates", product_id, note=reasons)
+        if any(key in generic for key in ["simethicone", "racecadotril", "domperidone", "nystatin"]):
+            add("peds_gi_manual_review", "GI manual-review candidates", product_id, note=reasons)
+        if any(key in form for key in ["syrup", "suspension", "drops", "powder"]):
+            add("peds_liquid_and_child_forms_review", "Liquid / child-form manual-review candidates", product_id, note=reasons)
+
+    shortcut_rows = read_json("data/imported_guideline_patch/peds_dose_shortcuts_patch.json", {"items": []}).get("items", [])
+    for row in shortcut_rows:
+        bds = str(row.get("BDS") or "")
+        if not bds.startswith("BDS") or str(row.get("Enabled") or "").upper() != "Y":
+            continue
+        dose_value = str(row.get("Dose_Value") or "")
+        if dose_value.upper() in {"AVOID", "N/A"}:
+            continue
+        note = "; ".join(part for part in [str(row.get("Dose_Basis") or ""), str(row.get("Age_or_Weight_Note") or ""), str(row.get("Source_Anchor") or "")] if part)
+        add(
+            str(row.get("Disease_Key") or "pediatric_guideline_shortcuts_review"),
+            str(row.get("Disease_Key") or "Pediatric guideline shortcuts review").replace("_", " ").title(),
+            bds,
+            note=f"Manual review shortcut: {note}",
+        )
+
+    return sorted(templates.values(), key=lambda item: str(item.get("n") or ""))
 
 
 def annotate_runtime_complaints(complaints: list[dict[str, object]], product_by_id: dict[str, dict[str, object]]) -> list[dict[str, object]]:

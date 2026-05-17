@@ -35,3 +35,13 @@ def test_peds_page_static_contract_still_renders_products_and_gaps():
     assert 'id="pedsLibrary"' in html
     seed = load("data/core/app_seed_runtime.json")
     assert seed["m"]["pediatric_source_gap_count"] == 93
+
+
+def test_peds_templates_are_generated_without_auto_dose_unlock():
+    seed = load("data/core/app_seed_runtime.json")
+    templates = seed["pd"]
+    assert templates
+    assert seed["m"]["pedsCount"] == len(templates)
+    assert sum(len(template.get("r", [])) for template in templates) > 0
+    peds_outputs = load("data/pediatric/peds_product_dose_output.json")["items"]
+    assert all(item["auto_dose_enabled"] is False for item in peds_outputs)
