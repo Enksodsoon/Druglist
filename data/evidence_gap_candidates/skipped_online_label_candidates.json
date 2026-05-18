@@ -1,0 +1,2307 @@
+{
+  "meta": {
+    "generated_at": "2026-05-18T03:53:14Z",
+    "source": "DailyMed official drug label",
+    "scope": "all",
+    "total_catalog_products": 910,
+    "product_targets": 910,
+    "generic_queries": 417,
+    "candidate_count": 471,
+    "products_with_candidates": 471,
+    "target_products_without_candidates": 439,
+    "otc_candidate_count": 423,
+    "pediatric_candidate_count": 48,
+    "skipped_count": 439,
+    "status_counts": {
+      "source_matched_candidate": 369,
+      "blocked_missing_required_safety_field": 102
+    },
+    "category_counts": {
+      "ยาช่วยย่อยอาหาร": 5,
+      "ยาอมแก้เจ็บคอ": 17,
+      "ยาอมแก้เจ็บคอ (D)": 4,
+      "ยาบรรเทาริดสีดวง, เส้นเลือดขอด (D)": 7,
+      "eye_ear": 56,
+      "allergy_respiratory": 119,
+      "cough_cold": 48,
+      "ยาดูดซับสารพิษ": 4,
+      "ยาต้านเชื้อไวรัส (D)": 8,
+      "antibiotic": 93,
+      "เจลและครีมรักษาอาการฟกช้ำ": 2,
+      "gastrointestinal": 35,
+      "ยาฆ่าพยาธิ (D)": 3,
+      "ยาฆ่าพยาธิ ชนิดน้ำ (D)": 2,
+      "ยารักษาเกาต์ (D)": 7,
+      "ยาขับลม (D)": 3,
+      "ยาทั่วไปอื่นๆ (D)": 3,
+      "ยาลดความดันโลหิต (D)": 43,
+      "ยาป้องกันการแข็งตัวของเลือด (D)": 3,
+      "ยาลดไขมันในเลือด (D)": 18,
+      "ยาคลายกล้ามเนื้อ (D)": 14,
+      "ยาพ่นคอ (D)": 1,
+      "ยาทาแผลไฟไหม้, น้ำร้อนลวก": 2,
+      "ยาปรับการไหลเวียนโลหิต (D)": 12,
+      "ยาทาฆ่าเชี้อรา": 15,
+      "ยาระบาย": 12,
+      "ยาระบาย (D)": 3,
+      "ยาพ่นและยาหยอดจมูก (D)": 7,
+      "analgesic_antipyretic": 135,
+      "ยาทาสมานแผล": 1,
+      "ยาขับลม ชนิดน้ำ": 4,
+      "น้ำยาบ้วนปาก": 5,
+      "ยาคุมกำเนิด (D)": 35,
+      "ยาลดการหลั่งกรด (D)": 13,
+      "ยาสอดช่องคลอด": 5,
+      "ยาป้องกันและรักษาข้อเสื่อม (D)": 9,
+      "ยาพ่นและยาหยอดจมูก": 10,
+      "ยาขับลม ชนิดน้ำ (D)": 1,
+      "ยาแก้เมารถ, เมาเรือ (D)": 2,
+      "ยาแก้เมารถ, เมาเรือ": 1,
+      "ยาแก้อาเจียน (D)": 8,
+      "ยาแก้อาเจียน ชนิดน้ำ (D)": 2,
+      "ยารักษาต่อมลูกหมากโต (D)": 4,
+      "ยาล้างแผล": 2,
+      "ยารักษาอาการผมร่วง (D)": 1,
+      "ยาต้านเชื้อรา (D)": 6,
+      "ยาขับปัสสาวะและลดความดัน (D)": 6,
+      "ยาทาฆ่าเชี้อแบคทีเรีย": 6,
+      "ยากันชัก (D)": 9,
+      "ยารักษาเบาหวาน (D)": 19,
+      "ผงเกลือแร่": 1,
+      "ยาสวนและยาเหน็บช่วยระบาย": 7,
+      "ยาทาและยาเหน็บริดสีดวงทวาร (D)": 4,
+      "ยาพ่นขยายหลอดลม (D)": 4,
+      "ยารักษาไทรอยด์ (D)": 4,
+      "ยาทาแผลในปาก (D)": 5,
+      "ยาหยุดถ่าย (D)": 2,
+      "ยาลดบวม (D)": 2,
+      "ยาฆ่าพยาธิ": 3,
+      "ยาสอดช่องคลอด (D)": 3,
+      "เจลและครีมรักษาเส้นเลือดขอด": 4,
+      "ยาเฉพาะทางอื่นๆ (D)": 3,
+      "ยาขับลม": 5,
+      "ยาใส่แผล": 5,
+      "ยาพ่นคอ": 4,
+      "ยาขยายหลอดลม (D)": 5,
+      "ยาขยายหลอดลม ชนิดน้ำ (D)": 4,
+      "ยาขับลม (OTC)": 5,
+      "น้ำเกลือ": 8,
+      "dermatology": 2
+    },
+    "skipped_reason_counts": {
+      "no_dailymed_label_found": 439
+    },
+    "field_presence_counts": {
+      "has_indication_text": 469,
+      "has_dosage_text": 471,
+      "has_warning_text": 464,
+      "has_contraindication_text": 365,
+      "has_pediatric_age_terms": 255,
+      "has_pediatric_weight_terms": 103,
+      "has_frequency_terms": 335,
+      "has_strength_terms": 217,
+      "has_interaction_text": 210,
+      "has_max_dose_terms": 184,
+      "has_duration_terms": 56
+    },
+    "fast_mode_allowed_count": 0,
+    "manual_review_required_count": 471
+  },
+  "items": [
+    {
+      "product_id": "BDS003407",
+      "generic_key": "absorbable aescin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001465",
+      "generic_key": "+ lipase",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS045666",
+      "generic_key": "activated charcoal",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007719",
+      "generic_key": "acyclovir w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003551",
+      "generic_key": "2 + 4 dichlorobenzyl alcohol + amylmetacresol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003574",
+      "generic_key": "2 + 4 dichlorobenzyl alcohol + amylmetacresol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003578",
+      "generic_key": "2 + 4 dichlorobenzyl alcohol + amylmetacresol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003582",
+      "generic_key": "2 + 4 dichlorobenzyl alcohol + amylmetacresol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003583",
+      "generic_key": "2 + 4 dichlorobenzyl alcohol + amylmetacresol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003590",
+      "generic_key": "2 + 4 dichlorobenzyl alcohol + amylmetacresol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS042357",
+      "generic_key": "2 + 4 dichlorobenzyl alcohol + amylmetacresol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044922",
+      "generic_key": "2 + 4 ไดคลอโรเบนซิล แอลกอฮอล์ 1.2 มก + เอมิลเมเทครีซอล 0.6 มก",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003580",
+      "generic_key": "2 + 4 dichlorobenzyl alcohol + amylmetacresol + lidocain",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003772",
+      "generic_key": "2 + 4 dichlorobenzyl alcohol + amylmetacresol + lignocaine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS042358",
+      "generic_key": "2 + 4 dichlorobenzyl alcohol + amylmetacresol + vit.c",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003555",
+      "generic_key": "2 + 4 dichlorobenzyl alcohol + amylmetacresol + vitamin c",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003556",
+      "generic_key": "2 + 4 dichlorobenzyl alcohol + amylmetacresol + vitamin c",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040014",
+      "generic_key": "acerola cherry extract + rosehips extract + cranberry extract + ascorbic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003662",
+      "generic_key": "2 + 4 ไดคลอโรเบนซิล แอลกอฮอล์ 1.2 มก + เอมิลเมแทครีซอล 0.6 มก + ลิกโนเคน ไฮโดรคลอไรด์ 10.0 มก",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003408",
+      "generic_key": "aescin + diethylamine salicylate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003439",
+      "generic_key": "aescin + diethylamine salicylate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001029",
+      "generic_key": "al 3 + mg 2",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002639",
+      "generic_key": "ambroxol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002643",
+      "generic_key": "ambroxol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002654",
+      "generic_key": "ambroxol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002655",
+      "generic_key": "ambroxol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002691",
+      "generic_key": "ambroxol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003591",
+      "generic_key": "ambroxol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003641",
+      "generic_key": "ambroxol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003642",
+      "generic_key": "ambroxol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007196",
+      "generic_key": "ambroxol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007601",
+      "generic_key": "ambroxol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007742",
+      "generic_key": "ambroxol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002014",
+      "generic_key": "alginate + bicarbonate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040030",
+      "generic_key": "amitriptyline",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002011",
+      "generic_key": "alginate + bicarbonate + carbonate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002012",
+      "generic_key": "alginate + bicarbonate + carbonate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002013",
+      "generic_key": "alginate + bicarbonate + carbonate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002015",
+      "generic_key": "alginate + bicarbonate + carbonate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002033",
+      "generic_key": "alginate + bicarbonate + carbonate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS043606",
+      "generic_key": "alginate + bicarbonate + carbonate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001036",
+      "generic_key": "alginic acid + aluminium hydroxide gel + magnesium carbonate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040007",
+      "generic_key": "amlodipine besilate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040008",
+      "generic_key": "amlodipine besilate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001042",
+      "generic_key": "aluminium hydroxide + magnesium hydroxide + dimethylpolysiloxane",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001095",
+      "generic_key": "aluminium hydroxide + magnesium hydroxide + dimethylpolysiloxane",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040017",
+      "generic_key": "amoxicillin trihydrate + clavulanic potassium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001052",
+      "generic_key": "antazoline + tetrahydrozoline",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003029",
+      "generic_key": "antazoline + tetrahydrozoline",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002801",
+      "generic_key": "beta sitosterol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003510",
+      "generic_key": "betahistine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS006571",
+      "generic_key": "betahistine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007272",
+      "generic_key": "betahistine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007022",
+      "generic_key": "betahistine mesylate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002621",
+      "generic_key": "betahistine mesilate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002688",
+      "generic_key": "betahistine mesilate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001216",
+      "generic_key": "betamethasone 17 valerate w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001246",
+      "generic_key": "betamethasone 17 valerate w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040035",
+      "generic_key": "antazoline + tetrahydrozoline + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003013",
+      "generic_key": "antazoline + tetrahydrozoline + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007501",
+      "generic_key": "betamethasone valerate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007502",
+      "generic_key": "betamethasone valerate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001308",
+      "generic_key": "ascorbic acid + ascorbate + ascorbate + bioflavonoids",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001309",
+      "generic_key": "ascorbic acid + ascorbate + ascorbate + bioflavonoids",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002117",
+      "generic_key": "antazoline + tetrahydrozoline + hydroxypropyl methylcellulose + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS041408",
+      "generic_key": "betamethasone valerate betamethasone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS041433",
+      "generic_key": "bifonazole",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040630",
+      "generic_key": "bilastine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001250",
+      "generic_key": "betamethasone 17 valerate w/w + neomycin sulphate w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001699",
+      "generic_key": "betamethasone dipropionate + propylene glycol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001546",
+      "generic_key": "betamethasone dipropionate + salicylic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001650",
+      "generic_key": "betamethasone dipropionate + salicylic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS006023",
+      "generic_key": "betamethasone dipropionate + salicylic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002010",
+      "generic_key": "bismuth subsalicylate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002030",
+      "generic_key": "bismuth subsalicylate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001236",
+      "generic_key": "betamethasone valerate + gentamicin sulfate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001453",
+      "generic_key": "bisoprolol fumarate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001454",
+      "generic_key": "bisoprolol fumarate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001253",
+      "generic_key": "bromhexine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001255",
+      "generic_key": "bromhexine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007031",
+      "generic_key": "bromhexine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040631",
+      "generic_key": "bromhexine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007505",
+      "generic_key": "betamethasone valerate + neomycin sulphate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007506",
+      "generic_key": "betamethasone valerate + neomycin sulphate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS047683",
+      "generic_key": "bicarbonate + peppermint oil",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS006036",
+      "generic_key": "butamirate citrate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001275",
+      "generic_key": "candesartan cilexetil",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040634",
+      "generic_key": "candesartan cilexetil",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001495",
+      "generic_key": "carbocysteine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001919",
+      "generic_key": "carbocysteine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001920",
+      "generic_key": "carbocysteine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001937",
+      "generic_key": "carbocysteine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003694",
+      "generic_key": "carbocysteine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003697",
+      "generic_key": "carbocysteine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003782",
+      "generic_key": "carbocysteine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007033",
+      "generic_key": "carbocysteine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008141",
+      "generic_key": "carbocysteine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS041506",
+      "generic_key": "carbocysteine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001257",
+      "generic_key": "bromhexine + k guaiacolsulphonate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001296",
+      "generic_key": "bromhexine + k guaiacolsulphonate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS046208",
+      "generic_key": "boric acid + borate + zinc sulphate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003009",
+      "generic_key": "borate + boric acid + chloride + benzalkonium chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003025",
+      "generic_key": "borate + boric acid + chloride + benzalkonium chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002692",
+      "generic_key": "cefditoren",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002693",
+      "generic_key": "cefditoren",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003765",
+      "generic_key": "carboxymethyl cellulose w/v + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002875",
+      "generic_key": "butane + pentane + isobutane + propane",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS004212",
+      "generic_key": "cetirizine 2hci",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007038",
+      "generic_key": "cetirizine 2hcl",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008086",
+      "generic_key": "cetirizine 2hcl",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS046200",
+      "generic_key": "cetylpyridinium chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001406",
+      "generic_key": "chlorhexidine gluconate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001407",
+      "generic_key": "chlorhexidine gluconate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001409",
+      "generic_key": "chlorhexidine gluconate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003905",
+      "generic_key": "chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003906",
+      "generic_key": "chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003907",
+      "generic_key": "chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS004868",
+      "generic_key": "chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS004870",
+      "generic_key": "chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044313",
+      "generic_key": "chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044320",
+      "generic_key": "chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044321",
+      "generic_key": "chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044322",
+      "generic_key": "chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS045626",
+      "generic_key": "chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS047669",
+      "generic_key": "chloride w/v",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001008",
+      "generic_key": "chlorpheniramine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007145",
+      "generic_key": "chlorpheniramine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007271",
+      "generic_key": "chlorpheniramine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008033",
+      "generic_key": "chlorpheniramine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS041504",
+      "generic_key": "chlorpheniramine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003669",
+      "generic_key": "chlorphenoxamine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003681",
+      "generic_key": "chlorphenoxamine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003514",
+      "generic_key": "cinnarizine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007055",
+      "generic_key": "cinnarizine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002631",
+      "generic_key": "cardamon tincture + capsicum tincture + ginger tincture",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002632",
+      "generic_key": "cardamon tincture + capsicum tincture + ginger tincture",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS006198",
+      "generic_key": "clobetasol propionate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007514",
+      "generic_key": "clobetasol propionate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007515",
+      "generic_key": "clobetasol propionate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001622",
+      "generic_key": "clobetasol propionate w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001623",
+      "generic_key": "clobetasol propionate w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001630",
+      "generic_key": "clobetasol propionate w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001660",
+      "generic_key": "clobetasol propionate w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002648",
+      "generic_key": "clotrimazole w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001232",
+      "generic_key": "chlormadinone acetate + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007682",
+      "generic_key": "cloxacillin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040024",
+      "generic_key": "crystalline glucosamine sulfate potassium chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002659",
+      "generic_key": "cyclidrol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008241",
+      "generic_key": "cyproheptadine hci",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003102",
+      "generic_key": "citrate buffer + chloride + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001526",
+      "generic_key": "desogestrel",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001551",
+      "generic_key": "citrate/borate buffer + chloride + edetate disodium + peg 11 lauryl ether carboxylic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040032",
+      "generic_key": "crystalline glucosamine sulphate + chondroitin sulphate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001640",
+      "generic_key": "cyproterone acetate + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003032",
+      "generic_key": "cyproterone acetate + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003143",
+      "generic_key": "cyproterone acetate + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003699",
+      "generic_key": "cyproterone acetate + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003715",
+      "generic_key": "cyproterone acetate + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003731",
+      "generic_key": "cyproterone acetate + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008781",
+      "generic_key": "cyproterone acetate + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040601",
+      "generic_key": "cyproterone acetate + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS046511",
+      "generic_key": "cyproterone acetate + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001643",
+      "generic_key": "d norgestrel + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001644",
+      "generic_key": "d norgestrel + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002211",
+      "generic_key": "dextromethorphan hbr",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002607",
+      "generic_key": "desogestrel + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002608",
+      "generic_key": "desogestrel + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002619",
+      "generic_key": "desogestrel + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002620",
+      "generic_key": "desogestrel + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002670",
+      "generic_key": "desogestrel + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002671",
+      "generic_key": "desogestrel + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001401",
+      "generic_key": "dexamethasone 21 + neomycin sulfate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001632",
+      "generic_key": "dexamethasone phosphate + neomycin sulfate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003714",
+      "generic_key": "dextran 70 + hydroxypropyl methylcellulose 2910",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001654",
+      "generic_key": "diclofenac diethylammonium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001656",
+      "generic_key": "diclofenac diethylammonium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007035",
+      "generic_key": "diclofenac potassium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS041402",
+      "generic_key": "diclofenac potassium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003914",
+      "generic_key": "diclofenac w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008652",
+      "generic_key": "dicloxacillin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008702",
+      "generic_key": "dicloxacillin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001846",
+      "generic_key": "dimethindene",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003546",
+      "generic_key": "dioctahedral smectite",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS042304",
+      "generic_key": "dioctahedral smectite",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003777",
+      "generic_key": "dichlorobenzyl alcohol + amylmetacresol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003790",
+      "generic_key": "dichlorobenzyl alcohol + amylmetacresol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008106",
+      "generic_key": "dextromethorphan hbr + chlorpheniramine + terpine hydrate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008007",
+      "generic_key": "diphenidol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007973",
+      "generic_key": "dextromethorphan hbr + glyceryl guaiacolate + terpin hydrate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS042303",
+      "generic_key": "docusate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001712",
+      "generic_key": "docusate w/v",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002636",
+      "generic_key": "domperidone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002637",
+      "generic_key": "domperidone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS006639",
+      "generic_key": "domperidone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007106",
+      "generic_key": "domperidone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044921",
+      "generic_key": "domperidone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS046502",
+      "generic_key": "domperidone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS046503",
+      "generic_key": "domperidone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003802",
+      "generic_key": "dichlorobenzyl alcohol + amylmetacresol + vitamin c",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003775",
+      "generic_key": "dichlorobenzyl alcolhol + amylmetacresol + vitamin c",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001636",
+      "generic_key": "diastase + aluminium magnesium silicate + bicarbonate + carbonate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001429",
+      "generic_key": "doxazosin mesylate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007723",
+      "generic_key": "doxycycline hyclate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008481",
+      "generic_key": "doxylamine succinate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001444",
+      "generic_key": "diosmin + hesperidin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001602",
+      "generic_key": "diosmin + hesperidin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007765",
+      "generic_key": "diosmin + hesperidin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008452",
+      "generic_key": "diosmin + hesperidin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS042321",
+      "generic_key": "diosmin + hesperidin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007107",
+      "generic_key": "drotaverine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007303",
+      "generic_key": "drotaverine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS006840",
+      "generic_key": "eletriptan",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002701",
+      "generic_key": "eperisone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007571",
+      "generic_key": "eperisone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008121",
+      "generic_key": "erythromycin stearate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001018",
+      "generic_key": "ethyl alcohol solution v/v",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001023",
+      "generic_key": "ethyl alcohol solution v/v",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001075",
+      "generic_key": "etoricoxib",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001076",
+      "generic_key": "etoricoxib",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001078",
+      "generic_key": "etoricoxib",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040616",
+      "generic_key": "etoricoxib",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS042806",
+      "generic_key": "etoricoxib",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007274",
+      "generic_key": "flavoxate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007222",
+      "generic_key": "flunarizine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008142",
+      "generic_key": "flunarizine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS047664",
+      "generic_key": "flunarizine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS006704",
+      "generic_key": "folic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007123",
+      "generic_key": "folic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001923",
+      "generic_key": "fusidate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001991",
+      "generic_key": "fusidic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS043159",
+      "generic_key": "ferrous fumarate + folic + pyridoxine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002038",
+      "generic_key": "gentamicin sulfate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001611",
+      "generic_key": "glibenclamide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS006734",
+      "generic_key": "glibenclamide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007131",
+      "generic_key": "glibenclamide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001009",
+      "generic_key": "fluticasone furoate /spray + preservative + อื่นๆ",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001639",
+      "generic_key": "gliclazide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001847",
+      "generic_key": "fusidic acid + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007225",
+      "generic_key": "glucosamine sulfate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007739",
+      "generic_key": "glucosamine sulfate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007743",
+      "generic_key": "glucosamine sulfate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS043605",
+      "generic_key": "glucosamine sulfate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001981",
+      "generic_key": "fluorometholone acetate + monobasic phosphate + chloride + edetate disodium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001908",
+      "generic_key": "fusidic acid + betamethasone valerate + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001003",
+      "generic_key": "glucosamine sulfate chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001705",
+      "generic_key": "glucosamine sulphate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001521",
+      "generic_key": "glucosamine sulfate nacl",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001910",
+      "generic_key": "fusidic acid + hydrocortisone acetate + อื่นๆ",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001606",
+      "generic_key": "gentamicin w/v + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001097",
+      "generic_key": "gestodene + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001098",
+      "generic_key": "gestodene + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002613",
+      "generic_key": "gestodene + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002614",
+      "generic_key": "gestodene + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002695",
+      "generic_key": "gestodene + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS041401",
+      "generic_key": "gestodene + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS041443",
+      "generic_key": "gestodene + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044910",
+      "generic_key": "gestodene + ethinylestradiol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002023",
+      "generic_key": "glycerol + stearate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002032",
+      "generic_key": "glycerol + stearate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS043800",
+      "generic_key": "hyaluronate + 6 aminocaproic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001283",
+      "generic_key": "hyoscine n butylbromide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007061",
+      "generic_key": "hyoscine n butylbromide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007284",
+      "generic_key": "hyoscine n butylbromide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008325",
+      "generic_key": "hyoscine n butylbromide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS006745",
+      "generic_key": "hydrocortisone acetate + mepyramine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008282",
+      "generic_key": "glucose anhydrous + chloride + potassium chloride + citrate dihydrate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS043847",
+      "generic_key": "hyaluronate hyaluronate + chloride + potassium chloride + trisodium citrate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS004035",
+      "generic_key": "hyaluronate hyaluronate + chloride + potassium chloride + disodium hydrogenphosphate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003162",
+      "generic_key": "hydrocortisone micronized + cinchocaine /1 suppository",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS045617",
+      "generic_key": "hypromellose w/v",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003117",
+      "generic_key": "i menthol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001605",
+      "generic_key": "hydrocortisone acetate + zinc oxide + benzocaine /1 suppository",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001102",
+      "generic_key": "imiquimod w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002886",
+      "generic_key": "hydroxypropyl methylcellulose + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003014",
+      "generic_key": "hydroxypropyl methylcellulose + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002697",
+      "generic_key": "ispaghula husk",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002699",
+      "generic_key": "ispaghula husk",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003505",
+      "generic_key": "ispaghula husk",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002048",
+      "generic_key": "itopride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS042329",
+      "generic_key": "itopride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007691",
+      "generic_key": "ketotifen",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS006259",
+      "generic_key": "lercanidipine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001235",
+      "generic_key": "ipratropium bromide monohydrate ipratropium bromide anhydrous 20 ug + fenoterol hydrobromide /dose",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS004130",
+      "generic_key": "levocetirizine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044553",
+      "generic_key": "levocetirizine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002290",
+      "generic_key": "levodropropizine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS042823",
+      "generic_key": "levothyroxine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS042824",
+      "generic_key": "levothyroxine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040000",
+      "generic_key": "ipratropium bromide monohydrate ipratropium bromide anhydrous 20 ug + fenoterol hydrobromide 50 ug./dose",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008703",
+      "generic_key": "loperamide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002214",
+      "generic_key": "loperamide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002522",
+      "generic_key": "losartan potassium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002549",
+      "generic_key": "losartan potassium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003703",
+      "generic_key": "losartan potassium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS006044",
+      "generic_key": "losartan potassium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044532",
+      "generic_key": "losartan potassium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044546",
+      "generic_key": "losartan potassium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS048635",
+      "generic_key": "losartan potassium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044250",
+      "generic_key": "loxoprofen",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001233",
+      "generic_key": "lyophilized saccharomyces boulardii",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001248",
+      "generic_key": "lyophilized saccharomyces boulardii",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001830",
+      "generic_key": "lynestrenol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007181",
+      "generic_key": "lysozyme chloride",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008461",
+      "generic_key": "magnesium hydroxide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002625",
+      "generic_key": "mecobalamin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002687",
+      "generic_key": "mecobalamin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002638",
+      "generic_key": "manidipine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003146",
+      "generic_key": "manidipine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044317",
+      "generic_key": "manidipine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001484",
+      "generic_key": "mebeverine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001707",
+      "generic_key": "mebeverine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007122",
+      "generic_key": "medicinal charcoal",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003131",
+      "generic_key": "mefenamic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044900",
+      "generic_key": "mefenamic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044909",
+      "generic_key": "mefenamic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001031",
+      "generic_key": "l menthol + dl campher + methyl salicylate + vanillylamide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001032",
+      "generic_key": "l menthol + dl campher + methyl salicylate + vanillylamide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002021",
+      "generic_key": "metformin hci",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001415",
+      "generic_key": "metoprolol tartrate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001842",
+      "generic_key": "macrogol 4000 + saccharin + orange grapefruit flavour",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002224",
+      "generic_key": "mamylase + thiamine mononitrate + diastase + scopolia extract",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002681",
+      "generic_key": "mamylase + thiamine mononitrate + diastase + scopolia extract",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001803",
+      "generic_key": "mometasone furoate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001807",
+      "generic_key": "mometasone furoate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS041454",
+      "generic_key": "micronized loratadine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS041499",
+      "generic_key": "micronized loratadine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS047636",
+      "generic_key": "micronized silver sulfadiazine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS006250",
+      "generic_key": "mosapride citrate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002110",
+      "generic_key": "mucopolysaccharide polysulphate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002113",
+      "generic_key": "mucopolysaccharide polysulphate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002121",
+      "generic_key": "mucopolysaccharide polysulphate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002130",
+      "generic_key": "mucopolysaccharide polysulphate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008231",
+      "generic_key": "mupirocin w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002538",
+      "generic_key": "miconazole nitrate + triamcinolone acetonide w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008221",
+      "generic_key": "miconazole nitrate + triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003651",
+      "generic_key": "nicergoline",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003652",
+      "generic_key": "nicergoline",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS042802",
+      "generic_key": "nifuroxazide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001607",
+      "generic_key": "mometasone furoate + isopropyl alcohol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007311",
+      "generic_key": "norfloxacin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007591",
+      "generic_key": "norfloxacin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007751",
+      "generic_key": "norfloxacin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS009086",
+      "generic_key": "norfloxacin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002805",
+      "generic_key": "mometasone furoate monohydrate + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002807",
+      "generic_key": "mometasone furoate monohydrate + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS045631",
+      "generic_key": "nystatin 100",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS045641",
+      "generic_key": "naphazoline + chlorpheniramine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002104",
+      "generic_key": "niclosamide + phenolphthalein",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001858",
+      "generic_key": "norelgestromin + ethinylestradiol /1 patch",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002804",
+      "generic_key": "naphazoline + pheniramine + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003181",
+      "generic_key": "neomycin sulfate + polymyxin b sulfate + gramicidin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS046553",
+      "generic_key": "pemirolast potassium",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002034",
+      "generic_key": "nystatin 100 + di iodohydroxyquin + benzalkonium cl",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001280",
+      "generic_key": "povidone iodine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040609",
+      "generic_key": "povidone iodine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040610",
+      "generic_key": "povidone iodine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040617",
+      "generic_key": "povidone iodine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS046547",
+      "generic_key": "povidone iodine iodine",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001678",
+      "generic_key": "nystatin 100 + s + neomycin sulphate + gramicidin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001238",
+      "generic_key": "povidone iodine w/v",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001239",
+      "generic_key": "povidone iodine w/v",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044106",
+      "generic_key": "povidone iodine w/v",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS044520",
+      "generic_key": "povidone iodine w/v",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001621",
+      "generic_key": "prednicarbate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003721",
+      "generic_key": "oxytetracycline + polymyxin b sulfate 10 + s",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008682",
+      "generic_key": "peppermint oil + spearmint oil",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002616",
+      "generic_key": "procaterol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002617",
+      "generic_key": "procaterol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002618",
+      "generic_key": "procaterol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS047441",
+      "generic_key": "rabeprazole sandoz",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002108",
+      "generic_key": "racecadotril",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS043842",
+      "generic_key": "racecadotril",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003417",
+      "generic_key": "rebamipide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS004039",
+      "generic_key": "pinene + camphene + cineol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003423",
+      "generic_key": "roxithromycin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003428",
+      "generic_key": "roxithromycin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007066",
+      "generic_key": "roxithromycin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007976",
+      "generic_key": "roxithromycin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003589",
+      "generic_key": "salbutamol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003645",
+      "generic_key": "salbutamol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008607",
+      "generic_key": "salbutamol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001033",
+      "generic_key": "salbutamol sulphate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS004009",
+      "generic_key": "salbutamol sulphate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003611",
+      "generic_key": "sennoside",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003613",
+      "generic_key": "sennoside b",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003679",
+      "generic_key": "polyethylene glycol 400 + propylene glycol + aminomethylpropanol + boric acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS047637",
+      "generic_key": "polyethylene glycol 400 + propylene glycol + aminomethylpropanol + boric acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS049779",
+      "generic_key": "sertaconazole",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS046509",
+      "generic_key": "proctase + pancreatin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS048649",
+      "generic_key": "spike lavender oil",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003565",
+      "generic_key": "sucralfate gel",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001468",
+      "generic_key": "salicylic acid + liquified phenol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS047646",
+      "generic_key": "sumatriptan succinate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003708",
+      "generic_key": "terbutaline sulfate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS004205",
+      "generic_key": "salicylic acid + resorcinol + phenylic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001271",
+      "generic_key": "tolperisone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002652",
+      "generic_key": "tolperisone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003410",
+      "generic_key": "tolperisone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003571",
+      "generic_key": "tolperisone",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS047738",
+      "generic_key": "salicylic acid + titanium dioxide + liquid paraffin + polyvinyl alkyl ethers",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008766",
+      "generic_key": "sulcain + magcerin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003739",
+      "generic_key": "tramadol",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007960",
+      "generic_key": "tranexamic acid",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001057",
+      "generic_key": "triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003719",
+      "generic_key": "triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003750",
+      "generic_key": "triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003751",
+      "generic_key": "triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003773",
+      "generic_key": "triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003780",
+      "generic_key": "triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007547",
+      "generic_key": "triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007548",
+      "generic_key": "triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007549",
+      "generic_key": "triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007551",
+      "generic_key": "triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007775",
+      "generic_key": "triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007776",
+      "generic_key": "triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS048630",
+      "generic_key": "triamcinolone acetonide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001458",
+      "generic_key": "terbutaline sulfate + glyceryl guaiacolate",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003799",
+      "generic_key": "triamcinolone acetonide w/v",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008756",
+      "generic_key": "triamcinolone acetonide w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008757",
+      "generic_key": "triamcinolone acetonide w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008758",
+      "generic_key": "triamcinolone acetonide w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008759",
+      "generic_key": "triamcinolone acetonide w/w",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS043612",
+      "generic_key": "vildagliptin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS041434",
+      "generic_key": "vit.c",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003019",
+      "generic_key": "xylometazoline",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003105",
+      "generic_key": "xylometazoline",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040080",
+      "generic_key": "xylometazoline",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001058",
+      "generic_key": "triamcinolone acetonide + preservative",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002806",
+      "generic_key": "zinc oxide",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS008321",
+      "generic_key": "vitamin c +",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS001007",
+      "generic_key": "วุ้นจากว่านหางจระเข้",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS046527",
+      "generic_key": "น้ำมันไพล",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002874",
+      "generic_key": "triamcinolone acetonide + preservative + อื่นๆ",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS004007",
+      "generic_key": "vit.b1 + vit.b6 + vit.b12",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS040622",
+      "generic_key": "vitamin c + bioflavonoids + hesperidin",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS003027",
+      "generic_key": "vit.a 5 + vit.d + vit.e + vit. c",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS002411",
+      "generic_key": "ดอกหญ้าหอม + เพเพอร์มิ้นต์ + เซจ ออยล์ + เทียนสัตบุษย์",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS007967",
+      "generic_key": "เปล้าน้อย + สมุลแว้ง + ขมิ้นชัน + กานพลู",
+      "reason": "no_dailymed_label_found"
+    },
+    {
+      "product_id": "BDS068420",
+      "generic_key": "โง้วปวยจี้ + ชะเอมเทศ + รากบัวหลวง + เฮ้งยิ้ง",
+      "reason": "no_dailymed_label_found"
+    }
+  ]
+}
