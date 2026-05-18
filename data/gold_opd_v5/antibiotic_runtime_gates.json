@@ -1,0 +1,173 @@
+{
+  "items": [
+    {
+      "abx_gate_id": "ABX_URI",
+      "disease_pattern": "viral_uri|common_cold|acute_bronchitis|post_viral_cough",
+      "allowed_groups": "NONE",
+      "first_line_logic": "symptomatic care only",
+      "alternative_logic": "none",
+      "block_when": "no bacterial criteria",
+      "duration_logic": "no antibiotic",
+      "source_ids": "CDC_ADULT_ABX;CDC_PED_ABX",
+      "citation_urls": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html; https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html",
+      "runtime_action": "block_abx"
+    },
+    {
+      "abx_gate_id": "ABX_SINUSITIS",
+      "disease_pattern": "bacterial_sinusitis|acute_bacterial_sinusitis",
+      "allowed_groups": "AMOX_CLAV_ORAL;AMOXICILLIN_ORAL",
+      "first_line_logic": "amoxicillin/clavulanate first-line when criteria met",
+      "alternative_logic": "macrolide only if appropriate allergy/local resistance policy",
+      "block_when": "viral/non-severe early symptoms",
+      "duration_logic": "5–7 days adult; pediatric per guideline",
+      "source_ids": "CDC_ADULT_ABX;CDC_PED_ABX",
+      "citation_urls": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html; https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html",
+      "runtime_action": "allow_if_gate"
+    },
+    {
+      "abx_gate_id": "ABX_PHARYNGITIS",
+      "disease_pattern": "bacterial_pharyngitis|tonsillitis",
+      "allowed_groups": "AMOXICILLIN_ORAL",
+      "first_line_logic": "penicillin/amoxicillin when GAS confirmed/likely by test criteria",
+      "alternative_logic": "macrolide if penicillin allergy",
+      "block_when": "viral sore throat/no testing criteria",
+      "duration_logic": "usually 10 days for beta-lactam; per guideline",
+      "source_ids": "CDC_ADULT_ABX;CDC_PED_ABX",
+      "citation_urls": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html; https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html",
+      "runtime_action": "allow_if_gate"
+    },
+    {
+      "abx_gate_id": "ABX_AOM",
+      "disease_pattern": "acute_otitis_media",
+      "allowed_groups": "AMOXICILLIN_ORAL;AMOX_CLAV_ORAL",
+      "first_line_logic": "amoxicillin first-line if treatment indicated",
+      "alternative_logic": "amox-clav if selected criteria",
+      "block_when": "watchful waiting eligible/non-severe",
+      "duration_logic": "per pediatric guideline",
+      "source_ids": "CDC_PED_ABX",
+      "citation_urls": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html",
+      "runtime_action": "allow_if_gate"
+    },
+    {
+      "abx_gate_id": "ABX_CONJ",
+      "disease_pattern": "bacterial_conjunctivitis",
+      "allowed_groups": "ANTIBIOTIC_EYE_DROPS",
+      "first_line_logic": "topical antibiotic only when bacterial pattern/need",
+      "alternative_logic": "none",
+      "block_when": "viral/allergic conjunctivitis",
+      "duration_logic": "5–7 days common label-dependent",
+      "source_ids": "AAO_CONJUNCTIVITIS",
+      "citation_urls": "https://www.aao.org/education/preferred-practice-pattern/conjunctivitis-ppp-2023",
+      "runtime_action": "allow_if_gate"
+    },
+    {
+      "abx_gate_id": "ABX_UTI",
+      "disease_pattern": "uti|cystitis|dysuria|frequency_urgency",
+      "allowed_groups": "NITROFURANTOIN_ORAL;CEPHALEXIN_ORAL;FLUOROQUINOLONE_ORAL",
+      "first_line_logic": "nitrofurantoin if lower UTI and renal OK",
+      "alternative_logic": "fluoroquinolone reserve",
+      "block_when": "pyelo/systemic/pregnant/male/complicated without eval",
+      "duration_logic": "3–7 days depending population/drug",
+      "source_ids": "NICE_UTI",
+      "citation_urls": "https://www.nice.org.uk/guidance/ng109/chapter/recommendations",
+      "runtime_action": "allow_if_gate"
+    },
+    {
+      "abx_gate_id": "ABX_IMPETIGO",
+      "disease_pattern": "impetigo",
+      "allowed_groups": "TOPICAL_ANTIBIOTIC_SKIN;ORAL_SKIN_ABX",
+      "first_line_logic": "topical for few localized lesions",
+      "alternative_logic": "oral for multiple/widespread lesions",
+      "block_when": "noninfected dermatitis",
+      "duration_logic": "5–7 days",
+      "source_ids": "CDC_IMPETIGO",
+      "citation_urls": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/impetigo.html",
+      "runtime_action": "allow_if_gate"
+    },
+    {
+      "abx_gate_id": "ABX_CELLULITIS",
+      "disease_pattern": "cellulitis|infected_wound|infected_insect|infected_abrasion",
+      "allowed_groups": "ORAL_SKIN_ABX;AMOX_CLAV_ORAL;CEPHALEXIN_ORAL",
+      "first_line_logic": "oral antibiotic if mild cellulitis and no systemic red flags",
+      "alternative_logic": "broaden/refer if bite/abscess/systemic",
+      "block_when": "local allergic bite without infection",
+      "duration_logic": "5–7 days; reassess",
+      "source_ids": "IDSA_SKIN;CDC_IMPETIGO",
+      "citation_urls": "https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/; https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/impetigo.html",
+      "runtime_action": "allow_if_gate"
+    },
+    {
+      "abx_gate_id": "ABX_DENTAL",
+      "disease_pattern": "dental_abscess|dental_infection",
+      "allowed_groups": "AMOXICILLIN_ORAL;AMOX_CLAV_ORAL;MACROLIDE_ORAL",
+      "first_line_logic": "dental source control + antibiotic only when spreading/systemic risk",
+      "alternative_logic": "macrolide if true penicillin allergy",
+      "block_when": "simple dental pain without infection",
+      "duration_logic": "short course per local dental guidance",
+      "source_ids": "DM_LABEL",
+      "citation_urls": "https://dailymed.nlm.nih.gov/dailymed/",
+      "runtime_action": "allow_if_gate"
+    },
+    {
+      "abx_gate_id": "ABX_HP",
+      "disease_pattern": "h_pylori",
+      "allowed_groups": "PPI_ORAL;AMOXICILLIN_ORAL;MACROLIDE_ORAL",
+      "first_line_logic": "eradication regimen only after confirmed active infection/local protocol",
+      "alternative_logic": "avoid empiric without testing",
+      "block_when": "uninvestigated dyspepsia without confirmation",
+      "duration_logic": "10–14 days per regimen/source",
+      "source_ids": "NICE_GERD_DYSPEPSIA;ACG_GERD",
+      "citation_urls": "https://www.nice.org.uk/guidance/cg184/chapter/recommendations; https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/",
+      "runtime_action": "review_required"
+    },
+    {
+      "abx_gate_id": "ABX_V4_ORAL_CEPH_3RD",
+      "disease_pattern": "bacterial_sinusitis_alt|aom_alt|selected_bacterial_ent",
+      "allowed_groups": "ORAL_CEPHALOSPORIN_3RD",
+      "first_line_logic": "not first-line default; use only if local guideline/allergy/diagnosis supports",
+      "alternative_logic": "doctor-confirm alternative after bacterial criteria",
+      "block_when": "viral URI, non-bacterial sore throat, nonspecific cough",
+      "duration_logic": "per disease guideline/label",
+      "source_ids": "CDC_ADULT_ABX;CDC_PED_ABX;DM_LABEL",
+      "citation_urls": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html; https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html; https://dailymed.nlm.nih.gov/dailymed/",
+      "runtime_action": "allow_if_gate"
+    },
+    {
+      "abx_gate_id": "ABX_V4_TETRACYCLINE",
+      "disease_pattern": "selected_bacterial_skin|atypical_resp|acne_review",
+      "allowed_groups": "TETRACYCLINE_ORAL",
+      "first_line_logic": "restricted alternative only",
+      "alternative_logic": "avoid pregnancy/young child; clinician diagnosis required",
+      "block_when": "viral URI, pregnancy, child without accepted indication",
+      "duration_logic": "per disease guideline/label",
+      "source_ids": "CDC_ADULT_ABX;DM_LABEL",
+      "citation_urls": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html; https://dailymed.nlm.nih.gov/dailymed/",
+      "runtime_action": "allow_if_gate"
+    },
+    {
+      "abx_gate_id": "ABX_V4_PROTOZOAL_VAGINAL",
+      "disease_pattern": "protozoal_diarrhea|vaginal_mixed_infection|anaerobic_dental",
+      "allowed_groups": "ANTIPROTOZOAL_ORAL;VAGINAL_MIXED_ANTIMICROBIAL",
+      "first_line_logic": "only after compatible diagnosis/testing or clinician judgement",
+      "alternative_logic": "avoid alcohol; pregnancy/interaction check",
+      "block_when": "simple viral diarrhea or nonspecific vaginal symptoms without assessment",
+      "duration_logic": "per diagnosis/label",
+      "source_ids": "DM_LABEL",
+      "citation_urls": "https://dailymed.nlm.nih.gov/dailymed/",
+      "runtime_action": "allow_if_gate"
+    },
+    {
+      "abx_gate_id": "ABX_SKIN",
+      "disease_pattern": "impetigo|localized_skin_infection|infected_eczema",
+      "allowed_groups": "TOPICAL_ANTIBIOTIC_SKIN;CEPHALEXIN_ORAL;AMOX_CLAV_ORAL;CLINDAMYCIN_ORAL",
+      "first_line_logic": "Topical antibiotic for localized impetigo; oral antibiotic only for extensive/systemic/worsening disease.",
+      "alternative_logic": "Use oral agent only if extensive lesions, cellulitis, fever, outbreaks, or clinician confirms.",
+      "block_when": "noninfected dermatitis/tinea/viral rash; large abscess; systemic toxicity needs in-person evaluation.",
+      "duration_logic": "Topical short course; oral per guideline/local policy.",
+      "source_ids": "CDC_IMPETIGO;V5_ABX_GATE",
+      "citation_urls": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/impetigo.html",
+      "runtime_action": "allow_if_gate"
+    }
+  ],
+  "count": 14
+}

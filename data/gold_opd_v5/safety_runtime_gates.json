@@ -1,0 +1,225 @@
+{
+  "items": [
+    {
+      "gate_id": "GATE_NSAID",
+      "applies_to_group_id": "IBUPROFEN_ORAL;NAPROXEN_ORAL;DICLOFENAC_ORAL;ETORICOXIB_ORAL;CELECOXIB_ORAL",
+      "risk_area": "GI/renal/CV/pregnancy",
+      "allow_condition": "short course with food if no contraindication",
+      "block_condition": "active GI bleed, severe renal disease, late pregnancy, duplicate NSAID, high CV risk without clinician review",
+      "quick_caution": "GI bleed/renal/CV risk; avoid duplicate NSAID",
+      "source_ids": "FDA_NSAID;DM_IBUPROFEN",
+      "citation_urls": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/ibuprofen-drug-facts-label; https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ibuprofen",
+      "runtime_action": "block_or_warn"
+    },
+    {
+      "gate_id": "GATE_PED_COLD",
+      "applies_to_group_id": "CHLORPHENIRAMINE_ORAL;DECONGESTANT_COMBO_ORAL;DEXTROMETHORPHAN_ORAL",
+      "risk_area": "pediatric cough/cold age gate",
+      "allow_condition": "adult or older child per label",
+      "block_condition": "age <2 absolute block for decongestant/antihistamine cough-cold products; avoid <4 unless clinician-directed",
+      "quick_caution": "sedation, tachycardia, overdose risk",
+      "source_ids": "FDA_COUGH_COLD_CHILDREN",
+      "citation_urls": "https://www.fda.gov/drugs/safe-use-over-counter-otc-medicines-children/use-caution-when-giving-cough-and-cold-products-kids",
+      "runtime_action": "block"
+    },
+    {
+      "gate_id": "GATE_NASAL_DECONG",
+      "applies_to_group_id": "NASAL_DECONGESTANT_TOPICAL",
+      "risk_area": "rhinitis medicamentosa/CV",
+      "allow_condition": "use ≤3 days",
+      "block_condition": "use >3 days, severe HTN/arrhythmia caution",
+      "quick_caution": "rebound congestion",
+      "source_ids": "CDC_ADULT_ABX;DM_LABEL",
+      "citation_urls": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html; https://dailymed.nlm.nih.gov/dailymed/",
+      "runtime_action": "limit_duration"
+    },
+    {
+      "gate_id": "GATE_ABX",
+      "applies_to_group_id": "AMOXICILLIN_ORAL;AMOX_CLAV_ORAL;MACROLIDE_ORAL;CEPHALEXIN_ORAL;NITROFURANTOIN_ORAL;FLUOROQUINOLONE_ORAL;ORAL_SKIN_ABX;ANTIBIOTIC_EYE_DROPS;TOPICAL_ANTIBIOTIC_SKIN;ORAL_CEPHALOSPORIN_3RD;TETRACYCLINE_ORAL;ANTIPROTOZOAL_ORAL;VAGINAL_MIXED_ANTIMICROBIAL",
+      "risk_area": "antibiotic stewardship",
+      "allow_condition": "verified bacterial disease gate",
+      "block_condition": "viral URI/bronchitis/noninfected rash/no bacterial criteria",
+      "quick_caution": "must pass disease-specific ABX gate; v4 adds cephalosporin/tetracycline/antiprotozoal/vaginal antimicrobial gates",
+      "source_ids": "CDC_ADULT_ABX;CDC_PED_ABX;AAO_CONJUNCTIVITIS;CDC_IMPETIGO",
+      "citation_urls": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html; https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html; https://www.aao.org/education/preferred-practice-pattern/conjunctivitis-ppp-2023; https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/impetigo.html",
+      "runtime_action": "block"
+    },
+    {
+      "gate_id": "GATE_FQ",
+      "applies_to_group_id": "FLUOROQUINOLONE_ORAL",
+      "risk_area": "fluoroquinolone serious adverse effects",
+      "allow_condition": "only when alternatives unsuitable and disease gate exists",
+      "block_condition": "routine cystitis/bronchitis/sinusitis if alternatives suitable",
+      "quick_caution": "tendon/CNS/peripheral neuropathy/QT risk",
+      "source_ids": "FDA_FLUOROQUINOLONE",
+      "citation_urls": "https://www.fda.gov/drugs/information-drug-class/fda-approves-safety-labeling-changes-fluoroquinolones",
+      "runtime_action": "restrict"
+    },
+    {
+      "gate_id": "GATE_EYE_STEROID",
+      "applies_to_group_id": "OPHTHALMIC_STEROID",
+      "risk_area": "ocular steroid risk",
+      "allow_condition": "specialist diagnosis/follow-up",
+      "block_condition": "routine red eye, undiagnosed infection, contact lens keratitis concern",
+      "quick_caution": "IOP/glaucoma/cataract/masked infection",
+      "source_ids": "AAO_CONJUNCTIVITIS;DM_OPHTH_STEROID",
+      "citation_urls": "https://www.aao.org/education/preferred-practice-pattern/conjunctivitis-ppp-2023; https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=fluorometholone%20ophthalmic",
+      "runtime_action": "block_fast_mode"
+    },
+    {
+      "gate_id": "GATE_TINEA_STEROID",
+      "applies_to_group_id": "STEROID_ANTIFUNGAL_COMBO",
+      "risk_area": "fungal rash steroid worsening",
+      "allow_condition": "rare short selective use after diagnosis",
+      "block_condition": "routine tinea/cruris/corporis first-line",
+      "quick_caution": "can worsen/mask fungal infection",
+      "source_ids": "CDC_TINEA",
+      "citation_urls": "https://www.cdc.gov/fungal/hcp/clinical-care/index.html",
+      "runtime_action": "block_first_line"
+    },
+    {
+      "gate_id": "GATE_DOMPERIDONE",
+      "applies_to_group_id": "DOMPERIDONE_ORAL",
+      "risk_area": "QT/cardiac risk",
+      "allow_condition": "short course after QT risk screen",
+      "block_condition": "known QT prolongation, arrhythmia, strong CYP3A4/QT interacting meds",
+      "quick_caution": "QT prolongation/torsades/cardiac arrest risk",
+      "source_ids": "FDA_DOMPERIDONE",
+      "citation_urls": "https://www.fda.gov/drugs/information-drug-class/information-about-domperidone",
+      "runtime_action": "restrict"
+    },
+    {
+      "gate_id": "GATE_ERGOT",
+      "applies_to_group_id": "ERGOTAMINE_ORAL",
+      "risk_area": "vasospasm/pregnancy/CV",
+      "allow_condition": "migraine-specific restricted use",
+      "block_condition": "pregnancy, CAD/stroke, uncontrolled HTN, potent CYP3A4 inhibitors",
+      "quick_caution": "ergotism/vasospasm risk",
+      "source_ids": "DM_LABEL",
+      "citation_urls": "https://dailymed.nlm.nih.gov/dailymed/",
+      "runtime_action": "restrict"
+    },
+    {
+      "gate_id": "GATE_CHRONIC",
+      "applies_to_group_id": "METFORMIN_ORAL;STATIN_ORAL;LEVOTHYROXINE_ORAL;ANTITHYROID_ORAL;ORLISTAT_ORAL;NEUROPATHIC_PAIN_ORAL",
+      "risk_area": "chronic disease lab/diagnostic requirements",
+      "allow_condition": "diagnosis confirmed and monitoring available",
+      "block_condition": "no labs/uncertain diagnosis/acute complaint only",
+      "quick_caution": "review-only, not instant OPD FAST prescription",
+      "source_ids": "ADA_DIABETES_2026;NICE_LIPID_NG238;NICE_THYROID_NG145;NICE_OBESITY;NICE_NEUROPATHIC_PAIN",
+      "citation_urls": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment; https://www.nice.org.uk/guidance/ng238/chapter/Recommendations; https://www.nice.org.uk/guidance/ng145/chapter/recommendations; https://www.nice.org.uk/guidance/cg189; https://www.nice.org.uk/guidance/cg173",
+      "runtime_action": "review_only"
+    },
+    {
+      "gate_id": "GATE_MONTELUKAST",
+      "applies_to_group_id": "MONTELUKAST_ORAL",
+      "risk_area": "neuropsychiatric warning",
+      "allow_condition": "asthma/allergic rhinitis adjunct when benefits outweigh risks",
+      "block_condition": "mild rhinitis when alternatives adequate or mental health adverse concern",
+      "quick_caution": "boxed-warning style caution for neuropsychiatric effects",
+      "source_ids": "GINA_ASTHMA_2025;DM_LABEL",
+      "citation_urls": "https://ginasthma.org/wp-content/uploads/2025/11/GINA-Summary-Guide-2025-WEB_FINAL-WMS.pdf; https://dailymed.nlm.nih.gov/dailymed/",
+      "runtime_action": "restrict"
+    },
+    {
+      "gate_id": "GATE_V4_CHRONIC_REFERENCE",
+      "applies_to_group_id": "ANTIHYPERTENSIVE_CCB_ORAL;ANTIHYPERTENSIVE_ACEI_ORAL;ANTIHYPERTENSIVE_ARB_ORAL;ANTIHYPERTENSIVE_BETA_BLOCKER_ORAL;ANTIHYPERTENSIVE_VASODILATOR_ORAL;DIABETES_SULFONYLUREA_ORAL;DIABETES_DPP4_ORAL;FIBRATE_ORAL;DIURETIC_ORAL;ALPHA_BLOCKER_ORAL;ANTIEPILEPTIC_ORAL;ANTIPLATELET_ORAL;FINASTERIDE_ORAL",
+      "risk_area": "chronic medication continuation",
+      "allow_condition": "known existing indication and clinician review",
+      "block_condition": "new start in FAST MODE or unstable symptoms",
+      "quick_caution": "reference/continuation only, not acute OPD default",
+      "source_ids": "DM_LABEL;SOURCE_GAP_MANUAL_REVIEW",
+      "citation_urls": "https://dailymed.nlm.nih.gov/dailymed/",
+      "runtime_action": "reference_only"
+    },
+    {
+      "gate_id": "GATE_V4_CONTRACEPTIVE",
+      "applies_to_group_id": "CONTRACEPTIVE_COMBINED_ORAL;CONTRACEPTIVE_PROGESTIN_ONLY;CONTRACEPTIVE_PATCH",
+      "risk_area": "pregnancy/VTE/migraine/smoking eligibility",
+      "allow_condition": "eligibility reviewed and no contraindication",
+      "block_condition": "pregnancy suspected, migraine aura, VTE risk, smoker age >35 for CHC, severe HTN, interacting drugs",
+      "quick_caution": "contraception rows are reference/doctor-confirm only",
+      "source_ids": "DM_LABEL;SOURCE_GAP_MANUAL_REVIEW",
+      "citation_urls": "https://dailymed.nlm.nih.gov/dailymed/",
+      "runtime_action": "reference_only"
+    },
+    {
+      "gate_id": "GATE_V4_SEDATING_ANTIHISTAMINE",
+      "applies_to_group_id": "HYDROXYZINE_ORAL;CYPROHEPTADINE_ORAL;SEDATING_ANTIHISTAMINE_ORAL;VERTIGO_ANTIHISTAMINE_ORAL",
+      "risk_area": "sedation/anticholinergic/QT/fall risk",
+      "allow_condition": "adult, short course, understands sedation precautions",
+      "block_condition": "elderly/fall risk, driving, alcohol, severe QT risk, young child without dose rule",
+      "quick_caution": "sedating; avoid driving/alcohol",
+      "source_ids": "DM_LABEL;FDA_COUGH_COLD_CHILDREN",
+      "citation_urls": "https://dailymed.nlm.nih.gov/dailymed/; https://www.fda.gov/drugs/safe-use-over-counter-otc-medicines-children/use-caution-when-giving-cough-and-cold-products-kids",
+      "runtime_action": "warn_or_block"
+    },
+    {
+      "gate_id": "GATE_V4_HIGH_POTENCY_STEROID",
+      "applies_to_group_id": "HIGH_POTENCY_TOPICAL_STEROID",
+      "risk_area": "skin atrophy/systemic steroid exposure",
+      "allow_condition": "short course on appropriate non-sensitive area",
+      "block_condition": "face/groin/children/large area/infected rash unless clinician-directed",
+      "quick_caution": "high potency; not routine dermatitis FAST default",
+      "source_ids": "NICE_ECZEMA;DM_LABEL",
+      "citation_urls": "https://cks.nice.org.uk/topics/eczema-atopic/management/management/; https://dailymed.nlm.nih.gov/dailymed/",
+      "runtime_action": "restricted"
+    },
+    {
+      "gate_id": "GATE_V4_LAXATIVE_RECTAL",
+      "applies_to_group_id": "SENNOSIDE_ORAL;GLYCERIN_RECTAL;SALINE_ENEMA_RECTAL;CASTOR_OIL_ORAL",
+      "risk_area": "obstruction/dehydration/age-specific use",
+      "allow_condition": "uncomplicated constipation rescue; adult unless peds dose available",
+      "block_condition": "acute abdomen, vomiting, obstruction, severe dehydration, infant/child without product dose",
+      "quick_caution": "avoid obstruction; pediatric dose must be exact",
+      "source_ids": "NICE_CONSTIPATION;DM_LABEL",
+      "citation_urls": "https://cks.nice.org.uk/topics/constipation/management/adults/; https://dailymed.nlm.nih.gov/dailymed/",
+      "runtime_action": "warn_or_block"
+    },
+    {
+      "gate_id": "GATE_V4_SOURCE_GAP_REFERENCE",
+      "applies_to_group_id": "HERBAL_RESPIRATORY_REFERENCE;HERBAL_URINARY_REFERENCE;NEUROVASCULAR_REFERENCE_ORAL;UNCLASSIFIED_REFERENCE",
+      "risk_area": "evidence gap/no OPD default role",
+      "allow_condition": "browse/reference only",
+      "block_condition": "any automatic RX NOW/SWAPS default use",
+      "quick_caution": "source gap; do not auto-prescribe",
+      "source_ids": "SOURCE_GAP_MANUAL_REVIEW",
+      "citation_urls": "",
+      "runtime_action": "block_fast_mode"
+    },
+    {
+      "gate_id": "GATE_RED_EYE_VISION",
+      "applies_to_group_id": "ARTIFICIAL_TEARS;ANTIBIOTIC_EYE_DROPS;EYE_WASH_SUPPORT",
+      "risk_area": "eye red flags",
+      "allow_condition": "mild irritation/discharge without pain/photophobia/vision loss/contact lens corneal concern",
+      "block_condition": "severe eye pain, photophobia, vision loss, corneal opacity, contact lens with pain, trauma/chemical exposure",
+      "quick_caution": "urgent eye evaluation for pain/vision loss/contact lens corneal symptoms",
+      "source_ids": "AAO_EYE_SAFETY",
+      "citation_urls": "https://www.aao.org/education/preferred-practice-pattern/conjunctivitis-ppp-2023",
+      "runtime_action": "block_and_refer"
+    },
+    {
+      "gate_id": "GATE_TINEA_STEROID_COMBO",
+      "applies_to_group_id": "STEROID_ANTIFUNGAL_COMBO;TOPICAL_STEROID_HIGH;TOPICAL_STEROID_LOW_MED",
+      "risk_area": "fungal rash steroid worsening",
+      "allow_condition": "avoid steroid in suspected tinea unless clinician confirms alternate/inflammatory diagnosis",
+      "block_condition": "tinea corporis/cruris/pedis suspected; ringworm/jock itch with active border",
+      "quick_caution": "steroid can worsen/mask fungal infection",
+      "source_ids": "CDC_FUNGAL_STEROID_CAUTION",
+      "citation_urls": "https://www.cdc.gov/fungal/diseases/ringworm/steroids.html",
+      "runtime_action": "block_or_warn"
+    },
+    {
+      "gate_id": "GATE_PREGNANCY_NSAID",
+      "applies_to_group_id": "IBUPROFEN_ORAL;NAPROXEN_ORAL;DICLOFENAC_ORAL;ETORICOXIB_ORAL;CELECOXIB_ORAL",
+      "risk_area": "pregnancy/renal/GI",
+      "allow_condition": "not pregnant, no GI bleed/renal/CV high risk, short course with food",
+      "block_condition": "pregnancy especially after 20 weeks/late pregnancy, renal disease, GI bleed, duplicate NSAID",
+      "quick_caution": "avoid NSAID in pregnancy/renal/GI bleed risk",
+      "source_ids": "FDA_NSAID",
+      "citation_urls": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later",
+      "runtime_action": "block_or_warn"
+    }
+  ],
+  "count": 20
+}

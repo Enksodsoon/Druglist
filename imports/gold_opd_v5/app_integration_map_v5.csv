@@ -1,0 +1,10 @@
+artifact,destination,load_order,runtime_use,required,notes
+opd_fast_index_v5.csv,app/data/opd_fast_index.csv,1,complaint phrase → disease_key,YES,fast exact/alias matching
+final_rx_now_v5.csv,app/data/final_rx_now.csv,2,main regimen rows,YES,show DEFAULT_FAST; show RESTRICTED only after gate
+final_swaps_tiered_v5.csv,app/data/final_swaps_tiered.csv,3,tiered alternatives by disease/modality,YES,tier sort; never show blocked/reference rows
+drug_short_lookup_v5.csv,app/data/drug_short_lookup.csv,4,product metadata/detail lookup,YES,not for broad clinical reasoning
+peds_runtime_rules_v5.csv,app/data/peds_runtime_rules.csv,5,pediatric age/BW gates,YES,no pediatric display without age/BW gate
+antibiotic_runtime_gates_v5.csv,app/data/antibiotic_runtime_gates.csv,6,antibiotic allow/block rules,YES,block viral URI/simple diarrhea/allergy by default
+safety_runtime_gates_v5.csv,app/data/safety_runtime_gates.csv,7,red flags and contraindication logic,YES,must run before final output
+clinical_test_cases_v5.csv,tests/clinical_test_cases.csv,test,golden prompt set,YES,run before deploy
+clinical_expected_outputs_v5.csv,tests/clinical_expected_outputs.csv,test,expected output audit,YES,"checks clinical shape, not definitive medical proof"

@@ -1,0 +1,7 @@
+version,date,area,change,impact
+v5.0,2026-05-17,scope,Collapsed v4.2–v4.5 plan into one v5 production-candidate pack,single workbook/ZIP usable for app/GPT integration
+v5.0,2026-05-17,clinical QA,Removed 83 clinically irrelevant or unsafe runtime rows,less wrong multimodality leakage
+v5.0,2026-05-17,runtime,Added 16 RX rows and 14 SWAP rows for priority OPD cases,better common clinic behavior
+v5.0,2026-05-17,aliases,Added curated aliases; fast index now 540 rows,more short OPD inputs resolve directly
+v5.0,2026-05-17,antibiotics,Added UTI and skin infection antibiotic gates,antibiotics stay gated instead of leaking into viral/allergic cases
+v5.0,2026-05-17,pediatrics,Added formula-ready pediatric shortcut rows and calculator template,"age/BW guarded, no fabricated pediatric dose rows"
