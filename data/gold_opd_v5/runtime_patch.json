@@ -1,0 +1,1022 @@
+{
+  "items": [
+    {
+      "patch_id": "PATCH_RX_0001",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "viral_uri_wet_cough_adult",
+      "BDS": "BDS040614",
+      "drug_product": "Bakamol 500 mg bottle 100s [Paracetamol 500 mg.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0002",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "viral_uri_wet_cough_adult",
+      "BDS": "BDS002901",
+      "drug_product": "Nac Long [Acetylcysteine 600 mg.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0003",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "viral_uri_wet_cough_adult",
+      "BDS": "BDS044313",
+      "drug_product": "Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0004",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "viral_uri_with_diarrhea_adult",
+      "BDS": "BDS008282",
+      "drug_product": "Cera ORS รสส้ม [Glucose Anhydrous 3 g.+Sodium Chloride 0.53 g.+Potassium Chloride 0.23 g.+Sodium Citrate Dihydrate 0.44 g.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0005",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "viral_uri_with_diarrhea_adult",
+      "BDS": "BDS001248",
+      "drug_product": "Bioflor [Lyophilized Saccharomyces boulardii 250 mg.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0006",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "viral_uri_with_diarrhea_adult",
+      "BDS": "BDS040614",
+      "drug_product": "Bakamol 500 mg bottle 100s [Paracetamol 500 mg.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0007",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "allergic_rhinitis_adult",
+      "BDS": "BDS002807",
+      "drug_product": "Nasonex 140 doses [Mometasone Furoate Monohydrate (eq. to Mometasone Furoate 50 mcg/dose)+Preservative (Benzalkonium Chloride 0.2 mg/g)]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0008",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "allergic_rhinitis_adult",
+      "BDS": "BDS044313",
+      "drug_product": "Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0009",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "dry_eye_adult",
+      "BDS": "BDS047637",
+      "drug_product": "Systane Ultra (UD) Lubricant Eye Drops [Polyethylene Glycol 400 0.4%+Propylene Glycol 0.3%+Aminomethylpropanol+Boric Acid+Hydroxypropyl Guar+Potassium Chloride+Sodium Chloride+Sorbitol+Hydrochloric Acid+Sodium Hydroxide/1 ml.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0010",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS001489",
+      "drug_product": "Canesten Cream 10 g [Clotrimazole 1 g./100 g.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0011",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS002563",
+      "drug_product": "Lamisil Cream [Terbinafine HCl 10 mg./1 g.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0012",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "uncomplicated_uti_adult",
+      "BDS": "BDS007591",
+      "drug_product": "Noflox-400 [Norfloxacin 400 mg.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0013",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "uncomplicated_uti_adult",
+      "BDS": "BDS040614",
+      "drug_product": "Bakamol 500 mg bottle 100s [Paracetamol 500 mg.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0014",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "primary_dysmenorrhea_adult",
+      "BDS": "BDS002042",
+      "drug_product": "Gofen 400 [Ibuprofen 400 mg.+Polyethylene 400+Porpylene Glycol]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0015",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "impetigo_localized_adult",
+      "BDS": "BDS001991",
+      "drug_product": "Fucidin Cream [Fusidic acid 20 mg./1 g.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_RX_0016",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "ADD",
+      "disease_key": "aphthous_ulcer_pain_adult",
+      "BDS": "BDS002430",
+      "drug_product": "Kamistad-Gel N [Lidocaine HCl 20 mg.+Chamomile Flower Extract 185 mg.+Ethanol 50% v/v+Tromethamole 1.37% w/w+Preservative (Benzalkonium Chloride 1 mg.)/1 g.]",
+      "reason": "v5 curated default/controlled row"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0017",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "viral_uri_wet_cough_adult",
+      "BDS": "BDS042357",
+      "drug_product": "Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0018",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "viral_uri_wet_cough_adult",
+      "BDS": "BDS006462",
+      "drug_product": "Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0019",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "viral_uri_wet_cough_adult",
+      "BDS": "BDS002655",
+      "drug_product": "Mucolid [Ambroxol HCl 30 mg.]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0020",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "viral_uri_with_diarrhea_adult",
+      "BDS": "BDS042304",
+      "drug_product": "Dehecta [Dioctahedral Smectite 3 g./20 ml.]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0021",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "viral_uri_with_diarrhea_adult",
+      "BDS": "BDS043842",
+      "drug_product": "Hidrasec 100 mg. [Racecadotril 100 mg.]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0022",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "allergic_rhinitis_adult",
+      "BDS": "BDS003747",
+      "drug_product": "Telfast 180 mg [Fexofenadine HCl 180 mg.]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0023",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "allergic_rhinitis_adult",
+      "BDS": "BDS040630",
+      "drug_product": "Bilaxten [Bilastine 20 mg.]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0024",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "dry_eye_adult",
+      "BDS": "BDS004035",
+      "drug_product": "Vislube [Sodium Hyaluronate 0.18% (Sodium Hyaluronate 1.8 mg.+Sodium Chloride 2.8 mg.+Potassium Chloride 1 mg.+Disodium Hydrogenphosphate 3.2 mg.+Sodium Citrate 0.3 mg.+Magnesium Chloride 0.09 mg.+Calcium Chloride 0.09 mg.)]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0025",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS002563",
+      "drug_product": "Lamisil Cream [Terbinafine HCl 10 mg./1 g.]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0026",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "uncomplicated_uti_adult",
+      "BDS": "BDS040614",
+      "drug_product": "Bakamol 500 mg bottle 100s [Paracetamol 500 mg.]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0027",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "primary_dysmenorrhea_adult",
+      "BDS": "BDS045624",
+      "drug_product": "Naprofazt [Naproxen (as Naproxen Sodium) 250 mg.]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0028",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "primary_dysmenorrhea_adult",
+      "BDS": "BDS040614",
+      "drug_product": "Bakamol 500 mg bottle 100s [Paracetamol 500 mg.]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0029",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "impetigo_localized_adult",
+      "BDS": "BDS008231",
+      "drug_product": "Mulacin Ointment [Mupirocin 2% w/w]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_SWAP_0030",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "ADD",
+      "disease_key": "aphthous_ulcer_pain_adult",
+      "BDS": "BDS006462",
+      "drug_product": "Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.]",
+      "reason": "v5 curated tiered alternative"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0031",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "allergic_rhinitis_adult",
+      "BDS": "BDS001803",
+      "drug_product": "Elomet 0.1 % [Mometasone Furoate 1 mg/1 g (0.1%)]",
+      "reason": "removed Elomet skin product from rhinitis; replaced with Nasonex nasal spray"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0032",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "allergic_rhinitis_congestion_adult",
+      "BDS": "BDS001803",
+      "drug_product": "Elomet 0.1 % [Mometasone Furoate 1 mg/1 g (0.1%)]",
+      "reason": "removed Elomet skin product from rhinitis; replaced with Nasonex nasal spray"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0033",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "aphthous_ulcer_pain_adult",
+      "BDS": "BDS006745",
+      "drug_product": "Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g]",
+      "reason": "removed skin cream from oral ulcer"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0034",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "contact_lens_dry_eye_support_adult",
+      "BDS": "BDS040614",
+      "drug_product": "Bakamol 500 mg bottle 100s [Paracetamol 500 mg.]",
+      "reason": "removed non-ocular row from dry eye"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0035",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "dry_eye_adult",
+      "BDS": "BDS040614",
+      "drug_product": "Bakamol 500 mg bottle 100s [Paracetamol 500 mg.]",
+      "reason": "removed non-ocular row from dry eye"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0036",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "dry_eye_peds_support",
+      "BDS": "BDS040614",
+      "drug_product": "Bakamol 500 mg bottle 100s [Paracetamol 500 mg.]",
+      "reason": "removed non-ocular row from dry eye"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0037",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "dysuria_lower_uti_adult",
+      "BDS": "BDS044313",
+      "drug_product": "Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.]",
+      "reason": "removed URI modality from UTI/dysuria"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0038",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "dysuria_lower_uti_adult",
+      "BDS": "BDS042357",
+      "drug_product": "Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.]",
+      "reason": "removed URI modality from UTI/dysuria"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0039",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "dysuria_lower_uti_adult",
+      "BDS": "BDS006462",
+      "drug_product": "Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.]",
+      "reason": "removed URI modality from UTI/dysuria"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0040",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "dysuria_lower_uti_adult",
+      "BDS": "BDS044520",
+      "drug_product": "LeoPovidone [Povidone-Iodine 10% w/v]",
+      "reason": "removed URI modality from UTI/dysuria"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0041",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "BDS": "BDS044313",
+      "drug_product": "Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.]",
+      "reason": "removed URI modality from eczema/dermatitis"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0042",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "BDS": "BDS042357",
+      "drug_product": "Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.]",
+      "reason": "removed URI modality from eczema/dermatitis"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0043",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "BDS": "BDS006462",
+      "drug_product": "Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.]",
+      "reason": "removed URI modality from eczema/dermatitis"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0044",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "BDS": "BDS044520",
+      "drug_product": "LeoPovidone [Povidone-Iodine 10% w/v]",
+      "reason": "removed URI modality from eczema/dermatitis"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0045",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "migraine_adult",
+      "BDS": "BDS001656",
+      "drug_product": "Difelene Gel เล็ก [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g)]",
+      "reason": "removed topical MSK analgesic from headache/migraine"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0046",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "migraine_over12_acute",
+      "BDS": "BDS001656",
+      "drug_product": "Difelene Gel เล็ก [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g)]",
+      "reason": "removed topical MSK analgesic from headache/migraine"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0047",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "oral_ulcer_adult",
+      "BDS": "BDS006745",
+      "drug_product": "Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g]",
+      "reason": "removed skin cream from oral ulcer"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0048",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "screen_related_dry_eye_adult",
+      "BDS": "BDS040614",
+      "drug_product": "Bakamol 500 mg bottle 100s [Paracetamol 500 mg.]",
+      "reason": "removed non-ocular row from dry eye"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0049",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tension_headache_adult",
+      "BDS": "BDS001656",
+      "drug_product": "Difelene Gel เล็ก [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g)]",
+      "reason": "removed topical MSK analgesic from headache/migraine"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0050",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_corporis_localized_adult",
+      "BDS": "BDS006745",
+      "drug_product": "Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0051",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS040614",
+      "drug_product": "Bakamol 500 mg bottle 100s [Paracetamol 500 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0052",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS044313",
+      "drug_product": "Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0053",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS042357",
+      "drug_product": "Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0054",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS006462",
+      "drug_product": "Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0055",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS044520",
+      "drug_product": "LeoPovidone [Povidone-Iodine 10% w/v]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0056",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS006745",
+      "drug_product": "Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0057",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pedis_adult",
+      "BDS": "BDS006745",
+      "drug_product": "Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0058",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS040614",
+      "drug_product": "Bakamol 500 mg bottle 100s [Paracetamol 500 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0059",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS044313",
+      "drug_product": "Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0060",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS042357",
+      "drug_product": "Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0061",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS006462",
+      "drug_product": "Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0062",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS044520",
+      "drug_product": "LeoPovidone [Povidone-Iodine 10% w/v]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0063",
+      "target_sheet": "Final_RX_NOW_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS006745",
+      "drug_product": "Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0064",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "dysuria_lower_uti_adult",
+      "BDS": "BDS001531",
+      "drug_product": "Cystaline [Acetylcysteine 600 mg.]",
+      "reason": "removed URI modality from UTI/dysuria"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0065",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "dysuria_lower_uti_adult",
+      "BDS": "BDS002655",
+      "drug_product": "Mucolid [Ambroxol HCl 30 mg.]",
+      "reason": "removed URI modality from UTI/dysuria"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0066",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "dysuria_lower_uti_adult",
+      "BDS": "BDS001255",
+      "drug_product": "Bisolvon [Bromhexine HCl 8 mg.]",
+      "reason": "removed URI modality from UTI/dysuria"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0067",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "dysuria_lower_uti_adult",
+      "BDS": "BDS008141",
+      "drug_product": "Bocytin Capsule [Carbocysteine 375 mg.]",
+      "reason": "removed URI modality from UTI/dysuria"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0068",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "dysuria_lower_uti_adult",
+      "BDS": "BDS002211",
+      "drug_product": "Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.]",
+      "reason": "removed URI modality from UTI/dysuria"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0069",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "dysuria_lower_uti_adult",
+      "BDS": "BDS040029",
+      "drug_product": "Alerest [Cetirizine dihydrochloride 10 mg.]",
+      "reason": "removed unrelated UTI row"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0070",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "dysuria_lower_uti_adult",
+      "BDS": "BDS007145",
+      "drug_product": "Histatabs [Chlorpheniramine Maleate 4 mg.]",
+      "reason": "removed URI modality from UTI/dysuria"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0071",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "dysuria_lower_uti_adult",
+      "BDS": "BDS045630",
+      "drug_product": "Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.]",
+      "reason": "removed URI modality from UTI/dysuria"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0072",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "dysuria_lower_uti_adult",
+      "BDS": "BDS040080",
+      "drug_product": "Actavia [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)]",
+      "reason": "removed unrelated UTI row"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0073",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "BDS": "BDS001531",
+      "drug_product": "Cystaline [Acetylcysteine 600 mg.]",
+      "reason": "removed URI modality from eczema/dermatitis"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0074",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "BDS": "BDS002655",
+      "drug_product": "Mucolid [Ambroxol HCl 30 mg.]",
+      "reason": "removed URI modality from eczema/dermatitis"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0075",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "BDS": "BDS001255",
+      "drug_product": "Bisolvon [Bromhexine HCl 8 mg.]",
+      "reason": "removed URI modality from eczema/dermatitis"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0076",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "BDS": "BDS008141",
+      "drug_product": "Bocytin Capsule [Carbocysteine 375 mg.]",
+      "reason": "removed URI modality from eczema/dermatitis"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0077",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "BDS": "BDS002211",
+      "drug_product": "Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.]",
+      "reason": "removed URI modality from eczema/dermatitis"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0078",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "BDS": "BDS007145",
+      "drug_product": "Histatabs [Chlorpheniramine Maleate 4 mg.]",
+      "reason": "removed URI modality from eczema/dermatitis"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0079",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "BDS": "BDS045630",
+      "drug_product": "Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.]",
+      "reason": "removed URI modality from eczema/dermatitis"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0080",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "fungal_intertrigo_adult",
+      "BDS": "BDS040029",
+      "drug_product": "Alerest [Cetirizine dihydrochloride 10 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0081",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_corporis_clotrimazole_adult",
+      "BDS": "BDS040029",
+      "drug_product": "Alerest [Cetirizine dihydrochloride 10 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0082",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_corporis_localized_adult",
+      "BDS": "BDS040029",
+      "drug_product": "Alerest [Cetirizine dihydrochloride 10 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0083",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_corporis_localized_adult",
+      "BDS": "BDS001978",
+      "drug_product": "Fenafex 180 mg [Fexofenadine HCl 180 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0084",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_corporis_localized_adult",
+      "BDS": "BDS001010",
+      "drug_product": "Aerius tabslet [Desloratadine 5 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0085",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_corporis_localized_adult",
+      "BDS": "BDS008608",
+      "drug_product": "Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0086",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS001531",
+      "drug_product": "Cystaline [Acetylcysteine 600 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0087",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS002655",
+      "drug_product": "Mucolid [Ambroxol HCl 30 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0088",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS001255",
+      "drug_product": "Bisolvon [Bromhexine HCl 8 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0089",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS008141",
+      "drug_product": "Bocytin Capsule [Carbocysteine 375 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0090",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS002211",
+      "drug_product": "Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0091",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS040029",
+      "drug_product": "Alerest [Cetirizine dihydrochloride 10 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0092",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS007145",
+      "drug_product": "Histatabs [Chlorpheniramine Maleate 4 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0093",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS045630",
+      "drug_product": "Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0094",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS040080",
+      "drug_product": "Actavia [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0095",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS001978",
+      "drug_product": "Fenafex 180 mg [Fexofenadine HCl 180 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0096",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS001010",
+      "drug_product": "Aerius tabslet [Desloratadine 5 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0097",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_cruris_adult",
+      "BDS": "BDS008608",
+      "drug_product": "Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0098",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pedis_adult",
+      "BDS": "BDS040029",
+      "drug_product": "Alerest [Cetirizine dihydrochloride 10 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0099",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pedis_adult",
+      "BDS": "BDS001978",
+      "drug_product": "Fenafex 180 mg [Fexofenadine HCl 180 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0100",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pedis_adult",
+      "BDS": "BDS001010",
+      "drug_product": "Aerius tabslet [Desloratadine 5 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0101",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pedis_adult",
+      "BDS": "BDS008608",
+      "drug_product": "Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0102",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS001531",
+      "drug_product": "Cystaline [Acetylcysteine 600 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0103",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS002655",
+      "drug_product": "Mucolid [Ambroxol HCl 30 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0104",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS001255",
+      "drug_product": "Bisolvon [Bromhexine HCl 8 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0105",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS008141",
+      "drug_product": "Bocytin Capsule [Carbocysteine 375 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0106",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS002211",
+      "drug_product": "Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0107",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS040029",
+      "drug_product": "Alerest [Cetirizine dihydrochloride 10 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0108",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS007145",
+      "drug_product": "Histatabs [Chlorpheniramine Maleate 4 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0109",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS045630",
+      "drug_product": "Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0110",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS040080",
+      "drug_product": "Actavia [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0111",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS001978",
+      "drug_product": "Fenafex 180 mg [Fexofenadine HCl 180 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0112",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS001010",
+      "drug_product": "Aerius tabslet [Desloratadine 5 mg.]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    },
+    {
+      "patch_id": "PATCH_CLEAN_0113",
+      "target_sheet": "Final_SWAPS_Tiered_v5",
+      "action": "REMOVE",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "BDS": "BDS008608",
+      "drug_product": "Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%]",
+      "reason": "removed non-antifungal/URI/steroid row from fungal disease"
+    }
+  ],
+  "count": 113
+}

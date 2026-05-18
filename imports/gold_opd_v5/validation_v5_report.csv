@@ -1,0 +1,16 @@
+check_id,area,rule,result,count,notes
+V5_001,products,all 910 product rows preserved in Drug_Short_Lookup_v5,PASS,910,Expected 910 from v4.1
+V5_002,products,no blank product_id,PASS,0,0 blanks expected
+V5_003,index,OPD_Fast_Index_v5 has complaint aliases,PASS,540,v5 aliases added
+V5_004,clinical_cleaning,obvious URI rows removed from tinea/UTI/dry-eye/migraine/oral ulcer,PASS,83,Removed unsafe/irrelevant runtime rows
+V5_005,clinical,priority curated rows added,PASS,30,v5 common OPD patches
+V5_006,antibiotic,antibiotic gates include UTI and skin infection,PASS,2,Added ABX_UTI and ABX_SKIN
+V5_007,antibiotic,all antibiotic-flag rows have gate_required not standard,PASS,69,antibiotic rows gated
+V5_008,pediatrics,pediatric runtime rules preserved and expanded,PASS,24,No pediatric dose fabricated beyond formula/gate rows
+V5_009,safety,"safety gates include eye, tinea steroid, pregnancy NSAID",PASS,3,Added common critical safety gates
+V5_010,tests,clinical test cases include curated priority cases,PASS,114,Clinical QA test set
+V5_011,expected_outputs,expected output table generated for clinical tests,PASS,114,Generated from v5 runtime
+V5_012,runtime,no duplicate runtime_row_id in RX,PASS,424,unique row ids
+V5_013,runtime,no duplicate runtime_row_id in SWAPS,PASS,468,unique row ids
+V5_014,clinical,priority test expected outputs pass minimum row counts,PASS,12,Curated priority tests pass
+V5_015,release,v5 package is production-candidate not independent full-label verification,PASS,1,Honest limitation preserved

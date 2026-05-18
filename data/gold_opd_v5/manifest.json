@@ -1,0 +1,19 @@
+{
+  "schema_version": "gold-opd-v5-runtime-import-v1",
+  "counts": {
+    "opd_fast_index": 540,
+    "drug_short_lookup": 910,
+    "final_rx_now": 424,
+    "final_swaps_tiered": 468,
+    "peds_runtime_rules": 24,
+    "antibiotic_runtime_gates": 14,
+    "safety_runtime_gates": 20,
+    "clinical_test_cases": 114,
+    "clinical_expected_outputs": 114,
+    "clinical_gap_report": 345,
+    "runtime_patch": 113,
+    "app_integration_map": 9,
+    "validation_report": 15,
+    "change_log": 6
+  }
+}

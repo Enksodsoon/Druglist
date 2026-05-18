@@ -1,0 +1,3110 @@
+{
+  "items": [
+    {
+      "gap_id": "GAP_0001",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "asthma_child_5_11_chronic_management",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0002",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "asthma_over12_chronic_management",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0003",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "copd_suspected_over16_diagnosis",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0004",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "copd_suspected_over16_diagnosis",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0005",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "corn_callus_topical_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0006",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "corn_callus_topical_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0007",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "corn_callus_topical_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0008",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "familial_hypercholesterolaemia_adult_treatment",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0009",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "genitourinary_syndrome_menopause_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0010",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "genitourinary_syndrome_menopause_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0011",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "genitourinary_syndrome_menopause_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0012",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "genitourinary_syndrome_menopause_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0013",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "gout_urate_lowering_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0014",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "hypothyroidism_adult_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0015",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "menopause_vasomotor_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0016",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "menopause_vasomotor_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0017",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "menopause_vasomotor_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0018",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "menopause_vasomotor_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0019",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "menopause_vasomotor_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0020",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "migraine_adult_prevention_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0021",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "migraine_adult_prevention_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0022",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "migraine_over12_prevention_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0023",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "migraine_over12_prevention_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0024",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "migraine_peds_prevention_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0025",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "migraine_peds_prevention_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0026",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "migraine_peds_prevention_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0027",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "obesity_adult_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0028",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "obesity_adult_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0029",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "obesity_adult_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0030",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "obesity_adult_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0031",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "obesity_child_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0032",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "obesity_child_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0033",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "obesity_child_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0034",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "obesity_orlistat_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0035",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "obesity_orlistat_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0036",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "obesity_orlistat_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0037",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "osahs_rhinitis_management",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0038",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "painful_diabetic_polyneuropathy_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0039",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "painful_diabetic_polyneuropathy_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0040",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "painful_diabetic_polyneuropathy_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0041",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "painful_diabetic_polyneuropathy_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0042",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "premature_ovarian_insufficiency_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0043",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "premature_ovarian_insufficiency_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0044",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "premature_ovarian_insufficiency_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0045",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "ra_symptom_control_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0046",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "thyrotoxicosis_adult_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0047",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "type2_diabetes_metformin_candidate",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0048",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "vitamin_b12_deficiency_over16_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0049",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "vitamin_b12_deficiency_over16_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0050",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "wart_localized_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0051",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "wart_localized_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0052",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "wart_localized_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0053",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "constipation_peds_rescue",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0054",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "constipation_peds_rescue",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0055",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "hemorrhoid_symptom_support_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0056",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "hemorrhoid_symptom_support_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0057",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "contraception_review_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0058",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "contraception_review_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0059",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "contraception_review_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0060",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "hypertension_chronic_review_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0061",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "hypertension_chronic_review_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0062",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "bph_luts_review_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0063",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "bph_luts_review_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0064",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "cerumen_impaction_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0065",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "cerumen_impaction_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0066",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "iron_folate_supplement_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0067",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "iron_folate_supplement_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0068",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "vitamin_c_supplement_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0069",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "chronic_antiplatelet_review_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0070",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "chronic_antiplatelet_review_adult",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0071",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "seizure_medication_continuation_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0072",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "seizure_medication_continuation_review",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0073",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "herbal_product_reference",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0074",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "urinary_stone_support_reference",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0075",
+      "area": "runtime coverage",
+      "severity": "review",
+      "disease_key": "urinary_stone_support_reference",
+      "finding": "index disease has no runtime RX or SWAP rows",
+      "v5_action": "keep indexed but require manual/regimen build if clinically important",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "GAP_0076",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "allergic_rhinitis_adult",
+      "finding": "Removed Elomet 0.1 % [Mometasone Furoate 1 mg/1 g (0.1%)] from Final_RX_NOW_v4_1: removed Elomet skin product from rhinitis; replaced with Nasonex nasal spray",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0077",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "allergic_rhinitis_congestion_adult",
+      "finding": "Removed Elomet 0.1 % [Mometasone Furoate 1 mg/1 g (0.1%)] from Final_RX_NOW_v4_1: removed Elomet skin product from rhinitis; replaced with Nasonex nasal spray",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0078",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "aphthous_ulcer_pain_adult",
+      "finding": "Removed Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g] from Final_RX_NOW_v4_1: removed skin cream from oral ulcer",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0079",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "contact_lens_dry_eye_support_adult",
+      "finding": "Removed Bakamol 500 mg bottle 100s [Paracetamol 500 mg.] from Final_RX_NOW_v4_1: removed non-ocular row from dry eye",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0080",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dry_eye_adult",
+      "finding": "Removed Bakamol 500 mg bottle 100s [Paracetamol 500 mg.] from Final_RX_NOW_v4_1: removed non-ocular row from dry eye",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0081",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dry_eye_peds_support",
+      "finding": "Removed Bakamol 500 mg bottle 100s [Paracetamol 500 mg.] from Final_RX_NOW_v4_1: removed non-ocular row from dry eye",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0082",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "Removed Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.] from Final_RX_NOW_v4_1: removed URI modality from UTI/dysuria",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0083",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "Removed Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.] from Final_RX_NOW_v4_1: removed URI modality from UTI/dysuria",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0084",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "Removed Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.] from Final_RX_NOW_v4_1: removed URI modality from UTI/dysuria",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0085",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "Removed LeoPovidone [Povidone-Iodine 10% w/v] from Final_RX_NOW_v4_1: removed URI modality from UTI/dysuria",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0086",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "Removed Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.] from Final_RX_NOW_v4_1: removed URI modality from eczema/dermatitis",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0087",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "Removed Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.] from Final_RX_NOW_v4_1: removed URI modality from eczema/dermatitis",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0088",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "Removed Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.] from Final_RX_NOW_v4_1: removed URI modality from eczema/dermatitis",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0089",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "Removed LeoPovidone [Povidone-Iodine 10% w/v] from Final_RX_NOW_v4_1: removed URI modality from eczema/dermatitis",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0090",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "migraine_adult",
+      "finding": "Removed Difelene Gel เล็ก [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g)] from Final_RX_NOW_v4_1: removed topical MSK analgesic from headache/migraine",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0091",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "migraine_over12_acute",
+      "finding": "Removed Difelene Gel เล็ก [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g)] from Final_RX_NOW_v4_1: removed topical MSK analgesic from headache/migraine",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0092",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "oral_ulcer_adult",
+      "finding": "Removed Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g] from Final_RX_NOW_v4_1: removed skin cream from oral ulcer",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0093",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "screen_related_dry_eye_adult",
+      "finding": "Removed Bakamol 500 mg bottle 100s [Paracetamol 500 mg.] from Final_RX_NOW_v4_1: removed non-ocular row from dry eye",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0094",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tension_headache_adult",
+      "finding": "Removed Difelene Gel เล็ก [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g)] from Final_RX_NOW_v4_1: removed topical MSK analgesic from headache/migraine",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0095",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_corporis_localized_adult",
+      "finding": "Removed Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0096",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Bakamol 500 mg bottle 100s [Paracetamol 500 mg.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0097",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0098",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0099",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0100",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed LeoPovidone [Povidone-Iodine 10% w/v] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0101",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0102",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pedis_adult",
+      "finding": "Removed Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0103",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Bakamol 500 mg bottle 100s [Paracetamol 500 mg.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0104",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0105",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0106",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0107",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed LeoPovidone [Povidone-Iodine 10% w/v] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0108",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0109",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "Removed Cystaline [Acetylcysteine 600 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0110",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "Removed Mucolid [Ambroxol HCl 30 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0111",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "Removed Bisolvon [Bromhexine HCl 8 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0112",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "Removed Bocytin Capsule [Carbocysteine 375 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0113",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "Removed Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0114",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed unrelated UTI row",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0115",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "Removed Histatabs [Chlorpheniramine Maleate 4 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0116",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "Removed Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0117",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "Removed Actavia [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)] from Final_SWAPS_Tiered_v4_1: removed unrelated UTI row",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0118",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "Removed Cystaline [Acetylcysteine 600 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0119",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "Removed Mucolid [Ambroxol HCl 30 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0120",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "Removed Bisolvon [Bromhexine HCl 8 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0121",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "Removed Bocytin Capsule [Carbocysteine 375 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0122",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "Removed Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0123",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "Removed Histatabs [Chlorpheniramine Maleate 4 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0124",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "Removed Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0125",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "fungal_intertrigo_adult",
+      "finding": "Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0126",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_corporis_clotrimazole_adult",
+      "finding": "Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0127",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_corporis_localized_adult",
+      "finding": "Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0128",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_corporis_localized_adult",
+      "finding": "Removed Fenafex 180 mg [Fexofenadine HCl 180 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0129",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_corporis_localized_adult",
+      "finding": "Removed Aerius tabslet [Desloratadine 5 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0130",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_corporis_localized_adult",
+      "finding": "Removed Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0131",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Cystaline [Acetylcysteine 600 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0132",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Mucolid [Ambroxol HCl 30 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0133",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Bisolvon [Bromhexine HCl 8 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0134",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Bocytin Capsule [Carbocysteine 375 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0135",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0136",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0137",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Histatabs [Chlorpheniramine Maleate 4 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0138",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0139",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Actavia [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0140",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Fenafex 180 mg [Fexofenadine HCl 180 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0141",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Aerius tabslet [Desloratadine 5 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0142",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "Removed Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0143",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pedis_adult",
+      "finding": "Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0144",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pedis_adult",
+      "finding": "Removed Fenafex 180 mg [Fexofenadine HCl 180 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0145",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pedis_adult",
+      "finding": "Removed Aerius tabslet [Desloratadine 5 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0146",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pedis_adult",
+      "finding": "Removed Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0147",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Cystaline [Acetylcysteine 600 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0148",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Mucolid [Ambroxol HCl 30 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0149",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Bisolvon [Bromhexine HCl 8 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0150",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Bocytin Capsule [Carbocysteine 375 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0151",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0152",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0153",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Histatabs [Chlorpheniramine Maleate 4 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0154",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0155",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Actavia [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0156",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Fenafex 180 mg [Fexofenadine HCl 180 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0157",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Aerius tabslet [Desloratadine 5 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0158",
+      "area": "clinical row cleaning",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "Removed Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease",
+      "v5_action": "removed from v5 runtime",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0159",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "abdominal_colic_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0160",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "abdominal_colic_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0161",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "abdominal_colic_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0162",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "abdominal_colic_peds",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0163",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "abdominal_colic_peds",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0164",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "abdominal_colic_peds",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0165",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0166",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0167",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0168",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0169",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0170",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0171",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0172",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0173",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0174",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "localized_eczema_sensitive_area_adult",
+      "finding": "Skin/allergy-inflammatory → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0175",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "localized_eczema_sensitive_area_adult",
+      "finding": "Skin/allergy-inflammatory → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0176",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "localized_eczema_sensitive_area_adult",
+      "finding": "Skin/allergy-inflammatory → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0177",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0178",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0179",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0180",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0181",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_blockage_adult",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0182",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_blockage_adult",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0183",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_dryness_irritation_adult",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0184",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_dryness_irritation_adult",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0185",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_dryness_irritation_adult",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0186",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_irrigation_support_adult",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0187",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_irrigation_support_adult",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0188",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_irrigation_support_adult",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0189",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_irritation_peds",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0190",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_irritation_peds",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0191",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_irritation_peds",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0192",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "obesity_orlistat_adult",
+      "finding": "Chronic/weight → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0193",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "obesity_orlistat_adult",
+      "finding": "Chronic/weight → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0194",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "obesity_orlistat_adult",
+      "finding": "Chronic/weight → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0195",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "osahs_rhinitis_management",
+      "finding": "Chronic/review → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0196",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "painful_diabetic_polyneuropathy_adult",
+      "finding": "Chronic/neuropathic pain → Pain",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0197",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "painful_diabetic_polyneuropathy_adult",
+      "finding": "Chronic/neuropathic pain → Pain",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0198",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "painful_diabetic_polyneuropathy_adult",
+      "finding": "Chronic/neuropathic pain → Pain",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0199",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "painful_diabetic_polyneuropathy_adult",
+      "finding": "Chronic/neuropathic pain → Pain",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0200",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0201",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0202",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0203",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "renal_ureteric_stone_acute_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0204",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "renal_ureteric_stone_acute_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0205",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0206",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0207",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0208",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0209",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0210",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "type2_diabetes_metformin_candidate",
+      "finding": "Chronic/diabetes → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0211",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "urinary_stone_support_reference",
+      "finding": "GU/urology → ENT/URI-cough",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0212",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "urinary_stone_support_reference",
+      "finding": "GU/urology → ENT/URI-cough",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0213",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "abdominal_colic_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0214",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "abdominal_colic_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0215",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "abdominal_colic_peds",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0216",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0217",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0218",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0219",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0220",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0221",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0222",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0223",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0224",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0225",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0226",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0227",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0228",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0229",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0230",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0231",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0232",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0233",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "localized_eczema_sensitive_area_adult",
+      "finding": "Skin/allergy-inflammatory → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0234",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "localized_eczema_sensitive_area_adult",
+      "finding": "Skin/allergy-inflammatory → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0235",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "localized_eczema_sensitive_area_adult",
+      "finding": "Skin/allergy-inflammatory → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0236",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0237",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0238",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0239",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_blockage_adult",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0240",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_dryness_irritation_adult",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0241",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_irrigation_support_adult",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0242",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "nasal_irritation_peds",
+      "finding": "general → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0243",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0244",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0245",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0246",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0247",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0248",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "renal_ureteric_stone_acute_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0249",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "renal_ureteric_stone_acute_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0250",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "renal_ureteric_stone_acute_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0251",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0252",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0253",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0254",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0255",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0256",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0257",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0258",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0259",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0260",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0261",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0262",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0263",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0264",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0265",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0266",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "abdominal_colic_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0267",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "abdominal_colic_peds",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0268",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0269",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0270",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0271",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0272",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dental_pain_support_adult",
+      "finding": "Pain → Oral/dental",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0273",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0274",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0275",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0276",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0277",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0278",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0279",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0280",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0281",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0282",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "dysuria_lower_uti_adult",
+      "finding": "ENT/URI-cough → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0283",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0284",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0285",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0286",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0287",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0288",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0289",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0290",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0291",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0292",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0293",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "eczema_dry_pruritic_adult",
+      "finding": "ENT/URI-cough → Skin/allergy-inflammatory",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0294",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "localized_eczema_sensitive_area_adult",
+      "finding": "Skin/allergy-inflammatory → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0295",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "localized_eczema_sensitive_area_adult",
+      "finding": "Skin/allergy-inflammatory → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0296",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "localized_eczema_sensitive_area_adult",
+      "finding": "Skin/allergy-inflammatory → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0297",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "localized_eczema_sensitive_area_adult",
+      "finding": "Skin/allergy-inflammatory → GU/UTI",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0298",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0299",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0300",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0301",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0302",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0303",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0304",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "muscle_cramps_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0305",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0306",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0307",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0308",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0309",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0310",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0311",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0312",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0313",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "postnasal_drip_cough_adult",
+      "finding": "ENT/URI-cough → ENT/rhinitis",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0314",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "renal_ureteric_stone_acute_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0315",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "renal_ureteric_stone_acute_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0316",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "renal_ureteric_stone_acute_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0317",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "renal_ureteric_stone_acute_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0318",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "renal_ureteric_stone_acute_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0319",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "renal_ureteric_stone_acute_adult",
+      "finding": "GI/cramp → GI/GERD-dyspepsia",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0320",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0321",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0322",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0323",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0324",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0325",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0326",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0327",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0328",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0329",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0330",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0331",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0332",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_cruris_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0333",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0334",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0335",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0336",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0337",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0338",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0339",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0340",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0341",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0342",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0343",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0344",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    },
+    {
+      "gap_id": "GAP_0345",
+      "area": "category correction",
+      "severity": "fixed",
+      "disease_key": "tinea_pruritic_rash_adult",
+      "finding": "ENT/URI-cough → Skin/fungal",
+      "v5_action": "normalized by disease key",
+      "status": "FIXED"
+    }
+  ],
+  "count": 345
+}

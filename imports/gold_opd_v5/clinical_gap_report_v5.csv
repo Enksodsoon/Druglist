@@ -1,0 +1,346 @@
+gap_id,area,severity,disease_key,finding,v5_action,status
+GAP_0001,runtime coverage,review,asthma_child_5_11_chronic_management,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0002,runtime coverage,review,asthma_over12_chronic_management,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0003,runtime coverage,review,copd_suspected_over16_diagnosis,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0004,runtime coverage,review,copd_suspected_over16_diagnosis,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0005,runtime coverage,review,corn_callus_topical_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0006,runtime coverage,review,corn_callus_topical_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0007,runtime coverage,review,corn_callus_topical_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0008,runtime coverage,review,familial_hypercholesterolaemia_adult_treatment,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0009,runtime coverage,review,genitourinary_syndrome_menopause_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0010,runtime coverage,review,genitourinary_syndrome_menopause_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0011,runtime coverage,review,genitourinary_syndrome_menopause_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0012,runtime coverage,review,genitourinary_syndrome_menopause_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0013,runtime coverage,review,gout_urate_lowering_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0014,runtime coverage,review,hypothyroidism_adult_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0015,runtime coverage,review,menopause_vasomotor_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0016,runtime coverage,review,menopause_vasomotor_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0017,runtime coverage,review,menopause_vasomotor_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0018,runtime coverage,review,menopause_vasomotor_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0019,runtime coverage,review,menopause_vasomotor_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0020,runtime coverage,review,migraine_adult_prevention_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0021,runtime coverage,review,migraine_adult_prevention_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0022,runtime coverage,review,migraine_over12_prevention_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0023,runtime coverage,review,migraine_over12_prevention_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0024,runtime coverage,review,migraine_peds_prevention_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0025,runtime coverage,review,migraine_peds_prevention_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0026,runtime coverage,review,migraine_peds_prevention_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0027,runtime coverage,review,obesity_adult_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0028,runtime coverage,review,obesity_adult_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0029,runtime coverage,review,obesity_adult_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0030,runtime coverage,review,obesity_adult_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0031,runtime coverage,review,obesity_child_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0032,runtime coverage,review,obesity_child_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0033,runtime coverage,review,obesity_child_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0034,runtime coverage,review,obesity_orlistat_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0035,runtime coverage,review,obesity_orlistat_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0036,runtime coverage,review,obesity_orlistat_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0037,runtime coverage,review,osahs_rhinitis_management,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0038,runtime coverage,review,painful_diabetic_polyneuropathy_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0039,runtime coverage,review,painful_diabetic_polyneuropathy_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0040,runtime coverage,review,painful_diabetic_polyneuropathy_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0041,runtime coverage,review,painful_diabetic_polyneuropathy_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0042,runtime coverage,review,premature_ovarian_insufficiency_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0043,runtime coverage,review,premature_ovarian_insufficiency_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0044,runtime coverage,review,premature_ovarian_insufficiency_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0045,runtime coverage,review,ra_symptom_control_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0046,runtime coverage,review,thyrotoxicosis_adult_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0047,runtime coverage,review,type2_diabetes_metformin_candidate,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0048,runtime coverage,review,vitamin_b12_deficiency_over16_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0049,runtime coverage,review,vitamin_b12_deficiency_over16_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0050,runtime coverage,review,wart_localized_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0051,runtime coverage,review,wart_localized_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0052,runtime coverage,review,wart_localized_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0053,runtime coverage,review,constipation_peds_rescue,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0054,runtime coverage,review,constipation_peds_rescue,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0055,runtime coverage,review,hemorrhoid_symptom_support_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0056,runtime coverage,review,hemorrhoid_symptom_support_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0057,runtime coverage,review,contraception_review_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0058,runtime coverage,review,contraception_review_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0059,runtime coverage,review,contraception_review_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0060,runtime coverage,review,hypertension_chronic_review_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0061,runtime coverage,review,hypertension_chronic_review_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0062,runtime coverage,review,bph_luts_review_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0063,runtime coverage,review,bph_luts_review_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0064,runtime coverage,review,cerumen_impaction_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0065,runtime coverage,review,cerumen_impaction_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0066,runtime coverage,review,iron_folate_supplement_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0067,runtime coverage,review,iron_folate_supplement_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0068,runtime coverage,review,vitamin_c_supplement_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0069,runtime coverage,review,chronic_antiplatelet_review_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0070,runtime coverage,review,chronic_antiplatelet_review_adult,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0071,runtime coverage,review,seizure_medication_continuation_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0072,runtime coverage,review,seizure_medication_continuation_review,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0073,runtime coverage,review,herbal_product_reference,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0074,runtime coverage,review,urinary_stone_support_reference,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0075,runtime coverage,review,urinary_stone_support_reference,index disease has no runtime RX or SWAP rows,keep indexed but require manual/regimen build if clinically important,OPEN
+GAP_0076,clinical row cleaning,fixed,allergic_rhinitis_adult,Removed Elomet 0.1 % [Mometasone Furoate 1 mg/1 g (0.1%)] from Final_RX_NOW_v4_1: removed Elomet skin product from rhinitis; replaced with Nasonex nasal spray,removed from v5 runtime,FIXED
+GAP_0077,clinical row cleaning,fixed,allergic_rhinitis_congestion_adult,Removed Elomet 0.1 % [Mometasone Furoate 1 mg/1 g (0.1%)] from Final_RX_NOW_v4_1: removed Elomet skin product from rhinitis; replaced with Nasonex nasal spray,removed from v5 runtime,FIXED
+GAP_0078,clinical row cleaning,fixed,aphthous_ulcer_pain_adult,Removed Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g] from Final_RX_NOW_v4_1: removed skin cream from oral ulcer,removed from v5 runtime,FIXED
+GAP_0079,clinical row cleaning,fixed,contact_lens_dry_eye_support_adult,Removed Bakamol 500 mg bottle 100s [Paracetamol 500 mg.] from Final_RX_NOW_v4_1: removed non-ocular row from dry eye,removed from v5 runtime,FIXED
+GAP_0080,clinical row cleaning,fixed,dry_eye_adult,Removed Bakamol 500 mg bottle 100s [Paracetamol 500 mg.] from Final_RX_NOW_v4_1: removed non-ocular row from dry eye,removed from v5 runtime,FIXED
+GAP_0081,clinical row cleaning,fixed,dry_eye_peds_support,Removed Bakamol 500 mg bottle 100s [Paracetamol 500 mg.] from Final_RX_NOW_v4_1: removed non-ocular row from dry eye,removed from v5 runtime,FIXED
+GAP_0082,clinical row cleaning,fixed,dysuria_lower_uti_adult,Removed Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.] from Final_RX_NOW_v4_1: removed URI modality from UTI/dysuria,removed from v5 runtime,FIXED
+GAP_0083,clinical row cleaning,fixed,dysuria_lower_uti_adult,"Removed Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.] from Final_RX_NOW_v4_1: removed URI modality from UTI/dysuria",removed from v5 runtime,FIXED
+GAP_0084,clinical row cleaning,fixed,dysuria_lower_uti_adult,Removed Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.] from Final_RX_NOW_v4_1: removed URI modality from UTI/dysuria,removed from v5 runtime,FIXED
+GAP_0085,clinical row cleaning,fixed,dysuria_lower_uti_adult,Removed LeoPovidone [Povidone-Iodine 10% w/v] from Final_RX_NOW_v4_1: removed URI modality from UTI/dysuria,removed from v5 runtime,FIXED
+GAP_0086,clinical row cleaning,fixed,eczema_dry_pruritic_adult,Removed Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.] from Final_RX_NOW_v4_1: removed URI modality from eczema/dermatitis,removed from v5 runtime,FIXED
+GAP_0087,clinical row cleaning,fixed,eczema_dry_pruritic_adult,"Removed Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.] from Final_RX_NOW_v4_1: removed URI modality from eczema/dermatitis",removed from v5 runtime,FIXED
+GAP_0088,clinical row cleaning,fixed,eczema_dry_pruritic_adult,Removed Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.] from Final_RX_NOW_v4_1: removed URI modality from eczema/dermatitis,removed from v5 runtime,FIXED
+GAP_0089,clinical row cleaning,fixed,eczema_dry_pruritic_adult,Removed LeoPovidone [Povidone-Iodine 10% w/v] from Final_RX_NOW_v4_1: removed URI modality from eczema/dermatitis,removed from v5 runtime,FIXED
+GAP_0090,clinical row cleaning,fixed,migraine_adult,Removed Difelene Gel เล็ก [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g)] from Final_RX_NOW_v4_1: removed topical MSK analgesic from headache/migraine,removed from v5 runtime,FIXED
+GAP_0091,clinical row cleaning,fixed,migraine_over12_acute,Removed Difelene Gel เล็ก [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g)] from Final_RX_NOW_v4_1: removed topical MSK analgesic from headache/migraine,removed from v5 runtime,FIXED
+GAP_0092,clinical row cleaning,fixed,oral_ulcer_adult,Removed Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g] from Final_RX_NOW_v4_1: removed skin cream from oral ulcer,removed from v5 runtime,FIXED
+GAP_0093,clinical row cleaning,fixed,screen_related_dry_eye_adult,Removed Bakamol 500 mg bottle 100s [Paracetamol 500 mg.] from Final_RX_NOW_v4_1: removed non-ocular row from dry eye,removed from v5 runtime,FIXED
+GAP_0094,clinical row cleaning,fixed,tension_headache_adult,Removed Difelene Gel เล็ก [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g)] from Final_RX_NOW_v4_1: removed topical MSK analgesic from headache/migraine,removed from v5 runtime,FIXED
+GAP_0095,clinical row cleaning,fixed,tinea_corporis_localized_adult,Removed Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0096,clinical row cleaning,fixed,tinea_cruris_adult,Removed Bakamol 500 mg bottle 100s [Paracetamol 500 mg.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0097,clinical row cleaning,fixed,tinea_cruris_adult,Removed Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0098,clinical row cleaning,fixed,tinea_cruris_adult,"Removed Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",removed from v5 runtime,FIXED
+GAP_0099,clinical row cleaning,fixed,tinea_cruris_adult,Removed Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0100,clinical row cleaning,fixed,tinea_cruris_adult,Removed LeoPovidone [Povidone-Iodine 10% w/v] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0101,clinical row cleaning,fixed,tinea_cruris_adult,Removed Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0102,clinical row cleaning,fixed,tinea_pedis_adult,Removed Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0103,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Bakamol 500 mg bottle 100s [Paracetamol 500 mg.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0104,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0105,clinical row cleaning,fixed,tinea_pruritic_rash_adult,"Removed Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease",removed from v5 runtime,FIXED
+GAP_0106,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0107,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed LeoPovidone [Povidone-Iodine 10% w/v] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0108,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g] from Final_RX_NOW_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0109,clinical row cleaning,fixed,dysuria_lower_uti_adult,Removed Cystaline [Acetylcysteine 600 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria,removed from v5 runtime,FIXED
+GAP_0110,clinical row cleaning,fixed,dysuria_lower_uti_adult,Removed Mucolid [Ambroxol HCl 30 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria,removed from v5 runtime,FIXED
+GAP_0111,clinical row cleaning,fixed,dysuria_lower_uti_adult,Removed Bisolvon [Bromhexine HCl 8 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria,removed from v5 runtime,FIXED
+GAP_0112,clinical row cleaning,fixed,dysuria_lower_uti_adult,Removed Bocytin Capsule [Carbocysteine 375 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria,removed from v5 runtime,FIXED
+GAP_0113,clinical row cleaning,fixed,dysuria_lower_uti_adult,Removed Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria,removed from v5 runtime,FIXED
+GAP_0114,clinical row cleaning,fixed,dysuria_lower_uti_adult,Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed unrelated UTI row,removed from v5 runtime,FIXED
+GAP_0115,clinical row cleaning,fixed,dysuria_lower_uti_adult,Removed Histatabs [Chlorpheniramine Maleate 4 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria,removed from v5 runtime,FIXED
+GAP_0116,clinical row cleaning,fixed,dysuria_lower_uti_adult,Removed Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from UTI/dysuria,removed from v5 runtime,FIXED
+GAP_0117,clinical row cleaning,fixed,dysuria_lower_uti_adult,Removed Actavia [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)] from Final_SWAPS_Tiered_v4_1: removed unrelated UTI row,removed from v5 runtime,FIXED
+GAP_0118,clinical row cleaning,fixed,eczema_dry_pruritic_adult,Removed Cystaline [Acetylcysteine 600 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis,removed from v5 runtime,FIXED
+GAP_0119,clinical row cleaning,fixed,eczema_dry_pruritic_adult,Removed Mucolid [Ambroxol HCl 30 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis,removed from v5 runtime,FIXED
+GAP_0120,clinical row cleaning,fixed,eczema_dry_pruritic_adult,Removed Bisolvon [Bromhexine HCl 8 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis,removed from v5 runtime,FIXED
+GAP_0121,clinical row cleaning,fixed,eczema_dry_pruritic_adult,Removed Bocytin Capsule [Carbocysteine 375 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis,removed from v5 runtime,FIXED
+GAP_0122,clinical row cleaning,fixed,eczema_dry_pruritic_adult,Removed Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis,removed from v5 runtime,FIXED
+GAP_0123,clinical row cleaning,fixed,eczema_dry_pruritic_adult,Removed Histatabs [Chlorpheniramine Maleate 4 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis,removed from v5 runtime,FIXED
+GAP_0124,clinical row cleaning,fixed,eczema_dry_pruritic_adult,Removed Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.] from Final_SWAPS_Tiered_v4_1: removed URI modality from eczema/dermatitis,removed from v5 runtime,FIXED
+GAP_0125,clinical row cleaning,fixed,fungal_intertrigo_adult,Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0126,clinical row cleaning,fixed,tinea_corporis_clotrimazole_adult,Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0127,clinical row cleaning,fixed,tinea_corporis_localized_adult,Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0128,clinical row cleaning,fixed,tinea_corporis_localized_adult,Removed Fenafex 180 mg [Fexofenadine HCl 180 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0129,clinical row cleaning,fixed,tinea_corporis_localized_adult,Removed Aerius tabslet [Desloratadine 5 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0130,clinical row cleaning,fixed,tinea_corporis_localized_adult,Removed Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0131,clinical row cleaning,fixed,tinea_cruris_adult,Removed Cystaline [Acetylcysteine 600 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0132,clinical row cleaning,fixed,tinea_cruris_adult,Removed Mucolid [Ambroxol HCl 30 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0133,clinical row cleaning,fixed,tinea_cruris_adult,Removed Bisolvon [Bromhexine HCl 8 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0134,clinical row cleaning,fixed,tinea_cruris_adult,Removed Bocytin Capsule [Carbocysteine 375 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0135,clinical row cleaning,fixed,tinea_cruris_adult,Removed Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0136,clinical row cleaning,fixed,tinea_cruris_adult,Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0137,clinical row cleaning,fixed,tinea_cruris_adult,Removed Histatabs [Chlorpheniramine Maleate 4 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0138,clinical row cleaning,fixed,tinea_cruris_adult,Removed Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0139,clinical row cleaning,fixed,tinea_cruris_adult,Removed Actavia [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0140,clinical row cleaning,fixed,tinea_cruris_adult,Removed Fenafex 180 mg [Fexofenadine HCl 180 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0141,clinical row cleaning,fixed,tinea_cruris_adult,Removed Aerius tabslet [Desloratadine 5 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0142,clinical row cleaning,fixed,tinea_cruris_adult,Removed Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0143,clinical row cleaning,fixed,tinea_pedis_adult,Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0144,clinical row cleaning,fixed,tinea_pedis_adult,Removed Fenafex 180 mg [Fexofenadine HCl 180 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0145,clinical row cleaning,fixed,tinea_pedis_adult,Removed Aerius tabslet [Desloratadine 5 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0146,clinical row cleaning,fixed,tinea_pedis_adult,Removed Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0147,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Cystaline [Acetylcysteine 600 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0148,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Mucolid [Ambroxol HCl 30 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0149,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Bisolvon [Bromhexine HCl 8 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0150,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Bocytin Capsule [Carbocysteine 375 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0151,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0152,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Alerest [Cetirizine dihydrochloride 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0153,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Histatabs [Chlorpheniramine Maleate 4 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0154,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0155,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Actavia [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0156,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Fenafex 180 mg [Fexofenadine HCl 180 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0157,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Aerius tabslet [Desloratadine 5 mg.] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0158,clinical row cleaning,fixed,tinea_pruritic_rash_adult,Removed Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%] from Final_SWAPS_Tiered_v4_1: removed non-antifungal/URI/steroid row from fungal disease,removed from v5 runtime,FIXED
+GAP_0159,category correction,fixed,abdominal_colic_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0160,category correction,fixed,abdominal_colic_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0161,category correction,fixed,abdominal_colic_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0162,category correction,fixed,abdominal_colic_peds,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0163,category correction,fixed,abdominal_colic_peds,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0164,category correction,fixed,abdominal_colic_peds,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0165,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0166,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0167,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0168,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0169,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0170,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0171,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0172,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0173,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0174,category correction,fixed,localized_eczema_sensitive_area_adult,Skin/allergy-inflammatory → GU/UTI,normalized by disease key,FIXED
+GAP_0175,category correction,fixed,localized_eczema_sensitive_area_adult,Skin/allergy-inflammatory → GU/UTI,normalized by disease key,FIXED
+GAP_0176,category correction,fixed,localized_eczema_sensitive_area_adult,Skin/allergy-inflammatory → GU/UTI,normalized by disease key,FIXED
+GAP_0177,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0178,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0179,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0180,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0181,category correction,fixed,nasal_blockage_adult,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0182,category correction,fixed,nasal_blockage_adult,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0183,category correction,fixed,nasal_dryness_irritation_adult,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0184,category correction,fixed,nasal_dryness_irritation_adult,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0185,category correction,fixed,nasal_dryness_irritation_adult,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0186,category correction,fixed,nasal_irrigation_support_adult,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0187,category correction,fixed,nasal_irrigation_support_adult,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0188,category correction,fixed,nasal_irrigation_support_adult,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0189,category correction,fixed,nasal_irritation_peds,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0190,category correction,fixed,nasal_irritation_peds,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0191,category correction,fixed,nasal_irritation_peds,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0192,category correction,fixed,obesity_orlistat_adult,Chronic/weight → Skin/fungal,normalized by disease key,FIXED
+GAP_0193,category correction,fixed,obesity_orlistat_adult,Chronic/weight → Skin/fungal,normalized by disease key,FIXED
+GAP_0194,category correction,fixed,obesity_orlistat_adult,Chronic/weight → Skin/fungal,normalized by disease key,FIXED
+GAP_0195,category correction,fixed,osahs_rhinitis_management,Chronic/review → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0196,category correction,fixed,painful_diabetic_polyneuropathy_adult,Chronic/neuropathic pain → Pain,normalized by disease key,FIXED
+GAP_0197,category correction,fixed,painful_diabetic_polyneuropathy_adult,Chronic/neuropathic pain → Pain,normalized by disease key,FIXED
+GAP_0198,category correction,fixed,painful_diabetic_polyneuropathy_adult,Chronic/neuropathic pain → Pain,normalized by disease key,FIXED
+GAP_0199,category correction,fixed,painful_diabetic_polyneuropathy_adult,Chronic/neuropathic pain → Pain,normalized by disease key,FIXED
+GAP_0200,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0201,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0202,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0203,category correction,fixed,renal_ureteric_stone_acute_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0204,category correction,fixed,renal_ureteric_stone_acute_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0205,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0206,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0207,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0208,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0209,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0210,category correction,fixed,type2_diabetes_metformin_candidate,Chronic/diabetes → Skin/fungal,normalized by disease key,FIXED
+GAP_0211,category correction,fixed,urinary_stone_support_reference,GU/urology → ENT/URI-cough,normalized by disease key,FIXED
+GAP_0212,category correction,fixed,urinary_stone_support_reference,GU/urology → ENT/URI-cough,normalized by disease key,FIXED
+GAP_0213,category correction,fixed,abdominal_colic_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0214,category correction,fixed,abdominal_colic_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0215,category correction,fixed,abdominal_colic_peds,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0216,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0217,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0218,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0219,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0220,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0221,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0222,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0223,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0224,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0225,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0226,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0227,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0228,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0229,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0230,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0231,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0232,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0233,category correction,fixed,localized_eczema_sensitive_area_adult,Skin/allergy-inflammatory → GU/UTI,normalized by disease key,FIXED
+GAP_0234,category correction,fixed,localized_eczema_sensitive_area_adult,Skin/allergy-inflammatory → GU/UTI,normalized by disease key,FIXED
+GAP_0235,category correction,fixed,localized_eczema_sensitive_area_adult,Skin/allergy-inflammatory → GU/UTI,normalized by disease key,FIXED
+GAP_0236,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0237,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0238,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0239,category correction,fixed,nasal_blockage_adult,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0240,category correction,fixed,nasal_dryness_irritation_adult,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0241,category correction,fixed,nasal_irrigation_support_adult,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0242,category correction,fixed,nasal_irritation_peds,general → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0243,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0244,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0245,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0246,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0247,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0248,category correction,fixed,renal_ureteric_stone_acute_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0249,category correction,fixed,renal_ureteric_stone_acute_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0250,category correction,fixed,renal_ureteric_stone_acute_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0251,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0252,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0253,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0254,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0255,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0256,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0257,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0258,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0259,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0260,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0261,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0262,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0263,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0264,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0265,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0266,category correction,fixed,abdominal_colic_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0267,category correction,fixed,abdominal_colic_peds,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0268,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0269,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0270,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0271,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0272,category correction,fixed,dental_pain_support_adult,Pain → Oral/dental,normalized by disease key,FIXED
+GAP_0273,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0274,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0275,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0276,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0277,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0278,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0279,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0280,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0281,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0282,category correction,fixed,dysuria_lower_uti_adult,ENT/URI-cough → GU/UTI,normalized by disease key,FIXED
+GAP_0283,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0284,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0285,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0286,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0287,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0288,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0289,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0290,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0291,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0292,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0293,category correction,fixed,eczema_dry_pruritic_adult,ENT/URI-cough → Skin/allergy-inflammatory,normalized by disease key,FIXED
+GAP_0294,category correction,fixed,localized_eczema_sensitive_area_adult,Skin/allergy-inflammatory → GU/UTI,normalized by disease key,FIXED
+GAP_0295,category correction,fixed,localized_eczema_sensitive_area_adult,Skin/allergy-inflammatory → GU/UTI,normalized by disease key,FIXED
+GAP_0296,category correction,fixed,localized_eczema_sensitive_area_adult,Skin/allergy-inflammatory → GU/UTI,normalized by disease key,FIXED
+GAP_0297,category correction,fixed,localized_eczema_sensitive_area_adult,Skin/allergy-inflammatory → GU/UTI,normalized by disease key,FIXED
+GAP_0298,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0299,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0300,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0301,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0302,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0303,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0304,category correction,fixed,muscle_cramps_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0305,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0306,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0307,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0308,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0309,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0310,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0311,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0312,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0313,category correction,fixed,postnasal_drip_cough_adult,ENT/URI-cough → ENT/rhinitis,normalized by disease key,FIXED
+GAP_0314,category correction,fixed,renal_ureteric_stone_acute_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0315,category correction,fixed,renal_ureteric_stone_acute_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0316,category correction,fixed,renal_ureteric_stone_acute_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0317,category correction,fixed,renal_ureteric_stone_acute_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0318,category correction,fixed,renal_ureteric_stone_acute_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0319,category correction,fixed,renal_ureteric_stone_acute_adult,GI/cramp → GI/GERD-dyspepsia,normalized by disease key,FIXED
+GAP_0320,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0321,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0322,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0323,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0324,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0325,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0326,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0327,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0328,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0329,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0330,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0331,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0332,category correction,fixed,tinea_cruris_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0333,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0334,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0335,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0336,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0337,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0338,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0339,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0340,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0341,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0342,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0343,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0344,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED
+GAP_0345,category correction,fixed,tinea_pruritic_rash_adult,ENT/URI-cough → Skin/fungal,normalized by disease key,FIXED

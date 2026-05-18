@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "check_id": "V5_001",
+      "area": "products",
+      "rule": "all 910 product rows preserved in Drug_Short_Lookup_v5",
+      "result": "PASS",
+      "count": "910",
+      "notes": "Expected 910 from v4.1"
+    },
+    {
+      "check_id": "V5_002",
+      "area": "products",
+      "rule": "no blank product_id",
+      "result": "PASS",
+      "count": "0",
+      "notes": "0 blanks expected"
+    },
+    {
+      "check_id": "V5_003",
+      "area": "index",
+      "rule": "OPD_Fast_Index_v5 has complaint aliases",
+      "result": "PASS",
+      "count": "540",
+      "notes": "v5 aliases added"
+    },
+    {
+      "check_id": "V5_004",
+      "area": "clinical_cleaning",
+      "rule": "obvious URI rows removed from tinea/UTI/dry-eye/migraine/oral ulcer",
+      "result": "PASS",
+      "count": "83",
+      "notes": "Removed unsafe/irrelevant runtime rows"
+    },
+    {
+      "check_id": "V5_005",
+      "area": "clinical",
+      "rule": "priority curated rows added",
+      "result": "PASS",
+      "count": "30",
+      "notes": "v5 common OPD patches"
+    },
+    {
+      "check_id": "V5_006",
+      "area": "antibiotic",
+      "rule": "antibiotic gates include UTI and skin infection",
+      "result": "PASS",
+      "count": "2",
+      "notes": "Added ABX_UTI and ABX_SKIN"
+    },
+    {
+      "check_id": "V5_007",
+      "area": "antibiotic",
+      "rule": "all antibiotic-flag rows have gate_required not standard",
+      "result": "PASS",
+      "count": "69",
+      "notes": "antibiotic rows gated"
+    },
+    {
+      "check_id": "V5_008",
+      "area": "pediatrics",
+      "rule": "pediatric runtime rules preserved and expanded",
+      "result": "PASS",
+      "count": "24",
+      "notes": "No pediatric dose fabricated beyond formula/gate rows"
+    },
+    {
+      "check_id": "V5_009",
+      "area": "safety",
+      "rule": "safety gates include eye, tinea steroid, pregnancy NSAID",
+      "result": "PASS",
+      "count": "3",
+      "notes": "Added common critical safety gates"
+    },
+    {
+      "check_id": "V5_010",
+      "area": "tests",
+      "rule": "clinical test cases include curated priority cases",
+      "result": "PASS",
+      "count": "114",
+      "notes": "Clinical QA test set"
+    },
+    {
+      "check_id": "V5_011",
+      "area": "expected_outputs",
+      "rule": "expected output table generated for clinical tests",
+      "result": "PASS",
+      "count": "114",
+      "notes": "Generated from v5 runtime"
+    },
+    {
+      "check_id": "V5_012",
+      "area": "runtime",
+      "rule": "no duplicate runtime_row_id in RX",
+      "result": "PASS",
+      "count": "424",
+      "notes": "unique row ids"
+    },
+    {
+      "check_id": "V5_013",
+      "area": "runtime",
+      "rule": "no duplicate runtime_row_id in SWAPS",
+      "result": "PASS",
+      "count": "468",
+      "notes": "unique row ids"
+    },
+    {
+      "check_id": "V5_014",
+      "area": "clinical",
+      "rule": "priority test expected outputs pass minimum row counts",
+      "result": "PASS",
+      "count": "12",
+      "notes": "Curated priority tests pass"
+    },
+    {
+      "check_id": "V5_015",
+      "area": "release",
+      "rule": "v5 package is production-candidate not independent full-label verification",
+      "result": "PASS",
+      "count": "1",
+      "notes": "Honest limitation preserved"
+    }
+  ],
+  "count": 15
+}

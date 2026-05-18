@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "version": "v5.0",
+      "date": "2026-05-17",
+      "area": "scope",
+      "change": "Collapsed v4.2–v4.5 plan into one v5 production-candidate pack",
+      "impact": "single workbook/ZIP usable for app/GPT integration"
+    },
+    {
+      "version": "v5.0",
+      "date": "2026-05-17",
+      "area": "clinical QA",
+      "change": "Removed 83 clinically irrelevant or unsafe runtime rows",
+      "impact": "less wrong multimodality leakage"
+    },
+    {
+      "version": "v5.0",
+      "date": "2026-05-17",
+      "area": "runtime",
+      "change": "Added 16 RX rows and 14 SWAP rows for priority OPD cases",
+      "impact": "better common clinic behavior"
+    },
+    {
+      "version": "v5.0",
+      "date": "2026-05-17",
+      "area": "aliases",
+      "change": "Added curated aliases; fast index now 540 rows",
+      "impact": "more short OPD inputs resolve directly"
+    },
+    {
+      "version": "v5.0",
+      "date": "2026-05-17",
+      "area": "antibiotics",
+      "change": "Added UTI and skin infection antibiotic gates",
+      "impact": "antibiotics stay gated instead of leaking into viral/allergic cases"
+    },
+    {
+      "version": "v5.0",
+      "date": "2026-05-17",
+      "area": "pediatrics",
+      "change": "Added formula-ready pediatric shortcut rows and calculator template",
+      "impact": "age/BW guarded, no fabricated pediatric dose rows"
+    }
+  ],
+  "count": 6
+}

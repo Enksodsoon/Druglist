@@ -1,0 +1,114 @@
+patch_id,target_sheet,action,disease_key,BDS,drug_product,reason
+PATCH_RX_0001,Final_RX_NOW_v5,ADD,viral_uri_wet_cough_adult,BDS040614,Bakamol 500 mg bottle 100s [Paracetamol 500 mg.],v5 curated default/controlled row
+PATCH_RX_0002,Final_RX_NOW_v5,ADD,viral_uri_wet_cough_adult,BDS002901,Nac Long [Acetylcysteine 600 mg.],v5 curated default/controlled row
+PATCH_RX_0003,Final_RX_NOW_v5,ADD,viral_uri_wet_cough_adult,BDS044313,Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.],v5 curated default/controlled row
+PATCH_RX_0004,Final_RX_NOW_v5,ADD,viral_uri_with_diarrhea_adult,BDS008282,Cera ORS รสส้ม [Glucose Anhydrous 3 g.+Sodium Chloride 0.53 g.+Potassium Chloride 0.23 g.+Sodium Citrate Dihydrate 0.44 g.],v5 curated default/controlled row
+PATCH_RX_0005,Final_RX_NOW_v5,ADD,viral_uri_with_diarrhea_adult,BDS001248,Bioflor [Lyophilized Saccharomyces boulardii 250 mg.],v5 curated default/controlled row
+PATCH_RX_0006,Final_RX_NOW_v5,ADD,viral_uri_with_diarrhea_adult,BDS040614,Bakamol 500 mg bottle 100s [Paracetamol 500 mg.],v5 curated default/controlled row
+PATCH_RX_0007,Final_RX_NOW_v5,ADD,allergic_rhinitis_adult,BDS002807,Nasonex 140 doses [Mometasone Furoate Monohydrate (eq. to Mometasone Furoate 50 mcg/dose)+Preservative (Benzalkonium Chloride 0.2 mg/g)],v5 curated default/controlled row
+PATCH_RX_0008,Final_RX_NOW_v5,ADD,allergic_rhinitis_adult,BDS044313,Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.],v5 curated default/controlled row
+PATCH_RX_0009,Final_RX_NOW_v5,ADD,dry_eye_adult,BDS047637,Systane Ultra (UD) Lubricant Eye Drops [Polyethylene Glycol 400 0.4%+Propylene Glycol 0.3%+Aminomethylpropanol+Boric Acid+Hydroxypropyl Guar+Potassium Chloride+Sodium Chloride+Sorbitol+Hydrochloric Acid+Sodium Hydroxide/1 ml.],v5 curated default/controlled row
+PATCH_RX_0010,Final_RX_NOW_v5,ADD,tinea_cruris_adult,BDS001489,Canesten Cream 10 g [Clotrimazole 1 g./100 g.],v5 curated default/controlled row
+PATCH_RX_0011,Final_RX_NOW_v5,ADD,tinea_cruris_adult,BDS002563,Lamisil Cream [Terbinafine HCl 10 mg./1 g.],v5 curated default/controlled row
+PATCH_RX_0012,Final_RX_NOW_v5,ADD,uncomplicated_uti_adult,BDS007591,Noflox-400 [Norfloxacin 400 mg.],v5 curated default/controlled row
+PATCH_RX_0013,Final_RX_NOW_v5,ADD,uncomplicated_uti_adult,BDS040614,Bakamol 500 mg bottle 100s [Paracetamol 500 mg.],v5 curated default/controlled row
+PATCH_RX_0014,Final_RX_NOW_v5,ADD,primary_dysmenorrhea_adult,BDS002042,Gofen 400 [Ibuprofen 400 mg.+Polyethylene 400+Porpylene Glycol],v5 curated default/controlled row
+PATCH_RX_0015,Final_RX_NOW_v5,ADD,impetigo_localized_adult,BDS001991,Fucidin Cream [Fusidic acid 20 mg./1 g.],v5 curated default/controlled row
+PATCH_RX_0016,Final_RX_NOW_v5,ADD,aphthous_ulcer_pain_adult,BDS002430,Kamistad-Gel N [Lidocaine HCl 20 mg.+Chamomile Flower Extract 185 mg.+Ethanol 50% v/v+Tromethamole 1.37% w/w+Preservative (Benzalkonium Chloride 1 mg.)/1 g.],v5 curated default/controlled row
+PATCH_SWAP_0017,Final_SWAPS_Tiered_v5,ADD,viral_uri_wet_cough_adult,BDS042357,"Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.]",v5 curated tiered alternative
+PATCH_SWAP_0018,Final_SWAPS_Tiered_v5,ADD,viral_uri_wet_cough_adult,BDS006462,Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.],v5 curated tiered alternative
+PATCH_SWAP_0019,Final_SWAPS_Tiered_v5,ADD,viral_uri_wet_cough_adult,BDS002655,Mucolid [Ambroxol HCl 30 mg.],v5 curated tiered alternative
+PATCH_SWAP_0020,Final_SWAPS_Tiered_v5,ADD,viral_uri_with_diarrhea_adult,BDS042304,Dehecta [Dioctahedral Smectite 3 g./20 ml.],v5 curated tiered alternative
+PATCH_SWAP_0021,Final_SWAPS_Tiered_v5,ADD,viral_uri_with_diarrhea_adult,BDS043842,Hidrasec 100 mg. [Racecadotril 100 mg.],v5 curated tiered alternative
+PATCH_SWAP_0022,Final_SWAPS_Tiered_v5,ADD,allergic_rhinitis_adult,BDS003747,Telfast 180 mg [Fexofenadine HCl 180 mg.],v5 curated tiered alternative
+PATCH_SWAP_0023,Final_SWAPS_Tiered_v5,ADD,allergic_rhinitis_adult,BDS040630,Bilaxten [Bilastine 20 mg.],v5 curated tiered alternative
+PATCH_SWAP_0024,Final_SWAPS_Tiered_v5,ADD,dry_eye_adult,BDS004035,Vislube [Sodium Hyaluronate 0.18% (Sodium Hyaluronate 1.8 mg.+Sodium Chloride 2.8 mg.+Potassium Chloride 1 mg.+Disodium Hydrogenphosphate 3.2 mg.+Sodium Citrate 0.3 mg.+Magnesium Chloride 0.09 mg.+Calcium Chloride 0.09 mg.)],v5 curated tiered alternative
+PATCH_SWAP_0025,Final_SWAPS_Tiered_v5,ADD,tinea_cruris_adult,BDS002563,Lamisil Cream [Terbinafine HCl 10 mg./1 g.],v5 curated tiered alternative
+PATCH_SWAP_0026,Final_SWAPS_Tiered_v5,ADD,uncomplicated_uti_adult,BDS040614,Bakamol 500 mg bottle 100s [Paracetamol 500 mg.],v5 curated tiered alternative
+PATCH_SWAP_0027,Final_SWAPS_Tiered_v5,ADD,primary_dysmenorrhea_adult,BDS045624,Naprofazt [Naproxen (as Naproxen Sodium) 250 mg.],v5 curated tiered alternative
+PATCH_SWAP_0028,Final_SWAPS_Tiered_v5,ADD,primary_dysmenorrhea_adult,BDS040614,Bakamol 500 mg bottle 100s [Paracetamol 500 mg.],v5 curated tiered alternative
+PATCH_SWAP_0029,Final_SWAPS_Tiered_v5,ADD,impetigo_localized_adult,BDS008231,Mulacin Ointment [Mupirocin 2% w/w],v5 curated tiered alternative
+PATCH_SWAP_0030,Final_SWAPS_Tiered_v5,ADD,aphthous_ulcer_pain_adult,BDS006462,Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.],v5 curated tiered alternative
+PATCH_CLEAN_0031,Final_RX_NOW_v5,REMOVE,allergic_rhinitis_adult,BDS001803,Elomet 0.1 % [Mometasone Furoate 1 mg/1 g (0.1%)],removed Elomet skin product from rhinitis; replaced with Nasonex nasal spray
+PATCH_CLEAN_0032,Final_RX_NOW_v5,REMOVE,allergic_rhinitis_congestion_adult,BDS001803,Elomet 0.1 % [Mometasone Furoate 1 mg/1 g (0.1%)],removed Elomet skin product from rhinitis; replaced with Nasonex nasal spray
+PATCH_CLEAN_0033,Final_RX_NOW_v5,REMOVE,aphthous_ulcer_pain_adult,BDS006745,Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g],removed skin cream from oral ulcer
+PATCH_CLEAN_0034,Final_RX_NOW_v5,REMOVE,contact_lens_dry_eye_support_adult,BDS040614,Bakamol 500 mg bottle 100s [Paracetamol 500 mg.],removed non-ocular row from dry eye
+PATCH_CLEAN_0035,Final_RX_NOW_v5,REMOVE,dry_eye_adult,BDS040614,Bakamol 500 mg bottle 100s [Paracetamol 500 mg.],removed non-ocular row from dry eye
+PATCH_CLEAN_0036,Final_RX_NOW_v5,REMOVE,dry_eye_peds_support,BDS040614,Bakamol 500 mg bottle 100s [Paracetamol 500 mg.],removed non-ocular row from dry eye
+PATCH_CLEAN_0037,Final_RX_NOW_v5,REMOVE,dysuria_lower_uti_adult,BDS044313,Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.],removed URI modality from UTI/dysuria
+PATCH_CLEAN_0038,Final_RX_NOW_v5,REMOVE,dysuria_lower_uti_adult,BDS042357,"Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.]",removed URI modality from UTI/dysuria
+PATCH_CLEAN_0039,Final_RX_NOW_v5,REMOVE,dysuria_lower_uti_adult,BDS006462,Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.],removed URI modality from UTI/dysuria
+PATCH_CLEAN_0040,Final_RX_NOW_v5,REMOVE,dysuria_lower_uti_adult,BDS044520,LeoPovidone [Povidone-Iodine 10% w/v],removed URI modality from UTI/dysuria
+PATCH_CLEAN_0041,Final_RX_NOW_v5,REMOVE,eczema_dry_pruritic_adult,BDS044313,Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.],removed URI modality from eczema/dermatitis
+PATCH_CLEAN_0042,Final_RX_NOW_v5,REMOVE,eczema_dry_pruritic_adult,BDS042357,"Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.]",removed URI modality from eczema/dermatitis
+PATCH_CLEAN_0043,Final_RX_NOW_v5,REMOVE,eczema_dry_pruritic_adult,BDS006462,Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.],removed URI modality from eczema/dermatitis
+PATCH_CLEAN_0044,Final_RX_NOW_v5,REMOVE,eczema_dry_pruritic_adult,BDS044520,LeoPovidone [Povidone-Iodine 10% w/v],removed URI modality from eczema/dermatitis
+PATCH_CLEAN_0045,Final_RX_NOW_v5,REMOVE,migraine_adult,BDS001656,Difelene Gel เล็ก [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g)],removed topical MSK analgesic from headache/migraine
+PATCH_CLEAN_0046,Final_RX_NOW_v5,REMOVE,migraine_over12_acute,BDS001656,Difelene Gel เล็ก [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g)],removed topical MSK analgesic from headache/migraine
+PATCH_CLEAN_0047,Final_RX_NOW_v5,REMOVE,oral_ulcer_adult,BDS006745,Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g],removed skin cream from oral ulcer
+PATCH_CLEAN_0048,Final_RX_NOW_v5,REMOVE,screen_related_dry_eye_adult,BDS040614,Bakamol 500 mg bottle 100s [Paracetamol 500 mg.],removed non-ocular row from dry eye
+PATCH_CLEAN_0049,Final_RX_NOW_v5,REMOVE,tension_headache_adult,BDS001656,Difelene Gel เล็ก [Diclofenac diethylammonium 1.16 g./100 g (eq. to Diclofenac Sodium 1.0 g)],removed topical MSK analgesic from headache/migraine
+PATCH_CLEAN_0050,Final_RX_NOW_v5,REMOVE,tinea_corporis_localized_adult,BDS006745,Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0051,Final_RX_NOW_v5,REMOVE,tinea_cruris_adult,BDS040614,Bakamol 500 mg bottle 100s [Paracetamol 500 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0052,Final_RX_NOW_v5,REMOVE,tinea_cruris_adult,BDS044313,Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0053,Final_RX_NOW_v5,REMOVE,tinea_cruris_adult,BDS042357,"Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.]",removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0054,Final_RX_NOW_v5,REMOVE,tinea_cruris_adult,BDS006462,Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0055,Final_RX_NOW_v5,REMOVE,tinea_cruris_adult,BDS044520,LeoPovidone [Povidone-Iodine 10% w/v],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0056,Final_RX_NOW_v5,REMOVE,tinea_cruris_adult,BDS006745,Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0057,Final_RX_NOW_v5,REMOVE,tinea_pedis_adult,BDS006745,Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0058,Final_RX_NOW_v5,REMOVE,tinea_pruritic_rash_adult,BDS040614,Bakamol 500 mg bottle 100s [Paracetamol 500 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0059,Final_RX_NOW_v5,REMOVE,tinea_pruritic_rash_adult,BDS044313,Klean & Kare Saline (ANB) [Sodium Chloride 0.9 g./100 ml.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0060,Final_RX_NOW_v5,REMOVE,tinea_pruritic_rash_adult,BDS042357,"Difflam รสน้ำผึ้งมะนาวผสมโพรโพลิส [2,4-Dichlorobenzyl alcohol 1.2 mg.+Amylmetacresol 0.6 mg.]",removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0061,Final_RX_NOW_v5,REMOVE,tinea_pruritic_rash_adult,BDS006462,Difflam Forte Spray [Benzydamine Hydrochloride 3 mg.+Ethanol+Saccharin Sodium+Methyl Hydroxybenzoate+Glycerol+PEG-40 Hydrogenated castor oil/ml.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0062,Final_RX_NOW_v5,REMOVE,tinea_pruritic_rash_adult,BDS044520,LeoPovidone [Povidone-Iodine 10% w/v],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0063,Final_RX_NOW_v5,REMOVE,tinea_pruritic_rash_adult,BDS006745,Antergan Cream [Hydrocortisone Acetate 5 mg+Mepyramine Maleate 20 mg/1 g],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0064,Final_SWAPS_Tiered_v5,REMOVE,dysuria_lower_uti_adult,BDS001531,Cystaline [Acetylcysteine 600 mg.],removed URI modality from UTI/dysuria
+PATCH_CLEAN_0065,Final_SWAPS_Tiered_v5,REMOVE,dysuria_lower_uti_adult,BDS002655,Mucolid [Ambroxol HCl 30 mg.],removed URI modality from UTI/dysuria
+PATCH_CLEAN_0066,Final_SWAPS_Tiered_v5,REMOVE,dysuria_lower_uti_adult,BDS001255,Bisolvon [Bromhexine HCl 8 mg.],removed URI modality from UTI/dysuria
+PATCH_CLEAN_0067,Final_SWAPS_Tiered_v5,REMOVE,dysuria_lower_uti_adult,BDS008141,Bocytin Capsule [Carbocysteine 375 mg.],removed URI modality from UTI/dysuria
+PATCH_CLEAN_0068,Final_SWAPS_Tiered_v5,REMOVE,dysuria_lower_uti_adult,BDS002211,Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.],removed URI modality from UTI/dysuria
+PATCH_CLEAN_0069,Final_SWAPS_Tiered_v5,REMOVE,dysuria_lower_uti_adult,BDS040029,Alerest [Cetirizine dihydrochloride 10 mg.],removed unrelated UTI row
+PATCH_CLEAN_0070,Final_SWAPS_Tiered_v5,REMOVE,dysuria_lower_uti_adult,BDS007145,Histatabs [Chlorpheniramine Maleate 4 mg.],removed URI modality from UTI/dysuria
+PATCH_CLEAN_0071,Final_SWAPS_Tiered_v5,REMOVE,dysuria_lower_uti_adult,BDS045630,Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.],removed URI modality from UTI/dysuria
+PATCH_CLEAN_0072,Final_SWAPS_Tiered_v5,REMOVE,dysuria_lower_uti_adult,BDS040080,Actavia [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)],removed unrelated UTI row
+PATCH_CLEAN_0073,Final_SWAPS_Tiered_v5,REMOVE,eczema_dry_pruritic_adult,BDS001531,Cystaline [Acetylcysteine 600 mg.],removed URI modality from eczema/dermatitis
+PATCH_CLEAN_0074,Final_SWAPS_Tiered_v5,REMOVE,eczema_dry_pruritic_adult,BDS002655,Mucolid [Ambroxol HCl 30 mg.],removed URI modality from eczema/dermatitis
+PATCH_CLEAN_0075,Final_SWAPS_Tiered_v5,REMOVE,eczema_dry_pruritic_adult,BDS001255,Bisolvon [Bromhexine HCl 8 mg.],removed URI modality from eczema/dermatitis
+PATCH_CLEAN_0076,Final_SWAPS_Tiered_v5,REMOVE,eczema_dry_pruritic_adult,BDS008141,Bocytin Capsule [Carbocysteine 375 mg.],removed URI modality from eczema/dermatitis
+PATCH_CLEAN_0077,Final_SWAPS_Tiered_v5,REMOVE,eczema_dry_pruritic_adult,BDS002211,Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.],removed URI modality from eczema/dermatitis
+PATCH_CLEAN_0078,Final_SWAPS_Tiered_v5,REMOVE,eczema_dry_pruritic_adult,BDS007145,Histatabs [Chlorpheniramine Maleate 4 mg.],removed URI modality from eczema/dermatitis
+PATCH_CLEAN_0079,Final_SWAPS_Tiered_v5,REMOVE,eczema_dry_pruritic_adult,BDS045630,Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.],removed URI modality from eczema/dermatitis
+PATCH_CLEAN_0080,Final_SWAPS_Tiered_v5,REMOVE,fungal_intertrigo_adult,BDS040029,Alerest [Cetirizine dihydrochloride 10 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0081,Final_SWAPS_Tiered_v5,REMOVE,tinea_corporis_clotrimazole_adult,BDS040029,Alerest [Cetirizine dihydrochloride 10 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0082,Final_SWAPS_Tiered_v5,REMOVE,tinea_corporis_localized_adult,BDS040029,Alerest [Cetirizine dihydrochloride 10 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0083,Final_SWAPS_Tiered_v5,REMOVE,tinea_corporis_localized_adult,BDS001978,Fenafex 180 mg [Fexofenadine HCl 180 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0084,Final_SWAPS_Tiered_v5,REMOVE,tinea_corporis_localized_adult,BDS001010,Aerius tabslet [Desloratadine 5 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0085,Final_SWAPS_Tiered_v5,REMOVE,tinea_corporis_localized_adult,BDS008608,Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0086,Final_SWAPS_Tiered_v5,REMOVE,tinea_cruris_adult,BDS001531,Cystaline [Acetylcysteine 600 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0087,Final_SWAPS_Tiered_v5,REMOVE,tinea_cruris_adult,BDS002655,Mucolid [Ambroxol HCl 30 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0088,Final_SWAPS_Tiered_v5,REMOVE,tinea_cruris_adult,BDS001255,Bisolvon [Bromhexine HCl 8 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0089,Final_SWAPS_Tiered_v5,REMOVE,tinea_cruris_adult,BDS008141,Bocytin Capsule [Carbocysteine 375 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0090,Final_SWAPS_Tiered_v5,REMOVE,tinea_cruris_adult,BDS002211,Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0091,Final_SWAPS_Tiered_v5,REMOVE,tinea_cruris_adult,BDS040029,Alerest [Cetirizine dihydrochloride 10 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0092,Final_SWAPS_Tiered_v5,REMOVE,tinea_cruris_adult,BDS007145,Histatabs [Chlorpheniramine Maleate 4 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0093,Final_SWAPS_Tiered_v5,REMOVE,tinea_cruris_adult,BDS045630,Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0094,Final_SWAPS_Tiered_v5,REMOVE,tinea_cruris_adult,BDS040080,Actavia [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0095,Final_SWAPS_Tiered_v5,REMOVE,tinea_cruris_adult,BDS001978,Fenafex 180 mg [Fexofenadine HCl 180 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0096,Final_SWAPS_Tiered_v5,REMOVE,tinea_cruris_adult,BDS001010,Aerius tabslet [Desloratadine 5 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0097,Final_SWAPS_Tiered_v5,REMOVE,tinea_cruris_adult,BDS008608,Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0098,Final_SWAPS_Tiered_v5,REMOVE,tinea_pedis_adult,BDS040029,Alerest [Cetirizine dihydrochloride 10 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0099,Final_SWAPS_Tiered_v5,REMOVE,tinea_pedis_adult,BDS001978,Fenafex 180 mg [Fexofenadine HCl 180 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0100,Final_SWAPS_Tiered_v5,REMOVE,tinea_pedis_adult,BDS001010,Aerius tabslet [Desloratadine 5 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0101,Final_SWAPS_Tiered_v5,REMOVE,tinea_pedis_adult,BDS008608,Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0102,Final_SWAPS_Tiered_v5,REMOVE,tinea_pruritic_rash_adult,BDS001531,Cystaline [Acetylcysteine 600 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0103,Final_SWAPS_Tiered_v5,REMOVE,tinea_pruritic_rash_adult,BDS002655,Mucolid [Ambroxol HCl 30 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0104,Final_SWAPS_Tiered_v5,REMOVE,tinea_pruritic_rash_adult,BDS001255,Bisolvon [Bromhexine HCl 8 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0105,Final_SWAPS_Tiered_v5,REMOVE,tinea_pruritic_rash_adult,BDS008141,Bocytin Capsule [Carbocysteine 375 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0106,Final_SWAPS_Tiered_v5,REMOVE,tinea_pruritic_rash_adult,BDS002211,Icolid (ควบคุมจำนวน) [Dextromethorphan HBr 15 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0107,Final_SWAPS_Tiered_v5,REMOVE,tinea_pruritic_rash_adult,BDS040029,Alerest [Cetirizine dihydrochloride 10 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0108,Final_SWAPS_Tiered_v5,REMOVE,tinea_pruritic_rash_adult,BDS007145,Histatabs [Chlorpheniramine Maleate 4 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0109,Final_SWAPS_Tiered_v5,REMOVE,tinea_pruritic_rash_adult,BDS045630,Nasotapp [Brompheniramine Maleate 4 mg.+Phenylephrine HCl 10 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0110,Final_SWAPS_Tiered_v5,REMOVE,tinea_pruritic_rash_adult,BDS040080,Actavia [Xylometazoline Hydrochloride 0.1% (1 mg./1 ml.)],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0111,Final_SWAPS_Tiered_v5,REMOVE,tinea_pruritic_rash_adult,BDS001978,Fenafex 180 mg [Fexofenadine HCl 180 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0112,Final_SWAPS_Tiered_v5,REMOVE,tinea_pruritic_rash_adult,BDS001010,Aerius tabslet [Desloratadine 5 mg.],removed non-antifungal/URI/steroid row from fungal disease
+PATCH_CLEAN_0113,Final_SWAPS_Tiered_v5,REMOVE,tinea_pruritic_rash_adult,BDS008608,Muscort Cream [Menthol 5.44%+Methyl Salicylate 10.12%+Eugenol 1.36%],removed non-antifungal/URI/steroid row from fungal disease
